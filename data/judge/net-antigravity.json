@@ -1,0 +1,174 @@
+{
+    "sector":  "net",
+    "judge":  "antigravity",
+    "provider":  "antigravity",
+    "model":  "gemini-4-neon-high",
+    "effort":  "high",
+    "account":  "Antigravity (Google)",
+    "generatedAt":  "2026-11-23T05:09:35Z",
+    "costUsd":  null,
+    "stocks":  {
+                   "ALAB":  {
+                                "m":  [
+                                          15,
+                                          13,
+                                          10,
+                                          9,
+                                          9
+                                      ],
+                                "o":  [
+                                          19,
+                                          18,
+                                          15,
+                                          13,
+                                          16
+                                      ],
+                                "why_en":  "Pure-play AI connectivity leadership in PCIe 6, Scorpio switches, and CXL drives massive opportunity, though limited scale and emerging Broadcom and Marvell rivalry keep moat durability unproven.",
+                                "why_th":  "ความเป็นผู้นำด้านชิปเชื่อมต่อ AI ทั้ง PCIe 6, สวิตช์ Scorpio และ CXL สร้างโอกาสเติบโตสูงมาก แต่ขนาดธุรกิจยังเล็กและการแข่งขันจาก Broadcom กับ Marvell ทำให้ความยั่งยืนของคูเมืองยังไม่พิสูจน์ชัด"
+                            },
+                   "ANET":  {
+                                "m":  [
+                                          16,
+                                          16,
+                                          13,
+                                          14,
+                                          18
+                                      ],
+                                "o":  [
+                                          14,
+                                          16,
+                                          15,
+                                          12,
+                                          13
+                                      ],
+                                "why_en":  "EOS software lock-in and decades-proven 40%-plus margins give the sector\u0027s widest moat, paired with strong open AI Ethernet growth despite intense competition from NVIDIA Spectrum-X.",
+                                "why_th":  "ระบบปฏิบัติการ EOS ที่เปลี่ยนยากและอัตรากำไรกว่า 40% อย่างต่อเนื่องสร้างคูเมืองแกร่งสุดในกลุ่ม ควบคู่โอกาสเติบโตจาก AI Ethernet แบบเปิดแม้ต้องแข่งหนักกับ NVIDIA Spectrum-X"
+                            },
+                   "COHR":  {
+                                "m":  [
+                                          16,
+                                          11,
+                                          8,
+                                          14,
+                                          10
+                                      ],
+                                "o":  [
+                                          15,
+                                          17,
+                                          16,
+                                          16,
+                                          15
+                                      ],
+                                "why_en":  "Vertically integrated InP laser fabs and NVIDIA-backed 800G/1.6T optics create major AI bottleneck upside, while cyclical industrial units and historical M\u0026A capital intensity temper overall moat durability.",
+                                "why_th":  "โรงงานเลเซอร์ InP แบบครบวงจรและออปติก 800G/1.6T ที่ NVIDIA หนุนสร้างโอกาสจากคอขวด AI สูง แต่ธุรกิจอุตสาหกรรมที่ผันผวนและประวัติการใช้ทุนสูงกดความแกร่งของคูเมืองไว้บางส่วน"
+                            },
+                   "CRDO":  {
+                                "m":  [
+                                          15,
+                                          11,
+                                          8,
+                                          10,
+                                          9
+                                      ],
+                                "o":  [
+                                          19,
+                                          17,
+                                          16,
+                                          13,
+                                          15
+                                      ],
+                                "why_en":  "Near-monopoly AEC share and low-power SerDes IP power exceptional AI connectivity upside, but rising 1.6T silicon competition and brief profitability keep long-term moat durability moderate.",
+                                "why_th":  "ส่วนแบ่งตลาดสาย AEC เกือบผูกขาดและเทคโนโลยี SerDes ประหยัดพลังงานหนุนโอกาส AI สูงมาก แต่การแข่งขันชิป 1.6T ที่เพิ่มขึ้นและประวัติกำไรที่ยังสั้นทำให้ความทนทานของคูเมืองอยู่ในระดับกลาง"
+                            },
+                   "DELL":  {
+                                "m":  [
+                                          9,
+                                          12,
+                                          8,
+                                          16,
+                                          12
+                                      ],
+                                "o":  [
+                                          12,
+                                          16,
+                                          15,
+                                          7,
+                                          11
+                                      ],
+                                "why_en":  "Global supply-chain scale and entrenched enterprise ties anchor a steady moat and #1 OEM AI server share, but thin margins and weak bottleneck pricing power cap AI upside.",
+                                "why_th":  "ขนาดซัพพลายเชนระดับโลกและฐานลูกค้าองค์กรสร้างคูเมืองมั่นคงและส่วนแบ่งเซิร์ฟเวอร์ AI อันดับหนึ่ง แต่กำไรบางและอำนาจกำหนดราคาที่จำกัดทำให้โอกาสจาก AI ไม่สูงนัก"
+                            },
+                   "GLW":  {
+                               "m":  [
+                                         16,
+                                         13,
+                                         7,
+                                         16,
+                                         13
+                                     ],
+                               "o":  [
+                                         12,
+                                         15,
+                                         17,
+                                         13,
+                                         13
+                                     ],
+                               "why_en":  "Hard-to-copy glass and optical fiber scale underpin a durable moat and #1 hyperscale fiber position, though non-AI segments dilute pure AI exposure relative to optical-chip peers.",
+                               "why_th":  "เทคโนโลยีวัสดุศาสตร์และขนาดการผลิตไฟเบอร์ออปติกที่เลียนแบบยากสร้างคูเมืองแข็งแกร่งและตำแหน่งผู้นำดาต้าเซ็นเตอร์ แต่ธุรกิจที่ไม่ใช่ AI ทำให้สัดส่วนรายได้ AI ต่ำกว่าผู้ผลิตชิปออปติก"
+                           },
+                   "LITE":  {
+                                "m":  [
+                                          16,
+                                          12,
+                                          8,
+                                          12,
+                                          9
+                                      ],
+                                "o":  [
+                                          17,
+                                          18,
+                                          16,
+                                          17,
+                                          15
+                                      ],
+                                "why_en":  "Scarce InP EML laser chips, OCS leadership, and NVIDIA backing deliver top-tier AI bottleneck pricing power, while historical telecom cyclicality and prior losses constrain long-term moat proof.",
+                                "why_th":  "ชิปเลเซอร์ InP EML ที่ขาดแคลน ความเป็นผู้นำ OCS และแรงหนุนจาก NVIDIA สร้างอำนาจต่อรองคอขวด AI สูงสุด แต่ความผันผวนในอดีตและผลขาดทุนก่อนหน้าทำให้คูเมืองระยะยาวยังต้องพิสูจน์"
+                            },
+                   "ONDS":  {
+                                "m":  [
+                                          8,
+                                          8,
+                                          5,
+                                          5,
+                                          3
+                                      ],
+                                "o":  [
+                                          9,
+                                          14,
+                                          8,
+                                          5,
+                                          11
+                                      ],
+                                "why_en":  "Widening operating losses, small scale, and acquisition-driven defense drone competition leave a weak moat, while fast-growing counter-UAS demand offers niche AI upside against much larger primes.",
+                                "why_th":  "ผลขาดทุนที่ขยายตัว ขนาดธุรกิจเล็ก และการแข่งขันโดรนกลาโหมผ่านการควบรวมทำให้คูเมืองอ่อนแอ ขณะที่ตลาดต่อต้านโดรนเติบโตเร็วแต่ยังเป็นโอกาสเฉพาะกลุ่มเมื่อเทียบกับยักษ์ใหญ่กลาโหม"
+                            },
+                   "SMCI":  {
+                                "m":  [
+                                          9,
+                                          7,
+                                          5,
+                                          12,
+                                          8
+                                      ],
+                                "o":  [
+                                          18,
+                                          16,
+                                          13,
+                                          6,
+                                          9
+                                      ],
+                                "why_en":  "Pure-play AI liquid-cooled rack scale delivers huge AI revenue exposure, but commoditized server assembly, low switching costs, and thin volatile margins yield a narrow moat and weak pricing power.",
+                                "why_th":  "การเป็นผู้ประกอบเซิร์ฟเวอร์ AI ระบายความร้อนด้วยน้ำเต็มตัวให้สัดส่วนรายได้ AI สูงมาก แต่ธุรกิจประกอบฮาร์ดแวร์ที่เปลี่ยนเจ้าง่ายและกำไรบางผันผวนทำให้คูเมืองแคบและขาดอำนาจกำหนดราคา"
+                            }
+               }
+}

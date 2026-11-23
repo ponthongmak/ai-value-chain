@@ -1,0 +1,772 @@
+{
+    "ticker":  "VST",
+    "name":  "Vistra",
+    "symbol":  "NYSE:VST",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:52:30Z",
+    "costUsd":  0.9274344,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NYSE:VST",
+                       "yahoo":  "VST",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:48:40Z",
+                       "price":  115.25,
+                       "open":  121.72,
+                       "high":  123.61,
+                       "low":  114.85,
+                       "volume":  8334000,
+                       "avgVolume20":  6600130,
+                       "changePct":  -7.17,
+                       "historyDays":  501,
+                       "ema50":  138.25,
+                       "ema100":  143.5,
+                       "ema200":  149.86,
+                       "bb":  {
+                                  "upper":  149.35,
+                                  "middle":  131.55,
+                                  "lower":  113.75
+                              },
+                       "macd":  {
+                                    "macd":  -5.64,
+                                    "signal":  -4.71,
+                                    "hist":  -0.93
+                                },
+                       "rsi14":  34.44,
+                       "high52w":  189.29,
+                       "low52w":  110.89,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         153.8
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         153.7
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         148.76
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         146.9
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         146.22
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         138.54
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         146.38
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         148.02
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         153.52
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         158.61
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         158.83
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         163.75
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         167.26
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         162.39
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         162.87
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         167.77
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         163.49
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         162.38
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         158.63
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         153.16
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         151.05
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         157.22
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         155.73
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         154.82
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         157.98
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         158.86
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         158.12
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         158.43
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         160.23
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         152.56
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         155.44
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         157.99
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         162.33
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         166.74
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         168.98
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         163.38
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         157.08
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         148.64
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         142.81
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         148.62
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         148.19
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         155.94
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         143.23
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         140.58
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         141.38
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         140.59
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         142.87
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         144.92
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         146.68
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         146.4
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         148.13
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         146.11
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         140.52
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         142.7
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         138.94
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         136.21
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         135.66
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         139.03
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         140.03
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         139.81
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         137.09
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         137.37
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         138.08
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         143.46
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         144.22
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         149.3
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         151.72
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         151.1
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         147.05
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         148.38
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         140.73
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         141.53
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         140.39
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         143.56
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         140.67
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         140.78
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         140.41
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         137.97
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         137.94
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         138.46
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         138.02
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         140.83
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         138.35
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         139.75
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         140.02
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         144.89
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         160.5
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         166.72
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         156.14
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         161.48
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         158.13
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         162.36
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         151.79
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         154.17
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         152.02
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         149.7
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         150.32
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         156.14
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         140.83
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         140.16
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         141.73
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         146.66
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         142.72
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         140.95
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         138.37
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         134.61
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         139.59
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         120.29
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         112.89
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         124.8
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         133.92
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         131.18
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         133.45
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         134.51
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         133.01
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         130.16
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         127.15
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         125.58
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         124.15
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         115.25
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          155.26,
+                                          155.2,
+                                          154.94,
+                                          154.63,
+                                          154.3,
+                                          153.68,
+                                          153.39,
+                                          153.18,
+                                          153.2,
+                                          153.41,
+                                          153.62,
+                                          154.02,
+                                          154.54,
+                                          154.85,
+                                          155.16,
+                                          155.66,
+                                          155.96,
+                                          156.21,
+                                          156.31,
+                                          156.19,
+                                          155.98,
+                                          156.03,
+                                          156.02,
+                                          155.97,
+                                          156.05,
+                                          156.16,
+                                          156.24,
+                                          156.32,
+                                          156.48,
+                                          156.32,
+                                          156.29,
+                                          156.36,
+                                          156.59,
+                                          156.99,
+                                          157.46,
+                                          157.69,
+                                          157.67,
+                                          157.31,
+                                          156.74,
+                                          156.43,
+                                          156.1,
+                                          156.1,
+                                          155.59,
+                                          155,
+                                          154.47,
+                                          153.92,
+                                          153.49,
+                                          153.16,
+                                          152.9,
+                                          152.65,
+                                          152.47,
+                                          152.22,
+                                          151.76,
+                                          151.41,
+                                          150.92,
+                                          150.34,
+                                          149.76,
+                                          149.34,
+                                          148.98,
+                                          148.62,
+                                          148.17,
+                                          147.74,
+                                          147.36,
+                                          147.21,
+                                          147.09,
+                                          147.18,
+                                          147.36,
+                                          147.51,
+                                          147.49,
+                                          147.52,
+                                          147.26,
+                                          147.03,
+                                          146.77,
+                                          146.64,
+                                          146.41,
+                                          146.19,
+                                          145.96,
+                                          145.65,
+                                          145.35,
+                                          145.08,
+                                          144.8,
+                                          144.64,
+                                          144.4,
+                                          144.22,
+                                          144.05,
+                                          144.08,
+                                          144.73,
+                                          145.59,
+                                          146,
+                                          146.61,
+                                          147.06,
+                                          147.66,
+                                          147.82,
+                                          148.07,
+                                          148.23,
+                                          148.29,
+                                          148.37,
+                                          148.67,
+                                          148.36,
+                                          148.04,
+                                          147.79,
+                                          147.75,
+                                          147.55,
+                                          147.29,
+                                          146.94,
+                                          146.46,
+                                          146.19,
+                                          145.17,
+                                          143.91,
+                                          143.16,
+                                          142.8,
+                                          142.34,
+                                          141.99,
+                                          141.7,
+                                          141.36,
+                                          140.92,
+                                          140.38,
+                                          139.8,
+                                          139.19,
+                                          138.25
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Strong Q3 and 2027 guide can\u0027t offset Texas policy risk; VST near 52-week low",
+               "summary":  "Vistra\u0027s Q3 numbers were strong. Adjusted EBITDA was a record $2.38B, up from $1.58B, and on 6 Nov 2026 the company set 2027 guidance at $7.7–8.5B. The stock still fell. Gina Hinojosa won the Texas governor\u0027s race on 3 Nov after campaigning to pause new data centers, KeyBanc downgraded VST the next day, and the stock dropped 13.8%. It then slid again in the November AI sell-off and closed at $115.25 on 20 Nov, down 7.17% that day. That is about 4% above the 52-week low, and price sits below all three EMAs. The earnings outlook improved, but the political risk to Texas data-center demand is new.",
+               "pros":  [
+                            "Q3 adjusted EBITDA hit a record $2.38B, up more than 50% year on year, and the 2026 guidance midpoint was raised to $7.1–7.5B.",
+                            "About 98% of expected 2027 output is already hedged, so the new $7.7–8.5B 2027 EBITDA range is largely locked in.",
+                            "The board added $1.5B to the buyback, leaving about $2.5B to use by end-2028, with about 339M shares outstanding.",
+                            "The Cogentrix deal closed in October and added about 5,500 MW of gas plants, only about 11% of it in Texas, which reduces dependence on ERCOT.",
+                            "At about 13–14x forward earnings, the stock trades below its five-year average of about 15x."
+                        ],
+               "cons":  [
+                            "Texas governor-elect Hinojosa wants to extend the pause on new data centers, a direct threat to Vistra\u0027s largest market.",
+                            "Texas wholesale power has averaged only about $30/MWh in 2026, and only about 78% of 2028 output is hedged.",
+                            "The 1,200 MW at Comanche Peak nuclear plant still has no long-term data-center buyer.",
+                            "Q-Generation Holdings registered up to 5M VST shares for resale, and its lock-up ends on 30 Jan 2027.",
+                            "Price is below the EMA 50, 100 and 200, and the 7.17% drop on 20 Nov came on volume 26% above average."
+                        ],
+               "opportunityCheck":  "Exposure, market growth and position look reasonable. Vistra does sell power to hyperscalers (Meta, AWS, Microsoft solar), but most of its revenue is still general wholesale and retail power. I would lower the bottleneck and pricing-power score. Power is scarce in theory, but ERCOT prices near $30/MWh, a Texas data-center pause and regulators pushing back on who pays for data-center power all limit how much Vistra can charge. The Comanche Peak deal that hasn\u0027t been signed yet still supports the optionality score.",
+               "technical":  "Trend: VST closed at $115.25 on 20 Nov 2026, below its EMA 50 ($138.25), EMA 100 ($143.50) and EMA 200 ($149.86). EMAs are smoothed average prices. With the short average under the long ones in that order, the stock is in a clear downtrend. Momentum: MACD (a trend-momentum gauge built from two EMAs) is −5.64, below its signal line at −4.71, and the histogram is −0.93. Downside momentum is still building, not fading. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 34.44, which is weak and close to oversold but not there yet. Position: price is just above the lower Bollinger Band at $113.75. The bands sit about two standard deviations either side of the 20-day average of $131.55. Price is only about 4% above the 52-week low of $110.89, and well below the 52-week high of $189.29. Volume: 8.33M shares traded on the 7.17% drop, about 26% above the 20-day average of 6.60M, and the close was near the day\u0027s low of $114.85, so sellers were in control. Support is around $110.89–113.75; resistance is the $131.55 mid-band, then the EMA 50 near $138.",
+               "fundamental":  "Vistra sells AI-era electricity from a large gas and nuclear fleet. It has signed power contracts with Meta and AWS that pay for nuclear uprates, a Microsoft-contracted 405 MW Pulaski solar plant is now running, and in Q3 it signed a 20-year, 207 MW contract with New Era Energy and Digital at its Odessa gas plant in Texas. Q3 2026 net income was $1.14B, including a $559M unrealized hedge gain. Adjusted EBITDA rose to $2.38B. In October the DOE offered a conditional loan of up to $4.2B for nuclear upgrades in Pennsylvania and Ohio. The weak spots are Texas, about 40% of capacity, where prices are low and data-center policy is uncertain, and 2028, which is only 78% hedged. Pro-forma liquidity is about $5.4B after the Cogentrix purchase and the redemption of preferred shares.",
+               "news":  [
+                            "3–5 Nov 2026: Gina Hinojosa won the Texas governor\u0027s race on a platform that included pausing new data centers. On 4 Nov KeyBanc cut VST to Sector Weight from Overweight, and the stock fell about 13.8% to a closing low of $112.89 on 5 Nov.",
+                            "6 Nov 2026: Q3 adjusted EBITDA was a record $2,378M, up from $1,581M. Vistra narrowed 2026 guidance to $7.1–7.5B and set 2027 guidance at $7.7–8.5B, and the stock jumped about 10.6% to $124.80.",
+                            "6 Nov 2026: The board added $1.5B to the buyback, leaving about $2.5B to use by end-2028. Vistra also confirmed that the roughly $2.2B Cogentrix acquisition, about 5,500 MW of gas plants, closed in October.",
+                            "9 Nov 2026: Vistra filed a resale prospectus for up to 5M shares held by Q-Generation Holdings, the seller in an acquisition. Vistra gets no proceeds, and the shares are locked up until 30 Jan 2027.",
+                            "17 Nov 2026: BMO raised its target to $196 from $188 after cutting it on 5 Nov, and Bernstein moved its target to $182 from $181. Both kept Outperform ratings.",
+                            "19–20 Nov 2026: VST fell 6.27% to $120.27, then 7.17% to $115.25, during a broad sell-off in AI-linked stocks. I found no company-specific news behind these two days."
+                        ],
+               "caution":  "Most of Vistra\u0027s earnings risk is now political, not operational. A new Texas governor who favors a data-center pause could slow the large-load contracts that justified the stock\u0027s 2025 rally. Low ERCOT prices hurt the roughly 22% of 2028 output that is not yet hedged. Up to 5M resale shares could come to market after 30 Jan 2027. The chart is in a full downtrend, with falling MACD and selling on above-average volume. A break below the $110.89 low would leave no recent support level.",
+               "opportunity":  "The business is earning more even as the share price falls. EBITDA guidance rises from $7.1–7.5B in 2026 to $7.7–8.5B in 2027, and 2027 is about 98% hedged. Steady buybacks are shrinking the share count. Management expects adjusted free cash flow before growth per share to grow about 70% from 2027 to 2030 even without higher power prices. Signing a buyer for Comanche Peak\u0027s 1,200 MW, or more uprate deals with hyperscalers outside Texas, would lower the Texas risk. With RSI near 34 and price at the lower Bollinger Band, the stock is stretched to the downside.",
+               "risks":  [
+                             "Texas data-center moratorium extended under the incoming governor",
+                             "ERCOT wholesale prices staying near $30/MWh into 2028",
+                             "Regulators blocking or repricing power deals between plants and data centers",
+                             "Resale of up to 5M shares after the 30 Jan 2027 lock-up ends",
+                             "A broader AI-capex sell-off pulling down all independent power producers"
+                         ]
+           },
+    "th":  {
+               "headline":  "ผลงาน Q3 และไกด์ปี 2027 แข็งแรง แต่ยังสู้ความเสี่ยงการเมืองเท็กซัสไม่ได้ ราคาใกล้จุดต่ำสุด 52 สัปดาห์",
+               "summary":  "ผลประกอบการ Q3 ของ Vistra ออกมาดี Adjusted EBITDA ทำสถิติใหม่ที่ $2.38B (ปีก่อน $1.58B) และวันที่ 6 พ.ย. 2026 บริษัทให้ไกด์ปี 2027 ไว้ที่ $7.7–8.5B แต่หุ้นกลับลง วันที่ 3 พ.ย. Gina Hinojosa ชนะเลือกตั้งผู้ว่าฯ เท็กซัสด้วยนโยบายพักการสร้างดาต้าเซ็นเตอร์ใหม่ วันถัดมา KeyBanc ลดอันดับหุ้น ราคาร่วง 13.8% จากนั้นโดนแรงขายหุ้น AI อีกระลอก ปิดวันที่ 20 พ.ย. ที่ $115.25 ลดลง 7.17% ในวันเดียว ราคาเหนือจุดต่ำสุด 52 สัปดาห์เพียงราว 4% และอยู่ใต้ EMA ทั้งสามเส้น ภาพกำไรดีขึ้นจริง แต่ความเสี่ยงทางการเมืองต่อดีมานด์ดาต้าเซ็นเตอร์ในเท็กซัสเป็นเรื่องใหม่",
+               "pros":  [
+                            "Adjusted EBITDA ไตรมาส 3 ทำสถิติ $2.38B โตกว่า 50% และขยับกึ่งกลางไกด์ปี 2026 ขึ้นเป็น $7.1–7.5B",
+                            "ไฟฟ้าที่คาดว่าจะผลิตในปี 2027 ทำสัญญาล็อกราคาไว้แล้วราว 98% กรอบ EBITDA ใหม่ $7.7–8.5B จึงค่อนข้างแน่นอน",
+                            "บอร์ดเพิ่มวงเงินซื้อหุ้นคืนอีก $1.5B เหลือใช้ราว $2.5B ภายในสิ้นปี 2028 ขณะที่มีหุ้นอยู่ราว 339 ล้านหุ้น",
+                            "ดีล Cogentrix ปิดในเดือน ต.ค. ได้โรงไฟฟ้าก๊าซเพิ่มราว 5,500 MW และมีเพียง ~11% อยู่ในเท็กซัส ช่วยลดการพึ่งพา ERCOT",
+                            "P/E ล่วงหน้าราว 13–14 เท่า ต่ำกว่าค่าเฉลี่ย 5 ปีที่ราว 15 เท่า"
+                        ],
+               "cons":  [
+                            "ว่าที่ผู้ว่าฯ เท็กซัส Hinojosa ต้องการขยายการพักสร้างดาต้าเซ็นเตอร์ใหม่ ซึ่งกระทบตลาดใหญ่ที่สุดของ Vistra โดยตรง",
+                            "ราคาไฟฟ้าขายส่งในเท็กซัสปี 2026 เฉลี่ยเพียง ~$30/MWh และไฟฟ้าปี 2028 ล็อกราคาไว้แค่ ~78%",
+                            "กำลังผลิต 1,200 MW ที่โรงไฟฟ้านิวเคลียร์ Comanche Peak ยังไม่มีลูกค้าดาต้าเซ็นเตอร์ระยะยาว",
+                            "Q-Generation Holdings จดทะเบียนขายหุ้น VST ได้สูงสุด 5 ล้านหุ้น และช่วงห้ามขายสิ้นสุด 30 ม.ค. 2027",
+                            "ราคาอยู่ใต้ EMA 50/100/200 และวันที่ราคาลง 7.17% (20 พ.ย.) มีวอลุ่มสูงกว่าค่าเฉลี่ย 26%"
+                        ],
+               "opportunityCheck":  "คะแนนด้านสัดส่วนรายได้จาก AI การเติบโตของตลาด และสถานะในตลาด ดูสมเหตุสมผล Vistra ขายไฟให้ไฮเปอร์สเกลเลอร์จริง (Meta, AWS และโซลาร์ของ Microsoft) แต่รายได้ส่วนใหญ่ยังมาจากการขายไฟขายส่งและค้าปลีกทั่วไป คะแนนที่ควรปรับลงคือด้านคอขวดและอำนาจตั้งราคา แม้ไฟฟ้าจะขาดแคลนในทางทฤษฎี แต่ราคา ERCOT ที่ราว $30/MWh นโยบายพักดาต้าเซ็นเตอร์ในเท็กซัส และการที่หน่วยงานกำกับฯ ตั้งคำถามว่าใครควรจ่ายค่าไฟให้ดาต้าเซ็นเตอร์ ล้วนจำกัดการขึ้นราคา ส่วนดีล Comanche Peak ที่ยังไม่ได้เซ็นยังทำให้คะแนนด้านโอกาสต่อยอดสมเหตุสมผล",
+               "technical":  "แนวโน้ม: VST ปิดวันที่ 20 พ.ย. 2026 ที่ $115.25 ต่ำกว่า EMA 50 ($138.25), EMA 100 ($143.50) และ EMA 200 ($149.86) EMA คือเส้นค่าเฉลี่ยราคาแบบถ่วงน้ำหนัก เมื่อเส้นระยะสั้นอยู่ใต้เส้นระยะยาวเรียงกันแบบนี้ แสดงว่าหุ้นอยู่ในขาลงชัดเจน โมเมนตัม: MACD (ตัววัดแรงส่งของแนวโน้มที่คำนวณจาก EMA สองเส้น) อยู่ที่ −5.64 ต่ำกว่าเส้นสัญญาณ −4.71 และฮิสโตแกรมติดลบ −0.93 แปลว่าแรงขายยังเพิ่มขึ้น ไม่ได้อ่อนลง RSI 14 (มาตรวัดแรงส่ง 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 34.44 อ่อนแอและใกล้โซน oversold แต่ยังไม่ถึง ตำแหน่งราคา: ราคาอยู่เหนือขอบล่าง Bollinger Band ที่ $113.75 เล็กน้อย กรอบนี้ห่างจากค่าเฉลี่ย 20 วัน ($131.55) ราว 2 ส่วนเบี่ยงเบนมาตรฐาน ราคาสูงกว่าจุดต่ำสุด 52 สัปดาห์ ($110.89) แค่ราว 4% และห่างจากจุดสูงสุด $189.29 มาก วอลุ่ม: วันที่ราคาลง 7.17% มีการซื้อขาย 8.33 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (6.60 ล้าน) ราว 26% และปิดใกล้จุดต่ำสุดของวันที่ $114.85 แสดงว่าฝั่งขายคุมตลาด แนวรับอยู่ที่ $110.89–113.75 แนวต้านคือเส้นกลาง $131.55 และ EMA 50 แถว $138",
+               "fundamental":  "Vistra ขายไฟฟ้ายุค AI จากโรงไฟฟ้าก๊าซและนิวเคลียร์ขนาดใหญ่ บริษัทมีสัญญาขายไฟกับ Meta และ AWS ซึ่งช่วยจ่ายค่าเพิ่มกำลังผลิตโรงนิวเคลียร์ โรงโซลาร์ Pulaski ขนาด 405 MW ที่ขายไฟให้ Microsoft เริ่มเดินเครื่องแล้ว และใน Q3 ยังเซ็นสัญญา 20 ปี ขนาด 207 MW กับ New Era Energy and Digital ที่โรงไฟฟ้าก๊าซ Odessa ในเท็กซัส กำไรสุทธิ Q3 2026 อยู่ที่ $1.14B ซึ่งรวมกำไรทางบัญชีจากสัญญาป้องกันความเสี่ยงที่ยังไม่เกิดขึ้นจริง $559M Adjusted EBITDA เพิ่มเป็น $2.38B ในเดือน ต.ค. กระทรวงพลังงานสหรัฐฯ (DOE) ให้คำมั่นเงินกู้แบบมีเงื่อนไขสูงสุด $4.2B สำหรับอัปเกรดโรงนิวเคลียร์ในเพนซิลเวเนียและโอไฮโอ จุดอ่อนคือเท็กซัส ซึ่งเป็นราว 40% ของกำลังผลิต ทั้งราคาไฟต่ำและนโยบายดาต้าเซ็นเตอร์ไม่แน่นอน อีกจุดคือปี 2028 ที่ล็อกราคาไว้แค่ 78% สภาพคล่องหลังรวมดีล Cogentrix และการไถ่ถอนหุ้นบุริมสิทธิอยู่ที่ราว $5.4B",
+               "news":  [
+                            "3–5 พ.ย. 2026: Gina Hinojosa ชนะเลือกตั้งผู้ว่าฯ เท็กซัสด้วยนโยบายที่รวมการพักสร้างดาต้าเซ็นเตอร์ใหม่ วันที่ 4 พ.ย. KeyBanc ลดอันดับ VST จาก Overweight เป็น Sector Weight หุ้นร่วงราว 13.8% และปิดต่ำสุดที่ $112.89 ในวันที่ 5 พ.ย.",
+                            "6 พ.ย. 2026: Adjusted EBITDA ไตรมาส 3 ทำสถิติ $2,378M (ปีก่อน $1,581M) บริษัทแคบกรอบไกด์ปี 2026 เป็น $7.1–7.5B และให้ไกด์ปี 2027 ที่ $7.7–8.5B หุ้นเด้งราว 10.6% ไปที่ $124.80",
+                            "6 พ.ย. 2026: บอร์ดเพิ่มวงเงินซื้อหุ้นคืน $1.5B เหลือใช้ราว $2.5B ภายในสิ้นปี 2028 และยืนยันว่าดีลซื้อ Cogentrix มูลค่าราว $2.2B (โรงไฟฟ้าก๊าซราว 5,500 MW) ปิดแล้วในเดือน ต.ค.",
+                            "9 พ.ย. 2026: Vistra ยื่นหนังสือชี้ชวนให้ Q-Generation Holdings ผู้ขายกิจการให้ Vistra ขายต่อหุ้นได้สูงสุด 5 ล้านหุ้น บริษัทไม่ได้รับเงิน และหุ้นถูกห้ามขายถึง 30 ม.ค. 2027",
+                            "17 พ.ย. 2026: BMO ปรับราคาเป้าหมายขึ้นเป็น $196 จาก $188 หลังเพิ่งลดไปเมื่อ 5 พ.ย. ส่วน Bernstein ปรับเป็น $182 จาก $181 ทั้งสองยังให้ Outperform",
+                            "19–20 พ.ย. 2026: VST ลง 6.27% เหลือ $120.27 แล้วลงต่อ 7.17% ปิดที่ $115.25 ท่ามกลางแรงขายหุ้นกลุ่ม AI ทั้งตลาด ไม่พบข่าวเฉพาะของบริษัทที่เป็นสาเหตุในสองวันนี้"
+                        ],
+               "caution":  "ความเสี่ยงต่อกำไรของ Vistra ตอนนี้มาจากการเมืองมากกว่าการดำเนินงาน ผู้ว่าฯ เท็กซัสคนใหม่ที่สนับสนุนการพักดาต้าเซ็นเตอร์อาจทำให้สัญญากับลูกค้าใช้ไฟรายใหญ่ ซึ่งเป็นเหตุผลที่หุ้นพุ่งในปี 2025 เดินช้าลง ราคา ERCOT ที่ต่ำกระทบไฟฟ้าปี 2028 ราว 22% ที่ยังไม่ล็อกราคา หลัง 30 ม.ค. 2027 อาจมีหุ้นถูกขายออกมาสูงสุด 5 ล้านหุ้น กราฟเป็นขาลงเต็มรูปแบบ MACD ยังลง และมีแรงขายพร้อมวอลุ่มสูงกว่าค่าเฉลี่ย ถ้าราคาหลุด $110.89 จะไม่มีแนวรับในช่วงหลังให้อ้างอิง",
+               "opportunity":  "ธุรกิจทำเงินได้มากขึ้นแม้ราคาหุ้นจะลง ไกด์ EBITDA เพิ่มจาก $7.1–7.5B ในปี 2026 เป็น $7.7–8.5B ในปี 2027 และปี 2027 ล็อกราคาไว้แล้ว ~98% การซื้อหุ้นคืนต่อเนื่องทำให้จำนวนหุ้นลดลง ผู้บริหารคาดว่ากระแสเงินสดอิสระก่อนลงทุนเพื่อการเติบโตต่อหุ้นจะโตราว 70% ระหว่างปี 2027–2030 แม้ราคาไฟจะไม่ฟื้น หากได้ลูกค้าสำหรับ 1,200 MW ที่ Comanche Peak หรือได้ดีลเพิ่มกำลังผลิตกับไฮเปอร์สเกลเลอร์นอกเท็กซัส จะช่วยลดความเสี่ยงเท็กซัส ตอนนี้ RSI ราว 34 และราคาอยู่ที่ขอบล่าง Bollinger Band แสดงว่าหุ้นถูกขายลงมาค่อนข้างแรงแล้ว",
+               "risks":  [
+                             "รัฐบาลเท็กซัสชุดใหม่ขยายการพักสร้างดาต้าเซ็นเตอร์",
+                             "ราคาไฟขายส่ง ERCOT ยังอยู่แถว $30/MWh ไปถึงปี 2028",
+                             "หน่วยงานกำกับฯ ขัดขวางหรือกดราคาดีลขายไฟระหว่างโรงไฟฟ้ากับดาต้าเซ็นเตอร์",
+                             "หุ้นสูงสุด 5 ล้านหุ้นอาจถูกขายหลังพ้นช่วงห้ามขายวันที่ 30 ม.ค. 2027",
+                             "แรงขายหุ้นที่ผูกกับการลงทุน AI ลากผู้ผลิตไฟฟ้าอิสระทั้งกลุ่มลง"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "Vistra Reports Third Quarter 2026 Results (Form 8-K, Exhibit 99.1)",
+                        "publisher":  "SEC EDGAR / Vistra Corp.",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001692819/000169281926000023/vistra-20260930xearningsre.htm",
+                        "date":  "2026-11-06"
+                    },
+                    {
+                        "title":  "Vistra Corp. Form 424B7 resale prospectus supplement (Q-Generation Holdings)",
+                        "publisher":  "SEC EDGAR / Vistra Corp.",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001692819/000114036126042789/ny20084968x1_424b7.htm",
+                        "date":  "2026-11-09"
+                    },
+                    {
+                        "title":  "Vistra Is Still Down 17% This Year: Did Earnings Just Mark the Bottom?",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/vistra-still-down-17-did-130040456.html",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Vistra Corp (VST) Shares Plunge 13.5% Amid Regulatory Concerns Post-Texas Midterms",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9170427/vistra-corp-vst-shares-plunge-135-amid-regulatory-concerns-posttexas-midterms",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "Only 11% of the Power Plants Vistra Just Bought Are in Texas. Here\u0027s Why That Matters After the Election.",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/investing/2026/11/17/only-11-of-the-power-plants-vistra-just-bought-are/",
+                        "date":  "2026-11-17"
+                    },
+                    {
+                        "title":  "1 Compelling Reason to Buy Vistra Stock Before November Ends",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/investing/2026/11/21/1-compelling-reason-to-buy-vistra-stock-before-november-ends/",
+                        "date":  "2026-11-21"
+                    },
+                    {
+                        "title":  "Vistra Keeps Sliding: Why BMO Sees 51% Upside",
+                        "publisher":  "TIKR",
+                        "url":  "https://www.tikr.com/blog/vistra-keeps-sliding-why-bmo-sees-51-upside",
+                        "date":  "2026-11-17"
+                    },
+                    {
+                        "title":  "Vistra Shares Fall 6.27% to $120.27 as Moving Averages Decline",
+                        "publisher":  "TokenPost",
+                        "url":  "https://www.tokenpost.com/news/investing/61932",
+                        "date":  "2026-11-20"
+                    }
+                ]
+}

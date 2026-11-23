@@ -1,0 +1,728 @@
+{
+    "ticker":  "IONQ",
+    "name":  "IonQ",
+    "symbol":  "NYSE:IONQ",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:04:20Z",
+    "costUsd":  0.6141379,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NYSE:IONQ",
+                       "yahoo":  "IONQ",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:02:03Z",
+                       "price":  20.72,
+                       "open":  22.3,
+                       "high":  22.75,
+                       "low":  20.51,
+                       "volume":  29921100,
+                       "avgVolume20":  23458635,
+                       "changePct":  -8.76,
+                       "ema50":  33.22,
+                       "ema100":  37.12,
+                       "ema200":  40.25,
+                       "bb":  {
+                                  "upper":  37.42,
+                                  "middle":  29.35,
+                                  "lower":  21.28
+                              },
+                       "macd":  {
+                                    "macd":  -3.08,
+                                    "signal":  -2.26,
+                                    "hist":  -0.82
+                                },
+                       "rsi14":  29.16,
+                       "high52w":  73.65,
+                       "low52w":  20.51,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         68.23
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         65.66
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         56.78
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         62.8
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         56.69
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         56.63
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         57.99
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         57.85
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         61.18
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         56.06
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         54.69
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         56.55
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         58.32
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         57.85
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         53.6
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         50.56
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         49.31
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         53.88
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         53.26
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         51.4
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         49.12
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         48.87
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         45.36
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         45.08
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         44.77
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         42.86
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         38.88
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         39.29
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         37.51
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         35.1
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         34.78
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         34.24
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         35.51
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         34.68
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         34.07
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         32.84
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         35.92
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         33.88
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         31.99
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         35.77
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         36.44
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         38.85
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         41.72
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         39.93
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         39.72
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         44.43
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         42.53
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         43.44
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         45.2
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         44.98
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         46.26
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         46.84
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         44.12
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         43.36
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         41.53
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         44.86
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         41.06
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         42.05
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         40.03
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         42.46
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         39.2
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         39.31
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         37.78
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         37.64
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         39.02
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         39.52
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         40.47
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         38.14
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         36.84
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         36.75
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         37.5
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         37.05
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         36.84
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         40.34
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         39.13
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         40.51
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         40.74
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         42.54
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         44.98
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         45.48
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         44.58
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         43.91
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         43.86
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         43.99
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         43.77
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         42.97
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         43.29
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         41.34
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         39.45
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         39.89
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         36.27
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         34.73
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         31.42
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         34.35
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         31.28
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         30.78
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         31.26
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         32.28
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         31.16
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         31.27
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         30.76
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         32.95
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         32.43
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         31.72
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         30.04
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         28.17
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         29.99
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         29.54
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         26.43
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         32.62
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         35.34
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         34.99
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         34.06
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         30.86
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         28.88
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         26.45
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         24.84
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         23.48
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         22.71
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         20.72
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          50.94,
+                                          51.52,
+                                          51.73,
+                                          52.16,
+                                          52.34,
+                                          52.51,
+                                          52.72,
+                                          52.92,
+                                          53.25,
+                                          53.36,
+                                          53.41,
+                                          53.53,
+                                          53.72,
+                                          53.88,
+                                          53.87,
+                                          53.74,
+                                          53.57,
+                                          53.58,
+                                          53.57,
+                                          53.48,
+                                          53.31,
+                                          53.14,
+                                          52.83,
+                                          52.53,
+                                          52.22,
+                                          51.86,
+                                          51.35,
+                                          50.87,
+                                          50.35,
+                                          49.75,
+                                          49.17,
+                                          48.58,
+                                          48.07,
+                                          47.54,
+                                          47.01,
+                                          46.46,
+                                          46.05,
+                                          45.57,
+                                          45.04,
+                                          44.67,
+                                          44.35,
+                                          44.13,
+                                          44.04,
+                                          43.88,
+                                          43.71,
+                                          43.74,
+                                          43.7,
+                                          43.69,
+                                          43.74,
+                                          43.79,
+                                          43.89,
+                                          44.01,
+                                          44.01,
+                                          43.98,
+                                          43.89,
+                                          43.93,
+                                          43.81,
+                                          43.74,
+                                          43.6,
+                                          43.55,
+                                          43.38,
+                                          43.22,
+                                          43.01,
+                                          42.8,
+                                          42.65,
+                                          42.53,
+                                          42.45,
+                                          42.28,
+                                          42.07,
+                                          41.86,
+                                          41.69,
+                                          41.5,
+                                          41.32,
+                                          41.28,
+                                          41.2,
+                                          41.17,
+                                          41.15,
+                                          41.21,
+                                          41.36,
+                                          41.52,
+                                          41.64,
+                                          41.73,
+                                          41.81,
+                                          41.9,
+                                          41.97,
+                                          42.01,
+                                          42.06,
+                                          42.03,
+                                          41.93,
+                                          41.85,
+                                          41.63,
+                                          41.36,
+                                          40.97,
+                                          40.71,
+                                          40.34,
+                                          39.97,
+                                          39.63,
+                                          39.34,
+                                          39.02,
+                                          38.71,
+                                          38.4,
+                                          38.19,
+                                          37.96,
+                                          37.72,
+                                          37.42,
+                                          37.05,
+                                          36.78,
+                                          36.49,
+                                          36.1,
+                                          35.96,
+                                          35.94,
+                                          35.9,
+                                          35.83,
+                                          35.63,
+                                          35.37,
+                                          35.02,
+                                          34.62,
+                                          34.18,
+                                          33.73,
+                                          33.22
+                                      ]
+                   },
+    "en":  {
+               "headline":  "IonQ hits 52-week low as CFO exit and dilution overshadow record quarter",
+               "technical":  "IONQ closed at $20.72 on 20 Nov 2026 (−8.76%), just above the day\u0027s low of $20.51. That low is also the new 52-week low. The trend is clearly down. Price sits far below the EMA 50 ($33.22), EMA 100 ($37.12) and EMA 200 ($40.25), the moving averages that track the short-, medium- and long-term trend. All three are stacked in bearish order (50 \u003c 100 \u003c 200). Momentum agrees. MACD, a trend-momentum gauge, is −3.08, below its signal line at −2.26, with a histogram of −0.82, so selling pressure is still growing rather than fading. RSI 14, a 0–100 momentum gauge where under 30 means oversold, is 29.16, just inside oversold territory. Price closed below the lower Bollinger Band at $21.28. The bands mark a typical ±2 standard-deviation range around the 20-day average of $29.35, so a close below them signals a stretched move. Volume of 29.9M shares was about 1.28× the 20-day average of 23.5M, which confirms the selling. Nearest support is the $20.51 low. First resistance is the lower band near $21.28, then the 20-day midline at $29.35 and the EMA 50 at $33.22.",
+               "fundamental":  "On 5 Nov 2026 IonQ reported Q3 revenue of $173.8M (+336% y/y), beating the roughly $141M consensus. It raised 2026 guidance to $505–515M from $450–460M. About $83.5M of revenue came from the newly consolidated SkyWater foundry, while the core IonQ Platform segment grew 127% to $90.3M. Backlog (RPO) more than doubled to $1.2B, and Superion 256 capacity is reported sold out for 2027. Losses remain heavy: an operating loss of $433.1M and an adjusted EBITDA loss of $133.6M. The $564M GAAP profit came from a non-cash warrant gain. Pro forma cash is about $3.7B. In the AI value chain, IonQ is still an early-stage bet on quantum computing rather than a current earner from AI infrastructure. Two milestones support the trapped-ion claim: advancing to DARPA QBI Stage C, the only trapped-ion firm to do so, and NVIDIA\u0027s on-premise Superion 256 deployment.",
+               "news":  [
+                            "5 Nov 2026: Q3 revenue of $173.8M (+336% y/y) beat estimates, and 2026 guidance was raised to $505–515M. The stock had fallen 10.5% during that day\u0027s broad AI and chip sell-off, then rose about 18% on 6 Nov.",
+                            "6 Nov 2026: Cantor Fitzgerald cut its price target to $60 from $70 after the results but kept its positive view.",
+                            "3 Nov 2026: IonQ closed its all-stock purchase of zero-trust security firm Elisity for about $1.3B, including up to $150M in earnouts. The deal adds to the share count after a $2.0B offering at $40 that closed on 16 Oct.",
+                            "13 Nov 2026: CFO Inder Singh stepped down effective immediately, and no reason was given. CEO Niccolo de Masi is acting finance chief until Commvault CFO Gary Merrill joins on 3 Dec, and the stock fell 6.42% to $28.88.",
+                            "13 Nov 2026: A prospectus supplement registered up to 34.58M shares for resale by existing holders. IonQ receives no proceeds, and the filing creates a potential supply overhang.",
+                            "16–20 Nov 2026: The quantum sector sell-off continued, with IonQ down about 8% on 16 Nov, 5% on 18 Nov and 8.76% on 20 Nov. From 20 Oct, IonQ lost about 33%, Rigetti 37% and D-Wave 44%."
+                        ],
+               "caution":  "The chart shows no confirmed bottom. Price is at a fresh 52-week low, below all three EMAs, and MACD is still widening lower. In a downtrend, RSI can stay oversold for weeks. Share supply is a real issue: the $2.0B October offering, the roughly $1.3B all-stock Elisity deal and 34.6M registered resale shares. An unexplained CFO exit eight days after earnings, two large integrations at once and a $433M quarterly operating loss all raise execution risk. Higher bond yields also weigh on speculative growth stocks.",
+               "opportunity":  "The business news was stronger than the share price suggests: record revenue, raised guidance, a $1.2B backlog and Superion 256 capacity reported sold out for 2027. DARPA QBI Stage C and NVIDIA\u0027s on-premise Superion 256 order are outside validation of the trapped-ion technology. About $3.7B of pro forma cash gives years of runway. The close below the lower Bollinger Band with RSI under 30 marks a stretched condition. A move back above $21.28 and MACD crossing back above its signal line would be early signs of stabilisation.",
+               "risks":  [
+                             "Further dilution from the 34.58M-share resale registration and future all-stock deals",
+                             "Leadership and governance questions after the sudden, unexplained CFO departure",
+                             "Integration risk from absorbing SkyWater and Elisity at the same time, plus heavy operating losses ($433.1M in Q3)",
+                             "Revenue mix moving toward foundry and security, which weakens the pure trapped-ion story",
+                             "A sector-wide sell-off in speculative AI and quantum stocks while bond yields are high"
+                         ],
+               "summary":  "IONQ is in a steep downtrend. It closed at $20.72 on 20 Nov 2026, a new 52-week low and about 72% below its $73.65 high. Price is below every major EMA, MACD is bearish and RSI is oversold at 29.16. The selling mostly reflects sector-wide de-risking plus company-specific overhangs: dilution, a 34.6M-share resale registration and an abrupt CFO exit. Operations were not the problem, since Q3 beat estimates and guidance rose. DARPA Stage C and the NVIDIA order support the trapped-ion thesis, but governance and dilution need watching. Technical stance: bearish."
+           },
+    "th":  {
+               "headline":  "IonQ ลงทำจุดต่ำสุดรอบ 52 สัปดาห์ CFO ลาออกและการเพิ่มทุนกลบงบที่ทำสถิติ",
+               "technical":  "IONQ ปิดที่ $20.72 เมื่อ 20 พ.ย. 2026 (−8.76%) เหนือราคาต่ำสุดของวันที่ $20.51 เพียงเล็กน้อย และ $20.51 ก็เป็นจุดต่ำสุดใหม่รอบ 52 สัปดาห์ด้วย แนวโน้มเป็นขาลงชัดเจน ราคาอยู่ต่ำกว่า EMA 50 ($33.22), EMA 100 ($37.12) และ EMA 200 ($40.25) ซึ่งเป็นเส้นค่าเฉลี่ยที่บอกแนวโน้มระยะสั้น กลาง และยาว ทั้งสามเส้นเรียงตัวแบบขาลง (50 \u003c 100 \u003c 200) โมเมนตัมก็ไปทางเดียวกัน MACD ซึ่งวัดแรงส่งของแนวโน้มอยู่ที่ −3.08 ต่ำกว่าเส้นสัญญาณที่ −2.26 และฮิสโตแกรมติดลบ −0.82 แปลว่าแรงขายยังเพิ่มขึ้น ไม่ได้อ่อนลง RSI 14 เป็นมาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่า oversold หรือขายมากเกินไป ตอนนี้อยู่ที่ 29.16 คือเพิ่งเข้าเขต oversold ราคาปิดต่ำกว่าขอบล่าง Bollinger Band ที่ $21.28 กรอบนี้คือช่วงแกว่งปกติ ±2 ส่วนเบี่ยงเบนมาตรฐานรอบค่าเฉลี่ย 20 วันที่ $29.35 การปิดต่ำกว่ากรอบจึงบอกว่าราคาลงมาไกลเกินปกติ วอลุ่ม 29.9 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (23.5 ล้าน) ราว 1.28 เท่า ยืนยันว่าแรงขายมีน้ำหนักจริง แนวรับแรกคือ $20.51 แนวต้านแรกคือ $21.28 ถัดไปคือเส้นกลาง $29.35 และ EMA 50 ที่ $33.22",
+               "fundamental":  "วันที่ 5 พ.ย. 2026 IonQ รายงานรายได้ Q3 ที่ $173.8M (+336% y/y) สูงกว่าที่ตลาดคาดไว้ราว $141M และปรับเป้ารายได้ปี 2026 ขึ้นเป็น $505–515M จากเดิม $450–460M แต่รายได้ราว $83.5M มาจากธุรกิจโรงงาน SkyWater ที่เพิ่งรวมงบเข้ามา ส่วนธุรกิจหลัก IonQ Platform โต 127% เป็น $90.3M งานในมือ (RPO) เพิ่มกว่าเท่าตัวเป็น $1.2B และมีรายงานว่ากำลังผลิต Superion 256 ปี 2027 ขายหมดแล้ว ด้านขาดทุนยังหนัก ขาดทุนจากการดำเนินงาน $433.1M และ adjusted EBITDA ติดลบ $133.6M ส่วนกำไรสุทธิ $564M มาจากกำไรทางบัญชีของ warrant ที่ไม่ใช่เงินสด เงินสด pro forma ราว $3.7B ในห่วงโซ่ AI บริษัทนี้ยังเป็นการเดิมพันระยะแรกกับควอนตัมคอมพิวติ้ง ไม่ใช่ผู้ที่มีรายได้จากโครงสร้างพื้นฐาน AI ในตอนนี้ มีสองเรื่องที่หนุนจุดแข็งด้าน trapped-ion คือการผ่านเข้า DARPA QBI Stage C ซึ่ง IonQ เป็นบริษัท trapped-ion รายเดียวที่ผ่าน และการที่ NVIDIA ติดตั้ง Superion 256 แบบ on-premise",
+               "news":  [
+                            "5 พ.ย. 2026: รายได้ Q3 $173.8M (+336% y/y) ดีกว่าคาด และปรับเป้าปี 2026 ขึ้นเป็น $505–515M ระหว่างวันหุ้นลง 10.5% ตามแรงเทขายหุ้น AI และชิปทั้งตลาด แล้วดีดขึ้นราว 18% ในวันที่ 6 พ.ย.",
+                            "6 พ.ย. 2026: Cantor Fitzgerald ลดราคาเป้าหมายจาก $70 เหลือ $60 หลังงบออก แต่ยังมีมุมมองเชิงบวก",
+                            "3 พ.ย. 2026: IonQ ปิดดีลซื้อ Elisity บริษัทความปลอดภัยแบบ zero-trust ด้วยหุ้นทั้งหมด มูลค่าราว $1.3B รวม earnout สูงสุด $150M ดีลนี้ทำให้จำนวนหุ้นเพิ่มขึ้นอีก ต่อจากการขายหุ้นเพิ่มทุน $2.0B ที่ราคา $40 ซึ่งปิดเมื่อ 16 ต.ค.",
+                            "13 พ.ย. 2026: CFO Inder Singh ลาออกมีผลทันทีโดยไม่แจ้งเหตุผล CEO Niccolo de Masi รักษาการดูแลการเงินไปจนกว่า Gary Merrill ซึ่งเป็น CFO ของ Commvault จะเริ่มงานวันที่ 3 ธ.ค. วันนั้นหุ้นลง 6.42% ปิดที่ $28.88",
+                            "13 พ.ย. 2026: บริษัทยื่นจดทะเบียนหุ้นสูงสุด 34.58 ล้านหุ้นให้ผู้ถือหุ้นเดิมขายต่อได้ IonQ ไม่ได้เงินจากการขายนี้ และหุ้นก้อนนี้อาจกดดันราคาเมื่อทยอยขายออกมา",
+                            "16–20 พ.ย. 2026: แรงขายหุ้นควอนตัมยังต่อเนื่อง IonQ ลงราว 8% วันที่ 16 พ.ย., 5% วันที่ 18 พ.ย. และ 8.76% วันที่ 20 พ.ย. นับจาก 20 ต.ค. IonQ ร่วงราว 33%, Rigetti 37% และ D-Wave 44%"
+                        ],
+               "caution":  "กราฟยังไม่มีสัญญาณยืนยันว่าถึงจุดต่ำสุดแล้ว ราคาทำ low ใหม่รอบ 52 สัปดาห์ อยู่ใต้ EMA ทั้งสามเส้น และ MACD ยังถ่างลงต่อ ในช่วงขาลง RSI อาจค้างอยู่ในเขต oversold ได้เป็นสัปดาห์ ปริมาณหุ้นที่จะออกมาเป็นปัญหาจริง ทั้งการเพิ่มทุน $2.0B ในเดือน ต.ค. ดีล Elisity มูลค่าราว $1.3B ที่จ่ายด้วยหุ้น และหุ้นขายต่อที่จดทะเบียนไว้ 34.6 ล้านหุ้น CFO ลาออกแบบไม่มีคำอธิบายเพียง 8 วันหลังงบออก บริษัทต้องควบรวมสองกิจการใหญ่พร้อมกัน และขาดทุนจากการดำเนินงาน $433M ในไตรมาสเดียว ทั้งหมดนี้เพิ่มความเสี่ยงด้านการบริหาร นอกจากนี้ผลตอบแทนพันธบัตรที่สูงยังกดดันหุ้นเติบโตที่มีความเสี่ยงสูง",
+               "opportunity":  "ข่าวด้านธุรกิจดีกว่าที่ราคาหุ้นสะท้อน มีทั้งรายได้ที่ทำสถิติ การปรับเป้าขึ้น งานในมือ $1.2B และรายงานว่ากำลังผลิต Superion 256 ปี 2027 ขายหมดแล้ว การผ่าน DARPA QBI Stage C และคำสั่งซื้อ Superion 256 แบบ on-premise จาก NVIDIA เป็นการรับรองเทคโนโลยี trapped-ion จากภายนอก เงินสด pro forma ราว $3.7B พอใช้ได้อีกหลายปี การที่ราคาปิดใต้ขอบล่าง Bollinger Band พร้อม RSI ต่ำกว่า 30 บอกว่าราคาลงมาตึงตัวมากแล้ว ถ้าราคากลับขึ้นเหนือ $21.28 และ MACD ตัดขึ้นเหนือเส้นสัญญาณ จะเป็นสัญญาณแรกว่าราคาเริ่มทรงตัว",
+               "risks":  [
+                             "หุ้นอาจถูกเจือจางเพิ่มจากการจดทะเบียนขายต่อ 34.58 ล้านหุ้น และดีลซื้อกิจการด้วยหุ้นในอนาคต",
+                             "คำถามด้านผู้บริหารและธรรมาภิบาลหลัง CFO ลาออกกะทันหันโดยไม่มีคำอธิบาย",
+                             "ความเสี่ยงจากการควบรวม SkyWater และ Elisity พร้อมกัน รวมถึงขาดทุนจากการดำเนินงานสูง ($433.1M ใน Q3)",
+                             "รายได้เริ่มพึ่งธุรกิจโรงงานและความปลอดภัยไซเบอร์มากขึ้น ทำให้ภาพ trapped-ion ล้วนเจือจางลง",
+                             "แรงขายหุ้น AI และควอนตัมที่เก็งกำไรสูงทั้งกลุ่ม ขณะที่ผลตอบแทนพันธบัตรยังสูง"
+                         ],
+               "summary":  "IONQ อยู่ในขาลงแรง ปิดที่ $20.72 เมื่อ 20 พ.ย. 2026 ซึ่งเป็น low ใหม่รอบ 52 สัปดาห์ และต่ำกว่าจุดสูงสุด $73.65 ราว 72% ราคาอยู่ใต้ EMA ทุกเส้น MACD เป็นขาลง และ RSI 29.16 อยู่ในเขต oversold แรงขายส่วนใหญ่มาจากการลดความเสี่ยงทั้งกลุ่ม บวกกับปัจจัยเฉพาะของบริษัท คือการเพิ่มทุน หุ้นขายต่อ 34.6 ล้านหุ้น และ CFO ที่ลาออกกะทันหัน ไม่ได้มาจากผลประกอบการ เพราะ Q3 ดีกว่าคาดและเป้ารายได้ถูกปรับขึ้น DARPA Stage C และคำสั่งซื้อจาก NVIDIA หนุนธีส trapped-ion แต่เรื่องธรรมาภิบาลและการเจือจางหุ้นต้องติดตาม มุมมองทางเทคนิค: bearish"
+           },
+    "sources":  [
+                    {
+                        "title":  "IonQ Q3 2026 results press release (Form 8-K, Exhibit 99.1)",
+                        "publisher":  "SEC EDGAR / IonQ",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001824920/000119312526449779/ionq-ex99_1.htm",
+                        "date":  "2026-11-05"
+                    },
+                    {
+                        "title":  "IonQ, Inc. - Form 424B7 (resale prospectus supplement)",
+                        "publisher":  "SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001824920/000119312526461012/ionq-20261113.htm",
+                        "date":  "2026-11-13"
+                    },
+                    {
+                        "title":  "IonQ Stock Falls 6.4% as CFO Inder Singh Steps Down (Nov 13)",
+                        "publisher":  "Gotrade",
+                        "url":  "https://www.heygotrade.com/en/news/ionq-ionq-stock-news-november-16-2026/",
+                        "date":  "2026-11-16"
+                    },
+                    {
+                        "title":  "Why IonQ Stock Just Fell 10.5% Today",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/investing/2026/11/05/why-ionq-stock-just-fell-10-5-today/",
+                        "date":  "2026-11-05"
+                    },
+                    {
+                        "title":  "IonQ Is Down 33% in a Month. What Will It Take to Get IONQ Stock Back to $30?",
+                        "publisher":  "24/7 Wall St.",
+                        "url":  "https://247wallst.com/investing/2026/11/20/ionq-is-down-33-in-a-month-what-will-it-take-to-get-ionq-stock-back-to-30/",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Cantor Fitzgerald Cut Its IonQ Target to $60. It Still Sees 84% Upside",
+                        "publisher":  "TIKR",
+                        "url":  "https://www.tikr.com/blog/cantor-fitzgerald-cut-its-ionq-target-to-60-it-still-sees-84-upside"
+                    }
+                ]
+}

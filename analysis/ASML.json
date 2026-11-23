@@ -1,0 +1,754 @@
+{
+    "ticker":  "ASML",
+    "name":  "ASML Holding",
+    "symbol":  "NASDAQ:ASML",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:37:36Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:ASML",
+                       "yahoo":  "ASML",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:32:29Z",
+                       "price":  1266.22,
+                       "open":  1332.45,
+                       "high":  1336.76,
+                       "low":  1258.53,
+                       "volume":  3289000,
+                       "avgVolume20":  1871430,
+                       "changePct":  -6.63,
+                       "historyDays":  501,
+                       "ema50":  1579.51,
+                       "ema100":  1618.14,
+                       "ema200":  1544.7,
+                       "bb":  {
+                                  "upper":  1705.12,
+                                  "middle":  1492.11,
+                                  "lower":  1279.11
+                              },
+                       "macd":  {
+                                    "macd":  -81.51,
+                                    "signal":  -66.38,
+                                    "hist":  -15.13
+                                },
+                       "rsi14":  28.84,
+                       "high52w":  1999.96,
+                       "low52w":  946.11,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         1726.36
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         1757.47
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         1641.74
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         1749.04
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         1777.77
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         1734.19
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         1899.48
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         1863.55
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         1892.66
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         1803.89
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         1867.83
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         1929.68
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         1929.25
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         1778.46
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         1762.77
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         1841.18
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         1794.62
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         1883.11
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         1989.44
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         1843.04
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         1769.32
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         1825.07
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         1747.28
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         1768.65
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         1804.25
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         1797.32
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         1726.04
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         1775.64
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         1815.27
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         1784.87
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         1747.58
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         1739.02
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         1801.51
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         1801.86
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         1803
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         1757.09
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         1655.26
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         1582.95
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         1550.69
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         1651.44
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         1629
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         1642.52
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         1711.89
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         1678.22
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         1704.37
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         1740.99
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         1733.48
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         1799.38
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         1810.07
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         1847.9
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         1844.08
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         1883.12
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         1802.98
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         1751.73
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         1750.31
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         1763.76
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         1740.13
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         1744.16
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         1745.64
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         1735.01
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         1696.16
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         1696.01
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         1665.14
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         1682.3
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         1646.19
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         1714.88
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         1764.85
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         1729.52
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         1687.43
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         1698.3
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         1575.15
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         1591.48
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         1602.22
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         1629.67
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         1679.92
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         1711.32
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         1747.9
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         1744.61
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         1722.5
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         1743.94
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         1771.41
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         1834.39
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         1811.67
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         1808.49
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         1867.31
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         1859.86
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         1834.1
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         1804.96
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         1769.79
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         1780.34
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         1750.24
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         1717.76
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         1650
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         1657.44
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         1641.52
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         1647.12
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         1630.84
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         1676.69
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         1560.54
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         1571.8
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         1590.9
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         1635.57
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         1662.85
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         1675.7
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         1565.9
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         1526.14
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         1552.14
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         1496.3
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         1356.65
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         1424.75
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         1513.25
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         1507.85
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         1534.42
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         1497.12
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         1495.16
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         1406.79
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         1383.11
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         1395.27
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         1356.2
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         1266.22
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          1503.52,
+                                          1513.47,
+                                          1518.5,
+                                          1527.54,
+                                          1537.36,
+                                          1545.08,
+                                          1558.97,
+                                          1570.92,
+                                          1583.54,
+                                          1592.18,
+                                          1602.99,
+                                          1615.8,
+                                          1628.09,
+                                          1633.99,
+                                          1639.04,
+                                          1646.97,
+                                          1652.76,
+                                          1661.79,
+                                          1674.64,
+                                          1681.24,
+                                          1684.7,
+                                          1690.2,
+                                          1692.44,
+                                          1695.43,
+                                          1699.7,
+                                          1703.52,
+                                          1704.41,
+                                          1707.2,
+                                          1711.44,
+                                          1714.32,
+                                          1715.62,
+                                          1716.54,
+                                          1719.87,
+                                          1723.09,
+                                          1726.22,
+                                          1727.43,
+                                          1724.6,
+                                          1719.05,
+                                          1712.44,
+                                          1710.05,
+                                          1706.87,
+                                          1704.35,
+                                          1704.65,
+                                          1703.61,
+                                          1703.64,
+                                          1705.1,
+                                          1706.22,
+                                          1709.87,
+                                          1713.8,
+                                          1719.06,
+                                          1723.96,
+                                          1730.2,
+                                          1733.06,
+                                          1733.79,
+                                          1734.44,
+                                          1735.59,
+                                          1735.76,
+                                          1736.09,
+                                          1736.47,
+                                          1736.41,
+                                          1734.83,
+                                          1733.31,
+                                          1730.64,
+                                          1728.74,
+                                          1725.5,
+                                          1725.09,
+                                          1726.65,
+                                          1726.76,
+                                          1725.22,
+                                          1724.16,
+                                          1718.32,
+                                          1713.34,
+                                          1708.99,
+                                          1705.88,
+                                          1704.86,
+                                          1705.11,
+                                          1706.79,
+                                          1708.27,
+                                          1708.83,
+                                          1710.21,
+                                          1712.61,
+                                          1717.38,
+                                          1721.08,
+                                          1724.51,
+                                          1730.11,
+                                          1735.2,
+                                          1739.08,
+                                          1741.66,
+                                          1742.76,
+                                          1744.24,
+                                          1744.47,
+                                          1743.42,
+                                          1739.76,
+                                          1736.53,
+                                          1732.81,
+                                          1729.45,
+                                          1725.58,
+                                          1723.66,
+                                          1717.26,
+                                          1711.56,
+                                          1706.83,
+                                          1704.03,
+                                          1702.42,
+                                          1701.37,
+                                          1696.06,
+                                          1689.4,
+                                          1684.01,
+                                          1676.65,
+                                          1664.1,
+                                          1654.72,
+                                          1649.17,
+                                          1643.63,
+                                          1639.34,
+                                          1633.77,
+                                          1628.33,
+                                          1619.64,
+                                          1610.37,
+                                          1601.93,
+                                          1592.3,
+                                          1579.51
+                                      ]
+                   },
+    "en":  {
+               "caution":  "Export-control escalation is the most tangible near-term overhang. With China generating 23% of Q3 2026 system sales and projected near 20% for the full year, any U.S.–Dutch compromise that restricts DUV immersion shipments or servicing of existing Chinese machines would directly trim revenue and high-margin service income. Technically, RSI 14 at 28.84 signals oversold conditions, yet falling below the lower Bollinger Band on 1.76x volume shows sellers remain in control. Because ASML no longer reports headline quarterly bookings, investors also have less short-term visibility if foundry capex sentiment cools further.",
+               "cons":  [
+                            "China still represented 23% of Q3 2026 system sales, exposing ASML to U.S. MATCH Act proposals targeting DUV exports and machine servicing.",
+                            "The 2026-11-19 U.S. BIS remote-access rule adds foundry compliance friction at key customers like TSMC and across Southeast Asia.",
+                            "Technicals are decisively bearish, with price ($1,266.22) sitting 18%–22% below all three EMAs after a high-volume -6.63% drop on 2026-11-20.",
+                            "Q3 2026 net income of €5.0 billion included a non-recurring €500 million Mistral AI revaluation gain, and ASML no longer highlights traditional quarterly bookings."
+                        ],
+               "fundamental":  "ASML sits at the narrowest chokepoint of the AI chip supply chain as the sole supplier of EUV lithography machines needed for leading-edge AI accelerators and high-bandwidth DRAM. On 2026-10-14, ASML reported record Q3 2026 net sales of €11.7 billion, a 57.5% gross margin, and €5.0 billion in net income (including a €500 million Mistral AI revaluation gain). Recurring Installed Base Management reached €3.3 billion on strong productivity-upgrade demand. Management guided Q4 2026 sales to €14.2–15.2 billion (~57% gross margin) and raised full-year 2026 revenue guidance to €44–45 billion (~56% gross margin). While China jumped to 23% of Q3 system sales (expected ~20% for 2026) amid DUV stockpiling, long-term demand visibility stretches toward 2029–2030 as Intel, Samsung, and TSMC scale High-NA EUV and plan a 12-inch photomask transition.",
+               "headline":  "ASML drops into oversold territory on export fears despite record AI sales",
+               "news":  [
+                            "On 2026-11-20, ASML shares fell 6.63% to $1,266.22 on 3.29 million shares (1.76x average volume) during a sharp AI-semiconductor valuation reset alongside chip-equipment peers, with no negative operational update from the company.",
+                            "Effective 2026-11-19 (filed 2026-11-16), the U.S. Commerce Department\u0027s BIS issued an Interim Final Rule curbing remote cloud access to advanced AI chips and tightening licensing for five countries including Thailand and Singapore. The rule adds foundry compliance hurdles for key ASML customers like TSMC.",
+                            "On 2026-11-18, the Dutch Foreign Ministry called the extraterritorial provisions of the U.S. bipartisan MATCH Act \u0027unacceptable,\u0027 rejecting Washington\u0027s push to align Dutch curbs on ASML\u0027s DUV tool exports and China servicing within 150 days.",
+                            "On 2026-11-17 and 2026-11-18, Bank of America and Bernstein reiterated Buy ratings on ASML despite the share pullback, maintaining constructive wafer-fab equipment spending outlooks.",
+                            "On 2026-11-16, ASML disclosed repurchasing roughly 326,000 shares during 2026-11-09 to 2026-11-13 under its 2026–2028 buyback program, following the 2026-11-04 payment of its €1.88 per share interim dividend."
+                        ],
+               "opportunity":  "The 36.7% drawdown from the $1,999.96 52-week high contrasts sharply with ASML\u0027s operational trajectory. Management raised full-year 2026 sales guidance to €44–45 billion, expects €14.2–15.2 billion in Q4 2026 alone, and is expanding 2027 EUV and DUV capacity by 30% as customers explore orders out to 2029–2030. Crucially, the EUV monopoly is untouched by China restrictions—EUV has been barred there for years—while Intel, Samsung (2028 DRAM), and TSMC (2030 logic) have anchored multi-year High-NA EUV adoption. Active buybacks and a 57.5% gross margin further cushion long-term holders watching for technical stabilization.",
+               "opportunityCheck":  "The page\u0027s top marks for market position and bottleneck pricing power remain well deserved, backed by ASML\u0027s 100% EUV monopoly, 57.5% Q3 gross margin, and industry-wide High-NA alignment. However, both AI revenue exposure and market growth look slightly conservative and merit an upward adjustment: AI chip demand pushed ASML to raise full-year 2026 revenue guidance to €44–45 billion, expand 2027 EUV and DUV capacity by 30%, and field order interest stretching to 2029–2030. Optionality looks appropriately modest, resting mainly on recurring service upgrades and long-dated 12-inch photomask adoption rather than new business lines.",
+               "pros":  [
+                            "Record Q3 2026 net sales reached €11.7 billion at a 57.5% gross margin, with full-year 2026 guidance raised to €44–45 billion on 2026-10-14.",
+                            "ASML remains the sole supplier of EUV lithography systems, with customer order visibility extending into 2029–2030 and a 30% capacity expansion planned for 2027.",
+                            "Intel, Samsung, and TSMC have aligned on High-NA EUV and a 12-inch photomask transition, locking in multi-year advanced-node demand.",
+                            "High-margin Installed Base Management generated €3.3 billion in Q3 2026, while ASML returned cash via a €1.88 interim dividend (paid 2026-11-04) and ongoing 2026–2028 buybacks."
+                        ],
+               "risks":  [
+                             "Tighter U.S.–Dutch export controls (such as the MATCH Act) curtailing DUV tool shipments and servicing revenue in China (~20% of expected 2026 sales).",
+                             "Second-order foundry disruptions from the 2026-11-19 U.S. BIS remote-access chip rule slowing orders or shipments at customers like TSMC.",
+                             "AI data-center capex digestion or valuation compression across semiconductor equipment makers extending the current technical downtrend.",
+                             "Execution or customer-adoption delays on ~$400 million High-NA EUV systems and the multi-year transition to 12-inch photomasks."
+                         ],
+               "summary":  "ASML closed at $1,266.22 on 2026-11-20, down 6.63% on 1.76x average volume and 36.7% below its $1,999.96 52-week high. The sell-off reflects escalating U.S.–China export friction—including the 2026-11-19 U.S. BIS remote-access chip rule and a 2026-11-18 Dutch rejection of the U.S. MATCH Act—alongside AI hardware valuation compression. Operationally, however, ASML\u0027s EUV monopoly remains intact: Q3 2026 net sales hit €11.7 billion at a 57.5% gross margin, and full-year 2026 guidance rose to €44–45 billion. Near-term technicals are clearly bearish, even as long-term fundamentals stay strong.",
+               "technical":  "As of 2026-11-20, ASML trades at $1,266.22 in a clear downtrend. Price sits well below all three Exponential Moving Averages (EMAs — trend lines tracking average closing prices): EMA 50 ($1,579.51), EMA 100 ($1,618.14), and EMA 200 ($1,544.70). With EMA 50 already below EMA 100 and closing in on EMA 200, medium-term trend structure has broken down. Momentum confirms the weakness: MACD (a trend-momentum gauge comparing two moving averages) sits at -81.51 below its -66.38 signal line, leaving a negative -15.13 histogram that signals accelerating selling pressure. Meanwhile, RSI 14 (a 0–100 momentum gauge where under 30 is oversold) dropped to 28.84, showing stretched downside. Price also closed beneath the lower Bollinger Band (a 20-day volatility channel) of $1,279.11 versus a $1,492.11 middle band and $1,705.12 upper band, sitting in the lower third of its $946.11–$1,999.96 52-week range. Heavy volume of 3.29 million shares—1.76x the 1.87 million 20-day average—confirms institutional selling on the -6.63% drop. Immediate support lies at the $1,258.53 intraday low and deeper toward $946.11, while resistance clusters at $1,279.11, $1,492.11, and the $1,544.70–$1,618.14 EMA zone."
+           },
+    "th":  {
+               "caution":  "ความเสี่ยงระยะสั้นที่ชัดเจนที่สุดคือมาตรการคุมส่งออกไปจีน เพราะจีนยังคิดเป็น 23% ของยอดขายเครื่องในไตรมาส 3 ปี 2026 และคาดทั้งปีราว 20% หากสหรัฐฯ และเนเธอร์แลนด์ตกลงจำกัดการส่งออกเครื่อง DUV หรือห้ามซ่อมบำรุงเครื่องเดิมในจีน จะกระทบทั้งยอดขายและรายได้บริการที่มีมาร์จิ้นสูง ด้านเทคนิคแม้ RSI 14 ที่ 28.84 จะเข้าเขต oversold แต่การหลุดกรอบล่าง Bollinger Band พร้อมวอลุ่ม 1.76 เท่าชี้ว่าแรงขายยังคุมตลาด อีกทั้ง ASML ไม่ได้เน้นรายงานยอดจองรายไตรมาสแบบเดิมแล้ว ทำให้มุมมองระยะสั้นเห็นภาพน้อยลงหากบรรยากาศการลงทุนโรงงานชิปชะลอตัว",
+               "cons":  [
+                            "จีนยังคิดเป็น 23% ของยอดขายเครื่องไตรมาส 3 ปี 2026 ทำให้เสี่ยงต่อร่างกฎหมาย MATCH Act ของสหรัฐฯ ที่มุ่งจำกัดการขายและซ่อมบำรุงเครื่อง DUV ในจีน",
+                            "กฎ BIS ของสหรัฐฯ ที่มีผลวันที่ 2026-11-19 เพิ่มภาระด้านการตรวจสอบให้ลูกค้าโรงงานชิปสำคัญอย่าง TSMC และศูนย์ข้อมูลในเอเชียตะวันออกเฉียงใต้",
+                            "สัญญาณเทคนิคเป็นขาลงชัดเจน โดยราคา $1,266.22 อยู่ต่ำกว่าเส้น EMA ทั้ง 3 เส้นราว 18%–22% หลังร่วง -6.63% พร้อมวอลุ่มสูงในวันที่ 2026-11-20",
+                            "กำไรสุทธิไตรมาส 3 ปี 2026 ที่ €5.0 พันล้าน รวมกำไรพิเศษจากการตีมูลค่าเงินลงทุนใน Mistral AI ราว €500 ล้าน และบริษัทลดการเปิดเผยยอดจองรายไตรมาสแบบเดิม"
+                        ],
+               "fundamental":  "ASML ครองจุดคอขวดสำคัญที่สุดของห่วงโซ่อุปทานชิป AI ในฐานะผู้ผลิตเครื่องพิมพ์ลายวงจร EUV รายเดียวของโลก ซึ่งเป็นหัวใจของการผลิตชิปเร่งประมวลผล AI และหน่วยความจำ DRAM ขั้นสูง เมื่อวันที่ 2026-10-14 บริษัทรายงานยอดขายไตรมาส 3 ปี 2026 สูงเป็นประวัติการณ์ที่ €11.7 พันล้าน อัตรากำไรขั้นต้น 57.5% และกำไรสุทธิ €5.0 พันล้าน (รวมกำไรจากการประเมินมูลค่าเงินลงทุนใน Mistral AI ราว €500 ล้าน) ขณะที่รายได้บริการและการอัปเกรด Installed Base Management ทำได้ €3.3 พันล้าน ผู้บริหารประเมินยอดขายไตรมาส 4 ปี 2026 ที่ €14.2–15.2 พันล้าน (มาร์จิ้นราว 57%) และปรับเพิ่มเป้ายอดขายทั้งปี 2026 เป็น €44–45 พันล้าน (มาร์จิ้นราว 56%) แม้สัดส่วนยอดขายเครื่องในจีนจะพุ่งเป็น 23% ในไตรมาส 3 (คาดทั้งปีราว 20%) จากการเร่งตุนเครื่อง DUV แต่ความต้องการระยะยาวยังขยายถึงปี 2029–2030 จากแผนใช้ High-NA EUV และการเปลี่ยนผ่านสู่แผ่นมาสก์ขนาด 12 นิ้วร่วมกับ Intel, Samsung และ TSMC",
+               "headline":  "ASML ร่วงเข้าเขตขายมากเกินไปจากแรงกดดันคุมส่งออก แม้ยอดขาย AI ทำสถิติสูงสุด",
+               "news":  [
+                            "วันที่ 2026-11-20 หุ้น ASML ร่วง 6.63% ปิดที่ $1,266.22 ด้วยวอลุ่ม 3.29 ล้านหุ้น (1.76 เท่าของค่าเฉลี่ย) ท่ามกลางแรงขายปรับมูลค่ากลุ่มชิปและอุปกรณ์ AI พร้อมหุ้นคู่แข่ง โดยไม่มีข่าวลบด้านการดำเนินงานจากบริษัท",
+                            "วันที่ 2026-11-19 (ยื่นเผยแพร่ 2026-11-16) หน่วยงาน BIS ของกระทรวงพาณิชย์สหรัฐฯ บังคับใช้กฎชั่วคราวคุมการเข้าถึงชิป AI ผ่านคลาวด์ระยะไกลและเพิ่มเงื่อนไขใบอนุญาตใน 5 ประเทศรวมถึงไทยและสิงคโปร์ ส่งผลให้โรงงานชิปหลักอย่าง TSMC ต้องเข้มงวดการส่งมอบมากขึ้น",
+                            "วันที่ 2026-11-18 กระทรวงการต่างประเทศเนเธอร์แลนด์ระบุว่าข้อกำหนดนอกอาณาเขตในร่างกฎหมาย MATCH Act ของสหรัฐฯ เป็นสิ่งที่ \"รับไม่ได้\" โดยปฏิเสธแรงกดดันให้จำกัดการขายและซ่อมบำรุงเครื่อง DUV ของ ASML ในจีนภายใน 150 วัน",
+                            "วันที่ 2026-11-17 และ 2026-11-18 ทั้ง Bank of America และ Bernstein ต่างคงคำแนะนำเชิงบวกต่อ ASML แม้ว่าราคาหุ้นจะปรับฐาน โดยยังมองแนวโน้มการใช้จ่ายอุปกรณ์โรงงานชิปโลกแข็งแกร่ง",
+                            "วันที่ 2026-11-16 ASML รายงานการซื้อหุ้นคืนราว 326,000 หุ้นช่วงวันที่ 2026-11-09 ถึง 2026-11-13 ภายใต้โครงการซื้อหุ้นคืนปี 2026–2028 ต่อเนื่องจากที่จ่ายเงินปันผลระหว่างกาล €1.88 ต่อหุ้นเมื่อวันที่ 2026-11-04"
+                        ],
+               "opportunity":  "การที่ราคาปรับลงถึง 36.7% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $1,999.96 สวนทางอย่างชัดเจนกับแนวโน้มธุรกิจจริง ผู้บริหารเพิ่งปรับเพิ่มเป้ายอดขายปี 2026 เป็น €44–45 พันล้าน คาดไตรมาส 4 ทำได้ €14.2–15.2 พันล้าน และเดินหน้าขยายกำลังผลิต EUV และ DUV ปี 2027 เพิ่ม 30% รับคำสั่งซื้อที่มองยาวถึงปี 2029–2030 ที่สำคัญคือความได้เปรียบผูกขาด EUV ไม่ได้กระทบจากมาตรการจีน เพราะถูกห้ามส่งออกไปจีนมานานแล้ว ขณะที่ Intel, Samsung (DRAM ปี 2028) และ TSMC (โลจิกปี 2030) ต่างวางแผนใช้ High-NA EUV ชัดเจน พร้อมมาร์จิ้น 57.5% และการซื้อหุ้นคืนต่อเนื่องช่วยพยุงมูลค่าระยะยาวระหว่างรอสัญญาณเทคนิคตั้งฐาน",
+               "opportunityCheck":  "คะแนนระดับสูงสุดด้านตำแหน่งผู้นำตลาดและอำนาจตั้งราคาจากจุดคอขวดถือว่าเหมาะสมแล้ว เพราะ ASML ยังผูกขาดเครื่อง EUV 100% ทำอัตรากำไรขั้นต้นไตรมาส 3 ได้ 57.5% และผูกแผน High-NA กับโรงงานชิปชั้นนำทุกราย อย่างไรก็ตาม คะแนนสัดส่วนรายได้จาก AI และการเติบโตของตลาดดูระมัดระวังไปเล็กน้อยและควรขยับขึ้น เพราะดีมานด์ชิป AI หนุนให้บริษัทเพิ่มเป้ารายได้ปี 2026 เป็น €44–45 พันล้าน ขยายกำลังผลิตปี 2027 เพิ่ม 30% และเห็นความต้องการสั่งซื้อยาวถึงปี 2029–2030 ส่วนคะแนนโอกาสต่อยอดธุรกิจอยู่ในระดับปานกลางที่เหมาะสม เพราะยังพึ่งพาบริการอัปเกรดเครื่องเดิมและการเปลี่ยนผ่านสู่มาสก์ 12 นิ้วระยะยาวเป็นหลัก",
+               "pros":  [
+                            "ยอดขายไตรมาส 3 ปี 2026 ทำสถิติใหม่ที่ €11.7 พันล้าน อัตรากำไรขั้นต้น 57.5% พร้อมปรับเพิ่มเป้ารายได้ทั้งปี 2026 เป็น €44–45 พันล้านเมื่อวันที่ 2026-10-14",
+                            "ยังคงผูกขาดเครื่องพิมพ์ลายวงจร EUV เพียงรายเดียว โดยเห็นความต้องการสั่งซื้อจากลูกค้ายาวถึงปี 2029–2030 และเตรียมขยายกำลังผลิตปี 2027 เพิ่ม 30%",
+                            "Intel, Samsung และ TSMC ต่างวางแผนนำ High-NA EUV และแผ่นมาสก์ขนาด 12 นิ้วเข้าสู่สายการผลิต ช่วยล็อกความต้องการเครื่องรุ่นใหม่หลายปีข้างหน้า",
+                            "ธุรกิจบริการ Installed Base Management มาร์จิ้นสูงทำรายได้ €3.3 พันล้านในไตรมาส 3 ปี 2026 ควบคู่การจ่ายปันผลระหว่างกาล €1.88 (วันที่ 2026-11-04) และซื้อหุ้นคืนต่อเนื่องถึงปี 2028"
+                        ],
+               "risks":  [
+                             "มาตรการคุมส่งออกสหรัฐฯ–เนเธอร์แลนด์ที่เข้มงวดขึ้น (เช่น ร่างกฎหมาย MATCH Act) อาจตัดรายได้จากการขายและซ่อมบำรุงเครื่อง DUV ในจีน (ราว 20% ของยอดขายปี 2026)",
+                             "ผลกระทบทางอ้อมจากกฎ BIS วันที่ 2026-11-19 ที่อาจทำให้ลูกค้าโรงงานชิปอย่าง TSMC ชะลอคำสั่งซื้อหรือการส่งมอบบางส่วนจากภาระการตรวจสอบ",
+                             "การชะลอการลงทุนศูนย์ข้อมูล AI หรือการลดมูลค่าหุ้นอุปกรณ์เซมิคอนดักเตอร์ทั้งกลุ่มอาจกดดันให้แนวโน้มขาลงทางเทคนิคยืดเยื้อ",
+                             "ความล่าช้าในการผลิตหรือการนำไปใช้งานจริงของเครื่อง High-NA EUV มูลค่าราว $400 ล้านต่อเครื่อง รวมถึงการเปลี่ยนผ่านสู่มาสก์ 12 นิ้วในระยะยาว"
+                         ],
+               "summary":  "หุ้น ASML ปิดที่ $1,266.22 เมื่อวันที่ 2026-11-20 ลดลง 6.63% ด้วยวอลุ่มสูงกว่าค่าเฉลี่ย 1.76 เท่า และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $1,999.96 อยู่ 36.7% แรงขายมาจากความตึงเครียดด้านการคุมส่งออกสหรัฐฯ–จีน ทั้งกฎ BIS เรื่องชิป AI ผ่านคลาวด์วันที่ 2026-11-19 และรัฐบาลเนเธอร์แลนด์ปฏิเสธร่างกฎหมาย MATCH Act วันที่ 2026-11-18 ผสมกับแรงปรับมูลค่าหุ้นฮาร์ดแวร์ AI อย่างไรก็ดี พื้นฐานผูกขาด EUV ยังแข็งแกร่ง ยอดขายไตรมาส 3 ปี 2026 แตะ €11.7 พันล้าน (มาร์จิ้น 57.5%) และปรับเพิ่มเป้าทั้งปีเป็น €44–45 พันล้าน ภาพเทคนิคระยะสั้นยังเป็นขาลงชัดเจน แต่โครงสร้างธุรกิจระยะยาวยังไม่เปลี่ยน",
+               "technical":  "ณ วันที่ 2026-11-20 ราคา ASML ที่ $1,266.22 อยู่ในแนวโน้มขาลงชัดเจน โดยอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนักทั้ง 3 เส้น (EMA — เส้นบอกทิศทางแนวโน้มจากราคาปิดเฉลี่ย) ได้แก่ EMA 50 ($1,579.51), EMA 100 ($1,618.14) และ EMA 200 ($1,544.70) อีกทั้ง EMA 50 ตัดต่ำกว่า EMA 100 และกำลังขยับเข้าใกล้ EMA 200 สะท้อนโครงสร้างแนวโน้มระยะกลางที่เสียทรง โมเมนตัมยังยืนยันแรงกดดัน โดย MACD (เครื่องมือวัดแรงส่งจากส่วนต่างเส้นค่าเฉลี่ยสองเส้น) อยู่ที่ -81.51 ต่ำกว่าเส้น Signal ที่ -66.38 และมี Histogram ติดลบ -15.13 บ่งชี้ว่าแรงขายยังเร่งตัว ขณะที่ RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 ที่ต่ำกว่า 30 คือเขตขายมากเกินไปหรือ oversold) ลดลงมาที่ 28.84 แสดงภาวะขายตึงตัว ราคาปิดหลุดขอบล่างของ Bollinger Bands (กรอบความผันผวนรอบ 20 วัน) ที่ $1,279.11 เทียบกับเส้นกลาง $1,492.11 และขอบบน $1,705.12 พร้อมลงมาอยู่ในโซนล่างของกรอบรอบ 52 สัปดาห์ ($946.11–$1,999.96) วอลุ่ม 3.29 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (1.87 ล้านหุ้น) ถึง 1.76 เท่า ยืนยันแรงขายจากสถาบัน แนวรับใกล้สุดอยู่ที่จุดต่ำสุดระหว่างวัน $1,258.53 และแนวรับลึกแถว $946.11 ส่วนแนวต้านเรียงตัวที่ $1,279.11, $1,492.11 และโซน EMA $1,544.70–$1,618.14"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-10-14",
+                        "publisher":  "ASML",
+                        "title":  "ASML reports €11.7 billion total net sales and €5.0 billion net income in Q3 2026",
+                        "url":  "https://investor.asml.com/news-events/press-releases/detail/463/asml-reports-11-7-billion-total-net-sales-and-5-0-billion-net-income-in-q3-2026"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "U.S. Bureau of Industry and Security (Federal Register)",
+                        "title":  "Addressing Remote Access to Advanced Semiconductors",
+                        "url":  "https://www.federalregister.gov/d/2026-23529"
+                    },
+                    {
+                        "date":  "2026-11-18",
+                        "publisher":  "TNW",
+                        "title":  "Dutch government pushes back on US MATCH Act over ASML chip tool curbs",
+                        "url":  "https://thenextweb.com/news/dutch-government-pushes-back-on-us-match-act-over-asml-chip-tool-curbs"
+                    },
+                    {
+                        "date":  "2026-11-16",
+                        "publisher":  "ASML",
+                        "title":  "Share buyback program",
+                        "url":  "https://www.asml.com/en/investors/share-buyback"
+                    },
+                    {
+                        "date":  "2026-11-04",
+                        "publisher":  "ASML",
+                        "title":  "Capital return and financing",
+                        "url":  "https://www.asml.com/en/investors/capital-return-and-financing"
+                    },
+                    {
+                        "date":  "2026-09-08",
+                        "publisher":  "ASML",
+                        "title":  "TSMC and ASML announce industry transition to large-format photomasks for High-NA EUV",
+                        "url":  "https://www.asml.com/en/news/press-releases/2026/tsmc-and-asml-announce-industry-transition-to-large-format-photomasks-for-high-na-euv"
+                    }
+                ]
+}

@@ -1,0 +1,733 @@
+{
+    "ticker":  "DOCN",
+    "name":  "DigitalOcean",
+    "symbol":  "NYSE:DOCN",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:04:05Z",
+    "costUsd":  0.6197269,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NYSE:DOCN",
+                       "yahoo":  "DOCN",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:01:44Z",
+                       "price":  66.76,
+                       "open":  73.9,
+                       "high":  74.34,
+                       "low":  65.55,
+                       "volume":  5465200,
+                       "avgVolume20":  4054155,
+                       "changePct":  -13.4,
+                       "ema50":  100.8,
+                       "ema100":  109.73,
+                       "ema200":  105.04,
+                       "bb":  {
+                                  "upper":  107.13,
+                                  "middle":  85.61,
+                                  "lower":  64.1
+                              },
+                       "macd":  {
+                                    "macd":  -9.12,
+                                    "signal":  -9.16,
+                                    "hist":  0.04
+                                },
+                       "rsi14":  31.04,
+                       "high52w":  187.5,
+                       "low52w":  42.01,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         173.68
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         180.5
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         169.87
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         169.32
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         168.33
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         171.47
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         174.75
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         170.44
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         181.29
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         174.18
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         177.81
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         173.27
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         166.24
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         157.18
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         148.59
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         145.34
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         139.28
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         149.86
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         157.03
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         144.58
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         130.13
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         131.37
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         137.04
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         140.47
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         140.84
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         130.49
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         123.32
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         126.3
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         119.65
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         117.02
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         118.91
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         119.09
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         136.45
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         142.68
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         131.15
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         123.54
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         120.2
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         112.51
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         106.76
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         120.23
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         117.5
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         127.17
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         128.89
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         124.46
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         122.23
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         124.15
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         129.73
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         120.86
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         133.37
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         132.29
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         129.92
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         135.28
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         125.25
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         116.66
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         114.35
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         115.64
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         111.54
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         112.57
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         114.99
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         121.68
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         111.21
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         110.69
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         108.92
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         104.87
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         109.4
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         112.47
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         126.69
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         132.67
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         131.05
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         122.95
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         120.21
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         117.85
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         123.76
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         132.98
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         130.14
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         146.16
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         146
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         141.21
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         141.57
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         139.75
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         136.29
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         135.01
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         133.39
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         139.8
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         140.07
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         137.23
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         131.01
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         127.28
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         123.9
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         134.82
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         131.41
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         128.21
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         109.29
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         109.47
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         98.69
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         100.37
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         99.48
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         101.48
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         92
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         93.22
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         99.53
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         106.39
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         105.07
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         99.97
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         89.65
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         89.79
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         90.5
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         84.02
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         70.7
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         72.48
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         78.3
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         79.52
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         87.15
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         90.07
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         86.32
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         78.88
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         79.44
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         80.62
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         77.09
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         66.76
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          126.11,
+                                          128.24,
+                                          129.87,
+                                          131.42,
+                                          132.87,
+                                          134.38,
+                                          135.96,
+                                          137.32,
+                                          139.04,
+                                          140.42,
+                                          141.88,
+                                          143.12,
+                                          144.02,
+                                          144.54,
+                                          144.7,
+                                          144.72,
+                                          144.51,
+                                          144.72,
+                                          145.2,
+                                          145.18,
+                                          144.59,
+                                          144.07,
+                                          143.79,
+                                          143.66,
+                                          143.55,
+                                          143.04,
+                                          142.27,
+                                          141.64,
+                                          140.78,
+                                          139.85,
+                                          139.03,
+                                          138.24,
+                                          138.17,
+                                          138.35,
+                                          138.07,
+                                          137.5,
+                                          136.82,
+                                          135.87,
+                                          134.72,
+                                          134.16,
+                                          133.5,
+                                          133.25,
+                                          133.08,
+                                          132.75,
+                                          132.33,
+                                          132.01,
+                                          131.92,
+                                          131.49,
+                                          131.56,
+                                          131.59,
+                                          131.53,
+                                          131.67,
+                                          131.42,
+                                          130.84,
+                                          130.2,
+                                          129.62,
+                                          128.92,
+                                          128.27,
+                                          127.75,
+                                          127.52,
+                                          126.88,
+                                          126.24,
+                                          125.56,
+                                          124.75,
+                                          124.15,
+                                          123.69,
+                                          123.81,
+                                          124.16,
+                                          124.43,
+                                          124.37,
+                                          124.21,
+                                          123.96,
+                                          123.95,
+                                          124.3,
+                                          124.53,
+                                          125.38,
+                                          126.19,
+                                          126.78,
+                                          127.36,
+                                          127.84,
+                                          128.17,
+                                          128.44,
+                                          128.64,
+                                          129.07,
+                                          129.51,
+                                          129.81,
+                                          129.86,
+                                          129.75,
+                                          129.53,
+                                          129.73,
+                                          129.8,
+                                          129.74,
+                                          128.93,
+                                          128.17,
+                                          127.01,
+                                          125.97,
+                                          124.93,
+                                          124.01,
+                                          122.76,
+                                          121.6,
+                                          120.73,
+                                          120.17,
+                                          119.58,
+                                          118.81,
+                                          117.67,
+                                          116.57,
+                                          115.55,
+                                          114.31,
+                                          112.6,
+                                          111.03,
+                                          109.75,
+                                          108.56,
+                                          107.72,
+                                          107.03,
+                                          106.22,
+                                          105.14,
+                                          104.14,
+                                          103.21,
+                                          102.19,
+                                          100.8
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Strong Q3 and higher guidance, but share sales and an AI selloff knock DOCN down",
+               "technical":  "The trend is clearly down. On 20 November DOCN closed at USD 66.76, down 13.4%. It opened at 73.90 and finished near the day\u0027s low of 65.55. Price sits far below all three EMAs (exponential moving averages that weight recent prices more): EMA50 at 100.80, EMA100 at 109.73 and EMA200 at 105.04. The EMA50 has fallen below both longer averages, the usual order in a downtrend. MACD (the gap between a fast and a slow average, used to read momentum) is deeply negative at -9.12. It is only just above its signal line at -9.16, so the histogram is a barely positive +0.04. That hints the selling is slowing but is not yet a turn. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 31.04, right at the edge of oversold. Price is just above the lower Bollinger Band at 64.10 (bands drawn two standard deviations around the 20-day average). The bands are very wide (64.10 to 107.13), which shows how violent the swings have been. The stock sits about 17% of the way up its 52-week range of 42.01–187.50. Volume of 5.47M was about 1.35x the 20-day average, so the sell-off had real participation. The lower band near 64 is the first support. The 20-day average near 85.6 is the first resistance.",
+               "fundamental":  "The business got stronger this quarter. On 3 November DigitalOcean reported Q3 revenue of USD 321M, up 40% year on year and above its own 304–307M guidance. Adjusted EPS was 0.45. Revenue from AI customers, counted as annual recurring revenue (ARR), rose 288% to USD 376M. About 90% of it now comes from managed inference and platform services rather than bare GPU rental. That supports the developer-experience thesis. Guidance went up: Q4 revenue of 348–351M (+44–45%), full-year 2026 of 1,208–1,211M, and 2027 growth of 60% or more (previously 50% or more). The catch is capital. The company is building about 180 MW of committed data-centre capacity, using a USD 785M equipment lease, and on 2 November it signed a program to sell up to USD 1B of new shares at market prices. That is roughly 11% dilution at current prices, plus earlier share issuance to retire convertible notes.",
+               "news":  [
+                            "3 Nov 2026: Q3 revenue was USD 321M (+40%), with record incremental ARR of USD 160M. Management raised Q4 guidance to +44–45% growth and the 2027 outlook to +60% or more.",
+                            "2–3 Nov 2026: DigitalOcean set up a program with Goldman Sachs and other banks to sell up to USD 1B of common stock \u0027at the market\u0027, meaning gradually at prevailing prices. That raised dilution worries even as results beat.",
+                            "4 Nov 2026: Shares fell about 3.7% intraday after Datadog\u0027s cautious Q4 guidance raised concerns about cloud usage. Goldman Sachs cut its target to USD 156 from 178 and kept a Buy rating. At least six firms lowered their targets.",
+                            "Week ended 6 Nov 2026: DOCN fell 19% to USD 72.48, including a 15.85% drop on 5 Nov. That day the Nasdaq fell 5.5% as investors sold AI infrastructure stocks after the US midterm elections.",
+                            "20 Nov 2026: A broad AI sell-off tied to a fading Anthropic IPO, Nvidia\u0027s 13.8% fall and expectations of a December Fed rate hike pushed the S\u0026P 500 into a correction. Neocloud peers CoreWeave (-12.1%) and Nebius (-16.1%) fell alongside DOCN\u0027s 13.4% drop. Reports found no DigitalOcean-specific news that day."
+                        ],
+               "caution":  "The recent damage comes from financing and market sentiment, not weak operations. Those drivers can last longer than expected. The USD 1B share sale means new shares could be sold into any rally, which may cap rebounds. Growing toward 150 MW of capacity by 2027 makes DigitalOcean more capital-intensive and closer to the debt-funded neocloud model the market is now punishing. Even after the fall, GuruFocus put the trailing P/E near 287x. A December rate hike or a deeper AI-capex pullback could push the stock toward the 52-week low of USD 42.01.",
+               "opportunity":  "Price has fallen hard while the numbers improved. This is DigitalOcean\u0027s fifth straight quarter of faster growth, and guidance was raised on 3 November. RSI near 31, price at the lower Bollinger Band and a MACD histogram turning slightly positive suggest selling pressure may be nearing exhaustion, though none of this confirms a bottom. If the market stabilises, a move back toward the 20-day average near USD 85.6 would be an ordinary bounce. The shift toward higher-value inference services is the part that matters for long-term holders.",
+               "risks":  [
+                             "Dilution from the USD 1B share sale and earlier share issuance to retire convertible notes",
+                             "Sector-wide de-rating of neocloud and AI infrastructure stocks as investors question debt-funded capex",
+                             "Higher interest rates (a December Fed hike is priced in) hurting richly valued growth stocks",
+                             "Delays or cost overruns on the roughly 180 MW of committed data-centre capacity",
+                             "Competition from hyperscalers and GPU neoclouds eroding the simplicity advantage for small and mid-sized customers"
+                         ],
+               "summary":  "DOCN is in a steep downtrend. At USD 66.76 it sits far below all three EMAs and just above the lower Bollinger Band, with RSI near oversold at 31. The fundamentals point the other way: Q3 revenue grew 40%, AI ARR almost quadrupled, and 2027 guidance rose to 60% or more growth. The drop comes from a USD 1B share-sale program and two AI-sector selloffs (5 and 20 November), not from operating weakness. The moat thesis is intact. Dilution and financing costs are the issues to track, with Q4 results in February the next checkpoint."
+           },
+    "th":  {
+               "headline":  "งบ Q3 แข็งแรงและเพิ่มเป้า แต่แผนขายหุ้นใหม่กับกระแสเทขายหุ้น AI กดราคา DOCN",
+               "technical":  "แนวโน้มเป็นขาลงชัดเจน วันที่ 20 พ.ย. DOCN ปิดที่ 66.76 ดอลลาร์ ลดลง 13.4% โดยเปิดที่ 73.90 แล้วปิดใกล้จุดต่ำสุดของวันที่ 65.55 ราคาอยู่ต่ำกว่า EMA (เส้นค่าเฉลี่ยที่ให้น้ำหนักราคาล่าสุดมากกว่า) ทั้งสามเส้นอย่างห่างไกล คือ EMA50 ที่ 100.80, EMA100 ที่ 109.73 และ EMA200 ที่ 105.04 EMA50 หลุดลงไปอยู่ใต้เส้นระยะยาวทั้งสองเส้นแล้ว ซึ่งเป็นการเรียงตัวแบบขาลง MACD (ส่วนต่างระหว่างค่าเฉลี่ยเร็วกับช้า ใช้ดูโมเมนตัม) ติดลบลึกที่ -9.12 และอยู่เหนือเส้นสัญญาณที่ -9.16 เพียงนิดเดียว histogram จึงบวกแค่ +0.04 บอกได้ว่าแรงขายเริ่มชะลอ แต่ยังไม่ใช่การกลับตัว RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 31.04 เกือบถึงโซน oversold ราคาอยู่เหนือขอบล่างของ Bollinger Band ที่ 64.10 เพียงเล็กน้อย (กรอบ 2 ส่วนเบี่ยงเบนมาตรฐานรอบค่าเฉลี่ย 20 วัน) กรอบกว้างมากตั้งแต่ 64.10 ถึง 107.13 สะท้อนความผันผวนที่รุนแรง ราคาอยู่ราว 17% ของกรอบ 52 สัปดาห์ (42.01–187.50) วอลุ่ม 5.47 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันราว 1.35 เท่า แปลว่าการขายมีแรงหนุนจริง แนวรับแรกคือขอบล่างแถว 64 แนวต้านแรกคือค่าเฉลี่ย 20 วันแถว 85.6",
+               "fundamental":  "ตัวธุรกิจไตรมาสนี้แข็งแรงขึ้น วันที่ 3 พ.ย. DigitalOcean รายงานรายได้ Q3 ที่ 321 ล้านดอลลาร์ โต 40% เทียบปีก่อน และสูงกว่าเป้าของบริษัทเองที่ 304–307 ล้าน EPS ปรับปรุงอยู่ที่ 0.45 รายได้ประจำต่อปี (ARR) จากลูกค้า AI โต 288% เป็น 376 ล้านดอลลาร์ ราว 90% มาจากบริการ inference และแพลตฟอร์มที่บริษัทดูแลให้ ไม่ใช่การให้เช่า GPU เปล่า ซึ่งตอกย้ำ moat ด้านประสบการณ์นักพัฒนา บริษัทเพิ่มเป้าทั้งหมด: รายได้ Q4 ที่ 348–351 ล้าน (+44–45%) ทั้งปี 2026 ที่ 1,208–1,211 ล้าน และการเติบโตปี 2027 ที่ 60% ขึ้นไป (เดิม 50% ขึ้นไป) จุดที่ต้องจับตาคือเงินทุน บริษัทกำลังสร้างศูนย์ข้อมูลที่ผูกพันไว้ราว 180 MW ใช้วงเงินเช่าอุปกรณ์ 785 ล้านดอลลาร์ และวันที่ 2 พ.ย. ได้ทำโครงการขายหุ้นใหม่ตามราคาตลาดสูงสุด 1 พันล้านดอลลาร์ คิดเป็นการ dilution ราว 11% ที่ราคาปัจจุบัน นอกเหนือจากหุ้นที่ออกไปก่อนหน้าเพื่อซื้อคืนหุ้นกู้แปลงสภาพ",
+               "news":  [
+                            "3 พ.ย. 2026: รายได้ Q3 อยู่ที่ 321 ล้านดอลลาร์ (+40%) ARR เพิ่มขึ้นเป็นสถิติ 160 ล้านดอลลาร์ ผู้บริหารเพิ่มเป้า Q4 เป็นโต 44–45% และเป้าปี 2027 เป็นโต 60% ขึ้นไป",
+                            "2–3 พ.ย. 2026: บริษัททำโครงการกับ Goldman Sachs และธนาคารอื่น เพื่อทยอยขายหุ้นสามัญใหม่ตามราคาตลาด (at-the-market) สูงสุด 1 พันล้านดอลลาร์ ทำให้ตลาดกังวลเรื่อง dilution แม้งบจะออกมาดีกว่าคาด",
+                            "4 พ.ย. 2026: หุ้นลดลงราว 3.7% ระหว่างวัน หลัง Datadog ให้เป้า Q4 แบบระมัดระวังจนตลาดกังวลเรื่องการใช้งานคลาวด์ Goldman Sachs ลดราคาเป้าหมายเป็น 156 จาก 178 ดอลลาร์แต่ยังคงคำแนะนำ Buy และมีอย่างน้อย 6 สำนักลดเป้าตาม",
+                            "สัปดาห์ที่สิ้นสุด 6 พ.ย. 2026: DOCN ร่วง 19% ไปปิดที่ 72.48 ดอลลาร์ รวมถึงลดลง 15.85% ในวันที่ 5 พ.ย. ซึ่ง Nasdaq ร่วง 5.5% จากการเทขายหุ้นโครงสร้างพื้นฐาน AI หลังการเลือกตั้งกลางเทอมสหรัฐฯ",
+                            "20 พ.ย. 2026: กระแสเทขายหุ้น AI จาก IPO ของ Anthropic ที่แผ่วลง Nvidia ที่ร่วง 13.8% และความคาดหวังว่า Fed จะขึ้นดอกเบี้ยในเดือนธันวาคม ดัน S\u0026P 500 เข้าสู่ภาวะ correction กลุ่ม neocloud อย่าง CoreWeave (-12.1%) และ Nebius (-16.1%) ร่วงพร้อมกับ DOCN ที่ลดลง 13.4% ทั้งนี้ไม่มีรายงานข่าวเฉพาะของ DigitalOcean ในวันนั้น"
+                        ],
+               "caution":  "แรงกดดันช่วงนี้มาจากเรื่องเงินทุนและอารมณ์ตลาด ไม่ใช่ผลประกอบการที่แย่ลง และปัจจัยแบบนี้อาจลากยาวกว่าที่คิด โครงการขายหุ้น 1 พันล้านดอลลาร์หมายความว่าบริษัทอาจขายหุ้นใหม่ออกมาทุกครั้งที่ราคาเด้ง ซึ่งอาจกดการฟื้นตัว การขยายกำลังการผลิตสู่ราว 150 MW ภายในปี 2027 ทำให้บริษัทใช้เงินลงทุนหนักขึ้น และเข้าใกล้โมเดล neocloud ที่พึ่งหนี้ ซึ่งตลาดกำลังลงโทษอยู่ แม้ราคาร่วงแล้ว GuruFocus ยังประเมิน P/E ย้อนหลังไว้ราว 287 เท่า หาก Fed ขึ้นดอกเบี้ยในเดือนธันวาคมหรือการลงทุน AI ชะลอแรงขึ้น ราคาอาจลงไปทดสอบจุดต่ำสุด 52 สัปดาห์ที่ 42.01 ดอลลาร์",
+               "opportunity":  "ราคาร่วงแรงในขณะที่ตัวเลขธุรกิจดีขึ้น ไตรมาสนี้เป็นไตรมาสที่ 5 ติดต่อกันที่ DigitalOcean เติบโตเร็วขึ้น และเพิ่งเพิ่มเป้าเมื่อ 3 พ.ย. RSI ใกล้ 31 ราคาอยู่ที่ขอบล่าง Bollinger Band และ histogram ของ MACD เริ่มบวกเล็กน้อย บ่งชี้ว่าแรงขายอาจใกล้หมด แต่ทั้งหมดนี้ยังไม่ยืนยันว่าเป็นจุดต่ำสุด หากตลาดนิ่งขึ้น การดีดกลับไปหาค่าเฉลี่ย 20 วันแถว 85.6 ดอลลาร์ถือเป็นการรีบาวด์ตามปกติ สำหรับนักลงทุนระยะยาว สิ่งที่สำคัญคือการขยับไปสู่บริการ inference ที่มีมูลค่าสูงขึ้น",
+               "risks":  [
+                             "dilution จากโครงการขายหุ้น 1 พันล้านดอลลาร์ และหุ้นที่ออกไปก่อนหน้าเพื่อซื้อคืนหุ้นกู้แปลงสภาพ",
+                             "ตลาดลดมูลค่าหุ้น neocloud และโครงสร้างพื้นฐาน AI ทั้งกลุ่ม จากความกังวลเรื่องการลงทุนที่พึ่งหนี้",
+                             "ดอกเบี้ยขาขึ้น (ตลาดคาดว่า Fed จะขึ้นในเดือนธันวาคม) กดดันหุ้นเติบโตที่มูลค่าสูง",
+                             "โครงการศูนย์ข้อมูลที่ผูกพันไว้ราว 180 MW อาจล่าช้าหรือบานปลายด้านต้นทุน",
+                             "การแข่งขันจาก hyperscaler และ GPU neocloud อาจกัดกร่อนจุดเด่นด้านความเรียบง่ายสำหรับลูกค้า SMB"
+                         ],
+               "summary":  "DOCN อยู่ในขาลงชัน ราคา 66.76 ดอลลาร์อยู่ต่ำกว่า EMA ทั้งสามเส้นมาก และอยู่เหนือขอบล่าง Bollinger Band เพียงเล็กน้อย RSI ที่ 31 ใกล้โซน oversold พื้นฐานกลับสวนทาง: รายได้ Q3 โต 40% ARR จาก AI โตเกือบ 4 เท่า และเป้าปี 2027 เพิ่มเป็นโต 60% ขึ้นไป แรงขายมาจากโครงการขายหุ้น 1 พันล้านดอลลาร์และการเทขายหุ้น AI ทั้งกลุ่มสองระลอก (5 และ 20 พ.ย.) ไม่ใช่ธุรกิจที่อ่อนแอลง moat ยังคงอยู่ สิ่งที่ต้องติดตามคือ dilution และต้นทุนเงินทุน โดยจุดตรวจถัดไปคืองบ Q4 ในเดือนกุมภาพันธ์"
+           },
+    "sources":  [
+                    {
+                        "title":  "DigitalOcean Holdings, Inc. - Form 8-K - Q3 2026 press release",
+                        "publisher":  "SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001582961/000162828026069125/a2026-q3dopressrelease.htm",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "DigitalOcean Q3 2026 slides: AI growth accelerates, 2027 outlook raised",
+                        "publisher":  "Investing.com",
+                        "url":  "https://ca.investing.com/news/stock-market-news/digitalocean-q3-2026-slides-ai-growth-accelerates-2027-outlook-raised-93CH-4926085",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "DigitalOcean Holdings, Inc. - Form 424B5 (at-the-market offering)",
+                        "publisher":  "SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001582961/000110465926121722/tm2628707d1_424b5.htm",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "DigitalOcean Lost 19% in a Week. Goldman Sachs Sees 115% Upside From Here",
+                        "publisher":  "TIKR",
+                        "url":  "https://www.tikr.com/blog/digitalocean-lost-19-in-a-week-goldman-sachs-sees-115-upside-from-here",
+                        "date":  "2026-11-09"
+                    },
+                    {
+                        "title":  "Cloudflare and DigitalOcean shares are falling, what you need to know",
+                        "publisher":  "StockStory via FinancialContent",
+                        "url":  "https://markets.financialcontent.com/stocks/article/stockstory-2026-11-4-cloudflare-and-digitalocean-shares-are-falling-what-you-need-to-know",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "Wall St ends sharply lower on AI selloff, S\u0026P 500, Dow in correction",
+                        "publisher":  "Reuters via Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "DigitalOcean Holdings Inc (DOCN) Shares Fall 4.4% -- GF Value Says Still Overvalued",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9211245/digitalocean-holdings-inc-docn-shares-fall-44-gf-value-says-still-overvalued",
+                        "date":  "2026-11-19"
+                    }
+                ]
+}

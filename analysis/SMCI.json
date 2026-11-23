@@ -1,0 +1,770 @@
+{
+    "ticker":  "SMCI",
+    "name":  "Super Micro Computer",
+    "symbol":  "NASDAQ:SMCI",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:45:24Z",
+    "costUsd":  0.6946378,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:SMCI",
+                       "yahoo":  "SMCI",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:43:00Z",
+                       "price":  21.65,
+                       "open":  23.1,
+                       "high":  23.52,
+                       "low":  21.47,
+                       "volume":  48309700,
+                       "avgVolume20":  46514820,
+                       "changePct":  -9.19,
+                       "historyDays":  501,
+                       "ema50":  32.17,
+                       "ema100":  33.38,
+                       "ema200":  33.89,
+                       "bb":  {
+                                  "upper":  36.74,
+                                  "middle":  28.9,
+                                  "lower":  21.05
+                              },
+                       "macd":  {
+                                    "macd":  -3.31,
+                                    "signal":  -2.85,
+                                    "hist":  -0.46
+                                },
+                       "rsi14":  28.04,
+                       "high52w":  51.4,
+                       "low52w":  19.48,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         47.42
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         46.9
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         41.64
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         43.99
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         40.64
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         29.27
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         31.97
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         30.46
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         30.85
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         29.22
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         27.78
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         30.66
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         35.46
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         33.32
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         32.45
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         31.68
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         30.63
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         28.15
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         29.33
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         27.65
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         27.22
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         27.19
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         26.25
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         28.17
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         28.24
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         28.31
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         27.66
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         27.65
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         26.89
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         24.68
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         24.18
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         23.83
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         25.5
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         30.56
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         31.2
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         30.1
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         29.81
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         28.45
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         25.7
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         27.73
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         28.4
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         28.64
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         31.69
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         30.32
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         29.38
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         31.13
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         31.46
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         31.6
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         37.61
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         39.16
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         39.84
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         38.28
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         37.41
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         36.58
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         36.5
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         37.24
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         35.17
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         38.46
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         37.39
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         38.46
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         37.08
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         37.28
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         36.71
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         37
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         37.87
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         39.59
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         40.26
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         38.93
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         37.38
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         40.1
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         36.74
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         35.64
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         36.85
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         40.35
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         39.09
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         41.2
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         41.54
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         41.44
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         41.51
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         43.26
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         41.78
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         41.02
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         41.07
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         41.92
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         43.69
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         43.19
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         43.46
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         44.94
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         42.77
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         41.86
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         39.98
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         39.07
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         35.78
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         35.09
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         31.63
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         32.1
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         32.47
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         35.57
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         33.72
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         32.94
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         32.69
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         35.09
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         35.81
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         34.43
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         32.95
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         30.44
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         31.39
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         29.6
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         27.08
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         28.76
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         28.6
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         27.79
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         30.43
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         26.99
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         26.87
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         25.03
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         24.14
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         24.37
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         23.84
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         21.65
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          33.39,
+                                          33.92,
+                                          34.23,
+                                          34.61,
+                                          34.85,
+                                          34.63,
+                                          34.52,
+                                          34.36,
+                                          34.23,
+                                          34.03,
+                                          33.78,
+                                          33.66,
+                                          33.73,
+                                          33.72,
+                                          33.67,
+                                          33.59,
+                                          33.47,
+                                          33.26,
+                                          33.11,
+                                          32.9,
+                                          32.67,
+                                          32.46,
+                                          32.21,
+                                          32.06,
+                                          31.91,
+                                          31.77,
+                                          31.6,
+                                          31.45,
+                                          31.27,
+                                          31.01,
+                                          30.74,
+                                          30.47,
+                                          30.28,
+                                          30.29,
+                                          30.32,
+                                          30.32,
+                                          30.3,
+                                          30.22,
+                                          30.05,
+                                          29.96,
+                                          29.89,
+                                          29.85,
+                                          29.92,
+                                          29.93,
+                                          29.91,
+                                          29.96,
+                                          30.02,
+                                          30.08,
+                                          30.38,
+                                          30.72,
+                                          31.08,
+                                          31.36,
+                                          31.6,
+                                          31.79,
+                                          31.98,
+                                          32.18,
+                                          32.3,
+                                          32.54,
+                                          32.73,
+                                          32.96,
+                                          33.12,
+                                          33.28,
+                                          33.42,
+                                          33.56,
+                                          33.73,
+                                          33.96,
+                                          34.2,
+                                          34.39,
+                                          34.51,
+                                          34.73,
+                                          34.8,
+                                          34.84,
+                                          34.92,
+                                          35.13,
+                                          35.28,
+                                          35.52,
+                                          35.75,
+                                          35.98,
+                                          36.19,
+                                          36.47,
+                                          36.68,
+                                          36.85,
+                                          37.01,
+                                          37.21,
+                                          37.46,
+                                          37.69,
+                                          37.91,
+                                          38.19,
+                                          38.37,
+                                          38.5,
+                                          38.56,
+                                          38.58,
+                                          38.47,
+                                          38.34,
+                                          38.08,
+                                          37.84,
+                                          37.63,
+                                          37.55,
+                                          37.4,
+                                          37.23,
+                                          37.05,
+                                          36.97,
+                                          36.93,
+                                          36.83,
+                                          36.68,
+                                          36.43,
+                                          36.23,
+                                          35.97,
+                                          35.62,
+                                          35.35,
+                                          35.09,
+                                          34.8,
+                                          34.63,
+                                          34.33,
+                                          34.04,
+                                          33.69,
+                                          33.31,
+                                          32.96,
+                                          32.6,
+                                          32.17
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Record sales collide with export probes; SMCI sinks to oversold near 52-week low",
+               "summary":  "Super Micro closed at $21.65 on 20 Nov 2026, down 9.19% on the day and 19.4% for the week. Business results were strong: on 3 Nov it reported fiscal Q1 sales of $19.9B, almost four times a year earlier, and raised FY2027 guidance to $72–82B. The stock still fell. On 12 Nov, reports said the Justice Department is examining alleged smuggling of Supermicro servers to China, and turmoil at Nvidia dragged on AI hardware stocks. The selling is about legal risk and thin margins, not demand. The chart is firmly bearish but oversold.",
+               "pros":  [
+                            "Fiscal Q1 sales hit $19.9B (vs $5.0B a year earlier), and FY27 guidance was raised to $72–82B.",
+                            "Q2 guidance of $19.5–21.5B and non-GAAP EPS of $1.66–1.90 means even the low end comes to about $6.6 a year, roughly 3x the share price.",
+                            "Management says it was among the first to ship Nvidia Vera Rubin NVL72 racks, which shows its speed-to-market edge still works.",
+                            "RSI 28 and a price just above the lower Bollinger Band point to an oversold stock, $2.17 above its 52-week low."
+                        ],
+               "cons":  [
+                            "Bloomberg and Semafor reported on 12 Nov that the DOJ is examining alleged smuggling of Supermicro hardware to China; no charges have been filed.",
+                            "Co-founder Wally Liaw faces a March 2027 trial over about $2.5B of servers routed to China, and the company has a grand jury subpoena.",
+                            "One customer was 44% of Q1 revenue, up from 28% in FY26.",
+                            "Gross margin guidance is 12–12.5% for Q2 and 11.8–12.2% for FY27, so pricing power is thin.",
+                            "Operating cash flow was −$434M in Q1, and bank and convertible debt totals $8.6B."
+                        ],
+               "opportunityCheck":  "Exposure looks right: AI was about 71% of Q1 revenue, and management expects 70–80% for FY27. The market-growth score fits the raised guidance, and the low bottleneck score fits a 12% gross margin. I would lower the position score. One customer now makes up 44% of sales, and repeated export-control investigations could make cautious hyperscalers, government buyers and Nvidia itself hesitant to rely on Supermicro. Optionality looks fair. If anything, the overall score leans slightly high because legal risk is not captured anywhere.",
+               "technical":  "The trend is clearly down. Price ($21.65) sits about a third below all three EMAs (exponential moving averages, which track the trend): EMA50 $32.17, EMA100 $33.38, EMA200 $33.89. Their order (50 below 100 below 200) is the textbook downtrend setup. Momentum is negative. MACD (a trend-momentum gauge) is at −3.31, below its signal line at −2.85, and the histogram is −0.46, so selling pressure is still building rather than fading. RSI 14 (a 0–100 momentum gauge where under 30 means oversold) reads 28.04, which is oversold. Price is close to the lower Bollinger Band at $21.05, the bottom of the band that holds most of a stock\u0027s normal price swings. The 52-week range is $19.48–51.40, so the stock is about 58% below its high and only $2.17 above its low. Volume of 48.3M was just 4% above the 20-day average of 46.5M. The −9.19% drop on 20 Nov was not a panic flush. Support sits at $21.05 and then $19.48–20.53, the March lows. Resistance is near $27 (the 12 Nov close) and $28.90 (the middle band). Oversold readings can bring a bounce, but they do not end a downtrend by themselves.",
+               "fundamental":  "Supermicro assembles AI servers and liquid-cooled racks around Nvidia and AMD GPUs. It wins on getting new platforms to customers fast, not on owning scarce technology. Fiscal Q1 2027, the quarter to 30 Sep 2026 reported on 3 Nov, was a blowout. Sales were $19.9B, net income $1.59B and non-GAAP EPS $1.81. Management raised FY27 revenue guidance to $72–82B from $65–72B. The quality behind those numbers is weaker. About $2.3B of Q1 revenue was catch-up from delayed deployments. Gross margin was 12.7% and is guided lower. One customer, which Raymond James believes is SpaceX, supplied 44% of sales. Working capital consumed cash: operating cash flow was −$434M against $8.6B of debt. The stock trades at about 0.33x trailing sales (Trefis). That valuation shows the market discounting legal risk and how long these earnings can last.",
+               "news":  [
+                            "3 Nov 2026: Fiscal Q1 sales were $19.9B, EPS was $1.81 non-GAAP, and FY27 revenue guidance was raised to $72–82B. Q2 guidance is $19.5–21.5B. The company had pre-announced the revenue beat on 20 Oct.",
+                            "4 Nov 2026: Shares fell toward a three-month low despite the beat. Analysts focused on the 44% customer concentration and gross-margin guidance of 11.8–12.2% for FY27. Raymond James raised its target to $65 and kept an Outperform rating.",
+                            "12 Nov 2026: The stock fell 11.3% to $26.99 after Bloomberg and Semafor reported that the Manhattan US Attorney\u0027s office is examining whether entities linked to Alice Huang smuggled Supermicro hardware to China. Supermicro says it cooperated and that Megaspeed was never a customer. Singapore\u0027s Home Affairs ministry called Supermicro\u0027s cooperation \u0027limited.\u0027",
+                            "12 Nov 2026: Analyst downgrades of Nvidia amid its leadership turmoil weighed on AI server stocks, which compounded Supermicro\u0027s fall.",
+                            "16–20 Nov 2026: Selling continued for the rest of the period, including a 5% drop on 16 Nov. On 20 Nov the stock fell another 9.19%. A market recap tied that day\u0027s drop to reports of a congressional probe into AI chip exports. I could not confirm that any congressional inquiry targets Supermicro directly; Senate and House export scrutiny so far centres on Nvidia and Megaspeed."
+                        ],
+               "caution":  "This is the third export-control cloud in 2026. Co-founder Liaw was charged in March and his trial is set for March 2027. The company has a grand jury subpoena plus SEC and BIS inquiries, and now a reported DOJ probe. Any charge against the company, or any curb on its Nvidia allocation, would hit a business that keeps only about 12 cents of gross profit per dollar of sales. Revenue is concentrated in one customer, cash flow is negative and debt is $8.6B, so a single order slip could swing results sharply. The chart shows no sign of a bottom yet.",
+               "opportunity":  "The business keeps delivering. Sales almost quadrupled year on year, FY27 guidance is $72–82B, and the company was among the first to ship Vera Rubin NVL72 racks. At $21.65 the market is pricing in a lot of legal damage: about 0.33x sales and only a few times annualized EPS guidance. If the probes end without charges against the company, the gap between earnings and price could narrow. The next hard data point is Q2 results, scheduled for 2 Feb 2027.",
+               "risks":  [
+                             "The DOJ or export probes could lead to charges or penalties against the company itself.",
+                             "Nvidia could cut or delay GPU allocation, or customers could move to Dell or HPE.",
+                             "Losing or delaying the 44% customer would cut revenue sharply.",
+                             "Gross margin could slip below 12% as price competition intensifies.",
+                             "Weak cash generation and $8.6B of debt could force dilutive financing.",
+                             "Governance history includes a 2006 export guilty plea, the 2024 auditor resignation and a CFO change in October 2026."
+                         ]
+           },
+    "th":  {
+               "headline":  "ยอดขายทำสถิติใหม่ แต่ติดคดีส่งออก SMCI ร่วงจนเข้าโซน oversold ใกล้จุดต่ำสุด 52 สัปดาห์",
+               "summary":  "Super Micro ปิดที่ $21.65 เมื่อ 20 พ.ย. 2026 ลดลง 9.19% ในวันเดียว และ 19.4% ทั้งสัปดาห์ ผลประกอบการเองแข็งแรงมาก วันที่ 3 พ.ย. บริษัทรายงานยอดขาย Q1 ปีบัญชี 2027 ที่ $19.9B เกือบ 4 เท่าของปีก่อน และปรับเป้าทั้งปี FY27 ขึ้นเป็น $72–82B แต่หุ้นกลับร่วงลง วันที่ 12 พ.ย. มีรายงานว่ากระทรวงยุติธรรมสหรัฐ (DOJ) กำลังตรวจสอบการลักลอบส่งเซิร์ฟเวอร์ Supermicro เข้าจีน ประกอบกับความวุ่นวายที่ Nvidia ที่ฉุดหุ้นฮาร์ดแวร์ AI ทั้งกลุ่ม แรงขายรอบนี้มาจากความเสี่ยงทางกฎหมายกับมาร์จิ้นที่บาง ไม่ใช่ดีมานด์ที่หาย กราฟยังเป็นขาลงชัดเจน แต่อยู่ในโซนขายมากเกินไปแล้ว",
+               "pros":  [
+                            "ยอดขาย Q1 อยู่ที่ $19.9B (ปีก่อน $5.0B) และปรับเป้า FY27 ขึ้นเป็น $72–82B",
+                            "ไกด์ Q2 ยอดขาย $19.5–21.5B และ EPS non-GAAP $1.66–1.90 ต่อให้ใช้ตัวเลขต่ำสุดก็ได้ราว $6.6 ต่อปี หรือประมาณ 3 เท่าของราคาหุ้น",
+                            "ผู้บริหารบอกว่าเป็นรายแรก ๆ ที่ส่งแร็ก Nvidia Vera Rubin NVL72 ได้ แสดงว่าจุดแข็งเรื่องความเร็วออกสู่ตลาดยังใช้ได้",
+                            "RSI 28 และราคาที่อยู่ติดขอบล่าง Bollinger บอกว่าหุ้นถูกขายมากเกินไป ราคาห่างจุดต่ำสุด 52 สัปดาห์แค่ $2.17"
+                        ],
+               "cons":  [
+                            "Bloomberg และ Semafor รายงานเมื่อ 12 พ.ย. ว่า DOJ กำลังตรวจสอบการลักลอบส่งฮาร์ดแวร์ Supermicro เข้าจีน แต่ยังไม่มีการตั้งข้อหา",
+                            "ผู้ร่วมก่อตั้ง Wally Liaw จะขึ้นศาลเดือน มี.ค. 2027 ในคดีส่งเซิร์ฟเวอร์มูลค่าราว $2.5B เข้าจีน และบริษัทเองได้รับหมายเรียกจากคณะลูกขุนใหญ่",
+                            "ลูกค้ารายเดียวคิดเป็น 44% ของรายได้ Q1 เพิ่มจาก 28% ใน FY26",
+                            "ไกด์ gross margin ไตรมาส Q2 อยู่ที่ 12–12.5% และทั้งปี FY27 ที่ 11.8–12.2% อำนาจกำหนดราคาจึงต่ำ",
+                            "กระแสเงินสดจากการดำเนินงาน Q1 ติดลบ $434M และหนี้ธนาคารรวมหุ้นกู้แปลงสภาพอยู่ที่ $8.6B"
+                        ],
+               "opportunityCheck":  "คะแนนด้าน exposure ดูสมเหตุสมผล เพราะ AI คิดเป็นราว 71% ของรายได้ Q1 และผู้บริหารคาดว่าจะเป็น 70–80% ใน FY27 คะแนนการเติบโตของตลาดก็สอดคล้องกับไกด์ที่ปรับขึ้น ส่วนคะแนน bottleneck ที่ต่ำก็เข้ากับ gross margin ราว 12% ข้อที่ควรปรับลดคือ position เพราะลูกค้ารายเดียวกินสัดส่วนถึง 44% และการถูกสอบสวนเรื่องส่งออกซ้ำแล้วซ้ำเล่าอาจทำให้ hyperscaler ภาครัฐ และ Nvidia เองลังเลที่จะพึ่งพา Supermicro ส่วน optionality ดูพอเหมาะ โดยรวมคะแนนอาจสูงไปเล็กน้อย เพราะยังไม่มีหัวข้อไหนสะท้อนความเสี่ยงทางกฎหมาย",
+               "technical":  "แนวโน้มเป็นขาลงชัดเจน ราคา $21.65 ต่ำกว่า EMA (เส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนัก ใช้ดูทิศทางแนวโน้ม) ทั้งสามเส้นราวหนึ่งในสาม ได้แก่ EMA50 $32.17, EMA100 $33.38 และ EMA200 $33.89 ลำดับที่เส้น 50 อยู่ใต้ 100 และ 100 อยู่ใต้ 200 คือรูปแบบขาลงแบบคลาสสิก โมเมนตัมเป็นลบ MACD (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ −3.31 ต่ำกว่าเส้น signal ที่ −2.85 และ histogram อยู่ที่ −0.46 แปลว่าแรงขายยังเพิ่มขึ้น ยังไม่ได้อ่อนลง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 28.04 จึงเข้าโซน oversold แล้ว ราคาอยู่ใกล้ขอบล่าง Bollinger Band ที่ $21.05 ซึ่งเป็นขอบล่างของกรอบที่ราคามักแกว่งอยู่ตามปกติ กรอบ 52 สัปดาห์คือ $19.48–51.40 ราคาตอนนี้ต่ำกว่าจุดสูงสุดราว 58% และสูงกว่าจุดต่ำสุดเพียง $2.17 วอลุ่ม 48.3M หุ้นสูงกว่าค่าเฉลี่ย 20 วันที่ 46.5M แค่ 4% การร่วง −9.19% เมื่อ 20 พ.ย. จึงยังไม่ใช่การเทขายแบบตื่นตระหนก แนวรับแรกอยู่ที่ $21.05 ถัดไปคือ $19.48–20.53 ซึ่งเป็นจุดต่ำเมื่อเดือน มี.ค. แนวต้านอยู่ราว $27 (ราคาปิด 12 พ.ย.) และ $28.90 (เส้นกลาง Bollinger) ภาวะ oversold อาจทำให้ราคาเด้งได้ แต่ลำพังตัวมันเองไม่ได้ยืนยันว่าขาลงจบแล้ว",
+               "fundamental":  "Supermicro ประกอบเซิร์ฟเวอร์ AI และแร็กระบายความร้อนด้วยของเหลวโดยใช้ GPU ของ Nvidia และ AMD จุดแข็งคือนำแพลตฟอร์มใหม่ไปส่งถึงลูกค้าได้เร็ว ไม่ได้ถือเทคโนโลยีที่หายาก ผล Q1 ปีบัญชี 2027 (ไตรมาสสิ้นสุด 30 ก.ย. 2026 ประกาศ 3 พ.ย.) ออกมาโดดเด่นมาก ยอดขาย $19.9B กำไรสุทธิ $1.59B และ EPS non-GAAP $1.81 บริษัทปรับเป้ารายได้ FY27 ขึ้นเป็น $72–82B จากเดิม $65–72B แต่คุณภาพของตัวเลขอ่อนกว่าที่เห็น ราว $2.3B ของรายได้ Q1 เป็นงานค้างที่เลื่อนมาส่งในไตรมาสนี้ gross margin อยู่ที่ 12.7% และไกด์ว่าจะลดลงอีก ลูกค้ารายเดียว (Raymond James เชื่อว่าคือ SpaceX) คิดเป็น 44% ของยอดขาย เงินทุนหมุนเวียนดูดเงินสดจนกระแสเงินสดจากการดำเนินงานติดลบ $434M ขณะที่มีหนี้ $8.6B หุ้นซื้อขายที่ราว 0.33 เท่าของยอดขายย้อนหลัง (ข้อมูลจาก Trefis) ระดับนี้สะท้อนว่าตลาดหักส่วนลดให้ความเสี่ยงทางกฎหมายและความไม่แน่นอนว่ากำไรจะยั่งยืนแค่ไหน",
+               "news":  [
+                            "3 พ.ย. 2026: ยอดขาย Q1 อยู่ที่ $19.9B, EPS non-GAAP $1.81 และปรับเป้ารายได้ FY27 ขึ้นเป็น $72–82B ไกด์ Q2 อยู่ที่ $19.5–21.5B บริษัทแจ้งล่วงหน้าแล้วเมื่อ 20 ต.ค. ว่ารายได้จะสูงกว่าเป้า",
+                            "4 พ.ย. 2026: หุ้นลงไปใกล้จุดต่ำสุดในรอบ 3 เดือน แม้ผลประกอบการจะดีกว่าคาด นักวิเคราะห์กังวลเรื่องลูกค้ารายเดียวที่คิดเป็น 44% และไกด์ gross margin FY27 ที่ 11.8–12.2% ส่วน Raymond James ปรับเป้าราคาขึ้นเป็น $65 และคงคำแนะนำ Outperform",
+                            "12 พ.ย. 2026: หุ้นร่วง 11.3% ไปปิดที่ $26.99 หลัง Bloomberg และ Semafor รายงานว่าสำนักงานอัยการสหรัฐที่แมนฮัตตันกำลังตรวจสอบว่ากลุ่มบริษัทที่เชื่อมโยงกับ Alice Huang ลักลอบนำฮาร์ดแวร์ Supermicro เข้าจีนหรือไม่ Supermicro ยืนยันว่าให้ความร่วมมือเต็มที่และ Megaspeed ไม่เคยเป็นลูกค้า แต่กระทรวงมหาดไทยสิงคโปร์ระบุว่า Supermicro ให้ความร่วมมือ \u0027อย่างจำกัด\u0027",
+                            "12 พ.ย. 2026: นักวิเคราะห์หลายรายลดอันดับหุ้น Nvidia ท่ามกลางความวุ่นวายในทีมผู้บริหาร ซึ่งฉุดหุ้นเซิร์ฟเวอร์ AI ทั้งกลุ่มและซ้ำเติมการร่วงของ Supermicro",
+                            "16–20 พ.ย. 2026: แรงขายต่อเนื่องตลอดช่วงนี้ รวมถึงวันที่ 16 พ.ย. ที่ร่วงอีก 5% วันที่ 20 พ.ย. หุ้นลงอีก 9.19% บทสรุปตลาดฉบับหนึ่งโยงสาเหตุไปที่ข่าวสภาคองเกรสสอบสวนการส่งออกชิป AI แต่ยังยืนยันไม่ได้ว่ามีการสอบสวนของคองเกรสที่มุ่งเป้า Supermicro โดยตรง เพราะการตรวจสอบของวุฒิสภาและสภาผู้แทนฯ ตอนนี้เน้นที่ Nvidia และ Megaspeed"
+                        ],
+               "caution":  "นี่เป็นเรื่องควบคุมการส่งออกเรื่องที่สามในปี 2026 ผู้ร่วมก่อตั้ง Liaw ถูกตั้งข้อหาเมื่อ มี.ค. และจะขึ้นศาล มี.ค. 2027 บริษัทได้รับหมายเรียกจากคณะลูกขุนใหญ่ มีการสอบถามจาก SEC และ BIS และล่าสุดมีข่าวว่า DOJ กำลังสอบสวน หากบริษัทถูกตั้งข้อหาเอง หรือ Nvidia ลดการจัดสรร GPU ให้ ธุรกิจที่เหลือกำไรขั้นต้นแค่ราว 12 เซนต์ต่อยอดขาย 1 ดอลลาร์จะได้รับผลกระทบหนัก รายได้ยังกระจุกอยู่กับลูกค้ารายเดียว กระแสเงินสดติดลบ และมีหนี้ $8.6B ออร์เดอร์ที่เลื่อนเพียงรายการเดียวจึงอาจทำให้ผลประกอบการผันผวนมาก กราฟเองก็ยังไม่มีสัญญาณว่าถึงจุดต่ำสุด",
+               "opportunity":  "ธุรกิจยังส่งมอบได้ตามที่บอก ยอดขายโตเกือบ 4 เท่าจากปีก่อน ไกด์ FY27 อยู่ที่ $72–82B และบริษัทเป็นรายแรก ๆ ที่ส่งแร็ก Vera Rubin NVL72 ได้ ที่ราคา $21.65 ตลาดตั้งราคาเผื่อความเสียหายทางกฎหมายไว้มาก ทั้งราว 0.33 เท่าของยอดขาย และเพียงไม่กี่เท่าของ EPS ตามไกด์เมื่อคิดเป็นรายปี หากการสอบสวนจบลงโดยไม่มีข้อหาต่อตัวบริษัท ช่องว่างระหว่างกำไรกับราคาหุ้นอาจแคบลง ตัวเลขชี้วัดถัดไปคือผล Q2 ที่กำหนดประกาศ 2 ก.พ. 2027",
+               "risks":  [
+                             "การสอบสวนของ DOJ หรือเรื่องควบคุมการส่งออกอาจนำไปสู่การตั้งข้อหาหรือค่าปรับต่อตัวบริษัทเอง",
+                             "Nvidia อาจลดหรือชะลอการจัดสรร GPU หรือลูกค้าอาจย้ายไปใช้ Dell หรือ HPE",
+                             "ถ้าเสียหรือเลื่อนออร์เดอร์จากลูกค้าที่คิดเป็น 44% รายได้จะลดลงมาก",
+                             "gross margin อาจหลุดต่ำกว่า 12% เมื่อการแข่งขันด้านราคาดุเดือดขึ้น",
+                             "กระแสเงินสดที่อ่อนแอกับหนี้ $8.6B อาจบีบให้ต้องระดมทุนจนผู้ถือหุ้นเดิมถูก dilute",
+                             "ประวัติด้านธรรมาภิบาลมีทั้งการรับสารภาพคดีส่งออกปี 2006 ผู้สอบบัญชีลาออกปี 2024 และการเปลี่ยน CFO เมื่อ ต.ค. 2026"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "Supermicro Announces First Quarter of Fiscal Year 2027 Financial Results",
+                        "publisher":  "Supermicro",
+                        "url":  "https://www.supermicro.com/en/pressreleases/supermicro-announces-first-quarter-fiscal-year-2027-financial-results",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "What Explains The Move In Super Micro Stock?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/smci/articles/624901/what-explains-the-move-in-super-micro-stock/2026-11-13",
+                        "date":  "2026-11-13"
+                    },
+                    {
+                        "title":  "Before Megaspeed, there was Supermicro: The other Nvidia partner tied to China chip smuggling—and to Jensen Huang",
+                        "publisher":  "Fortune",
+                        "url":  "https://fortune.com/2026/11/12/jensen-huang-affair-megaspeed-supermicro-nvidia-smuggling-doj/",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Supermicro, Nvidia Reportedly Face DOJ Scrutiny In Separate Inquiries — SMCI Stock Plunges",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/supermicro-nvidia-reportedly-face-doj-175845243.html",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "This One Customer Is Now 44% of Super Micro\u0027s Revenue",
+                        "publisher":  "24/7 Wall St.",
+                        "url":  "https://247wallst.com/investing/2026/11/04/this-one-customer-is-now-44-of-super-micros-revenue/",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "SMCI Stock Near 3-Month Low: Super Micro\u0027s Earnings Beat Fails To Ease Analyst Concerns Over Margins",
+                        "publisher":  "Stocktwits",
+                        "url":  "https://stocktwits.com/news-articles/markets/equity/smci-stock-near-3-month-low-super-micro-s-earnings-beat-fails-to-ease-analyst-concerns-over-margins/cNGL18LR93M",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "Super Micro Falls 5% as Reported DOJ Smuggling Probe Weighs for a Third Session; Dell and Hewlett Packard Enterprise Drop 4%",
+                        "publisher":  "24/7 Wall St.",
+                        "url":  "https://247wallst.com/investing/2026/11/16/super-micro-falls-5-as-reported-doj-smuggling-probe-weighs-for-a-third-session-dell-and-hewlett-packard-enterprise-drop-4/",
+                        "date":  "2026-11-16"
+                    },
+                    {
+                        "title":  "Weekly Recap",
+                        "publisher":  "Longbridge",
+                        "url":  "https://longbridge.com/en/news/306360887",
+                        "date":  "2026-11-21"
+                    }
+                ]
+}

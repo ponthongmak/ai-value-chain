@@ -1,0 +1,736 @@
+{
+    "ticker":  "NBIS",
+    "name":  "Nebius Group",
+    "symbol":  "NASDAQ:NBIS",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:08:38Z",
+    "costUsd":  0.7290273000000002,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:NBIS",
+                       "yahoo":  "NBIS",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:05:52Z",
+                       "price":  81.31,
+                       "open":  93.69,
+                       "high":  94.04,
+                       "low":  80.67,
+                       "volume":  49539900,
+                       "avgVolume20":  31199275,
+                       "changePct":  -16.11,
+                       "ema50":  164.9,
+                       "ema100":  181.1,
+                       "ema200":  172.04,
+                       "bb":  {
+                                  "upper":  186.9,
+                                  "middle":  134.48,
+                                  "lower":  82.06
+                              },
+                       "macd":  {
+                                    "macd":  -24.08,
+                                    "signal":  -21.03,
+                                    "hist":  -3.05
+                                },
+                       "rsi14":  28.51,
+                       "high52w":  299.86,
+                       "low52w":  73.52,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         251.68
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         259.67
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         227.81
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         218
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         220.12
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         211.69
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         222.24
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         232.36
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         260.07
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         265.1
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         280.91
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         286.69
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         283.61
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         275.25
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         259.66
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         256.63
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         240.3
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         261.15
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         276.17
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         229.18
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         215.62
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         213.02
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         195.19
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         216.48
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         216.2
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         219.65
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         210.51
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         194.09
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         199.51
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         171.77
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         177.71
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         182.62
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         216.92
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         218.16
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         220.97
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         187.77
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         187.88
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         169.69
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         148.22
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         188.43
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         190.41
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         212.58
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         225.74
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         218.99
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         189.88
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         187.97
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         184.11
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         193.23
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         259.2
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         255.04
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         277.68
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         268.85
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         248.43
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         223.9
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         220.11
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         219.13
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         210.91
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         221.97
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         213.93
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         218.48
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         209.18
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         206.32
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         199.54
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         204.09
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         210.63
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         226.39
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         243.88
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         240.35
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         228.11
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         224.55
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         212.19
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         207.37
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         209.37
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         217.99
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         223.54
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         232.8
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         236.12
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         226.61
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         243.48
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         237.33
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         231.88
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         237.35
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         235.88
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         232.28
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         242.81
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         232.57
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         249.87
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         237.15
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         219.71
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         221.07
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         210.06
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         206.86
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         186.01
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         188.41
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         165.47
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         170.24
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         171.45
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         171.57
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         159.17
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         158.74
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         153.27
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         170.47
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         182.34
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         171.99
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         154.14
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         141.39
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         151.64
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         141.52
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         120.37
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         129.49
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         141.45
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         134
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         154.69
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         128.64
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         115.88
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         107.13
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         106.04
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         106.96
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         96.92
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         81.31
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          178.47,
+                                          181.66,
+                                          183.47,
+                                          184.82,
+                                          186.21,
+                                          187.2,
+                                          188.58,
+                                          190.3,
+                                          193.03,
+                                          195.86,
+                                          199.19,
+                                          202.62,
+                                          205.8,
+                                          208.52,
+                                          210.53,
+                                          212.34,
+                                          213.43,
+                                          215.3,
+                                          217.69,
+                                          218.14,
+                                          218.04,
+                                          217.85,
+                                          216.96,
+                                          216.94,
+                                          216.91,
+                                          217.02,
+                                          216.76,
+                                          215.87,
+                                          215.23,
+                                          213.53,
+                                          212.12,
+                                          210.97,
+                                          211.2,
+                                          211.47,
+                                          211.84,
+                                          210.9,
+                                          210,
+                                          208.42,
+                                          206.06,
+                                          205.37,
+                                          204.78,
+                                          205.08,
+                                          205.89,
+                                          206.41,
+                                          205.76,
+                                          205.06,
+                                          204.24,
+                                          203.81,
+                                          205.98,
+                                          207.9,
+                                          210.64,
+                                          212.92,
+                                          214.32,
+                                          214.69,
+                                          214.9,
+                                          215.07,
+                                          214.91,
+                                          215.18,
+                                          215.13,
+                                          215.27,
+                                          215.03,
+                                          214.69,
+                                          214.09,
+                                          213.7,
+                                          213.58,
+                                          214.08,
+                                          215.25,
+                                          216.23,
+                                          216.7,
+                                          217.01,
+                                          216.82,
+                                          216.45,
+                                          216.17,
+                                          216.24,
+                                          216.53,
+                                          217.17,
+                                          217.91,
+                                          218.25,
+                                          219.24,
+                                          219.95,
+                                          220.42,
+                                          221.08,
+                                          221.66,
+                                          222.08,
+                                          222.89,
+                                          223.27,
+                                          224.31,
+                                          224.82,
+                                          224.62,
+                                          224.48,
+                                          223.91,
+                                          223.24,
+                                          221.78,
+                                          220.48,
+                                          218.32,
+                                          216.43,
+                                          214.67,
+                                          212.98,
+                                          210.87,
+                                          208.82,
+                                          206.65,
+                                          205.23,
+                                          204.33,
+                                          203.06,
+                                          201.14,
+                                          198.8,
+                                          196.95,
+                                          194.78,
+                                          191.86,
+                                          189.41,
+                                          187.53,
+                                          185.43,
+                                          184.23,
+                                          182.05,
+                                          179.45,
+                                          176.62,
+                                          173.85,
+                                          171.23,
+                                          168.31,
+                                          164.9
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Nebius down 47% since Q3: delays and capex costs outweigh strong demand",
+               "technical":  "NBIS closed at $81.31 on 2026-11-20, down 16.11% in one session. It opened at $93.69 and finished near the day\u0027s low of $80.67. The trend is clearly down. EMAs (exponential moving averages that track short-, medium- and long-term trend) sit far above the price: the EMA50 at $164.9 is about 51% higher, and the EMA100 ($181.1) and EMA200 ($172.04) are higher still. The EMA50 has already fallen below both longer averages, a classic sign that the earlier uptrend has broken. Momentum is negative. MACD (a trend-momentum gauge) is -24.08, below its signal line at -21.03, and the histogram is -3.05, so selling pressure is still building. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 28.51, so the stock is stretched to the downside. Price closed just under the lower Bollinger Band at $82.06 (the bands are a 20-day average ±2 standard deviations). The bands are very wide, with the upper band at $186.9, which signals extreme volatility. Volume was 49.5M, about 1.6x the 20-day average of 31.2M, which confirms the selling. The 52-week low of $73.52 is the nearest support, and the $93–94 zone from Friday\u0027s open and high is nearby resistance.",
+               "fundamental":  "Nebius rents out GPU computing power and AI software tools, sitting between Nvidia\u0027s chips and the companies that build AI models. In Q3 2026 (reported 2026-11-12), revenue was $980.8M, up 571% year on year, though about $325M of that was one-time. Adjusted EBITDA was $465.8M, and contracted backlog (RPO) reached $38.7B. Nebius has signed more than $12B of contracts since the start of Q3, with customers including Microsoft, Meta, Databricks and Palantir. Demand is not the problem; delivery and funding are. Third-party data-center capacity slipped into 1H 2027. As a result, 2026 revenue is guided to the low end of $3.0–3.4B, and the target of more than $7B ARR (annualized revenue run rate) moved from December to February. Capex rises to about $27B in 2026 and $40–45B in 2027. Against that, Nebius has $7.4B in cash and $14.2B in debt, and it does not expect pre-tax breakeven until Q4 2027.",
+               "news":  [
+                            "2026-11-12: Q3 revenue of $980.8M (+571% YoY) and adjusted EBITDA of $465.8M beat estimates. However, Nebius guided 2026 revenue to the low end of $3.0–3.4B and pushed its \u003e$7B ARR goal from December to February. The stock fell 16.35% that day to $129.40.",
+                            "2026-11-12: Nebius raised 2026 capex guidance to about $27B from $20–25B. Its first 2027 outlook calls for $12–13B in revenue and $40–45B in capex, with 75–85% to be covered by customer prepayments and asset-backed financing.",
+                            "CEO Arkady Volozh wrote that \u0027where we rely on third parties, there have been delays.\u0027 The remaining Microsoft-contracted tranches at the New Jersey colocation site move to Q2 2027 while that site switches power to Bloom Energy fuel cells. He said Nebius-owned sites are on time or ahead of schedule.",
+                            "The Q3 shareholder letter describes $5.75B of convertible notes issued in August, about $1.0B raised through at-the-market share sales in Q3, and a $3.5B senior secured facility with Citi in October. These show how heavily the build-out relies on outside capital.",
+                            "Supply chain: on 2026-11-12, Nvidia announced that Jensen Huang had resigned as CEO, effective immediately, and named CFO Colette Kress interim CEO. Leadership uncertainty at Nebius\u0027s key GPU supplier weighed on AI infrastructure stocks going into Nvidia\u0027s earnings the following week.",
+                            "2026-11-20: the neocloud selloff deepened as the rally around Anthropic\u0027s IPO faded and the Nasdaq fell 1.8%. Michael Burry, who had disclosed short positions in Nebius, publicly claimed vindication. Bernstein and Evercore ISI said capacity and financing, not customer demand, are the sector\u0027s binding constraints."
+                        ],
+               "caution":  "The bear case is about money and timing. Nebius must fund about $27B of capex this year and $40–45B next year. Meanwhile, Q3 operating cash flow was -$273M and debt is already $14.2B. More convertible notes or share sales would dilute existing holders, and tighter credit would raise funding costs. Delivery also depends partly on third-party data centers that have already slipped. On the chart there is no sign of a bottom yet: MACD is still widening lower, and a break below $73.52 would mean new 52-week lows.",
+               "opportunity":  "The bull case is that demand looks real. Nebius has $38.7B of contracted backlog, signed more than $12B of contracts in about four months, has blue-chip customers such as Microsoft and Meta, and kept its ~40% adjusted EBITDA margin guidance. Management says the delays are about timing, not cancellations, and its own sites are on schedule. If the delayed capacity arrives in 1H 2027, the $12–13B revenue outlook for 2027 would be roughly 4x 2026. With RSI at 28.51 and the price below the lower band, the stock is deeply oversold, which can come before sharp relief rallies. However, oversold stocks can also keep falling.",
+               "risks":  [
+                             "Financing risk: $40–45B of 2027 capex depends on customer prepayments, asset-backed loans and capital markets staying open.",
+                             "Dilution from further convertible notes or at-the-market share sales.",
+                             "Further delays at third-party colocation sites, including the Microsoft New Jersey tranches, could push revenue later again.",
+                             "Customer concentration in a few hyperscalers (Microsoft, Meta).",
+                             "Nvidia leadership uncertainty and the broader AI-infrastructure sentiment shift, including prominent short-sellers targeting neoclouds.",
+                             "Earnings quality: about $325M of Q3 revenue was non-recurring, and management changed its key metric away from ARR."
+                         ],
+               "summary":  "NBIS has fallen from $154.69 before its 2026-11-12 earnings report to $81.31 on 2026-11-20, a drop of about 47%, and now trades only about 11% above its 52-week low. Q3 beat estimates, but delayed third-party capacity, a pushed-back ARR target and a much bigger capex bill shifted the debate from growth to whether Nebius can fund and deliver it. Nvidia\u0027s surprise CEO exit and a sector-wide neocloud selloff added pressure. The technicals are firmly bearish, though oversold. Demand looks intact, but the thesis is on watch for execution and financing."
+           },
+    "th":  {
+               "headline":  "Nebius ร่วง 47% หลังงบ Q3 เพราะส่งมอบล่าช้าและต้องลงทุนหนัก แม้ดีมานด์ยังแข็ง",
+               "technical":  "NBIS ปิดที่ $81.31 ในวันที่ 2026-11-20 ลดลง 16.11% ในวันเดียว เปิดตลาดที่ $93.69 แล้วปิดใกล้จุดต่ำสุดของวันที่ $80.67 แนวโน้มเป็นขาลงชัดเจน ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยทุกเส้นมาก EMA (เส้นค่าเฉลี่ยเคลื่อนที่ที่ใช้ดูแนวโน้มระยะสั้น กลาง และยาว) เส้น EMA50 อยู่ที่ $164.9 สูงกว่าราคาราว 51% ส่วน EMA100 ($181.1) และ EMA200 ($172.04) อยู่สูงกว่านั้นอีก EMA50 หลุดลงมาอยู่ใต้สองเส้นยาวแล้ว ซึ่งเป็นสัญญาณคลาสสิกว่าขาขึ้นเดิมจบลง โมเมนตัมเป็นลบ MACD (ตัววัดแรงส่งของเทรนด์) อยู่ที่ -24.08 ต่ำกว่าเส้นสัญญาณที่ -21.03 และฮิสโตแกรมอยู่ที่ -3.05 แปลว่าแรงขายยังเพิ่มขึ้นอยู่ RSI 14 (มาตรวัดโมเมนตัม 0–100 ถ้าต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 28.51 ราคาปิดหลุดขอบล่างของ Bollinger Band ($82.06) เล็กน้อย (Bollinger Band คือกรอบค่าเฉลี่ย 20 วัน ±2 ส่วนเบี่ยงเบนมาตรฐาน) กรอบกว้างมาก ขอบบนอยู่ที่ $186.9 สะท้อนความผันผวนสูงสุดขีด วอลุ่ม 49.5 ล้านหุ้น สูงราว 1.6 เท่าของค่าเฉลี่ย 20 วัน (31.2 ล้าน) ยืนยันแรงขาย แนวรับถัดไปคือจุดต่ำสุด 52 สัปดาห์ที่ $73.52 ส่วนแนวต้านใกล้ ๆ อยู่ที่โซน $93–94 ซึ่งเป็นราคาเปิดและราคาสูงสุดของวันศุกร์",
+               "fundamental":  "Nebius ให้เช่ากำลังประมวลผล GPU และเครื่องมือ AI ทำหน้าที่เป็นตัวกลางระหว่างชิปของ Nvidia กับบริษัทที่สร้างโมเดล AI งบ Q3 2026 (ประกาศ 2026-11-12) มีรายได้ $980.8M โต 571% จากปีก่อน แต่ราว $325M เป็นรายได้ครั้งเดียว Adjusted EBITDA อยู่ที่ $465.8M และงานในมือตามสัญญา (RPO) อยู่ที่ $38.7B ตั้งแต่ต้น Q3 บริษัทเซ็นสัญญาใหม่ไปแล้วกว่า $12B ลูกค้ามีทั้ง Microsoft, Meta, Databricks และ Palantir ปัญหาจึงไม่ได้อยู่ที่ดีมานด์ แต่อยู่ที่การส่งมอบและเงินทุน กำลังการผลิตจากดาต้าเซ็นเตอร์ของบุคคลที่สามเลื่อนไปครึ่งแรกปี 2027 ทำให้ไกด์รายได้ปี 2026 ลดลงไปอยู่ที่ขอบล่างของช่วง $3.0–3.4B และเป้า ARR (รายได้ต่อปีตามอัตราปัจจุบัน) เกิน $7B เลื่อนจากธันวาคมไปกุมภาพันธ์ Capex เพิ่มเป็นราว $27B ในปี 2026 และ $40–45B ในปี 2027 ขณะที่มีเงินสด $7.4B หนี้ $14.2B และคาดว่าจะถึงจุดคุ้มทุนก่อนภาษีใน Q4 2027",
+               "news":  [
+                            "2026-11-12: งบ Q3 รายได้ $980.8M (+571% YoY) และ Adjusted EBITDA $465.8M ดีกว่าคาด แต่บริษัทไกด์รายได้ปี 2026 ไว้ที่ขอบล่างของช่วง $3.0–3.4B และเลื่อนเป้า ARR เกิน $7B จากธันวาคมไปกุมภาพันธ์ หุ้นร่วง 16.35% ในวันนั้นมาปิดที่ $129.40",
+                            "2026-11-12: ปรับไกด์ capex ปี 2026 ขึ้นเป็นราว $27B จากเดิม $20–25B ไกด์ปี 2027 ฉบับแรกตั้งรายได้ไว้ $12–13B และ capex $40–45B โดยคาดว่า 75–85% จะได้จากเงินจ่ายล่วงหน้าของลูกค้าและสินเชื่อที่มีสินทรัพย์ค้ำประกัน",
+                            "CEO Arkady Volozh ยอมรับว่า \u0027ส่วนที่พึ่งบุคคลที่สามมีความล่าช้า\u0027 งวดที่เหลือของสัญญา Microsoft ที่ไซต์ colocation ในนิวเจอร์ซีย์เลื่อนไป Q2 2027 ระหว่างที่ไซต์เปลี่ยนแหล่งไฟฟ้าไปใช้เซลล์เชื้อเพลิงของ Bloom Energy ส่วนไซต์ที่บริษัทเป็นเจ้าของเองยังตรงหรือเร็วกว่ากำหนด",
+                            "จดหมายถึงผู้ถือหุ้นไตรมาส 3 ระบุว่าบริษัทออกหุ้นกู้แปลงสภาพ $5.75B ในเดือนสิงหาคม ขายหุ้นผ่านโปรแกรม ATM ได้ราว $1.0B ใน Q3 และได้วงเงินกู้มีหลักประกัน $3.5B จาก Citi ในเดือนตุลาคม สะท้อนว่าการขยายกิจการพึ่งเงินทุนภายนอกสูงมาก",
+                            "ซัพพลายเชน: 2026-11-12 Nvidia ประกาศว่า Jensen Huang ลาออกจากตำแหน่ง CEO มีผลทันที และแต่งตั้ง CFO Colette Kress เป็น CEO ชั่วคราว ความไม่แน่นอนของผู้นำซัพพลายเออร์ GPU รายหลักกดดันหุ้นโครงสร้างพื้นฐาน AI ช่วงก่อน Nvidia ประกาศงบในสัปดาห์ถัดมา",
+                            "2026-11-20: แรงขายหุ้นกลุ่ม neocloud หนักขึ้นเมื่อกระแสจาก IPO ของ Anthropic จางลง และ Nasdaq ลบ 1.8% Michael Burry ซึ่งเคยเปิดเผยว่าชอร์ต Nebius ออกมาประกาศว่าตัวเองคาดถูก ด้าน Bernstein และ Evercore ISI มองว่าข้อจำกัดหลักของกลุ่มคือกำลังการผลิตและเงินทุน ไม่ใช่ดีมานด์ลูกค้า"
+                        ],
+               "caution":  "มุมมองขาลงอยู่ที่เรื่องเงินและเวลา ปีนี้ Nebius ต้องหาเงินมาลงทุนราว $27B และปีหน้าอีก $40–45B ขณะที่กระแสเงินสดจากการดำเนินงาน Q3 ติดลบ $273M และหนี้สูงถึง $14.2B แล้ว ถ้าต้องออกหุ้นกู้แปลงสภาพหรือขายหุ้นเพิ่ม ผู้ถือหุ้นเดิมจะถูกลดสัดส่วน และถ้าสินเชื่อตึงตัว ต้นทุนเงินจะสูงขึ้น การส่งมอบยังพึ่งดาต้าเซ็นเตอร์ของคนอื่นซึ่งเลื่อนมาแล้วรอบหนึ่ง ด้านกราฟยังไม่มีสัญญาณว่าถึงจุดต่ำสุด MACD ยังถ่างลงต่อ และถ้าหลุด $73.52 จะเป็นจุดต่ำสุดใหม่ในรอบ 52 สัปดาห์",
+               "opportunity":  "มุมมองขาขึ้นคือดีมานด์ดูเป็นของจริง Nebius มีงานในมือตามสัญญา $38.7B เซ็นสัญญาใหม่กว่า $12B ในเวลาราวสี่เดือน มีลูกค้าระดับ Microsoft และ Meta และยังคงไกด์ Adjusted EBITDA margin ราว 40% ไว้ ผู้บริหารยืนยันว่าเป็นแค่การเลื่อนเวลา ไม่ใช่การยกเลิกสัญญา และไซต์ของบริษัทเองยังตรงตามกำหนด ถ้ากำลังการผลิตที่เลื่อนไปเข้ามาได้ในครึ่งแรกปี 2027 ไกด์รายได้ปี 2027 ที่ $12–13B จะสูงราว 4 เท่าของปี 2026 ส่วน RSI ที่ 28.51 และราคาที่หลุดขอบล่างของกรอบแสดงว่าหุ้นถูกขายมากเกินไป ซึ่งบางครั้งตามมาด้วยการเด้งแรง แต่หุ้นที่ขายมากเกินไปก็ลงต่อได้เช่นกัน",
+               "risks":  [
+                             "ความเสี่ยงด้านเงินทุน: capex $40–45B ในปี 2027 ต้องพึ่งเงินจ่ายล่วงหน้าของลูกค้า สินเชื่อที่มีสินทรัพย์ค้ำประกัน และตลาดทุนที่ยังเปิดรับ",
+                             "สัดส่วนผู้ถือหุ้นเดิมอาจถูกลดลง หากบริษัทออกหุ้นกู้แปลงสภาพหรือขายหุ้นผ่าน ATM เพิ่ม",
+                             "ไซต์ colocation ของบุคคลที่สาม รวมถึงงวดของ Microsoft ในนิวเจอร์ซีย์ อาจล่าช้าอีกจนรายได้ถูกเลื่อนออกไปอีก",
+                             "รายได้กระจุกตัวอยู่กับ hyperscaler ไม่กี่ราย (Microsoft, Meta)",
+                             "ความไม่แน่นอนเรื่องผู้นำของ Nvidia และบรรยากาศการลงทุนในโครงสร้างพื้นฐาน AI ที่เปลี่ยนไป รวมถึงนักชอร์ตชื่อดังที่จับตากลุ่ม neocloud",
+                             "คุณภาพกำไร: รายได้ Q3 ราว $325M เป็นรายการครั้งเดียว และผู้บริหารเลิกใช้ ARR เป็นตัวชี้วัดหลัก"
+                         ],
+               "summary":  "NBIS ร่วงจาก $154.69 ก่อนประกาศงบวันที่ 2026-11-12 มาอยู่ที่ $81.31 ในวันที่ 2026-11-20 ลดลงราว 47% และตอนนี้อยู่เหนือจุดต่ำสุด 52 สัปดาห์เพียงราว 11% งบ Q3 ออกมาดีกว่าคาด แต่กำลังการผลิตจากบุคคลที่สามที่ล่าช้า เป้า ARR ที่ถูกเลื่อน และงบลงทุนที่สูงขึ้นมาก ทำให้คำถามของตลาดเปลี่ยนจากเรื่องการเติบโตเป็นว่าบริษัทจะหาเงินและส่งมอบได้ทันหรือไม่ การลาออกกะทันหันของ CEO Nvidia และแรงขายทั้งกลุ่ม neocloud ยิ่งซ้ำเติม ภาพทางเทคนิคเป็นขาลงชัดเจน แม้จะอยู่ในโซนขายมากเกินไป ดีมานด์ยังแข็งแรง แต่ moat thesis ต้องจับตาเรื่องการส่งมอบและเงินทุน"
+           },
+    "sources":  [
+                    {
+                        "title":  "Nebius Group N.V. - Form 6-K Q3 2026 results press release (Ex. 99.1)",
+                        "publisher":  "SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926126008/tm2629571d1_ex99-1.htm",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Nebius Group N.V. - Form 6-K Q3 2026 shareholder letter (Ex. 99.2)",
+                        "publisher":  "SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926126008/tm2629571d1_ex99-2.htm",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Nebius shares tumble 22% as capacity delays hit revenue outlook and capex rises to $27 billion",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/nebius-shares-tumble-22-capacity-143312354.html",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Why Is Nebius Group (NBIS) Stock Down -16.35% Today?",
+                        "publisher":  "Tickeron",
+                        "url":  "https://tickeron.com/blogs/why-is-nebius-group-nbis-stock-down-16-35-today-35423/",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Why is Nebius stock sliding today?",
+                        "publisher":  "Investing.com",
+                        "url":  "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-5042154",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "NVIDIA Announces CEO Transition",
+                        "publisher":  "NVIDIA Newsroom",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "CoreWeave, Oracle and Nebius Plunge as Nvidia Fallout Rattles AI Stocks",
+                        "publisher":  "TradingView / GuruFocus",
+                        "url":  "https://www.tradingview.com/news/gurufocus:b3eef28cf094b:0-coreweave-oracle-and-nebius-plunge-as-nvidia-fallout-rattles-ai-stocks/"
+                    }
+                ]
+}

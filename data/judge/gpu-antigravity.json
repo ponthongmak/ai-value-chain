@@ -1,0 +1,84 @@
+{
+    "sector":  "gpu",
+    "judge":  "antigravity",
+    "provider":  "antigravity",
+    "model":  "gemini-4-neon-high",
+    "effort":  "high",
+    "account":  "Antigravity (Google)",
+    "generatedAt":  "2026-11-23T05:11:35Z",
+    "costUsd":  null,
+    "stocks":  {
+                   "CRWV":  {
+                                "m":  [
+                                          12,
+                                          11,
+                                          11,
+                                          13,
+                                          6
+                                      ],
+                                "o":  [
+                                          19,
+                                          18,
+                                          16,
+                                          13,
+                                          14
+                                      ],
+                                "why_en":  "Leading neocloud scale, $132B backlog, and Weights \u0026 Biases software drive huge AI upside, but heavy debt, thin GAAP margins, and NVIDIA/hyperscaler reliance limit moat durability.",
+                                "why_th":  "ขนาดธุรกิจเนโอคลาวด์อันดับหนึ่ง แบ็กล็อก 1.32 แสนล้านดอลลาร์ และซอฟต์แวร์ Weights \u0026 Biases สร้างโอกาส AI มหาศาล แต่หนี้สูง มาร์จิ้น GAAP บาง และพึ่งพา NVIDIA/ไฮเปอร์สเกลเลอร์จำกัดความทนทานของคูเมือง"
+                            },
+                   "EQIX":  {
+                                "m":  [
+                                          10,
+                                          17,
+                                          18,
+                                          15,
+                                          16
+                                      ],
+                                "o":  [
+                                          9,
+                                          13,
+                                          15,
+                                          14,
+                                          12
+                                      ],
+                                "why_en":  "Unmatched global interconnection network and low churn build a durable moat, though moderate current AI revenue share and slower REIT growth cap pure AI upside.",
+                                "why_th":  "เครือข่ายการเชื่อมต่อระดับโลกที่ยากจะเลียนแบบและอัตราการย้ายออกต่ำสร้างคูเมืองที่แข็งแกร่งทนทาน แต่สัดส่วนรายได้ AI ปัจจุบันยังปานกลางและการเติบโตแบบ REIT ที่ช้ากว่าจำกัดโอกาสเติบโตจาก AI โดยตรง"
+                            },
+                   "IREN":  {
+                                "m":  [
+                                          7,
+                                          8,
+                                          5,
+                                          9,
+                                          4
+                                      ],
+                                "o":  [
+                                          14,
+                                          17,
+                                          11,
+                                          13,
+                                          11
+                                      ],
+                                "why_en":  "Owned multi-gigawatt power sites and a $9.7B Microsoft deal unlock strong AI hosting upside, but lack of software IP, heavy financing needs, and operating losses weaken its moat.",
+                                "why_th":  "พื้นที่ศูนย์ข้อมูลกำลังไฟฟ้าหลายกิกะวัตต์ที่เป็นเจ้าของเองและดีล Microsoft มูลค่า 9.7 พันล้านดอลลาร์เปิดโอกาส AI Cloud ที่ดี แต่การขาดซอฟต์แวร์และ IP การพึ่งพาเงินกู้สูง และผลขาดทุนจากการดำเนินงานทำให้คูเมืองยังอ่อนแอ"
+                            },
+                   "NBIS":  {
+                                "m":  [
+                                          12,
+                                          9,
+                                          8,
+                                          10,
+                                          5
+                                      ],
+                                "o":  [
+                                          19,
+                                          18,
+                                          14,
+                                          11,
+                                          15
+                                      ],
+                                "why_en":  "Full-stack AI engineering, huge Microsoft and Meta deals, and Avride/Toloka stakes fuel strong AI upside, but early-stage operating losses and steep capital demands restrain its moat.",
+                                "why_th":  "ความเชี่ยวชาญวิศวกรรม AI คลาวด์ครบวงจร ดีลใหญ่กับ Microsoft และ Meta รวมถึงสินทรัพย์อย่าง Avride/Toloka หนุนโอกาส AI แข็งแกร่ง แต่ผลขาดทุนระยะเริ่มต้นและความต้องการเงินลงทุนมหาศาลยังจำกัดคูเมือง"
+                            }
+               }
+}

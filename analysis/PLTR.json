@@ -1,0 +1,733 @@
+{
+    "ticker":  "PLTR",
+    "name":  "Palantir Technologies",
+    "symbol":  "NASDAQ:PLTR",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:03:41Z",
+    "costUsd":  0.6073876000000001,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:PLTR",
+                       "yahoo":  "PLTR",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:01:27Z",
+                       "price":  143.49,
+                       "open":  149.7,
+                       "high":  152.51,
+                       "low":  142.28,
+                       "volume":  36556700,
+                       "avgVolume20":  24967980,
+                       "changePct":  -6.63,
+                       "ema50":  175.17,
+                       "ema100":  170.27,
+                       "ema200":  161.71,
+                       "bb":  {
+                                  "upper":  203.64,
+                                  "middle":  171.82,
+                                  "lower":  140.01
+                              },
+                       "macd":  {
+                                    "macd":  -9.64,
+                                    "signal":  -7.15,
+                                    "hist":  -2.49
+                                },
+                       "rsi14":  26.38,
+                       "high52w":  212.94,
+                       "low52w":  106.37,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         142.2
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         141.7
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         135.53
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         136.47
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         132.07
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         130.21
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         131.08
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         127.99
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         134.71
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         133.25
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         130.63
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         128.47
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         119.5
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         116.7
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         113.5
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         107.27
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         112.93
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         115.7
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         116.67
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         125.73
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         129.3
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         132.54
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         134.37
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         132.22
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         129.04
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         126.79
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         130.04
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         133.72
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         133.76
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         134.44
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         132.38
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         134.85
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         132.66
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         124.57
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         123.37
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         122.92
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         131.53
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         123.53
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         123
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         122.26
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         123.06
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         125.65
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         162.66
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         158.43
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         155.92
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         172.01
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         175.23
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         174.94
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         171.04
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         179.01
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         174.04
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         172.55
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         171.54
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         175.19
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         173.96
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         179.94
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         175.89
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         172.73
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         177.5
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         185.93
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         186.29
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         186.38
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         179.92
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         169.46
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         182.53
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         174.33
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         170.3
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         169.53
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         165.86
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         167.23
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         173.31
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         172.56
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         174.34
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         176.24
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         177.64
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         183.09
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         184.99
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         191.79
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         192.59
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         189.67
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         187.48
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         186.97
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         187.05
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         190.04
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         188.75
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         189.4
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         192.07
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         194.12
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         198.78
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         209.05
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         209
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         208.67
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         200.97
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         200.5
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         186.03
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         194.15
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         192.6
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         201.72
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         196.19
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         196.75
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         198.84
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         198.73
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         196.81
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         196.42
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         184.11
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         178.34
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         175.4
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         171.7
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         154.99
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         160.38
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         169.2
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         168.82
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         172.4
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         171.58
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         167.99
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         160.39
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         156.56
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         156.67
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         153.68
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         143.49
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          142.88,
+                                          142.83,
+                                          142.54,
+                                          142.3,
+                                          141.9,
+                                          141.44,
+                                          141.04,
+                                          140.53,
+                                          140.3,
+                                          140.02,
+                                          139.65,
+                                          139.22,
+                                          138.44,
+                                          137.59,
+                                          136.64,
+                                          135.49,
+                                          134.61,
+                                          133.87,
+                                          133.19,
+                                          132.9,
+                                          132.76,
+                                          132.75,
+                                          132.81,
+                                          132.79,
+                                          132.64,
+                                          132.41,
+                                          132.32,
+                                          132.38,
+                                          132.43,
+                                          132.51,
+                                          132.5,
+                                          132.6,
+                                          132.6,
+                                          132.28,
+                                          131.93,
+                                          131.58,
+                                          131.58,
+                                          131.26,
+                                          130.94,
+                                          130.6,
+                                          130.3,
+                                          130.12,
+                                          131.4,
+                                          132.46,
+                                          133.38,
+                                          134.89,
+                                          136.47,
+                                          137.98,
+                                          139.28,
+                                          140.84,
+                                          142.14,
+                                          143.33,
+                                          144.44,
+                                          145.64,
+                                          146.75,
+                                          148.06,
+                                          149.15,
+                                          150.07,
+                                          151.15,
+                                          152.51,
+                                          153.84,
+                                          155.11,
+                                          156.09,
+                                          156.61,
+                                          157.63,
+                                          158.28,
+                                          158.75,
+                                          159.18,
+                                          159.44,
+                                          159.74,
+                                          160.27,
+                                          160.76,
+                                          161.29,
+                                          161.88,
+                                          162.49,
+                                          163.3,
+                                          164.15,
+                                          165.24,
+                                          166.31,
+                                          167.22,
+                                          168.02,
+                                          168.76,
+                                          169.48,
+                                          170.29,
+                                          171.01,
+                                          171.73,
+                                          172.53,
+                                          173.38,
+                                          174.37,
+                                          175.73,
+                                          177.04,
+                                          178.28,
+                                          179.17,
+                                          180,
+                                          180.24,
+                                          180.79,
+                                          181.25,
+                                          182.05,
+                                          182.61,
+                                          183.16,
+                                          183.78,
+                                          184.36,
+                                          184.85,
+                                          185.3,
+                                          185.26,
+                                          184.99,
+                                          184.61,
+                                          184.1,
+                                          182.96,
+                                          182.08,
+                                          181.57,
+                                          181.07,
+                                          180.73,
+                                          180.37,
+                                          179.89,
+                                          179.12,
+                                          178.24,
+                                          177.39,
+                                          176.46,
+                                          175.17
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Strong Q3 can\u0027t stop a 33% slide as the AI-wide selloff hits PLTR",
+               "technical":  "The trend has turned down. On 2026-11-20 PLTR closed at 143.49 USD, down 6.63%. That puts it below all three exponential moving averages (EMAs, smoothed average prices): EMA50 175.17, EMA100 170.27 and EMA200 161.71. The EMAs are still stacked in bullish order (50 above 100 above 200), but losing the 200-day line, the usual long-term trend marker, is a serious break. Momentum is negative. MACD (the gap between a fast and a slow average) is at -9.64, below its signal line at -7.15, and the histogram is -2.49. RSI 14, a 0–100 momentum gauge where under 30 counts as oversold, is 26.38. Price sits just above the lower Bollinger Band at 140.01 (the bands mark a normal range around the 20-day average of 171.82), which shows stretched selling. The stock is 32.6% below its 52-week high of 212.94 and about 35% of the way up from the 52-week low of 106.37. Volume was 36.6M, roughly 1.46x the 20-day average, and the close came near the day\u0027s low of 142.28. Heavy volume like that confirms the selling pressure. Oversold readings can bring short bounces, but they don\u0027t confirm a bottom. Watch 140 (lower band) as nearby support and 161.71 (EMA200) as the first resistance.",
+               "fundamental":  "The business is accelerating, not cracking. Q3 2026 (reported 2026-11-02): revenue was 2.31B USD (+96% y/y), against consensus near 2.18B. US commercial revenue reached 984M (+148%) and passed US government (953M) for the first time. The adjusted operating margin was 62% and net dollar retention 165%, meaning existing customers spent much more than a year earlier. That directly supports the switching-cost moat. FY2026 guidance rose to 8.53B revenue and 4.8–5.0B adjusted free cash flow. The soft spots: total contract value (TCV) grew only 6% y/y and remaining performance obligations (RPO, signed but not yet booked revenue) were flat quarter on quarter at 4.9B. Valuation is still extreme, at about 51x trailing sales (Trefis, 2026-11-06).",
+               "news":  [
+                            "2026-11-02: Q3 beat on revenue and EPS (0.44 USD adjusted), and FY2026 guidance was raised again. The stock still fell about 5% on 2026-11-03 as investors focused on valuation.",
+                            "2026-11-03: Citi (265), Morgan Stanley (233), Piper Sandler (235) and RBC (130, Underperform) all raised price targets but kept their ratings. Phillip Securities raised its target to 248 on 2026-11-16.",
+                            "2026-11-05: PLTR fell 9.7% with no company news, in an AI-wide selloff where the Nasdaq lost 5.5%. Before that, the stock had fallen for seven straight sessions.",
+                            "Mid-November: reports of a leadership crisis at Nvidia, including CEO Jensen Huang\u0027s resignation, deepened AI-sector fear. Palantir has almost no China exposure and doesn\u0027t finance customer purchases, so this hit sentiment rather than its business.",
+                            "2026-11-20: the DOJ charged a Russian national with spying on a Silicon Valley firm that sources told Reuters was Palantir. CNBC also reported that Trump-linked accounts bought PLTR before federal awards, though it found no sign Trump directed the trades. These are headline risks, not business changes."
+                        ],
+               "caution":  "Even after a 33% drop, PLTR is priced for near-perfection, at roughly 99x free cash flow and about 51x sales. If AI-sector sentiment keeps falling, high-multiple names usually fall furthest, and this one fell more than peers on 2026-11-05. Slowing bookings (TCV +6%, RPO flat quarter on quarter) could worry growth investors if they continue into Q4. Government-related headlines (the August 2026 sole-source memo scrutiny, the Trump-trade report) add political risk. The technical picture is plainly bearish until price gets back above the EMA200 at 161.71.",
+               "opportunity":  "This fall looks driven by sentiment more than fundamentals. Revenue nearly doubled, guidance rose for a third time in 2026, and 165% net dollar retention shows customers expanding deeper into Foundry and AIP. RSI 26.38 and a price near the lower Bollinger Band mean the stock is statistically stretched, a state that has often come before relief rallies. Most covering analysts raised targets after Q3. For long-term holders, the moat (embedded deployments and data-integration lock-in) looks stronger, not weaker, after this quarter.",
+               "risks":  [
+                             "Valuation compression: at about 51x sales, PLTR could keep falling even if growth stays strong",
+                             "Bookings slowdown: TCV +6% y/y and flat RPO may point to slower growth in 2027",
+                             "AI-sector contagion from Nvidia leadership turmoil and the wider AI capex selloff",
+                             "Political and governance headlines: sole-source contract scrutiny, the Trump-linked trading report, insider selling under 10b5-1 plans",
+                             "Technical breakdown below EMA200 with high volume; a close below the 140 lower band would open more downside"
+                         ],
+               "summary":  "PLTR is in a sharp technical downtrend. It closed at 143.49 USD on 2026-11-20, below all three EMAs, with negative MACD, RSI oversold at 26.38 and selling on 1.46x normal volume. The fall from 212.94 comes from AI-sector fear and valuation worries, not weak results. Q3 revenue rose 96%, US commercial revenue passed government, and net dollar retention of 165% supports the switching-cost moat. The thesis is intact, but the short-term trend is bearish. Watch support near 140 and resistance at 161.71."
+           },
+    "th":  {
+               "headline":  "งบ Q3 แข็งแกร่ง แต่ PLTR ยังร่วง 33% ตามแรงเทขาย AI ทั้งกลุ่ม",
+               "technical":  "แนวโน้มกลับเป็นขาลง วันที่ 2026-11-20 PLTR ปิดที่ 143.49 USD ลดลง 6.63% หลุดเส้นค่าเฉลี่ย EMA (ราคาเฉลี่ยแบบถ่วงน้ำหนัก) ทั้งสามเส้น คือ EMA50 ที่ 175.17, EMA100 ที่ 170.27 และ EMA200 ที่ 161.71 แม้เส้น EMA ยังเรียงตัวแบบขาขึ้น (50 อยู่เหนือ 100 และ 100 อยู่เหนือ 200) แต่การหลุด EMA200 ซึ่งเป็นตัวชี้แนวโน้มระยะยาวถือเป็นสัญญาณที่หนัก โมเมนตัมเป็นลบ MACD (ส่วนต่างระหว่างค่าเฉลี่ยเร็วกับช้า) อยู่ที่ -9.64 ต่ำกว่าเส้น signal ที่ -7.15 และ histogram ติดลบ -2.49 ส่วน RSI 14 ซึ่งเป็นมาตรวัดโมเมนตัม 0–100 (ต่ำกว่า 30 ถือว่า oversold หรือขายมากเกินไป) อยู่ที่ 26.38 ราคายืนอยู่เหนือขอบล่าง Bollinger Band ที่ 140.01 เพียงเล็กน้อย (แถบนี้บอกกรอบราคาปกติรอบค่าเฉลี่ย 20 วันที่ 171.82) แปลว่าแรงขายยืดไปมากแล้ว ราคาต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ 212.94 อยู่ 32.6% และอยู่ราว 35% ของช่วงนับจากจุดต่ำสุด 106.37 วอลุ่ม 36.6M สูงกว่าค่าเฉลี่ย 20 วันราว 1.46 เท่า และปิดใกล้จุดต่ำสุดของวันที่ 142.28 วอลุ่มหนาแบบนี้ยืนยันว่าแรงขายมีน้ำหนัก ภาวะ oversold อาจทำให้รีบาวด์สั้น ๆ ได้ แต่ยังไม่ใช่สัญญาณยืนยันว่าถึงจุดต่ำสุด แนวรับใกล้สุดคือ 140 (ขอบล่าง BB) แนวต้านแรกคือ 161.71 (EMA200)",
+               "fundamental":  "ธุรกิจยังเร่งตัว ไม่ได้อ่อนแรง งบ Q3 2026 (ประกาศ 2026-11-02) รายได้ 2.31B USD (+96% y/y) สูงกว่าที่ตลาดคาดราว 2.18B รายได้ US commercial 984M (+148%) แซงหน้า US government (953M) เป็นครั้งแรก adjusted operating margin อยู่ที่ 62% และ net dollar retention 165% หมายความว่าลูกค้าเดิมใช้จ่ายเพิ่มขึ้นมากเมื่อเทียบกับปีก่อน ข้อนี้สนับสนุนคูเมืองเรื่องต้นทุนการเปลี่ยนระบบโดยตรง บริษัทยังปรับเป้ารายได้ FY2026 ขึ้นเป็น 8.53B และ adjusted FCF เป็น 4.8–5.0B จุดที่ต้องจับตาคือมูลค่าสัญญารวม (TCV) โตแค่ 6% y/y และ RPO (รายได้ที่เซ็นสัญญาแล้วแต่ยังไม่รับรู้) ทรงตัวเมื่อเทียบไตรมาสก่อนที่ 4.9B ส่วนมูลค่าหุ้นยังแพงมาก ราว 51 เท่าของยอดขายย้อนหลัง (Trefis, 2026-11-06)",
+               "news":  [
+                            "2026-11-02: งบ Q3 ทั้งรายได้และ EPS (adjusted 0.44 USD) ออกมาดีกว่าคาด และบริษัทปรับเป้า FY2026 ขึ้นอีกครั้ง แต่หุ้นยังลงราว 5% ในวันที่ 2026-11-03 เพราะนักลงทุนกังวลเรื่องราคาแพง",
+                            "2026-11-03: Citi (265), Morgan Stanley (233), Piper Sandler (235) และ RBC (130, Underperform) ต่างปรับราคาเป้าหมายขึ้นโดยคงคำแนะนำเดิม ส่วน Phillip Securities ปรับเป้าขึ้นเป็น 248 เมื่อ 2026-11-16",
+                            "2026-11-05: PLTR ร่วง 9.7% โดยไม่มีข่าวจากบริษัท ท่ามกลางแรงเทขายหุ้น AI ทั้งกลุ่มที่ทำให้ Nasdaq ลง 5.5% ก่อนหน้านั้นหุ้นปิดลบติดต่อกัน 7 วันทำการ",
+                            "กลางเดือน พ.ย.: มีรายงานวิกฤตผู้บริหารที่ Nvidia รวมถึงการลาออกของ CEO Jensen Huang ทำให้ความกลัวในกลุ่ม AI รุนแรงขึ้น Palantir แทบไม่มีรายได้จากจีนและไม่ได้ปล่อยเงินให้ลูกค้าซื้อสินค้า ผลกระทบจึงอยู่ที่ sentiment มากกว่าตัวธุรกิจ",
+                            "2026-11-20: กระทรวงยุติธรรมสหรัฐฯ ตั้งข้อหาชาวรัสเซียรายหนึ่งว่าสอดแนมบริษัทเทคใน Silicon Valley ซึ่งแหล่งข่าวบอก Reuters ว่าคือ Palantir นอกจากนี้ CNBC รายงานว่าบัญชีที่เชื่อมโยงกับ Trump ซื้อหุ้น PLTR ก่อนบริษัทได้สัญญารัฐ แม้ไม่พบหลักฐานว่า Trump สั่งการเอง ทั้งสองเรื่องเป็นความเสี่ยงด้านข่าว ไม่ได้เปลี่ยนตัวธุรกิจ"
+                        ],
+               "caution":  "แม้ลงมาแล้ว 33% PLTR ยังมีราคาที่สะท้อนความคาดหวังแทบสมบูรณ์แบบ คือราว 99 เท่าของกระแสเงินสดอิสระ และราว 51 เท่าของยอดขาย ถ้า sentiment กลุ่ม AI ยังแย่ลงต่อ หุ้น multiple สูงมักลงแรงที่สุด และ PLTR เองก็ลงแรงกว่าคู่แข่งในวันที่ 2026-11-05 สัญญาณยอดจองชะลอ (TCV +6%, RPO ทรงตัว) อาจทำให้นักลงทุนสายเติบโตกังวลถ้ายังต่อเนื่องใน Q4 ข่าวเกี่ยวกับรัฐบาล เช่น การตรวจสอบบันทึกสั่งซื้อแบบไม่ประมูลเมื่อ ส.ค. 2026 และรายงานเรื่องการซื้อหุ้นของบัญชีที่โยงกับ Trump เพิ่มความเสี่ยงทางการเมือง ภาพเทคนิคยังเป็นขาลงชัดเจนจนกว่าราคาจะกลับขึ้นเหนือ EMA200 ที่ 161.71",
+               "opportunity":  "การร่วงรอบนี้ดูมาจาก sentiment มากกว่าพื้นฐาน รายได้เกือบเพิ่มเป็นสองเท่า บริษัทปรับเป้าขึ้นเป็นครั้งที่สามในปี 2026 และ net dollar retention 165% แสดงว่าลูกค้าใช้ Foundry และ AIP ลึกขึ้นเรื่อย ๆ RSI 26.38 กับราคาที่ชิดขอบล่าง Bollinger Band บอกว่าหุ้นถูกขายมากเกินปกติในเชิงสถิติ ซึ่งในอดีตมักตามมาด้วยการรีบาวด์ นักวิเคราะห์ส่วนใหญ่ปรับราคาเป้าหมายขึ้นหลังงบ Q3 สำหรับนักลงทุนระยะยาว คูเมืองของบริษัท (ระบบที่ฝังลึกในองค์กรและต้นทุนการย้ายข้อมูล) ดูแข็งแรงขึ้นหลังไตรมาสนี้ ไม่ได้อ่อนลง",
+               "risks":  [
+                             "มูลค่าหุ้นถูกปรับลด: ที่ราว 51 เท่าของยอดขาย หุ้นอาจลงต่อได้แม้การเติบโตยังดี",
+                             "ยอดจองชะลอ: TCV +6% y/y และ RPO ทรงตัว อาจบ่งชี้ว่าการเติบโตจะช้าลงในปี 2027",
+                             "แรงกระเพื่อมในกลุ่ม AI จากวิกฤตผู้บริหาร Nvidia และแรงเทขายหุ้นที่ผูกกับการลงทุน AI",
+                             "ข่าวการเมืองและธรรมาภิบาล: การตรวจสอบสัญญาแบบไม่ประมูล รายงานการซื้อหุ้นที่โยงกับ Trump และการขายหุ้นของผู้บริหารตามแผน 10b5-1",
+                             "ภาพเทคนิคหลุด EMA200 พร้อมวอลุ่มสูง ถ้าปิดต่ำกว่าขอบล่าง BB ที่ 140 อาจเปิดทางให้ลงต่อ"
+                         ],
+               "summary":  "PLTR อยู่ในขาลงทางเทคนิคที่ชัดเจน ปิดที่ 143.49 USD เมื่อ 2026-11-20 ต่ำกว่า EMA ทั้งสามเส้น MACD เป็นลบ RSI อยู่ในโซน oversold ที่ 26.38 และมีแรงขายด้วยวอลุ่มสูงกว่าปกติ 1.46 เท่า การร่วงจาก 212.94 มาจากความกลัวในกลุ่ม AI และความกังวลเรื่องราคาแพง ไม่ใช่เพราะผลประกอบการแย่ งบ Q3 รายได้โต 96% US commercial แซงฝั่งรัฐบาล และ net dollar retention 165% ยังสนับสนุนคูเมืองด้านต้นทุนการเปลี่ยนระบบ thesis ยังคงอยู่ แต่แนวโน้มระยะสั้นเป็นขาลง จับตาแนวรับใกล้ 140 และแนวต้าน 161.71"
+           },
+    "sources":  [
+                    {
+                        "title":  "Palantir Technologies Inc. - Form 8-K Q3 2026 press release (Exhibit 99.1)",
+                        "publisher":  "SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm",
+                        "date":  "2026-11-02"
+                    },
+                    {
+                        "title":  "Palantir Q3 FY 2026 Earnings: US Commercial Revenue Overtakes US Government",
+                        "publisher":  "Futurum Group",
+                        "url":  "https://futurumgroup.com/insights/palantir-q3-fy-2026-earnings-us-commercial-revenue-overtakes-us-government/",
+                        "date":  "2026-11"
+                    },
+                    {
+                        "title":  "Palantir\u0027s 96% Revenue Growth Drives Analyst Optimism as Price Targets Rise",
+                        "publisher":  "24/7 Wall St.",
+                        "url":  "https://247wallst.com/investing/2026/11/03/palantirs-96-revenue-growth-drives-analyst-optimism-as-price-targets-rise/",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "Why Is Palantir Stock Falling?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/pltr/articles/623359/why-is-palantir-stock-falling/2026-11-06",
+                        "date":  "2026-11-06"
+                    },
+                    {
+                        "title":  "Why Does Palantir Stock Keep Going Down?",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/investing/2026/11/16/why-does-palantir-stock-keep-going-down/",
+                        "date":  "2026-11-16"
+                    },
+                    {
+                        "title":  "Phillip Securities Raises Its Palantir Target to $248. Is It Still Too Low?",
+                        "publisher":  "TIKR",
+                        "url":  "https://www.tikr.com/blog/phillip-securities-raises-its-palantir-target-to-248-is-it-still-too-low",
+                        "date":  "2026-11-16"
+                    },
+                    {
+                        "title":  "Palantir Stock News: Spy Case, Trump Trades And AI Rout Put Shares Under Pressure",
+                        "publisher":  "Coinpedia",
+                        "url":  "https://coinpedia.org/crypto-live-news/palantir-stock-news-spy-case-trump-trades-and-ai-rout-put-shares-under-pressure",
+                        "date":  "2026-11-20"
+                    }
+                ]
+}

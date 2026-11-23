@@ -1,0 +1,727 @@
+{
+    "ticker":  "AXON",
+    "name":  "Axon Enterprise",
+    "symbol":  "NASDAQ:AXON",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:03:16Z",
+    "costUsd":  0.6129142999999999,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:AXON",
+                       "yahoo":  "AXON",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:01:00Z",
+                       "price":  291.14,
+                       "open":  303.81,
+                       "high":  325.9,
+                       "low":  289.69,
+                       "volume":  2084000,
+                       "avgVolume20":  1719130,
+                       "changePct":  -5.16,
+                       "ema50":  395.64,
+                       "ema100":  437.16,
+                       "ema200":  476.47,
+                       "bb":  {
+                                  "upper":  474.41,
+                                  "middle":  357.44,
+                                  "lower":  240.48
+                              },
+                       "macd":  {
+                                    "macd":  -34.49,
+                                    "signal":  -30.99,
+                                    "hist":  -3.5
+                                },
+                       "rsi14":  27.93,
+                       "high52w":  665.07,
+                       "low52w":  289.69,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         481.48
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         513.2
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         486.12
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         471.06
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         452.51
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         447.59
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         446.2
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         441.73
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         443.21
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         435.39
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         423.01
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         423.4
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         410.03
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         433.04
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         456.73
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         444.73
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         464.83
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         510.6
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         560.61
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         593.96
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         597.04
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         622.35
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         640.46
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         599.8
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         582
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         565.8
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         547.03
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         547.26
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         541.12
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         541.75
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         510.28
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         527.48
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         511.17
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         491.49
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         491.9
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         502.34
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         525.48
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         547.65
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         531.2
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         525.3
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         527.76
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         575.88
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         607.2
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         609.49
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         522.46
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         571.01
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         596.33
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         636.31
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         599.78
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         615.59
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         612.83
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         604.32
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         619.85
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         645.72
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         614.26
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         627.75
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         597.59
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         613.26
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         607.48
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         611.2
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         600.73
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         566.56
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         518.3
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         506.98
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         538.15
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         515.67
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         505.43
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         490
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         478.85
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         479.34
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         490.18
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         442.08
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         468.42
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         453.5
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         447.76
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         452.06
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         459.32
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         450.61
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         445
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         430.11
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         424.75
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         419.58
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         422.52
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         422.21
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         413.35
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         411.81
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         418.62
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         406
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         417.31
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         422.89
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         414.43
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         413.35
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         408.42
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         417.19
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         390.29
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         383.09
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         392.64
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         402.6
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         414.6
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         420.37
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         424.77
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         425.87
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         423.17
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         438.05
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         427.77
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         425.43
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         416.57
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         424.18
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         382.56
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         313
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         303.18
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         302.54
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         315.42
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         307.11
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         315.43
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         306.44
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         298.59
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         300.69
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         306.98
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         291.14
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          426.2,
+                                          429.61,
+                                          431.82,
+                                          433.36,
+                                          434.11,
+                                          434.64,
+                                          435.1,
+                                          435.36,
+                                          435.66,
+                                          435.65,
+                                          435.16,
+                                          434.7,
+                                          433.73,
+                                          433.7,
+                                          434.6,
+                                          435,
+                                          436.17,
+                                          439.09,
+                                          443.86,
+                                          449.74,
+                                          455.52,
+                                          462.06,
+                                          469.06,
+                                          474.18,
+                                          478.41,
+                                          481.84,
+                                          484.4,
+                                          486.86,
+                                          488.99,
+                                          491.06,
+                                          491.81,
+                                          493.21,
+                                          493.91,
+                                          493.82,
+                                          493.74,
+                                          494.08,
+                                          495.31,
+                                          497.37,
+                                          498.69,
+                                          499.74,
+                                          500.83,
+                                          503.78,
+                                          507.83,
+                                          511.82,
+                                          512.24,
+                                          514.54,
+                                          517.75,
+                                          522.4,
+                                          525.43,
+                                          528.97,
+                                          532.26,
+                                          535.08,
+                                          538.41,
+                                          542.62,
+                                          545.43,
+                                          548.65,
+                                          550.57,
+                                          553.03,
+                                          555.17,
+                                          557.36,
+                                          559.06,
+                                          559.36,
+                                          557.75,
+                                          555.76,
+                                          555.07,
+                                          553.52,
+                                          551.64,
+                                          549.22,
+                                          546.46,
+                                          543.83,
+                                          541.72,
+                                          537.82,
+                                          535.09,
+                                          531.89,
+                                          528.6,
+                                          525.59,
+                                          522.99,
+                                          520.16,
+                                          517.21,
+                                          513.79,
+                                          510.3,
+                                          506.74,
+                                          503.44,
+                                          500.26,
+                                          496.85,
+                                          493.51,
+                                          490.58,
+                                          487.26,
+                                          484.52,
+                                          482.1,
+                                          479.45,
+                                          476.85,
+                                          474.17,
+                                          471.94,
+                                          468.73,
+                                          465.37,
+                                          462.52,
+                                          460.17,
+                                          458.39,
+                                          456.89,
+                                          455.63,
+                                          454.47,
+                                          453.24,
+                                          452.64,
+                                          451.67,
+                                          450.64,
+                                          449.3,
+                                          448.32,
+                                          445.74,
+                                          440.53,
+                                          435.15,
+                                          429.95,
+                                          425.46,
+                                          420.82,
+                                          416.68,
+                                          412.36,
+                                          407.9,
+                                          403.69,
+                                          399.9,
+                                          395.64
+                                      ]
+                   },
+    "en":  {
+               "headline":  "AXON at two-year lows after Q3 miss, Dedrone delays and $1.2B Skydio bet",
+               "technical":  "The trend is clearly down. At USD 291.14, the price is below all three exponential moving averages (EMAs, which give more weight to recent prices): EMA50 at 395.64, EMA100 at 437.16 and EMA200 at 476.47. They are stacked in fully bearish order, with the shortest on the bottom, and the price is about 26% below EMA50. Momentum is still negative. MACD (a trend-momentum gauge built from two moving averages) is at -34.49, below its signal line at -30.99, so the histogram is -3.5. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 27.93, which says the stock is oversold, but oversold readings can last a long time in a downtrend. The Bollinger Bands (a 20-day average ± 2 standard deviations) are very wide, from 240.48 to 474.41 around a 357.44 middle, which reflects how violent the selloff has been. The price sits in the lower half of the bands, not yet at the lower band. On 20 Nov the stock touched 325.90 intraday but closed near its low of 289.69, a new 52-week low and 56% below the 665.07 high. Volume of 2.08M was 1.21x the 20-day average, so sellers were in control.",
+               "fundamental":  "Axon\u0027s software side still looks strong. In Q3 2026 (results released 5 Nov), annual recurring revenue (ARR) was USD 1.75B (+40%), net revenue retention (revenue from existing customers vs a year earlier) was 126%, and future contracted bookings were USD 15.8B (+39%). Software \u0026 Services grew 43% to USD 437M, and AI ARR passed USD 100M. The weak spots were elsewhere. Total revenue of USD 909M (+28%) missed consensus. Connected Devices growth slowed to 16%, and TASER and body cameras came in slightly below forecasts. GAAP gross margin fell to 56.7% from 60.1%, hit by counter-drone product mix and higher memory-chip costs. FY2026 revenue guidance was cut to USD 3.61–3.63B (~30% growth, from 32–34%). Free-cash-flow guidance fell to USD 350–400M from 450M, and debt (USD 2.97B) now exceeds cash (USD 1.66B).",
+               "news":  [
+                            "5 Nov 2026: Q3 revenue of USD 909M and adjusted EPS of USD 1.72 both missed estimates. Axon took about USD 130M of federal Dedrone counter-drone deployments out of its 2026 outlook and cut full-year growth guidance to ~30%.",
+                            "5 Nov 2026: Axon announced an additional USD 1.2B investment in drone maker Skydio, lifting its fully diluted stake to about 37% and making it Skydio\u0027s exclusive US/Canada public-safety distributor. A later filing indicates roughly 90% will be paid in cash.",
+                            "6 Nov 2026: The stock fell about 18% in one session, the S\u0026P 500\u0027s biggest decliner that day and Axon\u0027s lowest level since August 2024. Piper Sandler called it \u0027arguably Axon\u0027s worst quarter as a public company\u0027 but said it does not believe Axon has lost business.",
+                            "6 Nov 2026: Craig-Hallum downgraded the stock to Hold (target USD 390). Raymond James (to 475 from 675), JPMorgan (to 610 from 755), Northland (to 540 from 800) and others cut their targets but kept positive ratings.",
+                            "20 Nov 2026: Shares fell another 5.2% to USD 291.14, a fresh 52-week low, with no new company-specific news found. It looks like the post-earnings selloff continuing."
+                        ],
+               "caution":  "The chart has not shown any sign of bottoming. Price is far below every EMA, MACD is still under its signal, and the 20 Nov close came at a new low on above-average volume. An oversold RSI alone is not a buy signal in a strong downtrend. On the business side, cash is getting tighter: free cash flow is lower, net debt has risen, and the Skydio deal is mostly paid in cash. Federal counter-drone revenue has proved lumpy and hard to time, and investors may stay doubtful until the Q4 report in February 2027.",
+               "opportunity":  "The parts of Axon that drive long-term value held up. ARR grew 40%, customers spent 26% more than a year earlier, and the USD 15.8B contracted backlog rose 39%. The guidance cut was about federal deployment timing, not lost customers, and analysts who cut targets mostly kept Buy-type ratings. If the delayed Dedrone projects land in 2027 and Skydio deepens the drone-as-first-responder platform, today\u0027s discount to the 52-week high could later look like an overreaction. The 240–290 zone (lower band and 52-week low) is the nearest support area to watch.",
+               "risks":  [
+                             "The three delayed federal Dedrone deployments (~USD 130M) could slip further or shrink.",
+                             "Gross-margin pressure from counter-drone hardware mix and rising memory-chip costs.",
+                             "Balance-sheet strain: debt above cash, free cash flow cut and a mostly cash-funded USD 1.2B Skydio stake.",
+                             "Hardware softness: TASER and body-camera sales came in slightly below forecasts.",
+                             "Valuation is still high (around 96x trailing earnings per Trefis), so further estimate cuts could hurt the stock more."
+                         ],
+               "summary":  "AXON is in a confirmed downtrend. All EMAs sit above the price in bearish order, MACD is negative, and the stock closed 20 Nov at a 52-week low of about USD 291 on heavy volume, although RSI 27.93 shows it is oversold. The news explains the move: a Q3 miss, about USD 130M of delayed federal Dedrone revenue, a lower cash outlook and a costly Skydio bet. The core software moat (ARR +40%, NRR 126%, USD 15.8B backlog) looks intact. Hardware execution and capital allocation now need close watching."
+           },
+    "th":  {
+               "headline":  "AXON ร่วงต่ำสุดรอบ 2 ปี หลังงบ Q3 พลาดเป้า Dedrone เลื่อน และทุ่มเงินใน Skydio",
+               "technical":  "แนวโน้มเป็นขาลงชัดเจน ราคา USD 291.14 อยู่ใต้เส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โพเนนเชียล (EMA ซึ่งให้น้ำหนักกับราคาล่าสุดมากกว่า) ทั้งสามเส้น ได้แก่ EMA50 ที่ 395.64, EMA100 ที่ 437.16 และ EMA200 ที่ 476.47 เส้นทั้งสามเรียงตัวแบบขาลงเต็มรูปแบบ (เส้นสั้นอยู่ล่างสุด) และราคาต่ำกว่า EMA50 ราว 26% โมเมนตัมยังเป็นลบ MACD (ตัววัดแรงส่งของเทรนด์จากค่าเฉลี่ยสองเส้น) อยู่ที่ -34.49 ต่ำกว่าเส้น signal ที่ -30.99 ฮิสโตแกรมจึงเป็น -3.5 ส่วน RSI 14 (มาตรวัดโมเมนตัม 0–100 ถ้าต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 27.93 คือเข้าเขต oversold แล้ว แต่ในขาลงแรง ๆ ภาวะนี้ลากยาวได้ Bollinger Bands (ค่าเฉลี่ย 20 วัน ± 2 ส่วนเบี่ยงเบนมาตรฐาน) กว้างมาก ตั้งแต่ 240.48 ถึง 474.41 โดยมีเส้นกลางที่ 357.44 สะท้อนว่าแรงขายรุนแรง ราคาอยู่ครึ่งล่างของแบนด์แต่ยังไม่แตะขอบล่าง วันที่ 20 พ.ย. ราคาขึ้นไปแตะ 325.90 ระหว่างวัน แต่ปิดใกล้จุดต่ำสุดของวันที่ 289.69 ซึ่งเป็นจุดต่ำสุดใหม่รอบ 52 สัปดาห์ และต่ำกว่าจุดสูงสุด 665.07 ถึง 56% วอลุ่ม 2.08 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน 1.21 เท่า แปลว่าฝั่งขายคุมตลาด",
+               "fundamental":  "ฝั่งซอฟต์แวร์ของ Axon ยังแข็งแรง งบ Q3 2026 (ประกาศ 5 พ.ย.) มีรายได้ประจำต่อปี (ARR) USD 1.75B (+40%) อัตราการรักษารายได้จากลูกค้าเดิม (NRR) 126% และยอดสัญญาในอนาคต USD 15.8B (+39%) ธุรกิจ Software \u0026 Services โต 43% เป็น USD 437M และ AI ARR ทะลุ USD 100M แล้ว จุดอ่อนอยู่ที่ส่วนอื่น รายได้รวม USD 909M (+28%) ต่ำกว่าที่ตลาดคาด ฮาร์ดแวร์ Connected Devices โตช้าลงเหลือ 16% และยอดขาย TASER กับกล้องติดตัวต่ำกว่าคาดเล็กน้อย อัตรากำไรขั้นต้นแบบ GAAP ลดลงเหลือ 56.7% จาก 60.1% เพราะสัดส่วนสินค้าต่อต้านโดรนสูงขึ้นและราคาชิปหน่วยความจำแพงขึ้น บริษัทหั่นเป้ารายได้ปี 2026 เหลือ USD 3.61–3.63B (โตราว 30% จากเดิม 32–34%) ลดเป้ากระแสเงินสดอิสระเหลือ USD 350–400M จากเดิม 450M และตอนนี้หนี้สิน (USD 2.97B) สูงกว่าเงินสด (USD 1.66B)",
+               "news":  [
+                            "5 พ.ย. 2026: รายได้ Q3 USD 909M และ EPS ปรับปรุง USD 1.72 ต่ำกว่าคาดทั้งคู่ บริษัทตัดรายได้จากการติดตั้งระบบต่อต้านโดรน Dedrone ให้รัฐบาลกลางราว USD 130M ออกจากประมาณการปี 2026 และลดเป้าการเติบโตทั้งปีเหลือราว 30%",
+                            "5 พ.ย. 2026: ประกาศลงทุนเพิ่มใน Skydio ผู้ผลิตโดรน อีก USD 1.2B ทำให้ถือหุ้นแบบ fully diluted ราว 37% และได้สิทธิ์เป็นผู้จัดจำหน่ายแต่เพียงผู้เดียวในตลาดความปลอดภัยสาธารณะของสหรัฐฯ และแคนาดา เอกสารที่ยื่นภายหลังระบุว่าราว 90% จ่ายเป็นเงินสด",
+                            "6 พ.ย. 2026: หุ้นร่วงราว 18% ในวันเดียว ลงมากที่สุดใน S\u0026P 500 วันนั้น และต่ำสุดตั้งแต่ ส.ค. 2024 Piper Sandler เรียกไตรมาสนี้ว่า \u0027อาจแย่ที่สุดตั้งแต่เข้าตลาด\u0027 แต่ไม่คิดว่าบริษัทเสียลูกค้า",
+                            "6 พ.ย. 2026: Craig-Hallum ลดคำแนะนำเป็น Hold (เป้า USD 390) ส่วน Raymond James (จาก 675 เป็น 475), JPMorgan (จาก 755 เป็น 610), Northland (จาก 800 เป็น 540) และอีกหลายแห่งลดราคาเป้าหมาย แต่ยังคงมุมมองเชิงบวก",
+                            "20 พ.ย. 2026: หุ้นลงอีก 5.2% เหลือ USD 291.14 ทำจุดต่ำสุดใหม่รอบ 52 สัปดาห์ ไม่พบข่าวใหม่เฉพาะบริษัท ดูเป็นแรงขายต่อเนื่องหลังประกาศงบ"
+                        ],
+               "caution":  "กราฟยังไม่มีสัญญาณว่าเจอจุดต่ำสุด ราคาห่างทุกเส้น EMA มาก MACD ยังอยู่ใต้ signal และวันที่ 20 พ.ย. ปิดที่จุดต่ำสุดใหม่พร้อมวอลุ่มสูงกว่าปกติ RSI ที่ oversold อย่างเดียวไม่ใช่สัญญาณซื้อในขาลงแรง ฝั่งธุรกิจ สถานะเงินสดตึงขึ้น ทั้งกระแสเงินสดอิสระที่ลดลง หนี้สุทธิที่เพิ่มขึ้น และดีล Skydio ที่จ่ายเป็นเงินสดเป็นหลัก รายได้ต่อต้านโดรนจากรัฐบาลกลางก็มาเป็นก้อนและคาดเดาจังหวะยาก นักลงทุนอาจยังลังเลจนกว่าจะเห็นงบ Q4 ในเดือน ก.พ. 2027",
+               "opportunity":  "ส่วนที่สร้างมูลค่าระยะยาวยังไปได้ดี ARR โต 40% ลูกค้าเดิมใช้จ่ายเพิ่มขึ้น 26% จากปีก่อน และ backlog สัญญา USD 15.8B โต 39% การลดเป้าเกิดจากจังหวะการติดตั้งของรัฐบาลกลาง ไม่ใช่การเสียลูกค้า และนักวิเคราะห์ที่ลดเป้าส่วนใหญ่ยังคงคำแนะนำเชิงบวก หากโครงการ Dedrone ที่เลื่อนออกไปเกิดขึ้นในปี 2027 และ Skydio ช่วยต่อยอดแพลตฟอร์มโดรนเผชิญเหตุ (drone as first responder) ระดับราคาที่ห่างจากจุดสูงสุดมากขนาดนี้อาจกลายเป็นการตอบสนองที่มากเกินไป โซน 240–290 (ขอบล่าง Bollinger และจุดต่ำสุด 52 สัปดาห์) เป็นแนวรับใกล้ที่สุดที่ควรติดตาม",
+               "risks":  [
+                             "โครงการ Dedrone ของรัฐบาลกลางทั้งสามโครงการ (~USD 130M) อาจเลื่อนออกไปอีกหรือมูลค่าลดลง",
+                             "อัตรากำไรขั้นต้นถูกกดดันจากสัดส่วนฮาร์ดแวร์ต่อต้านโดรนและราคาชิปหน่วยความจำที่สูงขึ้น",
+                             "งบดุลตึงตัว หนี้สูงกว่าเงินสด กระแสเงินสดอิสระถูกลดเป้า และเงินลงทุน Skydio USD 1.2B ส่วนใหญ่จ่ายเป็นเงินสด",
+                             "ฮาร์ดแวร์อ่อนตัว ยอดขาย TASER และกล้องติดตัวต่ำกว่าคาดเล็กน้อย",
+                             "มูลค่าหุ้นยังแพง (ราว 96 เท่าของกำไรย้อนหลังตาม Trefis) ถ้าประมาณการถูกลดลงอีก หุ้นอาจโดนกดดันหนักขึ้น"
+                         ],
+               "summary":  "AXON อยู่ในขาลงที่ยืนยันแล้ว เส้น EMA ทุกเส้นอยู่เหนือราคาและเรียงตัวแบบขาลง MACD เป็นลบ และวันที่ 20 พ.ย. ปิดที่จุดต่ำสุดรอบ 52 สัปดาห์ราว USD 291 ด้วยวอลุ่มสูง แม้ RSI 27.93 จะบอกว่าอยู่ในเขต oversold แล้ว ข่าวอธิบายการร่วงได้ชัด ทั้งงบ Q3 ที่พลาดเป้า รายได้ Dedrone ราว USD 130M ที่เลื่อนออกไป ประมาณการเงินสดที่ลดลง และการลงทุน Skydio ก้อนใหญ่ คูเมืองหลักด้านซอฟต์แวร์ (ARR +40%, NRR 126%, backlog USD 15.8B) ยังดูแข็งแรง แต่ต้องจับตาการดำเนินงานฝั่งฮาร์ดแวร์และการจัดสรรเงินทุนใกล้ชิดขึ้น"
+           },
+    "sources":  [
+                    {
+                        "title":  "Axon Enterprise Form 8-K Exhibit 99.1 – Q3 2026 Shareholder Letter",
+                        "publisher":  "SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001069183/000162828026071086/axon-20261105xex991.htm",
+                        "date":  "2026-11-05"
+                    },
+                    {
+                        "title":  "Axon sinks to lowest in two years after Q3 miss, sales guidance cut on Dedrone deployment delays",
+                        "publisher":  "Seeking Alpha via TradingView",
+                        "url":  "https://www.tradingview.com/news/seekingalpha:1897253ab094b:0-axon-sinks-to-lowest-in-two-years-after-q3-miss-sales-guidance-cut-on-dedrone-deployment-delays/",
+                        "date":  "2026-11-06"
+                    },
+                    {
+                        "title":  "Raymond James cuts Axon stock price target on federal delays",
+                        "publisher":  "Investing.com",
+                        "url":  "https://www.investing.com/news/analyst-ratings/raymond-james-cuts-axon-stock-price-target-on-federal-delays-93CH-5009043",
+                        "date":  "2026-11-06"
+                    },
+                    {
+                        "title":  "Why Did Axon Stock Fall?",
+                        "publisher":  "Yahoo Finance (Trefis)",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/why-did-axon-stock-fall-210622272.html",
+                        "date":  "2026-11-14"
+                    },
+                    {
+                        "title":  "Axon Enterprise Inc (AXON) Shares Fall 5.2% -- What GF Score of 80 Tells Investors",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9213624/axon-enterprise-inc-axon-shares-fall-52-what-gf-score-of-80-tells-investors",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Northland cuts Axon stock price target on revenue estimate reduction",
+                        "publisher":  "Investing.com",
+                        "url":  "https://www.investing.com/news/analyst-ratings/northland-cuts-axon-stock-price-target-on-revenue-estimate-reduction-93CH-5008708",
+                        "date":  "2026-11-06"
+                    }
+                ]
+}

@@ -1,0 +1,760 @@
+{
+    "ticker":  "AVGO",
+    "name":  "Broadcom",
+    "symbol":  "NASDAQ:AVGO",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:47:51Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:AVGO",
+                       "yahoo":  "AVGO",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:42:39Z",
+                       "price":  304.41,
+                       "open":  343.01,
+                       "high":  343.01,
+                       "low":  301.02,
+                       "volume":  59562800,
+                       "avgVolume20":  30370420,
+                       "changePct":  -12.19,
+                       "historyDays":  501,
+                       "ema50":  343.8,
+                       "ema100":  355.2,
+                       "ema200":  355.72,
+                       "bb":  {
+                                  "upper":  370.09,
+                                  "middle":  332.38,
+                                  "lower":  294.67
+                              },
+                       "macd":  {
+                                    "macd":  -2.1,
+                                    "signal":  -2.76,
+                                    "hist":  0.66
+                                },
+                       "rsi14":  40.84,
+                       "high52w":  495,
+                       "low52w":  289.77,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         479.23
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         418.91
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         385.73
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         396.6
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         392.16
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         372.1
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         385.57
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         382.07
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         393.94
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         376.71
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         392.9
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         411.35
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         392.13
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         380.15
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         382.07
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         378.91
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         365.02
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         372.45
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         377.75
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         369.34
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         360.45
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         373.9
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         370.78
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         388.69
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         401.11
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         399.97
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         384.05
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         389.11
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         394.28
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         374.45
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         370.83
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         378.16
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         386.5
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         396.81
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         392.47
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         381.92
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         383.22
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         380.91
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         370.32
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         387.84
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         389.28
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         392.23
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         418.16
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         418.28
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         420.57
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         427.76
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         422.4
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         416.08
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         416.05
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         417.82
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         392.99
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         392.43
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         380
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         362.48
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         364.03
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         368.45
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         358.76
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         356.74
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         355.59
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         371.54
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         368.79
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         370.34
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         369.68
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         367.24
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         357.16
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         357.9
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         368.56
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         364.38
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         360.83
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         361.99
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         344.72
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         339.27
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         339.51
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         347.3
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         357.61
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         362.66
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         364.54
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         354.99
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         350.36
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         352.81
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         349.57
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         355.1
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         351.19
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         343.64
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         355.14
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         362.51
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         375.81
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         376.51
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         360.14
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         361.54
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         354.73
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         357.31
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         346.25
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         344.33
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         328.75
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         334.59
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         334.37
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         337.8
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         323.24
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         321.68
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         329.17
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         342.33
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         351.81
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         345
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         326.08
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         322.23
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         332.13
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         325.48
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         291.53
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         293.69
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         319.48
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         331.98
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         345.22
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         364.36
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         347.01
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         333.4
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         341.6
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         354.05
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         346.65
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         304.41
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          404.7,
+                                          405.25,
+                                          404.49,
+                                          404.18,
+                                          403.71,
+                                          402.47,
+                                          401.8,
+                                          401.03,
+                                          400.75,
+                                          399.81,
+                                          399.54,
+                                          400,
+                                          399.69,
+                                          398.93,
+                                          398.27,
+                                          397.51,
+                                          396.23,
+                                          395.3,
+                                          394.61,
+                                          393.62,
+                                          392.32,
+                                          391.6,
+                                          390.78,
+                                          390.7,
+                                          391.11,
+                                          391.46,
+                                          391.16,
+                                          391.08,
+                                          391.21,
+                                          390.55,
+                                          389.78,
+                                          389.32,
+                                          389.21,
+                                          389.51,
+                                          389.63,
+                                          389.32,
+                                          389.08,
+                                          388.76,
+                                          388.04,
+                                          388.03,
+                                          388.08,
+                                          388.24,
+                                          389.42,
+                                          390.55,
+                                          391.73,
+                                          393.14,
+                                          394.29,
+                                          395.14,
+                                          395.96,
+                                          396.82,
+                                          396.67,
+                                          396.5,
+                                          395.86,
+                                          394.55,
+                                          393.35,
+                                          392.37,
+                                          391.06,
+                                          389.71,
+                                          388.37,
+                                          387.71,
+                                          386.97,
+                                          386.32,
+                                          385.66,
+                                          384.94,
+                                          383.85,
+                                          382.84,
+                                          382.28,
+                                          381.57,
+                                          380.76,
+                                          380.02,
+                                          378.64,
+                                          377.1,
+                                          375.62,
+                                          374.51,
+                                          373.85,
+                                          373.41,
+                                          373.06,
+                                          372.35,
+                                          371.49,
+                                          370.76,
+                                          369.93,
+                                          369.35,
+                                          368.63,
+                                          367.65,
+                                          367.16,
+                                          366.98,
+                                          367.33,
+                                          367.69,
+                                          367.39,
+                                          367.16,
+                                          366.67,
+                                          366.31,
+                                          365.52,
+                                          364.69,
+                                          363.28,
+                                          362.15,
+                                          361.07,
+                                          360.15,
+                                          358.71,
+                                          357.25,
+                                          356.15,
+                                          355.61,
+                                          355.46,
+                                          355.05,
+                                          353.91,
+                                          352.67,
+                                          351.87,
+                                          350.83,
+                                          348.51,
+                                          346.36,
+                                          345.3,
+                                          344.78,
+                                          344.8,
+                                          345.56,
+                                          345.62,
+                                          345.14,
+                                          345,
+                                          345.36,
+                                          345.41,
+                                          343.8
+                                      ]
+                   },
+    "en":  {
+               "caution":  "The November 20 selloff is not mere market noise: it directly challenges two pillars of Broadcom\u0027s bull case—Google exclusivity and earnings quality. Even if Ming-Chi Kuo\u0027s unconfirmed 20% TPU 8i cut proves overstated, MediaTek\u0027s growing role on TPU 8t signals hyperscalers will dual-source custom silicon when power and pricing tighten. Meanwhile, providing residual-value support on a $63 billion Anthropic SPV introduces balance-sheet and counterparty risk if frontier-lab monetization lags. Technically, RSI 14 at 40.84 is not yet oversold, leaving the $289.77 52-week low vulnerable ahead of December 9 earnings.",
+               "cons":  [
+                            "Ming-Chi Kuo\u0027s November 20 report of a ~1 million unit (20%) cut to 2027 Google TPU 8i orders—hitting high-end Whalefish—shows hyperscaler dual-sourcing toward MediaTek.",
+                            "Broadcom\u0027s residual-value support in the October 26 $63 billion Anthropic SPV (plus its $42 billion convertible-note facility) triggered Rothschild \u0026 Co Redburn\u0027s November 13 downgrade to Neutral.",
+                            "Heavy custom ASIC and HBM-rich system mix dilutes gross margins compared with legacy networking silicon and raises customer-concentration risk.",
+                            "November 19 U.S. BIS export rules restricting remote AI chip access in Southeast Asia and Brazil, plus a critical VMware vCenter zero-day (CVE-2026-123890), add compliance and execution overhangs."
+                        ],
+               "fundamental":  "Broadcom anchors the custom-silicon and open Ethernet networking layers of AI infrastructure, turning hyperscaler model architectures into production ASICs (XPUs) alongside Tomahawk switches and VMware infrastructure software. In Q3 FY2026 (reported September 2, 2026), revenue jumped 86% year-over-year to $29.6 billion, led by $16.7 billion in AI semiconductors (+221% YoY), with a 67.9% non-GAAP operating margin ($20.1 billion) and $13.7 billion in free cash flow. Management guided Q4 FY2026 revenue to $34.8 billion ($21.7 billion AI), raised FY2026 AI revenue to $58 billion, and projected AI scaling toward ~$115 billion in FY2027 and ~$230 billion in FY2028. However, achieving those targets now faces scrutiny over Google\u0027s 2027 TPU allocation, HBM-driven margin mix, and credit backstops tied to frontier-lab financing. Q4 FY2026 earnings on December 9, 2026 will be the key fundamental test.",
+               "headline":  "Google TPU cut rumors and AI financing scrutiny sink Broadcom 12.2%",
+               "news":  [
+                            "Nov 20, 2026: Supply-chain analyst Ming-Chi Kuo reported Google trimmed 2027 shipments of Broadcom-designed TPU 8i chips by roughly 1 million units (~20%, centered on the higher-priced 8i Max \"Whalefish\") while increasing MediaTek TPU 8t orders due to power constraints. Neither company confirmed the report, yet AVGO tumbled 12.19% on nearly double average volume.",
+                            "Nov 19, 2026: The U.S. Bureau of Industry and Security (BIS) enacted an interim final rule requiring export licenses for advanced AI chips shipped to Thailand, Malaysia, Singapore, Indonesia, and Brazil, plus overseas data centers renting large compute pools remotely to China. On the same day, Broadcom issued emergency advisory VMSA-2026-0009 patching an actively exploited VMware vCenter zero-day (CVE-2026-123890).",
+                            "Nov 18, 2026: Goldman Sachs analyst James Schneider cut Broadcom\u0027s price target from $540 to $460 while keeping a Buy rating, citing sector-wide multiple compression from 30x to 25x earnings and competition from MediaTek.",
+                            "Nov 13, 2026: Rothschild \u0026 Co Redburn downgraded Broadcom from Buy to Neutral and slashed its price target from $595 to $398, flagging credit-backed AI deals and questioning how quickly OpenAI and Anthropic can become self-financing.",
+                            "Oct 26, 2026: Bank of America, Blackstone, Citi, and Morgan Stanley unveiled a $63 billion SPV financing structure—backed by Broadcom residual-value support—to buy Broadcom XPUs and networking gear for Anthropic starting in 2027, adding to Broadcom\u0027s previously disclosed $42 billion convertible-note facility."
+                        ],
+               "opportunity":  "With AVGO down 38.5% from its $495.00 peak to $304.41, expectations have reset sharply heading into Q4 FY2026 results on December 9, 2026. Broadcom\u0027s custom-silicon business is no longer a single-customer story: Meta\u0027s 2nm MTIA roadmap, OpenAI\u0027s custom processor, and Anthropic\u0027s multi-gigawatt clusters diversify growth alongside Google, while open Ethernet switching (Tomahawk 6, Thor Ultra 800G) captures cluster buildouts regardless of accelerator mix. If CEO Hock Tan reaffirms the $115 billion FY2027 AI trajectory and clarifies financing safeguards, technical support near $294.67–$289.77 could become a closely watched stabilization zone.",
+               "opportunityCheck":  "Broadcom\u0027s AI-opportunity profile mostly holds up, though two sub-scores warrant adjustment after recent developments. AI revenue exposure deserves a nudge higher: AI semiconductors reached $16.7 billion—56% of Q3 FY2026 revenue—and are guided to $58 billion for FY2026, making AI the clear core of the company. Conversely, market position and bottleneck pricing power should edge down slightly. Ming-Chi Kuo\u0027s November 20 report that Google is shifting some 2027 TPU volume toward MediaTek proves even Broadcom\u0027s anchor partner can dual-source, while HBM-heavy custom ASICs and $63 billion vendor-financing backstops temper pure pricing leverage. Market growth and optionality still look reasonable.",
+               "pros":  [
+                            "Q3 FY2026 AI semiconductor revenue jumped 221% year-over-year to $16.7 billion, with Q4 guided to $21.7 billion and full-year FY2026 to $58 billion.",
+                            "Multi-year custom-silicon ramps span Google, Meta, OpenAI, and Anthropic, backed by management\u0027s FY2027–FY2028 AI revenue targets of ~$115 billion and ~$230 billion.",
+                            "Profitability remains elite, with Q3 FY2026 non-GAAP operating margin hitting 67.9% ($20.1 billion) and free cash flow reaching $13.7 billion.",
+                            "Open Ethernet AI networking products—Tomahawk 6 switches, Thor Ultra 800G NICs, and co-packaged optics—extend Broadcom\u0027s grip beyond compute dies."
+                        ],
+               "risks":  [
+                             "Dual-sourcing and customer concentration: Google shifting 2027 TPU volume toward MediaTek could pressure unit share and high-margin custom-chip ASPs.",
+                             "Vendor-financing exposure: Residual-value support on the $63 billion Anthropic SPV and $42 billion convertible-note facility tie Broadcom\u0027s balance sheet to frontier-lab credit health.",
+                             "Gross-margin dilution: Scaling HBM-heavy custom AI systems carries lower gross margins than Broadcom\u0027s legacy networking silicon and VMware software.",
+                             "Regulatory and security friction: The November 19 U.S. BIS remote-access export rule covering Southeast Asia and Brazil, plus critical VMware vulnerabilities (CVE-2026-123890), raise compliance and operational risks."
+                         ],
+               "summary":  "Broadcom (AVGO) plunged 12.19% on November 20, 2026 to $304.41 on nearly double normal volume after analyst Ming-Chi Kuo reported Google cut 2027 orders for Broadcom-designed TPU 8i chips by roughly one million units while adding MediaTek TPU 8t orders. The drop capped a bruising month marked by Rothschild \u0026 Co Redburn\u0027s November 13 downgrade over Broadcom\u0027s $63 billion Anthropic compute-financing backstop and new November 19 U.S. remote-access export controls. While Q3 FY2026 AI semiconductor revenue surged 221% to $16.7 billion, dual-sourcing and credit risks put the moat thesis on watch ahead of December 9 earnings.",
+               "technical":  "AVGO\u0027s chart as of November 20, 2026 is decisively bearish. At $304.41 (down 12.19%), shares trade well below all three exponential moving averages (EMAs—weighted trend averages) in bearish order: EMA 50 ($343.80) sits below EMA 100 ($355.20) and EMA 200 ($355.72). Friday\u0027s session opened and peaked at $343.01, rejecting right at EMA 50 before closing near its $301.02 low. Heavy volume of 59.56 million shares—nearly double the 20-day average of 30.37 million—confirms institutional distribution. Within Bollinger Bands (a 20-day volatility channel), price broke cleanly below the $332.38 midline toward the $294.67 lower band, sitting just 7% above its 52-week low of $289.77 and 38.5% below its $495.00 high. Momentum gauges reflect damage without capitulation: MACD (a trend-momentum indicator) sits negative at -2.10, though slightly above its -2.76 signal line (+0.66 histogram) due to lagging pre-drop rebounds, while RSI 14 (a 0–100 momentum gauge; under 30 is oversold) reads 40.84, leaving room for further downside. Immediate support sits at $294.67 and $289.77; resistance stands at $332.38, $343.80, and $355.20–$355.72."
+           },
+    "th":  {
+               "caution":  "แรงขายเมื่อวันที่ 20 พ.ย. ไม่ใช่แค่ความผันผวนตามตลาด แต่กระทบแกนหลักของความเชื่อมั่นใน Broadcom สองเรื่องพร้อมกัน คือความผูกขาดกับ Google และคุณภาพกำไร แม้ว่ารายงานของ Ming-Chi Kuo เรื่องลดคำสั่งซื้อ TPU 8i ลง 20% จะยังไม่ได้รับการยืนยัน แต่บทบาทที่เพิ่มขึ้นของ MediaTek ใน TPU 8t สะท้อนว่าลูกค้ารายใหญ่พร้อมแบ่งซัพพลายเออร์เมื่อข้อจำกัดด้านไฟฟ้าและราคาตึงตัว ขณะเดียวกันการค้ำประกันมูลค่าคงเหลือใน SPV $63 พันล้านของ Anthropic เพิ่มความเสี่ยงงบดุลหากการทำกำไรของค่าย AI ล่าช้า ด้านเทคนิค RSI 14 ที่ 40.84 ยังไม่เข้าเขตขายมากเกินไป ทำให้แนวรับโลว์รอบ 52 สัปดาห์ที่ $289.77 ยังเปราะบางก่อนงบวันที่ 9 ธ.ค.",
+               "cons":  [
+                            "รายงานของ Ming-Chi Kuo วันที่ 20 พ.ย. ระบุว่า Google ลดคำสั่งซื้อ TPU 8i ปี 2027 ราว 1 ล้านชิป (20%) โดยเฉพาะรุ่น Whalefish ราคาสูง และหันไปเพิ่มคำสั่งซื้อ TPU 8t กับ MediaTek",
+                            "ภาระค้ำประกันมูลค่าคงเหลือในดีล SPV $63 พันล้านของ Anthropic (วันที่ 26 ต.ค.) บวกวงเงินหุ้นกู้แปลงสภาพ $42 พันล้าน ทำให้ Rothschild \u0026 Co Redburn ปรับลดคำแนะนำเป็น Neutral เมื่อ 13 พ.ย.",
+                            "สัดส่วนชิป ASIC และระบบที่พ่วงหน่วยความจำ HBM ต้นทุนสูงกดดันอัตรากำไรขั้นต้นเมื่อเทียบกับชิปเครือข่ายดั้งเดิม และเพิ่มความเสี่ยงการกระจุกตัวของลูกค้า",
+                            "กฎควบคุมส่งออกใหม่ของสหรัฐฯ (BIS) วันที่ 19 พ.ย. ที่คุมการเช่าใช้ชิป AI นอกประเทศรวมถึงไทยและอาเซียน ตลอดจนช่องโหว่ร้ายแรงใน VMware vCenter (CVE-2026-123890) เพิ่มแรงกดดันด้านกฎระเบียบและการดำเนินงาน"
+                        ],
+               "fundamental":  "Broadcom คือผู้เล่นหลักในชั้น custom silicon และเครือข่าย open Ethernet ของโครงสร้างพื้นฐาน AI โดยรับออกแบบชิปเฉพาะทาง ASIC (XPU) ให้ยักษ์ใหญ่คลาวด์ควบคู่กับสวิตช์ตระกูล Tomahawk และซอฟต์แวร์ VMware ในไตรมาส 3 ปีงบ 2026 (ประกาศ 2 ก.ย. 2026) รายได้รวมพุ่ง 86% YoY สู่ $29.6 พันล้าน นำโดยชิป AI $16.7 พันล้าน (+221% YoY) พร้อมอัตรากำไรจากการดำเนินงาน non-GAAP สูงถึง 67.9% ($20.1 พันล้าน) และกระแสเงินสดอิสระ $13.7 พันล้าน ผู้บริหารคาดรายได้ Q4 FY2026 ที่ $34.8 พันล้าน (ชิป AI $21.7 พันล้าน) ปรับเป้ารายได้ AI ทั้งปีงบ 2026 เป็น $58 พันล้าน และวางภาพระยะยาวปีงบ 2027–2028 ที่ราว $115 พันล้าน และ $230 พันล้าน อย่างไรก็ดี เป้าหมายเหล่านี้กำลังถูกตลาดตั้งคำถามเรื่องสัดส่วนคำสั่งซื้อ Google TPU ในปี 2027 แรงกดดันอัตรากำไรจาก HBM และโครงสร้างสินเชื่อลูกค้า งบ Q4 วันที่ 9 ธ.ค. 2026 จึงเป็นบทพิสูจน์สำคัญ",
+               "headline":  "ข่าวลือ Google ลดคำสั่งซื้อ TPU และความกังวลดีลสินเชื่อ AI กด AVGO ร่วง 12.2%",
+               "news":  [
+                            "20 พ.ย. 2026: นักวิเคราะห์ห่วงโซ่อุปทาน Ming-Chi Kuo รายงานว่า Google ปรับลดแผนส่งมอบชิป TPU 8i ที่ออกแบบร่วมกับ Broadcom ในปี 2027 ลงราว 1 ล้านชิป (ประมาณ 20% โดยเน้นรุ่นราคาสูง 8i Max โค้ดเนม \"Whalefish\") และหันไปเพิ่มคำสั่งซื้อ TPU 8t จาก MediaTek ภายใต้ข้อจำกัดด้านไฟฟ้าดาต้าเซ็นเตอร์ แม้ทั้งสองบริษัทจะยังไม่ยืนยัน แต่ราคาหุ้น AVGO ดิ่งลง 12.19% ด้วยวอลุ่มเกือบสองเท่าของค่าเฉลี่ย",
+                            "19 พ.ย. 2026: สำนักงาน BIS กระทรวงพาณิชย์สหรัฐฯ บังคับใช้กฎควบคุมการส่งออกฉบับใหม่ที่กำหนดให้ต้องขอใบอนุญาตส่งออกชิป AI ขั้นสูงมายังไทย มาเลเซีย สิงคโปร์ อินโดนีเซีย และบราซิล รวมถึงคุมดาต้าเซ็นเตอร์ต่างประเทศที่ให้บริษัทจีนเช่าใช้กำลังประมวลผลทางไกล วันเดียวกัน Broadcom ออกประกาศฉุกเฉิน VMSA-2026-0009 เพื่ออุดช่องโหว่ zero-day ร้ายแรงใน VMware vCenter (CVE-2026-123890) ที่ถูกโจมตีจริงแล้ว",
+                            "18 พ.ย. 2026: James Schneider นักวิเคราะห์จาก Goldman Sachs ปรับลดราคาเป้าหมายของ Broadcom จาก $540 เหลือ $460 แต่ยังคงคำแนะนำ Buy โดยอ้างการลดระดับ P/E ของกลุ่มเซมิคอนดักเตอร์จาก 30 เท่าลงสู่ 25 เท่า และการแข่งขันจาก MediaTek",
+                            "13 พ.ย. 2026: Rothschild \u0026 Co Redburn ปรับลดคำแนะนำ AVGO จาก Buy เป็น Neutral และหั่นราคาเป้าหมายจาก $595 เหลือ $398 โดยชี้ความเสี่ยงจากดีลโครงสร้างพื้นฐาน AI ที่อาศัยสินเชื่อและตั้งคำถามว่า OpenAI กับ Anthropic จะพึ่งพาตนเองทางการเงินได้เร็วแค่ไหน",
+                            "26 ต.ค. 2026: Bank of America, Blackstone, Citi และ Morgan Stanley เปิดตัวโครงสร้างสินเชื่อ SPV มูลค่า $63 พันล้านโดยมี Broadcom ค้ำประกันมูลค่าคงเหลือ เพื่อจัดซื้อชิป XPU และอุปกรณ์เครือข่าย Broadcom ให้ Anthropic ตั้งแต่ปี 2027 เพิ่มเติมจากวงเงินหุ้นกู้แปลงสภาพ $42 พันล้านที่เปิดเผยก่อนหน้า"
+                        ],
+               "opportunity":  "การที่ราคาหุ้น AVGO ปรับฐานลง 38.5% จากจุดสูงสุด $495.00 มาอยู่ที่ $304.41 ช่วยลดความคาดหวังของตลาดลงมากก่อนประกาศงบ Q4 FY2026 วันที่ 9 ธ.ค. 2026 ธุรกิจ custom silicon ของ Broadcom ไม่ได้พึ่งพา Google รายเดียวอีกต่อไป โดยมีแผนชิป 2nm MTIA ของ Meta ชิปเฉพาะทางของ OpenAI และคลัสเตอร์ขนาดหลายกิกะวัตต์ของ Anthropic ช่วยกระจายการเติบโต ขณะที่สวิตช์ open Ethernet (Tomahawk 6, Thor Ultra 800G) ได้ประโยชน์จากการขยายคลัสเตอร์ไม่ว่าลูกค้าจะเลือกใช้ชิปคำนวณค่ายใด หากซีอีโอ Hock Tan ยืนยันเป้ารายได้ AI ปีงบ 2027 ที่ $115 พันล้านและชี้แจงเกราะป้องกันความเสี่ยงสินเชื่อได้ชัดเจน โซนแนวรับ $294.67–$289.77 จะเป็นจุดที่ตลาดจับตาการตั้งฐานอย่างใกล้ชิด",
+               "opportunityCheck":  "ภาพรวมคะแนนโอกาส AI ของ Broadcom ส่วนใหญ่ยังสมเหตุสมผล แต่เหตุการณ์ล่าสุดทำให้ควรปรับสองด้าน ด้านสัดส่วนรายได้จาก AI ควรถูกขยับขึ้น เพราะรายได้ชิป AI พุ่งแตะ $16.7 พันล้านหรือ 56% ของรายได้รวมไตรมาส 3 ปีงบ 2026 และคาดทั้งปีงบ 2026 ถึง $58 พันล้าน กลายเป็นแกนหลักของธุรกิจชัดเจน ในทางกลับกัน คะแนนด้านตำแหน่งทางการตลาดและอำนาจการตั้งราคาจากคอขวดควรถูกปรับลดลงเล็กน้อย รายงานวันที่ 20 พ.ย. ของ Ming-Chi Kuo ที่ Google แบ่งคำสั่งซื้อ TPU ปี 2027 บางส่วนไปให้ MediaTek ชี้ว่าแม้แต่ลูกค้ารายใหญ่ที่สุดก็พร้อมใช้ซัพพลายเออร์สองราย ขณะที่ชิป ASIC ที่พ่วง HBM และดีลค้ำประกันสินเชื่อ $63 พันล้านช่วยจำกัดอำนาจตั้งราคา ส่วนการเติบโตของตลาดและทางเลือกต่อยอดยังดูเหมาะสม",
+               "pros":  [
+                            "รายได้ชิป AI ไตรมาส 3 ปีงบ 2026 พุ่ง 221% YoY สู่ $16.7 พันล้าน โดยคาดไตรมาส 4 แตะ $21.7 พันล้าน และทั้งปีงบ 2026 ที่ $58 พันล้าน",
+                            "ฐานลูกค้า custom silicon ระยะยาวครอบคลุมทั้ง Google, Meta, OpenAI และ Anthropic หนุนเป้ารายได้ AI ปีงบ 2027–2028 ที่ราว $115 พันล้าน และ $230 พันล้าน",
+                            "ความสามารถทำกำไรยังแข็งแกร่งมาก ด้วยอัตรากำไรจากการดำเนินงาน non-GAAP ไตรมาส 3 ที่ 67.9% ($20.1 พันล้าน) และกระแสเงินสดอิสระ $13.7 พันล้าน",
+                            "ผลิตภัณฑ์เครือข่าย open Ethernet สำหรับ AI เช่น สวิตช์ Tomahawk 6, การ์ด Thor Ultra 800G และ co-packaged optics ช่วยขยายความได้เปรียบนอกเหนือจากชิปประมวลผล"
+                        ],
+               "risks":  [
+                             "การแบ่งซัพพลายเออร์และการกระจุกตัวของลูกค้า: หาก Google โอนสัดส่วนคำสั่งซื้อ TPU ปี 2027 ไปให้ MediaTek มากขึ้น อาจกดดันทั้งส่วนแบ่งปริมาณและราคาขายเฉลี่ยชิปรุ่นบน",
+                             "ความเสี่ยงจากการช่วยจัดหาเงินทุนให้ลูกค้า: ภาระค้ำประกันมูลค่าคงเหลือใน SPV $63 พันล้านของ Anthropic และวงเงินหุ้นกู้แปลงสภาพ $42 พันล้านผูกงบดุล Broadcom เข้ากับความแข็งแกร่งทางการเงินของค่าย AI",
+                             "แรงกดดันต่ออัตรากำไรขั้นต้น: การเร่งส่งมอบระบบ ASIC ที่ใช้หน่วยความจำ HBM ต้นทุนสูงมีอัตรากำไรขั้นต้นต่ำกว่าธุรกิจชิปเครือข่ายดั้งเดิมและซอฟต์แวร์ VMware",
+                             "ความเสี่ยงด้านกฎระเบียบและความปลอดภัยไซเบอร์: กฎ BIS วันที่ 19 พ.ย. ที่คุมการเข้าถึงชิป AI ทางไกลในอาเซียนและบราซิล รวมถึงช่องโหว่ร้ายแรงใน VMware (CVE-2026-123890) เพิ่มต้นทุนการปฏิบัติตามกฎและความเสี่ยงด้านชื่อเสียง"
+                         ],
+               "summary":  "หุ้น Broadcom (AVGO) ร่วงแรง 12.19% เมื่อวันที่ 20 พ.ย. 2026 ปิดที่ $304.41 ด้วยปริมาณซื้อขายเกือบสองเท่าของค่าเฉลี่ย หลังนักวิเคราะห์ Ming-Chi Kuo รายงานว่า Google ลดคำสั่งซื้อชิป TPU 8i ปี 2027 ที่ออกแบบกับ Broadcom ราว 1 ล้านชิป พร้อมหันไปเพิ่มคำสั่งซื้อ TPU 8t จาก MediaTek แรงขายนี้ซ้ำเติมเดือนที่ผันผวนหลัง Rothschild \u0026 Co Redburn ลดคำแนะนำเมื่อ 13 พ.ย. จากความกังวลดีลค้ำประกันสินเชื่อ $63 พันล้านให้ Anthropic และกฎคุมส่งออกชิป AI ใหม่ของสหรัฐฯ วันที่ 19 พ.ย. แม้งบ AI ไตรมาส 3 ปีงบ 2026 จะโต 221% สู่ $16.7 พันล้าน แต่ความเสี่ยงเรื่องแบ่งซัพพลายเออร์และเครดิตทำให้ต้องปรับสถานะคูเมืองเป็นเฝ้าระวังก่อนงบวันที่ 9 ธ.ค.",
+               "technical":  "ภาพเทคนิคของ AVGO ณ วันที่ 20 พ.ย. 2026 เป็นขาลงชัดเจน ราคาปิด $304.41 (-12.19%) อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนัก (EMA—เส้นวัดแนวโน้มราคา) ทั้งสามเส้นแบบเรียงตัวขาลงสมบูรณ์ โดย EMA 50 ($343.80) อยู่ต่ำกว่า EMA 100 ($355.20) และ EMA 200 ($355.72) แท่งเทียนวันศุกร์เปิดและทำจุดสูงสุดที่ $343.01 ชนแนวต้าน EMA 50 แล้วถูกเทขายปิดใกล้จุดต่ำสุดของวันที่ $301.02 พร้อมปริมาณซื้อขาย 59.56 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (30.37 ล้านหุ้น) เกือบเท่าตัว ยืนยันแรงขายจากสถาบัน ในกรอบ Bollinger Bands (แถบวัดความผันผวนรอบ 20 วัน) ราคาหลุดเส้นกลาง $332.38 ลงมาจ่อขอบล่างที่ $294.67 และอยู่เหนือจุดต่ำสุดรอบ 52 สัปดาห์ ($289.77) เพียง 7% ของกรอบทั้งปี หรือต่ำกว่าจุดสูงสุด $495.00 ถึง 38.5% ด้านโมเมนตัม MACD (ตัวชี้วัดแนวโน้มและแรงเหวี่ยง) ติดลบที่ -2.10 แม้ยังสูงกว่าเส้น signal (-2.76) เล็กน้อย (histogram +0.66) จากการรีบาวด์ก่อนร่วง ส่วน RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 40.84 ยังมีพื้นที่ลงต่อได้ แนวรับสำคัญอยู่ที่ $294.67 และ $289.77 ส่วนแนวต้านอยู่ที่ $332.38, $343.80 และโซน $355.20–$355.72"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "Investing.com",
+                        "title":  "Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips",
+                        "url":  "https://www.investing.com/news/stock-market-news/google-reportedly-cuts-broadcomdesigned-tpu-plans-eyes-more-mediatek-chips-432SI-3765415"
+                    },
+                    {
+                        "date":  "2026-11-13",
+                        "publisher":  "Investing.com",
+                        "title":  "Rothschild downgrades Broadcom stock rating on AI financing concerns",
+                        "url":  "https://www.investing.com/news/stock-market-news/rothschild-downgrades-broadcom-stock-rating-on-ai-financing-concerns-932CH-3932782"
+                    },
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "24/7 Wall St.",
+                        "title":  "Broadcom Plunges 11% as Google Reportedly Shifts TPU Orders to MediaTek, Overshadowing Goldman\u0027s $460 Target",
+                        "url":  "https://247wallst.com/services/broadcom-plunges-11-as-google-reportedly-shifts-tpu-orders-to-mediatek-overshadowing-goldmans-460-target/"
+                    },
+                    {
+                        "date":  "2026-10-26",
+                        "publisher":  "PR Newswire",
+                        "title":  "Bank of America, Blackstone, Citi and Morgan Stanley Announce Landmark $63 Billion Financing Structure to Enable AI Compute Capacity in Partnership with Broadcom",
+                        "url":  "https://www.prnewswire.com/news-releases/bank-of-america-blackstone-citi-and-morgan-stanley-announce-landmark-63-billion-financing-structure-to-enable-ai-compute-capacity-in-partnership-with-broadcom-302938831.html"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "Federal Register (U.S. Bureau of Industry and Security)",
+                        "title":  "Addressing Remote Access to Advanced Semiconductors",
+                        "url":  "https://www.federalregister.gov/d/2026-23529"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "Broadcom Support",
+                        "title":  "VMSA-2026-0009: VMware vCenter Server, Cloud Foundation, and vSphere Foundation updates address multiple vulnerabilities",
+                        "url":  "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25501"
+                    },
+                    {
+                        "date":  "2026-09-02",
+                        "publisher":  "Broadcom Inc.",
+                        "title":  "Broadcom Inc. Investor Relations — Q3 FY2026 Financial Results and Q4 FY2026 Earnings Schedule",
+                        "url":  "https://investors.broadcom.com/"
+                    }
+                ]
+}

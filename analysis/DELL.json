@@ -1,0 +1,765 @@
+{
+    "ticker":  "DELL",
+    "name":  "Dell Technologies",
+    "symbol":  "NYSE:DELL",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:45:39Z",
+    "costUsd":  0.6400807000000001,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NYSE:DELL",
+                       "yahoo":  "DELL",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:43:21Z",
+                       "price":  278.02,
+                       "open":  303.6,
+                       "high":  303.6,
+                       "low":  274.35,
+                       "volume":  12578600,
+                       "avgVolume20":  7865950,
+                       "changePct":  -11.04,
+                       "historyDays":  501,
+                       "ema50":  424.92,
+                       "ema100":  424.96,
+                       "ema200":  367.21,
+                       "bb":  {
+                                  "upper":  504.91,
+                                  "middle":  374.94,
+                                  "lower":  244.97
+                              },
+                       "macd":  {
+                                    "macd":  -48.16,
+                                    "signal":  -44.22,
+                                    "hist":  -3.94
+                                },
+                       "rsi14":  28.46,
+                       "high52w":  595.51,
+                       "low52w":  110.22,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         421.08
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         422.05
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         394.39
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         400.77
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         381.78
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         369.83
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         391.45
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         395.57
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         409.07
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         404.08
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         419.32
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         409.5
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         418.71
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         427.78
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         434.06
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         409.45
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         399.49
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         414.61
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         431.46
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         425.25
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         394.32
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         411.8
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         417.28
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         431.97
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         450.22
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         434.97
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         427.11
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         457.54
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         412.68
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         391.38
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         396.34
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         381.88
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         404.15
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         441.8
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         439.34
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         437.5
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         426.91
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         392.1
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         369.64
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         404.81
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         405.37
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         429.02
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         467.27
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         462.7
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         437.65
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         453.77
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         457.88
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         440.97
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         484.5
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         494.51
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         490.81
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         479.81
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         468.65
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         437.55
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         434.78
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         442.08
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         433.19
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         451.5
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         463.82
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         472.26
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         456.24
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         456.01
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         425
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         492.2
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         516.39
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         524.14
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         533.88
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         535.25
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         506.62
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         567.29
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         534.28
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         543.51
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         563.29
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         588.4
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         568.06
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         575.31
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         548.92
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         549.83
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         536.02
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         562.89
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         543.43
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         539.59
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         537.95
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         541.74
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         562.52
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         552.29
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         574
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         578.96
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         574.55
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         586.06
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         576.76
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         572.47
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         507.93
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         473.39
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         451.71
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         455.44
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         461.56
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         485.88
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         452.95
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         456.44
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         467.09
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         501.96
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         493.79
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         475.51
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         424.3
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         392.78
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         408.4
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         372.36
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         316.91
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         328.53
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         346.31
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         334.38
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         373.68
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         371.17
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         344.53
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         320.55
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         322.79
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         313.11
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         312.54
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         278.02
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          250.71,
+                                          257.43,
+                                          262.8,
+                                          268.21,
+                                          272.66,
+                                          276.48,
+                                          280.98,
+                                          285.48,
+                                          290.32,
+                                          294.79,
+                                          299.67,
+                                          303.98,
+                                          308.48,
+                                          313.15,
+                                          317.9,
+                                          321.49,
+                                          324.54,
+                                          328.08,
+                                          332.13,
+                                          335.78,
+                                          338.08,
+                                          340.97,
+                                          343.96,
+                                          347.41,
+                                          351.45,
+                                          354.72,
+                                          357.56,
+                                          361.48,
+                                          363.49,
+                                          364.58,
+                                          365.83,
+                                          366.46,
+                                          367.93,
+                                          370.83,
+                                          373.52,
+                                          376.03,
+                                          378.02,
+                                          378.57,
+                                          378.22,
+                                          379.27,
+                                          380.29,
+                                          382.2,
+                                          385.54,
+                                          388.56,
+                                          390.49,
+                                          392.97,
+                                          395.52,
+                                          397.3,
+                                          400.72,
+                                          404.4,
+                                          407.78,
+                                          410.61,
+                                          412.89,
+                                          413.85,
+                                          414.67,
+                                          415.75,
+                                          416.43,
+                                          417.81,
+                                          419.61,
+                                          421.68,
+                                          423.03,
+                                          424.33,
+                                          424.35,
+                                          427.01,
+                                          430.52,
+                                          434.19,
+                                          438.1,
+                                          441.91,
+                                          444.45,
+                                          449.26,
+                                          452.6,
+                                          456.16,
+                                          460.36,
+                                          465.38,
+                                          469.41,
+                                          473.56,
+                                          476.52,
+                                          479.39,
+                                          481.61,
+                                          484.8,
+                                          487.1,
+                                          489.16,
+                                          491.07,
+                                          493.06,
+                                          495.78,
+                                          498,
+                                          500.98,
+                                          504.04,
+                                          506.8,
+                                          509.91,
+                                          512.53,
+                                          514.88,
+                                          514.61,
+                                          512.99,
+                                          510.59,
+                                          508.43,
+                                          506.59,
+                                          505.78,
+                                          503.71,
+                                          501.85,
+                                          500.49,
+                                          500.55,
+                                          500.28,
+                                          499.31,
+                                          496.37,
+                                          492.31,
+                                          489.02,
+                                          484.44,
+                                          477.87,
+                                          472.02,
+                                          467.09,
+                                          461.88,
+                                          458.42,
+                                          455,
+                                          450.67,
+                                          445.57,
+                                          440.75,
+                                          435.75,
+                                          430.91,
+                                          424.92
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Dell down 34% in November on AI selloff, two days before FQ3 results",
+               "summary":  "Dell closed at US$278.02 on 2026-11-20, down 11.04% in a day and about 53% below its US$595.51 52-week high. November is on pace to be its worst month since the stock relisted in 2018. Dell itself put out no bad news. The selling came with an industry-wide AI-hardware rout (Nov 5, Nov 13, Nov 16, Nov 20) and worries about memory costs and orders pulled forward. The business still has a US$95B AI-server backlog and guides to US$74B of FY27 AI revenue. Fiscal Q3 results on Nov 24 will test whether that backlog turns into revenue and cash.",
+               "pros":  [
+                            "The AI-server backlog is a record US$95B after US$60.9B of orders in fiscal Q2.",
+                            "Dell raised FY27 guidance by US$25B to US$192B, including US$74B from AI servers.",
+                            "Fiscal Q3 is guided to US$49B revenue (+81% YoY) and US$6.50 adjusted EPS, reported Nov 24.",
+                            "The stock trades near 12x forward earnings, per TIKR, about half of Vertiv\u0027s multiple.",
+                            "RSI is 28.46, below the 30 oversold line, after a 34% fall in one month."
+                        ],
+               "cons":  [
+                            "Price is below all three EMAs and MACD is still falling, so the trend is down.",
+                            "Gross margin is only about 20%, so higher memory costs or AI-server price cuts hit profit quickly.",
+                            "Fiscal Q2 operating cash flow fell 13% to US$2.2B even as revenue rose 58%.",
+                            "Net debt is US$23.6B after a US$5B bond sale in September.",
+                            "Dell needs over US$41B of AI-server revenue in the second half to hit its full-year target."
+                        ],
+               "opportunityCheck":  "The scores look mostly fair, but AI revenue exposure (11) looks too low. AI servers are guided at US$74B of US$192B FY27 revenue, about 38% of sales, and the US$95B backlog covers more than a year of shipments. I would raise exposure by 2–3 points. Bottleneck \u0026 pricing power (6) is correct: a gross margin near 20% and sensitivity to memory prices show Dell assembles systems rather than controlling a choke point. That point is exactly what this month\u0027s selloff punished.",
+               "technical":  "Trend: price (US$278.02) is below the EMA50 (424.92), EMA100 (424.96) and EMA200 (367.21). EMAs are exponential moving averages that smooth price over 50, 100 and 200 days. The EMA50 has slipped just under the EMA100, so the medium-term trend has turned down, and price is about 24% below the long-term EMA200. Momentum: MACD (the gap between a fast and a slow average) is -48.16, below its signal line at -44.22, and the histogram is negative (-3.94), so selling pressure is still growing. RSI 14, a 0–100 momentum gauge where under 30 means oversold, is 28.46. That says the fall is stretched, but it does not mark a bottom. Volatility: the Bollinger Bands, a range around the 20-day average, are very wide (244.97–504.91), a sign of extreme swings. Price sits in the lower part of the bands, above the lower band. It is about 35% of the way up the 52-week range (110.22–595.51). Volume was 12.58M, 1.6x the 20-day average, and the stock opened at the day\u0027s high (303.60) and closed near the low (274.35), so heavy volume backed the selling. Support: 274.35, then the lower band near 245. Resistance: 303.60, then about 317–320 (closes on Nov 5 and Nov 16).",
+               "fundamental":  "Dell builds AI server racks around Nvidia GPUs for neoclouds, sovereign buyers and enterprises. It also sells PCs and storage. In fiscal Q2, which ended July 31, 2026, revenue was a record US$47.0B (+58%), Infrastructure Solutions grew 89% to US$31.8B, AI-server revenue was US$16.4B, and orders of US$60.9B lifted the backlog to US$95B. The weak points: gross margin is about 20%, operating cash flow fell 13% to US$2.2B, and net debt is US$23.6B, so Dell is funding the AI ramp partly with debt. The moat is enterprise relationships, supply-chain scale and very low opex (about 8% of revenue). That moat is about winning volume, not pricing power. Fiscal Q3 is guided to about US$19B of AI-server revenue. Watch how much cash comes in from customers, not just bookings.",
+               "news":  [
+                            "Nov 20: DELL fell 11.04% to US$278.02 in a broad AI and chip selloff with no Dell-specific news. HPE fell 9%, Super Micro 7% and AMD 11%, and memory names such as Micron dropped 13%.",
+                            "Nov 5: shares fell 14.9% to US$316.91, a 22.6% two-day drop, in a post-midterm selloff of AI hardware tied to fears that data-center construction could slow.",
+                            "Nov 13 and Nov 16: back-to-back falls of 7.2% and 7.0% (close US$320.55) ahead of Nvidia\u0027s results. Around Nov 16, Morgan Stanley cut its target to US$403 from US$511 (Equal Weight) and Citi cut to US$550 from US$600 (Buy).",
+                            "Citi\u0027s listed concerns: AI demand may have peaked, customers may have pulled orders forward, memory prices could squeeze margins, and PC sales are weakening. An Oct 30 Intel warning about a PC slump and memory shortages had already knocked DELL down 11%.",
+                            "Nov 16 (SC26, Chicago): Dell expanded the Dell AI Factory with NVIDIA, adding AI Data Platform features such as an Agentic Data Gateway to its enterprise AI offering.",
+                            "Nov 24 (after the close): fiscal Q3 results, guided to US$49B revenue and US$6.50 adjusted EPS. Over its last eight reports, the stock has moved about 13% on average the next day."
+                        ],
+               "caution":  "This selloff did not come from Dell\u0027s own news, but it hits Dell\u0027s weakest point: thin margins. Gross margin is about 20%, so a rise in memory prices or a price war in AI servers comes straight out of profit. Second-half guidance needs more than US$41B of AI revenue. If customers pulled orders forward, or neocloud buyers have trouble raising money, the backlog could convert more slowly. Cash flow is also lagging revenue while net debt sits at US$23.6B. Earnings on Nov 24 could move the stock about 13% either way, based on its recent history.",
+               "opportunity":  "The price has fallen much further than anything known about the business. Nothing announced so far cancels the US$95B backlog or the US$192B FY27 guidance, and the stock trades near 12x forward earnings. RSI 28.46 shows oversold conditions, and the last four earnings reports were followed by gains averaging about 19%. If Dell confirms on Nov 24 that bookings and backlog are holding, that margins are steady and that cash flow is improving, the market could judge November\u0027s selling as sector panic rather than real damage to the business.",
+               "risks":  [
+                             "AI-server orders slow, or customers pulled orders forward",
+                             "Memory and NAND cost inflation squeezes a roughly 20% gross margin",
+                             "Backlog converts to cash slowly while net debt sits at US$23.6B",
+                             "PC demand weakens, as Intel warned on Oct 30",
+                             "Large earnings-day swings (about 13% average next-day move) and sector-wide AI selloffs"
+                         ]
+           },
+    "th":  {
+               "headline":  "DELL ร่วง 34% ในเดือนพฤศจิกายนตามแรงเทขายหุ้น AI ก่อนประกาศงบ FQ3 สองวัน",
+               "summary":  "วันที่ 20 พ.ย. 2026 DELL ปิดที่ 278.02 ดอลลาร์ ลดลง 11.04% ในวันเดียว และต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ 595.51 ดอลลาร์ราว 53% เดือนนี้มีแนวโน้มเป็นเดือนที่แย่ที่สุดนับตั้งแต่กลับเข้าตลาดในปี 2018 บริษัทเองไม่มีข่าวร้าย แรงขายมาจากการเทขายหุ้นฮาร์ดแวร์ AI ทั้งกลุ่ม (5, 13, 16 และ 20 พ.ย.) และความกังวลเรื่องต้นทุนหน่วยความจำกับลูกค้าที่อาจสั่งซื้อล่วงหน้าไปแล้ว ส่วนธุรกิจยังมี backlog เซิร์ฟเวอร์ AI 95 พันล้านดอลลาร์ และเป้ารายได้ AI ปี FY27 ที่ 74 พันล้านดอลลาร์ งบไตรมาส 3 วันที่ 24 พ.ย. จะชี้ว่า backlog นี้กลายเป็นรายได้และเงินสดได้จริงหรือไม่",
+               "pros":  [
+                            "backlog เซิร์ฟเวอร์ AI สูงเป็นประวัติการณ์ที่ 95 พันล้านดอลลาร์ หลังได้ออเดอร์ 60.9 พันล้านดอลลาร์ในไตรมาส 2",
+                            "บริษัทเพิ่มเป้ารายได้ FY27 อีก 25 พันล้านดอลลาร์เป็น 192 พันล้านดอลลาร์ โดยเป็นเซิร์ฟเวอร์ AI 74 พันล้านดอลลาร์",
+                            "ไตรมาส 3 ตั้งเป้ารายได้ 49 พันล้านดอลลาร์ (+81% YoY) และ EPS ที่ปรับปรุงแล้ว 6.50 ดอลลาร์ ประกาศ 24 พ.ย.",
+                            "P/E ล่วงหน้าราว 12 เท่า (อ้างอิง TIKR) ประมาณครึ่งหนึ่งของ Vertiv",
+                            "RSI อยู่ที่ 28.46 ต่ำกว่าเส้น 30 ซึ่งถือว่า oversold หลังราคาร่วง 34% ในเดือนเดียว"
+                        ],
+               "cons":  [
+                            "ราคาอยู่ใต้ EMA ทั้งสามเส้นและ MACD ยังลดลงต่อ แนวโน้มจึงเป็นขาลง",
+                            "อัตรากำไรขั้นต้นแค่ราว 20% ถ้าต้นทุนหน่วยความจำขึ้นหรือราคาเซิร์ฟเวอร์ AI ถูกกด กำไรจะโดนทันที",
+                            "ไตรมาส 2 กระแสเงินสดจากการดำเนินงานลดลง 13% เหลือ 2.2 พันล้านดอลลาร์ ทั้งที่รายได้โต 58%",
+                            "หนี้สุทธิ 23.6 พันล้านดอลลาร์ หลังออกหุ้นกู้ 5 พันล้านดอลลาร์ในเดือนกันยายน",
+                            "ครึ่งปีหลังต้องมีรายได้เซิร์ฟเวอร์ AI มากกว่า 41 พันล้านดอลลาร์จึงจะถึงเป้าทั้งปี"
+                        ],
+               "opportunityCheck":  "คะแนนโดยรวมดูสมเหตุสมผล แต่ AI revenue exposure (11) ดูต่ำเกินไป เป้าเซิร์ฟเวอร์ AI อยู่ที่ 74 พันล้านดอลลาร์จากรายได้ FY27 ทั้งหมด 192 พันล้านดอลลาร์ หรือราว 38% ของยอดขาย และ backlog 95 พันล้านดอลลาร์ครอบคลุมการส่งมอบได้เกินหนึ่งปี จึงควรเพิ่มอีก 2–3 แต้ม ส่วนคะแนน bottleneck \u0026 pricing power (6) ถูกต้องแล้ว อัตรากำไรขั้นต้นราว 20% และความอ่อนไหวต่อราคาหน่วยความจำบอกว่า Dell เป็นผู้ประกอบระบบ ไม่ได้คุมคอขวดของห่วงโซ่ และนี่คือจุดที่ตลาดลงโทษในเดือนนี้",
+               "technical":  "แนวโน้ม: ราคา 278.02 ดอลลาร์อยู่ใต้ EMA50 (424.92), EMA100 (424.96) และ EMA200 (367.21) โดย EMA คือเส้นค่าเฉลี่ยราคาแบบถ่วงน้ำหนักช่วง 50, 100 และ 200 วัน EMA50 เพิ่งหลุดลงมาอยู่ใต้ EMA100 แปลว่าแนวโน้มระยะกลางหันลง และราคาต่ำกว่า EMA200 ซึ่งเป็นเส้นระยะยาวราว 24% โมเมนตัม: MACD (ส่วนต่างระหว่างค่าเฉลี่ยเร็วกับช้า) อยู่ที่ -48.16 ต่ำกว่าเส้น signal ที่ -44.22 และฮิสโตแกรมติดลบ (-3.94) แรงขายจึงยังเพิ่มขึ้น RSI 14 เป็นมาตรวัดโมเมนตัม 0–100 ที่ต่ำกว่า 30 ถือว่า oversold ตอนนี้อยู่ที่ 28.46 บอกว่าการลงยืดเกินไปแล้ว แต่ไม่ได้ยืนยันว่าเป็นจุดต่ำสุด ความผันผวน: Bollinger Bands ซึ่งเป็นกรอบรอบค่าเฉลี่ย 20 วัน กว้างมาก (244.97–504.91) สะท้อนการเหวี่ยงตัวรุนแรง ราคาอยู่ช่วงล่างของกรอบแต่ยังเหนือเส้นล่าง และอยู่ราว 35% ของช่วง 52 สัปดาห์ (110.22–595.51) ปริมาณซื้อขาย 12.58 ล้านหุ้น เป็น 1.6 เท่าของค่าเฉลี่ย 20 วัน วันนั้นเปิดที่จุดสูงสุด (303.60) และปิดใกล้จุดต่ำสุด (274.35) แสดงว่าแรงขายมีวอลุ่มหนุนจริง แนวรับ 274.35 ถัดไปคือเส้นล่างของกรอบราว 245 แนวต้าน 303.60 ถัดไปราว 317–320 (ราคาปิดวันที่ 5 และ 16 พ.ย.)",
+               "fundamental":  "Dell ประกอบแร็กเซิร์ฟเวอร์ AI ที่ใช้ GPU ของ Nvidia ให้ neocloud ลูกค้าภาครัฐระดับประเทศ และองค์กรใหญ่ นอกจากนี้ยังขาย PC และสตอเรจ ไตรมาส 2 (สิ้นสุด 31 ก.ค. 2026) รายได้ทำสถิติที่ 47.0 พันล้านดอลลาร์ (+58%) กลุ่ม Infrastructure Solutions โต 89% เป็น 31.8 พันล้านดอลลาร์ รายได้เซิร์ฟเวอร์ AI 16.4 พันล้านดอลลาร์ และออเดอร์ 60.9 พันล้านดอลลาร์ดัน backlog ขึ้นเป็น 95 พันล้านดอลลาร์ จุดอ่อนคืออัตรากำไรขั้นต้นราว 20% กระแสเงินสดจากการดำเนินงานลดลง 13% เหลือ 2.2 พันล้านดอลลาร์ และหนี้สุทธิ 23.6 พันล้านดอลลาร์ แปลว่าการขยายธุรกิจ AI ใช้เงินกู้ส่วนหนึ่ง moat ของ Dell คือความสัมพันธ์กับองค์กร ซัพพลายเชนขนาดใหญ่ และค่าใช้จ่ายดำเนินงานต่ำมาก (ราว 8% ของรายได้) เป็นความได้เปรียบด้านการชิงยอดขาย ไม่ใช่อำนาจตั้งราคา ไตรมาส 3 คาดรายได้เซิร์ฟเวอร์ AI ราว 19 พันล้านดอลลาร์ สิ่งที่ต้องดูคือเงินสดที่เก็บได้จากลูกค้าจริง ไม่ใช่แค่ยอดจอง",
+               "news":  [
+                            "20 พ.ย.: DELL ร่วง 11.04% เหลือ 278.02 ดอลลาร์ ท่ามกลางการเทขายหุ้น AI และชิปทั้งกลุ่ม โดยไม่มีข่าวของบริษัทเอง HPE ลง 9%, Super Micro 7%, AMD 11% และหุ้นหน่วยความจำอย่าง Micron ลง 13%",
+                            "5 พ.ย.: หุ้นดิ่ง 14.9% เหลือ 316.91 ดอลลาร์ รวมสองวันลดลง 22.6% จากการเทขายหุ้นฮาร์ดแวร์ AI หลังเลือกตั้งกลางเทอม ด้วยความกังวลว่าการสร้างดาต้าเซ็นเตอร์อาจชะลอลง",
+                            "13 และ 16 พ.ย.: ลดลงติดกัน 7.2% และ 7.0% (ปิด 320.55 ดอลลาร์) ก่อนงบ Nvidia ช่วงวันที่ 16 พ.ย. Morgan Stanley ลดราคาเป้าหมายเป็น 403 จาก 511 ดอลลาร์ (Equal Weight) และ Citi ลดเป็น 550 จาก 600 ดอลลาร์ (Buy)",
+                            "ความกังวลที่ Citi ระบุ: ดีมานด์ AI อาจผ่านจุดสูงสุดแล้ว ลูกค้าอาจสั่งซื้อล่วงหน้าไปแล้ว ราคาหน่วยความจำอาจกดมาร์จิ้น และยอดขาย PC อ่อนตัว ก่อนหน้านั้นวันที่ 30 ต.ค. คำเตือนของ Intel เรื่อง PC ซบเซาและหน่วยความจำขาดแคลนก็ทำให้ DELL ร่วง 11% มาแล้ว",
+                            "16 พ.ย. (งาน SC26 ที่ชิคาโก): Dell ขยาย Dell AI Factory with NVIDIA เพิ่มความสามารถของ AI Data Platform เช่น Agentic Data Gateway เพื่อเสริมโซลูชัน AI สำหรับองค์กร",
+                            "24 พ.ย. (หลังตลาดปิด): ประกาศงบไตรมาส 3 เป้ารายได้ 49 พันล้านดอลลาร์ และ EPS ที่ปรับปรุงแล้ว 6.50 ดอลลาร์ ใน 8 งวดล่าสุด หุ้นขยับเฉลี่ยราว 13% ในวันถัดจากประกาศงบ"
+                        ],
+               "caution":  "การเทขายรอบนี้ไม่ได้มาจากข่าวของ Dell เอง แต่ไปกระทบจุดอ่อนที่สุดของบริษัท คือมาร์จิ้นบาง อัตรากำไรขั้นต้นแค่ราว 20% ถ้าราคาหน่วยความจำขึ้นหรือเกิดสงครามราคาในตลาดเซิร์ฟเวอร์ AI กำไรจะหายไปโดยตรง เป้าครึ่งปีหลังต้องการรายได้ AI มากกว่า 41 พันล้านดอลลาร์ ถ้าลูกค้าดึงออเดอร์มาก่อนแล้ว หรือ neocloud หาเงินทุนยากขึ้น backlog อาจกลายเป็นรายได้ช้ากว่าที่คาด อีกทั้งกระแสเงินสดยังตามหลังรายได้ ขณะที่หนี้สุทธิอยู่ที่ 23.6 พันล้านดอลลาร์ จากสถิติที่ผ่านมา งบวันที่ 24 พ.ย. อาจทำให้หุ้นเหวี่ยงราว 13% ได้ทั้งขึ้นและลง",
+               "opportunity":  "ราคาหุ้นลดลงมากกว่าสิ่งที่รู้เกี่ยวกับธุรกิจไปมาก จนถึงตอนนี้ยังไม่มีอะไรที่ลบล้าง backlog 95 พันล้านดอลลาร์หรือเป้ารายได้ FY27 ที่ 192 พันล้านดอลลาร์ และหุ้นซื้อขายราว 12 เท่าของกำไรล่วงหน้า RSI 28.46 อยู่ในเขต oversold และหลังงบ 4 งวดล่าสุด หุ้นขึ้นเฉลี่ยราว 19% ถ้าวันที่ 24 พ.ย. Dell ยืนยันได้ว่ายอดจองและ backlog ยังแข็งแรง มาร์จิ้นทรงตัว และกระแสเงินสดดีขึ้น ตลาดอาจมองแรงขายเดือนพฤศจิกายนว่าเป็นความตื่นตระหนกของทั้งกลุ่ม ไม่ใช่ความเสียหายจริงของธุรกิจ",
+               "risks":  [
+                             "ออเดอร์เซิร์ฟเวอร์ AI ชะลอตัว หรือลูกค้าสั่งซื้อล่วงหน้าไปแล้ว",
+                             "ต้นทุนหน่วยความจำและ NAND ที่สูงขึ้นกดอัตรากำไรขั้นต้นที่มีอยู่ราว 20%",
+                             "backlog กลายเป็นเงินสดช้า ขณะที่หนี้สุทธิอยู่ที่ 23.6 พันล้านดอลลาร์",
+                             "ดีมานด์ PC อ่อนตัว ตามที่ Intel เตือนไว้เมื่อ 30 ต.ค.",
+                             "ราคาเหวี่ยงแรงในวันประกาศงบ (เฉลี่ยราว 13% ในวันถัดไป) และการเทขายหุ้น AI ทั้งกลุ่ม"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "Dell Stock Plunges 10% in the AI Selloff and Heads for Its Worst Month Since Its 2018 Return to the Stock Market. Earnings Are Tuesday",
+                        "publisher":  "24/7 Wall St.",
+                        "url":  "https://247wallst.com/investing/2026/11/20/dell-stock-plunges-10-in-the-ai-selloff-and-heads-for-its-worst-month-since-its-2018-return-to-the-stock-market-earnings-are-tuesday/",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "What Triggered Dell Stock\u0027s 7% Drop?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/dell/articles/625803/why-did-dell-stock-fall-7/2026-11-17",
+                        "date":  "2026-11-17"
+                    },
+                    {
+                        "title":  "What Sent Dell Stock Lower?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/dell/articles/623350/what-sent-dell-stock-lower/2026-11-06",
+                        "date":  "2026-11-06"
+                    },
+                    {
+                        "title":  "Dell Has a $95 Billion AI Backlog. Its November 24 Report Must Show It Turns Into Cash",
+                        "publisher":  "TIKR",
+                        "url":  "https://www.tikr.com/blog/dell-has-a-95-billion-ai-backlog-its-november-24-report-must-show-it-turns-into-cash"
+                    },
+                    {
+                        "title":  "Dell Has a $95 Billion AI Server Backlog. Is the Stock a Buy?",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/investing/2026/11/11/dell-has-a-usd95-billion-ai-server-backlog-is-the-stock-a-buy/",
+                        "date":  "2026-11-11"
+                    },
+                    {
+                        "title":  "Dell Technologies (DELL) Shares Plunge Nearly 12% Amid Tech Sector Selloff",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9213225/dell-technologies-dell-shares-plunge-nearly-12-amid-tech-sector-selloff",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Dell Technologies Delivers the Trusted Data and AI Infrastructure Foundation Needed to Scale Agentic Enterprise AI",
+                        "publisher":  "Business Wire via Finviz",
+                        "url":  "https://finviz.com/news/423246/dell-technologies-delivers-the-trusted-data-and-ai-infrastructure-foundation-needed-to-scale-agentic-enterprise-ai",
+                        "date":  "2026-11-16"
+                    }
+                ]
+}

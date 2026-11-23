@@ -1,0 +1,745 @@
+{
+    "ticker":  "ALAB",
+    "name":  "Astera Labs",
+    "symbol":  "NASDAQ:ALAB",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:04:49Z",
+    "costUsd":  0.7890709,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:ALAB",
+                       "yahoo":  "ALAB",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:01:34Z",
+                       "price":  180.35,
+                       "open":  203.64,
+                       "high":  205.93,
+                       "low":  176.78,
+                       "volume":  7924300,
+                       "avgVolume20":  5499170,
+                       "changePct":  -14.77,
+                       "ema50":  264.77,
+                       "ema100":  278.88,
+                       "ema200":  261.31,
+                       "bb":  {
+                                  "upper":  295.21,
+                                  "middle":  229.27,
+                                  "lower":  163.34
+                              },
+                       "macd":  {
+                                    "macd":  -24.19,
+                                    "signal":  -24.19,
+                                    "hist":  0
+                                },
+                       "rsi14":  33.04,
+                       "high52w":  499.48,
+                       "low52w":  97.89,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         363.54
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         358.05
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         317.06
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         346.33
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         341.7
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         330.86
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         367.47
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         367.15
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         389.2
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         361.71
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         374.68
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         417.07
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         439.66
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         397.02
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         399.92
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         398
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         391.74
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         455.96
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         483.02
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         430.86
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         406.42
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         432.74
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         382.89
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         393.16
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         417.45
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         412.97
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         362.05
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         361.78
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         350.62
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         319.74
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         303.62
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         309.09
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         319.79
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         330.89
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         326.97
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         291.58
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         282.52
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         260.23
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         249.74
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         299.69
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         311.23
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         321.05
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         361.67
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         318.43
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         331.5
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         334.17
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         317.23
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         311.99
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         318.8
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         322.78
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         321.61
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         320.17
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         303.44
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         289.02
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         290.52
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         284.97
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         277.53
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         282.65
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         290.3
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         304.09
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         289.47
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         296.98
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         279.91
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         274.13
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         282.82
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         310.4
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         288.85
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         300.54
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         284.53
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         291.22
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         257.04
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         252.54
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         269.18
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         293.56
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         303.25
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         340.74
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         363.46
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         360.46
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         360.51
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         364.62
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         351.31
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         357.84
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         355.97
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         356.42
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         350.33
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         362.34
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         389.8
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         382.25
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         347.05
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         342.21
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         324.11
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         325.41
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         300.28
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         301.98
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         285.82
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         286.58
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         284.8
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         290.06
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         257.82
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         257.16
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         259.51
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         286.69
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         297.2
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         290.43
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         258.7
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         229.67
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         233.62
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         223.27
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         179.47
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         190.71
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         216.87
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         216.18
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         230.91
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         227.79
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         221.83
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         202.34
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         211.6
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         216.75
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         211.6
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         180.35
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          228.86,
+                                          233.92,
+                                          237.18,
+                                          241.46,
+                                          245.39,
+                                          248.74,
+                                          253.4,
+                                          257.86,
+                                          263.01,
+                                          266.88,
+                                          271.11,
+                                          276.83,
+                                          283.22,
+                                          287.68,
+                                          292.08,
+                                          296.24,
+                                          299.98,
+                                          306.1,
+                                          313.04,
+                                          317.66,
+                                          321.14,
+                                          325.51,
+                                          327.76,
+                                          330.33,
+                                          333.75,
+                                          336.85,
+                                          337.84,
+                                          338.78,
+                                          339.24,
+                                          338.48,
+                                          337.11,
+                                          336.01,
+                                          335.38,
+                                          335.2,
+                                          334.88,
+                                          333.18,
+                                          331.19,
+                                          328.41,
+                                          325.33,
+                                          324.32,
+                                          323.81,
+                                          323.7,
+                                          325.19,
+                                          324.92,
+                                          325.18,
+                                          325.53,
+                                          325.21,
+                                          324.69,
+                                          324.46,
+                                          324.39,
+                                          324.28,
+                                          324.12,
+                                          323.31,
+                                          321.97,
+                                          320.73,
+                                          319.33,
+                                          317.69,
+                                          316.32,
+                                          315.3,
+                                          314.86,
+                                          313.86,
+                                          313.2,
+                                          311.89,
+                                          310.41,
+                                          309.33,
+                                          309.37,
+                                          308.57,
+                                          308.25,
+                                          307.32,
+                                          306.69,
+                                          304.74,
+                                          302.7,
+                                          301.38,
+                                          301.08,
+                                          301.16,
+                                          302.71,
+                                          305.1,
+                                          307.27,
+                                          309.35,
+                                          311.52,
+                                          313.08,
+                                          314.84,
+                                          316.45,
+                                          318.02,
+                                          319.29,
+                                          320.97,
+                                          323.67,
+                                          325.97,
+                                          326.8,
+                                          327.4,
+                                          327.27,
+                                          327.2,
+                                          326.14,
+                                          325.2,
+                                          323.65,
+                                          322.2,
+                                          320.73,
+                                          319.53,
+                                          317.11,
+                                          314.76,
+                                          312.59,
+                                          311.58,
+                                          311.01,
+                                          310.2,
+                                          308.18,
+                                          305.11,
+                                          302.3,
+                                          299.2,
+                                          294.51,
+                                          290.44,
+                                          287.55,
+                                          284.75,
+                                          282.64,
+                                          280.49,
+                                          278.19,
+                                          275.22,
+                                          272.72,
+                                          270.53,
+                                          268.22,
+                                          264.77
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Record growth, broken chart: ALAB slides 15% in AI-wide selloff",
+               "technical":  "Trend: ALAB closed at $180.35 on 2026-11-20, far below all three EMAs (exponential moving averages, which weight recent prices more): EMA50 $264.77, EMA100 $278.88 and EMA200 $261.31. Price is about 31% under the 200-day line. The EMA50 has already slipped below the EMA100 and is now only about $3 above the EMA200. The medium-term uptrend is broken, and a bearish EMA50/200 cross is close. Momentum: MACD 12/26/9 (a trend-momentum gauge) is −24.19, exactly on its signal line, so the histogram is 0. Momentum is still deep in negative territory. Selling pressure had been easing, and Friday\u0027s drop tests that. RSI 14 (a 0–100 gauge; under 30 is oversold) is 33.04, near oversold but not there yet. Volatility: the Bollinger Bands (20-day, 2 standard deviations) are very wide, from $163.34 to $295.21. Price sits in the lower part, about $17 above the lower band. The stock is 64% below its 52-week high of $499.48, in the bottom fifth of the $97.89–$499.48 range. Volume was 7.92M shares, 1.44× the 20-day average, and the close was near the day\u0027s low of $176.78, so the selling had conviction. Support: the lower band near $163. Resistance: $203–206 (Friday\u0027s open and high), then the $229 mid-band.",
+               "fundamental":  "The business is speeding up even as the stock falls. Q3 2026 results came out on 2026-11-03. Revenue was a record $584.9M, up 154% from a year earlier and 49% from the prior quarter. GAAP gross margin was 72.3% and non-GAAP EPS was $1.32. Q4 guidance of $730–750M is well above the roughly $656M analysts expected. Scorpio fabric switches are now the largest product family, running above $1B a year. That supports the move from retimers into higher-value switching, a key part of the moat. Two products extend reach to neoclouds and enterprises: the Orion rack-scale boards (available Q1 2027) and the expanded Hyve/TD SYNNEX deal. Weak spots: the top three end customers made up about 86% of 2025 revenue. The CFO also said the first Scorpio X platforms had finished much of their initial ramp, which sparked fears that growth will flatten.",
+               "news":  [
+                            "2026-11-03: Q3 revenue was $584.9M (+154% YoY), and non-GAAP EPS of $1.32 beat estimates. Q4 guidance is $730–750M with about 72% gross margin. The stock still fell 4.4% on 2026-11-04.",
+                            "After earnings, the CFO said the first Scorpio X platforms had \u0027completed much of their initial deployment ramps.\u0027 That raised fears of a plateau. At BMO\u0027s conference in mid-November, management said Scorpio X should end 2026 well above a $1B yearly run rate. They also expect 2–3 more customers on top of the two hyperscalers already shipping.",
+                            "2026-11-05: ALAB fell 19.6% in a chip-wide selloff after the 2026-11-03 midterm elections. New governors in Texas, Ohio and Georgia, all big data center states, have promised construction moratoriums. Every peer fell by double digits, and ALAB fell the most.",
+                            "Analyst moves: UBS cut its price target to $290 from $300 on 2026-11-04. BMO started coverage at Outperform with a $375 target on 2026-11-06. The consensus rating is still Buy.",
+                            "2026-11-16: Astera and Hyve Solutions (part of TD SYNNEX) expanded their partnership. Hyve will put Orion compute, fabric and link boards into its air-cooled Apex racks. The stock still fell 8.8% that day as 33 of 34 large chip stocks declined, then rebounded about 4.8% on 2026-11-17.",
+                            "CEO Jitendra Mohan sold 96,089 shares in a transaction dated 2026-11-16, according to an insider-trading report.",
+                            "2026-11-20: ALAB fell 14.77% with no company-specific news. It was a broad AI selloff: Nvidia and AMD each lost more than 13%, Anthropic fell 8.5% on its first full trading day, and Nvidia\u0027s leadership change and worries about interest rates weighed on the whole group."
+                        ],
+               "caution":  "The chart is in a clear downtrend. The stock is 64% below its June high, mostly because of market-wide moves rather than company news. That makes it a high-beta bet on AI mood: Nvidia\u0027s leadership turmoil, data center moratorium pledges, export-control scrutiny and rising rates can all keep pressure on it. Because so much revenue comes from a few customers, a pause at one hyperscaler would hurt. MACD is still deeply negative and RSI has not yet dropped below 30, so the selling may not be over. A break below about $163 would leave little support nearby.",
+               "opportunity":  "The business and the share price are moving in opposite directions. The Q4 guide alone implies about $3B in yearly revenue, margins are holding near 72%, and management expects 2–3 new Scorpio X customers. The 2026-11-20 drop came with no bad news from the company itself. RSI near 33 and price close to the lower Bollinger band put the stock where past selloffs have sometimes paused. For long-term holders, the test is whether Q4 delivers $730–750M. If it does, the drop looks more like a sentiment problem than damage to the business.",
+               "risks":  [
+                             "AI-trade sentiment shock: Nvidia\u0027s leadership turmoil, money rotating into the Anthropic IPO and rising interest rates could squeeze valuations across the sector.",
+                             "Policy risk: data center construction moratoriums promised in Texas, Ohio and Georgia, plus wider scrutiny of chip export controls.",
+                             "Customer concentration: the top three end customers were about 86% of 2025 revenue.",
+                             "Scorpio X growth could flatten after the first hyperscaler ramps, and Broadcom and Marvell compete in switching.",
+                             "High volatility and valuation: about 22.6× trailing sales at the 2026-11-16 close, and moves of this size happened on about 20 trading days in the past year.",
+                             "Insider selling: the CEO sold 96,089 shares on 2026-11-16."
+                         ],
+               "summary":  "ALAB fell 14.77% to $180.35 on 2026-11-20 on heavy volume, extending a slide that began after the 2026-11-03 earnings report. The chart is bearish: price is far below all three EMAs, MACD is deeply negative and RSI is near oversold. The company news is strong, though: record revenue of $584.9M, a Q4 guide of $730–750M and Scorpio switches running above $1B a year. The big drops on Nov 5, 16 and 20 hit the whole sector. The moat thesis looks intact; the risks are market sentiment and customer concentration, not the product."
+           },
+    "th":  {
+               "headline":  "ธุรกิจโตทำสถิติ แต่กราฟพัง: ALAB ร่วง 15% ตามแรงเทขายหุ้น AI",
+               "technical":  "แนวโน้ม: ALAB ปิดที่ $180.35 เมื่อ 20 พ.ย. 2026 ต่ำกว่าเส้น EMA (ค่าเฉลี่ยเคลื่อนที่ที่ให้น้ำหนักราคาล่าสุดมากกว่า) ทั้งสามเส้นอยู่มาก คือ EMA50 $264.77, EMA100 $278.88 และ EMA200 $261.31 ราคาต่ำกว่าเส้น 200 วันราว 31% ส่วน EMA50 หลุดลงใต้ EMA100 ไปแล้ว และเหลือห่างเหนือ EMA200 แค่ราว $3 แปลว่าขาขึ้นระยะกลางเสียไปแล้ว และใกล้เกิดจุดตัดเชิงลบของ EMA50/200 ด้านโมเมนตัม MACD 12/26/9 (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ −24.19 เท่ากับเส้นสัญญาณพอดี histogram จึงเป็น 0 โมเมนตัมยังลึกอยู่ในแดนลบ แรงขายเริ่มชะลอมาก่อน แต่การร่วงวันศุกร์กำลังทดสอบว่าจะชะลอจริงไหม RSI 14 (มาตรวัด 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 33.04 ใกล้แต่ยังไม่เข้าโซน oversold ด้านความผันผวน Bollinger Bands (20 วัน, 2 ส่วนเบี่ยงเบนมาตรฐาน) กว้างมาก ตั้งแต่ $163.34 ถึง $295.21 ราคาอยู่ช่วงล่าง สูงกว่าขอบล่างราว $17 ราคาต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ $499.48 ถึง 64% และอยู่ในหนึ่งในห้าส่วนล่างของกรอบ $97.89–$499.48 วอลุ่ม 7.92 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน 1.44 เท่า และปิดใกล้จุดต่ำสุดของวันที่ $176.78 แรงขายจึงหนักจริง แนวรับอยู่ที่ขอบล่างแถว $163 แนวต้านอยู่ที่ $203–206 (ราคาเปิดและสูงสุดวันศุกร์) ถัดไปคือ $229 (เส้นกลาง BB)",
+               "fundamental":  "ธุรกิจกลับเร่งตัวขึ้นสวนทางกับราคาหุ้น งบ Q3 2026 ประกาศเมื่อ 3 พ.ย. 2026 รายได้ทำสถิติที่ $584.9M โต 154% จากปีก่อน และ 49% จากไตรมาสก่อน GAAP gross margin อยู่ที่ 72.3% และ non-GAAP EPS อยู่ที่ $1.32 เป้า Q4 ที่ $730–750M สูงกว่าที่นักวิเคราะห์คาดไว้ราว $656M อยู่มาก สวิตช์ Scorpio กลายเป็นกลุ่มสินค้าที่ทำรายได้มากที่สุด ด้วยอัตรามากกว่า $1B ต่อปี ตอกย้ำว่าบริษัทขยับจาก retimer ไปสู่สวิตช์ที่มีมูลค่าสูงกว่า ซึ่งเป็นหัวใจของคูเมือง สินค้าที่ช่วยขยายฐานลูกค้าไปยัง neocloud และองค์กรมีสองตัว คือบอร์ด Orion ระดับแร็ก (วางขาย Q1 2027) และดีลที่ขยายกับ Hyve/TD SYNNEX จุดอ่อนคือลูกค้าปลายทาง 3 รายใหญ่คิดเป็นราว 86% ของรายได้ปี 2025 และ CFO บอกว่าแพลตฟอร์ม Scorpio X ชุดแรกเร่งติดตั้งไปมากแล้ว ทำให้ตลาดกังวลว่าการเติบโตจะเริ่มแบน",
+               "news":  [
+                            "3 พ.ย. 2026: รายได้ Q3 อยู่ที่ $584.9M (+154% YoY) และ non-GAAP EPS $1.32 ดีกว่าคาด เป้า Q4 อยู่ที่ $730–750M โดย gross margin ราว 72% แต่หุ้นยังลง 4.4% ในวันที่ 4 พ.ย.",
+                            "หลังประกาศงบ CFO บอกว่าแพลตฟอร์ม Scorpio X ชุดแรก \u0027completed much of their initial deployment ramps\u0027 ตลาดจึงกลัวว่าการเติบโตจะแบน ในงานประชุมของ BMO ช่วงกลางเดือน พ.ย. ผู้บริหารยืนยันว่า Scorpio X จะจบปี 2026 ด้วยอัตรารายได้มากกว่า $1B ต่อปีอย่างชัดเจน และคาดว่าจะมีลูกค้าใหม่อีก 2–3 ราย นอกเหนือจาก hyperscaler 2 รายที่ส่งของอยู่แล้ว",
+                            "5 พ.ย. 2026: ALAB ร่วง 19.6% ตามแรงเทขายหุ้นชิปทั้งกลุ่ม หลังการเลือกตั้งกลางเทอมเมื่อ 3 พ.ย. ผู้ว่าการรัฐคนใหม่ในเท็กซัส โอไฮโอ และจอร์เจีย ซึ่งล้วนเป็นรัฐที่มีดาต้าเซ็นเตอร์มาก ประกาศจะระงับการก่อสร้าง หุ้นในกลุ่มเดียวกันลงเกิน 10% ทุกตัว และ ALAB ลงหนักที่สุด",
+                            "ความเห็นนักวิเคราะห์: UBS ลดราคาเป้าหมายเหลือ $290 จาก $300 เมื่อ 4 พ.ย. ส่วน BMO เริ่มออกบทวิเคราะห์ด้วยคำแนะนำ Outperform เป้า $375 เมื่อ 6 พ.ย. ภาพรวมนักวิเคราะห์ยังให้ Buy",
+                            "16 พ.ย. 2026: Astera และ Hyve Solutions (บริษัทในเครือ TD SYNNEX) ขยายความร่วมมือ Hyve จะนำบอร์ด Orion ทั้งชุดประมวลผล fabric และ link ไปใส่ในแร็ก Apex ที่ระบายความร้อนด้วยอากาศ แต่หุ้นยังลง 8.8% ในวันนั้น เพราะหุ้นชิปขนาดใหญ่ 33 จาก 34 ตัวลดลง ก่อนจะเด้งกลับราว 4.8% ในวันที่ 17 พ.ย.",
+                            "CEO Jitendra Mohan ขายหุ้น 96,089 หุ้น ในรายการลงวันที่ 16 พ.ย. 2026 ตามรายงานการซื้อขายของผู้บริหาร",
+                            "20 พ.ย. 2026: ALAB ร่วง 14.77% โดยไม่มีข่าวเฉพาะของบริษัท เป็นแรงเทขายหุ้น AI ทั้งตลาด Nvidia และ AMD ลงกว่า 13% Anthropic ลง 8.5% ในวันซื้อขายเต็มวันแรก และการเปลี่ยนผู้นำของ Nvidia กับความกังวลเรื่องดอกเบี้ยกดดันทั้งกลุ่ม"
+                        ],
+               "caution":  "กราฟอยู่ในขาลงชัดเจน หุ้นต่ำกว่าจุดสูงสุดเดือนมิถุนายนถึง 64% ส่วนใหญ่เพราะภาวะตลาด ไม่ใช่ข่าวของบริษัท หุ้นจึงขึ้นลงแรงตามอารมณ์ตลาดต่อ AI ปัจจัยกดดันที่อาจยืดเยื้อ ได้แก่ ความวุ่นวายเรื่องผู้นำของ Nvidia การประกาศระงับการสร้างดาต้าเซ็นเตอร์ การจับตามาตรการคุมส่งออกชิป และดอกเบี้ยขาขึ้น รายได้พึ่งลูกค้าไม่กี่ราย ถ้า hyperscaler รายเดียวชะลอสั่งซื้อก็กระทบหนัก MACD ยังติดลบลึกและ RSI ยังไม่หลุด 30 แรงขายอาจยังไม่จบ ถ้าหลุด $163 แนวรับถัดไปจะอยู่ห่างออกไปมาก",
+               "opportunity":  "ธุรกิจกับราคาหุ้นกำลังวิ่งสวนทางกัน เป้า Q4 อย่างเดียวคิดเป็นรายได้ราว $3B ต่อปี margin ยังอยู่ราว 72% และผู้บริหารคาดว่า Scorpio X จะได้ลูกค้าใหม่อีก 2–3 ราย การร่วงเมื่อ 20 พ.ย. ไม่มีข่าวร้ายจากบริษัทเลย RSI ราว 33 และราคาที่ใกล้ขอบล่าง Bollinger ทำให้หุ้นอยู่ในโซนที่การเทขายในอดีตมักชะลอตัว สำหรับผู้ถือยาว จุดชี้วัดคือ Q4 ทำได้ $730–750M ตามเป้าหรือไม่ ถ้าทำได้ การปรับฐานรอบนี้ก็มาจากอารมณ์ตลาดมากกว่าความเสียหายของธุรกิจ",
+               "risks":  [
+                             "อารมณ์ตลาดต่อหุ้น AI สะดุด: ความวุ่นวายเรื่องผู้นำของ Nvidia เงินที่ไหลไปหา IPO ของ Anthropic และดอกเบี้ยขาขึ้น อาจกดมูลค่าหุ้นทั้งกลุ่ม",
+                             "ความเสี่ยงด้านนโยบาย: การประกาศระงับสร้างดาต้าเซ็นเตอร์ในเท็กซัส โอไฮโอ และจอร์เจีย รวมถึงการจับตามาตรการคุมส่งออกชิป",
+                             "พึ่งพาลูกค้าน้อยราย: ลูกค้าปลายทาง 3 รายใหญ่คิดเป็นราว 86% ของรายได้ปี 2025",
+                             "การเติบโตของ Scorpio X อาจแบนลงหลัง hyperscaler ชุดแรกติดตั้งเสร็จ และยังมีคู่แข่งด้านสวิตช์อย่าง Broadcom และ Marvell",
+                             "ผันผวนสูงและมูลค่าแพง: ราว 22.6 เท่าของยอดขายย้อนหลัง ณ ราคาปิด 16 พ.ย. และหุ้นเคลื่อนไหวแรงระดับนี้ราว 20 วันในรอบปีที่ผ่านมา",
+                             "ผู้บริหารขายหุ้น: CEO ขาย 96,089 หุ้นเมื่อ 16 พ.ย. 2026"
+                         ],
+               "summary":  "ALAB ร่วง 14.77% มาอยู่ที่ $180.35 เมื่อ 20 พ.ย. 2026 ด้วยวอลุ่มหนาแน่น ต่อเนื่องจากขาลงที่เริ่มหลังประกาศงบเมื่อ 3 พ.ย. ภาพเทคนิคเป็นขาลง ราคาต่ำกว่า EMA ทั้งสามเส้นมาก MACD ติดลบลึก และ RSI ใกล้โซน oversold แต่ข่าวของบริษัทเป็นบวก ทั้งรายได้ทำสถิติ $584.9M เป้า Q4 ที่ $730–750M และสวิตช์ Scorpio ที่ทำรายได้มากกว่า $1B ต่อปี การร่วงหนักวันที่ 5, 16 และ 20 พ.ย. เกิดกับทั้งกลุ่ม คูเมืองของบริษัทยังแข็งแรงอยู่ ความเสี่ยงอยู่ที่อารมณ์ตลาดและการพึ่งลูกค้าน้อยราย ไม่ใช่ที่ตัวสินค้า"
+           },
+    "sources":  [
+                    {
+                        "title":  "Astera Labs Reports Third Quarter 2026 Financial Results (Form 8-K Exhibit 99.1)",
+                        "publisher":  "SEC EDGAR / Astera Labs",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001736297/000173629726000044/q326exhibit991.htm",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "What Just Happened To Astera Labs Stock?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/alab/articles/623343/what-just-happened-to-astera-labs-stock/2026-11-06",
+                        "date":  "2026-11-06"
+                    },
+                    {
+                        "title":  "Astera Labs Soars 16% in a Week as Chips Rebound: Scorpio X Eyes a $1 Billion Run Rate",
+                        "publisher":  "TIKR",
+                        "url":  "https://www.tikr.com/blog/astera-labs-soars-16-in-a-week-as-chips-rebound-scorpio-x-eyes-a-1-billion-run-rate",
+                        "date":  "2026-11-14"
+                    },
+                    {
+                        "title":  "Hyve Solutions and Astera Labs Collaborate to Bring AI Inference Capacity to Customers Faster",
+                        "publisher":  "GlobeNewswire",
+                        "url":  "https://www.globenewswire.com/news-release/2026/11/16/3403604/0/en/index.html",
+                        "date":  "2026-11-16"
+                    },
+                    {
+                        "title":  "Why Is Astera Labs Stock Falling Again?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/alab/articles/625789/why-is-astera-labs-stock-falling-again/2026-11-17",
+                        "date":  "2026-11-17"
+                    },
+                    {
+                        "title":  "Astera Labs Stock Rebounds Tuesday as Expanded Hyve Deal Speeds AI Deployments",
+                        "publisher":  "Benzinga",
+                        "url":  "https://www.benzinga.com/trading-ideas/movers/26/11/63337033/astera-labs-stock-rebounds-tuesday-as-expanded-hyve-deal-speeds-ai-deployments",
+                        "date":  "2026-11-17"
+                    },
+                    {
+                        "title":  "Astera Labs (NASDAQ:ALAB) Shares Down 2.4% on Insider Selling",
+                        "publisher":  "Defense World",
+                        "url":  "https://www.defenseworld.net/2026/11/20/astera-labs-nasdaqalab-shares-down-2-4-on-insider-selling.html",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Anthropic falls nearly 9% in first full day of trading as tech stocks get shellacked",
+                        "publisher":  "CNBC",
+                        "url":  "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
+                        "date":  "2026-11-20"
+                    }
+                ]
+}

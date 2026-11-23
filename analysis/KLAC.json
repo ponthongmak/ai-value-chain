@@ -1,0 +1,772 @@
+{
+    "ticker":  "KLAC",
+    "name":  "KLA",
+    "symbol":  "NASDAQ:KLAC",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:44:09Z",
+    "costUsd":  0.8496659,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:KLAC",
+                       "yahoo":  "KLAC",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:40:46Z",
+                       "price":  126.87,
+                       "open":  138.98,
+                       "high":  139.14,
+                       "low":  125.72,
+                       "volume":  22642500,
+                       "avgVolume20":  14954300,
+                       "changePct":  -10.33,
+                       "historyDays":  501,
+                       "ema50":  164.2,
+                       "ema100":  174.53,
+                       "ema200":  171.14,
+                       "bb":  {
+                                  "upper":  169.22,
+                                  "middle":  149.56,
+                                  "lower":  129.9
+                              },
+                       "macd":  {
+                                    "macd":  -8.26,
+                                    "signal":  -7.55,
+                                    "hist":  -0.71
+                                },
+                       "rsi14":  32.74,
+                       "high52w":  307.37,
+                       "low52w":  107.2,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         212.51
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         213.11
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         192.92
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         210.81
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         213.94
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         213.56
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         241.16
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         254.54
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         256.42
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         237.33
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         238.73
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         259.56
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         269.16
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         244.49
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         240.48
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         258.8
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         248.64
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         278.39
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         301.71
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         266.19
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         235.55
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         233.31
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         216.47
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         221.18
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         229.52
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         231.52
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         222.25
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         230.37
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         224.5
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         219.37
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         212.75
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         207.6
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         217.56
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         214.69
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         218.73
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         210.52
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         203.36
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         190.8
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         170.19
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         180.33
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         182.82
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         182.75
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         195.45
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         192.8
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         193.22
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         198.11
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         192.74
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         200.47
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         208.25
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         209.37
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         203.72
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         205.76
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         194.79
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         187.27
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         185.86
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         183.99
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         181.57
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         183.34
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         183.83
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         183.77
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         175.54
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         175.45
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         170.89
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         172.26
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         172.94
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         185.6
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         188.98
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         182.91
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         177.18
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         180.64
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         169.09
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         168.02
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         167.36
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         168.98
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         176.99
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         183.97
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         188.32
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         187.86
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         187.11
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         187.92
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         189.17
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         196.53
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         194.93
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         200.33
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         206.89
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         206.85
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         197.46
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         196.83
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         196.72
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         195.57
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         190.12
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         184
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         178.81
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         174.46
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         165.74
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         166.4
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         161.74
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         163.43
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         147.83
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         145.61
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         149.21
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         153.66
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         158.77
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         167.43
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         157.91
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         153.11
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         156.2
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         149.79
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         129.8
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         138.49
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         151.38
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         152.99
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         161.01
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         157.3
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         152.32
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         143.96
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         144.56
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         144.88
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         141.48
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         126.87
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          178.06,
+                                          179.44,
+                                          179.97,
+                                          181.18,
+                                          182.46,
+                                          183.68,
+                                          185.93,
+                                          188.62,
+                                          191.28,
+                                          193.09,
+                                          194.88,
+                                          197.42,
+                                          200.23,
+                                          201.96,
+                                          203.48,
+                                          205.64,
+                                          207.33,
+                                          210.12,
+                                          213.71,
+                                          215.77,
+                                          216.54,
+                                          217.2,
+                                          217.17,
+                                          217.33,
+                                          217.81,
+                                          218.35,
+                                          218.5,
+                                          218.96,
+                                          219.18,
+                                          219.19,
+                                          218.94,
+                                          218.49,
+                                          218.45,
+                                          218.31,
+                                          218.32,
+                                          218.02,
+                                          217.44,
+                                          216.4,
+                                          214.59,
+                                          213.24,
+                                          212.05,
+                                          210.9,
+                                          210.29,
+                                          209.61,
+                                          208.97,
+                                          208.54,
+                                          207.92,
+                                          207.63,
+                                          207.65,
+                                          207.72,
+                                          207.56,
+                                          207.49,
+                                          206.99,
+                                          206.22,
+                                          205.42,
+                                          204.58,
+                                          203.68,
+                                          202.88,
+                                          202.13,
+                                          201.41,
+                                          200.4,
+                                          199.42,
+                                          198.3,
+                                          197.28,
+                                          196.33,
+                                          195.91,
+                                          195.63,
+                                          195.14,
+                                          194.43,
+                                          193.89,
+                                          192.92,
+                                          191.94,
+                                          190.98,
+                                          190.11,
+                                          189.6,
+                                          189.38,
+                                          189.34,
+                                          189.28,
+                                          189.19,
+                                          189.14,
+                                          189.15,
+                                          189.44,
+                                          189.65,
+                                          190.07,
+                                          190.73,
+                                          191.36,
+                                          191.6,
+                                          191.81,
+                                          192,
+                                          192.14,
+                                          192.06,
+                                          191.74,
+                                          191.24,
+                                          190.58,
+                                          189.6,
+                                          188.69,
+                                          187.64,
+                                          186.69,
+                                          185.16,
+                                          183.61,
+                                          182.26,
+                                          181.14,
+                                          180.26,
+                                          179.76,
+                                          178.9,
+                                          177.89,
+                                          177.04,
+                                          175.97,
+                                          174.16,
+                                          172.76,
+                                          171.93,
+                                          171.18,
+                                          170.78,
+                                          170.25,
+                                          169.55,
+                                          168.55,
+                                          167.61,
+                                          166.72,
+                                          165.73,
+                                          164.2
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Sector rout drives KLA below all EMAs; record guidance keeps moat intact",
+               "summary":  "KLA fell 10.33% on 20 Nov 2026 to US$126.87 on about 1.5x normal volume, closing below its lower Bollinger Band and far beneath all three EMAs. The trigger was a sector-wide AI-trade rout (Nasdaq −5.3%, Nvidia −14% that day), not company news. Fundamentals still look strong: on 28 Oct KLA reported record revenue of US$4.14B (+29% y/y) and guided the December quarter to US$4.7B. Technically the trend is down and momentum is still worsening; the moat thesis is unchanged, but sentiment, rate hikes and China are the near-term swing factors.",
+               "pros":  [
+                            "Fiscal Q1 2027 revenue of US$4.14B (+29% y/y) beat guidance, and the December quarter is guided to a record US$4.7B.",
+                            "Semiconductor Process Control alone brought in US$3.75B, so the core inspection franchise is driving growth.",
+                            "Peer Applied Materials guided its next quarter to US$11.1B on 12 Nov, above estimates, confirming equipment demand.",
+                            "RSI 32.74 and a close below the lower Bollinger Band (129.90) show the selloff is stretched.",
+                            "US$935.8M of buybacks in the September quarter supports per-share value."
+                        ],
+               "cons":  [
+                            "At 126.87 the price is about 23% below the EMA50 (164.20), and the EMA50 sits under the EMA200, a confirmed downtrend.",
+                            "MACD (-8.26) is below its signal line (-7.55) with a negative histogram, so downside momentum is still building.",
+                            "The 20 Nov drop came on 22.6M shares vs a 15.0M average and closed near the day\u0027s low of 125.72.",
+                            "Markets price ~97.5% odds of a December Fed hike while AI chip stocks are being de-rated.",
+                            "Tighter US export controls on China tool sales remain an open risk to a large region."
+                        ],
+               "opportunityCheck":  "Mostly reasonable. The position score fits: process control was US$3.75B of US$4.14B quarterly revenue and the CEO calls it critical to the AI buildout. I would nudge AI revenue exposure up to about 12, because leading-edge logic, HBM and advanced packaging are now the main growth drivers behind the US$4.7B guide. Market growth looks fair given management\u0027s view of 2027 wafer-fab equipment spending above US$200B, but the November rout shows that growth is cyclical and rate-sensitive, so I would not raise it.",
+               "technical":  "Trend is bearish. The 126.87 close sits below the EMA50 (164.20), EMA100 (174.53) and EMA200 (171.14); EMAs are smoothed average prices. The EMA50 has slipped under both longer averages, the classic sign that the medium-term trend has turned down. MACD (a trend-momentum gauge) is -8.26 vs a signal of -7.55 with a histogram of -0.71, so downside momentum re-accelerated on 20 Nov instead of fading. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 32.74, near oversold but not there. Price closed below the lower Bollinger Band (129.90; middle 149.56), which signals a stretched move, though in heavy selloffs price can keep \u0027walking the band\u0027 lower. The stock is about 18% above the 52-week low of 107.20 and 59% below the 52-week high of 307.37. Volume of 22.6M vs a 15.0M 20-day average confirms real selling, and the close was near the day\u0027s low of 125.72. Support: 125.72, then 107.20. Resistance: 129.90, then about 139 (20 Nov open/high), then 149.56.",
+               "fundamental":  "KLA sells the quality-control layer of chipmaking: inspection and metrology tools that every new node, HBM stack and advanced package needs more of. Fiscal Q1 2027 (quarter to 30 Sep, reported 28 Oct) brought record revenue of US$4.14B, up 13% q/q and 29% y/y, with non-GAAP EPS of US$1.22, above guidance. Semiconductor Process Control was US$3.75B. December-quarter guidance is US$4.7B ±0.2B with non-GAAP EPS of US$1.44 ±0.11 and non-GAAP gross margin around 62.5%. Management expects sequential growth for several quarters and 2027 wafer-fab equipment spending above US$200B. Capital returns were US$1.24B in the quarter. Nothing in November changed this picture, and Applied Materials\u0027 12 Nov guidance above consensus supports it.",
+               "news":  [
+                            "28 Oct 2026: KLA reported fiscal Q1 2027 revenue of US$4.14B (+29% y/y), above the guidance midpoint, and guided the December quarter to US$4.7B ±US$200M.",
+                            "3 Nov 2026: KLA received an analyst upgrade to Buy citing the strong quarter and AI chip demand (GuruFocus). The stock also rose 6.61% on 6 Nov and 6.50% on 11 Nov in sector rebounds.",
+                            "4 Nov 2026: Shareholders approved all proposals at the annual meeting, and the quarterly dividend was held at US$0.23 per share, payable 1 Dec to holders of record on 16 Nov.",
+                            "12 Nov 2026: Applied Materials posted record revenue of US$10.41B (+53% y/y) and guided its next quarter to US$11.1B, above estimates, a positive read-through for equipment demand.",
+                            "16 Nov 2026: KLA closed at US$143.96, down 10.99% over a month as chip stocks cooled on rate and inflation worries.",
+                            "20 Nov 2026: KLA fell 10.33% to US$126.87 in a broad AI and chip rout: Nasdaq −5.3%, Nvidia −14% (−23% for the week after its 17 Nov earnings and a CEO change), and ~97.5% odds of a December Fed hike. No KLA-specific negative news was found."
+                        ],
+               "caution":  "This selloff is macro-driven, and macro selloffs can run further than fundamentals justify. With a December Fed hike widely expected and AI leaders such as Nvidia in turmoil, investors may question chip-equipment spending even if KLA\u0027s order book is solid. Price is below every EMA with a negative MACD, so there is no technical sign of a bottom yet; the 52-week low of 107.20 is the next major reference. China export-control changes remain an unresolved risk.",
+               "opportunity":  "The drop was not about KLA. The company just guided to a record US$4.7B quarter, its process-control position is dominant, and its largest peer confirmed strong demand on 12 Nov. RSI near 33 and a close under the lower Bollinger Band show the stock is stretched to the downside. For long-term holders, early signs that selling is exhausting would be MACD crossing back above its signal line and price reclaiming the 129.90–139 zone; the next earnings report, usually in late January, is the next fundamental check.",
+               "risks":  [
+                             "The AI-trade de-rating deepens if Nvidia\u0027s turmoil spreads into hyperscaler capex plans.",
+                             "A December Fed rate hike pressures high-multiple semiconductor stocks.",
+                             "Stricter US export controls cut KLA\u0027s China tool sales.",
+                             "The wafer-fab equipment cycle could peak if memory or logic customers pause orders.",
+                             "A technical breakdown below 125.72 could open a move toward the 107.20 52-week low."
+                         ]
+           },
+    "th":  {
+               "headline":  "หุ้นชิปถูกเทขาย ดัน KLA หลุด EMA ทุกเส้น แต่ไกด์รายได้ทำสถิติ moat ยังแน่น",
+               "summary":  "KLAC ร่วง 10.33% เมื่อ 20 พ.ย. 2026 ปิดที่ 126.87 ดอลลาร์ ด้วยวอลุ่มราว 1.5 เท่าของค่าเฉลี่ย ราคาหลุดกรอบล่าง Bollinger Band และอยู่ต่ำกว่า EMA ทั้งสามเส้นอย่างชัดเจน สาเหตุคือแรงเทขายหุ้น AI และชิปทั้งกลุ่ม (Nasdaq −5.3%, Nvidia −14% ในวันเดียว) ไม่ใช่ข่าวร้ายของบริษัท ด้านพื้นฐานยังแข็งแรง: วันที่ 28 ต.ค. KLA รายงานรายได้สูงสุดเป็นประวัติการณ์ 4.14 พันล้านดอลลาร์ (+29% y/y) และไกด์ไตรมาส ธ.ค. ไว้ที่ 4.7 พันล้านดอลลาร์ ทางเทคนิคยังเป็นขาลงและโมเมนตัมยังอ่อนลง ส่วน moat ไม่เปลี่ยน ตัวแปรระยะสั้นคือ sentiment ดอกเบี้ย และจีน",
+               "pros":  [
+                            "รายได้ไตรมาส 1 ปีงบ 2027 อยู่ที่ 4.14 พันล้านดอลลาร์ (+29% y/y) ดีกว่าไกด์ และไตรมาส ธ.ค. ไกด์ไว้ที่ระดับสูงสุดใหม่ 4.7 พันล้านดอลลาร์",
+                            "ธุรกิจ Semiconductor Process Control ทำรายได้ถึง 3.75 พันล้านดอลลาร์ แปลว่าธุรกิจตรวจสอบหลักคือตัวขับการเติบโต",
+                            "Applied Materials คู่แข่งรายใหญ่ไกด์ไตรมาสถัดไปที่ 11.1 พันล้านดอลลาร์เมื่อ 12 พ.ย. สูงกว่าคาด ยืนยันดีมานด์เครื่องจักร",
+                            "RSI 32.74 และการปิดต่ำกว่ากรอบล่าง Bollinger (129.90) บ่งว่าแรงขายยืดตัวไปมากแล้ว",
+                            "ซื้อหุ้นคืน 935.8 ล้านดอลลาร์ในไตรมาส ก.ย. ช่วยหนุนมูลค่าต่อหุ้น"
+                        ],
+               "cons":  [
+                            "ราคา 126.87 ต่ำกว่า EMA50 (164.20) ราว 23% และ EMA50 อยู่ใต้ EMA200 ยืนยันแนวโน้มขาลง",
+                            "MACD (-8.26) อยู่ใต้เส้น signal (-7.55) และ histogram ติดลบ แรงขายยังเพิ่มขึ้น",
+                            "วันที่ 20 พ.ย. ร่วงด้วยวอลุ่ม 22.6 ล้านหุ้น เทียบค่าเฉลี่ย 15.0 ล้าน และปิดใกล้จุดต่ำสุดของวันที่ 125.72",
+                            "ตลาดให้โอกาส Fed ขึ้นดอกเบี้ยเดือน ธ.ค. ราว 97.5% ขณะที่หุ้นชิป AI ถูกลดมูลค่า",
+                            "การคุมเข้มส่งออกเครื่องจักรผลิตชิปไปจีนของสหรัฐฯ ยังเป็นความเสี่ยงต่อตลาดใหญ่"
+                        ],
+               "opportunityCheck":  "โดยรวมสมเหตุสมผล คะแนนด้านตำแหน่งในตลาดเหมาะสม เพราะ process control คิดเป็น 3.75 จาก 4.14 พันล้านดอลลาร์ของรายได้ไตรมาส และ CEO ย้ำว่าเป็นหัวใจของการสร้างโครงสร้าง AI ผมจะขยับคะแนน AI revenue exposure ขึ้นเป็นราว 12 เพราะชิปลอจิกขั้นสูง HBM และ advanced packaging กลายเป็นแรงขับหลักของไกด์ 4.7 พันล้านดอลลาร์แล้ว ส่วนการเติบโตของตลาดถือว่าพอดี แม้ผู้บริหารมองการลงทุนเครื่องจักรผลิตชิปปี 2027 เกิน 2 แสนล้านดอลลาร์ แต่การเทขายเดือน พ.ย. ชี้ว่าการเติบโตนี้ยังเป็นวัฏจักรและอ่อนไหวต่อดอกเบี้ย จึงไม่ควรเพิ่ม",
+               "technical":  "แนวโน้มเป็นขาลง ราคาปิด 126.87 อยู่ต่ำกว่า EMA50 (164.20), EMA100 (174.53) และ EMA200 (171.14) — EMA คือราคาเฉลี่ยแบบถ่วงน้ำหนัก ที่สำคัญ EMA50 หลุดลงมาอยู่ใต้ EMA เส้นยาวทั้งสองเส้น เป็นสัญญาณคลาสสิกว่าแนวโน้มระยะกลางกลับเป็นขาลงแล้ว ด้านโมเมนตัม MACD (ตัวชี้วัดแรงส่งของเทรนด์) อยู่ที่ -8.26 ต่ำกว่า signal -7.55 และ histogram -0.71 แปลว่าแรงขายกลับมาเร่งตัวในวันที่ 20 พ.ย. ไม่ได้อ่อนลง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 32.74 ใกล้โซน oversold แต่ยังไม่ถึง ราคาปิดต่ำกว่ากรอบล่าง Bollinger Band (129.90 เส้นกลาง 149.56) ซึ่งบ่งว่าราคายืดตัวมาก แต่ในช่วงเทขายหนัก ราคาอาจไหลเลียบกรอบล่างต่อได้ ราคาสูงกว่าจุดต่ำสุด 52 สัปดาห์ (107.20) ราว 18% และต่ำกว่าจุดสูงสุด 52 สัปดาห์ (307.37) ราว 59% วอลุ่ม 22.6 ล้านหุ้น เทียบค่าเฉลี่ย 20 วันที่ 15.0 ล้าน ยืนยันว่าเป็นแรงขายจริง และปิดใกล้ low ของวันที่ 125.72 แนวรับ 125.72 และ 107.20 แนวต้าน 129.90, ราว 139 (ราคาเปิด/สูงสุดวันที่ 20 พ.ย.) และ 149.56",
+               "fundamental":  "KLA ขาย \"ชั้นควบคุมคุณภาพ\" ของการผลิตชิป คือเครื่องตรวจหาข้อบกพร่องและเครื่องวัด ซึ่งทุกโหนดใหม่ ทุกชั้น HBM และงาน advanced packaging ต้องใช้มากขึ้น ไตรมาส 1 ปีงบ 2027 (สิ้นสุด 30 ก.ย. ประกาศ 28 ต.ค.) รายได้ทำสถิติ 4.14 พันล้านดอลลาร์ เพิ่ม 13% q/q และ 29% y/y กำไรต่อหุ้น non-GAAP 1.22 ดอลลาร์ ดีกว่าไกด์ ส่วน Semiconductor Process Control อยู่ที่ 3.75 พันล้านดอลลาร์ ไกด์ไตรมาส ธ.ค. รายได้ 4.7 ±0.2 พันล้านดอลลาร์ EPS non-GAAP 1.44 ±0.11 ดอลลาร์ และอัตรากำไรขั้นต้นราว 62.5% ผู้บริหารคาดรายได้โตต่อเนื่องหลายไตรมาส และมองว่าการลงทุนเครื่องจักรผลิตชิปปี 2027 จะเกิน 2 แสนล้านดอลลาร์ ในไตรมาสนี้คืนเงินผู้ถือหุ้น 1.24 พันล้านดอลลาร์ ข่าวเดือน พ.ย. ไม่ได้เปลี่ยนภาพนี้ และไกด์ของ Applied Materials ที่สูงกว่าคาดเมื่อ 12 พ.ย. ยิ่งช่วยยืนยัน",
+               "news":  [
+                            "28 ต.ค. 2026: KLA รายงานรายได้ไตรมาส 1 ปีงบ 2027 ที่ 4.14 พันล้านดอลลาร์ (+29% y/y) สูงกว่ากึ่งกลางไกด์ และไกด์ไตรมาส ธ.ค. ที่ 4.7 พันล้านดอลลาร์ ±200 ล้าน",
+                            "3 พ.ย. 2026: KLA ถูกนักวิเคราะห์อัปเกรดเป็น Buy จากผลประกอบการที่แข็งแกร่งและดีมานด์ชิป AI (รายงานโดย GuruFocus) และหุ้นยังเด้ง 6.61% วันที่ 6 พ.ย. และ 6.50% วันที่ 11 พ.ย. ตามการรีบาวด์ของกลุ่ม",
+                            "4 พ.ย. 2026: ที่ประชุมผู้ถือหุ้นอนุมัติทุกวาระ และคงเงินปันผลรายไตรมาสที่ 0.23 ดอลลาร์ต่อหุ้น จ่าย 1 ธ.ค. ให้ผู้ถือหุ้น ณ 16 พ.ย.",
+                            "12 พ.ย. 2026: Applied Materials รายงานรายได้สูงสุดเป็นประวัติการณ์ 10.41 พันล้านดอลลาร์ (+53% y/y) และไกด์ไตรมาสถัดไป 11.1 พันล้านดอลลาร์ สูงกว่าคาด เป็นสัญญาณบวกต่อดีมานด์เครื่องจักรผลิตชิป",
+                            "16 พ.ย. 2026: KLA ปิดที่ 143.96 ดอลลาร์ ลดลง 10.99% ในรอบเดือน ขณะที่หุ้นชิปอ่อนตัวจากความกังวลเรื่องดอกเบี้ยและเงินเฟ้อ",
+                            "20 พ.ย. 2026: KLA ร่วง 10.33% สู่ 126.87 ดอลลาร์ ท่ามกลางการเทขายหุ้น AI และชิปทั้งตลาด (Nasdaq −5.3%, Nvidia −14% และ −23% ทั้งสัปดาห์ หลังงบ 17 พ.ย. และการเปลี่ยน CEO) และโอกาส Fed ขึ้นดอกเบี้ยเดือน ธ.ค. ราว 97.5% ไม่พบข่าวลบเฉพาะของ KLA"
+                        ],
+               "caution":  "แรงขายรอบนี้มาจากปัจจัยมหภาค และแรงขายแบบนี้มักลากไปไกลเกินกว่าที่พื้นฐานสมควร เมื่อตลาดคาดว่า Fed จะขึ้นดอกเบี้ยเดือน ธ.ค. และผู้นำ AI อย่าง Nvidia อยู่ในภาวะปั่นป่วน นักลงทุนอาจตั้งคำถามกับการลงทุนเครื่องจักรผลิตชิป แม้ยอดสั่งซื้อของ KLA ยังแน่นอยู่ ราคายังอยู่ใต้ EMA ทุกเส้นและ MACD ติดลบ จึงยังไม่มีสัญญาณทางเทคนิคว่าถึงจุดต่ำสุด ระดับอ้างอิงสำคัญถัดไปคือจุดต่ำสุด 52 สัปดาห์ที่ 107.20 นอกจากนี้กฎคุมการส่งออกไปจีนยังเป็นความเสี่ยงที่ยังไม่คลี่คลาย",
+               "opportunity":  "การร่วงครั้งนี้ไม่ได้เกิดจาก KLA เอง บริษัทเพิ่งไกด์รายได้ไตรมาสสูงสุดใหม่ 4.7 พันล้านดอลลาร์ ยังครองตลาด process control และคู่แข่งรายใหญ่สุดยืนยันดีมานด์ที่แข็งแรงเมื่อ 12 พ.ย. RSI ใกล้ 33 และการปิดใต้กรอบล่าง Bollinger บ่งว่าราคายืดตัวลงมามาก สำหรับนักลงทุนระยะยาว สัญญาณแรกว่าแรงขายเริ่มหมดคือ MACD ตัดกลับขึ้นเหนือ signal และราคากลับขึ้นยืนเหนือโซน 129.90–139 ส่วนจุดตรวจพื้นฐานถัดไปคืองบไตรมาสหน้าซึ่งปกติประกาศปลายเดือน ม.ค.",
+               "risks":  [
+                             "ถ้าความปั่นป่วนของ Nvidia ลามไปถึงแผนลงทุนของ hyperscaler หุ้นกลุ่ม AI อาจถูกลดมูลค่าลงลึกกว่านี้",
+                             "Fed ขึ้นดอกเบี้ยเดือน ธ.ค. กดดันหุ้นเซมิคอนดักเตอร์ที่ซื้อขายด้วย valuation สูง",
+                             "สหรัฐฯ คุมเข้มการส่งออกเครื่องจักรผลิตชิปไปจีนมากขึ้น ทำให้ยอดขายในจีนของ KLA ลดลง",
+                             "วัฏจักรการลงทุนเครื่องจักรผลิตชิปอาจถึงจุดสูงสุด หากลูกค้าฝั่งหน่วยความจำหรือลอจิกชะลอคำสั่งซื้อ",
+                             "ถ้าราคาหลุด 125.72 อาจเปิดทางลงไปทดสอบจุดต่ำสุด 52 สัปดาห์ที่ 107.20"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "KLA Corporation Reports Fiscal 2027 First Quarter Results",
+                        "publisher":  "KLA Corporation (Investor Relations)",
+                        "url":  "https://ir.kla.com/news-events/press-releases/detail/523/kla-corporation-reports-fiscal-2027-first-quarter-results",
+                        "date":  "2026-10-28"
+                    },
+                    {
+                        "title":  "Stock market today: Dow and S\u0026P 500 enter correction, Nasdaq sinks 5% to erase 2026 gains as AI trade melts down",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "KLA Corporation (KLAC) Shares Pull Back Amid Semiconductor Sell-Off",
+                        "publisher":  "Yahoo Finance (Insider Monkey)",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/kla-corporation-klac-shares-pull-165930827.html",
+                        "date":  "2026-11-17"
+                    },
+                    {
+                        "title":  "KLA Corporation (KLAC) Shares Drop 10.15% Amid Semiconductor Sector Sell-Off",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9213323/kla-corporation-klac-shares-drop-1015-amid-semiconductor-sector-selloff",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "KLA Corporation (KLAC) Holds 2026 Annual Meeting: Directors Elected, PwC Ratified, and $0.23 Dividend Declared",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9182622/kla-corporation-klac-holds-2026-annual-meeting-directors-elected-pwc-ratified-and-023-dividend-declared",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "KLA Corporation (KLAC) Upgraded to Buy Amid Strong Q1 Results and AI Chip Demand",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9166273/kla-corporation-klac-upgraded-to-buy-amid-strong-q1-results-and-ai-chip-demand",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "Applied Materials Announces Fourth Quarter and Fiscal Year 2026 Results",
+                        "publisher":  "Applied Materials (Investor Relations)",
+                        "url":  "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-fourth-quarter-and-fiscal-year-2026",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "[KLA Q1 2027 Earnings Call] KLA Posts Record $4.14B Revenue, First-Ever 46% Operating Margin; Guides December to $4.7B as 2027 WFE Tops $200B",
+                        "publisher":  "BigGo Finance",
+                        "url":  "https://finance.biggo.com/news/US_KLAC_2026-10-28",
+                        "date":  "2026-10-28"
+                    }
+                ]
+}

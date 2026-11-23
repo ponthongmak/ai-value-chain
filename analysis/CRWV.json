@@ -1,0 +1,737 @@
+{
+    "ticker":  "CRWV",
+    "name":  "CoreWeave",
+    "symbol":  "NASDAQ:CRWV",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:04:41Z",
+    "costUsd":  0.7078614999999999,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:CRWV",
+                       "yahoo":  "CRWV",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:01:53Z",
+                       "price":  39.51,
+                       "open":  43.2,
+                       "high":  43.24,
+                       "low":  39.28,
+                       "volume":  76629000,
+                       "avgVolume20":  69878460,
+                       "changePct":  -12.02,
+                       "ema50":  63.98,
+                       "ema100":  74.24,
+                       "ema200":  83.74,
+                       "bb":  {
+                                  "upper":  64.22,
+                                  "middle":  51.85,
+                                  "lower":  39.47
+                              },
+                       "macd":  {
+                                    "macd":  -6.15,
+                                    "signal":  -6.15,
+                                    "hist":  0
+                                },
+                       "rsi14":  32.6,
+                       "high52w":  138.25,
+                       "low52w":  39.28,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         110.93
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         108.03
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         100.39
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         102.37
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         98.45
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         95.61
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         95.74
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         100.55
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         106.71
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         117.03
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         115.21
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         117.95
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         111.29
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         105.72
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         100.88
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         98.76
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         96.58
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         95.51
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         99.54
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         85.68
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         81.75
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         86.46
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         83.53
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         90
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         89.7
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         88.88
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         83.31
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         79.94
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         77.12
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         72.91
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         73.21
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         73.06
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         79.58
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         82.64
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         81.1
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         71.88
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         70.79
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         67.3
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         60.82
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         73.9
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         71.77
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         85.76
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         91.9
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         89.89
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         85.33
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         90.67
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         88.19
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         90.32
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         107.73
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         106.29
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         105.26
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         106
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         93.17
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         90.87
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         89.76
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         87.85
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         86.25
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         88.04
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         88.01
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         86.8
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         84.23
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         84.89
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         81.85
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         80.93
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         84.56
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         89.36
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         99.83
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         94.94
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         89.12
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         88.99
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         82.98
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         80.92
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         83.35
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         79.88
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         81.36
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         85.43
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         86.76
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         86.9
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         90.13
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         87.59
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         85.07
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         85.93
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         87.12
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         88.57
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         89.62
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         87.39
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         91.72
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         88.45
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         81.58
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         82.08
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         80.26
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         77.81
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         65.78
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         69.69
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         61.39
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         61.12
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         62.13
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         61.82
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         55.6
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         54.24
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         55.19
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         59.57
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         63.93
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         60.74
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         54.87
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         50.15
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         53.74
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         48.42
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         43.66
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         46.4
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         48.98
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         48.73
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         60.77
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         56.6
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         53.13
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         49.88
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         49.89
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         47.83
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         44.91
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         39.51
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          106.53,
+                                          106.59,
+                                          106.35,
+                                          106.19,
+                                          105.89,
+                                          105.49,
+                                          105.1,
+                                          104.93,
+                                          105,
+                                          105.47,
+                                          105.85,
+                                          106.32,
+                                          106.52,
+                                          106.49,
+                                          106.27,
+                                          105.97,
+                                          105.6,
+                                          105.21,
+                                          104.99,
+                                          104.23,
+                                          103.35,
+                                          102.69,
+                                          101.93,
+                                          101.47,
+                                          101,
+                                          100.53,
+                                          99.85,
+                                          99.07,
+                                          98.21,
+                                          97.22,
+                                          96.28,
+                                          95.37,
+                                          94.75,
+                                          94.27,
+                                          93.76,
+                                          92.9,
+                                          92.03,
+                                          91.06,
+                                          89.88,
+                                          89.25,
+                                          88.56,
+                                          88.45,
+                                          88.59,
+                                          88.64,
+                                          88.51,
+                                          88.6,
+                                          88.58,
+                                          88.65,
+                                          89.4,
+                                          90.06,
+                                          90.65,
+                                          91.26,
+                                          91.33,
+                                          91.31,
+                                          91.25,
+                                          91.12,
+                                          90.93,
+                                          90.81,
+                                          90.7,
+                                          90.55,
+                                          90.3,
+                                          90.09,
+                                          89.77,
+                                          89.42,
+                                          89.23,
+                                          89.24,
+                                          89.65,
+                                          89.86,
+                                          89.83,
+                                          89.8,
+                                          89.53,
+                                          89.19,
+                                          88.96,
+                                          88.61,
+                                          88.32,
+                                          88.21,
+                                          88.15,
+                                          88.1,
+                                          88.18,
+                                          88.16,
+                                          88.04,
+                                          87.96,
+                                          87.92,
+                                          87.95,
+                                          88.01,
+                                          87.99,
+                                          88.14,
+                                          88.15,
+                                          87.89,
+                                          87.66,
+                                          87.37,
+                                          87,
+                                          86.17,
+                                          85.52,
+                                          84.57,
+                                          83.65,
+                                          82.81,
+                                          81.99,
+                                          80.95,
+                                          79.9,
+                                          78.93,
+                                          78.18,
+                                          77.62,
+                                          76.95,
+                                          76.09,
+                                          75.07,
+                                          74.23,
+                                          73.22,
+                                          72.06,
+                                          71.06,
+                                          70.19,
+                                          69.35,
+                                          69.01,
+                                          68.53,
+                                          67.92,
+                                          67.21,
+                                          66.54,
+                                          65.8,
+                                          64.98,
+                                          63.98
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Strong Q3 overshadowed by debt fears and Nvidia shake-up; shares hit 52-week low",
+               "technical":  "Trend: clearly down. CRWV closed at $39.51 on 2026-11-20, far below its EMA 50 ($63.98), EMA 100 ($74.24) and EMA 200 ($83.74). EMAs are moving averages that give more weight to recent prices, and these three track the short, medium and long-term trend. They are stacked in bearish order (50 below 100 below 200), the usual shape of a downtrend that has already taken hold. Momentum: MACD (a trend-momentum gauge built from two EMAs) is -6.15, sitting exactly on its signal line with a histogram of 0. Selling momentum has stopped speeding up, but no bullish crossover has happened yet. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 32.6, close to oversold but not there. Position: price is hugging the lower Bollinger Band at $39.47 (the bands sit 2 standard deviations either side of the 20-day average of $51.85). The day\u0027s low of $39.28 is a new 52-week low, about 71% below the 52-week high of $138.25. Volume was 76.6M shares, about 1.1x the 20-day average, so the 12% drop came on heavier-than-normal volume but not panic volume. Support: the $39–40 zone (52-week low and $40 IPO price). Resistance: about $45, then the band midline at $51.85.",
+               "fundamental":  "The business is still growing fast. Q3 2026 results (reported 10 Nov) showed revenue of $3.66B, up 168%. Adjusted operating income was $379M, beating the company\u0027s own $200–260M guidance. Management raised 2026 revenue guidance to $13.0–13.3B. Backlog (signed contracts not yet billed) rose to $132.5B from $104B in June, and Anthropic is a key customer. The weak spot is the balance sheet. The GAAP net loss widened to $709M. Q3 interest expense was $846M and is guided to $1.05–1.15B for Q4. Capex is $37–39B this year, and some CoreWeave bonds have yielded above 16%. In the AI value chain, CoreWeave rents out NVIDIA GPU capacity. Its moat depends on cheap financing and early access to chips, and both look less certain after Nvidia\u0027s CEO change.",
+               "news":  [
+                            "10 Nov: Q3 revenue of $3.66B beat the ~$3.55B consensus. Full-year revenue guidance was raised to $13.0–13.3B, adjusted operating income guidance to $1.275–1.375B, and backlog reached $132.5B. The stock jumped 24.7% on 11 Nov.",
+                            "12 Nov: Nvidia CEO Jensen Huang resigned after a scandal, and CFO Colette Kress became interim CEO. CRWV fell about 9% that day. Lenders and analysts began asking whether Nvidia\u0027s rent-back guarantees and its role in a $500B neocloud financing platform (up to $125B backstop) are still worth as much.",
+                            "Financing: the CFO said the company plans less than $5B of parent-level debt through 2027 and will lean on customer prepayments and vendor financing instead. Co-founder Brian Venturo disclosed a $30M purchase of CoreWeave\u0027s unsecured bonds.",
+                            "18–19 Nov: Anthropic, a major CoreWeave customer, priced its IPO at $83 (above range), raising about $81.3B. CRWV rose early on 19 Nov, then closed down 6.1% at $44.91 as traders took profits.",
+                            "20 Nov: CRWV fell about 12% to a new 52-week low and briefly traded below its $40 IPO price, as debt worries and a 14% day-two drop in Anthropic shares hit AI stocks. A $350M compute commitment from Huang\u0027s foundation added to concerns about circular financing.",
+                            "Analyst actions: DA Davidson cut its target to $45 from $100 and Argus cut to $100 from $150. Truist reiterated Buy with a $115 target on 19 Nov."
+                        ],
+               "caution":  "Bear case: CoreWeave runs on borrowed money, and that money is getting more expensive just as the market doubts Nvidia\u0027s implied support after Jensen Huang left on 12 Nov. Interest expense is heading above $1B a quarter, and free cash flow was about -$20.4B over the past year. Circular deals, such as the $350M from Huang\u0027s foundation, make it harder to judge how real the demand is. On the chart, a close below $39 would leave no recent support, and RSI is not yet oversold.",
+               "opportunity":  "Bull case: revenue, backlog and guidance all rose last quarter. Management says prices are still rising faster than costs, and plans to replace expensive parent-level bonds with customer-backed project financing through 2027. Price-to-sales has fallen to about 2.5x trailing revenue (per Trefis at the 19 Nov close). The flat MACD histogram and RSI near 30 suggest selling may be running out of steam. The stock has also reacted sharply to good news: +24.7% on 11 Nov and +8–10% after Nvidia\u0027s earnings beat.",
+               "risks":  [
+                             "Rising interest costs ($1.05–1.15B guided for Q4) and bond yields above 16% may make expansion more expensive",
+                             "Weaker implied Nvidia backstop and relationship after the CEO change",
+                             "Heavy reliance on a few AI-lab customers such as Anthropic, whose own shares are volatile",
+                             "Circular financing: Nvidia is a shareholder and the main supplier, plus the Huang foundation compute deal",
+                             "Breaking below $39–40 support (52-week low and IPO price)",
+                             "Co-founders have sold about $3.3B of stock since the March 2025 IPO"
+                         ],
+               "summary":  "CRWV is in a confirmed downtrend. It trades below all three EMAs, which sit in bearish order, and it is resting on the lower Bollinger Band and a new 52-week low near its $40 IPO price. Operations are strong: 168% revenue growth, a $132.5B backlog and raised guidance. November\u0027s selloff is about financing, not demand: rising interest costs, bond yields above 16% and doubts about Nvidia\u0027s backstop after Jensen Huang resigned. The moat thesis rests on scale and the Nvidia relationship. The Nvidia part is now in doubt, so the thesis moves to \u0027watch\u0027."
+           },
+    "th":  {
+               "headline":  "ผลประกอบการ Q3 แกร่ง แต่ความกังวลเรื่องหนี้และวิกฤต Nvidia ฉุดหุ้นลงต่ำสุดรอบ 52 สัปดาห์",
+               "technical":  "แนวโน้มเป็นขาลงชัดเจน CRWV ปิดที่ $39.51 เมื่อ 20 พ.ย. 2026 ต่ำกว่า EMA 50 ($63.98), EMA 100 ($74.24) และ EMA 200 ($83.74) อยู่มาก EMA คือเส้นค่าเฉลี่ยที่ให้น้ำหนักกับราคาล่าสุดมากกว่า สามเส้นนี้ใช้ดูแนวโน้มระยะสั้น กลาง และยาว ตอนนี้เรียงตัวแบบขาลง (50 อยู่ใต้ 100 และ 100 อยู่ใต้ 200) ซึ่งเป็นรูปแบบปกติของขาลงที่ตั้งตัวแล้ว ด้านโมเมนตัม MACD (ตัววัดแรงส่งของแนวโน้ม คำนวณจาก EMA สองเส้น) อยู่ที่ -6.15 เท่ากับเส้น signal พอดี และ histogram เป็น 0 แปลว่าแรงขายเลิกเร่งตัวแล้ว แต่ยังไม่มีสัญญาณตัดขึ้น RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 32.6 ใกล้แต่ยังไม่เข้าโซน oversold ราคาเกาะขอบล่าง Bollinger Band ที่ $39.47 (กรอบนี้ห่างจากค่าเฉลี่ย 20 วัน $51.85 ข้างละ 2 ส่วนเบี่ยงเบนมาตรฐาน) ราคาต่ำสุดของวัน $39.28 เป็นจุดต่ำสุดใหม่รอบ 52 สัปดาห์ ต่ำกว่าจุดสูงสุด $138.25 ราว 71% วอลุ่ม 76.6 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันราว 1.1 เท่า คือแรงขายมากกว่าปกติแต่ยังไม่ถึงขั้นตื่นตระหนก แนวรับคือโซน $39–40 (จุดต่ำสุด 52 สัปดาห์และราคา IPO $40) แนวต้านแรกแถว $45 ถัดไปคือเส้นกลาง Bollinger ที่ $51.85",
+               "fundamental":  "ตัวธุรกิจยังโตเร็ว ไตรมาส 3/2026 (ประกาศ 10 พ.ย.) รายได้ $3.66B โต 168% กำไรจากการดำเนินงานแบบปรับปรุง $379M สูงกว่าเป้าที่บริษัทตั้งไว้เอง $200–260M ผู้บริหารปรับเป้ารายได้ปี 2026 ขึ้นเป็น $13.0–13.3B ส่วน backlog (สัญญาที่เซ็นแล้วแต่ยังไม่ได้รับรู้รายได้) เพิ่มเป็น $132.5B จาก $104B เมื่อ มิ.ย. และ Anthropic เป็นลูกค้าสำคัญ จุดอ่อนอยู่ที่งบดุล ขาดทุนสุทธิ GAAP ขยายเป็น $709M ดอกเบี้ยจ่าย Q3 อยู่ที่ $846M และคาดว่า Q4 จะขึ้นเป็น $1.05–1.15B งบลงทุนปีนี้ $37–39B และหุ้นกู้บางรุ่นมี yield เกิน 16% ในห่วงโซ่ AI นั้น CoreWeave คือผู้ให้เช่า GPU ของ NVIDIA คูเมืองของบริษัทขึ้นอยู่กับต้นทุนเงินทุนที่ต่ำและการได้ชิปก่อนคู่แข่ง ซึ่งทั้งสองข้อดูไม่แน่นอนขึ้นหลัง Nvidia เปลี่ยน CEO",
+               "news":  [
+                            "10 พ.ย.: รายได้ Q3 $3.66B สูงกว่าที่ตลาดคาด (~$3.55B) บริษัทปรับเป้ารายได้ทั้งปีขึ้นเป็น $13.0–13.3B เป้ากำไรจากการดำเนินงานแบบปรับปรุงเป็น $1.275–1.375B และ backlog แตะ $132.5B หุ้นพุ่ง 24.7% ในวันที่ 11 พ.ย.",
+                            "12 พ.ย.: Jensen Huang ลาออกจากตำแหน่ง CEO ของ Nvidia หลังเกิดเรื่องอื้อฉาว โดยมี CFO Colette Kress รักษาการแทน CRWV ร่วงราว 9% ในวันนั้น ผู้ให้กู้และนักวิเคราะห์เริ่มตั้งคำถามว่าการรับประกันเช่าคืนของ Nvidia และบทบาทในแพลตฟอร์มสินเชื่อ neocloud มูลค่า $500B (ค้ำประกันได้สูงสุด $125B) ยังมีน้ำหนักเท่าเดิมหรือไม่",
+                            "เรื่องเงินทุน: CFO บอกว่าจะกู้ระดับบริษัทแม่ไม่เกิน $5B จนถึงสิ้นปี 2027 และจะพึ่งเงินจ่ายล่วงหน้าจากลูกค้ากับสินเชื่อจากผู้ขายฮาร์ดแวร์แทน ส่วนผู้ร่วมก่อตั้ง Brian Venturo เปิดเผยว่าซื้อหุ้นกู้ไม่มีหลักประกันของบริษัท $30M",
+                            "18–19 พ.ย.: Anthropic ซึ่งเป็นลูกค้ารายใหญ่ของ CoreWeave กำหนดราคา IPO ที่ $83 สูงกว่ากรอบที่วางไว้ ระดมทุนได้ราว $81.3B CRWV ขึ้นช่วงเช้าวันที่ 19 พ.ย. ก่อนปิดลบ 6.1% ที่ $44.91 จากแรงขายทำกำไร",
+                            "20 พ.ย.: CRWV ร่วงราว 12% ลงไปทำจุดต่ำสุดใหม่รอบ 52 สัปดาห์ และหลุดราคา IPO $40 ไปชั่วขณะ เพราะความกังวลเรื่องหนี้และหุ้น Anthropic ที่ร่วง 14% ในวันซื้อขายที่สองฉุดหุ้น AI ทั้งกลุ่ม นอกจากนี้ดีลเช่าประมวลผล $350M ของมูลนิธิ Huang ยังทำให้ตลาดกังวลเรื่องการเงินหมุนวนมากขึ้น",
+                            "นักวิเคราะห์: DA Davidson ลดราคาเป้าหมายเหลือ $45 จาก $100, Argus ลดเหลือ $100 จาก $150 ส่วน Truist ยืนคำแนะนำ Buy ราคาเป้าหมาย $115 เมื่อ 19 พ.ย."
+                        ],
+               "caution":  "มุมมองขาลง: CoreWeave ขยายธุรกิจด้วยเงินกู้ และต้นทุนเงินกู้กำลังแพงขึ้นในช่วงที่ตลาดเริ่มไม่แน่ใจว่า Nvidia จะยังหนุนหลังเหมือนเดิมหรือไม่ หลัง Jensen Huang ลาออกเมื่อ 12 พ.ย. ดอกเบี้ยจ่ายกำลังจะเกิน $1B ต่อไตรมาส กระแสเงินสดอิสระย้อนหลัง 1 ปีติดลบราว $20.4B และดีลหมุนวนอย่างเงิน $350M จากมูลนิธิ Huang ทำให้ประเมินได้ยากขึ้นว่าดีมานด์จริงมีเท่าไร ทางเทคนิค ถ้าปิดต่ำกว่า $39 จะไม่มีแนวรับใกล้ ๆ เหลืออยู่ และ RSI ยังไม่เข้าโซน oversold",
+               "opportunity":  "มุมมองขาขึ้น: ไตรมาสที่แล้วรายได้ backlog และเป้าทั้งปีปรับขึ้นหมด ผู้บริหารบอกว่าราคาค่าเช่ายังขึ้นเร็วกว่าต้นทุน และวางแผนใช้สินเชื่อโครงการที่มีสัญญาลูกค้าค้ำ แทนหุ้นกู้บริษัทแม่ที่แพงไปจนถึงปี 2027 อัตราส่วนราคาต่อยอดขายลดลงเหลือราว 2.5 เท่า (ตาม Trefis ที่ราคาปิด 19 พ.ย.) histogram ของ MACD ที่แบนลงและ RSI ที่ใกล้ 30 บอกว่าแรงขายอาจใกล้หมดแรง หุ้นตัวนี้ยังตอบรับข่าวดีแรงมาก คือ +24.7% เมื่อ 11 พ.ย. และ +8–10% หลังงบ Nvidia ออกมาดีกว่าคาด",
+               "risks":  [
+                             "ดอกเบี้ยจ่ายที่เพิ่มขึ้น (คาด Q4 อยู่ที่ $1.05–1.15B) และ yield หุ้นกู้เกิน 16% อาจทำให้การขยายกิจการแพงขึ้น",
+                             "การหนุนหลังโดยนัยและความสัมพันธ์กับ Nvidia อาจอ่อนลงหลังเปลี่ยน CEO",
+                             "รายได้พึ่งพาลูกค้าแล็บ AI ไม่กี่ราย เช่น Anthropic ซึ่งหุ้นของตัวเองก็ผันผวนสูง",
+                             "การเงินหมุนวน: Nvidia เป็นทั้งผู้ถือหุ้นและผู้ขายชิปหลัก รวมถึงดีลประมวลผลกับมูลนิธิ Huang",
+                             "หลุดแนวรับ $39–40 (จุดต่ำสุด 52 สัปดาห์และราคา IPO)",
+                             "ผู้ร่วมก่อตั้งขายหุ้นไปแล้วรวมราว $3.3B ตั้งแต่ IPO เมื่อ มี.ค. 2025"
+                         ],
+               "summary":  "CRWV อยู่ในขาลงที่ยืนยันแล้ว ราคาต่ำกว่า EMA ทั้งสามเส้นที่เรียงตัวแบบขาลง และกำลังพักอยู่ที่ขอบล่าง Bollinger Band กับจุดต่ำสุดใหม่รอบ 52 สัปดาห์ ใกล้ราคา IPO $40 ผลการดำเนินงานยังแข็งแรง ทั้งรายได้โต 168% backlog $132.5B และเป้าทั้งปีที่ปรับขึ้น แรงขายเดือน พ.ย. มาจากเรื่องเงินทุน ไม่ใช่ดีมานด์ ได้แก่ ดอกเบี้ยจ่ายที่สูงขึ้น yield หุ้นกู้เกิน 16% และความไม่แน่ใจว่า Nvidia จะยังหนุนหลังหรือไม่หลัง Jensen Huang ลาออก คูเมืองของบริษัทตั้งอยู่บนขนาดธุรกิจและความสัมพันธ์กับ Nvidia ซึ่งส่วนหลังกำลังถูกตั้งคำถาม จึงปรับ thesis เป็น \u0027watch\u0027"
+           },
+    "sources":  [
+                    {
+                        "title":  "CoreWeave beats on revenue and lifts guidance, easing AI slowdown concerns",
+                        "publisher":  "CNBC",
+                        "url":  "https://www.cnbc.com/2026/11/10/coreweave-crwv-q3-earnings-report-2026.html",
+                        "date":  "2026-11-10"
+                    },
+                    {
+                        "title":  "\u0027That Nvidia guarantee is not worth what it was worth a week ago\u0027: What Jensen Huang\u0027s exit means for neoclouds",
+                        "publisher":  "Fortune",
+                        "url":  "https://fortune.com/2026/11/12/nvidia-neoclouds-jensen-huang-resignation/",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Why is CoreWeave stock sliding today?",
+                        "publisher":  "Investing.com",
+                        "url":  "https://www.investing.com/news/stock-market-news/why-is-coreweave-stock-sliding-today-93CH-5042160",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "CoreWeave sinks 12% as tech stocks plunge",
+                        "publisher":  "Seeking Alpha",
+                        "url":  "https://seekingalpha.com/news/4675342-coreweave-sinks-12-as-tech-stocks-plunge",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Stock Market Today, Nov. 19: CoreWeave Falls as Profit-Taking Follows Anthropic IPO Pricing Above Range",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/coverage/stock-market-today/2026/11/19/stock-market-today-nov-19-coreweave-falls-as-profit-taking-follows-anthropic-ipo-pricing-above-range/",
+                        "date":  "2026-11-19"
+                    },
+                    {
+                        "title":  "Anthropic Sinks 14% on Day Two as AI Sell-Off Spreads; CoreWeave Falls 6%, Amazon Slips 2%",
+                        "publisher":  "24/7 Wall St.",
+                        "url":  "https://247wallst.com/investing/2026/11/20/anthropic-sinks-14-on-day-two-as-ai-sell-off-spreads-coreweave-falls-6-amazon-slips-2/",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Should You Buy CoreWeave Stock Now Or Wait?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/crwv/articles/627294/should-you-buy-coreweave-stock-now-or-wait/2026-11-20",
+                        "date":  "2026-11-20"
+                    }
+                ]
+}

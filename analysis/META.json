@@ -1,0 +1,760 @@
+{
+    "ticker":  "META",
+    "name":  "Meta Platforms",
+    "symbol":  "NASDAQ:META",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:46:05Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:META",
+                       "yahoo":  "META",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:41:38Z",
+                       "price":  560.84,
+                       "open":  583.91,
+                       "high":  588.69,
+                       "low":  558.68,
+                       "volume":  25589800,
+                       "avgVolume20":  21663640,
+                       "changePct":  -5.93,
+                       "historyDays":  501,
+                       "ema50":  644.76,
+                       "ema100":  642.27,
+                       "ema200":  639.17,
+                       "bb":  {
+                                  "upper":  654.24,
+                                  "middle":  618.56,
+                                  "lower":  582.89
+                              },
+                       "macd":  {
+                                    "macd":  -19.88,
+                                    "signal":  -16.9,
+                                    "hist":  -2.98
+                                },
+                       "rsi14":  30.26,
+                       "high52w":  779.82,
+                       "low52w":  520.26,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         622.98
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         627.57
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         593
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         585.39
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         584.59
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         570.98
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         568.43
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         566.98
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         593.48
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         600.21
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         567.58
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         577.22
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         563.85
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         562.2
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         557.67
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         542.87
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         550.25
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         562.6
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         563.29
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         612.91
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         582.9
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         600.29
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         615.58
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         603.12
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         631.48
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         669.21
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         656.73
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         661.04
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         681.31
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         664.54
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         646.01
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         645.85
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         643.81
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         627.17
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         606.1
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         595.19
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         593.87
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         593.41
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         585.61
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         539.03
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         556.71
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         590.24
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         587.94
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         588.77
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         589.9
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         592.1
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         594.92
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         599.12
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         578.85
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         594.97
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         589.85
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         568.97
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         543.67
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         546.03
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         545.83
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         549.9
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         559.02
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         570.05
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         576.14
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         571.1
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         578.02
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         572.34
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         578.54
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         592.85
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         610.68
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         616.77
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         613.48
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         653.69
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         644.38
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         648.03
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         665.6
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         670.24
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         673.31
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         682.31
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         665.75
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         741.25
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         736.6
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         744.1
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         777.59
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         751.66
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         715.62
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         738.79
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         725.18
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         725.93
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         728.08
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         741.9
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         738.88
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         721.31
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         720.89
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         718.67
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         742.96
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         762.5
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         737.54
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         736.72
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         709.33
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         705.44
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         694.25
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         697.52
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         648.85
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         642.62
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         630.56
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         620.19
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         612.49
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         624.52
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         614.99
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         606.73
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         621.03
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         630
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         605.08
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         610.15
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         641.37
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         641.39
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         628.77
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         623.61
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         641.69
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         626.41
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         618.87
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         616.38
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         596.22
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         560.84
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          623.58,
+                                          623.74,
+                                          622.53,
+                                          621.08,
+                                          619.65,
+                                          617.74,
+                                          615.8,
+                                          613.89,
+                                          613.09,
+                                          612.58,
+                                          610.82,
+                                          609.5,
+                                          607.71,
+                                          605.93,
+                                          604.03,
+                                          601.64,
+                                          599.62,
+                                          598.17,
+                                          596.8,
+                                          597.43,
+                                          596.86,
+                                          597,
+                                          597.73,
+                                          597.94,
+                                          599.25,
+                                          602,
+                                          604.14,
+                                          606.37,
+                                          609.31,
+                                          611.48,
+                                          612.83,
+                                          614.13,
+                                          615.29,
+                                          615.76,
+                                          615.38,
+                                          614.59,
+                                          613.77,
+                                          612.98,
+                                          611.9,
+                                          609.04,
+                                          606.99,
+                                          606.34,
+                                          605.61,
+                                          604.95,
+                                          604.36,
+                                          603.88,
+                                          603.53,
+                                          603.36,
+                                          602.4,
+                                          602.11,
+                                          601.62,
+                                          600.34,
+                                          598.12,
+                                          596.08,
+                                          594.11,
+                                          592.37,
+                                          591.07,
+                                          590.24,
+                                          589.69,
+                                          588.96,
+                                          588.53,
+                                          587.9,
+                                          587.53,
+                                          587.74,
+                                          588.64,
+                                          589.74,
+                                          590.67,
+                                          593.14,
+                                          595.15,
+                                          597.23,
+                                          599.91,
+                                          602.67,
+                                          605.44,
+                                          608.45,
+                                          610.7,
+                                          615.82,
+                                          620.55,
+                                          625.4,
+                                          631.37,
+                                          636.08,
+                                          639.2,
+                                          643.11,
+                                          646.33,
+                                          649.45,
+                                          652.53,
+                                          656.04,
+                                          659.29,
+                                          661.72,
+                                          664.04,
+                                          666.18,
+                                          669.19,
+                                          672.85,
+                                          675.39,
+                                          677.79,
+                                          679.03,
+                                          680.07,
+                                          680.62,
+                                          681.28,
+                                          680.01,
+                                          678.55,
+                                          676.66,
+                                          674.45,
+                                          672.02,
+                                          670.16,
+                                          667.99,
+                                          665.59,
+                                          663.84,
+                                          662.52,
+                                          660.26,
+                                          658.3,
+                                          657.64,
+                                          657,
+                                          655.89,
+                                          654.63,
+                                          654.12,
+                                          653.03,
+                                          651.69,
+                                          650.31,
+                                          648.19,
+                                          644.76
+                                      ]
+                   },
+    "en":  {
+               "caution":  "The 28% drop from $779.82 reflects real capital-allocation friction, not just market noise. Meta is funding a $135–$145 billion annual capex wave without a cloud-computing rental arm, forcing equity dilution at $625, new euro debt, and S\u0026P\u0027s negative credit outlook. Technically, price broke below the lower Bollinger Band ($582.89) on 18% above-average volume with negative MACD (-19.88), signaling sellers still control the tape. Until Meta outlines 2027 capex with Q4 results and contains Muse privacy issues, overhead supply around $625–$645 may cap rebounds.",
+               "cons":  [
+                            "Q3 capex hit $34.91 billion, turning quarterly free cash flow negative (-$2.12 billion) as FY2026 capex guidance narrowed to $135–$145 billion.",
+                            "October 26 equity and mandatory convertible preferred offerings ($37.5 billion combined) plus €9 billion in euro bonds add dilution and leverage.",
+                            "S\u0026P Global Ratings revised Meta\u0027s AA- credit outlook to negative on October 30, projecting multi-year free operating cash flow deficits.",
+                            "Italy\u0027s €805 million privacy fine (November 14), a UK CMA AI-scraping probe (October 30), and Muse privacy bugs (November 19) heighten regulatory risk."
+                        ],
+               "fundamental":  "Meta occupies a unique consumer-application layer in the AI value chain: it spends like a hyperscaler to train Muse Spark models and build multi-gigawatt clusters, yet monetizes primarily through advertising across Facebook, Instagram, WhatsApp, and Threads. Q3 2026 results on October 21 showed that flywheel working—ad revenue climbed 26% YoY to $63.06 billion (total revenue $64.60 billion) with adjusted EPS of $7.40 excluding a $9.89 billion U.S. state attorneys general settlement ($3.83 GAAP). Still, scaling AI infrastructure is transforming Meta\u0027s balance sheet. Quarterly capex hit $34.91 billion, pushing free cash flow to -$2.12 billion, while Reality Labs remained a drag ($443 million revenue; $18–$19 billion projected FY2026 loss). Tapping $37.5 billion in equity/preferred stock and €9 billion in euro debt preserves liquidity, while custom MTIA chips target lower inference costs.",
+               "headline":  "Meta Slides 5.9% to $560.84 as AI Capex and Dilution Eclipse 26% Growth",
+               "news":  [
+                            "Oct 21, 2026 — Meta reported Q3 revenue of $64.60 billion (+26% YoY) and guided Q4 revenue to $73–$76 billion, with GAAP EPS of $3.83 ($7.40 excluding a $9.89 billion state legal settlement). However, $34.91 billion in quarterly capex pushed free cash flow to -$2.12 billion, and FY2026 capex guidance narrowed to $135–$145 billion.",
+                            "Oct 26 \u0026 Nov 12, 2026 — To finance its AI data-center buildout, Meta priced $25.0 billion in Class A common stock forward-sale agreements at $625 per share alongside $12.5 billion in 6.50% Series A mandatory convertible preferred stock. Meta then closed its debut €9 billion euro-denominated senior notes offering on November 12 across maturities from 2031 to 2065.",
+                            "Oct 30, 2026 — S\u0026P Global Ratings affirmed Meta\u0027s \u0027AA-\u0027 credit rating but revised its outlook from stable to negative over accelerating AI capex and data-center leasing. S\u0026P projected free operating cash flow deficits of $22–$39 billion in 2026 and $71 billion in 2027, potentially lifting leverage above its 1.0x downgrade threshold.",
+                            "Oct 30 \u0026 Nov 14, 2026 — European regulatory pressure intensified as the UK CMA opened an antitrust probe on October 30 into Meta\u0027s publisher-content terms for AI training. On November 14, Italy\u0027s Garante fined Meta €805 million (~$887 million) over default Android photo-gallery permissions and ordered changes within 60 days.",
+                            "Nov 19–20, 2026 — Reports cited internal employee warnings that Meta\u0027s Muse AI agent mixed up user conversations and surfaced sensitive bank and Signal data during testing. The next day, Meta fell 5.93% to $560.84 amid broader AI-trade de-risking following Anthropic\u0027s post-IPO decline."
+                        ],
+               "opportunity":  "For long-term AI infrastructure holders, the pullback has not dented Meta\u0027s core consumer network moat: 3.64 billion daily active people and 26% ad-revenue growth prove AI ranking is already lifting monetization, with Q4 revenue guided up to $76 billion. Management also expects Reality Labs losses to narrow toward $15 billion in 2027 as spending pivots to AI, while MTIA custom silicon could curb compute costs. With RSI 14 at 30.26 and price approaching $520.26 52-week support, signs of base-building or steadier 2027 free-cash-flow guidance could improve risk-reward.",
+               "opportunityCheck":  "Most of the page\u0027s AI-opportunity profile fits Meta well, especially its low bottleneck score given heavy reliance on external GPU suppliers while custom MTIA silicon ramps. However, I would nudge AI revenue exposure slightly higher because AI ad-ranking already drove 26% YoY revenue growth and 14% higher ad pricing in Q3 2026. Conversely, I would trim the market-position score slightly: unlike cloud hyperscalers, Meta cannot rent excess AI compute to third parties to offset $135–$145 billion in annual capex, and November 19 Muse privacy glitches highlight consumer-agent execution hurdles.",
+               "pros":  [
+                            "Q3 2026 revenue rose 26% year-over-year to $64.60 billion, with average ad prices up 14% and Q4 guided to $73–$76 billion.",
+                            "Family Daily Active People reached 3.64 billion in September 2026 (+3% YoY), reinforcing unmatched consumer distribution for AI.",
+                            "Muse Spark and the Muse AI agent surpassed 10 million downloads after launching in September 2026, expanding consumer AI engagement.",
+                            "Custom MTIA chips and Ethernet data-center fabrics aim to lower long-term AI inference costs and reduce reliance on Nvidia."
+                        ],
+               "risks":  [
+                             "Prolonged negative free cash flow if 2027 AI capex keeps rising faster than ad monetization, risking an S\u0026P credit downgrade below AA-.",
+                             "Future equity dilution from the $25.0 billion forward common-stock agreements and $12.5 billion mandatory convertible preferred shares.",
+                             "Escalating European and U.S. regulatory penalties—including Italy\u0027s €805 million fine, the UK CMA AI-scraping probe, and the FTC\u0027s antitrust appeal.",
+                             "Consumer trust and adoption setbacks if Muse AI agent privacy glitches persist alongside intense competition from Apple, OpenAI, and Anthropic."
+                         ],
+               "summary":  "Meta Platforms closed at $560.84 on November 20, 2026, down 5.93% on the day and 28.1% off its $779.82 52-week high. Core advertising remains strong: Q3 revenue jumped 26% year-over-year to $64.60 billion on October 21, with 3.64 billion daily active people. However, $34.91 billion in quarterly capex pushed free cash flow negative (-$2.12 billion), prompting $37.5 billion in October 26 equity/preferred offerings, €9 billion in euro debt, and an October 30 S\u0026P negative outlook. Regulatory fines and November 19 Muse privacy glitches deepened the sell-off, though Meta\u0027s consumer network moat remains intact.",
+               "technical":  "Meta\u0027s chart is decisively bearish after Friday\u0027s 5.93% slide to $560.84 on November 20, 2026. Although the three EMAs (exponential moving averages tracking trend) remain stacked bullishly—EMA 50 at $644.76, EMA 100 at $642.27, and EMA 200 at $639.17—price has broken 12%–13% below that entire cluster, turning $639–$645 into heavy overhead resistance alongside October\u0027s $625 forward-offering price. Momentum confirms the downtrend: MACD (a gauge comparing fast and slow trend averages) sits deeply negative at -19.88 below its -16.90 signal line, with a widening -2.98 histogram. However, downside stretch is nearing short-term extremes. Price closed $22.05 beneath the lower Bollinger Band (a 20-day volatility channel spanning $582.89 to $654.24), while RSI 14 (a 0–100 momentum gauge where under 30 is oversold) fell to 30.26. Trading volume of 25.59 million shares topped the 20-day average of 21.66 million by 18%, confirming institutional distribution. Now sitting in the bottom 16% of its $520.26–$779.82 52-week range, META faces major support near $520.26."
+           },
+    "th":  {
+               "caution":  "การร่วงลง 28% จากจุดสูงสุด $779.82 สะท้อนแรงกดดันด้านการจัดสรรเงินทุนจริง ไม่ใช่แค่ความผันผวนระยะสั้น Meta ต้องแบกรับงบลงทุน $135–$145 พันล้านต่อปีโดยไม่มีธุรกิจให้เช่าคลาวด์ช่วยรับต้นทุน จึงต้องเพิ่มทุนที่ $625 ออกหุ้นกู้ยูโร และถูก S\u0026P ปรับแนวโน้มเครดิตเป็นลบ เชิงเทคนิค ราคาหลุดกรอบล่าง Bollinger Band ($582.89) พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย 18% และ MACD ติดลบ (-19.88) ชี้ว่าฝั่งขายยังคุมเกม ตราบใดที่ยังไม่เห็นกรอบงบลงทุนปี 2027 ในงบ Q4 และการแก้ปัญหาความเป็นส่วนตัวของ Muse โซน $625–$645 อาจยังเป็นแนวต้านสำคัญ",
+               "cons":  [
+                            "งบลงทุน Q3 พุ่งถึง $34.91 พันล้าน กดกระแสเงินสดอิสระติดลบ -$2.12 พันล้าน พร้อมปรับกรอบงบลงทุนทั้งปี 2026 เป็น $135–$145 พันล้าน",
+                            "การระดมทุนผ่านหุ้นสามัญและหุ้นบุริมสิทธิแปลงสภาพรวม $37.5 พันล้านเมื่อ 26 ต.ค. และหุ้นกู้ยูโร €9 พันล้าน เพิ่มความเสี่ยง dilution และหนี้สิน",
+                            "S\u0026P Global Ratings ปรับแนวโน้มเครดิต AA- เป็นลบเมื่อ 30 ต.ค. โดยคาดกระแสเงินสดจากการดำเนินงานอิสระจะติดลบต่อเนื่องหลายปี",
+                            "ค่าปรับความเป็นส่วนตัวในอิตาลี €805 ล้าน (14 พ.ย.) การสอบสวนของ UK CMA (30 ต.ค.) และบั๊กความเป็นส่วนตัวของ Muse (19 พ.ย.) เพิ่มความเสี่ยงด้านกฎระเบียบ"
+                        ],
+               "fundamental":  "Meta อยู่ในชั้นแอปพลิเคชันผู้บริโภคที่มีเอกลักษณ์ในห่วงโซ่คุณค่า AI กล่าวคือ ลงทุนโครงสร้างพื้นฐานระดับไฮเปอร์สเกลเลอร์เพื่อเทรนโมเดล Muse Spark และสร้างคลัสเตอร์ระดับกิกะวัตต์ แต่สร้างรายได้หลักจากโฆษณาบน Facebook, Instagram, WhatsApp และ Threads งบ Q3 2026 เมื่อ 21 ต.ค. พิสูจน์ว่ากลไกนี้ยังเดินหน้าได้ดี โดยรายได้โฆษณาโต 26% YoY เป็น $63.06 พันล้าน (รายได้รวม $64.60 พันล้าน) และ EPS ที่ปรับปรุงแล้วอยู่ที่ $7.40 ไม่รวมค่าประนีประนอมคดีกับอัยการรัฐสหรัฐฯ $9.89 พันล้าน (GAAP อยู่ที่ $3.83) ทว่าการเร่งขยายดาต้าเซ็นเตอร์กำลังเปลี่ยนโครงสร้างงบดุล งบลงทุนไตรมาสเดียวสูงถึง $34.91 พันล้านจนกระแสเงินสดอิสระติดลบ -$2.12 พันล้าน ขณะที่ Reality Labs ยังขาดทุนหนัก (รายได้ $443 ล้าน คาดขาดทุนทั้งปี $18–$19 พันล้าน) การระดมทุน $37.5 พันล้านและหุ้นกู้ €9 พันล้านช่วยเสริมสภาพคล่อง ส่วนชิป MTIA ที่พัฒนาเองมุ่งช่วยลดต้นทุน inference ในระยะยาว",
+               "headline":  "META ร่วง 5.9% สู่ $560.84 งบ AI และ Dilution กลบรายได้โต 26%",
+               "news":  [
+                            "21 ต.ค. 2026 — Meta รายงานรายได้ Q3 ที่ $64.60 พันล้าน (+26% YoY) และคาดรายได้ Q4 ที่ $73–$76 พันล้าน โดยมี GAAP EPS $3.83 ($7.40 ไม่รวมค่าประนีประนอมคดี $9.89 พันล้าน) แต่งบลงทุนที่พุ่งถึง $34.91 พันล้านกดกระแสเงินสดอิสระติดลบ -$2.12 พันล้าน และบริษัทปรับกรอบงบลงทุนปี 2026 เป็น $135–$145 พันล้าน",
+                            "26 ต.ค. และ 12 พ.ย. 2026 — เพื่อรองรับการสร้างดาต้าเซ็นเตอร์ AI Meta กำหนดราคาขายหุ้นสามัญ Class A แบบสัญญาซื้อขายล่วงหน้ามูลค่า $25.0 พันล้านที่ $625 ต่อหุ้น ควบคู่หุ้นบุริมสิทธิแปลงสภาพบังคับ 6.50% มูลค่า $12.5 พันล้าน ก่อนปิดการออกหุ้นกู้สกุลยูโรครั้งแรกมูลค่า €9 พันล้านเมื่อ 12 พ.ย. อายุครบกำหนดระหว่างปี 2031–2065",
+                            "30 ต.ค. 2026 — S\u0026P Global Ratings คงอันดับเครดิต Meta ที่ AA- แต่ปรับแนวโน้มจากมีเสถียรภาพเป็นลบ จากงบลงทุน AI และสัญญาเช่าดาต้าเซ็นเตอร์ที่เร่งตัว S\u0026P คาดกระแสเงินสดอิสระจากการดำเนินงานจะขาดดุล $22–$39 พันล้านในปี 2026 และ $71 พันล้านในปี 2027 ซึ่งอาจดันหนี้สินเกินเกณฑ์ปรับลดอันดับที่ 1.0x",
+                            "30 ต.ค. และ 14 พ.ย. 2026 — แรงกดดันด้านกฎระเบียบยุโรปหนักขึ้น หลังหน่วยงานแข่งขันทางการค้าอังกฤษ (CMA) เปิดสอบสวนเมื่อ 30 ต.ค. กรณีเงื่อนไขนำเนื้อหาสื่อไปเทรน AI ต่อมาวันที่ 14 พ.ย. หน่วยงานคุ้มครองข้อมูลอิตาลี (Garante) สั่งปรับ Meta €805 ล้าน (~$887 ล้าน) จากสิทธิ์เข้าถึงคลังภาพ Android และสั่งแก้ไขภายใน 60 วัน",
+                            "19–20 พ.ย. 2026 — สื่อรายงานคำเตือนภายในของพนักงานว่า AI agent อย่าง Muse สลับบทสนทนาระหว่างบัญชีและแสดงข้อมูลอ่อนไหว เช่น ยอดเงินธนาคารและข้อความ Signal ระหว่างทดสอบ วันถัดมาหุ้น META ร่วง 5.93% ปิด $560.84 ท่ามกลางแรงขายลดความเสี่ยงหุ้น AI หลังราคาหุ้น Anthropic ร่วงแรงหลัง IPO"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในธีมโครงสร้างพื้นฐาน AI การปรับฐานครั้งนี้ยังไม่กระทบคูเมืองเครือข่ายผู้บริโภคของ Meta โดยฐานผู้ใช้รายวัน 3.64 พันล้านคนและรายได้โฆษณาโต 26% ยืนยันว่า AI ช่วยสร้างเม็ดเงินได้จริง พร้อมคาดการณ์รายได้ Q4 สูงสุด $76 พันล้าน ผู้บริหารยังคาดว่าผลขาดทุน Reality Labs จะลดลงเหลือราว $15 พันล้านในปี 2027 ขณะที่ชิป MTIA ช่วยคุมต้นทุนประมวลผล ด้วย RSI 14 ที่ 30.26 และราคาใกล้แนวรับรอบ 52 สัปดาห์ที่ $520.26 การเริ่มสร้างฐานหรือแนวโน้มกระแสเงินสดปี 2027 ที่ชัดเจนขึ้นจะช่วยให้ความคุ้มค่าต่อความเสี่ยงดีขึ้น",
+               "opportunityCheck":  "ภาพรวมคะแนนโอกาส AI บนหน้าข้อมูลถือว่าสอดคล้องกับ Meta ดี โดยเฉพาะคะแนนด้านคอขวดและอำนาจตั้งราคาที่อยู่ในระดับต่ำ เพราะบริษัทยังพึ่งพาซัพพลายเออร์ GPU ภายนอกสูงระหว่างเร่งขยายชิป MTIA ของตัวเอง อย่างไรก็ตาม ควรขยับคะแนนสัดส่วนรายได้ AI ขึ้นเล็กน้อย เพราะระบบจัดอันดับโฆษณาด้วย AI ดันรายได้ Q3 2026 โตถึง 26% YoY และราคาโฆษณาเพิ่ม 14% ในทางกลับกัน ควรลดคะแนนตำแหน่งทางการตลาดลงเล็กน้อย เพราะต่างจากผู้ให้บริการคลาวด์ที่ปล่อยเช่ากำลังประมวลผล AI ได้ Meta ต้องรับภาระงบลงทุน $135–$145 พันล้านเอง และบั๊กความเป็นส่วนตัวของ Muse เมื่อ 19 พ.ย. ชี้ถึงโจทย์การพัฒนา AI agent ผู้บริโภค",
+               "pros":  [
+                            "รายได้ Q3 2026 โต 26% YoY แตะ $64.60 พันล้าน ราคาโฆษณาเฉลี่ยเพิ่มขึ้น 14% และคาดรายได้ Q4 ที่ $73–$76 พันล้าน",
+                            "ผู้ใช้ประจำวันรวมทุกแอป (DAP) แตะ 3.64 พันล้านคนใน ก.ย. 2026 (+3% YoY) ตอกย้ำฐานกระจายผลิตภัณฑ์ AI ที่คู่แข่งเลียนแบบยาก",
+                            "โมเดล Muse Spark และแอป AI agent อย่าง Muse มียอดดาวน์โหลดทะลุ 10 ล้านครั้งหลังเปิดตัว ก.ย. 2026 ขยายการใช้งาน AI ฝั่งผู้บริโภค",
+                            "ชิป MTIA ที่พัฒนาเองและเครือข่ายดาต้าเซ็นเตอร์แบบ Ethernet ช่วยลดต้นทุนการรัน AI ระยะยาวและลดการพึ่งพา Nvidia"
+                        ],
+               "risks":  [
+                             "กระแสเงินสดอิสระติดลบยืดเยื้อหากงบลงทุน AI ปี 2027 ยังเร่งตัวเร็วกว่าการเติบโตของโฆษณา เสี่ยงถูก S\u0026P ปรับลดเครดิตต่ำกว่า AA-",
+                             "ผลกระทบ Dilution ในอนาคตจากสัญญาขายหุ้นสามัญล่วงหน้า $25.0 พันล้าน และหุ้นบุริมสิทธิแปลงสภาพบังคับ $12.5 พันล้าน",
+                             "แรงกดดันค่าปรับและคดีความในยุโรปและสหรัฐฯ ทั้งค่าปรับ €805 ล้านในอิตาลี การสอบสวนของ UK CMA และคำอุทธรณ์คดีผูกขาดของ FTC",
+                             "ความเชื่อมั่นผู้บริโภคอาจสะดุดหากปัญหาความเป็นส่วนตัวของ Muse ยังยืดเยื้อ ท่ามกลางการแข่งขันรุนแรงจาก Apple, OpenAI และ Anthropic"
+                         ],
+               "summary":  "หุ้น Meta Platforms ปิดที่ $560.84 เมื่อ 20 พ.ย. 2026 ลดลง 5.93% ในวันเดียว และอ่อนตัว 28.1% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $779.82 ธุรกิจโฆษณาหลักยังแข็งแกร่ง โดยงบ Q3 เมื่อ 21 ต.ค. รายได้พุ่ง 26% YoY แตะ $64.60 พันล้าน พร้อมผู้ใช้รายวัน 3.64 พันล้านคน ทว่างบลงทุนไตรมาสเดียว $34.91 พันล้านกดกระแสเงินสดอิสระติดลบ -$2.12 พันล้าน นำไปสู่การระดมทุนหุ้นและหุ้นบุริมสิทธิ $37.5 พันล้านเมื่อ 26 ต.ค. หุ้นกู้ยูโร €9 พันล้าน และ S\u0026P ปรับแนวโน้มเป็นลบเมื่อ 30 ต.ค. ซ้ำเติมด้วยค่าปรับยุโรปและบั๊กความเป็นส่วนตัวของ Muse เมื่อ 19 พ.ย. แต่คูเมืองเครือข่ายผู้บริโภคยังคงแข็งแกร่ง",
+               "technical":  "กราฟ META เป็นขาลงชัดเจนหลังร่วง 5.93% ปิดที่ $560.84 เมื่อ 20 พ.ย. 2026 แม้เส้น EMA ทั้งสาม (เส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนักเพื่อดูแนวโน้ม) ยังเรียงตัวแบบขาขึ้น โดย EMA 50 อยู่ที่ $644.76, EMA 100 ที่ $642.27 และ EMA 200 ที่ $639.17 แต่ราคาหลุดต่ำกว่ากลุ่มเส้นทั้งหมดถึง 12%–13% ทำให้โซน $639–$645 กลายเป็นแนวต้านหนาแน่นร่วมกับราคาขายหุ้นล่วงหน้า $625 เมื่อเดือน ต.ค. ด้านโมเมนตัมยืนยันขาลง โดย MACD (ตัวชี้วัดเทียบค่าเฉลี่ยเร็วกับช้า) ติดลบหนักที่ -19.88 ต่ำกว่าเส้น signal ที่ -16.90 พร้อมฮิสโตแกรมลบ -2.98 อย่างไรก็ตาม แรงขายระยะสั้นเริ่มตึงตัว ราคาปิดต่ำกว่าขอบล่าง Bollinger Band (กรอบความผันผวน 20 วัน อยู่ที่ $582.89–$654.24) ถึง $22.05 ขณะที่ RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 คือขายมากเกินไป) ลงมาที่ 30.26 ปริมาณซื้อขาย 25.59 ล้านหุ้นสูงกว่าค่าเฉลี่ย 20 วัน (21.66 ล้านหุ้น) ราว 18% ยืนยันแรงขายสถาบัน ราคาอยู่ช่วงล่าง 16% ของกรอบ 52 สัปดาห์ ($520.26–$779.82) โดยมีแนวรับใหญ่ใกล้ $520.26"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-10-21",
+                        "publisher":  "Meta Platforms Investor Relations",
+                        "title":  "Meta Reports Third Quarter 2026 Results",
+                        "url":  "https://investor.atmeta.com/press-releases/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
+                    },
+                    {
+                        "date":  "2026-10-26",
+                        "publisher":  "PR Newswire",
+                        "title":  "Meta Announces Pricing of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements",
+                        "url":  "https://www.prnewswire.com/news-releases/meta-announces-pricing-of-offering-of-depositary-shares-representing-series-a-mandatory-convertible-preferred-stock-and-offering-of-class-a-common-stock-in-connection-with-forward-sale-agreements-302939339.html"
+                    },
+                    {
+                        "date":  "2026-10-30",
+                        "publisher":  "S\u0026P Global Ratings",
+                        "title":  "Meta Platforms Inc. Outlook Revised To Negative On Capital Spending And Free Operating Cash Flow Concerns; Ratings Affirmed",
+                        "url":  "https://www.spglobal.com/ratings/en/research/articles/261030-meta-platforms-inc-outlook-revised-to-negative-on-capital-spending-and-free-operating-cash-flow-concerns-ratings-affirmed-13670158"
+                    },
+                    {
+                        "date":  "2026-10-30",
+                        "publisher":  "Quartz",
+                        "title":  "Meta faces U.K. antitrust probe over publisher content scraping terms",
+                        "url":  "https://qz.com/meta-faces-uk-antitrust-probe-publisher-content-scraping-terms"
+                    },
+                    {
+                        "date":  "2026-11-12",
+                        "publisher":  "U.S. Securities and Exchange Commission",
+                        "title":  "Meta Platforms, Inc. Form 8-K (EUR 9 Billion Senior Notes Offering)",
+                        "url":  "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001326801/000132680126000150/meta-20261112.htm"
+                    },
+                    {
+                        "date":  "2026-11-15",
+                        "publisher":  "The Guardian",
+                        "title":  "Italy fines Meta $887m for accessing Android users\u0027 photos and videos",
+                        "url":  "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-android-users-photos-videos"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "TechCrunch",
+                        "title":  "Meta\u0027s AI agent Muse is mixing up conversations and could be exposing private data, report says",
+                        "url":  "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-could-be-exposing-private-data-report-says/"
+                    }
+                ]
+}

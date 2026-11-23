@@ -1,0 +1,748 @@
+{
+    "ticker":  "GEV",
+    "name":  "GE Vernova",
+    "symbol":  "NYSE:GEV",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:55:12Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NYSE:GEV",
+                       "yahoo":  "GEV",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:51:06Z",
+                       "price":  699.33,
+                       "open":  737.49,
+                       "high":  745.39,
+                       "low":  691.72,
+                       "volume":  6196100,
+                       "avgVolume20":  4466220,
+                       "changePct":  -7.53,
+                       "historyDays":  501,
+                       "ema50":  872.56,
+                       "ema100":  911.14,
+                       "ema200":  889.22,
+                       "bb":  {
+                                  "upper":  926.67,
+                                  "middle":  817.97,
+                                  "lower":  709.27
+                              },
+                       "macd":  {
+                                    "macd":  -44.34,
+                                    "signal":  -37.84,
+                                    "hist":  -6.5
+                                },
+                       "rsi14":  31.98,
+                       "high52w":  1195.94,
+                       "low52w":  530.16,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         959.36
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         963.33
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         933.61
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         933.85
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         920.15
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         867.09
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         906.79
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         940.66
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         979.07
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         982.35
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         1048.86
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         1109.73
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         1127.59
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         1034.98
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         1057.65
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         1085.47
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         1045.17
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         1102.51
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         1174.86
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         1134.35
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         1113.11
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         1152.04
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         1077.08
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         1070.99
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         1075.26
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         1091.57
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         1042.6
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         1066.01
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         1055.28
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         1036.22
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         1057.84
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         1079.18
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         1078.81
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         985.03
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         1031.19
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         1014.75
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         996.57
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         943.38
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         900.28
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         981.98
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         990.29
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         1006.76
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         1018.53
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         1017.96
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         1000.3
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         990.32
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         990.85
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         1011.88
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         1039.9
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         1049.42
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         1063.25
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         1079
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         1004.53
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         987.46
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         966.01
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         956.85
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         942.1
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         926.73
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         953.09
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         953.83
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         911.93
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         898.53
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         898.53
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         921.94
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         941.84
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         941.95
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         971.31
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         951.04
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         923.91
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         957.27
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         874.76
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         882.81
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         925.09
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         924.93
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         940.33
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         946.22
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         950.28
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         951.82
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         955.04
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         957.63
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         949.77
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         962.49
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         950.49
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         987.45
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         988.7
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         990
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         1029.21
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         997.09
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         999.35
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         1004.73
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         996.8
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         1004.04
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         941.78
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         926.44
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         921.2
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         908.44
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         890.33
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         925.92
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         827.42
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         815
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         855.12
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         895.08
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         878.03
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         887.85
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         857.87
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         862.25
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         918.2
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         832.83
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         770.51
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         774.11
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         829.34
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         797.04
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         808.24
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         818.49
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         803.13
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         763.57
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         779.91
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         772.22
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         756.28
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         699.33
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          989.75,
+                                          988.71,
+                                          986.55,
+                                          984.48,
+                                          981.96,
+                                          977.45,
+                                          974.68,
+                                          973.35,
+                                          973.57,
+                                          973.92,
+                                          976.86,
+                                          982.07,
+                                          987.77,
+                                          989.63,
+                                          992.29,
+                                          995.95,
+                                          997.88,
+                                          1001.98,
+                                          1008.76,
+                                          1013.69,
+                                          1017.58,
+                                          1022.86,
+                                          1024.98,
+                                          1026.79,
+                                          1028.69,
+                                          1031.15,
+                                          1031.6,
+                                          1032.95,
+                                          1033.83,
+                                          1033.92,
+                                          1034.86,
+                                          1036.6,
+                                          1038.25,
+                                          1036.17,
+                                          1035.97,
+                                          1035.14,
+                                          1033.63,
+                                          1030.09,
+                                          1025,
+                                          1023.31,
+                                          1022.01,
+                                          1021.42,
+                                          1021.3,
+                                          1021.17,
+                                          1020.35,
+                                          1019.18,
+                                          1018.07,
+                                          1017.82,
+                                          1018.69,
+                                          1019.89,
+                                          1021.59,
+                                          1023.85,
+                                          1023.09,
+                                          1021.69,
+                                          1019.51,
+                                          1017.05,
+                                          1014.11,
+                                          1010.68,
+                                          1008.43,
+                                          1006.28,
+                                          1002.58,
+                                          998.5,
+                                          994.58,
+                                          991.73,
+                                          989.78,
+                                          987.9,
+                                          987.25,
+                                          985.83,
+                                          983.4,
+                                          982.38,
+                                          978.16,
+                                          974.42,
+                                          972.48,
+                                          970.62,
+                                          969.43,
+                                          968.52,
+                                          967.81,
+                                          967.18,
+                                          966.7,
+                                          966.35,
+                                          965.7,
+                                          965.57,
+                                          964.98,
+                                          965.86,
+                                          966.76,
+                                          967.67,
+                                          970.08,
+                                          971.14,
+                                          972.25,
+                                          973.52,
+                                          974.43,
+                                          975.59,
+                                          974.27,
+                                          972.39,
+                                          970.39,
+                                          967.96,
+                                          964.91,
+                                          963.38,
+                                          958.05,
+                                          952.44,
+                                          948.62,
+                                          946.52,
+                                          943.84,
+                                          941.64,
+                                          938.36,
+                                          935.37,
+                                          934.7,
+                                          930.71,
+                                          924.42,
+                                          918.53,
+                                          915.03,
+                                          910.4,
+                                          906.4,
+                                          902.95,
+                                          899.04,
+                                          893.72,
+                                          889.26,
+                                          884.67,
+                                          879.64,
+                                          872.56
+                                      ]
+                   },
+    "en":  {
+               "caution":  "The stock’s 41.5% slide from its peak shows that valuation multiple compression can overwhelm strong earnings when order-growth deceleration fears emerge. SoftBank’s November 10 restructuring of U.S. data-center turbine reservations and Erste Group’s November 18 downgrade highlight heightened sensitivity to any cooling in hyperscaler power commitments heading into 2027. Meanwhile, the Wind division’s $400–$500 million 2026 EBITDA loss and execution risks around financing and closing the $9.0 billion Trench Group acquisition (half debt-funded, closing late 2027) leave little room for operational stumbles while technical momentum stays negative.",
+               "cons":  [
+                            "Shares sit in a sharp technical breakdown at $699.33, trading well below all key moving averages on elevated selling volume.",
+                            "Erste Group downgraded GEV to Hold on November 18, warning that 2027 new-order growth is set to moderate against rich valuation multiples.",
+                            "SoftBank’s November 10 pullback on Ohio AI data-center power procurement raised market fears that hyperscale electricity buildouts could slow or be rescheduled.",
+                            "The Wind segment remains a financial drag, with full-year 2026 EBITDA losses still guided at $400–$500 million despite Q3 improvement."
+                        ],
+               "fundamental":  "GE Vernova sits at the physical power bottleneck of AI infrastructure through heavy-duty gas turbines and high-voltage grid equipment. On October 28, 2026, Q3 results beat expectations: revenue rose 27% year-over-year to $12.64 billion, adjusted EBITDA reached $1.9 billion (15.4% margin), and GAAP EPS hit $4.81. Power ($6.07 billion revenue, 21.4% EBITDA margin) and Electrification ($3.86 billion, 19.1% margin) carried growth, while Wind turned slightly positive in Q3 ($72 million EBITDA) but still carries a $400–$500 million full-year loss outlook. Orders jumped 96% organically to $29.3 billion, pushing backlog to $197 billion (122 GW in gas commitments). Management raised 2026 revenue ($46.5–$47.5 billion), EBITDA margin (13.5%–14.5%), and free cash flow ($16–$17 billion) targets, doubled buybacks to $20 billion, and agreed to buy Trench Group for $9.0 billion. The gas-and-grid moat remains intact.",
+               "headline":  "GE Vernova Plunges Below Key Averages Despite $197B Backlog and Third Guidance Raise",
+               "news":  [
+                            "October 28, 2026 — Q3 2026 earnings beat expectations as revenue grew 27% YoY to $12.64 billion, organic orders surged 96% to $29.3 billion, and backlog hit $197 billion. Management raised full-year 2026 guidance for a third time (free cash flow to $16–$17 billion) and doubled its share buyback authorization to $20 billion.",
+                            "October 28, 2026 — GE Vernova agreed to acquire high-voltage grid equipment maker Trench Group from Triton Partners for $9.0 billion (funded evenly with cash and debt). Expected to close in late 2027, the deal adds 11 plants and roughly $5 billion in backlog to the Electrification segment.",
+                            "November 10, 2026 — SoftBank disclosed a $3.73 billion charge via Silver Bands 7 LLC after scaling back excess power-equipment procurement for U.S. AI data centers in Ohio, forfeiting $2.85 billion in non-refundable deposits. GE Vernova stated there was no direct financial impact on its business, though shares dropped over 6% on sector-wide AI capex worries.",
+                            "November 17, 2026 — GE Vernova launched HYpact-145g, a compact 145 kV switchgear free of sulfur hexafluoride (SF6) designed for space-constrained high-voltage substations, expanding its grid modernization lineup.",
+                            "November 18–20, 2026 — Erste Group analyst Hans Engel downgraded GEV from Buy to Hold on November 18, citing expected 2027 order-growth moderation, high valuation multiples, and slow Wind recovery. Shares subsequently plunged 7.53% to $699.33 on November 20 amid a broader sell-off in AI-linked power stocks."
+                        ],
+               "opportunity":  "The sharp sentiment reset contrasts starkly with GE Vernova’s expanding multi-year visibility. With $197 billion in backlog, gas-power commitments approaching 130 GW by year-end 2026, and grid-component scarcity reinforced by the Trench Group deal and November 17 HYpact-145g SF6-free switchgear launch, earnings durability extends well past near-term market jitters. Moreover, customer slot down-payments driving $16–$17 billion in projected 2026 free cash flow and an enlarged $20 billion buyback authorization give management substantial capacity to absorb share volatility once selling pressure and stretched technical indicators stabilize.",
+               "opportunityCheck":  "The page’s AI-opportunity profile is largely well calibrated, especially its strong credit for bottleneck pricing power—confirmed by SoftBank forfeiting non-refundable deposits and GE Vernova’s $16–$17 billion 2026 free cash flow forecast driven by customer slot down-payments. However, the AI revenue exposure score looks slightly too low and warrants a modest upward revision: Power and Electrification already generate nearly 78% of Q3 revenue, while data-center demand propelled a 96% organic order surge to $29.3 billion and the $9.0 billion Trench Group deal deepens grid leverage. Meanwhile, market growth is appropriately tempered by expected 2027 order moderation.",
+               "pros":  [
+                            "Q3 2026 orders jumped 96% organically to $29.3 billion, lifting total backlog to $197 billion and gas-power commitments to 122 GW.",
+                            "Management raised 2026 guidance for the third time on October 28, projecting $16–$17 billion in free cash flow and doubling buybacks to $20 billion.",
+                            "The October 28 agreement to buy Trench Group for $9.0 billion vertically integrates scarce high-voltage bushings, transformers, and $5 billion in grid backlog.",
+                            "SoftBank’s $2.85 billion forfeited deposit on November 10 highlighted GE Vernova’s strong contract protection and pricing power in gas turbines."
+                        ],
+               "risks":  [
+                             "Decelerating 2027 order momentum if hyperscalers delay or resize AI data-center power buildouts, as hinted by SoftBank’s procurement revision.",
+                             "Persistent losses in the Wind division, still guided for $400–$500 million in full-year 2026 EBITDA losses.",
+                             "Integration, regulatory, and debt-financing risks from the $9.0 billion Trench Group acquisition, which is not expected to close until late 2027.",
+                             "Valuation multiple compression in high-beta AI infrastructure equities during broader risk-off macro environments."
+                         ],
+               "summary":  "GE Vernova (GEV) slid 7.53% to $699.33 on November 20, 2026, capping a 41.5% pullback from its $1,195.94 52-week high. The sell-off followed SoftBank’s November 10 disclosure of a $3.73 billion power-procurement charge and Erste Group’s November 18 downgrade to Hold over 2027 order moderation. Yet core fundamentals accelerated in Q3 2026 (October 28), with orders surging 96% organically to $29.3 billion, backlog reaching $197 billion, and full-year free cash flow guidance raised to $16–$17 billion. Technicals are firmly bearish, while the long-term turbine and grid moat stays intact.",
+               "technical":  "GE Vernova’s chart as of November 20, 2026 shows a clear bearish breakdown. At $699.33 (down 7.53% on the day), price sits well beneath all three exponential moving averages (EMAs, which track average price trend over 50, 100, and 200 trading days): EMA 50 at $872.56 has already crossed below EMA 200 ($889.22), while EMA 100 remains at $911.14, signaling steep intermediate-term deterioration. Momentum confirms the sell-off: MACD (12/26/9, a trend-momentum gauge) stands at -44.34 below its -37.84 signal line with a -6.50 histogram, indicating persistent downward pressure. RSI 14 (a 0–100 momentum gauge where under 30 is oversold) fell to 31.98, nearing oversold territory without yet signaling a reversal. Volatility is stretched, with price closing beneath the lower Bollinger Band (a 20-day volatility channel spanning $709.27 to $926.67, midpoint $817.97) and resting in the bottom quarter of its $530.16–$1,195.94 52-week range. Volume hit 6.20 million shares—39% above the 4.47 million 20-day average—confirming heavy institutional selling. Immediate resistance sits near $709–$745 and $818, while the 52-week low at $530.16 anchors distant structural support."
+           },
+    "th":  {
+               "caution":  "การปรับฐานลงถึง 41.5% จากจุดสูงสุดสะท้อนว่าการลดมูลค่าหุ้น (multiple compression) สามารถกลบงบการเงินที่แข็งแกร่งได้เมื่อตลาดกังวลว่าคำสั่งซื้อจะชะลอตัว ข่าว SoftBank ปรับแผนจองอุปกรณ์ไฟฟ้าเมื่อ 10 พ.ย. และการลดคำแนะนำของ Erste Group เมื่อ 18 พ.ย. ตอกย้ำความเปราะบางของตลาดต่อแนวโน้มการลงทุนศูนย์ข้อมูลในปี 2027 ขณะเดียวกัน ธุรกิจ Wind ที่ยังขาดทุน EBITDA ราว $400–$500 ล้านในปีนี้ รวมถึงความเสี่ยงด้านการกู้เงินและควบรวม Trench Group มูลค่า $9.0 พันล้าน (ปิดดีลปลายปี 2027) ทำให้หุ้นยังมีโอกาสผันผวนตราบใดที่โมเมนตัมทางเทคนิคยังเป็นลบ",
+               "cons":  [
+                            "ราคาหุ้น $699.33 อยู่ในภาวะหลุดแนวรับทางเทคนิคชัดเจน ต่ำกว่าเส้นค่าเฉลี่ยสำคัญทั้งหมดพร้อมวอลุ่มขายหนาแน่น",
+                            "Erste Group ปรับลดคำแนะนำเป็น Hold เมื่อ 18 พ.ย. 2026 จากความกังวลว่าอัตราโตของคำสั่งซื้อใหม่ปี 2027 จะชะลอตัวเทียบกับมูลค่าหุ้นที่สูง",
+                            "การที่ SoftBank ลดแผนจัดซื้ออุปกรณ์ไฟฟ้าสำหรับศูนย์ข้อมูลในโอไฮโอเมื่อ 10 พ.ย. กระตุ้นความกังวลว่าผู้ให้บริการ AI อาจชะลอหรือเลื่อนโครงการไฟฟ้า",
+                            "กลุ่มธุรกิจ Wind ยังกดดันกำไรรวม โดยบริษัทยังคงคาดการณ์ขาดทุน EBITDA ทั้งปี 2026 ที่ $400–$500 ล้านแม้ไตรมาส 3 จะดีขึ้น"
+                        ],
+               "fundamental":  "GE Vernova ยืนอยู่ตรงคอขวดด้านพลังงานของโครงสร้างพื้นฐาน AI ผ่านกังหันก๊าซขนาดใหญ่และอุปกรณ์โครงข่ายไฟฟ้าแรงสูง งบ Q3 2026 (28 ต.ค. 2026) ออกมาดีกว่าคาด รายได้โต 27% YoY สู่ $12.64 พันล้าน ปรับปรุง EBITDA อยู่ที่ $1.9 พันล้าน (มาร์จิ้น 15.4%) และ GAAP EPS $4.81 โดยกลุ่ม Power (รายได้ $6.07 พันล้าน มาร์จิ้น EBITDA 21.4%) และ Electrification ($3.86 พันล้าน มาร์จิ้น 19.1%) เป็นหัวหอกหลัก ส่วน Wind พลิกมามีกำไร EBITDA เล็กน้อย $72 ล้านในไตรมาส 3 แต่ทั้งปียังคาดขาดทุน $400–$500 ล้าน คำสั่งซื้อโต 96% แบบออร์แกนิกสู่ $29.3 พันล้าน ดันแบ็กล็อกแตะ $197 พันล้าน (ยอดจองกังหันก๊าซ 122 GW) บริษัทปรับเพิ่มเป้ารายได้ทั้งปีเป็น $46.5–$47.5 พันล้าน มาร์จิ้น 13.5%–14.5% กระแสเงินสดอิสระ $16–$17 พันล้าน ขยายวงเงินซื้อหุ้นคืนเป็น $20 พันล้าน และเข้าซื้อ Trench Group มูลค่า $9.0 พันล้าน ตอกย้ำว่าป้อมปราการธุรกิจกังหันก๊าซและกริดยังแข็งแกร่งไม่เปลี่ยน",
+               "headline":  "GE Vernova ร่วงหลุดเส้นค่าเฉลี่ยสำคัญ แม้แบ็กล็อกแตะ $197 พันล้านและปรับเพิ่มเป้าปี 2026 รอบที่สาม",
+               "news":  [
+                            "28 ต.ค. 2026 — งบ Q3 2026 ดีกว่าคาด รายได้โต 27% YoY แตะ $12.64 พันล้าน คำสั่งซื้อโต 96% แบบออร์แกนิกสู่ $29.3 พันล้าน และแบ็กล็อกพุ่งเป็น $197 พันล้าน บริษัทปรับเพิ่มเป้าทั้งปี 2026 เป็นครั้งที่สาม (กระแสเงินสดอิสระสู่ $16–$17 พันล้าน) พร้อมเพิ่มวงเงินซื้อหุ้นคืนเป็น $20 พันล้าน",
+                            "28 ต.ค. 2026 — GE Vernova บรรลุดีลเข้าซื้อ Trench Group ผู้ผลิตอุปกรณ์กริดแรงสูงจาก Triton Partners มูลค่า $9.0 พันล้าน (ใช้เงินสดและหนี้อย่างละครึ่ง) คาดปิดดีลปลายปี 2027 เพื่อเพิ่มโรงงาน 11 แห่งและแบ็กล็อกราว $5 พันล้านให้ธุรกิจ Electrification",
+                            "10 พ.ย. 2026 — SoftBank เปิดเผยผลขาดทุนทางบัญชี $3.73 พันล้านผ่าน Silver Bands 7 LLC หลังปรับลดแผนจองอุปกรณ์ผลิตไฟฟ้าส่วนเกินสำหรับศูนย์ข้อมูล AI ในโอไฮโอ โดยเสียเงินมัดจำที่ขอคืนไม่ได้ $2.85 พันล้าน แม้ GE Vernova ยืนยันว่าไม่ได้รับผลกระทบทางการเงิน แต่หุ้นร่วงกว่า 6% จากความกังวลต่อการลงทุน AI ทั้งกลุ่ม",
+                            "17 พ.ย. 2026 — GE Vernova เปิดตัว HYpact-145g สวิตช์เกียร์ขนาดกะทัดรัด 145 kV ที่ปลอดก๊าซ SF6 สำหรับสถานีไฟฟ้าแรงสูงที่มีพื้นที่จำกัด เสริมแกร่งสายผลิตภัณฑ์ปรับปรุงโครงข่ายไฟฟ้า",
+                            "18–20 พ.ย. 2026 — Hans Engel นักวิเคราะห์จาก Erste Group ลดคำแนะนำ GEV จาก Buy เป็น Hold เมื่อ 18 พ.ย. โดยอ้างคำสั่งซื้อปี 2027 ที่อาจโตชะลอ มูลค่าหุ้นที่สูง และธุรกิจ Wind ที่ฟื้นตัวช้า ก่อนหุ้นจะดิ่ง 7.53% ปิดที่ $699.33 ในวันที่ 20 พ.ย. ตามแรงขายหุ้นโครงสร้างพื้นฐาน AI ทั้งตลาด"
+                        ],
+               "opportunity":  "การปรับลดความคาดหวังของตลาดอย่างรุนแรงสวนทางกับความชัดเจนของรายได้ระยะหลายปีที่เพิ่มขึ้น แบ็กล็อก $197 พันล้าน ยอดจองกังหันก๊าซที่กำลังเข้าใกล้ 130 GW ภายในสิ้นปี 2026 รวมถึงความขาดแคลนอุปกรณ์กริดที่เสริมด้วยดีล Trench Group และการเปิดตัวสวิตช์เกียร์ปลอด SF6 รุ่น HYpact-145g เมื่อ 17 พ.ย. ช่วยหนุนความต่อเนื่องของกำไรเกินกว่าความผันผวนระยะสั้น นอกจากนี้ เงินมัดจำจากลูกค้าที่ผลักดันกระแสเงินสดอิสระปี 2026 สู่ $16–$17 พันล้าน และวงเงินซื้อหุ้นคืน $20 พันล้าน ยังช่วยให้บริษัทมีกันชนรองรับความผันผวนเมื่อแรงขายและสัญญาณเทคนิคเริ่มนิ่งลง",
+               "opportunityCheck":  "โครงสร้างคะแนนโอกาส AI บนหน้าเว็บค่อนข้างสมเหตุสมผล โดยเฉพาะคะแนนด้านคอขวดและอำนาจตั้งราคาที่ให้ไว้สูง ซึ่งสะท้อนชัดจากการที่ SoftBank ต้องยอมเสียเงินมัดจำที่ขอคืนไม่ได้ และกระแสเงินสดอิสระปี 2026 ของ GE Vernova ที่พุ่งสู่ $16–$17 พันล้านจากเงินวางจองคิวผลิต อย่างไรก็ดี คะแนนสัดส่วนรายได้จาก AI ดูต่ำไปเล็กน้อยและควรขยับขึ้นบ้าง เพราะธุรกิจ Power และ Electrification ครองสัดส่วนเกือบ 78% ของรายได้ Q3 และแรงหนุนศูนย์ข้อมูลดันคำสั่งซื้อโต 96% สู่ $29.3 พันล้าน รวมถึงดีล Trench Group มูลค่า $9.0 พันล้านยิ่งเพิ่มแรงส่งด้านกริด ส่วนคะแนนการเติบโตของตลาดเหมาะสมแล้วเมื่อคำนึงถึงแนวโน้มคำสั่งซื้อปี 2027 ที่อาจชะลอลง",
+               "pros":  [
+                            "คำสั่งซื้อ Q3 2026 พุ่ง 96% แบบออร์แกนิกสู่ $29.3 พันล้าน ดันแบ็กล็อกรวมแตะ $197 พันล้าน และยอดจองกำลังผลิตก๊าซเป็น 122 GW",
+                            "ผู้บริหารปรับเพิ่มเป้าปี 2026 เป็นครั้งที่สามเมื่อ 28 ต.ค. คาดกระแสเงินสดอิสระ $16–$17 พันล้าน และเพิ่มวงเงินซื้อหุ้นคืนเท่าตัวเป็น $20 พันล้าน",
+                            "ดีลซื้อ Trench Group มูลค่า $9.0 พันล้าน (28 ต.ค.) ช่วยดึงซัพพลายเออร์บุชชิ่งและหม้อแปลงแรงสูงที่ขาดแคลนพร้อมแบ็กล็อก $5 พันล้านเข้ามาในเครือ",
+                            "การที่ SoftBank ต้องตัดจ่ายเงินมัดจำที่ขอคืนไม่ได้ $2.85 พันล้านเมื่อ 10 พ.ย. ตอกย้ำอำนาจต่อรองและเงื่อนไขสัญญาที่แข็งแกร่งของ GE Vernova"
+                        ],
+               "risks":  [
+                             "คำสั่งซื้อใหม่ปี 2027 อาจเติบโตชะลอลง หากผู้ให้บริการคลาวด์รายใหญ่เลื่อนหรือปรับขนาดโครงการไฟฟ้าสำหรับศูนย์ข้อมูล AI แบบกรณี SoftBank",
+                             "ธุรกิจ Wind ยังคงเป็นตัวฉุดผลประกอบการ โดยมีคาดการณ์ขาดทุน EBITDA ทั้งปี 2026 อยู่ที่ $400–$500 ล้าน",
+                             "ความเสี่ยงด้านการอนุมัติจากหน่วยงานกำกับ การก่อหนี้ และการควบรวมกิจการจากดีลซื้อ Trench Group มูลค่า $9.0 พันล้าน ซึ่งคาดปิดดีลปลายปี 2027",
+                             "แรงกดดันจากการปรับลดมูลค่าหุ้น (multiple compression) ในกลุ่มหุ้นโครงสร้างพื้นฐาน AI ที่มีความผันผวนสูงช่วงตลาดลดความเสี่ยง"
+                         ],
+               "summary":  "GE Vernova (GEV) ดิ่งลง 7.53% ปิดที่ $699.33 เมื่อ 20 พ.ย. 2026 รวมปรับฐานแล้ว 41.5% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $1,195.94 แรงขายถูกกดดันจากข่าว SoftBank บันทึกค่าใช้จ่าย $3.73 พันล้านจากการปรับแผนจองอุปกรณ์ไฟฟ้า (10 พ.ย.) และ Erste Group ลดคำแนะนำเป็น Hold (18 พ.ย.) เพราะกังวลคำสั่งซื้อปี 2027 ชะลอตัว อย่างไรก็ตาม ปัจจัยพื้นฐาน Q3 2026 (28 ต.ค.) ยังแข็งแกร่ง คำสั่งซื้อโต 96% แบบออร์แกนิกสู่ $29.3 พันล้าน แบ็กล็อกแตะ $197 พันล้าน และปรับเพิ่มเป้ากระแสเงินสดอิสระเป็น $16–$17 พันล้าน ภาพเทคนิคเป็นขาลงชัดเจน แต่ป้อมปราการธุรกิจระยะยาวยังมั่นคง",
+               "technical":  "กราฟเทคนิคของ GEV ณ วันที่ 20 พ.ย. 2026 อยู่ในภาวะขาลงชัดเจน ราคาปิด $699.33 (-7.53%) อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — ตัวชี้วัดแนวโน้มราคาเฉลี่ย 50, 100 และ 200 วันทำการ) ทั้งสามเส้น โดย EMA 50 ($872.56) ตัดลงต่ำกว่า EMA 200 ($889.22) แล้ว ขณะที่ EMA 100 อยู่ที่ $911.14 สะท้อนการอ่อนตัวรุนแรงในระยะกลาง ด้านโมเมนตัม MACD (12/26/9 — ตัวชี้วัดแรงส่งของแนวโน้ม) อยู่ที่ -44.34 ต่ำกว่าเส้น signal (-37.84) พร้อมค่า histogram ติดลบ -6.50 ชี้แรงขายยังต่อเนื่อง ส่วน RSI 14 (มาตรวัดแรงซื้อขายช่วง 0–100 หากต่ำกว่า 30 ถือว่าขายมากเกินไป) ลงมาที่ 31.98 ใกล้เขต oversold แต่ยังไม่เกิดสัญญาณกลับตัว ราคาปิดหลุดกรอบล่างของ Bollinger Bands (ช่องความผันผวน 20 วัน ช่วง $709.27–$926.67 เส้นกลาง $817.97) และอยู่โซนล่าง 25% ของกรอบ 52 สัปดาห์ ($530.16–$1,195.94) วอลุ่มพุ่ง 6.20 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 4.47 ล้านหุ้นราว 39% ยืนยันแรงเทขายหนัก แนวต้านระยะสั้นอยู่แถว $709–$745 และ $818 ส่วนแนวรับสำคัญระยะไกลอยู่ที่จุดต่ำสุด 52 สัปดาห์ $530.16"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-10-28",
+                        "publisher":  "GE Vernova",
+                        "title":  "GE Vernova reports strong third quarter 2026 financial performance, raises 2026 guidance, and increases share repurchase authorization",
+                        "url":  "https://www.gevernova.com/news/press-releases/ge-vernova-reports-strong-third-quarter-2026-financial-performance-raises-2026-financial"
+                    },
+                    {
+                        "date":  "2026-10-28",
+                        "publisher":  "GE Vernova",
+                        "title":  "GE Vernova to acquire Trench Group",
+                        "url":  "https://www.gevernova.com/news/press-releases/ge-vernova-to-acquire-trench-group"
+                    },
+                    {
+                        "date":  "2026-11-10",
+                        "publisher":  "Investing.com",
+                        "title":  "Why is GE Vernova stock sliding today?",
+                        "url":  "https://www.investing.com/analysis/why-is-ge-vernova-stock-sliding-today-200466858"
+                    },
+                    {
+                        "date":  "2026-11-17",
+                        "publisher":  "GE Vernova",
+                        "title":  "GE Vernova launches SF6-free compact switchgear for space-constrained high-voltage substations",
+                        "url":  "https://www.gevernova.com/news/press-releases/ge-vernova-launches-sf6-free-compact-switchgear-space-constrained-high-voltage-substations"
+                    },
+                    {
+                        "date":  "2026-11-18",
+                        "publisher":  "Investing.com",
+                        "title":  "Erste Group cuts GE Vernova stock rating on 2027 order outlook",
+                        "url":  "https://www.investing.com/news/stock-market-news/erste-group-cuts-ge-vernova-stock-rating-on-2027-order-outlook-93CH-3774028"
+                    }
+                ]
+}

@@ -1,0 +1,760 @@
+{
+    "ticker":  "MSFT",
+    "name":  "Microsoft",
+    "symbol":  "NASDAQ:MSFT",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:42:24Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:MSFT",
+                       "yahoo":  "MSFT",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:37:43Z",
+                       "price":  484.52,
+                       "open":  493.74,
+                       "high":  503.8,
+                       "low":  481.03,
+                       "volume":  47123700,
+                       "avgVolume20":  30004120,
+                       "changePct":  -2.77,
+                       "historyDays":  501,
+                       "ema50":  513.6,
+                       "ema100":  493.23,
+                       "ema200":  471.42,
+                       "bb":  {
+                                  "upper":  554.73,
+                                  "middle":  522.96,
+                                  "lower":  491.18
+                              },
+                       "macd":  {
+                                    "macd":  -6.05,
+                                    "signal":  -0.77,
+                                    "hist":  -5.27
+                                },
+                       "rsi14":  34.76,
+                       "high52w":  559.15,
+                       "low52w":  349.2,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         427.34
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         428.05
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         416.67
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         411.74
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         403.41
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         397.36
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         390.34
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         390.74
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         399.76
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         393.83
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         378.91
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         379.4
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         367.34
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         373.94
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         365.46
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         352.83
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         372.97
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         368.57
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         373.02
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         384.28
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         390.49
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         386.74
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         388.84
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         383.34
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         384.36
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         385.1
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         390.99
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         384.93
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         395.63
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         401.1
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         393.82
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         402.29
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         397.75
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         390.34
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         381.58
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         381.7
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         389.1
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         393.35
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         390.54
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         451.1
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         464.72
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         487.65
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         492.81
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         487.46
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         499.86
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         499.99
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         506.06
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         503.81
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         492.43
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         496.88
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         495.4
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         480.35
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         481.63
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         484.31
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         481.15
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         483.24
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         487.31
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         491.71
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         496.37
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         505.06
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         513.53
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         507.29
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         501.02
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         496.82
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         510.12
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         499.7
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         493.95
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         491.65
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         492.44
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         495.63
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         505.41
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         497.12
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         490.3
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         497.75
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         493.78
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         501.61
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         498
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         500.59
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         497.93
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         516.17
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         509.22
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         508.96
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         512.9
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         512.8
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         517.53
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         525.18
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         529.3
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         529.76
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         522.61
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         535.07
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         541.15
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         543.45
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         533.69
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         539.44
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         529.05
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         533.52
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         531.87
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         532.95
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         521.08
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         524.51
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         532.6
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         531.33
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         531.01
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         530.14
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         521.91
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         507.12
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         520.99
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         555.8
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         535.93
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         530.61
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         545.18
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         533.16
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         521.13
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         523
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         523.88
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         517.99
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         506.24
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         508.29
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         498.3
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         484.52
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          416.7,
+                                          417.14,
+                                          417.13,
+                                          416.91,
+                                          416.38,
+                                          415.64,
+                                          414.65,
+                                          413.71,
+                                          413.16,
+                                          412.4,
+                                          411.09,
+                                          409.85,
+                                          408.18,
+                                          406.84,
+                                          405.22,
+                                          403.16,
+                                          401.98,
+                                          400.67,
+                                          399.58,
+                                          398.98,
+                                          398.65,
+                                          398.18,
+                                          397.82,
+                                          397.25,
+                                          396.74,
+                                          396.29,
+                                          396.08,
+                                          395.64,
+                                          395.64,
+                                          395.86,
+                                          395.78,
+                                          396.03,
+                                          396.1,
+                                          395.87,
+                                          395.31,
+                                          394.78,
+                                          394.56,
+                                          394.51,
+                                          394.35,
+                                          396.58,
+                                          399.25,
+                                          402.72,
+                                          406.25,
+                                          409.43,
+                                          412.98,
+                                          416.39,
+                                          419.91,
+                                          423.2,
+                                          425.91,
+                                          428.7,
+                                          431.31,
+                                          433.24,
+                                          435.13,
+                                          437.06,
+                                          438.79,
+                                          440.53,
+                                          442.37,
+                                          444.3,
+                                          446.35,
+                                          448.65,
+                                          451.19,
+                                          453.39,
+                                          455.26,
+                                          456.89,
+                                          458.98,
+                                          460.57,
+                                          461.88,
+                                          463.05,
+                                          464.2,
+                                          465.44,
+                                          467,
+                                          468.18,
+                                          469.05,
+                                          470.18,
+                                          471.1,
+                                          472.3,
+                                          473.31,
+                                          474.38,
+                                          475.3,
+                                          476.9,
+                                          478.17,
+                                          479.38,
+                                          480.69,
+                                          481.95,
+                                          483.35,
+                                          484.99,
+                                          486.73,
+                                          488.41,
+                                          489.75,
+                                          491.53,
+                                          493.48,
+                                          495.44,
+                                          496.94,
+                                          498.6,
+                                          499.8,
+                                          501.12,
+                                          502.33,
+                                          503.53,
+                                          504.22,
+                                          505.01,
+                                          506.09,
+                                          507.08,
+                                          508.02,
+                                          508.89,
+                                          509.4,
+                                          509.31,
+                                          509.77,
+                                          511.57,
+                                          512.53,
+                                          513.24,
+                                          514.49,
+                                          515.22,
+                                          515.45,
+                                          515.75,
+                                          516.07,
+                                          516.14,
+                                          515.76,
+                                          515.46,
+                                          514.79,
+                                          513.6
+                                      ]
+                   },
+    "en":  {
+               "caution":  "The November selloff highlights two real structural debates beyond short-term market noise. First, Microsoft\u0027s capex is surging past $50 billion per quarter—pushing Q1 FY27 free cash flow down 27%—while third-party GPU delivery slips show it still depends on constrained external AI supply chains. Second, Anthropic\u0027s Claude Sheets and Meetings illustrate how autonomous AI agents could pressure per-seat Microsoft 365 renewals over time. Technically, breaking below the EMA 50 and EMA 100 on heavy volume signals caution; a sustained breach of the EMA 200 at $471.42 would mark a deeper trend shift.",
+               "cons":  [
+                            "Free cash flow fell 27% year-over-year to $18.63 billion in Q1 FY27 as capex reached $45.2 billion and is guided above $50 billion in Q2.",
+                            "Anthropic\u0027s November 10 rollout of Claude Sheets and Claude Meetings stoked investor fears that AI agents could erode per-seat Microsoft 365 revenue.",
+                            "A global Microsoft 365 outage lasting roughly 24 hours on November 12–13 disrupted Outlook, Teams, and Copilot across businesses and governments.",
+                            "Third-party GPU and neocloud capacity delivery delays constrained near-term Azure compute supply, pushing some expansion into calendar 2027."
+                        ],
+               "fundamental":  "Microsoft sits at the enterprise layer of the AI value chain, monetizing both cloud compute and workplace software. Its Q1 FY27 report on October 28, 2026 confirmed robust demand: total revenue rose 19% year-over-year to $92.3 billion, operating income climbed 21% to $45.9 billion (49.7% margin), and GAAP EPS increased 32% to $4.92 ($4.89 non-GAAP). Disclosing Azure in dollars for the first time, Microsoft reported 48% growth to $33.2 billion, guided Q2 Azure to 49%–50%, and posted $677 billion in commercial remaining performance obligations (+73%). At Ignite on November 17, Microsoft reinforced its switching-cost moat with Agent 365 governance, Azure AI Gateway multi-model routing, custom Cobalt 200 Arm chips, and lower-cost MAI Code 2 models. The core trade-off is capital intensity: capex hit $45.2 billion, is guided above $50 billion in Q2, and compressed free cash flow 27% to $18.63 billion.",
+               "headline":  "Strong Azure 48% growth collides with high-volume selloff and AI-seat fears",
+               "news":  [
+                            "Oct 28, 2026: Microsoft beat Q1 FY27 expectations with $92.3 billion in revenue (+19%) and $33.2 billion in Azure sales (+48%), while guiding Q2 Azure growth to 49%–50% and capex above $50 billion after third-party GPU capacity deliveries slipped.",
+                            "Nov 10, 2026: Anthropic launched Claude Sheets (beta), Claude Meetings, and Claude Whiteboards targeting workplace productivity, triggering a 2.2% drop in MSFT and wider software seat-compression fears; Microsoft separately committed $1 billion to Anthropic\u0027s $26 billion IPO-linked private placement.",
+                            "Nov 12–16, 2026: A roughly 24-hour global Microsoft 365 outage disrupted Outlook, Exchange Online, Teams, and Copilot for enterprises and governments. On November 16, Microsoft traced the failure to a latent July 2026 gateway lock-contention bug amplified by reduced capacity and a Teams failover.",
+                            "Nov 17–20, 2026: At Microsoft Ignite 2026, Microsoft launched in-house MAI Code 2 and Decision 1.1 models as lower-cost alternatives to OpenAI and Anthropic, alongside generally available Azure Cobalt 200 custom Arm VMs, Azure AI Gateway, Copilot Workspaces, and Agent 365.",
+                            "Nov 18–20, 2026: Despite MSFT sliding to $484.52 on November 20 with volume 57% above average, major Wall Street brokerages including Morgan Stanley, RBC Capital, Bank of America, Jefferies, Stifel, and TD Cowen maintained positive ratings centered on Azure\u0027s backlog."
+                        ],
+               "opportunity":  "For long-term AI infrastructure investors, the 13.3% pullback from $559.15 separates sentiment swings from hard enterprise demand. Commercial backlog jumped 73% to $677 billion, Azure is accelerating toward 49%–50% growth, and Ignite 2026 strengthened Microsoft\u0027s switching-cost moat by turning Copilot, Agent 365, and Azure AI Gateway into a multi-model control plane where customers can run MAI, OpenAI, or Anthropic models on Azure. Custom Cobalt 200 silicon and in-house MAI models also improve long-run inference margins. Technically, approaching the EMA 200 ($471.42) with RSI 14 near oversold (34.76) creates a closely watched stabilization zone.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile looks largely sound, but AI revenue exposure now appears understated and should move higher. On October 28, Microsoft disclosed Azure surging 48% to $33.2 billion, Microsoft Cloud hitting $63.9 billion, Foundry revenue tripling sequentially, and commercial backlog reaching $677 billion—showing AI is already a primary growth engine. Keeping bottleneck and pricing power restrained still makes sense, however, as third-party GPU delivery delays highlighted supply reliance and Anthropic\u0027s new office tools test per-seat Microsoft 365 pricing. Optionality remains well supported by Cobalt 200 silicon and MAI models.",
+               "pros":  [
+                            "Azure revenue accelerated 48% year-over-year to $33.2 billion in Q1 FY27 (October 28), with Q2 guidance raised to 49%–50% constant currency.",
+                            "Commercial remaining performance obligations jumped 73% year-over-year to $677 billion, underscoring deep multi-year enterprise cloud commitments.",
+                            "Operating income grew 21% to $45.9 billion (49.7% margin), proving Microsoft still protects profitability amid massive AI infrastructure investment.",
+                            "Ignite 2026 (November 17) expanded lock-in and cost control via custom Cobalt 200 chips, in-house MAI Code 2 models, and Agent 365 governance."
+                        ],
+               "risks":  [
+                             "AI capex exceeding $50 billion per quarter could keep free cash flow depressed if enterprise AI monetization scales slower than depreciation.",
+                             "AI-native workplace rivals such as Anthropic\u0027s Claude productivity suite could curb Microsoft 365 seat growth or pricing power.",
+                             "Recurring third-party GPU and data-center capacity bottlenecks could delay Azure revenue conversion into calendar 2027.",
+                             "High-profile cloud reliability incidents like the November 12–13 Microsoft 365 outage and ongoing FTC/EU cloud-licensing probes could add enterprise friction."
+                         ],
+               "summary":  "Microsoft (MSFT) shares dropped 13.3% from their $559.15 52-week high to $484.52 on November 20, 2026, sliding below key moving averages on heavy selling volume. The pullback contrasts sharply with strong Q1 FY27 results on October 28, where revenue rose 19% to $92.3 billion, Azure jumped 48% to $33.2 billion, and commercial backlog surged 73% to $677 billion. Near-term pressure reflects Anthropic\u0027s November 10 launch of Claude Sheets and Meetings, a 24-hour Microsoft 365 outage on November 12–13, and investor concern over $50 billion+ quarterly AI capital spending.",
+               "technical":  "MSFT shows a bearish short-to-medium-term breakdown as of November 20, 2026, closing down 2.77% at $484.52. On trend, the three Exponential Moving Averages (EMAs — trend lines tracking average price over 50, 100, and 200 days) remain bullishly stacked at $513.60, $493.23, and $471.42, yet price has sliced beneath both the EMA 50 and EMA 100. That leaves the EMA 200 ($471.42) as critical long-term support, with $493–$514 now acting as overhead resistance. Momentum confirms downside control: MACD (a trend-momentum gauge comparing two moving averages) sits deeply negative at -6.05 versus its -0.77 signal line, producing a widening -5.27 histogram. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) stands at 34.76—weak and nearing oversold, though not yet signaling exhaustion. On volatility, closing below the lower Bollinger Band (a 20-day volatility envelope from $491.18 to $554.73, middle $522.96) flags stretched near-term selling. Price now sits 13.3% off its $559.15 52-week high and at 64.5% of its $349.20–$559.15 range. Volume of 47.12 million shares—57% above the 30.00 million 20-day average—confirms institutional distribution rather than thin drift."
+           },
+    "th":  {
+               "caution":  "แรงขายในเดือนพฤศจิกายนสะท้อนประเด็นเชิงโครงสร้างสองเรื่องที่ต้องติดตามจริงจัง หนึ่งคือ CapEx ที่เร่งเกิน $50,000 ล้านต่อไตรมาสจนกดกระแสเงินสดอิสระ Q1 FY27 ลดลง 27% ขณะที่การส่งมอบ GPU จากคู่ค้าล่าช้าแสดงว่าบริษัทยังพึ่งพาซัพพลายเชนภายนอกที่ตึงตัว สองคือ Claude Sheets และ Meetings ของ Anthropic ตอกย้ำความเสี่ยงที่ AI Agent อาจลดจำนวนไลเซนส์รายหัวของ Microsoft 365 ในระยะยาว ด้านกราฟ การหลุดทั้ง EMA 50 และ EMA 100 พร้อมวอลุ่มหนาเป็นสัญญาณเตือน หากหลุด EMA 200 ที่ $471.42 แนวโน้มใหญ่จะเสียหายมากขึ้น",
+               "cons":  [
+                            "กระแสเงินสดอิสระ Q1 FY27 ลดลง 27% YoY เหลือ $18.63 พันล้าน จาก CapEx ที่สูงถึง $45.2 พันล้าน และคาดเกิน $50 พันล้านใน Q2",
+                            "การเปิดตัว Claude Sheets และ Claude Meetings ของ Anthropic วันที่ 10 พ.ย. จุดกระแสกังวลว่า AI Agent จะกดดันยอดไลเซนส์รายหัว Microsoft 365",
+                            "เหตุการณ์ Microsoft 365 ล่มทั่วโลกเกือบ 24 ชั่วโมงวันที่ 12–13 พ.ย. กระทบทั้ง Outlook, Teams และ Copilot ในภาคธุรกิจและภาครัฐ",
+                            "ความล่าช้าในการส่งมอบ GPU และกำลังประมวลผลจากผู้ให้บริการภายนอกจำกัดซัพพลาย Azure ระยะสั้นและเลื่อนการขยายบางส่วนไปปี 2027"
+                        ],
+               "fundamental":  "Microsoft ยืนอยู่ชั้นซอฟต์แวร์และคลาวด์องค์กรของห่วงโซ่ AI ทำรายได้ทั้งจากโครงสร้างพื้นฐานคลาวด์และชุดซอฟต์แวร์ทำงาน งบ Q1 FY27 วันที่ 28 ต.ค. 2026 ยืนยันความต้องการแกร่ง รายได้รวมโต 19% YoY แตะ $92.3 พันล้าน กำไรจากการดำเนินงานโต 21% ที่ $45.9 พันล้าน (มาร์จิ้น 49.7%) และ GAAP EPS โต 32% ที่ $4.92 (Non-GAAP $4.89) โดยเปิดเผยตัวเลข Azure เป็นดอลลาร์ครั้งแรกที่ $33.2 พันล้าน (+48%) พร้อมคาดการณ์ Q2 โต 49%–50% และมียอดสัญญาค้างรับองค์กร (RPO) พุ่ง 73% แตะ $677 พันล้าน ในงาน Ignite 17 พ.ย. บริษัทยังเสริมเกราะ switching costs ด้วย Agent 365, Azure AI Gateway, ชิป Arm Cobalt 200 และโมเดล MAI Code 2 ที่ต้นทุนต่ำกว่า แลกกับการใช้ทุนมหาศาลที่ CapEx แตะ $45.2 พันล้านและคาดทะลุ $50 พันล้านใน Q2 จนกดกระแสเงินสดอิสระลง 27% เหลือ $18.63 พันล้าน",
+               "headline":  "Azure โตแรง 48% สวนทางแรงขายวอลุ่มหนาและกระแสกังวลซอฟต์แวร์ AI",
+               "news":  [
+                            "28 ต.ค. 2026: Microsoft รายงานงบ Q1 FY27 ดีกว่าคาดด้วยรายได้ $92.3 พันล้าน (+19%) และ Azure $33.2 พันล้าน (+48%) พร้อมให้กรอบ Q2 Azure โต 49%–50% และ CapEx เกิน $50 พันล้านหลังการส่งมอบกำลัง GPU จากคู่ค้าล่าช้า",
+                            "10 พ.ย. 2026: Anthropic เปิดตัว Claude Sheets (beta), Claude Meetings และ Claude Whiteboards ชนชุดสำนักงานโดยตรง กดหุ้น MSFT ร่วง 2.2% ท่ามกลางแรงขายกลุ่มซอฟต์แวร์ ขณะที่ Microsoft ร่วมลงเงิน $1 พันล้านในรอบเพิ่มทุนเฉพาะเจาะจง $26 พันล้านรับ IPO ของ Anthropic",
+                            "12–16 พ.ย. 2026: Microsoft 365 ล่มทั่วโลกราว 24 ชั่วโมง กระทบ Outlook, Exchange Online, Teams และ Copilot ขององค์กรและหน่วยงานรัฐ ก่อนที่ Microsoft จะชี้แจงวันที่ 16 พ.ย. ว่าเกิดจากบั๊กเกตเวย์ตั้งแต่ ก.ค. 2026 ซ้ำเติมด้วยความจุลดลงและการสลับทราฟฟิกของ Teams",
+                            "17–20 พ.ย. 2026: งาน Microsoft Ignite 2026 เปิดตัวโมเดลในบ้าน MAI Code 2 และ Decision 1.1 ชูจุดขายต้นทุนต่ำกว่า OpenAI และ Anthropic พร้อมเปิดใช้งานจริงชิป Arm Cobalt 200 VMs, Azure AI Gateway, Copilot Workspaces และ Agent 365",
+                            "18–20 พ.ย. 2026: แม้ MSFT ปรับลงมาปิด $484.52 วันที่ 20 พ.ย. บนปริมาณซื้อขายสูงกว่าค่าเฉลี่ย 57% แต่โบรกเกอร์ชั้นนำทั้ง Morgan Stanley, RBC Capital, Bank of America, Jefferies, Stifel และ TD Cowen ยังคงมุมมองเชิงบวกจากยอด backlog ของ Azure"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนโครงสร้างพื้นฐาน AI ระยะยาว การย่อตัว 13.3% จากจุดสูงสุด $559.15 แยกความผันผวนเชิงจิตวิทยาออกจากอุปสงค์องค์กรจริงอย่างชัดเจน ยอด backlog องค์กรโต 73% แตะ $677 พันล้าน และ Azure เร่งตัวสู่ 49%–50% ขณะที่งาน Ignite 2026 เสริมความแข็งแกร่งของ switching costs ด้วยการปั้น Copilot, Agent 365 และ Azure AI Gateway ให้เป็นศูนย์ควบคุมแบบหลายโมเดลที่ลูกค้าเลือกรันได้ทั้ง MAI, OpenAI หรือ Anthropic บน Azure ส่วนชิป Cobalt 200 และโมเดล MAI ยังช่วยลดต้นทุนระยะยาว ด้านเทคนิค ราคาที่เข้าใกล้ EMA 200 ($471.42) พร้อม RSI 14 ที่ 34.76 เป็นโซนฐานสำคัญที่ตลาดจับตาการทรงตัว",
+               "opportunityCheck":  "ภาพรวมคะแนนโอกาส AI ของหน้าเว็บค่อนข้างสมเหตุสมผล แต่ด้านสัดส่วนรายได้จาก AI (AI revenue exposure) ดูต่ำไปและควรปรับขึ้น เพราะงบวันที่ 28 ต.ค. แสดงชัดว่า Azure โตเร่งถึง 48% แตะ $33.2 พันล้าน Microsoft Cloud แตะ $63.9 พันล้าน รายได้ Foundry โตกว่า 3 เท่าเทียบไตรมาสก่อน และมี backlog องค์กรถึง $677 พันล้าน สะท้อนว่า AI เป็นเครื่องยนต์หลักของรายได้แล้ว ขณะที่การคงคะแนนด้านคอขวดและอำนาจกำหนดราคาไว้ระดับกลางยังเหมาะสม เพราะการส่งมอบ GPU คู่ค้าล่าช้าและชุดออฟฟิศใหม่ของ Anthropic กำลังทดสอบอำนาจตั้งราคารายหัวของ Microsoft 365 ส่วนด้านทางเลือกต่อยอด (optionality) มีน้ำหนักดีจากชิป Cobalt 200 และโมเดล MAI",
+               "pros":  [
+                            "รายได้ Azure เร่งโต 48% YoY แตะ $33.2 พันล้านใน Q1 FY27 (28 ต.ค.) พร้อมปรับคาดการณ์ Q2 เป็นโต 49%–50% ในสกุลเงินคงที่",
+                            "ยอดสัญญาค้างรับเชิงพาณิชย์ (Commercial RPO) พุ่ง 73% YoY แตะ $677 พันล้าน ตอกย้ำการล็อกสัญญาระยะยาวของลูกค้าองค์กร",
+                            "กำไรจากการดำเนินงานโต 21% แตะ $45.9 พันล้าน (มาร์จิ้น 49.7%) แสดงถึงวินัยการทำกำไรท่ามกลางการลงทุน AI ขนาดใหญ่",
+                            "งาน Ignite 2026 (17 พ.ย.) เสริมทั้งการผูกมัดลูกค้าและลดต้นทุนด้วยชิป Cobalt 200, โมเดล MAI Code 2 และระบบกำกับ Agent 365"
+                        ],
+               "risks":  [
+                             "งบลงทุน AI ที่เกิน $50 พันล้านต่อไตรมาสอาจกดดันกระแสเงินสดอิสระยืดเยื้อ หากการทำเงินจาก AI องค์กรโตไม่ทันค่าเสื่อมราคา",
+                             "คู่แข่งชุดสำนักงานพลัง AI เช่น Claude Sheets และ Meetings ของ Anthropic อาจชะลอการเติบโตของจำนวนที่นั่งและอำนาจขึ้นราคา Microsoft 365",
+                             "คอขวดการส่งมอบ GPU และศูนย์ข้อมูลจากคู่ค้าภายนอกอาจทำให้การรับรู้รายได้ Azure ล่าช้าต่อไปถึงปี 2027",
+                             "เหตุระบบล่มระดับโลกอย่างกรณี Microsoft 365 วันที่ 12–13 พ.ย. และแรงตรวจสอบด้านไลเซนส์คลาวด์จาก FTC/EU อาจสร้างแรงเสียดทานกับลูกค้าองค์กร"
+                         ],
+               "summary":  "หุ้น Microsoft (MSFT) ร่วงลง 13.3% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $559.15 มาปิด $484.52 วันที่ 20 พ.ย. 2026 หลุดเส้นค่าเฉลี่ยสำคัญพร้อมวอลุ่มขายหนาแน่น สวนทางงบ Q1 FY27 วันที่ 28 ต.ค. ที่ยังแกร่ง โดยรายได้รวมโต 19% แตะ $92.3 พันล้าน Azure พุ่ง 48% แตะ $33.2 พันล้าน และยอดสัญญาค้างรับองค์กรโต 73% แตะ $677 พันล้าน แรงกดดันระยะสั้นมาจาก Anthropic เปิดตัว Claude Sheets และ Meetings วันที่ 10 พ.ย., เหตุ Microsoft 365 ล่ม 24 ชั่วโมงวันที่ 12–13 พ.ย. และความกังวลต่องบลงทุน AI ที่ทะลุ $50 พันล้านต่อไตรมาส",
+               "technical":  "สัญญาณเทคนิค MSFT ณ วันที่ 20 พ.ย. 2026 อยู่ในภาวะขาลงระยะสั้นถึงกลาง โดยปิดลบ 2.77% ที่ $484.52 ด้านแนวโน้ม เส้นค่าเฉลี่ยเคลื่อนที่ EMA (Exponential Moving Average — เส้นแนวโน้มราคาเฉลี่ย 50, 100 และ 200 วัน) ยังเรียงตัวขาขึ้นที่ $513.60, $493.23 และ $471.42 แต่ราคาหลุดลงใต้ทั้ง EMA 50 และ EMA 100 ทำให้ EMA 200 ($471.42) เป็นแนวรับระยะยาวสำคัญ ส่วนช่วง $493–$514 พลิกเป็นแนวต้าน ด้านโมเมนตัม MACD (ตัวชี้วัดโมเมนตัมจากการเทียบเส้นค่าเฉลี่ยสองเส้น) ติดลบลึกที่ -6.05 ต่ำกว่าเส้น Signal (-0.77) จน Histogram กว้างลงเป็น -5.27 สะท้อนแรงขายที่ยังเร่งตัว ขณะที่ RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 คือเขตขายมากเกินไป) อยู่ที่ 34.76 อ่อนแรงใกล้เขต oversold แต่ยังไม่ถึงจุดสะเด็ดน้ำ ด้านความผันผวน การปิดต่ำกว่ากรอบล่างของ Bollinger Bands (กรอบความผันผวน 20 วัน $491.18–$554.73 ค่ากลาง $522.96) บ่งชี้แรงเทขายที่ตึงตัวระยะสั้น ราคาอยู่ต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($559.15) 13.3% และอยู่ที่ 64.5% ของกรอบ $349.20–$559.15 โดยปริมาณซื้อขาย 47.12 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 30.00 ล้านหุ้นถึง 57% ยืนยันแรงขายของสถาบันอย่างชัดเจน"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-10-28",
+                        "publisher":  "Microsoft Investor Relations",
+                        "title":  "Microsoft Announces First Quarter Results",
+                        "url":  "https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast"
+                    },
+                    {
+                        "date":  "2026-10-28",
+                        "publisher":  "GeekWire",
+                        "title":  "Microsoft Azure revenue surges 48% to $33.2B, beating expectations as cloud and AI demand grows",
+                        "url":  "https://www.geekwire.com/2026/microsoft-azure-revenue-surges-48-to-33-2b-beating-expectations-as-cloud-and-ai-demand-grows/"
+                    },
+                    {
+                        "date":  "2026-11-10",
+                        "publisher":  "TechCrunch",
+                        "title":  "Anthropic launches Claude Meetings to turn workplace discussions into plans and tasks",
+                        "url":  "https://techcrunch.com/2026/11/10/anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and-tasks/"
+                    },
+                    {
+                        "date":  "2026-11-16",
+                        "publisher":  "The Guardian",
+                        "title":  "Microsoft identifies months-old bug as a root cause of global outage",
+                        "url":  "https://www.theguardian.com/technology/2026/nov/16/microsoft-identifies-months-old-bug-as-a-root-cause-of-global-outage"
+                    },
+                    {
+                        "date":  "2026-11-17",
+                        "publisher":  "Microsoft",
+                        "title":  "Ignite 2026: Building the frontier ecosystem",
+                        "url":  "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/"
+                    },
+                    {
+                        "date":  "2026-11-17",
+                        "publisher":  "GeekWire",
+                        "title":  "Microsoft jabs at OpenAI and Anthropic, touting cheaper, customizable AI models of its own",
+                        "url":  "https://www.geekwire.com/2026/microsoft-jabs-at-openai-and-anthropic-touting-cheaper-customizable-ai-models-of-its-own/"
+                    },
+                    {
+                        "date":  "2026-11-17",
+                        "publisher":  "Microsoft",
+                        "title":  "Azure Cobalt 200 VMs now available, proven on real workloads and built for the agentic era",
+                        "url":  "https://news.microsoft.com/source/features/innovation/azure-cobalt-200-vms-now-available-proven-on-real-workloads-and-built-for-the-agentic-era/"
+                    }
+                ]
+}

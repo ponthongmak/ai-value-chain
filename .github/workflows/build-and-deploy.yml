@@ -1,0 +1,55 @@
+name: Build data and deploy
+
+# Refreshes the financial figures (Yahoo Finance, no AI) on weekdays after the US close and on every push,
+# then deploys the page to GitHub Pages. AI news, analyses and judging are published from the owner's computer.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '30 22 * * 1-5'
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh financial figures (Yahoo Finance, no AI)
+        continue-on-error: true   # if Yahoo refuses, the committed figures are deployed
+        timeout-minutes: 20
+        shell: powershell
+        run: powershell -NoProfile -ExecutionPolicy Bypass -File tools\fundamentals.ps1 -All
+
+      - name: Rebuild data bundles
+        shell: powershell
+        run: powershell -NoProfile -ExecutionPolicy Bypass -File tools\build-analysis.ps1
+
+      - name: Collect site files
+        shell: powershell
+        run: |
+          New-Item -ItemType Directory -Force _site | Out-Null
+          Copy-Item index.html, ai-analysis.js, ai-news.js, fundamentals.js, judgments.js, glossary.js, .nojekyll -Destination _site
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

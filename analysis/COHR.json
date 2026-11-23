@@ -1,0 +1,775 @@
+{
+    "ticker":  "COHR",
+    "name":  "Coherent",
+    "symbol":  "NYSE:COHR",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:49:20Z",
+    "costUsd":  1.0411926,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NYSE:COHR",
+                       "yahoo":  "COHR",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:44:15Z",
+                       "price":  187.22,
+                       "open":  207,
+                       "high":  209.61,
+                       "low":  180.43,
+                       "volume":  14180000,
+                       "avgVolume20":  10393975,
+                       "changePct":  -12.9,
+                       "historyDays":  501,
+                       "ema50":  245.07,
+                       "ema100":  268.02,
+                       "ema200":  265.67,
+                       "bb":  {
+                                  "upper":  249.11,
+                                  "middle":  213.17,
+                                  "lower":  177.23
+                              },
+                       "macd":  {
+                                    "macd":  -13.12,
+                                    "signal":  -14.73,
+                                    "hist":  1.61
+                                },
+                       "rsi14":  38.92,
+                       "high52w":  440,
+                       "low52w":  130.42,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         417.43
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         421.9
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         376.99
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         401.93
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         355.94
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         354.77
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         363.58
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         385.03
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         413.84
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         382.81
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         378.85
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         389.57
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         425.48
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         381.22
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         392.5
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         407.25
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         380.56
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         391.22
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         394.47
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         368.65
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         333.36
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         335.7
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         314.13
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         317.05
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         327.24
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         324.5
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         307.39
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         310.77
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         299.38
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         276.96
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         277.6
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         285.4
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         317.22
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         312.19
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         313.22
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         282.39
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         271.31
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         243.33
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         222.05
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         249.06
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         262.89
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         288.14
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         323.73
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         328.22
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         334.22
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         379.13
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         325.15
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         328.57
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         355.64
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         327.23
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         325.83
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         351.22
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         306.43
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         287.47
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         290.03
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         289.52
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         275.49
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         288.14
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         294.37
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         295.39
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         279.2
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         277.83
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         272.03
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         268.64
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         264.41
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         281.86
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         301.88
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         303.48
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         293.17
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         305.37
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         266.5
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         271.17
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         289.93
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         295.98
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         317.36
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         321.52
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         310.39
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         300.6
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         290.61
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         295.83
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         282.45
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         292.21
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         287.81
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         319.19
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         337.04
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         333.64
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         338.36
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         334.56
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         302.35
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         312.62
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         288.02
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         289.98
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         263.32
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         250.6
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         232.9
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         232.02
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         231.8
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         237.53
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         207.82
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         209.29
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         221.5
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         235.79
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         239.59
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         237.22
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         210.32
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         199.95
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         207.49
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         195.09
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         169.76
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         192.81
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         225.19
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         214.66
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         234.51
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         232.08
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         218.15
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         203.43
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         210.86
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         212.84
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         214.94
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         187.22
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          335.87,
+                                          339.24,
+                                          340.72,
+                                          343.12,
+                                          343.63,
+                                          344.06,
+                                          344.83,
+                                          346.4,
+                                          349.05,
+                                          350.37,
+                                          351.49,
+                                          352.98,
+                                          355.83,
+                                          356.82,
+                                          358.22,
+                                          360.14,
+                                          360.94,
+                                          362.13,
+                                          363.4,
+                                          363.61,
+                                          362.42,
+                                          361.37,
+                                          359.52,
+                                          357.85,
+                                          356.65,
+                                          355.39,
+                                          353.51,
+                                          351.83,
+                                          349.78,
+                                          346.92,
+                                          344.2,
+                                          341.9,
+                                          340.93,
+                                          339.8,
+                                          338.76,
+                                          336.55,
+                                          333.99,
+                                          330.44,
+                                          326.18,
+                                          323.16,
+                                          320.8,
+                                          319.52,
+                                          319.68,
+                                          320.02,
+                                          320.57,
+                                          322.87,
+                                          322.96,
+                                          323.18,
+                                          324.45,
+                                          324.56,
+                                          324.61,
+                                          325.65,
+                                          324.9,
+                                          323.43,
+                                          322.12,
+                                          320.84,
+                                          319.07,
+                                          317.85,
+                                          316.93,
+                                          316.09,
+                                          314.64,
+                                          313.2,
+                                          311.58,
+                                          309.9,
+                                          308.11,
+                                          307.09,
+                                          306.88,
+                                          306.75,
+                                          306.22,
+                                          306.18,
+                                          304.63,
+                                          303.31,
+                                          302.79,
+                                          302.52,
+                                          303.1,
+                                          303.83,
+                                          304.08,
+                                          303.95,
+                                          303.42,
+                                          303.13,
+                                          302.32,
+                                          301.92,
+                                          301.37,
+                                          302.06,
+                                          303.44,
+                                          304.62,
+                                          305.94,
+                                          307.07,
+                                          306.88,
+                                          307.11,
+                                          306.36,
+                                          305.72,
+                                          304.05,
+                                          301.96,
+                                          299.25,
+                                          296.61,
+                                          294.07,
+                                          291.85,
+                                          288.56,
+                                          285.45,
+                                          282.94,
+                                          281.09,
+                                          279.46,
+                                          277.81,
+                                          275.16,
+                                          272.21,
+                                          269.67,
+                                          266.75,
+                                          262.95,
+                                          260.2,
+                                          258.82,
+                                          257.09,
+                                          256.21,
+                                          255.26,
+                                          253.8,
+                                          251.83,
+                                          250.22,
+                                          248.76,
+                                          247.43,
+                                          245.07
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Record quarter and $20B deal, but Nvidia turmoil drags COHR below every EMA",
+               "summary":  "Coherent\u0027s business is still growing fast, but the stock is falling. Fiscal Q1 2027 results (reported 4 Nov 2026) showed revenue of $2.37B, up 50% YoY. The company also signed a $20B five-year PhotonLink deal and guided Q2 revenue to $2.55-2.75B. Even so, the shares fell about 13% on 5 Nov and another 12.9% to $187.22 on 20 Nov. That second drop came when reports said the SEC was reviewing disclosures at Nvidia, Coherent\u0027s anchor customer and a $2B investor, shortly after Jensen Huang resigned as Nvidia\u0027s CEO. The price is below all three EMAs and 57% under its $440 52-week high.",
+               "pros":  [
+                            "Q1 FY27 revenue was $2.37B, up 50%, with datacenter \u0026 communications up 79% to about $1.95B.",
+                            "A new $20B five-year PhotonLink deal with an unnamed AI customer starts producing revenue in early 2028.",
+                            "Q2 guidance is $2.55-2.75B, and management targets a $3B quarter by the end of FY27 and a $4B quarter in FY28.",
+                            "In-house indium phosphide laser capacity doubled year on year and should more than double again by end-2027.",
+                            "The CEO and the Chairman together bought about $1.2M of stock in the week before 16 Nov."
+                        ],
+               "cons":  [
+                            "Capex was $776M in one quarter, trailing free cash flow was -$1.84B, and debt is $4.35B.",
+                            "The stock trades as an Nvidia proxy, and Nvidia faces a CEO exit and a reported (unconfirmed) SEC review.",
+                            "The 40.6% non-GAAP gross margin is still well short of the \u003e45% goal set for end-2028.",
+                            "Marvell\u0027s $115B all-stock deal for Lumentum creates a larger vertically integrated rival.",
+                            "COHR has had three double-digit daily moves in three weeks and trades below all its EMAs."
+                        ],
+               "opportunityCheck":  "The scores are mostly reasonable, but AI revenue exposure looks too low. Datacenter \u0026 communications made up about 82% of Q1 FY27 revenue and grew 79%, so AI-driven optics now dominate the mix. I would move exposure up the most. Optionality could also rise a little, because the $20B PhotonLink deal shows a newer platform turning into contracted revenue. The bottleneck score fits: customers prepay to secure indium phosphide laser capacity. Position is worth watching once the Marvell-Lumentum merger closes.",
+               "technical":  "Trend: the price of $187.22 is far below the EMA50 ($245.07), EMA100 ($268.02) and EMA200 ($265.67). EMAs are moving averages that give more weight to recent days. The EMA50 has crossed below both longer EMAs, which is a typical downtrend pattern. Momentum: MACD 12/26/9, a trend-momentum gauge, is -13.12 against a signal line of -14.73. That gives a histogram of +1.61, so selling pressure had been easing before 20 Nov, but the readings are still deeply negative and do not show a reversal. RSI 14, a 0-100 momentum gauge where under 30 means oversold, is 38.92: weak but not oversold. Volatility: the Bollinger Bands (the 20-day average plus or minus 2 standard deviations) run from $177.23 to $249.11, and the price is only about $10 above the lower band. It sits in the bottom fifth of the $130.42-$440 52-week range. Volume: 14.18M shares traded, about 1.36x the 20-day average, so volume confirmed the 20 Nov drop from a $207 open to near the $180.43 low. Support is at $180.43, $177.23, and then the 5 Nov close near $169.76. Resistance is at $207-213, then the EMA50 near $245.",
+               "fundamental":  "Coherent is one of the few optics makers that builds its own indium phosphide lasers, chips and finished 800G/1.6T transceivers. For fiscal Q1 2027 (quarter to 30 Sep), revenue was $2.37B, up 50% YoY. Non-GAAP gross margin was 40.6% (38.7% a year earlier), and non-GAAP EPS was $2.09 (vs $1.16). For Q2 it guided revenue to $2.55-2.75B and EPS to $2.28-2.48. It expects more than 60% pro-forma growth in FY27 and says calendar 2027 is nearly fully booked. The 1.6T ramp is under way with multiple customers. The $20B PhotonLink agreement adds a second anchor customer alongside Nvidia. The cost is high: $776M of capex in one quarter, negative operating cash flow and $4.35B of debt. Turning that spending into cash is the key test at the February 2027 report.",
+               "news":  [
+                            "4 Nov 2026: Q1 FY27 revenue was $2.37B (+50%), non-GAAP EPS $2.09 and Q2 guidance $2.55-2.75B. The 1.6T transceivers are ramping with multiple customers, and in-house InP capacity doubled year on year.",
+                            "4 Nov 2026: Coherent signed a roughly $20B five-year PhotonLink agreement with an unnamed AI customer, with revenue starting in early calendar 2028. Management called it a second anchor customer alongside Nvidia.",
+                            "5-6 Nov 2026: The shares fell about 13% on 5 Nov despite the beat, in a broad sell-off of AI optics stocks, then bounced about 13.6% on 6 Nov. J.P. Morgan reiterated its $385 target.",
+                            "Early Nov 2026: Marvell agreed to buy Lumentum in an all-stock deal valued at about $115B, creating a larger rival that combines lasers and DSP chips. The deal is expected to close in the first half of 2028.",
+                            "10-12 Nov 2026: A draft FCC rule would ban new models of Chinese-made optical transceivers, and Microsoft lobbied the White House against it. COHR held at $234.44 on 12 Nov after a 9% gain on 11 Nov.",
+                            "Week before 16 Nov 2026: CEO Jim Anderson and Chairman Enrico DiGirolamo bought about $1.2M of shares. The stock still fell 6.83% on 16 Nov as Nvidia\u0027s CEO change weighed on AI suppliers.",
+                            "20 Nov 2026: COHR fell 12.9% to $187.22 with no news specific to Coherent. The drop came after a WSJ report, not confirmed by the SEC or Nvidia, that the SEC is reviewing Nvidia\u0027s disclosures; Nvidia invested $2B in Coherent in 2026."
+                        ],
+               "caution":  "The latest falls came from the stock\u0027s link to Nvidia and from cash burn, not from weaker demand. Even so, both can hurt for months. Trailing free cash flow is -$1.84B and debt is $4.35B, so if AI capex slows, Coherent could be left with expensive capacity. If the reported SEC review or the CEO change at Nvidia leads to delayed orders, COHR would likely react sharply. Price is below all EMAs, volume confirmed the sell-off, and support at $177-180 is close. A break below it would leave the $169.76 low from 5 Nov as the next reference point.",
+               "opportunity":  "The company is executing well while the stock sells off. Revenue is growing 50%, calendar 2027 is nearly booked, customers are booking into 2028, and a $20B contract has been added. Analysts\u0027 median target was $420 before 20 Nov, and the 20 Nov drop had no company-specific trigger. In-house InP capacity is doubling again, which supports both margin targets and supply security. A draft US curb on Chinese transceivers could also tilt share toward US makers. A long-term holder may see the gap between fundamentals and price as worth tracking, but needs to watch cash conversion.",
+               "risks":  [
+                             "The AI-hardware sell-off spreads further from Nvidia\u0027s leadership change and the reported SEC review.",
+                             "Cash burn continues: $776M of quarterly capex with negative operating cash flow.",
+                             "A merged Marvell-Lumentum competes harder on price for 800G/1.6T transceivers.",
+                             "Gross margin stalls near 40% as the lower-margin transceiver mix grows.",
+                             "The PhotonLink customer is unnamed, which adds execution and concentration risk before revenue starts in 2028.",
+                             "US-China trade and FCC rules change supply chains or customer demand in unexpected ways."
+                         ]
+           },
+    "th":  {
+               "headline":  "งบดีและได้ดีล $20B แต่ปัญหาที่ Nvidia ฉุด COHR หลุดใต้ EMA ทุกเส้น",
+               "summary":  "ธุรกิจของ Coherent ยังโตแรง แต่ราคาหุ้นกลับร่วง งบไตรมาส 1 ปีงบ 2027 (ประกาศ 4 พ.ย. 2026) มีรายได้ $2.37B โต 50% YoY บริษัทยังได้สัญญา PhotonLink มูลค่า $20B ระยะ 5 ปี และให้เป้ารายได้ไตรมาส 2 ไว้ที่ $2.55-2.75B ถึงอย่างนั้นหุ้นยังลงราว 13% ในวันที่ 5 พ.ย. แล้วร่วงอีก 12.9% มาอยู่ที่ $187.22 ในวันที่ 20 พ.ย. รอบหลังนี้เกิดหลังมีรายงานว่า SEC กำลังตรวจสอบการเปิดเผยข้อมูลของ Nvidia ซึ่งเป็นลูกค้าหลักและเคยลงทุนใน Coherent $2B ไม่นานหลังจาก Jensen Huang ลาออกจากตำแหน่ง CEO ตอนนี้ราคาอยู่ใต้ EMA ทั้งสามเส้น และต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ $440 อยู่ 57%",
+               "pros":  [
+                            "รายได้ไตรมาส 1 ปีงบ 27 อยู่ที่ $2.37B โต 50% และกลุ่ม datacenter \u0026 communications โต 79% เป็นราว $1.95B",
+                            "ได้สัญญา PhotonLink $20B ระยะ 5 ปีกับลูกค้า AI ที่ไม่เปิดชื่อ เริ่มรับรู้รายได้ต้นปี 2028",
+                            "เป้ารายได้ไตรมาส 2 อยู่ที่ $2.55-2.75B ผู้บริหารตั้งเป้าไตรมาสละ $3B ภายในสิ้นปีงบ 27 และ $4B ในปีงบ 28",
+                            "กำลังผลิตเลเซอร์ indium phosphide ในบ้านเพิ่มเป็นสองเท่าจากปีก่อน และจะเพิ่มอีกกว่าเท่าตัวภายในสิ้นปี 2027",
+                            "CEO และประธานบอร์ดซื้อหุ้นรวมราว $1.2M ในสัปดาห์ก่อนวันที่ 16 พ.ย."
+                        ],
+               "cons":  [
+                            "capex ไตรมาสเดียว $776M กระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ $1.84B และมีหนี้ $4.35B",
+                            "หุ้นเคลื่อนไหวตาม Nvidia ซึ่งกำลังเปลี่ยน CEO และมีข่าวว่า SEC ตรวจสอบ (ยังไม่ยืนยัน)",
+                            "gross margin แบบ non-GAAP 40.6% ยังห่างจากเป้าเกิน 45% ที่ตั้งไว้ภายในสิ้นปี 2028",
+                            "ดีลแลกหุ้น $115B ที่ Marvell ซื้อ Lumentum จะสร้างคู่แข่งแบบครบวงจรที่ใหญ่ขึ้น",
+                            "สามสัปดาห์มีวันที่ราคาแกว่งเกิน 10% ถึงสามครั้ง และราคายังอยู่ใต้ EMA ทุกเส้น"
+                        ],
+               "opportunityCheck":  "คะแนนโดยรวมดูสมเหตุสมผล แต่คะแนน AI revenue exposure ดูต่ำไป กลุ่ม datacenter \u0026 communications คิดเป็นราว 82% ของรายได้ไตรมาส 1 ปีงบ 27 และโต 79% แปลว่าออปติกที่ขับเคลื่อนด้วย AI กลายเป็นรายได้หลักแล้ว ข้อนี้ควรปรับขึ้นมากที่สุด optionality ก็ขยับขึ้นได้อีกเล็กน้อย เพราะดีล PhotonLink $20B แสดงว่าแพลตฟอร์มใหม่เริ่มกลายเป็นรายได้ตามสัญญาแล้ว ส่วนคะแนน bottleneck เหมาะสมดี เพราะลูกค้ายอมจ่ายล่วงหน้าเพื่อจองกำลังผลิตเลเซอร์ InP สำหรับคะแนน position ควรจับตาหลังดีล Marvell-Lumentum ปิด",
+               "technical":  "แนวโน้ม: ราคา $187.22 ต่ำกว่า EMA50 ($245.07), EMA100 ($268.02) และ EMA200 ($265.67) ไปมาก EMA คือเส้นค่าเฉลี่ยที่ให้น้ำหนักกับวันล่าสุดมากกว่า ตอนนี้ EMA50 ตัดลงมาอยู่ใต้ EMA เส้นยาวทั้งสองเส้นแล้ว ซึ่งเป็นรูปแบบขาลงที่พบบ่อย โมเมนตัม: MACD 12/26/9 ซึ่งวัดแรงส่งของแนวโน้ม อยู่ที่ -13.12 สูงกว่าเส้น signal ที่ -14.73 ทำให้ histogram เป็น +1.61 แปลว่าแรงขายเริ่มชะลอก่อนวันที่ 20 พ.ย. แต่ค่ายังติดลบลึกและยังไม่ใช่สัญญาณกลับตัว RSI 14 ซึ่งเป็นมาตรวัดโมเมนตัม 0-100 (ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 38.92 คืออ่อนแอแต่ยังไม่ถึงโซน oversold ความผันผวน: Bollinger Bands (ค่าเฉลี่ย 20 วัน บวกลบ 2 ส่วนเบี่ยงเบนมาตรฐาน) อยู่ระหว่าง $177.23-$249.11 ราคาห่างขอบล่างเพียงราว $10 และอยู่ในช่วงล่างสุดหนึ่งในห้าของกรอบ 52 สัปดาห์ $130.42-$440 ปริมาณซื้อขาย: 14.18M หุ้น ราว 1.36 เท่าของค่าเฉลี่ย 20 วัน วอลุ่มจึงยืนยันการร่วงในวันที่ 20 พ.ย. ที่เปิด $207 แล้วปิดใกล้จุดต่ำ $180.43 แนวรับอยู่ที่ $180.43, $177.23 และราคาปิดวันที่ 5 พ.ย. ราว $169.76 แนวต้านอยู่ที่ $207-213 ถัดไปคือ EMA50 แถว $245",
+               "fundamental":  "Coherent เป็นผู้ผลิตออปติกไม่กี่รายที่ทำเองครบตั้งแต่เลเซอร์ indium phosphide ชิป ไปจนถึงทรานซีฟเวอร์ 800G/1.6T สำเร็จรูป ไตรมาส 1 ปีงบ 2027 (สิ้นสุด 30 ก.ย.) มีรายได้ $2.37B โต 50% YoY gross margin แบบ non-GAAP 40.6% (ปีก่อน 38.7%) EPS แบบ non-GAAP $2.09 (ปีก่อน $1.16) บริษัทให้เป้ารายได้ไตรมาส 2 ที่ $2.55-2.75B และ EPS $2.28-2.48 คาดว่ารายได้ pro-forma ปีงบ 27 จะโตเกิน 60% และบอกว่าปี 2027 แทบถูกจองเต็มแล้ว ทรานซีฟเวอร์ 1.6T กำลังเร่งส่งมอบให้ลูกค้าหลายราย สัญญา PhotonLink $20B เพิ่มลูกค้าหลักรายที่สองนอกจาก Nvidia แต่ต้นทุนก็สูง ได้แก่ capex ไตรมาสเดียว $776M กระแสเงินสดจากการดำเนินงานติดลบ และหนี้ $4.35B งบเดือน ก.พ. 2027 จะเป็นตัวชี้ว่าเงินลงทุนเหล่านี้เริ่มกลายเป็นเงินสดหรือยัง",
+               "news":  [
+                            "4 พ.ย. 2026: รายได้ไตรมาส 1 ปีงบ 27 อยู่ที่ $2.37B (+50%) EPS non-GAAP $2.09 และเป้าไตรมาส 2 ที่ $2.55-2.75B ทรานซีฟเวอร์ 1.6T เร่งส่งมอบให้ลูกค้าหลายราย และกำลังผลิต InP ในบ้านเพิ่มเป็นสองเท่าจากปีก่อน",
+                            "4 พ.ย. 2026: เซ็นสัญญา PhotonLink ราว $20B ระยะ 5 ปีกับลูกค้า AI ที่ไม่เปิดชื่อ เริ่มรับรู้รายได้ต้นปี 2028 ผู้บริหารเรียกว่าเป็นลูกค้าหลักรายที่สองนอกจาก Nvidia",
+                            "5-6 พ.ย. 2026: หุ้นลงราว 13% ในวันที่ 5 พ.ย. แม้งบออกมาดีกว่าคาด เพราะหุ้นออปติก AI ถูกเทขายทั้งกลุ่ม จากนั้นเด้งกลับราว 13.6% ในวันที่ 6 พ.ย. ส่วน J.P. Morgan ยืนเป้า $385",
+                            "ต้น พ.ย. 2026: Marvell ตกลงซื้อ Lumentum ด้วยการแลกหุ้นมูลค่าราว $115B ได้คู่แข่งที่ใหญ่ขึ้นและมีทั้งเลเซอร์และชิป DSP คาดว่าดีลจะปิดในครึ่งแรกของปี 2028",
+                            "10-12 พ.ย. 2026: ร่างกฎ FCC จะห้ามทรานซีฟเวอร์ออปติกรุ่นใหม่ที่ผลิตในจีน และ Microsoft ไปล็อบบี้ทำเนียบขาวให้ค้าน COHR ทรงตัวที่ $234.44 ในวันที่ 12 พ.ย. หลังขึ้น 9% เมื่อ 11 พ.ย.",
+                            "สัปดาห์ก่อน 16 พ.ย. 2026: CEO Jim Anderson และประธานบอร์ด Enrico DiGirolamo ซื้อหุ้นรวมราว $1.2M แต่หุ้นยังลง 6.83% ในวันที่ 16 พ.ย. เพราะการเปลี่ยน CEO ของ Nvidia กดดันซัพพลายเออร์ AI",
+                            "20 พ.ย. 2026: COHR ร่วง 12.9% มาอยู่ที่ $187.22 โดยไม่มีข่าวเฉพาะของบริษัท การร่วงเกิดหลัง WSJ รายงานว่า SEC กำลังตรวจสอบการเปิดเผยข้อมูลของ Nvidia ซึ่ง SEC และ Nvidia ยังไม่ยืนยัน ทั้งนี้ Nvidia ลงทุนใน Coherent $2B ในปี 2026"
+                        ],
+               "caution":  "การร่วงรอบนี้มาจากการผูกติดกับ Nvidia และการเผาเงินสด ไม่ใช่เพราะดีมานด์อ่อนลง แต่ทั้งสองเรื่องกดดันหุ้นได้นานหลายเดือน กระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ $1.84B และหนี้ $4.35B หากงบลงทุน AI ชะลอ บริษัทอาจเหลือกำลังผลิตราคาแพงค้างอยู่ ถ้าการตรวจสอบของ SEC ตามที่มีรายงาน หรือการเปลี่ยน CEO ของ Nvidia ทำให้คำสั่งซื้อเลื่อนออกไป COHR น่าจะตอบสนองแรง ราคาอยู่ใต้ EMA ทุกเส้น วอลุ่มยืนยันแรงขาย และแนวรับ $177-180 อยู่ใกล้มาก หากหลุดลงไป จุดอ้างอิงถัดไปคือจุดต่ำ $169.76 ของวันที่ 5 พ.ย.",
+               "opportunity":  "บริษัทยังทำผลงานได้ดีขณะที่หุ้นถูกเทขาย รายได้โต 50% ปี 2027 แทบถูกจองเต็ม ลูกค้าจองยาวไปถึงปี 2028 และเพิ่งได้สัญญา $20B ก่อนวันที่ 20 พ.ย. ค่ากลางราคาเป้าหมายของนักวิเคราะห์อยู่ที่ $420 และการร่วงวันนั้นก็ไม่มีสาเหตุจากตัวบริษัท กำลังผลิต InP ในบ้านกำลังจะเพิ่มอีกเท่าตัว ซึ่งช่วยทั้งเป้ามาร์จินและความมั่นคงด้านซัพพลาย ร่างมาตรการสหรัฐฯ ที่คุมทรานซีฟเวอร์จีนก็อาจดึงส่วนแบ่งตลาดมาทางผู้ผลิตสหรัฐฯ นักลงทุนระยะยาวอาจมองว่าช่องว่างระหว่างพื้นฐานกับราคาน่าติดตาม แต่ต้องดูการแปลงกำไรเป็นเงินสดควบคู่ไปด้วย",
+               "risks":  [
+                             "แรงเทขายหุ้นฮาร์ดแวร์ AI ลามต่อจากการเปลี่ยน CEO ของ Nvidia และข่าวการตรวจสอบของ SEC",
+                             "การเผาเงินสดยังไม่หยุด capex ไตรมาสละ $776M ขณะที่กระแสเงินสดจากการดำเนินงานติดลบ",
+                             "Marvell-Lumentum ที่รวมกันแล้วแข่งราคาทรานซีฟเวอร์ 800G/1.6T รุนแรงขึ้น",
+                             "gross margin ค้างอยู่แถว 40% เมื่อสัดส่วนทรานซีฟเวอร์ที่มาร์จินต่ำเพิ่มขึ้น",
+                             "ลูกค้า PhotonLink ไม่เปิดชื่อ เพิ่มความเสี่ยงด้านการส่งมอบและการพึ่งลูกค้ารายเดียวก่อนจะเริ่มมีรายได้ในปี 2028",
+                             "กฎการค้าสหรัฐฯ-จีนและกฎของ FCC เปลี่ยนซัพพลายเชนหรือดีมานด์ลูกค้าแบบคาดไม่ถึง"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "Coherent Corp. Reports First Quarter Fiscal 2027 Results",
+                        "publisher":  "Nasdaq (company press release)",
+                        "url":  "https://www.nasdaq.com/press-release/coherent-corp-reports-first-quarter-fiscal-2027-results-2026-11-04",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "Coherent Signed a $20 Billion Deal. The Market Sold It Off 13% Anyway",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/coherent-signed-20-billion-deal-114344042.html"
+                    },
+                    {
+                        "title":  "Coherent Stock Fell 8% in a Week. J.P. Morgan Sees 100% Upside From Here",
+                        "publisher":  "TIKR",
+                        "url":  "https://www.tikr.com/blog/coherent-stock-fell-8-in-a-week-j-p-morgan-sees-100-upside-from-here",
+                        "date":  "2026-11-07"
+                    },
+                    {
+                        "title":  "Why Should Coherent Stock Holders Watch This One Number?",
+                        "publisher":  "Trefis",
+                        "url":  "https://trefis.com/stock/cohr/articles/626212/why-should-coherent-stock-holders-watch-this-one-number/2026-11-18",
+                        "date":  "2026-11-18"
+                    },
+                    {
+                        "title":  "Lumentum and Applied Optoelectronics Fall 4% as Microsoft Pushes Back on Ban on Chinese Optical Parts; Coherent Holds Steady",
+                        "publisher":  "24/7 Wall St.",
+                        "url":  "https://247wallst.com/investing/2026/11/12/lumentum-and-applied-optoelectronics-fall-4-as-microsoft-pushes-back-on-ban-on-chinese-optical-parts-coherent-holds-steady/",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Coherent Stocks Sink 6.83% Despite Insider Buying and 79% Datacenter Growth",
+                        "publisher":  "TradingView / GuruFocus",
+                        "url":  "https://www.tradingview.com/news/gurufocus:31689c26b094b:0-coherent-stocks-sink-6-83-despite-insider-buying-and-79-datacenter-growth/",
+                        "date":  "2026-11-16"
+                    },
+                    {
+                        "title":  "Coherent stock falls 15% as the AI chip rout hits optical suppliers",
+                        "publisher":  "Startup Fortune",
+                        "url":  "https://startupfortune.com/coherent-stock-falls-15-as-the-ai-chip-rout-hits-optical-suppliers/",
+                        "date":  "2026-11-21"
+                    },
+                    {
+                        "title":  "Applied Optoelectronics Sinks 16%, Coherent Tumbles 14% Despite Strong Outlook, Lumentum Plunges 13% as AI Optical Stocks Slide",
+                        "publisher":  "24/7 Wall St.",
+                        "url":  "https://247wallst.com/investing/2026/11/05/applied-optoelectronics-sinks-16-coherent-tumbles-14-despite-strong-outlook-lumentum-plunges-13-as-ai-optical-stocks-slide/",
+                        "date":  "2026-11-05"
+                    }
+                ]
+}

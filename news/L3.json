@@ -1,0 +1,234 @@
+{
+    "layer":  3,
+    "name":  "AI Servers \u0026 Data Movement",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "generatedAt":  "2026-11-23T05:25:30Z",
+    "period":  [
+                   "2026-11-09",
+                   "2026-11-23"
+               ],
+    "costUsd":  null,
+    "brief":  {
+                  "en":  "AI infrastructure demand remained strong—highlighted by NVIDIA\u0027s $115.8 billion Q3 revenue and a wave of SC26 inference and interconnect launches from Arista, Marvell, Astera Labs, SiTime, and Supermicro—but governance and policy shocks dominated the period. Jensen Huang\u0027s sudden resignation, an SEC accounting probe into NVIDIA, stricter US BIS remote-compute export controls, and a reported 20% cut to Google\u0027s 2027 Broadcom TPU 8i orders weighed heavily on compute and server stocks. Meanwhile, soaring memory costs pushed AI server makers to reprice signed contracts by up to 45%, while a potential US import ban on Chinese optical transceivers created a regulatory tailwind for Coherent and Lumentum.",
+                  "th":  "ความต้องการโครงสร้างพื้นฐาน AI ยังคงแข็งแกร่ง นำโดยรายได้ Q3 ของ NVIDIA ที่พุ่งแตะ $115.8 พันล้าน และคลื่นผลิตภัณฑ์ด้าน AI inference กับชิปเชื่อมต่อความเร็วสูงในงาน SC26 จาก Arista, Marvell, Astera Labs, SiTime และ Supermicro ทว่าแรงสั่นสะเทือนด้านธรรมาภิบาลและนโยบายรัฐกลับเป็นปัจจัยหลักที่ครอบงำตลาดในช่วงนี้ ทั้งการลาออกกะทันหันของ Jensen Huang การสอบสวนทางบัญชีของ SEC ต่อ NVIDIA กฎควบคุมการเข้าถึงพลังประมวลผล AI ระยะไกลของสหรัฐฯ (BIS) และรายงานว่า Google ลดยอดสั่งซื้อชิป TPU 8i ปี 2027 ของ Broadcom ลง 20% ขณะเดียวกัน ต้นทุนหน่วยความจำที่พุ่งสูงทำให้ผู้ผลิตเซิร์ฟเวอร์ AI ต้องขอปรับขึ้นราคาหลังเซ็นสัญญาสูงสุดถึง 45% ส่วนแผนจำกัดการนำเข้า optical transceiver จากจีนของสหรัฐฯ กลายเป็นแรงหนุนสำคัญต่อ Coherent และ Lumentum"
+              },
+    "themes":  {
+                   "en":  [
+                              "NVIDIA Governance \u0026 SEC Probe",
+                              "US Export \u0026 Optics Curbs",
+                              "AI Server Cost Repricing",
+                              "SC26 Inference Interconnect Launches"
+                          ],
+                   "th":  [
+                              "ธรรมาภิบาล NVIDIA และสอบสวน SEC",
+                              "สหรัฐฯ คุมส่งออก AI และออปติกส์จีน",
+                              "ต้นทุนเมมโมรี่ดันราคาเซิร์ฟเวอร์ AI",
+                              "เปิดตัวเทคโนโลยีเชื่อมโยง SC26"
+                          ]
+               },
+    "items":  [
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "NVIDIA",
+                      "tickers":  [
+                                      "NVDA"
+                                  ],
+                      "title_en":  "NVIDIA Q3 revenue jumps 103% to $115.8B with $130B Q4 outlook",
+                      "title_th":  "NVIDIA รายได้ Q3 พุ่ง 103% แตะ $115.8 พันล้าน พร้อมคาดการณ์ Q4 ที่ $130 พันล้าน",
+                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+                      "why_en":  "Beating Q3 estimates alongside a $130 billion Q4 revenue guide and a $150 billion buyback shows hyperscale AI spending and the Rubin ramp remain intact despite executive turmoil.",
+                      "why_th":  "งบ Q3 ที่ออกมาสูงกว่าคาด พร้อมคาดการณ์รายได้ Q4 ที่ $130 พันล้าน และโครงการซื้อหุ้นคืนเพิ่มอีก $150 พันล้าน สะท้อนว่าความต้องการจากกลุ่ม hyperscaler และการเร่งผลิตชิปรุ่น Rubin ยังเดินหน้าต่อได้แม้บริษัทเผชิญความปั่นป่วนระดับผู้บริหาร"
+                  },
+                  {
+                      "date":  "2026-11-20",
+                      "impact":  "negative",
+                      "publisher":  "Reuters",
+                      "tickers":  [
+                                      "NVDA"
+                                  ],
+                      "title_en":  "US SEC investigating NVIDIA\u0027s accounting practices, Reuters reports",
+                      "title_th":  "Reuters รายงาน SEC สหรัฐฯ กำลังสอบสวนแนวปฏิบัติทางบัญชีของ NVIDIA",
+                      "url":  "https://www.reuters.com/technology/nvidias-accounting-focus-us-sec-investigation-sources-say-2026-11-20/",
+                      "why_en":  "An active SEC accounting inquiry adds serious regulatory and governance overhang on top of export-control scrutiny, even though core chip demand continues to surge.",
+                      "why_th":  "การสอบสวนด้านบัญชีของ SEC เพิ่มแรงกดดันด้านกฎระเบียบและธรรมาภิบาลซ้ำเติมความเสี่ยงเรื่องการคุมส่งออก แม้ธุรกิจชิปหลักจะยังเติบโตอย่างร้อนแรงก็ตาม"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "impact":  "negative",
+                      "publisher":  "NVIDIA",
+                      "tickers":  [
+                                      "NVDA"
+                                  ],
+                      "title_en":  "NVIDIA CEO Jensen Huang resigns; CFO Colette Kress named interim chief",
+                      "title_th":  "Jensen Huang ลาออกจากตำแหน่ง CEO ของ NVIDIA ตั้ง CFO Colette Kress รักษาการ",
+                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+                      "why_en":  "The abrupt exit of NVIDIA\u0027s co-founder and longtime leader raises execution and talent-retention uncertainty during the critical transition to Rubin rack-scale systems.",
+                      "why_th":  "การก้าวลงจากตำแหน่งอย่างกะทันหันของผู้ร่วมก่อตั้งและผู้นำหลักสร้างความไม่แน่นอนต่อการดำเนินกลยุทธ์และการรักษาบุคลากรสำคัญในช่วงเปลี่ยนผ่านสู่ระบบระดับแร็กรุ่น Rubin"
+                  },
+                  {
+                      "date":  "2026-11-19",
+                      "impact":  "negative",
+                      "publisher":  "Federal Register",
+                      "tickers":  [
+                                      "NVDA",
+                                      "AVGO",
+                                      "DELL",
+                                      "SMCI"
+                                  ],
+                      "title_en":  "US BIS curbs remote AI compute access and adds five-country licenses",
+                      "title_th":  "BIS สหรัฐฯ ออกกฎคุมการเข้าถึงพลังประมวลผล AI ระยะไกล และเพิ่มใบอนุญาตส่งออก 5 ประเทศ",
+                      "url":  "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
+                      "why_en":  "Requiring export licenses above 12 million TPP for restricted-entity remote compute and for shipments to Brazil, Indonesia, Malaysia, Singapore, and Thailand adds compliance friction to overseas AI cluster buildouts.",
+                      "why_th":  "การบังคับขอใบอนุญาตเมื่อดาต้าเซ็นเตอร์ต่างประเทศให้บริการประมวลผลระยะไกลแก่หน่วยงานต้องห้ามเกินเกณฑ์ 12 ล้าน TPP พร้อมเพิ่มข้อกำหนดใบอนุญาตสำหรับการส่งออกไปยังบราซิล อินโดนีเซีย มาเลเซีย สิงคโปร์ และไทย เพิ่มอุปสรรคด้านกฎเกณฑ์ต่อการขยายคลัสเตอร์ AI นอกสหรัฐฯ"
+                  },
+                  {
+                      "date":  "2026-11-20",
+                      "impact":  "negative",
+                      "publisher":  "Seeking Alpha",
+                      "tickers":  [
+                                      "AVGO"
+                                  ],
+                      "title_en":  "Google reportedly cuts 2027 Broadcom TPU 8i orders by 20%",
+                      "title_th":  "มีรายงาน Google ลดคำสั่งซื้อชิป TPU 8i ปี 2027 จาก Broadcom ลง 20%",
+                      "url":  "https://seekingalpha.com/news/4536762-google-shifts-2027-ai-chip-orders-from-broadcom-to-mediatek-ming-chi-kuo-says",
+                      "why_en":  "A reported 1-million-unit cut focused on higher-priced TPU 8i Max inference chips underscores Broadcom\u0027s customer concentration risk as Google shifts power capacity toward MediaTek-designed training TPUs.",
+                      "why_th":  "รายงานการลดยอดส่งมอบลงราว 1 ล้านชิ้น โดยเน้นไปที่รุ่นราคาสูงอย่าง TPU 8i Max สำหรับงาน inference ตอกย้ำความเสี่ยงด้านการพึ่งพาลูกค้ารายใหญ่ของ Broadcom ขณะที่ Google โยกกำลังไฟไปให้ชิปเทรนนิ่งที่ร่วมออกแบบกับ MediaTek มากขึ้น"
+                  },
+                  {
+                      "date":  "2026-11-22",
+                      "impact":  "mixed",
+                      "publisher":  "Financial Times",
+                      "tickers":  [
+                                      "DELL",
+                                      "SMCI"
+                                  ],
+                      "title_en":  "Dell and Supermicro hike AI server prices up to 45% post-contract",
+                      "title_th":  "Dell และ Supermicro ขอขึ้นราคาเซิร์ฟเวอร์ AI สูงสุด 45% หลังเซ็นสัญญาแล้ว",
+                      "url":  "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f",
+                      "why_en":  "Passing through a 400%+ jump in memory costs helps protect server margins, but triggered buyer backlash including an XTX Markets lawsuit against Dell over $62M–$70M in extra charges on a $549M order.",
+                      "why_th":  "การขอปรับขึ้นราคาเพื่อส่งผ่านต้นทุนหน่วยความจำที่พุ่งกว่า 400% ช่วยพยุงอัตรากำไรของผู้ผลิตเซิร์ฟเวอร์ แต่ก่อให้เกิดแรงต้านจากลูกค้า รวมถึงคดีที่ XTX Markets ฟ้อง Dell จากการเรียกเก็บเงินเพิ่ม $62–$70 ล้าน บนสัญญาเดิมมูลค่า $549 ล้าน"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "MarketWatch",
+                      "tickers":  [
+                                      "COHR",
+                                      "LITE"
+                                  ],
+                      "title_en":  "US advances potential import ban on Chinese optical transceivers",
+                      "title_th":  "สหรัฐฯ เดินหน้าแผนจำกัดการนำเข้า optical transceiver จากจีนแม้บิ๊กเทคคัดค้าน",
+                      "url":  "https://www.marketwatch.com/story/coherent-and-lumentum-stocks-climb-as-potential-u-s-import-ban-threatens-chinese-rivals-9a5737be",
+                      "why_en":  "Curbing Chinese rivals that supply roughly two-thirds of global optical transceivers would strengthen market share and pricing power for US suppliers Coherent and Lumentum despite near-term supply-chain friction.",
+                      "why_th":  "การสกัดคู่แข่งจีนที่ครองส่วนแบ่งตลาด optical transceiver โลกราวสองในสามจะช่วยหนุนส่วนแบ่งตลาดและอำนาจตั้งราคาให้ผู้ผลิตฝั่งสหรัฐฯ อย่าง Coherent และ Lumentum แม้ห่วงโซ่อุปทานอาจตึงตัวในระยะสั้นก็ตาม"
+                  },
+                  {
+                      "date":  "2026-11-19",
+                      "impact":  "positive",
+                      "publisher":  "U.S. SEC",
+                      "tickers":  [
+                                      "COHR"
+                                  ],
+                      "title_en":  "Coherent board authorizes $2 billion share repurchase program",
+                      "title_th":  "บอร์ด Coherent อนุมัติโครงการซื้อหุ้นคืนมูลค่า $2 พันล้าน",
+                      "url":  "https://www.sec.gov/Archives/edgar/data/820318/000119312526467737/d867801d8k.htm",
+                      "why_en":  "The $2 billion buyback signals management confidence in cash generation as AI data center demand keeps Coherent\u0027s 2027 optical transceiver capacity heavily booked.",
+                      "why_th":  "วงเงินซื้อหุ้นคืน $2 พันล้าน สะท้อนความมั่นใจของผู้บริหารต่อกระแสเงินสดในมือ ท่ามกลางคำสั่งซื้อ optical transceiver สำหรับดาต้าเซ็นเตอร์ AI ที่จองกำลังการผลิตปี 2027 ไว้แน่นแล้ว"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "Arista Networks",
+                      "tickers":  [
+                                      "ANET"
+                                  ],
+                      "title_en":  "Arista unveils 5nm R4 Series switches for distributed AI inferencing",
+                      "title_th":  "Arista เปิดตัวสวิตช์ตระกูล R4 Series สถาปัตยกรรม 5nm รองรับงาน distributed AI inferencing",
+                      "url":  "https://www.arista.com/en/company/news/press-release/21575-arista-announces-new-etherlink-offerings-for-distributed-inferencing",
+                      "why_en":  "Cutting power draw by up to 60% and adding 400G/800G coherent transport extends Arista\u0027s Etherlink footprint beyond back-end training clusters into front-end distributed AI inference.",
+                      "why_th":  "การลดการใช้พลังงานลงสูงสุด 60% พร้อมรองรับการส่งข้อมูลข้ามศูนย์ข้อมูลแบบ coherent 400G/800G ช่วยขยายตลาด Etherlink ของ Arista จากคลัสเตอร์เทรนนิ่งสู่เครือข่าย distributed AI inference ส่วนหน้า"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "Business Wire",
+                      "tickers":  [
+                                      "CRDO",
+                                      "MRVL"
+                                  ],
+                      "title_en":  "Credo and Marvell settle active electrical cable patent dispute",
+                      "title_th":  "Credo และ Marvell บรรลุข้อตกลงยุติข้อพิพาทสิทธิบัตรสายเชื่อมต่อ AEC",
+                      "url":  "https://www.businesswire.com/news/home/20261117966700/en/",
+                      "why_en":  "Resolving all of Marvell\u0027s pending USPTO challenges to Credo\u0027s AEC patents removes a key intellectual-property overhang on Credo\u0027s flagship copper connectivity business and ends litigation friction for both firms.",
+                      "why_th":  "การยุติคำร้องคัดค้านสิทธิบัตร AEC ทั้งหมดของ Marvell ต่อ USPTO ช่วยปลดล็อกความเสี่ยงทางกฎหมายสำคัญของธุรกิจสายเชื่อมต่อทองแดงหลักของ Credo และลดภาระข้อพิพาทของทั้งสองบริษัท"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "positive",
+                      "publisher":  "Marvell Technology",
+                      "tickers":  [
+                                      "MRVL"
+                                  ],
+                      "title_en":  "Marvell partners with Penguin Solutions on CXL and photonic AI memory",
+                      "title_th":  "Marvell จับมือ Penguin Solutions พัฒนาโซลูชันขยายหน่วยความจำ AI ด้วย CXL และ Photonic Fabric",
+                      "url":  "https://investor.marvell.com/news-and-events/press-releases/2026/11-16-2026-marvell-and-penguin-solutions-collaborate-to-address-data-center-ai-memory-and-accelerate-inference-at-scale",
+                      "why_en":  "Combining Marvell\u0027s Structera X controllers and Photonic Fabric with Penguin\u0027s MemoryAI appliances advances commercialization of multi-rack memory pooling, with photonic systems slated to sample in 2H 2027.",
+                      "why_th":  "การผสานชิปควบคุม Structera X และ Photonic Fabric ของ Marvell เข้ากับอุปกรณ์ MemoryAI ของ Penguin ช่วยผลักดันเทคโนโลยีแชร์หน่วยความจำข้ามแร็กสู่การใช้งานจริง โดยตั้งเป้าส่งตัวอย่างระบบโฟโตนิกส์ในช่วงครึ่งหลังปี 2027"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "positive",
+                      "publisher":  "Astera Labs",
+                      "tickers":  [
+                                      "ALAB"
+                                  ],
+                      "title_en":  "Astera Labs and Hyve integrate Orion rack-scale architecture for AI inference",
+                      "title_th":  "Astera Labs ร่วมมือ Hyve Solutions นำสถาปัตยกรรม Orion ลงแร็กเซิร์ฟเวอร์ AI inference",
+                      "url":  "https://ir.asteralabs.com/news-releases/news-release-details/hyve-solutions-and-astera-labs-collaborate-bring-ai-inference",
+                      "why_en":  "Pre-validating Astera\u0027s Scorpio X-Series switches in Hyve\u0027s Apex racks—delivering up to 89% higher tokens per second—expands Astera\u0027s reach into neoclouds and enterprise deployments starting early 2027.",
+                      "why_th":  "การนำสวิตช์ Scorpio X-Series ผ่านการรับรองร่วมกับแร็ก Apex ของ Hyve ซึ่งเพิ่มความเร็วในการประมวลผล token ได้สูงสุด 89% ช่วยขยายฐานลูกค้ากลุ่ม neocloud และองค์กรให้ Astera ตั้งแต่ต้นปี 2027"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "SiTime",
+                      "tickers":  [
+                                      "SITM"
+                                  ],
+                      "title_en":  "SiTime launches FemtoClock 4 and VersaClock 8 for 224G and PCIe 7",
+                      "title_th":  "SiTime เปิดตัวชิปจับเวลา FemtoClock 4 และ VersaClock 8 รองรับ 224G และ PCIe 7",
+                      "url":  "https://www.sitime.com/company/news/press-release/sitime-addresses-2-billion-opportunity-data-center-bandwidth-upgrades-two-new-clock-families",
+                      "why_en":  "New precision timing families built for 224G SerDes switches and PCIe 7 server links position SiTime to capture a $2 billion five-year serviceable market in AI data center upgrades.",
+                      "why_th":  "ชิปจับเวลาความแม่นยำสูงรุ่นใหม่สำหรับสวิตช์ 224G SerDes และบัส PCIe 7 ช่วยเปิดโอกาสให้ SiTime เจาะตลาดที่เข้าถึงได้มูลค่า $2 พันล้านภายใน 5 ปีจากการอัปเกรดแบนด์วิดท์ดาต้าเซ็นเตอร์ AI"
+                  },
+                  {
+                      "date":  "2026-11-18",
+                      "impact":  "positive",
+                      "publisher":  "Super Micro Computer",
+                      "tickers":  [
+                                      "SMCI"
+                                  ],
+                      "title_en":  "Supermicro ships first PCIe Gen 6 all-flash storage servers for AI",
+                      "title_th":  "Supermicro เริ่มส่งมอบเซิร์ฟเวอร์จัดเก็บข้อมูล PCIe Gen 6 all-flash รุ่นแรกสำหรับงาน AI",
+                      "url":  "https://www.supermicro.com/en/pressrelease/supermicro-ships-first-all-flash-storage-servers-delivering-pcie-gen-6-performance",
+                      "why_en":  "Becoming first to ship PCIe Gen 6 all-flash AI storage servers reinforces Supermicro\u0027s time-to-market advantage as high-density training and inference clusters require faster data feeding.",
+                      "why_th":  "การเป็นรายแรกที่เริ่มส่งมอบเซิร์ฟเวอร์จัดเก็บข้อมูลแบบ all-flash มาตรฐาน PCIe Gen 6 ตอกย้ำจุดแข็งด้านความเร็วในการออกผลิตภัณฑ์ของ Supermicro เพื่อรองรับคลัสเตอร์ AI ที่ต้องการการป้อนข้อมูลความเร็วสูงขึ้น"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "impact":  "positive",
+                      "publisher":  "GlobeNewswire",
+                      "tickers":  [
+                                      "OSS"
+                                  ],
+                      "title_en":  "One Stop Systems wins 10th defense order, lifting program total to $6M",
+                      "title_th":  "One Stop Systems คว้าคำสั่งซื้อด้านกลาโหมครั้งที่ 10 ดันมูลค่าโครงการสะสมแตะ $6 ล้าน",
+                      "url":  "https://www.globenewswire.com/news-release/2026/11/12/3091931/0/en/OSS-Receives-10th-Order-Since-May-2025-from-Leading-Defense-and-Intelligence-Contractor.html",
+                      "why_en":  "A $1 million follow-on production order for Gen 5 PCIe short-depth servers brings cumulative awards under the defense program since May 2025 to $6 million with further demand expected into 2027–2028.",
+                      "why_th":  "คำสั่งซื้อผลิตต่อเนื่องมูลค่า $1 ล้านสำหรับเซิร์ฟเวอร์ Gen 5 PCIe แบบทนทาน ดันยอดคำสั่งซื้อสะสมในโครงการกลาโหมนี้ตั้งแต่พฤษภาคม 2025 แตะ $6 ล้าน พร้อมแนวโน้มคำสั่งซื้อต่อเนื่องถึงปี 2027–2028"
+                  }
+              ]
+}

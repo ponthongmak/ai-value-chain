@@ -1,0 +1,22 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["stocks"],
+  "properties": {
+    "stocks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["ticker", "moat", "opp", "why_en", "why_th"],
+        "properties": {
+          "ticker": { "type": "string" },
+          "moat": { "type": "array", "items": { "type": "integer" }, "description": "tech, sw, net, scale, dur" },
+          "opp": { "type": "array", "items": { "type": "integer" }, "description": "exp, mkt, pos, bot, opt" },
+          "why_en": { "type": "string" },
+          "why_th": { "type": "string" }
+        }
+      }
+    }
+  }
+}

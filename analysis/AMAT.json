@@ -1,0 +1,754 @@
+{
+    "ticker":  "AMAT",
+    "name":  "Applied Materials",
+    "symbol":  "NASDAQ:AMAT",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:50:37Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:AMAT",
+                       "yahoo":  "AMAT",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:46:11Z",
+                       "price":  302.63,
+                       "open":  329.03,
+                       "high":  330.5,
+                       "low":  300.62,
+                       "volume":  14169700,
+                       "avgVolume20":  8521665,
+                       "changePct":  -10.71,
+                       "historyDays":  501,
+                       "ema50":  411.43,
+                       "ema100":  437.66,
+                       "ema200":  421.44,
+                       "bb":  {
+                                  "upper":  428.02,
+                                  "middle":  368.6,
+                                  "lower":  309.18
+                              },
+                       "macd":  {
+                                    "macd":  -26.12,
+                                    "signal":  -24.15,
+                                    "hist":  -1.97
+                                },
+                       "rsi14":  30.83,
+                       "high52w":  739.67,
+                       "low52w":  215.5,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         500.77
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         501.7
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         453.01
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         492.17
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         499.21
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         497.01
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         552.64
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         567.25
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         585.78
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         568.23
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         592.92
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         617.11
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         640.18
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         585.88
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         588.97
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         668
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         626.84
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         694.64
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         723
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         650.91
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         603.04
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         592.79
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         554.5
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         570.5
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         588.66
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         602.5
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         575.39
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         595.7
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         579.43
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         560.93
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         529.66
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         525.7
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         564.55
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         553.92
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         562.8
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         536.25
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         516.89
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         476.46
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         436.45
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         501.77
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         507.67
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         518.21
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         546.62
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         534.24
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         527.48
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         539.14
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         522.12
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         525.61
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         548.15
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         534.54
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         507.18
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         535.31
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         514.33
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         496.17
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         496.21
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         492.32
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         484.19
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         480.04
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         479.76
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         482.36
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         461.67
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         458.39
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         441.85
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         438.46
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         435.91
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         454.71
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         472.79
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         468.85
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         454.01
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         456.49
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         424.21
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         421.17
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         415.38
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         417.4
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         444.57
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         464.24
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         472.46
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         474.38
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         474.25
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         485
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         486.76
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         512.01
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         511.38
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         529.3
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         540.04
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         542.28
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         530.27
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         520.65
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         509.57
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         507.03
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         497.53
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         464.24
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         446.63
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         430.01
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         409.29
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         413.11
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         404.98
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         408.94
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         375.58
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         377.24
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         387.59
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         395.93
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         416
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         421.66
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         390.09
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         374.53
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         381.92
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         369.4
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         319.25
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         332.72
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         370.55
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         372.53
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         395.08
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         380.95
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         370.5
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         350.25
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         349.23
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         352.3
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         338.93
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         302.63
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          411.55,
+                                          415.09,
+                                          416.58,
+                                          419.54,
+                                          422.66,
+                                          425.58,
+                                          430.56,
+                                          435.92,
+                                          441.8,
+                                          446.76,
+                                          452.49,
+                                          458.95,
+                                          466.05,
+                                          470.75,
+                                          475.39,
+                                          482.94,
+                                          488.58,
+                                          496.66,
+                                          505.54,
+                                          511.24,
+                                          514.84,
+                                          517.9,
+                                          519.33,
+                                          521.34,
+                                          523.98,
+                                          527.06,
+                                          528.95,
+                                          531.57,
+                                          533.45,
+                                          534.53,
+                                          534.34,
+                                          534,
+                                          535.2,
+                                          535.93,
+                                          536.98,
+                                          536.95,
+                                          536.17,
+                                          533.83,
+                                          530.01,
+                                          528.9,
+                                          528.07,
+                                          527.68,
+                                          528.42,
+                                          528.65,
+                                          528.61,
+                                          529.02,
+                                          528.75,
+                                          528.63,
+                                          529.39,
+                                          529.59,
+                                          528.71,
+                                          528.97,
+                                          528.4,
+                                          527.13,
+                                          525.92,
+                                          524.6,
+                                          523.02,
+                                          521.33,
+                                          519.7,
+                                          518.24,
+                                          516.02,
+                                          513.76,
+                                          510.94,
+                                          508.1,
+                                          505.27,
+                                          503.28,
+                                          502.09,
+                                          500.79,
+                                          498.95,
+                                          497.29,
+                                          494.42,
+                                          491.55,
+                                          488.56,
+                                          485.77,
+                                          484.15,
+                                          483.37,
+                                          482.95,
+                                          482.61,
+                                          482.28,
+                                          482.39,
+                                          482.56,
+                                          483.71,
+                                          484.8,
+                                          486.54,
+                                          488.64,
+                                          490.75,
+                                          492.3,
+                                          493.41,
+                                          494.04,
+                                          494.55,
+                                          494.67,
+                                          493.47,
+                                          491.64,
+                                          489.22,
+                                          486.09,
+                                          483.22,
+                                          480.16,
+                                          477.36,
+                                          473.37,
+                                          469.6,
+                                          466.39,
+                                          463.62,
+                                          461.76,
+                                          460.18,
+                                          457.43,
+                                          454.18,
+                                          451.35,
+                                          448.14,
+                                          443.08,
+                                          438.75,
+                                          436.08,
+                                          433.59,
+                                          432.08,
+                                          430.07,
+                                          427.74,
+                                          424.7,
+                                          421.74,
+                                          419.01,
+                                          415.87,
+                                          411.43
+                                      ]
+                   },
+    "en":  {
+               "caution":  "The steep disconnect between booming earnings and a 59% drawdown from the $739.67 high warns against dismissing macro and cycle risks. Equipment makers are historically cyclical, and heavy distribution volume on November 20 shows institutional de-risking across AI hardware is still underway. Near-term shipments face physical ceilings from customer cleanroom availability and supply lead times, while U.S. export restrictions continue shrinking China below 25% of revenue and aiding non-U.S. toolmakers. Until price reclaims key moving averages, catching a falling knife carries elevated volatility.",
+               "cons":  [
+                            "Shares plunged 10.71% to $302.63 on November 20 and sit 59% below their $739.67 52-week high amid severe AI-sector multiple compression.",
+                            "Management flagged customer cleanroom space and component lead times as near-term gating factors capping how quickly AMAT can ship tools.",
+                            "China\u0027s share fell to 25% of Q4 sales and is guided below 25% in FY2027 as U.S. export curbs shift some mature-node share to non-U.S. rivals.",
+                            "Summit Insights downgraded AMAT to Hold on November 13, and at least 10 brokerages—including JPMorgan (cutting its target to $500)—trimmed price targets."
+                        ],
+               "fundamental":  "Fundamentally, AMAT\u0027s AI-infrastructure engine is accelerating even as its stock sells off. On November 12, 2026, AMAT reported record Q4 FY2026 revenue of $10.41 billion (+53% YoY) and full-year revenue of $34.45 billion (+21%), marking seven straight years of growth. Non-GAAP gross margin reached 50.6% (+250 bps YoY) and operating margin hit a record 35.3%, proving strong execution across deposition, etch, and advanced packaging for AI logic and HBM DRAM. Applied Global Services grew 26% to $1.90 billion, reinforcing sticky installed-base cash flows that funded $4.75 billion in FY2026 buybacks and dividends. With Q1 FY2027 revenue guided to $11.10 billion and calendar 2027 WFE demand projected up \u003e30%, the moat thesis remains intact despite cleanroom constraints and China tapering below 25% of sales.",
+               "headline":  "Record AI-driven Q4 results overshadowed by 10.7% chip selloff and bearish trend",
+               "news":  [
+                            "Nov 20, 2026: AMAT fell 10.71% to $302.63 on 1.66x normal volume during a broad semiconductor rout alongside double-digit declines in Lam Research, KLA, and Micron, driven by AI-spending ROI fears and multiple compression rather than AMAT-specific news.",
+                            "Nov 13, 2026: Summit Insights downgraded AMAT from Buy to Hold citing valuation and cleanroom limits, while at least 10 Wall Street firms cut price targets (including JPMorgan lowering its target from $660 to $500) even as Morningstar raised fair value from $520 to $570.",
+                            "Nov 12, 2026: Applied Materials posted record Q4 FY2026 revenue of $10.41 billion (+53% YoY) and non-GAAP EPS of $4.16 (+92% YoY), beating consensus on 64% growth in Semiconductor Systems.",
+                            "Nov 12, 2026: Management guided Q1 FY2027 revenue to $11.10 billion (±$500 million) and non-GAAP EPS to $4.35 (±$0.20), projecting \u003e30% calendar 2027 WFE growth while flagging customer cleanroom space and component lead times as shipment bottlenecks.",
+                            "Nov 12, 2026: China declined to 25% of Q4 revenue ($2.64 billion) and was guided below 25% for FY2027 under ongoing U.S. export restrictions, while the newly unveiled $5 billion Silicon Valley EPIC Center reached 15 R\u0026D partner engagements."
+                        ],
+               "opportunity":  "For long-term AI infrastructure holders, the November 20 selloff is resetting valuation while business momentum strengthens. AMAT is scaling to double systems output from Q4 FY2026 levels by 2028 to meet \u003e30% projected 2027 WFE growth across leading-edge logic, DRAM, and HBM packaging. Its expanding 15-partner EPIC Center locks in early co-development with top foundries and memory makers, while growing Applied Global Services ($1.90 billion quarterly) cushions cyclicality. With RSI 14 near oversold (30.83) and shares near $300 support, patient investors can watch for technical stabilization.",
+               "opportunityCheck":  "The page\u0027s sub-scores are mostly sensible, especially the strong mark for market position and moderate marks for bottleneck power and optionality. However, AI revenue exposure should be raised: Q4 FY2026 revenue surged 53% YoY to $10.41 billion with Semiconductor Systems up 64% on leading-edge AI logic, DRAM, and HBM packaging, showing AI now drives the core growth engine as China fades below 25%. Market growth also looks slightly conservative against management\u0027s \u003e30% 2027 WFE forecast, while bottleneck power rightly stays moderate because cleanroom limits and export curbs cap near-term pricing leverage.",
+               "pros":  [
+                            "Record Q4 FY2026 revenue jumped 53% YoY to $10.41 billion on November 12, led by a 64% surge in Semiconductor Systems ($8.00 billion).",
+                            "Q1 FY2027 guidance of $11.10 billion in revenue and $4.35 non-GAAP EPS beat consensus, alongside a forecast for over 30% wafer-fab equipment growth in 2027.",
+                            "Non-GAAP gross margin expanded 250 basis points YoY to 50.6%, while recurring-leaning Applied Global Services grew 26% to $1.90 billion.",
+                            "The $5 billion Silicon Valley EPIC Center reached 15 announced R\u0026D engagements, deepening co-development ties with TSMC, Intel, KIOXIA, and Besi."
+                        ],
+               "risks":  [
+                             "Customer cleanroom shortages and component supply lead times could delay tool shipments and defer revenue recognition in FY2027.",
+                             "Tighter U.S.–China export controls and a mature-node spending plateau in China could further erode regional market share to Japanese and European rivals.",
+                             "A slowdown in hyperscaler AI data-center capex or memory-cycle pullback would hit high-beta wafer-fab equipment orders disproportionately.",
+                             "Persistent risk-off tech sentiment and bearish technical momentum below all major EMAs could extend valuation compression toward the $215.50 52-week low."
+                         ],
+               "summary":  "Applied Materials (AMAT) dropped 10.71% to $302.63 on November 20, 2026, dragged down by a sweeping semiconductor selloff despite posting record Q4 FY2026 results on November 12. Quarterly revenue surged 53% year-over-year to $10.41 billion with non-GAAP EPS of $4.16, and Q1 FY2027 guidance of $11.10 billion topped consensus. Management projects over 30% wafer-fab equipment growth in 2027, keeping the long-term moat intact. Near term, however, technicals are decisively bearish, with cleanroom bottlenecks, China\u0027s shrinking share below 25%, and broad valuation compression weighing on the stock.",
+               "technical":  "AMAT\u0027s chart as of November 20, 2026 is firmly bearish across trend, momentum, and volume. At $302.63 (down 10.71% on the day), price sits far below its three exponential moving averages (EMAs—weighted trendlines tracking average price): EMA 50 ($411.43), EMA 200 ($421.44), and EMA 100 ($437.66). Because EMA 50 has fallen beneath EMA 200 and EMA 100, the trend structure is negative with heavy overhead resistance across $411–$438. Momentum confirms selling pressure: MACD 12/26/9 (a trend-momentum gauge) stands at -26.12 below its -24.15 signal line, with a negative -1.97 histogram showing downward acceleration. Meanwhile, RSI 14 (a 0–100 momentum gauge where under 30 is oversold) sits at 30.83, right at oversold territory. Volatility has stretched to an extreme: price closed below the lower Bollinger Band (a 20-day volatility envelope spanning $309.18 to $428.02, midpoint $368.60) and sits in the bottom 17% of its $215.50–$739.67 52-week range. Volume of 14.17 million shares—1.66x the 20-day average of 8.52 million—confirms institutional distribution. Immediate psychological support lies near $300 (intraday low $300.62) and then toward $215.50, while $309.18 and $368.60 act as initial resistance."
+           },
+    "th":  {
+               "caution":  "ภาพที่งบการเงินโตแรงแต่ราคาหุ้นร่วงลงถึง 59% จากจุดสูงสุด $739.67 เป็นสัญญาณเตือนไม่ให้มองข้ามความเสี่ยงมหภาคและวัฏจักร ธุรกิจเครื่องจักรผลิตชิปมีความผันผวนตามรอบการลงทุนสูง และวอลุ่มขายที่พุ่งแรงวันที่ 20 พ.ย. บ่งชี้ว่าสถาบันยังลดความเสี่ยงในหุ้นฮาร์ดแวร์ AI ต่อเนื่อง ระยะสั้นการส่งมอบยังติดเพดานจากพื้นที่คลีนรูมลูกค้าและชิ้นส่วนขาดแคลน ขณะที่มาตรการคุมส่งออกสหรัฐฯ กดสัดส่วนจีนลงต่ำกว่า 25% และเอื้อคู่แข่งนอกสหรัฐฯ ตราบใดที่ราคายังไม่กลับมายืนเหนือเส้นค่าเฉลี่ยสำคัญ ความผันผวนฝั่งขาลงยังคงสูง",
+               "cons":  [
+                            "หุ้นดิ่งลง 10.71% เหลือ $302.63 ในวันที่ 20 พ.ย. และปรับตัวลงถึง 59% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $739.67 ท่ามกลางแรงกดดันด้าน Valuation ของกลุ่ม AI",
+                            "ผู้บริหารเตือนว่าข้อจำกัดด้านพื้นที่คลีนรูมของลูกค้าและระยะเวลารอชิ้นส่วนยังเป็นคอขวดจำกัดความเร็วในการส่งมอบเครื่องจักรระยะสั้น",
+                            "สัดส่วนยอดขายจากจีนลดลงเหลือ 25% ใน Q4 และคาดจะต่ำกว่า 25% ในปี FY2027 จากมาตรการคุมส่งออกของสหรัฐฯ ที่เปิดทางให้คู่แข่งนอกสหรัฐฯ ชิงส่วนแบ่ง",
+                            "Summit Insights ปรับลดคำแนะนำเป็น Hold เมื่อ 13 พ.ย. และโบรกเกอร์อย่างน้อย 10 แห่งปรับลดราคาเป้าหมาย รวมถึง JPMorgan ที่ลดเป้าลงเหลือ $500"
+                        ],
+               "fundamental":  "ในเชิงพื้นฐาน เครื่องยนต์เติบโตจากโครงสร้างพื้นฐาน AI ของ AMAT ยังเร่งตัวสวนทางราคาหุ้น วันที่ 12 พ.ย. 2026 บริษัทรายงานรายได้ Q4 FY2026 ทำสถิติใหม่ที่ $10.41 พันล้าน (+53% YoY) และรายได้ทั้งปี FY2026 ที่ $34.45 พันล้าน (+21%) เติบโตต่อเนื่องเป็นปีที่ 7 อัตรากำไรขั้นต้น Non-GAAP แตะ 50.6% (+250 bps YoY) และอัตรากำไรจากการดำเนินงานทำสถิติ 35.3% สะท้อนความแข็งแกร่งในเครื่องมือเคลือบผิว กัดลาย และแพ็กเกจจิ้งขั้นสูงสำหรับชิป AI และ HBM DRAM ด้านธุรกิจบริการ Applied Global Services โต 26% สู่ $1.90 พันล้าน ช่วยสร้างกระแสเงินสดสม่ำเสมอจนจ่ายคืนผู้ถือหุ้น $4.75 พันล้านในปี FY2026 (ซื้อหุ้นคืนและปันผล) เมื่อรวมกับเป้ารายได้ Q1 FY2027 ที่ $11.10 พันล้านและคาดการณ์ WFE ปี 2027 โตเกิน 30% ความได้เปรียบระยะยาวยังไม่เปลี่ยนแม้เผชิญข้อจำกัดคลีนรูมและการปรับฐานยอดขายจีนต่ำกว่า 25%",
+               "headline":  "งบ Q4 ทำสถิติสูงสุดจากแรงหนุน AI แต่หุ้นร่วง 10.7% ตามแรงเทขายกลุ่มชิปและกราฟขาลง",
+               "news":  [
+                            "20 พ.ย. 2026: หุ้น AMAT ร่วง 10.71% ปิดที่ $302.63 ด้วยวอลุ่มสูงกว่าปกติ 1.66 เท่าตามแรงเทขายหุ้นชิปทั้งตลาดพร้อม Lam Research, KLA และ Micron จากความกังวลเรื่องความคุ้มค่าการลงทุน AI และแรงหดตัวของ Valuation มากกว่าข่าวลบเฉพาะตัว",
+                            "13 พ.ย. 2026: Summit Insights ปรับลดคำแนะนำ AMAT จาก Buy เป็น Hold จากประเด็นมูลค่าหุ้นและข้อจำกัดคลีนรูม พร้อมโบรกเกอร์อย่างน้อย 10 แห่งหั่นราคาเป้าหมาย (เช่น JPMorgan ลดจาก $660 เหลือ $500) สวนทาง Morningstar ที่ปรับเพิ่มมูลค่ายุติธรรมจาก $520 เป็น $570",
+                            "12 พ.ย. 2026: Applied Materials ประกาศรายได้ Q4 FY2026 ทำสถิติสูงสุด $10.41 พันล้าน (+53% YoY) และ Non-GAAP EPS $4.16 (+92% YoY) ดีกว่าคาด จากแรงส่งกลุ่ม Semiconductor Systems ที่โตถึง 64%",
+                            "12 พ.ย. 2026: บริษัทคาดการณ์รายได้ Q1 FY2027 ที่ $11.10 พันล้าน (±$500 ล้าน) และ Non-GAAP EPS $4.35 (±$0.20) พร้อมประเมินตลาด WFE ปี 2027 โตเกิน 30% แต่ระบุว่าพื้นที่คลีนรูมของลูกค้าและระยะเวลารอชิ้นส่วนยังจำกัดอัตราการส่งมอบ",
+                            "12 พ.ย. 2026: สัดส่วนยอดขายจากจีนลดลงเหลือ 25% ($2.64 พันล้าน) และคาดจะต่ำกว่า 25% ในปี FY2027 ภายใต้กฎคุมส่งออกของสหรัฐฯ ขณะที่ศูนย์วิจัย EPIC Center มูลค่า $5 พันล้านมีพันธมิตรร่วมพัฒนาครบ 15 รายแล้ว"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI แรงเทขายวันที่ 20 พ.ย. ช่วยปรับลดมูลค่าหุ้นลงในจังหวะที่พื้นฐานยังเร่งตัว AMAT กำลังขยายกำลังผลิตเครื่องจักรให้เพิ่มขึ้นเป็นสองเท่าจากระดับ Q4 FY2026 ภายในปี 2028 เพื่อรองรับตลาด WFE ปี 2027 ที่คาดโตเกิน 30% ในกลุ่มชิปลอจิกขั้นสูง, DRAM และ HBM ศูนย์ EPIC Center ที่มีพันธมิตร 15 รายช่วยล็อกความร่วมมือกับผู้ผลิตชิปชั้นนำตั้งแต่ต้นน้ำ ขณะที่รายได้บริการ $1.90 พันล้านต่อไตรมาสช่วยลดความผันผวน เมื่อ RSI 14 เข้าใกล้เขต Oversold (30.83) แถวแนวรับ $300 นักลงทุนระยะยาวสามารถเฝ้าดูสัญญาณการสร้างฐานของกราฟ",
+               "opportunityCheck":  "คะแนนโอกาสด้าน AI บนหน้าเว็บส่วนใหญ่สมเหตุสมผล โดยเฉพาะจุดแข็งด้านตำแหน่งผู้นำตลาด รวมถึงคะแนนระดับกลางสำหรับอำนาจคอขวดและโอกาสต่อยอดใหม่ อย่างไรก็ตาม คะแนนสัดส่วนรายได้จาก AI ควรถูกปรับเพิ่มขึ้น เพราะรายได้ Q4 FY2026 พุ่งขึ้น 53% YoY สู่ $10.41 พันล้าน โดยกลุ่ม Semiconductor Systems โตถึง 64% จากชิปลอจิก AI, DRAM และแพ็กเกจจิ้ง HBM แสดงให้เห็นว่า AI คือเครื่องยนต์หลักแล้วขณะที่สัดส่วนจีนลดต่ำกว่า 25% ส่วนคะแนนการเติบโตของตลาดก็ดูอนุรักษนิยมเล็กน้อยเมื่อเทียบกับคาดการณ์ WFE ปี 2027 ที่โตเกิน 30% แต่คะแนนอำนาจต่อรองราคาระดับกลางถือว่าเหมาะสมเพราะข้อจำกัดคลีนรูมและกฎคุมส่งออกยังจำกัดความได้เปรียบระยะสั้น",
+               "pros":  [
+                            "งบ Q4 FY2026 เมื่อ 12 พ.ย. ทำรายได้สถิติใหม่ $10.41 พันล้าน (+53% YoY) นำโดยกลุ่ม Semiconductor Systems ที่พุ่งขึ้น 64% แตะ $8.00 พันล้าน",
+                            "แนวโน้ม Q1 FY2027 สูงกว่าตลาดคาดที่รายได้ $11.10 พันล้าน และ Non-GAAP EPS $4.35 พร้อมคาดการณ์ตลาด WFE ปี 2027 โตเกิน 30%",
+                            "อัตรากำไรขั้นต้น Non-GAAP ขยายตัว 250 bps YoY สู่ 50.6% ขณะที่ธุรกิจบริการ Applied Global Services เติบโต 26% แตะ $1.90 พันล้านช่วยสร้างรายได้ต่อเนื่อง",
+                            "ศูนย์วิจัย EPIC Center มูลค่า $5 พันล้านในซิลิคอนแวลลีย์มีพันธมิตรร่วมพัฒนาแล้ว 15 ราย รวมถึง TSMC, Intel, KIOXIA และ Besi"
+                        ],
+               "risks":  [
+                             "ปัญหาขาดแคลนพื้นที่คลีนรูมของลูกค้าและระยะเวลารอชิ้นส่วนอาจทำให้การส่งมอบเครื่องจักรและการรับรู้รายได้ในปี FY2027 ล่าช้ากว่าคาด",
+                             "มาตรการควบคุมการส่งออกระหว่างสหรัฐฯ–จีนที่เข้มงวดขึ้นและการชะลอตัวของการลงทุนชิปรุ่นเก่าในจีน อาจทำให้เสียส่วนแบ่งตลาดให้คู่แข่งจากญี่ปุ่นและยุโรปมากขึ้น",
+                             "หากกลุ่มไฮเปอร์สเกลเลอร์ชะลอการลงทุนดาต้าเซ็นเตอร์ AI หรือตลาดหน่วยความจำเข้าสู่รอบพักฐาน คำสั่งซื้อเครื่องจักรผลิตชิปจะได้รับผลกระทบในระดับสูง",
+                             "แรงเทขายกลุ่มเทคโนโลยีและโมเมนตัมขาลงที่ยังอยู่ต่ำกว่าเส้น EMA หลักทุกเส้นอาจกดดันให้ Valuation หดตัวลงต่อใกล้แนวรับรอบ 52 สัปดาห์ที่ $215.50"
+                         ],
+               "summary":  "Applied Materials (AMAT) ร่วงหนัก 10.71% ปิดที่ $302.63 เมื่อวันที่ 20 พ.ย. 2026 จากแรงเทขายหุ้นเซมิคอนดักเตอร์ทั้งกลุ่ม แม้เพิ่งประกาศงบ Q4 FY2026 ทำสถิติสูงสุดเมื่อ 12 พ.ย. โดยมีรายได้ $10.41 พันล้าน (+53% YoY) กำไรต่อหุ้น Non-GAAP $4.16 และให้แนวโน้มรายได้ Q1 FY2027 ที่ $11.10 พันล้านสูงกว่าตลาดคาด ผู้บริหารยังคาดตลาดเครื่องจักรผลิตชิป (WFE) ปี 2027 โตเกิน 30% สะท้อนว่าความได้เปรียบระยะยาวยังแข็งแกร่ง แต่ระยะสั้นกราฟเทคนิคเป็นขาลงชัดเจน ท่ามกลางข้อจำกัดพื้นที่คลีนรูม สัดส่วนยอดขายจีนที่ลดต่ำกว่า 25% และแรงกดดันด้านมูลค่าหุ้น",
+               "technical":  "ภาพเทคนิคของ AMAT ณ วันที่ 20 พ.ย. 2026 อยู่ในภาวะขาลงเต็มตัวทั้งแนวโน้ม โมเมนตัม และวอลุ่ม ราคาปิดที่ $302.63 (-10.71%) อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — เส้นแนวโน้มถ่วงน้ำหนักราคาล่าสุด) ทั้งสามเส้นอย่างมาก ได้แก่ EMA 50 ($411.43), EMA 200 ($421.44) และ EMA 100 ($437.66) โดย EMA 50 ตัดลงต่ำกว่าทั้ง EMA 200 และ EMA 100 สะท้อนโครงสร้างขาลงชัดเจนและสร้างแนวต้านหนาแน่นช่วง $411–$438 ด้านโมเมนตัม MACD 12/26/9 (ตัววัดแรงส่งแนวโน้ม) อยู่ที่ -26.12 ต่ำกว่าเส้น Signal (-24.15) พร้อมค่า Histogram ติดลบ -1.97 ยืนยันแรงขายที่ยังเร่งตัว ขณะที่ RSI 14 (ตัววัดแรงแกว่งตัวระดับ 0–100 หากต่ำกว่า 30 คือเขตขายมากเกินไป) อยู่ที่ 30.83 จ่อเข้าเขต Oversold ราคาปิดหลุดกรอบล่างของ Bollinger Bands (กรอบความผันผวน 20 วันช่วง $309.18–$428.02 ค่ากลาง $368.60) และลงมาอยู่โซนล่างสุด 17% ของกรอบ 52 สัปดาห์ ($215.50–$739.67) โดยมีปริมาณซื้อขาย 14.17 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (8.52 ล้านหุ้น) ถึง 1.66 เท่า ยืนยันแรงขายจากสถาบัน แนวรับจิตวิทยาใกล้สุดอยู่แถว $300 (จุดต่ำสุดระหว่างวัน $300.62) และถัดไปใกล้ $215.50 ส่วนแนวต้านระยะสั้นอยู่ที่ $309.18 และ $368.60"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-11-12",
+                        "publisher":  "Applied Materials Investor Relations",
+                        "title":  "Applied Materials Announces Fourth Quarter and Fiscal Year 2026 Results",
+                        "url":  "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-fourth-quarter-and-fiscal-year-2026"
+                    },
+                    {
+                        "date":  "2026-11-12",
+                        "publisher":  "U.S. Securities and Exchange Commission (EDGAR)",
+                        "title":  "Form 8-K: Applied Materials, Inc. Q4 and Fiscal Year 2026 Financial Results",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/6951/000162828026073360/amat-20261112.htm"
+                    },
+                    {
+                        "date":  "2026-11-12",
+                        "publisher":  "Investing.com",
+                        "title":  "Applied Materials shares gain on Q4 beat",
+                        "url":  "https://www.investing.com/news/stock-market-news/applied-materials-shares-gain-on-q4-beat-938CH-3129849"
+                    },
+                    {
+                        "date":  "2026-11-13",
+                        "publisher":  "TipRanks / The Fly",
+                        "title":  "Applied Materials downgraded to Hold from Buy at Summit Insights",
+                        "url":  "https://www.tipranks.com/news/the-fly/applied-materials-downgraded-to-hold-from-buy-at-summit-insights"
+                    },
+                    {
+                        "date":  "2026-11-13",
+                        "publisher":  "Benzinga",
+                        "title":  "JPMorgan Lowers Applied Materials Price Target to $500",
+                        "url":  "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/48854498/jpmorgan-lowers-applied-materials-price-target-to-500"
+                    },
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "Seeking Alpha",
+                        "title":  "Applied Materials slides 10% amid tech sector selloff",
+                        "url":  "https://seekingalpha.com/news/7440058-applied-materials-slides-10-amid-tech-sector-selloff"
+                    }
+                ]
+}

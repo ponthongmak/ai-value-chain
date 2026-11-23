@@ -1,0 +1,766 @@
+{
+    "ticker":  "TSM",
+    "name":  "Taiwan Semiconductor Manufacturing",
+    "symbol":  "NYSE:TSM",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:38:00Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NYSE:TSM",
+                       "yahoo":  "TSM",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:33:10Z",
+                       "price":  318.71,
+                       "open":  338.24,
+                       "high":  343.75,
+                       "low":  318.48,
+                       "volume":  37170000,
+                       "avgVolume20":  17002855,
+                       "changePct":  -9.48,
+                       "historyDays":  501,
+                       "ema50":  407.78,
+                       "ema100":  412.18,
+                       "ema200":  392.82,
+                       "bb":  {
+                                  "upper":  453.49,
+                                  "middle":  391.78,
+                                  "lower":  330.07
+                              },
+                       "macd":  {
+                                    "macd":  -20.83,
+                                    "signal":  -14.99,
+                                    "hist":  -5.84
+                                },
+                       "rsi14":  28.26,
+                       "high52w":  487.47,
+                       "low52w":  266.82,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         436.69
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         444.92
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         415.17
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         426.8
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         427.92
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         408.75
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         421.07
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         423.93
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         441.4
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         425.83
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         432.15
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         462.12
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         467.67
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         436.39
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         440.83
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         434.99
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         432.35
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         455.1
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         477.57
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         444.23
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         434.16
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         451.79
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         432.57
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         436.98
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         436.96
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         434.11
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         421.58
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         420.39
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         419.48
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         409.74
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         398.37
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         402.3
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         424.61
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         421.21
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         415.58
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         403.41
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         399.09
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         392.31
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         374.67
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         403.31
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         404.25
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         406.11
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         417.17
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         414
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         418.2
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         420.04
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         418.47
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         422.06
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         429.15
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         430.49
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         426.35
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         430.97
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         413.41
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         412.09
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         416
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         418.95
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         410.12
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         417.41
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         417.69
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         427.3
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         417.52
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         415.32
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         414
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         415.5
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         417.01
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         428.91
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         439
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         435.36
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         428.03
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         433.24
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         418.01
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         413.75
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         417.72
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         430.26
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         434.67
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         445.14
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         452
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         446.57
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         451.15
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         450.61
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         452.88
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         456.94
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         456.19
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         459.2
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         472.78
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         485.8
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         482.3
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         472.2
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         457.99
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         453.31
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         444.35
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         445.12
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         430
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         422.25
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         412.61
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         420.22
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         425.08
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         431.89
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         412.35
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         418.51
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         424.37
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         436.87
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         439.51
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         431.81
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         406.13
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         398.63
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         404.8
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         395.75
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         353.1
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         375.44
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         388.62
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         396.48
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         413.35
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         405.49
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         398.73
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         373.45
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         359.69
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         362.62
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         352.09
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         318.71
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          392.85,
+                                          394.89,
+                                          395.68,
+                                          396.9,
+                                          398.12,
+                                          398.54,
+                                          399.42,
+                                          400.38,
+                                          401.99,
+                                          402.93,
+                                          404.07,
+                                          406.35,
+                                          408.75,
+                                          409.84,
+                                          411.05,
+                                          411.99,
+                                          412.79,
+                                          414.45,
+                                          416.92,
+                                          417.99,
+                                          418.63,
+                                          419.93,
+                                          420.42,
+                                          421.07,
+                                          421.7,
+                                          422.18,
+                                          422.16,
+                                          422.09,
+                                          421.99,
+                                          421.51,
+                                          420.6,
+                                          419.88,
+                                          420.07,
+                                          420.11,
+                                          419.94,
+                                          419.29,
+                                          418.5,
+                                          417.47,
+                                          415.79,
+                                          415.3,
+                                          414.87,
+                                          414.52,
+                                          414.63,
+                                          414.6,
+                                          414.74,
+                                          414.95,
+                                          415.09,
+                                          415.36,
+                                          415.9,
+                                          416.48,
+                                          416.86,
+                                          417.42,
+                                          417.26,
+                                          417.06,
+                                          417.01,
+                                          417.09,
+                                          416.82,
+                                          416.84,
+                                          416.87,
+                                          417.28,
+                                          417.29,
+                                          417.21,
+                                          417.09,
+                                          417.03,
+                                          417.03,
+                                          417.49,
+                                          418.34,
+                                          419,
+                                          419.36,
+                                          419.9,
+                                          419.83,
+                                          419.59,
+                                          419.52,
+                                          419.94,
+                                          420.51,
+                                          421.48,
+                                          422.68,
+                                          423.61,
+                                          424.69,
+                                          425.71,
+                                          426.78,
+                                          427.96,
+                                          429.07,
+                                          430.25,
+                                          431.92,
+                                          434.03,
+                                          435.92,
+                                          437.34,
+                                          438.15,
+                                          438.75,
+                                          438.97,
+                                          439.21,
+                                          438.85,
+                                          438.2,
+                                          437.19,
+                                          436.53,
+                                          436.08,
+                                          435.91,
+                                          434.99,
+                                          434.34,
+                                          433.95,
+                                          434.07,
+                                          434.28,
+                                          434.18,
+                                          433.08,
+                                          431.73,
+                                          430.68,
+                                          429.31,
+                                          426.32,
+                                          424.32,
+                                          422.92,
+                                          421.89,
+                                          421.55,
+                                          420.92,
+                                          420.05,
+                                          418.22,
+                                          415.93,
+                                          413.84,
+                                          411.42,
+                                          407.78
+                                      ]
+                   },
+    "en":  {
+               "caution":  "Long-term holders should respect the technical damage: breaking below the 200-day EMA ($392.82) and lower Bollinger Band ($330.07) on 2.19x volume signals active institutional de-risking that rarely reverses in one session. Beyond chart pressure, stricter U.S. BIS compliance raises operational friction across TSMC\u0027s broader supply chain, and Nvidia\u0027s post-Huang leadership transition adds uncertainty around its single largest AI customer. With 2026 CapEx set at $60–$64 billion and $40.93 billion more appropriated on November 10, any pause in hyperscaler spending or overseas fab margin dilution would magnify earnings sensitivity.",
+               "cons":  [
+                            "TSM broke below its 200-day EMA ($392.82) and lower Bollinger Band ($330.07) on 2.19x average volume on November 20.",
+                            "New U.S. BIS rules effective November 19 removed foundry self-verification on 16nm/14nm China orders, triggering shipment pauses.",
+                            "Nvidia CEO Jensen Huang\u0027s November 12 exit rattled AI infrastructure sentiment despite Nvidia\u0027s $115.84 billion Q3 FY27 revenue.",
+                            "Sustaining 2026 CapEx of $60–$64 billion and overseas fab ramps keeps depreciation and execution risks elevated if AI spending slows."
+                        ],
+               "fundamental":  "TSMC remains the indispensable manufacturing backbone of global AI infrastructure, fabricating leading-edge accelerators and custom silicon for Nvidia, Apple, AMD, and Broadcom while controlling CoWoS advanced packaging. On October 15, 2026, TSMC reported Q3 2026 revenue of $46.72 billion (+50.9% year-on-year, +16.2% sequentially), net income of NT$763.06 billion (+68.7% YoY), diluted EPS of $4.60 per ADR, and a 58.7% operating margin. Advanced nodes (7nm and below) generated 79% of wafer revenue, led by 3nm (33%), 5nm (28%), and a fast-scaling 2nm ramp (8%). Management guided Q4 2026 revenue to $52.3–$54.3 billion with 65%–67% gross margins, backed by October\u0027s record NT$586.89 billion revenue (+59.7% YoY) and $60–$64 billion in 2026 CapEx. Because North America accounts for 79% of sales and China only 5%, structural AI demand still far outweighs regional policy friction.",
+               "headline":  "TSM plunges on U.S. export rules and Nvidia shock despite record revenue",
+               "news":  [
+                            "On November 19, 2026, the U.S. Bureau of Industry and Security enacted an interim final rule removing foundry self-verification on 16nm/14nm and more advanced orders for Chinese designers. By November 20–22, TrendForce and Tom\u0027s Hardware reported TSMC paused affected Chinese shipments pending U.S. license reviews, weighing heavily on shares.",
+                            "On November 12, 2026, key customer Nvidia announced CEO Jensen Huang\u0027s immediate resignation following a board conduct probe, naming CFO Colette Kress interim CEO. Although Nvidia posted $115.84 billion in Q3 FY27 revenue on November 17 and affirmed its TSMC partnership, AI chip stocks sold off sharply into November 20.",
+                            "On November 10, 2026, TSMC reported record October consolidated revenue of NT$586.89 billion, surging 59.7% year-on-year and 14.7% month-on-month. Cumulative January–October 2026 revenue reached NT$4,485.62 billion, up 43.3% from a year earlier.",
+                            "At its November 10, 2026 board meeting, TSMC raised its Q3 cash dividend to NT$9.0 per share, approved $40.93 billion in capacity and R\u0026D appropriations, and authorized up to $500 million equity stakes each in Anthropic and OpenAI. TSMC completed its $500 million Anthropic IPO investment around November 19.",
+                            "On November 13, 2026, TrendForce reported that TSMC pushed back on market rumors about entering standalone 3D DRAM production for Nvidia. Management reaffirmed its pure-play logic foundry focus while retaining memory-adjacent leverage in HBM4E base dies and advanced stacking."
+                        ],
+               "opportunity":  "The November selloff has opened a wide gap between price action and operating reality. While TSM sits 34.6% below its $487.47 52-week high with an oversold RSI 14 of 28.26, October revenue jumped 59.7% year-on-year and Q4 guidance implies nearly 58% annual growth. Crucially, China accounts for just 5% of Q3 revenue, leaving TSMC\u0027s core U.S. hyperscaler demand—spanning Nvidia\u0027s Vera Rubin, Broadcom custom ASICs, AMD, and Apple on 3nm, 2nm, and CoWoS—structurally intact. For patient investors monitoring support toward $266.82, this dislocation reflects sentiment and policy shocks rather than moat erosion.",
+               "opportunityCheck":  "The page\u0027s sub-scores are largely well calibrated, as TSMC\u0027s 66.4% gross margin, rapid 2nm ramp, and persistent CoWoS packaging tightness validate top marks for market position and bottleneck power. However, I would raise AI revenue exposure by one notch: high-performance computing reached 68% of Q3 2026 revenue and drove October\u0027s 59.7% year-on-year sales jump. Conversely, I would keep optionality conservative rather than raising it—despite $500 million strategic stakes in Anthropic and OpenAI and HBM4E base-die opportunities, TSMC pushed back on 3D DRAM rumors on November 13, staying strictly a pure-play logic foundry.",
+               "pros":  [
+                            "October 2026 revenue hit a record NT$586.89 billion, up 59.7% year-on-year, reinforcing Q4 guidance of $52.3–$54.3 billion.",
+                            "2nm (N2) already reached 8% of Q3 2026 wafer revenue while gross margin stayed exceptional at 66.4%.",
+                            "China accounted for only 5% of Q3 2026 revenue versus 79% from North America, limiting direct export-control damage.",
+                            "On November 10, the board lifted the Q3 dividend to NT$9.0 per share and approved $40.93 billion in capacity investments."
+                        ],
+               "risks":  [
+                             "Escalating U.S. export controls or cross-strait geopolitical tensions disrupting shipments and customer compliance.",
+                             "Customer concentration around Nvidia during its CEO transition and potential hyperscaler AI CapEx digestion.",
+                             "High capital intensity ($60–$64 billion 2026 CapEx) and margin dilution from scaling overseas fabs such as Arizona.",
+                             "Technical breakdown below key moving averages attracting further forced selling before a durable base forms."
+                         ],
+               "summary":  "NYSE:TSM dropped 9.48% to $318.71 on November 20, 2026, ending 34.6% below its 52-week high after two external shocks hit sentiment: new U.S. export controls effective November 19 targeting 16nm/14nm China orders, and Nvidia CEO Jensen Huang\u0027s November 12 resignation. Technically, the stock is firmly bearish yet deeply oversold. Operationally, however, TSMC\u0027s moat remains intact: October 2026 revenue surged 59.7% year-on-year to a record NT$586.89 billion, 2nm already reached 8% of Q3 wafer revenue, and China represented just 5% of Q3 sales.",
+               "technical":  "TSM\u0027s technical posture as of November 20, 2026 is decisively bearish. At $318.71 (down 9.48% on the day), shares trade well below all three exponential moving averages (EMAs — trend lines weighting recent prices): EMA 50 ($407.78), EMA 100 ($412.18), and EMA 200 ($392.82). With EMA 50 already below EMA 100 and price roughly 19% under the long-term 200-day EMA, the broader uptrend has broken down. Momentum confirms accelerating downside: MACD 12/26/9 (a trend-momentum gauge comparing fast and slow averages) sits at -20.83 below its -14.99 signal line, widening the negative histogram to -5.84. Meanwhile, RSI 14 (a 0–100 momentum gauge where under 30 signals oversold conditions) dropped to 28.26, showing stretched selling pressure. Volatility expanded sharply as price closed $11.36 beneath its lower Bollinger Band ($330.07; bands track normal price volatility around the 20-day average of $391.78) and fell into the bottom quarter of its $266.82–$487.47 52-week range. Crucially, November 20 volume jumped to 37.17 million shares—2.19x the 20-day average of 17.00 million—confirming heavy institutional selling. Near-term resistance sits at $330.07 and $391.78–$392.82, while major support lies near the $266.82 52-week low."
+           },
+    "th":  {
+               "caution":  "นักลงทุนระยะยาวควรเคารพสัญญาณกราฟที่เสียหายหนัก การหลุด EMA 200 ($392.82) และกรอบล่าง Bollinger Band ($330.07) พร้อมวอลุ่มสูงถึง 2.19 เท่า สะท้อนแรงลดความเสี่ยงจากสถาบันที่มักไม่กลับตัวในวันเดียว นอกจากนี้ เกณฑ์ BIS ของสหรัฐฯ ยังเพิ่มภาระการตรวจสอบลูกค้าทั้งซัพพลายเชน ขณะที่การเปลี่ยนผ่านผู้บริหารของ Nvidia สร้างความไม่แน่นอนต่อลูกค้ารายใหญ่ที่สุด ประกอบกับงบ CapEx ปี 2026 ที่ $60–$64 พันล้าน และงบลงทุนใหม่ $40.93 พันล้านเมื่อวันที่ 10 พ.ย. หากการใช้จ่าย AI ชะลอตัวหรือโรงงานต่างประเทศกดดันมาร์จิ้น กำไรอาจผันผวนแรงขึ้น",
+               "cons":  [
+                            "วันที่ 20 พ.ย. ราคาหุ้นหลุดทั้ง EMA 200 ($392.82) และกรอบล่าง Bollinger Band ($330.07) พร้อมวอลุ่มพุ่ง 2.19 เท่าของค่าเฉลี่ย",
+                            "เกณฑ์ BIS ใหม่ของสหรัฐฯ ที่มีผล 19 พ.ย. ยกเลิกการตรวจสอบเองสำหรับออเดอร์จีนระดับ 16nm/14nm ทำให้ TSMC ต้องชะลอส่งมอบบางส่วน",
+                            "การลาออกของ Jensen Huang ซีอีโอ Nvidia เมื่อ 12 พ.ย. กดดันความเชื่อมั่นหุ้น AI แม้รายได้ Q3 FY27 ของ Nvidia จะแตะ $115.84 พันล้านก็ตาม",
+                            "งบลงทุนปี 2026 ที่สูงถึง $60–$64 พันล้านและการเร่งขยายโรงงานต่างประเทศเพิ่มความเสี่ยงค่าเสื่อมราคาและมาร์จิ้นหากดีมานด์ AI ชะลอตัว"
+                        ],
+               "fundamental":  "TSMC ยังคงเป็นกระดูกสันหลังการผลิตที่ขาดไม่ได้ของโครงสร้างพื้นฐาน AI โลก ทั้งการผลิตชิปเร่งความเร็วและชิปเฉพาะทางให้ Nvidia, Apple, AMD และ Broadcom รวมถึงการคุมคอขวดบรรจุภัณฑ์ขั้นสูง CoWoS โดยงบ Q3 2026 (ประกาศ 15 ต.ค. 2026) มีรายได้ $46.72 พันล้าน (+50.9% YoY, +16.2% QoQ) กำไรสุทธิ NT$763.06 พันล้าน (+68.7% YoY) กำไรต่อ ADR $4.60 และอัตรากำไรจากการดำเนินงาน 58.7% รายได้จากโหนดขั้นสูง (7nm ลงไป) สูงถึง 79% นำโดย 3nm (33%), 5nm (28%) และ 2nm ที่เริ่มผลิตจริงจนแตะ 8% แล้ว ผู้บริหารให้เป้า Q4 2026 ที่ $52.3–$54.3 พันล้าน อัตรากำไรขั้นต้น 65%–67% สอดรับกับยอดขาย ต.ค. ที่ทุบสถิติ NT$586.89 พันล้าน (+59.7% YoY) ขณะที่รายได้ 79% มาจากอเมริกาเหนือและจีนมีสัดส่วนแค่ 5% ทำให้แรงขับเคลื่อน AI ยังเหนือกว่าผลกระทบด้านนโยบายมาก",
+               "headline":  "TSM ดิ่งหนักรับเกณฑ์ส่งออกสหรัฐฯ และข่าวช็อก Nvidia สวนทางรายได้ทุบสถิติ",
+               "news":  [
+                            "วันที่ 19 พ.ย. 2026 สำนักอุตสาหกรรมและความมั่นคงสหรัฐฯ (BIS) ออกกฎชั่วคราวปิดช่องโหว่การตรวจสอบเองของโรงหล่อสำหรับคำสั่งซื้อจีนระดับ 16nm/14nm ลงไป ต่อมาวันที่ 20–22 พ.ย. TrendForce และ Tom\u0027s Hardware รายงานว่า TSMC ได้พักการส่งมอบชิปบางส่วนให้ลูกค้าจีนเพื่อรอใบอนุญาต กดดันราคาหุ้นอย่างหนัก",
+                            "วันที่ 12 พ.ย. 2026 ลูกค้ารายสำคัญอย่าง Nvidia ประกาศว่า Jensen Huang ลาออกจากตำแหน่งซีอีโอทันทีหลังการสอบสวนของบอร์ด และแต่งตั้ง Colette Kress เป็นรักษาการซีอีโอ แม้ Nvidia จะรายงานรายได้ Q3 FY27 สูงถึง $115.84 พันล้านเมื่อวันที่ 17 พ.ย. และย้ำความร่วมมือกับ TSMC แต่หุ้นกลุ่มชิป AI ยังถูกเทขายหนักจนถึงวันที่ 20 พ.ย.",
+                            "วันที่ 10 พ.ย. 2026 TSMC รายงานรายได้เดือนตุลาคมทุบสถิติสูงสุดใหม่ที่ NT$586.89 พันล้าน พุ่งขึ้น 59.7% YoY และ 14.7% MoM ส่งผลให้รายได้สะสม 10 เดือนแรกปี 2026 อยู่ที่ NT$4,485.62 พันล้าน เพิ่มขึ้น 43.3% จากปีก่อน",
+                            "การประชุมบอร์ด TSMC วันที่ 10 พ.ย. 2026 อนุมัติเพิ่มปันผลงวด Q3 เป็น NT$9.0 ต่อหุ้น อนุมัติงบลงทุนขยายกำลังผลิตและ R\u0026D ก้อนโต $40.93 พันล้าน และไฟเขียวลงทุนเชิงกลยุทธ์ใน Anthropic และ OpenAI รายละไม่เกิน $500 ล้าน โดย TSMC เข้าซื้อหุ้น IPO ของ Anthropic มูลค่า $500 ล้านเสร็จสิ้นราววันที่ 19 พ.ย.",
+                            "วันที่ 13 พ.ย. 2026 TrendForce รายงานว่า TSMC ออกมาปฏิเสธข่าวลือเรื่องเตรียมผลิตหน่วยความจำ 3D DRAM แข่งกับผู้ผลิตแรมให้ Nvidia โดยยืนยันจุดยืนการเป็นโรงหล่อชิปประมวลผลล้วน แต่ยังคงมีบทบาทสำคัญในฐานชิป (base die) ของ HBM4E และการซ้อนชิปขั้นสูง"
+                        ],
+               "opportunity":  "แรงเทขายในเดือนพฤศจิกายนสร้างช่องว่างขนาดใหญ่ระหว่างราคาหุ้นกับพื้นฐานธุรกิจ ขณะที่ TSM ร่วงลง 34.6% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $487.47 และค่า RSI 14 ลงลึกถึง 28.26 รายได้เดือนตุลาคมกลับโตแรง 59.7% YoY และเป้ารายได้ Q4 สะท้อนการเติบโตเกือบ 58% YoY ที่สำคัญจีนคิดเป็นเพียง 5% ของรายได้ Q3 ทำให้ความต้องการหลักจากไฮเปอร์สเกลเลอร์สหรัฐฯ ทั้ง Vera Rubin ของ Nvidia, ชิป ASIC ของ Broadcom, AMD และ Apple บนโหนด 3nm, 2nm และ CoWoS ยังแข็งแกร่งเต็มที่ สำหรับนักลงทุนระยะยาวที่ติดตามแนวรับแถว $266.82 แรงกดดันรอบนี้มาจากอารมณ์ตลาดและนโยบายมากกว่าการเสื่อมถอยของคูเมืองธุรกิจ",
+               "opportunityCheck":  "คะแนนย่อยด้านโอกาส AI บนหน้านี้ส่วนใหญ่ประเมินได้เหมาะสมแล้ว เพราะอัตรากำไรขั้นต้น 66.4% การเร่งผลิต 2nm และคอขวด CoWoS ยืนยันความเป็นผู้นำตลาดและอำนาจต่อรองระดับสูงสุด อย่างไรก็ตาม ผมเสนอให้ปรับคะแนนสัดส่วนรายได้ AI ขึ้นอีกเล็กน้อย เนื่องจากกลุ่มประมวลผลสมรรถนะสูง (HPC) กินสัดส่วนถึง 68% ของรายได้ Q3 2026 และผลักดันยอดขายเดือนตุลาคมโต 59.7% YoY ส่วนด้านทางเลือกการเติบโตใหม่ (optionality) ควรคงไว้แบบระมัดระวัง แม้มีการถือหุ้นเชิงกลยุทธ์ใน Anthropic กับ OpenAI และโอกาสใน HBM4E base die แต่ TSMC ปฏิเสธข่าวลือ 3D DRAM เมื่อ 13 พ.ย. ยืนยันไม่แตกไลน์ผลิตแรมเต็มตัว",
+               "pros":  [
+                            "รายได้เดือนตุลาคม 2026 ทำสถิติใหม่ที่ NT$586.89 พันล้าน (+59.7% YoY) ตอกย้ำเป้ารายได้ Q4 ที่ $52.3–$54.3 พันล้าน",
+                            "เทคโนโลยี 2nm (N2) ทำสัดส่วนรายได้เวเฟอร์ Q3 2026 ได้ถึง 8% แล้ว ขณะที่อัตรากำไรขั้นต้นยังแกร่งที่ 66.4%",
+                            "รายได้จากจีนใน Q3 2026 คิดเป็นเพียง 5% เทียบกับอเมริกาเหนือ 79% ทำให้ผลกระทบตรงจากเกณฑ์ส่งออกมีจำกัด",
+                            "บอร์ดวันที่ 10 พ.ย. ปรับเพิ่มปันผล Q3 เป็น NT$9.0 ต่อหุ้น พร้อมอนุมัติงบขยายกำลังผลิตและ R\u0026D อีก $40.93 พันล้าน"
+                        ],
+               "risks":  [
+                             "ความเสี่ยงที่สหรัฐฯ จะยกระดับมาตรการควบคุมส่งออกหรือความตึงเครียดช่องแคบไต้หวันที่กระทบการส่งมอบและการปฏิบัติตามกฎระเบียบ",
+                             "การพึ่งพิงลูกค้ารายใหญ่อย่าง Nvidia ระหว่างช่วงเปลี่ยนผ่านซีอีโอ รวมถึงความเสี่ยงหากกลุ่มไฮเปอร์สเกลเลอร์ชะลอการลงทุน AI",
+                             "ภาระงบลงทุนสูงมาก ($60–$64 พันล้านในปี 2026) และแรงกดดันต่ออัตรากำไรจากการขยายโรงงานในต่างประเทศอย่างแอริโซนา",
+                             "โครงสร้างทางเทคนิคที่หลุดแนวรับสำคัญอาจดึงแรงขายต่อเนื่องจากกองทุนจนกว่าจะสร้างฐานราคาที่มั่นคงได้"
+                         ],
+               "summary":  "NYSE:TSM ร่วงแรง 9.48% ปิดที่ $318.71 เมื่อวันที่ 20 พ.ย. 2026 ลดลง 34.6% จากจุดสูงสุดรอบ 52 สัปดาห์ หลังเจอสองแรงกระแทกภายนอก ได้แก่ เกณฑ์คุมส่งออกใหม่ของสหรัฐฯ ที่มีผล 19 พ.ย. ครอบคลุมออเดอร์จีนระดับ 16nm/14nm และข่าวการลาออกของ Jensen Huang ซีอีโอ Nvidia เมื่อ 12 พ.ย. ภาพเทคนิคเป็นขาลงชัดเจนแม้เข้าเขตขายมากเกินไป แต่พื้นฐานคูเมืองธุรกิจยังไม่เปลี่ยน รายได้ตุลาคมพุ่ง 59.7% YoY แตะสถิติ NT$586.89 พันล้าน เทคโนโลยี 2nm กินสัดส่วน 8% ของรายได้ Q3 และจีนคิดเป็นเพียง 5% ของยอดขายรวม",
+               "technical":  "ภาพทางเทคนิคของ TSM ณ วันที่ 20 พ.ย. 2026 เป็นขาลงชัดเจน ราคาปิด $318.71 (-9.48%) อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่เอ็กซ์โปเนนเชียล (EMA — เส้นแนวโน้มที่ให้น้ำหนักราคาล่าสุด) ทั้งสามเส้น ได้แก่ EMA 50 ($407.78), EMA 100 ($412.18) และ EMA 200 ($392.82) โดย EMA 50 ตัดลงต่ำกว่า EMA 100 แล้ว และราคาหลุดต่ำกว่าเส้นระยะยาว EMA 200 ราว 19% สะท้อนการเสียทรงขาขึ้นชัดเจน ด้านโมเมนตัม MACD 12/26/9 (เครื่องมือวัดแรงส่งแนวโน้มจากการเทียบเส้นค่าเฉลี่ยเร็วและช้า) อยู่ที่ -20.83 ต่ำกว่าเส้น Signal ที่ -14.99 ทำให้ค่า Histogram ติดลบกว้างขึ้นเป็น -5.84 ยืนยันแรงขายที่ยังเร่งตัว ขณะที่ RSI 14 (มาตรวัดโมเมนตัม 0–100 หากต่ำกว่า 30 คือเขตขายมากเกินไปหรือ oversold) ดิ่งมาที่ 28.26 บ่งชี้แรงเทขายที่ตึงตัวระยะสั้น ด้านความผันผวน ราคาปิดต่ำกว่ากรอบล่าง Bollinger Bands ($330.07; กรอบวัดความผันผวนรอบค่าเฉลี่ย 20 วันที่ $391.78) ถึง $11.36 และลงมาอยู่โซนล่างสุดของกรอบ 52 สัปดาห์ ($266.82–$487.47) ที่สำคัญวอลุ่มวันที่ 20 พ.ย. พุ่งแตะ 37.17 ล้านหุ้น หรือ 2.19 เท่าของค่าเฉลี่ย 20 วัน (17.00 ล้านหุ้น) ยืนยันแรงขายสถาบัน แนวต้านระยะสั้นอยู่ที่ $330.07 และโซน $391.78–$392.82 ส่วนแนวรับหลักอยู่ใกล้จุดต่ำสุด 52 สัปดาห์ที่ $266.82"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-11-10",
+                        "publisher":  "TSMC Investor Relations",
+                        "title":  "Monthly Revenue 2026",
+                        "url":  "https://investor.tsmc.com/english/monthly-revenue/2026"
+                    },
+                    {
+                        "date":  "2026-10-15",
+                        "publisher":  "TSMC Investor Relations",
+                        "title":  "3Q26 Quarterly Results",
+                        "url":  "https://investor.tsmc.com/english/quarterly-results/2026/q3"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "Federal Register (U.S. Bureau of Industry and Security)",
+                        "title":  "Addressing Remote Access to Advanced Semiconductors",
+                        "url":  "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+                    },
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "TrendForce",
+                        "title":  "[News] TSMC, Samsung Reportedly Pause China Consumer Chip Shipments Under New U.S. Rules; 16nm Orders Affected",
+                        "url":  "https://www.trendforce.com/news/2026/11/20/news-tsmc-samsung-reportedly-pause-china-consumer-chip-shipments-under-new-u-s-rules-16nm-orders-affected/"
+                    },
+                    {
+                        "date":  "2026-11-22",
+                        "publisher":  "Tom\u0027s Hardware",
+                        "title":  "TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes",
+                        "url":  "https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips"
+                    },
+                    {
+                        "date":  "2026-11-12",
+                        "publisher":  "NVIDIA Newsroom",
+                        "title":  "NVIDIA Announces CEO Transition",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+                    },
+                    {
+                        "date":  "2026-11-17",
+                        "publisher":  "NVIDIA Newsroom",
+                        "title":  "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+                    },
+                    {
+                        "date":  "2026-11-13",
+                        "publisher":  "TrendForce",
+                        "title":  "[News] TSMC Pushes Back on 3D DRAM Rumors: Three Memory Plays Where It Still Has a Say",
+                        "url":  "https://www.trendforce.com/news/2026/11/13/news-tsmc-pushes-back-on-3d-dram-rumors-three-memory-plays-where-it-still-has-a-say/"
+                    }
+                ]
+}

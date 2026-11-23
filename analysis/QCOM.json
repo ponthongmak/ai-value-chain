@@ -1,0 +1,731 @@
+{
+    "ticker":  "QCOM",
+    "name":  "Qualcomm",
+    "symbol":  "NASDAQ:QCOM",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:03:07Z",
+    "costUsd":  0.6573218000000001,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:QCOM",
+                       "yahoo":  "QCOM",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:00:58Z",
+                       "price":  149.94,
+                       "open":  161.32,
+                       "high":  162.54,
+                       "low":  149.13,
+                       "volume":  22221700,
+                       "avgVolume20":  14789275,
+                       "changePct":  -7.45,
+                       "ema50":  172.71,
+                       "ema100":  174.42,
+                       "ema200":  172.77,
+                       "bb":  {
+                                  "upper":  188.42,
+                                  "middle":  169.85,
+                                  "lower":  151.28
+                              },
+                       "macd":  {
+                                    "macd":  -4.31,
+                                    "signal":  -2.72,
+                                    "hist":  -1.59
+                                },
+                       "rsi14":  35.1,
+                       "high52w":  259.92,
+                       "low52w":  121.99,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         250.01
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         242.57
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         215.94
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         217.77
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         205.42
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         191.2
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         202.96
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         211.72
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         220.81
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         214.07
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         212.97
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         226.11
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         221.9
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         204.13
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         197.41
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         204.9
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         189.39
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         188.72
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         184.79
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         181.92
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         176.25
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         186.48
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         182.97
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         186.56
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         191.11
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         189.16
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         183.98
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         178.1
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         177.98
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         170.61
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         171.78
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         170.32
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         173.5
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         175.63
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         171.11
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         166.97
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         170.04
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         162.88
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         155.68
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         151.6
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         147.61
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         151.57
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         162.67
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         157.53
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         160.39
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         167.86
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         162.17
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         162.68
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         163.07
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         164.79
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         165.79
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         162.18
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         160.19
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         161.91
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         160.74
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         160.75
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         158.53
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         160.56
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         163.72
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         164.78
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         164.19
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         170.48
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         166.61
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         169.96
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         168.57
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         168.74
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         174.09
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         176.4
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         176.88
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         181.97
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         180.15
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         187.8
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         184.84
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         188.71
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         177.72
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         194.23
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         198.27
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         197.24
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         194.26
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         201.97
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         187.48
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         184.1
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         184.04
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         182.09
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         184.87
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         180.79
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         181.03
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         177.12
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         176.01
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         175.5
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         174.43
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         176.86
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         172.62
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         178.4
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         172.11
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         173.53
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         175.71
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         177.96
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         172.83
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         175.91
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         179.6
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         184.17
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         182.97
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         185.41
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         164.79
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         162.08
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         164.43
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         173.19
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         156.75
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         165.41
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         171.47
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         173.53
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         176.57
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         177.14
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         172.47
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         168.52
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         166.67
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         159.81
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         162.01
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         149.94
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          188.6,
+                                          190.72,
+                                          191.71,
+                                          192.73,
+                                          193.23,
+                                          193.15,
+                                          193.53,
+                                          194.25,
+                                          195.29,
+                                          196.03,
+                                          196.69,
+                                          197.84,
+                                          198.79,
+                                          199,
+                                          198.93,
+                                          199.17,
+                                          198.78,
+                                          198.39,
+                                          197.86,
+                                          197.23,
+                                          196.41,
+                                          196.02,
+                                          195.51,
+                                          195.16,
+                                          195,
+                                          194.77,
+                                          194.35,
+                                          193.71,
+                                          193.09,
+                                          192.21,
+                                          191.41,
+                                          190.58,
+                                          189.91,
+                                          189.35,
+                                          188.64,
+                                          187.79,
+                                          187.09,
+                                          186.14,
+                                          184.95,
+                                          183.64,
+                                          182.23,
+                                          181.02,
+                                          180.3,
+                                          179.41,
+                                          178.67,
+                                          178.24,
+                                          177.61,
+                                          177.03,
+                                          176.48,
+                                          176.02,
+                                          175.62,
+                                          175.09,
+                                          174.51,
+                                          174.01,
+                                          173.49,
+                                          172.99,
+                                          172.43,
+                                          171.96,
+                                          171.64,
+                                          171.37,
+                                          171.09,
+                                          171.06,
+                                          170.89,
+                                          170.85,
+                                          170.76,
+                                          170.68,
+                                          170.82,
+                                          171.04,
+                                          171.27,
+                                          171.68,
+                                          172.02,
+                                          172.64,
+                                          173.11,
+                                          173.73,
+                                          173.88,
+                                          174.68,
+                                          175.61,
+                                          176.45,
+                                          177.15,
+                                          178.13,
+                                          178.49,
+                                          178.71,
+                                          178.92,
+                                          179.05,
+                                          179.27,
+                                          179.33,
+                                          179.4,
+                                          179.31,
+                                          179.18,
+                                          179.04,
+                                          178.86,
+                                          178.78,
+                                          178.54,
+                                          178.53,
+                                          178.28,
+                                          178.09,
+                                          178,
+                                          178,
+                                          177.8,
+                                          177.72,
+                                          177.8,
+                                          178.05,
+                                          178.24,
+                                          178.52,
+                                          177.98,
+                                          177.36,
+                                          176.85,
+                                          176.71,
+                                          175.92,
+                                          175.51,
+                                          175.35,
+                                          175.28,
+                                          175.33,
+                                          175.4,
+                                          175.29,
+                                          175.02,
+                                          174.7,
+                                          174.11,
+                                          173.64,
+                                          172.71
+                                      ]
+                   },
+    "en":  {
+               "headline":  "QCOM breaks below $151 support as handset slump and chip rout collide",
+               "technical":  "Trend is down. QCOM closed at $149.94 on 2026-11-20, about 13% below all three EMAs (exponential moving averages, which track the average price): EMA50 $172.71, EMA100 $174.42, EMA200 $172.77. The three lines are bunched together, and EMA50 has slipped just under EMA200. That points to a stalled trend that is turning down. Momentum is negative. MACD (the gap between the 12-day and 26-day EMAs) is -4.31, below its signal line at -2.72, and the histogram is -1.59. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 35.1: weak, but not yet oversold. The close was below the lower Bollinger Band at $151.28. The bands mark the normal range around the 20-day average, so a close below the lower band shows strong selling, though such moves often snap back partly. The day opened at $161.32 and closed near its $149.13 low, a 7.45% drop. Volume was 22.2M shares, about 1.5x the 20-day average, which confirms the selling. The price sits about 20% of the way up its 52-week range ($121.99–$259.92) and is 42% below the high. Resistance is around $161–162 and then the $170–175 EMA cluster. There is no clear support until the $122 52-week low.",
+               "fundamental":  "On 2026-11-04 Qualcomm reported fiscal Q4 2026. Non-GAAP revenue was $10.44B (down 7% year on year) and EPS was $2.17, both slightly above forecasts. Handset revenue fell 26% to $5.14B. Apple is moving to its own modems, and high memory prices are hurting phone demand. Automotive revenue rose 89% to a record $1.99B. Licensing revenue (QTL, the patent business) was $1.30B, down 7%. The chip unit\u0027s pretax margin fell to 24% from 29%. Q1 FY27 guidance is revenue of $10.4–11.2B and non-GAAP EPS of $2.15–2.35, with data-center revenue above $650M. FY27 guidance assumes no Apple chip sales at all. For the AI value chain, Qualcomm is trying to shift from phones toward cars, PCs and AI inference in data centers. In September it signed a deal letting Amazon buy up to $60B of its data-center AI chips. The licensing moat is still in place but shrinking slowly.",
+               "news":  [
+                            "2026-11-04: Q4 FY26 results came in slightly ahead of estimates, but the profit outlook was weak and the chip margin was squeezed, so shares fell about 9.5% on 2026-11-05. CEO Cristiano Amon said revenue from outside handsets should \u0027replace Apple entirely\u0027.",
+                            "At the 2026-11-04 call, management set a December-quarter data-center revenue target above $650M, ahead of the roughly $539M Wall Street expected. It repeated its goal of about $5B in data-center revenue for the year.",
+                            "2026-11-09: Freedom Capital Markets cut QCOM to Hold from Buy and lowered its target to $185 from $200. Morgan Stanley also cut its target to $197 from $220 and kept Equal Weight.",
+                            "2026-11-18: Qualcomm and Cirrascale launched a cloud service on the Dragonfly AI200 inference platform, so customers can test their own AI workloads before buying.",
+                            "2026-11-20: A broad chip selloff, led by AMD and Micron, pulled the Nasdaq down sharply on worries about regulation, valuations and interest rates. QCOM fell 7.45% that day, and we found no news specific to Qualcomm."
+                        ],
+               "caution":  "The technical picture is clearly negative. The price is below every EMA, MACD is falling and volume confirms the selling. The fundamentals also have real weak spots. Handset revenue, the core business, fell 26%. Apple chip revenue is expected to drop to zero. The chip margin fell 5 points, and capital spending more than doubled to $2.49B, which cut free cash flow. The data-center story has not yet delivered material revenue. If the sector-wide selloff deepens, the $122 52-week low is the next clear support.",
+               "opportunity":  "The stock is cheap and some parts of the business are growing fast. The trailing P/E is about 11.8 and the dividend yield about 2.45%. FY26 buybacks plus dividends totalled $11.7B. Automotive revenue rose 89%, and the data-center target beat expectations. Much of the Nov 20 drop came from a sector-wide selloff rather than Qualcomm\u0027s own news. RSI 35 and a close below the lower Bollinger Band show the stock is heavily sold, which often leads to a short-term bounce. The next real test is the early-February 2027 results.",
+               "risks":  [
+                             "Apple fully exits as a modem customer and global smartphone shipments stay weak because of high memory prices",
+                             "The chip unit\u0027s margin keeps falling if wafer, packaging and memory costs do not ease by the March 2027 quarter",
+                             "Data-center AI200/AI250 sales or the Amazon deal ramp more slowly than promised",
+                             "A sector-wide chip selloff that drags QCOM down whatever its own news",
+                             "Licensing (QTL) revenue erodes as the handset market shrinks"
+                         ],
+               "summary":  "QCOM is in a technical downtrend. It closed at $149.94, below all three EMAs and the lower Bollinger Band, with MACD negative and volume 1.5x normal. Two things drove the drop: weak FY27 profit guidance on 2026-11-04 as Apple leaves and handsets fall 26%, and a broad chip selloff on 2026-11-20. The licensing and patent moat is intact but slowly shrinking with the handset market. The thesis is moving toward cars, PCs and data-center AI, which grew strongly but has not yet replaced the core business. Thesis status: watch."
+           },
+    "th":  {
+               "headline":  "QCOM หลุดแนวรับ $151 เมื่อยอดมือถือที่ทรุดตัวมาเจอแรงเทขายหุ้นชิป",
+               "technical":  "แนวโน้มเป็นขาลง QCOM ปิดวันที่ 2026-11-20 ที่ $149.94 ต่ำกว่า EMA ทั้งสามเส้นราว 13% (EMA คือเส้นค่าเฉลี่ยราคาแบบถ่วงน้ำหนัก) ได้แก่ EMA50 $172.71, EMA100 $174.42 และ EMA200 $172.77 เส้นทั้งสามอยู่ชิดกัน และ EMA50 เพิ่งหลุดลงใต้ EMA200 เล็กน้อย บ่งชี้ว่าแนวโน้มที่เคยทรงตัวกำลังหันลง โมเมนตัมเป็นลบ MACD (ส่วนต่างระหว่าง EMA 12 วันกับ 26 วัน) อยู่ที่ -4.31 ต่ำกว่าเส้นสัญญาณที่ -2.72 และฮิสโตแกรมอยู่ที่ -1.59 RSI 14 (มาตรวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 35.1 คืออ่อนแรงแต่ยังไม่ถึงโซน oversold ราคาปิดต่ำกว่าขอบล่าง Bollinger Band ที่ $151.28 (กรอบราคาปกติรอบค่าเฉลี่ย 20 วัน) แสดงว่าแรงขายรุนแรง แต่หลังสัญญาณแบบนี้ราคามักเด้งกลับได้บางส่วน วันนั้นราคาเปิดที่ $161.32 แล้วปิดใกล้จุดต่ำสุดของวันที่ $149.13 ลดลง 7.45% วอลุ่มอยู่ที่ 22.2 ล้านหุ้น ราว 1.5 เท่าของค่าเฉลี่ย 20 วัน ยืนยันว่าแรงขายเป็นของจริง ราคาอยู่ราว 20% จากก้นกรอบ 52 สัปดาห์ ($121.99–$259.92) และต่ำกว่าจุดสูงสุด 42% แนวต้านอยู่ที่ $161–162 ถัดไปคือโซน EMA $170–175 ส่วนแนวรับที่ชัดเจนถัดไปคือจุดต่ำสุด 52 สัปดาห์ที่ $122",
+               "fundamental":  "Qualcomm ประกาศงบไตรมาส 4 ปีงบ 2026 เมื่อ 2026-11-04 รายได้ non-GAAP อยู่ที่ $10.44B ลดลง 7% จากปีก่อน และ EPS อยู่ที่ $2.17 ดีกว่าที่ตลาดคาดเล็กน้อย รายได้ชิปมือถือลดลง 26% เหลือ $5.14B เพราะ Apple หันไปใช้โมเด็มของตัวเอง และราคาหน่วยความจำที่แพงขึ้นกดยอดขายมือถือ ส่วนรายได้ยานยนต์โต 89% ทำสถิติใหม่ที่ $1.99B รายได้ค่าสิทธิบัตร (QTL) อยู่ที่ $1.30B ลดลง 7% มาร์จินก่อนภาษีของธุรกิจชิปลดลงจาก 29% เหลือ 24% แนวทางไตรมาส 1 ปีงบ 27 คือรายได้ $10.4–11.2B และ EPS non-GAAP $2.15–2.35 โดยคาดรายได้ data center เกิน $650M ทั้งนี้ประมาณการปีงบ 27 ทั้งปีตั้งสมมติฐานว่าจะไม่มีรายได้ชิปจาก Apple เลย ในห่วงโซ่ AI บริษัทกำลังย้ายฐานจากมือถือไปที่รถยนต์ PC และชิป AI inference สำหรับ data center โดยเมื่อเดือนกันยายนได้ทำดีลให้ Amazon ซื้อชิป AI สำหรับ data center ได้สูงสุด $60B คูน้ำด้านสิทธิบัตรยังอยู่ แต่ค่อยๆ หดตัวลง",
+               "news":  [
+                            "2026-11-04: งบไตรมาส 4 ปีงบ 26 ออกมาดีกว่าคาดเล็กน้อย แต่แนวโน้มกำไรอ่อนและมาร์จินธุรกิจชิปถูกบีบ หุ้นจึงร่วงราว 9.5% ในวันที่ 2026-11-05 ซีอีโอ Cristiano Amon บอกว่ารายได้นอกธุรกิจมือถือจะ \u0027ชดเชยรายได้จาก Apple ได้ทั้งหมด\u0027",
+                            "ในการประชุมนักวิเคราะห์วันที่ 2026-11-04 ผู้บริหารตั้งเป้ารายได้ data center ไตรมาสธันวาคมไว้เกิน $650M สูงกว่าที่ตลาดคาดไว้ราว $539M และยืนยันเป้ารายได้ data center ทั้งปีราว $5B",
+                            "2026-11-09: Freedom Capital Markets ลดอันดับ QCOM จาก Buy เป็น Hold และลดราคาเป้าหมายจาก $200 เหลือ $185 ส่วน Morgan Stanley ลดราคาเป้าหมายจาก $220 เหลือ $197 และคงอันดับ Equal Weight",
+                            "2026-11-18: Qualcomm จับมือกับ Cirrascale เปิดบริการคลาวด์บนแพลตฟอร์ม Dragonfly AI200 ให้ลูกค้าทดลองรันงาน AI inference ของตัวเองก่อนตัดสินใจซื้อ",
+                            "2026-11-20: หุ้นชิปถูกเทขายทั้งกลุ่ม นำโดย AMD และ Micron จากความกังวลเรื่องกฎระเบียบ มูลค่าหุ้นที่สูง และดอกเบี้ย ทำให้ Nasdaq ร่วงแรง QCOM ลดลง 7.45% ในวันนั้น และเราไม่พบข่าวเฉพาะของ Qualcomm"
+                        ],
+               "caution":  "ภาพทางเทคนิคเป็นลบชัดเจน ราคาอยู่ใต้ EMA ทุกเส้น MACD ชี้ลง และวอลุ่มยืนยันแรงขาย พื้นฐานก็มีจุดอ่อนจริง รายได้ชิปมือถือซึ่งเป็นธุรกิจหลักลดลง 26% รายได้ชิปจาก Apple คาดว่าจะเหลือศูนย์ มาร์จินธุรกิจชิปลดลง 5 จุด และงบลงทุนเพิ่มขึ้นกว่าเท่าตัวเป็น $2.49B ทำให้กระแสเงินสดอิสระลดลง ส่วนเรื่อง data center ยังไม่สร้างรายได้ที่มีนัยสำคัญ หากแรงขายหุ้นชิปทั้งกลุ่มลากยาว แนวรับที่ชัดเจนถัดไปคือ $122",
+               "opportunity":  "หุ้นมีมูลค่าถูกและบางธุรกิจกำลังโตเร็ว P/E ย้อนหลังราว 11.8 เท่า ปันผลราว 2.45% ในปีงบ 26 บริษัทซื้อหุ้นคืนรวมกับจ่ายปันผลถึง $11.7B รายได้ยานยนต์โต 89% และเป้า data center สูงกว่าที่ตลาดคาด แรงขายวันที่ 20 พ.ย. ส่วนใหญ่มาจากทั้งกลุ่มชิป ไม่ใช่ข่าวของ Qualcomm เอง RSI ที่ 35 และราคาที่ปิดใต้ขอบล่าง Bollinger Band บ่งชี้ว่าหุ้นถูกขายหนัก ซึ่งมักตามมาด้วยการเด้งระยะสั้น บททดสอบจริงคืองบต้นเดือนกุมภาพันธ์ 2027",
+               "risks":  [
+                             "Apple เลิกใช้โมเด็มของ Qualcomm ทั้งหมด และยอดส่งสมาร์ทโฟนทั่วโลกยังซบเซาจากราคาหน่วยความจำที่แพง",
+                             "มาร์จินธุรกิจชิปลดลงต่อ หากต้นทุนเวเฟอร์ แพ็กเกจจิ้ง และหน่วยความจำไม่ผ่อนคลายภายในไตรมาสมีนาคม 2027",
+                             "ยอดขาย AI200/AI250 สำหรับ data center หรือดีลกับ Amazon เพิ่มขึ้นช้ากว่าที่บริษัทสัญญาไว้",
+                             "แรงเทขายหุ้นชิปทั้งกลุ่มที่ลาก QCOM ลงไม่ว่าข่าวของบริษัทจะเป็นอย่างไร",
+                             "รายได้ค่าสิทธิบัตร (QTL) ถูกกัดกร่อนตามตลาดมือถือที่หดตัว"
+                         ],
+               "summary":  "QCOM อยู่ในขาลงทางเทคนิค ราคาปิดที่ $149.94 ต่ำกว่า EMA ทั้งสามเส้นและขอบล่าง Bollinger Band MACD เป็นลบ และวอลุ่มสูงกว่าปกติ 1.5 เท่า แรงกดดันมีสองส่วน ส่วนแรกคือแนวโน้มกำไรปีงบ 27 ที่อ่อนตั้งแต่ 2026-11-04 เพราะ Apple ถอนตัวและรายได้มือถือลดลง 26% ส่วนที่สองคือแรงขายหุ้นชิปทั้งกลุ่มเมื่อ 2026-11-20 คูน้ำด้านสิทธิบัตรยังอยู่แต่หดลงตามตลาดมือถือ ธีสิสกำลังย้ายไปพึ่งรถยนต์ PC และ AI ใน data center ซึ่งโตดีแต่ยังทดแทนธุรกิจหลักไม่ได้ สถานะธีสิส: ต้องจับตา (watch)"
+           },
+    "sources":  [
+                    {
+                        "title":  "QUALCOMM INC/DE - Form 8-K Exhibit 99.1 (Q4 FY2026 results)",
+                        "publisher":  "SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0000804328/000080432826000127/qcom092726erex991.htm",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "Qualcomm\u0027s (NASDAQ: QCOM) Chip Margins Crater As Auto Revenue Sets Record And Amazon Deal Anchors Data Center Push",
+                        "publisher":  "Foreign Policy Journal",
+                        "url":  "https://www.foreignpolicyjournal.com/2026/11/15/qualcomms-nasdaq-qcom-chip-margins-crater-as-auto-revenue-sets-record-and-amazon-deal-anchors-data-center-push/",
+                        "date":  "2026-11-15"
+                    },
+                    {
+                        "title":  "QUALCOMM (QCOM) Q4 2026 Earnings Call Transcript",
+                        "publisher":  "StockAnalysis",
+                        "url":  "https://stockanalysis.com/stocks/qcom/transcripts/718644-q4-2026/",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "QUALCOMM (QCOM) Stock Price \u0026 Overview",
+                        "publisher":  "StockAnalysis",
+                        "url":  "https://stockanalysis.com/stocks/qcom/",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Is Freedom Capital Markets Wrong to Give Up on Qualcomm? Wall Street Still Sees $185",
+                        "publisher":  "TIKR",
+                        "url":  "https://www.tikr.com/blog/is-freedom-capital-markets-wrong-to-give-up-on-qualcomm-wall-street-still-sees-185"
+                    },
+                    {
+                        "title":  "Can Qualcomm\u0027s Deal With Cirrascale Boost its AI Growth Prospects?",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/technology/ai/articles/qualcomms-deal-cirrascale-boost-ai-143000776.html"
+                    },
+                    {
+                        "title":  "Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/",
+                        "date":  "2026-11-20"
+                    }
+                ]
+}

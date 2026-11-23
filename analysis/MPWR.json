@@ -1,0 +1,760 @@
+{
+    "ticker":  "MPWR",
+    "name":  "Monolithic Power Systems",
+    "symbol":  "NASDAQ:MPWR",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:50:59Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:MPWR",
+                       "yahoo":  "MPWR",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:46:31Z",
+                       "price":  1142.05,
+                       "open":  1260.38,
+                       "high":  1271.13,
+                       "low":  1132.78,
+                       "volume":  1789900,
+                       "avgVolume20":  1168900,
+                       "changePct":  -11.87,
+                       "historyDays":  501,
+                       "ema50":  1294.62,
+                       "ema100":  1306.32,
+                       "ema200":  1265.55,
+                       "bb":  {
+                                  "upper":  1473.64,
+                                  "middle":  1279.92,
+                                  "lower":  1086.21
+                              },
+                       "macd":  {
+                                    "macd":  1.55,
+                                    "signal":  11.5,
+                                    "hist":  -9.95
+                                },
+                       "rsi14":  39.78,
+                       "high52w":  1714.09,
+                       "low52w":  833.18,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         1689.89
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         1652.6
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         1481.05
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         1559.18
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         1531.98
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         1473.04
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         1589.55
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         1577.32
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         1652.29
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         1498.77
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         1448.21
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         1563.7
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         1537.88
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         1423.76
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         1434.95
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         1438.3
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         1313.32
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         1312.77
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         1382.36
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         1331.73
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         1288.16
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         1346.13
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         1272.81
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         1315.51
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         1374.13
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         1352.74
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         1291.38
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         1376.41
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         1352.66
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         1305.65
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         1312
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         1328.8
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         1383.26
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         1398.45
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         1397.15
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         1333.81
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         1339.08
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         1282.01
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         1248.76
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         1316.18
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         1426.03
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         1344.37
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         1335.03
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         1345.46
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         1359.08
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         1401.54
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         1381.1
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         1402.11
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         1425.01
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         1362.55
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         1402.01
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         1415.99
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         1333.18
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         1300.14
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         1310.6
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         1316.28
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         1285.03
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         1304.15
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         1303.88
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         1311.08
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         1256.26
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         1267.77
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         1225.96
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         1219.36
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         1213.65
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         1223.86
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         1218.5
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         1203.75
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         1186.08
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         1234.46
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         1143.24
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         1142.46
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         1147.61
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         1169.58
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         1217.8
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         1277.68
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         1380.62
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         1355.47
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         1335.55
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         1367.43
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         1351.2
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         1355.99
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         1347.22
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         1360.97
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         1439.73
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         1479.89
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         1473.69
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         1425.98
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         1369.8
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         1386.29
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         1319.23
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         1319.55
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         1243.11
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         1249.2
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         1210.86
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         1253.66
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         1248.74
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         1283.32
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         1167.93
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         1140.12
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         1167.27
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         1211.89
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         1211.22
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         1198.81
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         1211.63
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         1243.95
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         1328.3
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         1261.08
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         1131.43
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         1190.44
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         1388.05
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         1357.6
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         1478.69
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         1447.4
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         1390.54
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         1314
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         1317.37
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         1310.91
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         1295.86
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         1142.05
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          1472.05,
+                                          1479.13,
+                                          1479.2,
+                                          1482.34,
+                                          1484.29,
+                                          1483.85,
+                                          1487.99,
+                                          1491.49,
+                                          1497.8,
+                                          1497.84,
+                                          1495.89,
+                                          1498.55,
+                                          1500.09,
+                                          1497.1,
+                                          1494.66,
+                                          1492.45,
+                                          1485.43,
+                                          1478.66,
+                                          1474.88,
+                                          1469.27,
+                                          1462.16,
+                                          1457.61,
+                                          1450.37,
+                                          1445.08,
+                                          1442.3,
+                                          1438.78,
+                                          1433,
+                                          1430.78,
+                                          1427.72,
+                                          1422.93,
+                                          1418.58,
+                                          1415.06,
+                                          1413.81,
+                                          1413.21,
+                                          1412.58,
+                                          1409.49,
+                                          1406.73,
+                                          1401.84,
+                                          1395.84,
+                                          1392.71,
+                                          1394.02,
+                                          1392.07,
+                                          1389.84,
+                                          1388.1,
+                                          1386.96,
+                                          1387.53,
+                                          1387.28,
+                                          1387.86,
+                                          1389.32,
+                                          1388.27,
+                                          1388.81,
+                                          1389.87,
+                                          1387.65,
+                                          1384.22,
+                                          1381.33,
+                                          1378.78,
+                                          1375.1,
+                                          1372.32,
+                                          1369.64,
+                                          1367.34,
+                                          1362.98,
+                                          1359.25,
+                                          1354.02,
+                                          1348.74,
+                                          1343.44,
+                                          1338.75,
+                                          1334.04,
+                                          1328.93,
+                                          1323.33,
+                                          1319.84,
+                                          1312.92,
+                                          1306.23,
+                                          1300.01,
+                                          1294.9,
+                                          1291.87,
+                                          1291.32,
+                                          1294.82,
+                                          1297.2,
+                                          1298.7,
+                                          1301.4,
+                                          1303.35,
+                                          1305.41,
+                                          1307.05,
+                                          1309.17,
+                                          1314.29,
+                                          1320.78,
+                                          1326.78,
+                                          1330.67,
+                                          1332.2,
+                                          1334.32,
+                                          1333.73,
+                                          1333.18,
+                                          1329.64,
+                                          1326.49,
+                                          1321.96,
+                                          1319.28,
+                                          1316.51,
+                                          1315.21,
+                                          1309.43,
+                                          1302.79,
+                                          1297.48,
+                                          1294.12,
+                                          1290.87,
+                                          1287.26,
+                                          1284.3,
+                                          1282.71,
+                                          1284.5,
+                                          1283.58,
+                                          1277.62,
+                                          1274.2,
+                                          1278.66,
+                                          1281.76,
+                                          1289.48,
+                                          1295.67,
+                                          1299.39,
+                                          1299.97,
+                                          1300.65,
+                                          1301.05,
+                                          1300.85,
+                                          1294.62
+                                      ]
+                   },
+    "en":  {
+               "caution":  "Short-term momentum is decisively against the stock: MPWR broke below its 50-, 100-, and 200-day EMAs on 1.53x volume, and an RSI 14 of 39.78 shows selling pressure is not yet technically oversold. Beyond chart damage, investors face two real overhangs—supply-chain shockwaves from NVIDIA’s SEC accounting probe and broader hyperscaler CapEx skepticism, plus MPS’s own unremediated deferred-tax internal-control weakness and Rosen Law Firm inquiry. A break beneath the $1,086.21 lower Bollinger Band would expose deeper support toward the $833.18 52-week low.",
+               "cons":  [
+                            "Shares sank 11.87% to $1,142.05 on Nov 20, 2026 on 1.53x average volume, breaking decisively below the 50-, 100-, and 200-day EMAs.",
+                            "Heavy exposure to AI server spending makes MPWR vulnerable to supply-chain contagion from NVIDIA’s Nov 20 SEC probe shock and hyperscaler CapEx doubts.",
+                            "The Nov 3 Q3 Form 10-Q confirmed an unremediated material weakness in deferred-tax internal controls, alongside a Rosen Law Firm fiduciary investigation.",
+                            "Now 33.4% below its $1,714.09 52-week high, the stock faces heavy overhead technical resistance between $1,265 and $1,306."
+                        ],
+               "fundamental":  "Monolithic Power Systems designs integrated power-management chips and modules that solve the “last-inch” challenge of stepping down high voltages cleanly beside 1,000W+ AI processors. Its Oct 29, 2026 Q3 results underscored that moat: revenue jumped 63.1% YoY (+22.6% sequentially) to a record $1,202.4 million, Non-GAAP EPS reached $8.19 (GAAP $5.51), and Non-GAAP gross margin edged up to 55.7%. Enterprise Data led with $506.7 million (+164.6% YoY), while Communications added $187.4 million alongside steady automotive and industrial demand. Management guided Q4 revenue to $1,315–$1,385 million (Non-GAAP gross margin 55.5%–56.1%), lifted its annual Enterprise Data growth floor to 150%, and is expanding annualized capacity from over $6 billion toward $8 billion by H2 2027, with GaN/SiC 800V data-center modules sampling for 2027–2028 ramps.",
+               "headline":  "Record Q3 AI growth collides with an 11.9% chip-rout breakdown",
+               "news":  [
+                            "Oct 29, 2026: MPS reported its first $1 billion+ quarter with Q3 revenue of $1,202.4 million (+63.1% YoY) and Non-GAAP EPS of $8.19, beating consensus. Management guided Q4 revenue to $1,315–$1,385 million and raised its annual Enterprise Data growth floor from 130% to 150%.",
+                            "Oct 29, 2026: MPS appointed VP of Finance Tony Balow as permanent CFO and moved Interim CFO Robert Dean into the Chief Accounting Officer role. The appointments formalize finance leadership following former CFO Bernie Blegen’s retirement.",
+                            "Oct 30, 2026: Wall Street analysts stayed constructive after Q3 results, with Truist raising its price target to $1,906 (Buy), Needham reiterating Buy at $2,000, and TD Cowen keeping Buy at $1,700.",
+                            "Nov 3, 2026: MPS’s Q3 Form 10-Q noted that a previously identified material weakness in deferred-tax internal controls remained unremediated, with remediation targeted by year-end 2026. The same day, Rosen Law Firm announced a fiduciary-duty investigation into MPS directors and officers.",
+                            "Nov 20, 2026: MPWR fell 11.87% to $1,142.05 in a sharp AI semiconductor rout as key supply-chain partner NVIDIA plunged roughly 14% following reports of an SEC accounting probe and lingering post-CEO transition uncertainty."
+                        ],
+               "opportunity":  "The 33.4% pullback from the $1,714.09 high reflects sector-wide de-risking rather than deteriorating operations at MPS. Enterprise Data surged 164.6% YoY to $506.7 million, Q4 revenue guidance jumped to $1,315–$1,385 million, and Non-GAAP gross margins held steady at 55.7%. As megawatt-scale AI racks transition toward 800-volt DC power across next-generation GPUs and custom hyperscaler ASICs in 2027–2028, MPS’s power-conversion lead and planned $8 billion capacity expansion keep its multi-year thesis intact. Watch whether price stabilizes near $1,086 support and whether deferred-tax controls clear remediation by year-end.",
+               "opportunityCheck":  "The page’s AI-opportunity framework looks directionally sound, but the AI revenue exposure rating now appears too low and should be moved up. In Q3 2026, Enterprise Data reached 42.1% of total revenue after growing 164.6% year-over-year, and management raised the segment’s annual growth floor to 150%—meaning AI server power delivery is rapidly approaching half the business. Bottleneck and pricing power also warrant a slight upward nudge given steady 55.7% Non-GAAP gross margins through rapid scaling, while market growth, position, and optionality look appropriately balanced around upcoming 800-volt architectures.",
+               "pros":  [
+                            "Q3 2026 revenue crossed $1 billion for the first time at $1,202.4 million (+63.1% YoY), with Q4 guided higher to $1,315–$1,385 million.",
+                            "Enterprise Data jumped 164.6% YoY to $506.7 million (42.1% of sales), prompting management to raise its annual segment growth floor to 150%.",
+                            "Non-GAAP gross margin held firm at 55.7% in Q3 while capacity scales past $6 billion toward $8 billion by the second half of 2027.",
+                            "Next-generation GaN and SiC 800-volt data-center samples and custom AI ASIC wins diversify power-delivery growth beyond a single GPU platform."
+                        ],
+               "risks":  [
+                             "Direct AI supply-chain contagion if NVIDIA’s SEC probe or hyperscaler CapEx tightening delays AI server rack orders.",
+                             "Governance and reporting risk if the deferred-tax internal-control material weakness misses its end-2026 remediation target.",
+                             "Customer concentration and multi-sourcing pressure in high-density AI power stages from large analog and power-chip rivals.",
+                             "Continued valuation multiple compression across AI infrastructure stocks amid elevated interest rates and technical resistance at $1,265–$1,306."
+                         ],
+               "summary":  "Monolithic Power Systems plunged 11.87% to $1,142.05 on Nov 20, 2026, dragged into an AI semiconductor sell-off triggered by an SEC accounting probe report and leadership turmoil at key customer NVIDIA. That drop contrasts sharply with MPS’s Oct 29 Q3 2026 report: revenue jumped 63.1% year-over-year to a record $1.202 billion, Enterprise Data surged 164.6% to $506.7 million, and Q4 revenue guidance reached $1.315–$1.385 billion. Technically, the chart turned bearish below all major moving averages, yet MPS’s long-term power-conversion moat remains intact.",
+               "technical":  "As of Nov 20, 2026, MPWR’s technical posture is clearly bearish after an 11.87% single-day drop to $1,142.05. Price now sits well beneath all three Exponential Moving Averages (EMAs — trend lines tracking average prices): EMA 50 ($1,294.62), EMA 100 ($1,306.32), and EMA 200 ($1,265.55). EMA 50 has already slipped under EMA 100, and Friday’s intraday bounce stalled at $1,271.13 near the EMA 200 before closing near the $1,132.78 low, turning the $1,265–$1,306 zone into heavy resistance. Momentum confirms downside control: MACD (a trend-momentum gauge) stands at 1.55 versus its 11.50 signal line, leaving a steep -9.95 histogram, while RSI 14 (a 0–100 momentum gauge where under 30 is oversold) sits at 39.78—weak, yet not oversold. Within Bollinger Bands (a volatility channel around the 20-day average), price trades far below the $1,279.92 midline toward the $1,086.21 lower band, marking near-term support. Sitting 33.4% below its $1,714.09 52-week high ($833.18 low), the breakdown carried 1.79 million shares—1.53x the 1.17 million 20-day average—confirming institutional selling."
+           },
+    "th":  {
+               "caution":  "โมเมนตัมระยะสั้นอยู่ในฝั่งขาลงชัดเจนหลัง MPWR หลุด EMA 50, 100 และ 200 พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย 1.53 เท่า ขณะที่ RSI 14 ที่ 39.78 สะท้อนว่าแรงขายยังไม่ถึงเขตขายมากเกินไป นอกเหนือจากภาพกราฟที่เสียทรง นักลงทุนยังต้องเผชิญแรงกดดันจากทั้งข่าว SEC สอบสวนบัญชี NVIDIA ความกังวลต่องบลงทุน AI ของไฮเปอร์สเกลเลอร์ รวมถึงจุดอ่อนการควบคุมภายในด้านภาษีรอตัดบัญชีที่ยังแก้ไม่เสร็จและคำประกาศตรวจสอบจาก Rosen Law Firm หากหลุดแนวรับขอบล่าง Bollinger Band ที่ $1,086.21 แนวรับถัดไปอาจถอยลึกเข้าใกล้จุดต่ำสุดรอบ 52 สัปดาห์ที่ $833.18",
+               "cons":  [
+                            "ราคาดิ่ง 11.87% สู่ $1,142.05 เมื่อวันที่ 20 พ.ย. 2026 ด้วยวอลุ่มสูงกว่าค่าเฉลี่ย 1.53 เท่า หลุดแนวรับสำคัญทั้ง EMA 50, 100 และ 200 พร้อมกัน",
+                            "การพึ่งพาอุปสงค์เซิร์ฟเวอร์ AI สูงทำให้ MPWR เสี่ยงต่อแรงกระเพื่อมในซัพพลายเชนจากข่าว SEC สอบบัญชี NVIDIA และความกังวลต่องบลงทุน AI ของลูกค้ากลุ่มคลาวด์",
+                            "รายงาน 10-Q เมื่อวันที่ 3 พ.ย. 2026 ระบุว่าจุดอ่อนสำคัญด้านการควบคุมภายในเรื่องภาษีรอตัดบัญชียังไม่ถูกแก้ไขเสร็จสิ้น และมีสำนักงานกฎหมาย Rosen Law Firm ประกาศสอบสวนฝ่ายบริหาร",
+                            "ราคาที่ร่วงลงมาแล้ว 33.4% จากจุดสูงสุด 52 สัปดาห์ที่ $1,714.09 เผชิญโซนแนวต้านทางเทคนิคหนาแน่นในช่วง $1,265–$1,306"
+                        ],
+               "fundamental":  "Monolithic Power Systems ออกแบบชิปและโมดูลจัดการพลังงานประสิทธิภาพสูงเพื่อแก้ปัญหาคอขวด “ช่วงสุดท้าย” ในการแปลงแรงดันไฟฟ้าสูงให้จ่ายไฟอย่างแม่นยำข้างชิป AI ที่กินไฟเกิน 1,000 วัตต์ งบ Q3 2026 วันที่ 29 ต.ค. ตอกย้ำความแข็งแกร่งของคูเมืองธุรกิจชัดเจน โดยรายได้พุ่ง 63.1% YoY (+22.6% QoQ) แตะระดับสูงสุดเป็นประวัติการณ์ $1,202.4 ล้าน กำไรต่อหุ้น Non-GAAP อยู่ที่ $8.19 (GAAP $5.51) และอัตรากำไรขั้นต้น Non-GAAP ขยับขึ้นเป็น 55.7% กลุ่ม Enterprise Data นำการเติบโตที่ $506.7 ล้าน (+164.6% YoY) ส่วน Communications ทำได้ $187.4 ล้านควบคู่กับกลุ่มยานยนต์และอุตสาหกรรมที่ยังมั่นคง ผู้บริหารให้คาดการณ์รายได้ Q4 ที่ $1,315–$1,385 ล้าน (อัตรากำไรขั้นต้น Non-GAAP 55.5%–56.1%) พร้อมขยายกำลังการผลิตจากกว่า $6 พันล้านสู่ $8 พันล้านภายในครึ่งหลังปี 2027 และเริ่มส่งตัวอย่างชิป GaN/SiC สำหรับระบบไฟ 800 โวลต์ที่จะเริ่มผลิตจำนวนมากช่วงปี 2027–2028",
+               "headline":  "งบ AI Q3 แกร่งทุบสถิติ แต่กราฟพังตามแรงเทขายกลุ่มชิป 11.9%",
+               "news":  [
+                            "29 ต.ค. 2026: MPS รายงานรายได้ไตรมาสทะลุพันล้านดอลลาร์ครั้งแรกที่ $1,202.4 ล้าน (+63.1% YoY) และกำไร Non-GAAP $8.19 ต่อหุ้นสูงกว่าคาด พร้อมคาดรายได้ Q4 ที่ $1,315–$1,385 ล้าน และปรับเป้าขั้นต่ำการเติบโตของ Enterprise Data จาก 130% เป็น 150%",
+                            "29 ต.ค. 2026: บริษัทแต่งตั้ง Tony Balow รองประธานฝ่ายการเงินขึ้นเป็น CFO ถาวร และให้ Robert Dean อดีตรักษาการ CFO ไปดำรงตำแหน่งประธานเจ้าหน้าที่ฝ่ายบัญชี (CAO) เพื่อวางโครงสร้างผู้บริหารการเงินหลังอดีต CFO เกษียณอายุ",
+                            "30 ต.ค. 2026: นักวิเคราะห์วอลล์สตรีทยังคงมุมมองบวกหลังงบ Q3 โดย Truist ปรับเป้าราคาขึ้นเป็น $1,906 (Buy) ขณะที่ Needham คงคำแนะนำ Buy เป้า $2,000 และ TD Cowen คง Buy เป้า $1,700",
+                            "3 พ.ย. 2026: เอกสาร 10-Q ไตรมาส 3 เปิดเผยว่าจุดอ่อนสำคัญด้านการควบคุมภายในเรื่องบัญชีภาษีรอตัดบัญชียังอยู่ระหว่างการแก้ไขโดยตั้งเป้าเสร็จสิ้นปลายปี 2026 และวันเดียวกัน Rosen Law Firm ประกาศสอบสวนประเด็นหน้าที่ความรับผิดชอบของกรรมการและผู้บริหาร",
+                            "20 พ.ย. 2026: หุ้น MPWR ร่วงหนัก 11.87% มาที่ $1,142.05 ท่ามกลางแรงเทขายหุ้นเซิร์ฟเวอร์และชิป AI ทั้งกระดาน หลังลูกค้าหลักอย่าง NVIDIA ดิ่งราว 14% จากรายงานข่าว SEC สอบสวนวิธีทางบัญชีและความกังวลหลังการเปลี่ยนผ่านซีอีโอ"
+                        ],
+               "opportunity":  "การปรับฐานลงมา 33.4% จากจุดสูงสุด $1,714.09 สะท้อนการลดความเสี่ยงของหุ้นกลุ่มชิป AI ทั้งตลาดมากกว่าการชะลอตัวของธุรกิจ MPS เอง เห็นได้จากกลุ่ม Enterprise Data ที่พุ่ง 164.6% YoY แตะ $506.7 ล้าน แนวโน้มรายได้ Q4 ที่เร่งตัวสู่ $1,315–$1,385 ล้าน และอัตรากำไรขั้นต้น Non-GAAP ที่ยืนมั่นคง 55.7% เมื่อแร็ค AI ระดับเมกะวัตต์กำลังเปลี่ยนผ่านสู่ระบบไฟ 800 โวลต์ทั้งในฝั่ง GPU และชิป AI ASIC เฉพาะทางช่วงปี 2027–2028 ความได้เปรียบด้านเทคโนโลยีแปลงพลังงานและแผนขยายกำลังการผลิตสู่ $8 พันล้านจึงยังคงธีมระยะยาวไว้ได้ จุดสำคัญที่ควรจับตาคือการตั้งฐานแถวแนวรับ $1,086 และการปิดจุดอ่อนด้านการควบคุมภายในให้สำเร็จภายในสิ้นปีนี้",
+               "opportunityCheck":  "โครงสร้างคะแนนโอกาสด้าน AI ของหน้าเว็บอยู่ในทิศทางที่เหมาะสม แต่คะแนนสัดส่วนรายได้จาก AI ดูต่ำเกินจริงและควรปรับขึ้น เพราะไตรมาส 3 ปี 2026 กลุ่ม Enterprise Data ขยับขึ้นมาคิดเป็น 42.1% ของรายได้รวมแล้วหลังโตแรง 164.6% YoY อีกทั้งผู้บริหารยังยกเพดานการเติบโตขั้นต่ำทั้งปีขึ้นเป็น 150% สะท้อนว่าธุรกิจจ่ายไฟเซิร์ฟเวอร์ AI กำลังเข้าใกล้ครึ่งหนึ่งของบริษัท ด้านอำนาจต่อรองราคาและบทบาทคอขวดก็สมควรขยับขึ้นเล็กน้อยจากอัตรากำไรขั้นต้น Non-GAAP ที่นิ่งสูง 55.7% ส่วนคะแนนการเติบโตของตลาด ตำแหน่งผู้นำ และโอกาสต่อยอดในระบบ 800 โวลต์ถือว่าสมดุลดีแล้ว",
+               "pros":  [
+                            "รายได้ Q3 2026 ทะลุพันล้านดอลลาร์ครั้งแรกที่ $1,202.4 ล้าน (+63.1% YoY) พร้อมให้กรอบรายได้ Q4 โตต่อที่ $1,315–$1,385 ล้าน",
+                            "กลุ่ม Enterprise Data พุ่ง 164.6% YoY สู่ $506.7 ล้าน (คิดเป็น 42.1% ของรายได้รวม) จนผู้บริหารปรับเป้าการเติบโตขั้นต่ำของกลุ่มนี้ขึ้นเป็น 150%",
+                            "อัตรากำไรขั้นต้น Non-GAAP ยืนแข็งแกร่งที่ 55.7% ขณะที่บริษัทเดินหน้าขยายกำลังการผลิตจากกว่า $6 พันล้านสู่ $8 พันล้านภายในครึ่งหลังปี 2027",
+                            "การส่งตัวอย่างโมดูลไฟ 800 โวลต์แบบ GaN/SiC และงานออกแบบชิปจ่ายไฟให้ AI ASIC เฉพาะทาง ช่วยกระจายการเติบโตไม่ให้ผูกติดกับแพลตฟอร์ม GPU เดียว"
+                        ],
+               "risks":  [
+                             "แรงกระเพื่อมโดยตรงในซัพพลายเชน AI หากการสอบสวนของ SEC ต่อ NVIDIA หรือการชะลองบลงทุนของกลุ่มคลาวด์ทำให้คำสั่งซื้อแร็คเซิร์ฟเวอร์ล่าช้า",
+                             "ความเสี่ยงด้านธรรมาภิบาลและรายงานการเงิน หากไม่สามารถแก้ไขจุดอ่อนด้านการควบคุมภายในเรื่องภาษีรอตัดบัญชีได้ตามกำหนดสิ้นปี 2026",
+                             "ความเสี่ยงจากการกระจุกตัวของลูกค้ารายใหญ่และแรงกดดันด้านการแบ่งซัพพลายเออร์หลายรายในชิ้นส่วนจ่ายไฟ AI จากคู่แข่งชิปอนาล็อกรายใหญ่",
+                             "การปรับลดมูลค่า (valuation multiple) ของหุ้นโครงสร้างพื้นฐาน AI ที่อาจยืดเยื้อท่ามกลางอัตราดอกเบี้ยสูงและแนวต้านทางเทคนิคหนาแน่นช่วง $1,265–$1,306"
+                         ],
+               "summary":  "หุ้น Monolithic Power Systems ร่วงแรง 11.87% ปิดที่ $1,142.05 เมื่อวันที่ 20 พ.ย. 2026 ตามแรงเทขายหุ้นชิป AI ทั้งกลุ่ม หลังมีรายงานว่า SEC สอบสวนบัญชีของลูกค้ารายสำคัญอย่าง NVIDIA ควบคู่กับความไม่แน่นอนหลังเปลี่ยนผ่านซีอีโอ ภาพดังกล่าวสวนทางกับงบ Q3 2026 เมื่อวันที่ 29 ต.ค. ที่แข็งแกร่งเกินคาด รายได้โต 63.1% YoY แตะสถิติสูงสุด $1,202.4 ล้าน กลุ่ม Enterprise Data พุ่ง 164.6% สู่ $506.7 ล้าน และคาดรายได้ Q4 ที่ $1,315–$1,385 ล้าน เชิงเทคนิคกราฟพลิกเป็นขาลงชัดเจนใต้เส้นค่าเฉลี่ยหลักทั้งหมด แต่คูเมืองด้านเทคโนโลยีแปลงพลังงานระยะยาวยังคงแข็งแกร่งไม่เปลี่ยน",
+               "technical":  "ณ วันที่ 20 พ.ย. 2026 ภาพเทคนิคของ MPWR อยู่ในภาวะขาลงชัดเจนหลังราคาดิ่ง 11.87% ในวันเดียวลงมาปิดที่ $1,142.05 ราคาหลุดต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — เส้นวัดแนวโน้มราคาเฉลี่ย) ทั้ง 3 เส้น ได้แก่ EMA 50 ($1,294.62), EMA 100 ($1,306.32) และ EMA 200 ($1,265.55) โดย EMA 50 ตัดลงต่ำกว่า EMA 100 แล้ว และจังหวะดีดตัวระหว่างวันของวันศุกร์ติดแนวต้าน $1,271.13 ใกล้ EMA 200 ก่อนไหลลงมาปิดใกล้จุดต่ำสุดวันนั้นที่ $1,132.78 ทำให้ช่วง $1,265–$1,306 กลายเป็นแนวต้านหนาแน่น ด้านโมเมนตัม MACD (ตัววัดทิศทางและแรงส่ง) อยู่ที่ 1.55 ต่ำกว่าเส้น Signal ที่ 11.50 เกิดแท่ง Histogram ติดลบกว้าง -9.95 ส่วน RSI 14 (มาตรวัดแรงซื้อขาย 0–100 หากต่ำกว่า 30 คือเขตขายมากเกินไป) อยู่ที่ 39.78 บ่งชี้แรงขายคุมเกมแต่ยังไม่ถึงเขตขายมากเกินไป ในกรอบ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาถอยต่ำกว่าเส้นกลาง $1,279.92 เข้าใกล้ขอบล่าง $1,086.21 ซึ่งเป็นแนวรับระยะสั้น ทั้งนี้ราคาย่อลง 33.4% จากจุดสูงสุด 52 สัปดาห์ที่ $1,714.09 (จุดต่ำสุด $833.18) พร้อมปริมาณซื้อขาย 1.79 ล้านหุ้น หรือ 1.53 เท่าของค่าเฉลี่ย 20 วัน (1.17 ล้านหุ้น) ยืนยันแรงขายจากสถาบัน"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-10-29",
+                        "publisher":  "GlobeNewswire",
+                        "title":  "Monolithic Power Systems Reports Third Quarter Results",
+                        "url":  "https://www.globenewswire.com/news-release/2026/10/29/3391800/0/en/monolithic-power-systems-reports-third-quarter-results-on-october-29-2026.html"
+                    },
+                    {
+                        "date":  "2026-10-30",
+                        "publisher":  "The Motley Fool",
+                        "title":  "Monolithic Power Systems (MPWR) Q3 2026 Earnings Call Transcript",
+                        "url":  "https://www.fool.com/earnings/call-transcripts/2026/10/30/monolithic-power-systems-mpwr-q3-2026-earnings-call/"
+                    },
+                    {
+                        "date":  "2026-10-29",
+                        "publisher":  "GlobeNewswire",
+                        "title":  "Monolithic Power Systems Announces Appointments of Chief Financial Officer and Chief Accounting Officer",
+                        "url":  "https://www.globenewswire.com/news-release/2026/10/29/3179116/0/en/Monolithic-Power-Systems-Announces-Appointments-of-Chief-Financial-Officer-and-Chief-Accounting-Officer.html"
+                    },
+                    {
+                        "date":  "2026-10-30",
+                        "publisher":  "Investing.com",
+                        "title":  "Monolithic Power Systems stock price target kept at $1,700 by TD Cowen",
+                        "url":  "https://www.investing.com/news/analyst-upgrades/monolithic-power-systems-stock-price-target-kept-at-1700-by-td-cowen-93CH-3375765"
+                    },
+                    {
+                        "date":  "2026-11-03",
+                        "publisher":  "GlobeNewswire",
+                        "title":  "Rosen Law Firm Announces Investigation of Breaches of Fiduciary Duties by the Directors and Officers of Monolithic Power Systems, Inc.",
+                        "url":  "https://www.globenewswire.com/news-release/2026/11/03/3182604/0/en/Monolithic-Power-Investor-News-Rosen-Law-Firm-Announces-Investigation-of-Breaches-of-Fiduciary-Duties-by-the-Directors-and-Officers-of-Monolithic-Power-Systems-Inc-MPWR.html"
+                    },
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "Seeking Alpha",
+                        "title":  "Monolithic Power Systems retreats 12%, weighed down by tech selloff",
+                        "url":  "https://seekingalpha.com/news/4430267-monolithic-power-systems-retreats-12-weighed-down-by-tech-selloff"
+                    },
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "Forbes",
+                        "title":  "SEC Probe Into Nvidia Is Focused On Accounting Practices, According To Report",
+                        "url":  "https://www.forbes.com/sites/fionariley/2026/11/20/sec-probe-into-nvidia-is-focused-on-accounting-practices-according-to-report/"
+                    }
+                ]
+}

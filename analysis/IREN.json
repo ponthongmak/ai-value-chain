@@ -1,0 +1,733 @@
+{
+    "ticker":  "IREN",
+    "name":  "IREN",
+    "symbol":  "NASDAQ:IREN",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:04:22Z",
+    "costUsd":  0.6562659000000002,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:IREN",
+                       "yahoo":  "IREN",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:02:08Z",
+                       "price":  11.82,
+                       "open":  14.07,
+                       "high":  14.07,
+                       "low":  11.75,
+                       "volume":  131321100,
+                       "avgVolume20":  79461875,
+                       "changePct":  -17.97,
+                       "ema50":  27.78,
+                       "ema100":  34.01,
+                       "ema200":  37.68,
+                       "bb":  {
+                                  "upper":  29.6,
+                                  "middle":  20.65,
+                                  "lower":  11.7
+                              },
+                       "macd":  {
+                                    "macd":  -4.64,
+                                    "signal":  -4.33,
+                                    "hist":  -0.31
+                                },
+                       "rsi14":  24.48,
+                       "high52w":  70.71,
+                       "low52w":  11.75,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         65.48
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         61.86
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         54.35
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         59.19
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         54.02
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         51.52
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         56.71
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         59.77
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         60.85
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         59.18
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         58.11
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         59.96
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         56.87
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         54.72
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         50.3
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         47.74
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         47.21
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         45.91
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         45.73
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         43.32
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         38.82
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         43.91
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         39.81
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         43.01
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         41.72
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         41.14
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         38.98
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         38.59
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         38.28
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         34.83
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         33.62
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         40.2
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         41.29
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         41.28
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         40.58
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         37.07
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         36.29
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         33.93
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         29.31
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         38.26
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         36.8
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         39.75
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         40.85
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         38.89
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         37.93
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         41.23
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         38.74
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         39.75
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         43.67
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         44.76
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         44.06
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         44.9
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         42
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         42.84
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         42.6
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         41.88
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         39.81
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         42.21
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         39.58
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         40.53
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         35.45
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         37.12
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         36.82
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         39.6
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         41.65
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         44.68
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         46.93
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         45.37
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         43.64
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         43.83
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         43.17
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         41.58
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         42.62
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         43.48
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         46.68
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         47.23
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         48.55
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         47.05
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         46.15
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         44.12
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         41.72
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         41.38
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         40.88
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         40.65
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         41.76
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         40.48
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         41.28
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         38.69
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         35.71
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         35.19
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         34.8
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         34.8
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         30.56
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         30.39
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         26.99
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         27.73
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         26.62
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         27.84
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         25.51
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         24.91
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         25.43
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         27.44
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         28.84
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         26.25
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         23.95
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         22.02
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         24.46
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         21.71
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         18.03
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         21.64
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         21.41
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         19.73
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         20.84
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         19.48
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         18.17
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         16.39
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         15.81
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         15.24
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         14.41
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         11.82
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          52.68,
+                                          53.04,
+                                          53.09,
+                                          53.33,
+                                          53.36,
+                                          53.29,
+                                          53.42,
+                                          53.67,
+                                          53.95,
+                                          54.16,
+                                          54.31,
+                                          54.53,
+                                          54.63,
+                                          54.63,
+                                          54.46,
+                                          54.2,
+                                          53.92,
+                                          53.61,
+                                          53.3,
+                                          52.91,
+                                          52.36,
+                                          52.02,
+                                          51.55,
+                                          51.21,
+                                          50.84,
+                                          50.46,
+                                          50.01,
+                                          49.56,
+                                          49.12,
+                                          48.56,
+                                          47.97,
+                                          47.67,
+                                          47.42,
+                                          47.18,
+                                          46.92,
+                                          46.53,
+                                          46.13,
+                                          45.65,
+                                          45.01,
+                                          44.75,
+                                          44.43,
+                                          44.25,
+                                          44.12,
+                                          43.91,
+                                          43.68,
+                                          43.58,
+                                          43.39,
+                                          43.25,
+                                          43.27,
+                                          43.32,
+                                          43.35,
+                                          43.41,
+                                          43.36,
+                                          43.34,
+                                          43.31,
+                                          43.25,
+                                          43.12,
+                                          43.08,
+                                          42.94,
+                                          42.85,
+                                          42.56,
+                                          42.35,
+                                          42.13,
+                                          42.03,
+                                          42.02,
+                                          42.12,
+                                          42.31,
+                                          42.43,
+                                          42.48,
+                                          42.53,
+                                          42.55,
+                                          42.52,
+                                          42.52,
+                                          42.56,
+                                          42.72,
+                                          42.9,
+                                          43.12,
+                                          43.27,
+                                          43.39,
+                                          43.41,
+                                          43.35,
+                                          43.27,
+                                          43.18,
+                                          43.08,
+                                          43.03,
+                                          42.93,
+                                          42.86,
+                                          42.7,
+                                          42.42,
+                                          42.14,
+                                          41.85,
+                                          41.58,
+                                          41.14,
+                                          40.72,
+                                          40.18,
+                                          39.7,
+                                          39.18,
+                                          38.74,
+                                          38.22,
+                                          37.7,
+                                          37.22,
+                                          36.83,
+                                          36.52,
+                                          36.12,
+                                          35.64,
+                                          35.11,
+                                          34.69,
+                                          34.18,
+                                          33.55,
+                                          33.08,
+                                          32.62,
+                                          32.12,
+                                          31.67,
+                                          31.2,
+                                          30.68,
+                                          30.12,
+                                          29.56,
+                                          29,
+                                          28.43,
+                                          27.78
+                                      ]
+                   },
+    "en":  {
+               "headline":  "IREN hits 52-week low as Microsoft delay, $6B funding gap meet AI selloff",
+               "technical":  "The trend is clearly down. Price closed at $11.82, far below all three exponential moving averages (EMAs, which track the average price and give more weight to recent days): EMA50 at $27.78, EMA100 at $34.01 and EMA200 at $37.68. The averages are stacked in bearish order, with the shortest on the bottom, which is a classic downtrend. MACD (a trend-momentum gauge) is -4.64, below its signal line at -4.33, and the histogram is -0.31, so downside momentum is still building rather than fading. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 24.48, which means oversold, but oversold readings can last a long time in a crash. Price sits right on the lower Bollinger Band at $11.70 (the bands mark roughly two standard deviations around the 20-day average of $20.65). The day\u0027s low of $11.75 is also the new 52-week low, about 83% below the 52-week high of $70.71. On 20 Nov the stock opened at its high of $14.07 and closed near its low on 131.3M shares, about 1.65x the 20-day average of 79.5M. That is heavy selling with no sign of buyers stepping in yet. Nearest resistance is the $14.07 open, then the Bollinger midline near $20.65.",
+               "fundamental":  "IREN is moving from bitcoin mining to AI cloud, and the shift is showing up in revenue. In Q1 FY27 (quarter to 30 Sep, reported 5 Nov 2026), revenue was $228M, up 66% from the prior quarter. AI Cloud revenue was $200M, up 182%, with an 86% gross margin, and contracted backlog rose 22% to $20.3B. About two-thirds of that backlog is with investment-grade customers, including Microsoft under a roughly $9.7B, five-year contract at Childress. The weak point is the \u0027financing-dependent\u0027 half of the thesis. Net debt jumped to $4.43B from $216M in one quarter, $6B of the $15B remaining FY27 capex still has no funding, and management says capital markets have become \u0027more selective.\u0027 Owning powered land is still the core advantage, but how fast IREN can grow now depends on whether credit stays open.",
+               "news":  [
+                            "5 Nov 2026: Q1 FY27 revenue of $228M slightly beat consensus, and AI Cloud revenue nearly tripled to $200M. The loss per share (about $0.62–0.66, depending on the source) was wider than the roughly $0.48–0.49 expected, and the net loss was $263M.",
+                            "5 Nov 2026: Management moved the \u003e$4B annualized AI Cloud revenue target from end-2026 to January 2027, possibly late February. Co-CEO Daniel Roberts blamed a network/design change requested by Microsoft and supplier timing, and said the contract is not at risk.",
+                            "5 Nov 2026: Of $15B remaining FY27 capex, about $9B is covered and about $6B still has to be raised. IREN says the $6B is for capacity beyond the $4B target.",
+                            "6 Nov 2026: Shares rose 20% to $21.64 on 112.9M shares. Since quarter-end IREN has signed a five-year contract in which the customer prepaid 90% of GPU capex, and contracted pricing rose 11–12%. Bloomberg separately reported that Microsoft is tightening oversight of some neocloud-run projects, including IREN\u0027s.",
+                            "7–9 Nov 2026: Analysts cut their targets. Goldman Sachs went to $30 from $50 (Neutral), JPMorgan to $55 from $65 (Overweight) and Cantor Fitzgerald to $47 from $99. The stock fell about 10% to $19.34 on 10 Nov.",
+                            "16 Nov 2026: IREN opened about 7% lower at $16.84 as leadership turmoil at NVIDIA and fresh doubts about how neoclouds fund themselves hit the group. Nebius and CoreWeave also fell.",
+                            "20 Nov 2026: IREN fell 17.97% to $11.82 in a broad AI rout. The Nasdaq lost 5.13% and NVIDIA fell 14.01% after reports of an SEC accounting probe. There was no IREN-specific news that day. The annual general meeting is on 24 Nov 2026."
+                        ],
+               "caution":  "The main risk is funding. IREN has to raise about $6B while its shares are down about 83% from their peak and credit markets are tightening for neoclouds. New equity or convertible notes at these prices would dilute existing holders heavily. Debt costs are already rising: finance expense was $73M in Q1. Revenue relies heavily on Microsoft, which has already delayed one ramp and is reportedly tightening oversight. A beta of about 4.3 means IREN tends to fall several times harder than the market whenever the AI trade unwinds.",
+               "opportunity":  "The business numbers and the share price are moving in opposite directions. AI Cloud revenue nearly tripled, margins are 86%, backlog grew to $20.3B, and a new customer prepaid 90% of GPU capex, a funding model that eases the financing burden. If the Microsoft capacity starts on time in January–February 2027 and IREN funds the $6B without heavy dilution, the market could start valuing it on its contracts again. RSI 24.48 and price at the lower band point to a stretched, oversold position.",
+               "risks":  [
+                             "About $6B of FY27 capex still unfunded while capital markets turn selective",
+                             "Net debt up to $4.43B and rising interest costs",
+                             "Customer concentration in Microsoft; further delays or tighter oversight",
+                             "Heavy dilution if equity or convertibles are issued near 52-week lows",
+                             "High beta (~4.3) to AI/semiconductor selloffs, such as the NVIDIA rout on 20 Nov",
+                             "No confirmed bottom: falling MACD histogram and the low set on high volume"
+                         ],
+               "summary":  "IREN\u0027s operations improved in Q1 FY27: AI Cloud revenue tripled to $200M and backlog reached $20.3B. The stock, however, fell from $21.64 on 6 Nov to $11.82 on 20 Nov. Three things drove the drop: Microsoft-related delays to the $4B revenue goal, a $6B funding gap, and a sector-wide AI selloff. The technicals are bearish across the board, with price below all EMAs, negative MACD and a new 52-week low on heavy volume, though RSI is oversold. The moat of owned power sites is still there. The financing it depends on is now the thing to watch."
+           },
+    "th":  {
+               "headline":  "IREN ทำจุดต่ำสุดรอบ 52 สัปดาห์ จากงาน Microsoft ล่าช้า เงินทุนยังขาด $6B และแรงเทขายหุ้น AI",
+               "technical":  "แนวโน้มเป็นขาลงชัดเจน ราคาปิดที่ $11.82 ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบ EMA (ค่าเฉลี่ยที่ให้น้ำหนักกับราคาวันล่าสุดมากกว่า) ทั้งสามเส้นอยู่มาก คือ EMA50 ที่ $27.78, EMA100 ที่ $34.01 และ EMA200 ที่ $37.68 เส้นเรียงกันแบบขาลงเต็มรูปแบบ โดยเส้นสั้นอยู่ล่างสุด MACD (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ -4.64 ต่ำกว่าเส้นสัญญาณที่ -4.33 และ histogram ติดลบ -0.31 แปลว่าแรงขายยังเพิ่มขึ้น ยังไม่ได้อ่อนลง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 24.48 เข้าเขต oversold แล้ว แต่ในช่วงตลาดถล่ม ภาวะนี้ลากยาวได้นาน ราคาอยู่ชิดขอบล่างของ Bollinger Band ที่ $11.70 (กรอบที่ห่างจากค่าเฉลี่ย 20 วันซึ่งอยู่ที่ $20.65 ราว 2 ส่วนเบี่ยงเบนมาตรฐาน) ราคาต่ำสุดของวันที่ $11.75 ก็เป็นจุดต่ำสุดใหม่รอบ 52 สัปดาห์ด้วย ต่ำกว่าจุดสูงสุด $70.71 ราว 83% วันที่ 20 พ.ย. หุ้นเปิดที่จุดสูงสุดของวัน $14.07 แล้วปิดใกล้จุดต่ำสุด วอลุ่ม 131.3 ล้านหุ้น ราว 1.65 เท่าของค่าเฉลี่ย 20 วันที่ 79.5 ล้านหุ้น แสดงว่าแรงขายหนักและยังไม่มีแรงซื้อเข้ามารับ แนวต้านแรกคือ $14.07 ถัดไปคือเส้นกลางของ Bollinger Band ราว $20.65",
+               "fundamental":  "IREN กำลังเปลี่ยนจากธุรกิจขุดบิตคอยน์ไปเป็น AI cloud และรายได้สะท้อนการเปลี่ยนนี้แล้ว ไตรมาส Q1 FY27 (สิ้นสุด 30 ก.ย. ประกาศผล 5 พ.ย. 2026) รายได้รวม $228M เพิ่มขึ้น 66% จากไตรมาสก่อน รายได้ AI Cloud $200M เพิ่มขึ้น 182% อัตรากำไรขั้นต้น 86% และ backlog ตามสัญญาเพิ่มขึ้น 22% เป็น $20.3B ราวสองในสามของ backlog มาจากลูกค้าระดับ investment grade รวมถึง Microsoft ซึ่งมีสัญญา 5 ปีที่ Childress มูลค่าราว $9.7B จุดอ่อนอยู่ที่ส่วน \u0027ต้องพึ่งเงินทุน\u0027 ของ thesis หนี้สุทธิพุ่งจาก $216M เป็น $4.43B ในไตรมาสเดียว capex ที่เหลือของ FY27 จำนวน $15B ยังไม่มีแหล่งเงินอีก $6B และผู้บริหารยอมรับว่าตลาดทุน \u0027เลือกมากขึ้น\u0027 การถือครองที่ดินที่มีไฟฟ้าพร้อมยังเป็นจุดแข็งหลัก แต่ความเร็วในการเติบโตจากนี้ขึ้นอยู่กับว่าตลาดสินเชื่อยังเปิดรับหรือไม่",
+               "news":  [
+                            "5 พ.ย. 2026: รายได้ Q1 FY27 อยู่ที่ $228M สูงกว่าคาดเล็กน้อย รายได้ AI Cloud เกือบสามเท่าเป็น $200M แต่ขาดทุนต่อหุ้น (ราว $0.62–0.66 แล้วแต่แหล่งข้อมูล) หนักกว่าที่ตลาดคาดราว $0.48–0.49 ขาดทุนสุทธิ $263M",
+                            "5 พ.ย. 2026: ผู้บริหารเลื่อนเป้ารายได้ AI Cloud รายปี \u003e$4B จากสิ้นปี 2026 ไปเป็นมกราคม 2027 และอาจลากถึงปลายกุมภาพันธ์ Co-CEO Daniel Roberts ให้เหตุผลว่า Microsoft ขอเปลี่ยนการออกแบบเครือข่าย ประกอบกับซัพพลายเออร์ส่งของล่าช้า และยืนยันว่าสัญญาไม่ได้มีความเสี่ยง",
+                            "5 พ.ย. 2026: capex ที่เหลือของ FY27 จำนวน $15B มีเงินรองรับแล้วราว $9B ยังต้องหาเพิ่มอีกราว $6B บริษัทระบุว่าเงินก้อนนี้ใช้ขยายกำลังการผลิตเกินเป้า $4B",
+                            "6 พ.ย. 2026: หุ้นขึ้น 20% ไปปิดที่ $21.64 วอลุ่ม 112.9 ล้านหุ้น หลังสิ้นไตรมาส IREN เซ็นสัญญา 5 ปีที่ลูกค้าจ่ายล่วงหน้า 90% ของ capex ค่า GPU และราคาตามสัญญาปรับขึ้น 11–12% ส่วน Bloomberg รายงานว่า Microsoft กำลังเข้มงวดการกำกับโครงการที่ neocloud ดำเนินการ รวมถึงของ IREN",
+                            "7–9 พ.ย. 2026: นักวิเคราะห์หั่นราคาเป้าหมาย Goldman Sachs ลดเหลือ $30 จาก $50 (Neutral), JPMorgan ลดเหลือ $55 จาก $65 (Overweight) และ Cantor Fitzgerald ลดเหลือ $47 จาก $99 หุ้นร่วงราว 10% สู่ $19.34 ในวันที่ 10 พ.ย.",
+                            "16 พ.ย. 2026: หุ้นเปิดลบราว 7% ที่ $16.84 จากความวุ่นวายเรื่องผู้บริหารของ NVIDIA และความกังวลรอบใหม่ว่ากลุ่ม neocloud จะหาเงินลงทุนจากไหน Nebius และ CoreWeave ก็ร่วงตาม",
+                            "20 พ.ย. 2026: IREN ดิ่ง 17.97% เหลือ $11.82 ท่ามกลางแรงเทขายหุ้น AI ทั้งตลาด Nasdaq -5.13% และ NVIDIA -14.01% หลังมีข่าวว่า SEC สอบสวนเรื่องบัญชี วันนั้นไม่มีข่าวเฉพาะของ IREN และบริษัทจะประชุมผู้ถือหุ้นประจำปีวันที่ 24 พ.ย. 2026"
+                        ],
+               "caution":  "ความเสี่ยงหลักคือเงินทุน IREN ต้องระดมเงินราว $6B ในจังหวะที่หุ้นลงมาจากจุดสูงสุดราว 83% และตลาดสินเชื่อตึงตัวสำหรับกลุ่ม neocloud ถ้าออกหุ้นใหม่หรือหุ้นกู้แปลงสภาพที่ราคาระดับนี้ ผู้ถือหุ้นเดิมจะถูก dilution หนัก ต้นทุนดอกเบี้ยก็สูงขึ้นแล้ว ค่าใช้จ่ายทางการเงินใน Q1 อยู่ที่ $73M รายได้พึ่ง Microsoft มาก และ Microsoft เพิ่งทำให้การเริ่มใช้งานล่าช้าไปรอบหนึ่งพร้อมมีรายงานว่าเข้มงวดขึ้น ค่า beta ราว 4.3 หมายความว่าเมื่อหุ้นกลุ่ม AI ถูกเทขาย หุ้นตัวนี้มักลงแรงกว่าตลาดหลายเท่า",
+               "opportunity":  "ตัวเลขธุรกิจกับราคาหุ้นกำลังวิ่งสวนทางกัน รายได้ AI Cloud เกือบสามเท่า มาร์จิ้น 86% backlog โตเป็น $20.3B และลูกค้ารายใหม่จ่ายล่วงหน้า 90% ของ capex ค่า GPU ซึ่งเป็นโมเดลที่ช่วยลดภาระการหาเงิน ถ้ากำลังการผลิตให้ Microsoft เริ่มได้ตามกำหนดช่วงมกราคม–กุมภาพันธ์ 2027 และบริษัทหาเงิน $6B ได้โดยไม่ dilution หนัก ตลาดอาจกลับมาประเมินมูลค่าจากสัญญาอีกครั้ง ส่วนทางเทคนิค RSI 24.48 และราคาที่ชิดขอบล่างของ Bollinger Band บ่งบอกว่าราคายืดตัวลงมาจนอยู่ในภาวะ oversold",
+               "risks":  [
+                             "capex ของ FY27 ราว $6B ยังไม่มีแหล่งเงิน ขณะที่ตลาดทุนเลือกมากขึ้น",
+                             "หนี้สุทธิเพิ่มเป็น $4.43B และต้นทุนดอกเบี้ยสูงขึ้น",
+                             "พึ่งพาลูกค้า Microsoft สูง เสี่ยงล่าช้าเพิ่มหรือถูกกำกับเข้มขึ้น",
+                             "เสี่ยง dilution หนักหากออกหุ้นหรือหุ้นกู้แปลงสภาพใกล้จุดต่ำสุดรอบ 52 สัปดาห์",
+                             "beta สูง (~4.3) ต่อการเทขายหุ้น AI และเซมิคอนดักเตอร์ เช่นวันที่ NVIDIA ร่วงหนัก 20 พ.ย.",
+                             "ยังไม่เห็นสัญญาณว่าถึงจุดต่ำสุด histogram ของ MACD ยังลดลง และจุดต่ำใหม่เกิดพร้อมวอลุ่มสูง"
+                         ],
+               "summary":  "ผลประกอบการ Q1 FY27 ของ IREN ดีขึ้น รายได้ AI Cloud โตสามเท่าเป็น $200M และ backlog แตะ $20.3B แต่หุ้นกลับร่วงจาก $21.64 ในวันที่ 6 พ.ย. เหลือ $11.82 ในวันที่ 20 พ.ย. สาเหตุมีสามข้อ คือเป้ารายได้ $4B ถูกเลื่อนเพราะงานที่เกี่ยวกับ Microsoft ช่องว่างเงินทุน $6B และแรงเทขายหุ้น AI ทั้งกลุ่ม สัญญาณเทคนิคเป็นขาลงทุกด้าน ราคาต่ำกว่า EMA ทุกเส้น MACD ติดลบ และทำจุดต่ำสุดใหม่รอบ 52 สัปดาห์ด้วยวอลุ่มสูง แม้ RSI จะเข้าเขต oversold แล้วก็ตาม moat จากการถือครองไซต์ที่มีไฟฟ้าพร้อมยังอยู่ ส่วนที่ต้องจับตาตอนนี้คือเงินทุนที่ moat นี้ต้องพึ่ง"
+           },
+    "sources":  [
+                    {
+                        "title":  "IREN Reports Q1 FY27 Results (Form 8-K exhibit)",
+                        "publisher":  "SEC EDGAR / IREN",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001878848/000187884826000065/irenreportsq1-fy27result.htm",
+                        "date":  "2026-11-05"
+                    },
+                    {
+                        "title":  "IREN Sinks 10% as Analyst Target Cuts Pile Up After Microsoft Delay; Cipher Digital Falls 6%, TeraWulf Slides 2%",
+                        "publisher":  "24/7 Wall St.",
+                        "url":  "https://247wallst.com/investing/2026/11/10/iren-sinks-10-as-analyst-target-cuts-pile-up-after-microsoft-delay-cipher-digital-falls-6-terawulf-slides-2/",
+                        "date":  "2026-11-10"
+                    },
+                    {
+                        "title":  "IREN Drops 7% as NVIDIA Turmoil and Financing Worries Hit Neocloud Stocks; Nebius Falls 6%, CoreWeave Slides 4%",
+                        "publisher":  "24/7 Wall St.",
+                        "url":  "https://247wallst.com/investing/2026/11/16/iren-drops-7-as-nvidia-turmoil-and-financing-worries-hit-neocloud-stocks-nebius-falls-6-coreweave-slides-4/",
+                        "date":  "2026-11-16"
+                    },
+                    {
+                        "title":  "IREN Stock Rises 20.0% After Fiscal Q1 Results (Nov 6)",
+                        "publisher":  "Gotrade",
+                        "url":  "https://www.heygotrade.com/en/news/iren-iren-stock-news-november-9-2026/",
+                        "date":  "2026-11-09"
+                    },
+                    {
+                        "title":  "IREN moves its 4 billion AI cloud goal into 2027 with 6 billion of capex yet to be financed",
+                        "publisher":  "Unchained",
+                        "url":  "https://unchainedcrypto.com/iren-moves-its-4-billion-ai-cloud-goal-into-2027-with-6-billion-of-capex-yet-to-be-financed/",
+                        "date":  "2026-11"
+                    },
+                    {
+                        "title":  "Stock Market Today, Nov. 20: Nvidia\u0027s $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street\u0027s AI Sell-Off",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
+                        "date":  "2026-11-20"
+                    }
+                ]
+}

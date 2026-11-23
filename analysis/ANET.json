@@ -1,0 +1,733 @@
+{
+    "ticker":  "ANET",
+    "name":  "Arista Networks",
+    "symbol":  "NYSE:ANET",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:03:53Z",
+    "costUsd":  0.7322027999999999,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NYSE:ANET",
+                       "yahoo":  "ANET",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:00:50Z",
+                       "price":  167.62,
+                       "open":  185.09,
+                       "high":  185.82,
+                       "low":  165.41,
+                       "volume":  13831800,
+                       "avgVolume20":  9115910,
+                       "changePct":  -11.59,
+                       "ema50":  187.49,
+                       "ema100":  184.06,
+                       "ema200":  171.67,
+                       "bb":  {
+                                  "upper":  206.25,
+                                  "middle":  182.15,
+                                  "lower":  158.04
+                              },
+                       "macd":  {
+                                    "macd":  -0.92,
+                                    "signal":  -1.19,
+                                    "hist":  0.26
+                                },
+                       "rsi14":  41.47,
+                       "high52w":  217.41,
+                       "low52w":  114.52,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         174.37
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         166.01
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         154.27
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         156.4
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         152.16
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         151.76
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         156.4
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         163.24
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         169.09
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         168.01
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         164.93
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         169.67
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         174.56
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         162.2
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         161.74
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         165.45
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         157.6
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         164.1
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         169.88
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         166.62
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         159.99
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         173.28
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         166.46
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         181.05
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         184.69
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         186.96
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         181.15
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         182.57
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         171.92
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         168.56
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         168.61
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         169.35
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         174.58
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         174.87
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         176.61
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         173.99
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         170.76
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         169.71
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         157.97
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         171.02
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         180.35
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         184.89
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         190.51
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         197.31
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         192.32
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         188.67
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         191.52
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         197.85
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         210.5
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         203.62
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         198.82
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         201.8
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         193.18
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         186.45
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         183.75
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         188.65
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         188.15
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         190.94
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         202.25
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         201.09
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         195.38
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         195.69
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         189.26
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         186.1
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         191.44
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         193.78
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         194.96
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         192.93
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         188.99
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         199.59
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         187.81
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         192.84
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         197.54
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         199.53
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         199.39
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         205.42
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         205.19
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         203.47
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         205.7
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         206.55
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         204.92
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         202.86
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         203.59
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         204.49
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         207.35
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         206.9
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         215.36
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         215.83
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         210.97
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         216.74
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         210.88
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         204.52
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         195.42
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         185.58
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         176.98
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         182.95
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         181.19
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         184.33
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         171.07
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         172.37
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         177.24
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         187
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         186.72
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         184.22
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         168.86
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         164.14
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         169.91
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         178.48
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         159.16
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         170.8
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         186.17
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         185.02
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         196.68
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         206.63
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         197.29
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         187.02
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         186.42
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         193.94
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         189.59
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         167.62
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          152,
+                                          152.55,
+                                          152.62,
+                                          152.77,
+                                          152.74,
+                                          152.7,
+                                          152.85,
+                                          153.26,
+                                          153.88,
+                                          154.43,
+                                          154.84,
+                                          155.43,
+                                          156.18,
+                                          156.41,
+                                          156.62,
+                                          156.97,
+                                          156.99,
+                                          157.27,
+                                          157.77,
+                                          158.11,
+                                          158.19,
+                                          158.78,
+                                          159.08,
+                                          159.94,
+                                          160.91,
+                                          161.93,
+                                          162.69,
+                                          163.47,
+                                          163.8,
+                                          163.98,
+                                          164.17,
+                                          164.37,
+                                          164.77,
+                                          165.17,
+                                          165.61,
+                                          165.94,
+                                          166.13,
+                                          166.27,
+                                          165.95,
+                                          166.15,
+                                          166.7,
+                                          167.42,
+                                          168.32,
+                                          169.46,
+                                          170.35,
+                                          171.07,
+                                          171.87,
+                                          172.89,
+                                          174.37,
+                                          175.52,
+                                          176.43,
+                                          177.42,
+                                          178.04,
+                                          178.37,
+                                          178.58,
+                                          178.98,
+                                          179.34,
+                                          179.79,
+                                          180.67,
+                                          181.47,
+                                          182.02,
+                                          182.56,
+                                          182.82,
+                                          182.95,
+                                          183.28,
+                                          183.69,
+                                          184.13,
+                                          184.48,
+                                          184.66,
+                                          185.24,
+                                          185.34,
+                                          185.64,
+                                          186.1,
+                                          186.63,
+                                          187.13,
+                                          187.85,
+                                          188.53,
+                                          189.11,
+                                          189.76,
+                                          190.42,
+                                          190.99,
+                                          191.46,
+                                          191.93,
+                                          192.42,
+                                          193.01,
+                                          193.55,
+                                          194.41,
+                                          195.25,
+                                          195.87,
+                                          196.68,
+                                          197.24,
+                                          197.53,
+                                          197.44,
+                                          196.98,
+                                          196.19,
+                                          195.68,
+                                          195.11,
+                                          194.68,
+                                          193.76,
+                                          192.92,
+                                          192.3,
+                                          192.1,
+                                          191.89,
+                                          191.59,
+                                          190.69,
+                                          189.65,
+                                          188.88,
+                                          188.47,
+                                          187.32,
+                                          186.67,
+                                          186.65,
+                                          186.59,
+                                          186.99,
+                                          187.76,
+                                          188.13,
+                                          188.09,
+                                          188.02,
+                                          188.25,
+                                          188.31,
+                                          187.49
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Strong Q3 overshadowed as AI sell-off drags ANET below its 200-day EMA",
+               "technical":  "On 20 Nov 2026 ANET opened near $185.09 and closed at $167.62 (−11.59%) on 13.83M shares, about 1.5× its 20-day average of 9.12M. That much volume means the selling was real. Trend: price is now below all three EMAs (exponential moving averages, which are smoothed trend lines): EMA50 $187.49, EMA100 $184.06 and EMA200 $171.67. The EMAs are still in bullish order (50 \u003e 100 \u003e 200), so the longer uptrend is bent but not broken. Still, closing below the EMA200 is a clear warning. Momentum: MACD (a trend-momentum gauge) is −0.92, slightly above its signal line at −1.19, with a small positive histogram of +0.26. Momentum was flat before the drop and has not yet turned clearly negative. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 41.47: weak but not oversold. Price sits in the bottom fifth of the Bollinger Bands (a 20-day volatility band: lower $158.04, middle $182.15, upper $206.25). It is 22.9% below the 52-week high of $217.41 and about halfway between that high and the $114.52 low. Nearby support is around $158. Resistance is first at $171.67, then the $182–187 zone.",
+               "fundamental":  "Arista sells high-speed switches, but its real edge is EOS, the software that runs AI and cloud data-center networks. Q3 2026, reported on 3 Nov, was its fastest growth since its IPO. Revenue was $3.66B, up 58.5% year on year and about 10% above its own $3.3B guidance. Non-GAAP gross margin was 64.0% and operating margin 49.1%. Q4 guidance is $3.9–4.0B, with non-GAAP EPS of $1.26–1.30. Management raised its 2026 revenue forecast to about $13.3B (+48%). It also gave a first 2027 view of about $18.5B (+38–40%), with AI-fabric revenue roughly doubling to about $7B, and said it has more than 100 Etherlink customers. Gross margin is guided at 62–64% while revenue scales, which suggests EOS still commands software-like pricing. That pricing power is the core of the moat. Watch points: inventory rose to $3.2B and purchase commitments to $11.4B as Arista locks in memory and optics supply.",
+               "news":  [
+                            "3 Nov 2026: Q3 revenue was $3.66B (+58.5% YoY), with non-GAAP EPS of $1.20, gross margin of 64.0% and operating margin of 49.1%. Q4 guidance is $3.9–4.0B revenue and EPS of $1.26–1.30.",
+                            "On the Q3 call, management raised its 2026 revenue forecast to about $13.3B (+48%) and gave an initial 2027 outlook of about $18.5B (+38–40%), with AI fabrics expected to reach about $7B. It also flagged supply constraints and rising memory costs, and purchase commitments grew to $11.4B.",
+                            "Also in the Q3 release, Arista announced open, standards-based rack-scale AI networking designs with AMD, Arm, Broadcom, Meta, Microsoft and Qualcomm. Its Etherlink SU-144 design connects up to 144 accelerators per rack in a single hop.",
+                            "Analysts stayed positive after the results. JPMorgan raised its target to $270 from $250 on 4 Nov, and Evercore ISI kept an Outperform rating with a $250 target on 19 Nov. MarketBeat\u0027s consensus target across 25 firms was about $240 as of 19 Nov.",
+                            "20 Nov 2026: ANET fell 11.59% in a broad AI sell-off. The Nasdaq dropped 5.28%, Nvidia fell 14.01%, and the S\u0026P 500 entered correction territory. The sources reviewed named no Arista-specific news; the backdrop included Nvidia\u0027s CEO change (reported by AP on 17 Nov) and Anthropic\u0027s weak second trading day."
+                        ],
+               "caution":  "The 20 Nov drop was a market-wide event, but it exposes real risks. ANET trades at a premium, around 50× earnings according to TradingKey, so any sign of cloud companies cutting spending can shrink that multiple quickly. Microsoft and Meta reportedly make up about 42% of revenue. The $11.4B in purchase commitments, plus rising memory costs, could squeeze margins if demand cools. Nvidia\u0027s Spectrum-X Ethernet competes directly with Arista. On the chart, a close below the $158 lower Bollinger Band would point to further weakness, and the wider market correction may not be over.",
+               "opportunity":  "Nothing in the business broke on 20 Nov. There was no guidance cut and no customer loss, and analysts still held positive views as late as 19 Nov (Evercore, Outperform). Management has already guided 2027 to about $18.5B, with AI-fabric revenue roughly doubling. Arista also has growing open-Ethernet partnerships with AMD, Broadcom, Meta and Microsoft. For long-term holders, a market-driven drop in a company with 49% operating margins can be a time to review the position against the thesis. Watch whether price can climb back above $171.67 (EMA200).",
+               "risks":  [
+                             "Cloud-company spending pauses or cuts (Microsoft and Meta reportedly ~42% of revenue)",
+                             "Valuation shrinking further if the AI market correction continues",
+                             "Competition from Nvidia\u0027s Spectrum-X Ethernet in AI networks",
+                             "$11.4B in purchase commitments and rising memory costs squeezing margins",
+                             "A close below the $158 lower Bollinger Band pointing to a deeper pullback"
+                         ],
+               "summary":  "ANET fell 11.59% to $167.62 on 20 Nov 2026 in a broad AI sell-off (Nasdaq −5.28%, Nvidia −14%), with no Arista-specific news behind it. The chart has turned weak: price is below all three EMAs on 1.5× normal volume and RSI is 41.47. However, the EMAs are still in bullish order and MACD has not yet turned down. The business looks strong: Q3 revenue rose 58.5%, Q4 guidance is $3.9–4.0B, and the 2027 outlook is about $18.5B. The EOS software moat is intact. The near-term risk is valuation and sentiment about AI spending, not Arista\u0027s execution. Support is near $158; resistance is at $171.67, then $182–187."
+           },
+    "th":  {
+               "headline":  "งบ Q3 แกร่ง แต่แรงเทขายหุ้น AI ฉุด ANET หลุด EMA200",
+               "technical":  "วันที่ 20 พ.ย. 2026 ANET เปิดราว $185.09 ก่อนร่วงไปปิดที่ $167.62 (−11.59%) วอลุ่ม 13.83 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (9.12 ล้านหุ้น) ราว 1.5 เท่า แปลว่าแรงขายรอบนี้มีน้ำหนักจริง ด้านแนวโน้ม ราคาหลุดลงไปอยู่ใต้ EMA ทั้งสามเส้น (เส้นค่าเฉลี่ยเคลื่อนที่ ใช้ดูทิศทางราคา) คือ EMA50 $187.49, EMA100 $184.06 และ EMA200 $171.67 แม้เส้นยังเรียงตัวแบบขาขึ้น (50 \u003e 100 \u003e 200) แต่การปิดใต้ EMA200 ถือเป็นสัญญาณเตือนที่ชัดเจน ด้านโมเมนตัม MACD (ตัววัดแรงส่งของเทรนด์) อยู่ที่ −0.92 ยังสูงกว่าเส้น signal ที่ −1.19 เล็กน้อย และ histogram เป็นบวก +0.26 แปลว่าโมเมนตัมยังไม่พลิกเป็นขาลงชัดเจน RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 41.47 อ่อนแรงแต่ยังไม่ oversold ราคาอยู่ช่วงล่างสุดราว 20% ของ Bollinger Bands (กรอบความผันผวน 20 วัน: ล่าง $158.04 กลาง $182.15 บน $206.25) และต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ $217.41 อยู่ 22.9% โดยยืนอยู่ราวกึ่งกลางระหว่างจุดสูงสุดกับจุดต่ำสุด $114.52 แนวรับใกล้อยู่แถว $158 ส่วนแนวต้านแรกคือ $171.67 ถัดไปคือโซน $182–187",
+               "fundamental":  "Arista ขายสวิตช์ความเร็วสูง แต่จุดแข็งจริงคือ EOS ซอฟต์แวร์ที่ใช้ควบคุมเครือข่ายดาต้าเซ็นเตอร์ AI และคลาวด์ งบ Q3 2026 ที่ประกาศเมื่อ 3 พ.ย. เติบโตเร็วที่สุดนับตั้งแต่ IPO รายได้ $3.66B เพิ่มขึ้น 58.5% YoY และสูงกว่าเป้าของบริษัทเอง ($3.3B) ราว 10% gross margin แบบ non-GAAP อยู่ที่ 64.0% และ operating margin 49.1% เป้า Q4 คือรายได้ $3.9–4.0B และ EPS non-GAAP $1.26–1.30 ผู้บริหารปรับเป้ารายได้ปี 2026 ขึ้นเป็นราว $13.3B (+48%) และให้ภาพปี 2027 เป็นครั้งแรกที่ราว $18.5B (+38–40%) โดยคาดว่ารายได้ AI fabric จะเพิ่มเกือบเท่าตัวเป็นราว $7B และมีลูกค้า Etherlink แล้วกว่า 100 ราย การคง margin ไว้ที่ 62–64% ได้ทั้งที่ธุรกิจโตเร็ว สะท้อนว่า EOS ยังตั้งราคาได้แบบธุรกิจซอฟต์แวร์ ซึ่งอำนาจตั้งราคานี้คือแก่นของ moat จุดที่ต้องจับตาคือสินค้าคงคลังเพิ่มเป็น $3.2B และภาระสั่งซื้อล่วงหน้าเพิ่มเป็น $11.4B เพื่อล็อกซัพพลายหน่วยความจำและออปติก",
+               "news":  [
+                            "3 พ.ย. 2026: รายได้ Q3 อยู่ที่ $3.66B (+58.5% YoY) EPS non-GAAP $1.20 gross margin 64.0% และ operating margin 49.1% เป้า Q4 คือรายได้ $3.9–4.0B และ EPS $1.26–1.30",
+                            "ใน conference call ของ Q3 ผู้บริหารปรับเป้ารายได้ปี 2026 ขึ้นเป็นราว $13.3B (+48%) และให้ภาพปี 2027 ครั้งแรกที่ราว $18.5B (+38–40%) โดยคาด AI fabric อยู่ที่ราว $7B พร้อมเตือนเรื่องซัพพลายตึงตัวและต้นทุนหน่วยความจำที่สูงขึ้น ส่วนภาระสั่งซื้อล่วงหน้าเพิ่มเป็น $11.4B",
+                            "ในประกาศงบ Q3 เดียวกัน Arista เปิดตัวสถาปัตยกรรมเครือข่าย AI ระดับแร็กแบบเปิดตามมาตรฐาน ร่วมกับ AMD, Arm, Broadcom, Meta, Microsoft และ Qualcomm โดย Etherlink SU-144 เชื่อมตัวเร่งประมวลผลได้สูงสุด 144 ตัวต่อแร็กในระยะ hop เดียว",
+                            "นักวิเคราะห์ยังมองบวกหลังประกาศงบ JPMorgan ปรับราคาเป้าหมายจาก $250 เป็น $270 เมื่อ 4 พ.ย. และ Evercore ISI คงคำแนะนำ Outperform พร้อมเป้า $250 เมื่อ 19 พ.ย. ส่วนราคาเป้าหมายเฉลี่ยจาก 25 สำนักที่ MarketBeat รวบรวม ณ 19 พ.ย. อยู่ราว $240",
+                            "20 พ.ย. 2026: ANET ร่วง 11.59% ท่ามกลางแรงเทขายหุ้น AI ทั้งตลาด Nasdaq ลบ 5.28% Nvidia ลบ 14.01% และ S\u0026P 500 เข้าสู่ภาวะ correction แหล่งข่าวที่ตรวจสอบไม่ได้ระบุข่าวเฉพาะของ Arista ส่วนบรรยากาศตลาดมีทั้งการเปลี่ยน CEO ของ Nvidia (AP รายงานเมื่อ 17 พ.ย.) และหุ้น Anthropic ที่ร่วงในวันเทรดที่สอง"
+                        ],
+               "caution":  "การร่วงเมื่อ 20 พ.ย. มาจากภาวะตลาดโดยรวม แต่ก็สะท้อนความเสี่ยงจริงหลายข้อ ANET ซื้อขายที่ระดับ valuation สูง ราว 50 เท่าของกำไรตามข้อมูลจาก TradingKey ถ้ามีสัญญาณว่าบริษัทคลาวด์ลดการลงทุน multiple อาจหดตัวลงเร็ว มีรายงานว่า Microsoft กับ Meta รวมกันคิดเป็นราว 42% ของรายได้ ภาระสั่งซื้อล่วงหน้า $11.4B บวกต้นทุนหน่วยความจำที่สูงขึ้นอาจกด margin ถ้าดีมานด์ชะลอ และ Spectrum-X Ethernet ของ Nvidia เป็นคู่แข่งโดยตรง ทางเทคนิค หากปิดต่ำกว่า $158 (เส้นล่างของ Bollinger Bands) อาจเปิดทางให้ราคาอ่อนตัวต่อ และการปรับฐานของตลาดก็อาจยังไม่จบ",
+               "opportunity":  "ธุรกิจของ Arista ไม่ได้มีอะไรเสียหายในวันที่ 20 พ.ย. ไม่มีการลดเป้า ไม่มีการเสียลูกค้า และนักวิเคราะห์ยังมองบวกจนถึง 19 พ.ย. (Evercore คง Outperform) ผู้บริหารให้ภาพปี 2027 ไว้แล้วที่ราว $18.5B โดยรายได้ AI fabric จะโตเกือบเท่าตัว และยังขยายพันธมิตร Ethernet แบบเปิดกับ AMD, Broadcom, Meta และ Microsoft สำหรับนักลงทุนระยะยาว การร่วงเพราะตลาดในบริษัทที่มี operating margin 49% อาจเป็นจังหวะทบทวนสถานะการลงทุนเทียบกับ thesis เดิม โดยติดตามว่าราคาจะกลับขึ้นไปยืนเหนือ $171.67 (EMA200) ได้หรือไม่",
+               "risks":  [
+                             "บริษัทคลาวด์ชะลอหรือลดการลงทุน (มีรายงานว่า Microsoft และ Meta รวมกันราว 42% ของรายได้)",
+                             "valuation หดตัวต่อหากการปรับฐานของหุ้น AI ยังไม่จบ",
+                             "การแข่งขันจาก Spectrum-X Ethernet ของ Nvidia ในเครือข่าย AI",
+                             "ภาระสั่งซื้อล่วงหน้า $11.4B และต้นทุนหน่วยความจำที่สูงขึ้นอาจกด margin",
+                             "หากปิดต่ำกว่า $158 (เส้นล่างของ Bollinger Bands) อาจเป็นสัญญาณของการปรับฐานที่ลึกขึ้น"
+                         ],
+               "summary":  "ANET ร่วง 11.59% ไปปิดที่ $167.62 เมื่อ 20 พ.ย. 2026 จากแรงเทขายหุ้น AI ทั้งตลาด (Nasdaq −5.28%, Nvidia −14%) ไม่ใช่จากข่าวของบริษัทเอง กราฟเปลี่ยนเป็นอ่อนแอ ราคาหลุดใต้ EMA ทั้งสามเส้นด้วยวอลุ่ม 1.5 เท่าของค่าเฉลี่ย และ RSI อยู่ที่ 41.47 แต่ EMA ยังเรียงตัวขาขึ้นและ MACD ยังไม่พลิกลง ด้านพื้นฐานยังแข็งแรง รายได้ Q3 โต 58.5% เป้า Q4 อยู่ที่ $3.9–4.0B และภาพปี 2027 ราว $18.5B moat ด้านซอฟต์แวร์ EOS ยังอยู่ครบ ความเสี่ยงระยะสั้นคือ valuation และความกังวลเรื่องการลงทุนด้าน AI ไม่ใช่การบริหารงานของ Arista แนวรับอยู่แถว $158 แนวต้านอยู่ที่ $171.67 และ $182–187"
+           },
+    "sources":  [
+                    {
+                        "title":  "Arista Networks, Inc. Reports Third Quarter 2026 Financial Results (Form 8-K Ex. 99.1)",
+                        "publisher":  "SEC EDGAR / Arista Networks",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001596532/000159653226000252/ex991q326-earningsrelease.htm",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "[Arista Networks Q3 2026 Earnings Call] Arista revenue jumps 58.5% to $3.66 billion; 2027 sales guided to ~$18.5 billion as AI fabrics double",
+                        "publisher":  "BigGo Finance",
+                        "url":  "https://finance.biggo.com/news/US_ANET_2026-11-03",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "Arista Networks (NYSE:ANET) Price Target Raised to $270.00",
+                        "publisher":  "MarketBeat",
+                        "url":  "https://www.marketbeat.com/instant-alerts/analyst-arista-networks-nyse-anet-price-target-raised-to-27000-2026-11-04/",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "Arista Networks, Inc. (NYSE:ANET) Stock Has Consensus Price Target of $240.24 According to Brokerages",
+                        "publisher":  "MarketBeat",
+                        "url":  "https://www.marketbeat.com/instant-alerts/consensus-arista-networks-inc-nyse-anet-stock-has-consensus-price-target-of-24024-according-to-brokerages-2026-11-19/",
+                        "date":  "2026-11-19"
+                    },
+                    {
+                        "title":  "Arista Networks Inc Stock (ANET) Moved Down by 11.72% on Nov 20: Facts Behind the Movement",
+                        "publisher":  "TradingKey",
+                        "url":  "https://www.tradingkey.com/news/market-movers/262315976-market-movers-anet-20261120",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Stock market slide wipes out Nasdaq gains for the year on AI rout; correction on",
+                        "publisher":  "Fox Business",
+                        "url":  "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Another wipeout hits Wall Street as Nvidia, other jittery AI stocks swing lower",
+                        "publisher":  "Associated Press via Atlanta News First",
+                        "url":  "https://www.atlantanewsfirst.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/?outputType=amp",
+                        "date":  "2026-11-17"
+                    }
+                ]
+}

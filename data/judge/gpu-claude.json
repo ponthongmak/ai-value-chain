@@ -1,0 +1,84 @@
+{
+    "sector":  "gpu",
+    "judge":  "claude",
+    "provider":  "claude",
+    "model":  "claude-opus-5-5",
+    "effort":  "max",
+    "account":  "Claude",
+    "generatedAt":  "2026-11-23T05:12:05Z",
+    "costUsd":  1.0497006,
+    "stocks":  {
+                   "CRWV":  {
+                                "m":  [
+                                          13,
+                                          10,
+                                          6,
+                                          13,
+                                          4
+                                      ],
+                                "o":  [
+                                          19,
+                                          18,
+                                          16,
+                                          12,
+                                          12
+                                      ],
+                                "why_en":  "Largest neocloud with $132.5B backlog and top-tier cluster know-how gives prime AI exposure, but thin GAAP margins, ~$47B debt and concentrated customers leave its moat unproven.",
+                                "why_th":  "เป็นนีโอคลาวด์รายใหญ่ที่สุด มีงานในมือ 1.325 แสนล้านดอลลาร์และความชำนาญด้านคลัสเตอร์ระดับแนวหน้า จึงได้ประโยชน์จาก AI เต็มที่ แต่กำไรบาง หนี้ราว 4.7 หมื่นล้านดอลลาร์ และลูกค้ากระจุกตัว ทำให้คูเมืองยังไม่พิสูจน์"
+                            },
+                   "EQIX":  {
+                                "m":  [
+                                          10,
+                                          16,
+                                          18,
+                                          15,
+                                          16
+                                      ],
+                                "o":  [
+                                          8,
+                                          11,
+                                          13,
+                                          10,
+                                          11
+                                      ],
+                                "why_en":  "Unmatched interconnection ecosystem and sticky colocation make a proven moat; AI is lifting bookings but remains a modest revenue share, and Equinix is not the build-out bottleneck.",
+                                "why_th":  "ระบบนิเวศการเชื่อมต่อเครือข่ายที่ไม่มีใครเทียบได้ และลูกค้าโคโลเคชันที่ย้ายออกยาก สร้างคูเมืองที่พิสูจน์แล้ว แม้ AI ช่วยดันยอดจองใหม่ แต่ยังเป็นสัดส่วนรายได้ไม่มาก และไม่ใช่คอขวดของการลงทุน AI"
+                            },
+                   "IREN":  {
+                                "m":  [
+                                          8,
+                                          7,
+                                          3,
+                                          10,
+                                          3
+                                      ],
+                                "o":  [
+                                          16,
+                                          18,
+                                          10,
+                                          13,
+                                          10
+                                      ],
+                                "why_en":  "Owned, power-rich sites and a $20.3B backlog including Microsoft give real AI upside, but it is a small, financing-dependent newcomer with weak switching costs and no profit record.",
+                                "why_th":  "การเป็นเจ้าของที่ดินและแหล่งไฟฟ้าขนาดใหญ่ พร้อมงานในมือ 2.03 หมื่นล้านดอลลาร์ซึ่งรวมสัญญากับ Microsoft ให้โอกาสด้าน AI จริง แต่ยังเป็นผู้เล่นรายเล็กที่พึ่งพาเงินทุนภายนอก ลูกค้าย้ายออกได้ง่าย และไม่มีประวัติทำกำไร"
+                            },
+                   "NBIS":  {
+                                "m":  [
+                                          12,
+                                          9,
+                                          5,
+                                          11,
+                                          3
+                                      ],
+                                "o":  [
+                                          19,
+                                          18,
+                                          13,
+                                          11,
+                                          13
+                                      ],
+                                "why_en":  "Pure-play AI cloud with Microsoft and Meta contracts, strong in-house engineering and Token Factory optionality, but losses, capacity delays and heavy capex keep its moat thin and unproven.",
+                                "why_th":  "เป็นคลาวด์ AI เต็มตัว มีสัญญากับ Microsoft และ Meta ทีมวิศวกรรมภายในแข็งแกร่ง และมีโอกาสต่อยอดจาก Token Factory แต่ยังขาดทุน ส่งมอบกำลังการผลิตล่าช้า และลงทุนหนัก ทำให้คูเมืองยังบางและไม่พิสูจน์"
+                            }
+               }
+}

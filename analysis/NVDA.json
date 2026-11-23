@@ -1,0 +1,758 @@
+{
+    "ticker":  "NVDA",
+    "name":  "NVIDIA",
+    "symbol":  "NASDAQ:NVDA",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:41:33Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:NVDA",
+                       "yahoo":  "NVDA",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:37:25Z",
+                       "price":  125.53,
+                       "open":  143.52,
+                       "high":  143.73,
+                       "low":  124.5,
+                       "volume":  626373200,
+                       "avgVolume20":  287291305,
+                       "changePct":  -14.01,
+                       "historyDays":  501,
+                       "ema50":  195.87,
+                       "ema100":  203.44,
+                       "ema200":  200.41,
+                       "bb":  {
+                                  "upper":  234.61,
+                                  "middle":  181.46,
+                                  "lower":  128.31
+                              },
+                       "macd":  {
+                                    "macd":  -19.83,
+                                    "signal":  -15.2,
+                                    "hist":  -4.63
+                                },
+                       "rsi14":  15.05,
+                       "high52w":  243.37,
+                       "low52w":  124.5,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         214.75
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         218.66
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         205.1
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         208.64
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         208.19
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         200.42
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         204.87
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         205.19
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         212.45
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         207.41
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         204.65
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         210.69
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         208.65
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         200.04
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         199
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         195.74
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         192.53
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         194.97
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         200.09
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         197.58
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         194.83
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         195.55
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         196.93
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         204.12
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         202.78
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         210.96
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         203.53
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         211.8
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         212.5
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         207.4
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         202.81
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         203.28
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         207.29
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         212.06
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         208.76
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         206.84
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         196.51
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         197.01
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         190.01
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         195.04
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         200.75
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         206.64
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         211.94
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         219.22
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         218.99
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         223.96
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         217.55
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         217.5
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         224.09
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         225.3
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         225.16
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         225.01
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         219.74
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         217.56
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         216.85
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         214.72
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         208.48
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         213.05
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         209.66
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         227.98
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         217.55
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         220.78
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         217.44
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         224.41
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         228.45
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         230.36
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         225.73
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         223.67
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         218.36
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         218.29
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         210.96
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         212.17
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         213.9
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         219.34
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         222.27
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         227.38
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         228.87
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         225.51
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         224.58
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         225.07
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         228.86
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         227.21
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         228.38
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         230.86
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         233.95
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         238.9
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         239.24
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         237.47
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         230.48
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         229.28
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         226.32
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         228.52
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         221.3
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         217.23
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         214.13
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         217.09
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         216.47
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         221.97
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         212.21
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         210.96
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         216
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         217.94
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         215.38
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         213.66
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         204.64
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         202.06
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         206.69
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         200.13
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         181.6
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         186.64
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         178.67
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         168.89
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         173.73
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         166.19
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         162.85
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         156.14
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         155.46
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         150.96
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         145.98
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         125.53
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          206.46,
+                                          206.93,
+                                          206.86,
+                                          206.93,
+                                          206.98,
+                                          206.72,
+                                          206.65,
+                                          206.59,
+                                          206.82,
+                                          206.85,
+                                          206.76,
+                                          206.91,
+                                          206.98,
+                                          206.71,
+                                          206.41,
+                                          205.99,
+                                          205.46,
+                                          205.05,
+                                          204.86,
+                                          204.57,
+                                          204.19,
+                                          203.85,
+                                          203.58,
+                                          203.6,
+                                          203.57,
+                                          203.86,
+                                          203.84,
+                                          204.16,
+                                          204.48,
+                                          204.6,
+                                          204.53,
+                                          204.48,
+                                          204.59,
+                                          204.88,
+                                          205.03,
+                                          205.11,
+                                          204.77,
+                                          204.46,
+                                          203.9,
+                                          203.55,
+                                          203.44,
+                                          203.57,
+                                          203.89,
+                                          204.49,
+                                          205.06,
+                                          205.8,
+                                          206.26,
+                                          206.71,
+                                          207.39,
+                                          208.09,
+                                          208.76,
+                                          209.4,
+                                          209.8,
+                                          210.11,
+                                          210.37,
+                                          210.54,
+                                          210.46,
+                                          210.56,
+                                          210.53,
+                                          211.21,
+                                          211.46,
+                                          211.83,
+                                          212.05,
+                                          212.53,
+                                          213.15,
+                                          213.83,
+                                          214.3,
+                                          214.66,
+                                          214.81,
+                                          214.95,
+                                          214.79,
+                                          214.69,
+                                          214.66,
+                                          214.84,
+                                          215.13,
+                                          215.61,
+                                          216.13,
+                                          216.5,
+                                          216.82,
+                                          217.14,
+                                          217.6,
+                                          217.98,
+                                          218.38,
+                                          218.87,
+                                          219.46,
+                                          220.23,
+                                          220.97,
+                                          221.62,
+                                          221.97,
+                                          222.25,
+                                          222.41,
+                                          222.65,
+                                          222.6,
+                                          222.39,
+                                          222.06,
+                                          221.87,
+                                          221.66,
+                                          221.67,
+                                          221.3,
+                                          220.89,
+                                          220.7,
+                                          220.59,
+                                          220.39,
+                                          220.13,
+                                          219.52,
+                                          218.83,
+                                          218.36,
+                                          217.64,
+                                          216.23,
+                                          215.07,
+                                          213.64,
+                                          211.89,
+                                          210.39,
+                                          208.66,
+                                          206.86,
+                                          204.87,
+                                          202.93,
+                                          200.9,
+                                          198.74,
+                                          195.87
+                                      ]
+                   },
+    "en":  {
+               "caution":  "Headline-driven selling is directly tied to fundamental trust risks, not mere market noise. Until NVIDIA files its delayed Q3 FY27 Form 10-Q and clarifies the scope of the SEC accounting investigation, investors cannot fully verify the quality of rapidly growing receivables ($81.03 billion) and revenue recognition. Simultaneously, losing founder-CEO Jensen Huang without a permanent successor creates real leadership and customer-relationship risk, while stricter U.S. export enforcement across China and Southeast Asia narrows international flexibility. Extreme oversold readings do not prevent further downside if formal SEC findings or restatements emerge.",
+               "cons":  [
+                            "Reuters reported on November 20, 2026 that the SEC is examining potential accounting practices at NVIDIA, sparking a 14.01% single-day sell-off.",
+                            "Co-founder and 33-year CEO Jensen Huang abruptly resigned on November 12, 2026, and the board stated it does not intend to reinstate him.",
+                            "NVIDIA broke precedent by delaying its Q3 FY27 Form 10-Q filing while reviewing disclosures around active regulatory and board inquiries.",
+                            "Accounts receivable climbed to $81.03 billion and inventories to $39.72 billion, while top-three direct customers still represent 36% of revenue.",
+                            "NVIDIA halted licensed Hopper chip shipments to China and faces tighter U.S. export rules on Southeast Asian cloud centers plus Q4 gross margin moderation to 71.0%–72.0%."
+                        ],
+               "fundamental":  "Operationally, NVIDIA\u0027s AI infrastructure franchise remains unmatched. In Q3 FY27 (ended October 25, 2026), revenue doubled YoY to $115.8 billion, GAAP net income rose 105% to $65.3 billion ($2.70 diluted EPS), and Data Center reached $107.6 billion (+110% YoY). Full-rack Vera Rubin NVL72 systems contributed roughly $20 billion in their initial quarter alongside Spectrum-X networking across hyperscalers like Microsoft Azure, Google Cloud, Meta, and Oracle, underscoring sticky CUDA-to-rack integration. Management guided Q4 FY27 revenue to $130.0 billion (+/-3%)—including an extra reporting week and zero China Data Center compute—with gross margins easing from 74.8% to 71.0%–72.0%. Still, investors are questioning earnings quality until the delayed Form 10-Q clarifies rising accounts receivable ($81.03 billion), inventory ($39.72 billion), 36% top-three direct customer concentration, and SEC inquiry disclosures.",
+               "headline":  "Record Q3 Results Overshadowed by CEO Exit and SEC Accounting Probe",
+               "news":  [
+                            "Nov 20, 2026: Reuters reported that U.S. SEC enforcement staff are examining potential accounting practices at NVIDIA, following a November 17 Wall Street Journal report of an active SEC civil probe. Shares fell 14.01% to $125.53 on 626.37 million volume, though an SEC inquiry does not establish wrongdoing.",
+                            "Nov 17, 2026: NVIDIA posted record Q3 FY27 revenue of $115.8 billion (+103% YoY) and guided Q4 to $130.0 billion, propelled by Vera Rubin NVL72\u0027s ~$20 billion debut. However, management broke precedent by delaying its Form 10-Q filing to review legal and risk-factor disclosures.",
+                            "Nov 17–18, 2026: Interim CEO Colette Kress confirmed NVIDIA halted licensed Hopper (H200) Data Center shipments to China after booking $2.4 billion in Q3, zeroing China compute out of Q4 guidance. Tighter U.S. export rules also targeted Southeast Asian cloud data centers, prompting server partners to restrict regional shipments.",
+                            "Nov 12, 2026: Co-founder and CEO Jensen Huang abruptly resigned from the company and board effective immediately following conduct disclosures, with CFO Colette Kress named interim CEO and Harvey Jones appointed board chair. On the November 17 earnings call, Jones confirmed the board does not intend to reinstate Huang.",
+                            "Nov 13–18, 2026: Wall Street analysts at Truist, Craig-Hallum, William Blair, and Melius Research downgraded NVDA to Hold or Market Perform, citing heightened governance, culture, and execution risk despite blockbuster financial results."
+                        ],
+               "opportunity":  "For long-term AI infrastructure holders, the operational engine underneath the governance storm remains intact. A $130.0 billion Q4 revenue trajectory, $20 billion initial Vera Rubin NVL72 ramp, and deep hyperscaler dependence on CUDA and Spectrum-X networking show competitors have not cracked NVIDIA\u0027s core moat. After a 48.4% drawdown from October\u0027s $243.37 peak and an RSI 14 of 15.05, sentiment already prices in substantial crisis risk. Key milestones to watch—rather than short-term price swings—are a clean Q3 Form 10-Q filing, clarity on the SEC inquiry, stable Q4 gross margins near 71%–72%, and appointment of a credible permanent CEO.",
+               "opportunityCheck":  "Most AI-opportunity sub-scores remain well grounded: Data Center generates 93% of revenue, top-line growth exceeds 100% YoY, and Vera Rubin NVL72\u0027s $20 billion debut confirms market leadership. However, the optionality score looks too high and should be lowered meaningfully. With founder-CEO Jensen Huang gone, interim leadership managing a CEO search, an active SEC accounting probe, and China compute sales zeroed out, management\u0027s bandwidth for new verticals and ecosystem deals is constrained. Bottleneck and pricing power also warrants monitoring as Q4 gross margins moderate to 71.0%–72.0% under tighter export oversight.",
+               "pros":  [
+                            "Q3 FY27 revenue surged 103% YoY to $115.8 billion (Data Center $107.6 billion, +110% YoY) with GAAP gross margin at 74.8%.",
+                            "Next-generation Vera Rubin NVL72 racks debuted with roughly $20 billion in Q3 revenue, the fastest product ramp in company history.",
+                            "Q4 FY27 revenue guidance of $130.0 billion (+/-3%) beats prior expectations despite assuming zero Data Center compute revenue from China.",
+                            "NVIDIA returned $28.1 billion to shareholders in Q3 FY27 and holds roughly $227.3 billion in remaining buyback authorization."
+                        ],
+               "risks":  [
+                             "SEC accounting investigation escalating into enforcement actions, fines, or financial restatements.",
+                             "Delayed Q3 FY27 Form 10-Q revealing adverse legal proceedings, internal-control weaknesses, or revenue-recognition issues.",
+                             "Leadership vacuum and potential talent or strategic execution drift after founder-CEO Jensen Huang\u0027s exit.",
+                             "High customer concentration (36% from top three direct buyers) combined with elevated $81.03 billion accounts receivable and $39.72 billion inventory.",
+                             "Tightening U.S. export controls curbing AI server deployments across China and Southeast Asian cloud hubs."
+                         ],
+               "summary":  "NVIDIA faces a stark divide between record operations and severe governance shock. On November 17, 2026, Q3 FY27 revenue jumped 103% YoY to $115.8 billion as Vera Rubin NVL72 began shipping, with $130.0 billion guided for Q4. Yet shares fell 14.01% on November 20 to $125.53—down 48.4% from October\u0027s $243.37 high—following founder-CEO Jensen Huang\u0027s November 12 resignation, a delayed Form 10-Q, halted China Hopper sales, and a November 20 Reuters report of an SEC accounting probe. The AI compute moat remains strong, but governance risks put the thesis on watch.",
+               "technical":  "NVIDIA\u0027s technical posture is decisively bearish as of November 20, 2026, based on 501 trading days of data. Shares closed at $125.53 (-14.01%), far below the 50-day, 100-day, and 200-day exponential moving averages (EMAs, which track smoothed price trends) at $195.87, $203.44, and $200.41. The EMA 50 has already dropped below both longer-term EMAs, confirming a steep structural breakdown. Momentum is severely negative: MACD 12/26/9 (a trend-momentum gauge) sits at -19.83 below its -15.20 signal line, with a negative -4.63 histogram showing accelerating downward pressure. Meanwhile, RSI 14 (a 0–100 momentum gauge where readings under 30 indicate oversold conditions) has plunged to an extreme 15.05. Volatility and range positioning confirm capitulation: price closed beneath the lower Bollinger Band (a volatility envelope around the 20-day average) at $128.31 and sits just above its 52-week low of $124.50, 48.4% off October\u0027s $243.37 peak. Volume reached 626.37 million shares—2.18 times the 20-day average of 287.29 million—validating heavy institutional distribution. Immediate support rests at $124.50, with resistance at $128.31, $143.73, and the $181.46 middle band."
+           },
+    "th":  {
+               "caution":  "แรงขายรอบนี้ไม่ได้เกิดจากอารมณ์ตลาดเพียงอย่างเดียว แต่สะท้อนความเสี่ยงด้านความเชื่อมั่นอย่างแท้จริง ตราบใดที่ NVIDIA ยังไม่ยื่นรายงาน Form 10-Q ไตรมาส Q3 FY27 และยังไม่ชัดเจนว่า SEC กำลังตรวจสอบประเด็นบัญชีส่วนใด นักลงทุนย่อมกังวลต่อคุณภาพรายได้และลูกหนี้การค้าที่พุ่งสูงถึง $81.03 พันล้าน ขณะเดียวกัน การขาดซีอีโอผู้ก่อตั้งอย่าง Jensen Huang ในช่วงที่ยังหาตัวแทนถาวรไม่ได้ รวมถึงมาตรการคุมส่งออกสหรัฐฯ ในจีนและเอเชียตะวันออกเฉียงใต้ที่เข้มข้นขึ้น ล้วนเป็นแรงกดดันที่ภาวะ oversold รุนแรงยังไม่สามารถรับประกันจุดต่ำสุดได้หากมีข้อสรุปเชิงลบจาก SEC ตามมา",
+               "cons":  [
+                            "Reuters รายงานวันที่ 20 พ.ย. 2026 ว่า SEC กำลังตรวจสอบแนวปฏิบัติทางบัญชีของ NVIDIA จนกดดันให้หุ้นร่วงหนัก 14.01% ในวันเดียว",
+                            "Jensen Huang ผู้ร่วมก่อตั้งและซีอีโอมากว่า 33 ปี ลาออกกะทันหันวันที่ 12 พ.ย. 2026 โดยบอร์ดยืนยันว่าจะไม่เชิญกลับมาดำรงตำแหน่งอีก",
+                            "NVIDIA เลื่อนการยื่นรายงาน Form 10-Q ไตรมาส Q3 FY27 ออกไปจากกำหนดปกติเพื่อทบทวนถ้อยคำด้านความเสี่ยงและคดีความจากการสอบสวนที่กำลังดำเนินอยู่",
+                            "ลูกหนี้การค้าพุ่งขึ้นเป็น $81.03 พันล้าน และสินค้าคงคลังอยู่ที่ $39.72 พันล้าน ขณะที่ลูกค้ารายใหญ่ 3 อันดับแรกยังคิดเป็นถึง 36% ของรายได้รวม",
+                            "NVIDIA หยุดส่งออกชิป Hopper ไปจีนและเผชิญเกณฑ์คุมส่งออกสหรัฐฯ ในเอเชียตะวันออกเฉียงใต้ที่เข้มงวดขึ้น พร้อมคาดอัตรากำไรขั้นต้น Q4 ลดลงสู่ 71.0%–72.0%"
+                        ],
+               "fundamental":  "ในแง่ธุรกิจหลัก NVIDIA ยังครองห่วงโซ่มูลค่า AI ได้อย่างโดดเด่น โดยงบ Q3 FY27 (สิ้นสุด 25 ต.ค. 2026) มีรายได้ $115.8 พันล้าน (+103% YoY) กำไรสุทธิ GAAP $65.3 พันล้าน (+105% YoY หรือ EPS $2.70) และกลุ่ม Data Center แตะ $107.6 พันล้าน (+110% YoY) การส่งมอบแร็ค Vera Rubin NVL72 เริ่มต้นด้วยรายได้ราว $20 พันล้านในไตรมาสแรกควบคู่ระบบเครือข่าย Spectrum-X ให้ลูกค้ารายใหญ่เช่น Microsoft Azure, Google Cloud, Meta และ Oracle สะท้อนแรงยึดเหนี่ยวของระบบนิเวศ CUDA ผู้บริหารคาดรายได้ Q4 FY27 ที่ $130.0 พันล้าน (+/-3%) แม้ตัดรายได้คอมพิวต์จากจีนเป็นศูนย์ (และมีสัปดาห์บัญชีเพิ่ม 1 สัปดาห์) โดยอัตรากำไรขั้นต้นชะลอจาก 74.8% สู่ 71.0%–72.0% อย่างไรก็ดี ตลาดยังคงตั้งคำถามต่อคุณภาพกำไรจนกว่า Form 10-Q จะอธิบายตัวเลขลูกหนี้ $81.03 พันล้าน สินค้าคงคลัง $39.72 พันล้าน การกระจุกตัวของลูกค้ารายใหญ่ 3 ราย (36%) และรายละเอียดการสอบสวนของ SEC",
+               "headline":  "งบ Q3 ทุบสถิติ แต่หุ้นดิ่งหนักจากซีอีโอลาออกและข่าว SEC สอบบัญชี",
+               "news":  [
+                            "20 พ.ย. 2026: Reuters รายงานว่าเจ้าหน้าที่ SEC ของสหรัฐฯ กำลังตรวจสอบประเด็นทางบัญชีของ NVIDIA ต่อเนื่องจากรายงานของ Wall Street Journal วันที่ 17 พ.ย. เรื่องการสอบสวนทางแพ่ง ส่งผลให้หุ้นร่วง 14.01% ปิดที่ $125.53 ด้วยวอลุ่ม 626.37 ล้านหุ้น ทั้งนี้การสอบสวนยังไม่ถือเป็นการยืนยันความผิด",
+                            "17 พ.ย. 2026: NVIDIA รายงานรายได้ Q3 FY27 ทำสถิติใหม่ที่ $115.8 พันล้าน (+103% YoY) และคาดรายได้ Q4 ที่ $130.0 พันล้าน จากแรงหนุนของ Vera Rubin NVL72 ที่ทำรายได้เปิดตัวราว $20 พันล้าน แต่บริษัทผิดธรรมเนียมเดิมด้วยการเลื่อนยื่น Form 10-Q เพื่อทบทวนข้อมูลความเสี่ยงด้านกฎหมายและการสอบสวน",
+                            "17–18 พ.ย. 2026: Colette Kress รักษาการซีอีโอยืนยันว่า NVIDIA หยุดส่งออกชิป Hopper (H200) ที่มีใบอนุญาตไปจีนแล้ว หลังรับรู้รายได้ส่วนนี้ $2.4 พันล้านใน Q3 และตั้งสมมติฐานรายได้คอมพิวต์จากจีนเป็นศูนย์ใน Q4 ขณะที่สหรัฐฯ ออกกฎคุมศูนย์ข้อมูลคลาวด์ในเอเชียตะวันออกเฉียงใต้เข้มงวดขึ้นจนพันธมิตรเซิร์ฟเวอร์ต้องจำกัดการส่งมอบ",
+                            "12 พ.ย. 2026: Jensen Huang ผู้ร่วมก่อตั้งและซีอีโอลาออกจากทุกตำแหน่งและบอร์ดทันทีหลังมีประเด็นด้านพฤติกรรมส่วนบุคคล โดยบอร์ดแต่งตั้ง CFO Colette Kress เป็นรักษาการซีอีโอ และ Harvey Jones เป็นประธานบอร์ด ซึ่ง Jones ย้ำในวันแถลงงบ 17 พ.ย. ว่าจะไม่นำ Huang กลับมาเป็นซีอีโอ",
+                            "13–18 พ.ย. 2026: โบรกเกอร์ชั้นนำอย่าง Truist, Craig-Hallum, William Blair และ Melius Research ทยอยลดคำแนะนำหุ้น NVDA ลงสู่ Hold หรือ Market Perform โดยชี้ว่าความเสี่ยงด้านธรรมาภิบาล วัฒนธรรมองค์กร และการดำเนินงานมีน้ำหนักมากกว่างบการเงินที่แข็งแกร่ง"
+                        ],
+               "opportunity":  "สำหรับผู้ถือหุ้นโครงสร้างพื้นฐาน AI ระยะยาว เครื่องจักรธุรกิจเบื้องหลังพายุข่าวร้ายยังไม่เสียหาย แนวโน้มรายได้ Q4 ระดับ $130.0 พันล้าน การเปิดตัว Vera Rubin NVL72 มูลค่าราว $20 พันล้าน และการพึ่งพาระบบ CUDA กับ Spectrum-X ของไฮเปอร์สเกลเลอร์ชี้ว่าคู่แข่งยังเจาะคูเมืองหลักไม่ได้ หลังราคาปรับฐานถึง 48.4% จากจุดสูงสุดเดือน ต.ค. ที่ $243.37 พร้อม RSI 14 ที่ 15.05 ตลาดได้ซึมซับความกังวลไปมากแล้ว หมุดหมายสำคัญที่ควรติดตามแทนการเก็งจังหวะระยะสั้นคือการยื่น Form 10-Q ที่โปร่งใส ความชัดเจนจากการสอบสวนของ SEC การรักษากำไรขั้นต้นใกล้ 71%–72% และการสรรหาซีอีโอถาวรที่น่าเชื่อถือ",
+               "opportunityCheck":  "คะแนนโอกาสด้าน AI ส่วนใหญ่ยังสอดคล้องกับข้อเท็จจริง เพราะธุรกิจ Data Center คิดเป็นถึง 93% ของรายได้ การเติบโตยังเกิน 100% YoY และการเปิดตัว Vera Rubin NVL72 มูลค่าราว $20 พันล้านยืนยันความเป็นผู้นำตลาดชัดเจน อย่างไรก็ตาม คะแนนด้าน optionality (โอกาสต่อยอดธุรกิจใหม่) ดูสูงเกินไปและควรปรับลดลงอย่างมีนัยสำคัญ เนื่องจากการขาดซีอีโอผู้ก่อตั้ง การบริหารช่วงเปลี่ยนผ่าน คดีสอบบัญชีของ SEC และการสูญเสียตลาดคอมพิวต์จีนจำกัดความคล่องตัวในการขยายดีลใหม่ นอกจากนี้ควรจับตาด้าน bottleneck \u0026 pricing power เพิ่มเติมหลังอัตรากำไรขั้นต้น Q4 มีแนวโน้มชะลอสู่ 71.0%–72.0% ภายใต้เกณฑ์ส่งออกที่เข้มงวดขึ้น",
+               "pros":  [
+                            "รายได้ Q3 FY27 พุ่ง 103% YoY แตะ $115.8 พันล้าน (Data Center $107.6 พันล้าน โต 110% YoY) พร้อมอัตรากำไรขั้นต้น GAAP สูงถึง 74.8%",
+                            "แร็คประมวลผลรุ่นใหม่ Vera Rubin NVL72 เปิดตัวทำรายได้ราว $20 พันล้านในไตรมาสแรก นับเป็นการขยายกำลังผลิตที่เร็วที่สุดในประวัติศาสตร์บริษัท",
+                            "คาดการณ์รายได้ Q4 FY27 ที่ $130.0 พันล้าน (+/-3%) สูงกว่าที่ตลาดเคยคาด แม้ตั้งสมมติฐานรายได้คอมพิวต์ Data Center จากจีนเป็นศูนย์",
+                            "NVIDIA คืนทุนให้ผู้ถือหุ้น $28.1 พันล้านใน Q3 FY27 และยังมีวงเงินซื้อหุ้นคืนคงเหลืออีกราว $227.3 พันล้าน"
+                        ],
+               "risks":  [
+                             "การสอบสวนด้านบัญชีของ SEC อาจลุกลามสู่มาตรการบังคับใช้กฎหมาย ค่าปรับ หรือการปรับงบการเงินย้อนหลัง",
+                             "รายงาน Form 10-Q ไตรมาส Q3 FY27 ที่เลื่อนออกไปอาจเปิดเผยข้อพิพาททางกฎหมาย จุดอ่อนการควบคุมภายใน หรือประเด็นรับรู้รายได้เพิ่มเติม",
+                             "ภาวะสุญญากาศผู้นำและความเสี่ยงด้านการรักษาบุคลากรหรือทิศทางกลยุทธ์หลัง Jensen Huang ลาออก",
+                             "การกระจุกตัวของลูกค้าสูง (ลูกค้ารายใหญ่ 3 รายคิดเป็น 36%) ควบคู่ลูกหนี้การค้าที่พุ่งเป็น $81.03 พันล้าน และสินค้าคงคลัง $39.72 พันล้าน",
+                             "มาตรการควบคุมส่งออกของสหรัฐฯ ที่เข้มงวดขึ้นอาจชะลอการติดตั้งเซิร์ฟเวอร์ AI ทั้งในจีนและศูนย์ข้อมูลคลาวด์ในเอเชียตะวันออกเฉียงใต้"
+                         ],
+               "summary":  "NVIDIA กำลังเผชิญภาพที่สวนทางกันอย่างรุนแรงระหว่างงบการเงินระดับสถิติกับวิกฤตธรรมาภิบาล วันที่ 17 พ.ย. 2026 บริษัทเผยรายได้ Q3 FY27 โต 103% YoY แตะ $115.8 พันล้านจากแรงหนุน Vera Rubin NVL72 และคาด Q4 พุ่งสู่ $130.0 พันล้าน ทว่าหุ้นกลับดิ่ง 14.01% ในวันที่ 20 พ.ย. ปิดที่ $125.53 ลดลง 48.4% จากจุดสูงสุด $243.37 ในเดือน ต.ค. หลัง Jensen Huang ลาออกกะทันหันวันที่ 12 พ.ย. การเลื่อนส่ง Form 10-Q การหยุดขายชิป Hopper ในจีน และข่าว Reuters วันที่ 20 พ.ย. ว่า SEC สอบสวนประเด็นบัญชี คูเมืองด้านชิป AI ยังแกร่ง แต่ความเสี่ยงธรรมาภิบาลทำให้ต้องเฝ้าระวังสมมติฐานการลงทุน",
+               "technical":  "ภาพเทคนิคของ NVDA ณ วันที่ 20 พ.ย. 2026 อยู่ในภาวะขาลงชัดเจนจากข้อมูลย้อนหลัง 501 วันทำการ ราคาปิดที่ $125.53 (-14.01%) อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่ EMA (เส้นค่าเฉลี่ยถ่วงน้ำหนักเพื่อดูแนวโน้มราคา) ทั้ง 3 เส้นมาก ได้แก่ EMA 50 ที่ $195.87, EMA 100 ที่ $203.44 และ EMA 200 ที่ $200.41 โดย EMA 50 ตัดลงต่ำกว่าเส้นระยะยาวทั้งสองแล้วยืนยันการหลุดแนวโน้มขาขึ้น ด้านโมเมนตัมอ่อนแรงหนัก ค่า MACD 12/26/9 (เครื่องมือวัดแรงส่งของแนวโน้ม) อยู่ที่ -19.83 ต่ำกว่าเส้นสัญญาณ -15.20 พร้อมฮิสโตแกรมติดลบ -4.63 สะท้อนแรงขายที่ยังเร่งตัว ขณะที่ RSI 14 (มาตรวัดโมเมนตัม 0–100 หากต่ำกว่า 30 คือภาวะขายมากเกินไป) ดิ่งลงสู่ระดับสุดโต่งที่ 15.05 ด้านความผันผวน ราคาปิดหลุดกรอบล่างของ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ที่ $128.31 และอยู่เหนือจุดต่ำสุดรอบ 52 สัปดาห์ที่ $124.50 เพียงเล็กน้อย ห่างจากจุดสูงสุด $243.37 ถึง 48.4% โดยมีปริมาณซื้อขาย 626.37 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 287.29 ล้านหุ้นถึง 2.18 เท่า ยืนยันแรงเทขายของสถาบัน แนวรับสำคัญอยู่ที่ $124.50 ส่วนแนวต้านอยู่ที่ $128.31, $143.73 และเส้นกลาง $181.46"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-11-17",
+                        "publisher":  "NVIDIA Newsroom",
+                        "title":  "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+                    },
+                    {
+                        "date":  "2026-11-12",
+                        "publisher":  "NVIDIA Newsroom",
+                        "title":  "NVIDIA Announces CEO Transition",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+                    },
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "Reuters",
+                        "title":  "Nvidia\u0027s accounting is a focus of US SEC investigation, sources say",
+                        "url":  "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+                    },
+                    {
+                        "date":  "2026-11-17",
+                        "publisher":  "The Wall Street Journal",
+                        "title":  "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
+                        "url":  "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8"
+                    },
+                    {
+                        "date":  "2026-11-18",
+                        "publisher":  "CBS News",
+                        "title":  "Nvidia says it will stop selling some AI data center chips to China",
+                        "url":  "https://www.cbsnews.com/news/nvidia-stops-selling-ai-data-center-chips-china-hopper-h200/"
+                    },
+                    {
+                        "date":  "2026-11-17",
+                        "publisher":  "Forbes",
+                        "title":  "Nvidia Reports Strong $115.8 Billion Quarterly Revenue In First Earnings Post-Jensen Huang",
+                        "url":  "https://www.forbes.com/sites/fionariley/2026/11/17/nvidia-reports-strong-1158-billion-quarterly-revenue-in-first-earnings-post-jensen-huang/"
+                    }
+                ]
+}

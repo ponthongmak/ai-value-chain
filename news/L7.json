@@ -1,0 +1,221 @@
+{
+    "layer":  7,
+    "name":  "AI Applications \u0026 Adjacent Technologies",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "generatedAt":  "2026-11-23T05:37:19Z",
+    "period":  [
+                   "2026-11-09",
+                   "2026-11-23"
+               ],
+    "costUsd":  null,
+    "brief":  {
+                  "en":  "Anthropic\u0027s historic $81.3B Nasdaq IPO (ticker ANT) and $26B strategic private placement defined the period, cementing frontier AI applications as a trillion-dollar public asset class alongside deep cloud ties to Google and Microsoft. Hyperscalers accelerated agentic software and custom silicon rollouts—spanning Microsoft\u0027s Ignite updates (Maia 300, Cobalt 200, Copilot Autopilot) and Google\u0027s Gemini 4 lineup—while Nvidia\u0027s $107.6B data center quarter underscored both relentless AI demand and heavy capex outlays. Across vertical and adjacent plays, Tempus AI and Ondas posted major commercial momentum, while Meta\u0027s Muse privacy bugs, Google\u0027s revived EU AdSense case, and Palantir\u0027s 2029 UK NHS exit highlighted execution and regulatory risks.",
+                  "th":  "ช่วงสองสัปดาห์ที่ผ่านมาโดดเด่นด้วยการเข้าจดทะเบียนในตลาด Nasdaq ของ Anthropic (ANT) มูลค่า IPO สูงเป็นประวัติการณ์ $81.3B พร้อมดีลขายหุ้นแบบเฉพาะเจาะจงให้พันธมิตรอีก $26B ตอกย้ำสถานะของกลุ่ม AI Applications ในตลาดทุนและสายสัมพันธ์ด้านคลาวด์กับ Google และ Microsoft ขณะเดียวกันผู้ให้บริการคลาวด์รายใหญ่เร่งเปิดตัวทั้ง Agentic AI และชิปพัฒนาเองอย่างต่อเนื่อง ตั้งแต่ Microsoft Ignite (Maia 300, Cobalt 200, Copilot Autopilot) ไปจนถึงโมเดลตระกูล Gemini 4 ของ Google ท่ามกลางรายได้ Data Center ของ Nvidia ที่พุ่งแตะ $107.6B ซึ่งสะท้อนทั้งอุปสงค์ที่แข็งแกร่งและภาระงบลงทุนที่สูงขึ้น ด้านหุ้นเฉพาะทางอย่าง TEM และ ONDS มีแรงส่งเชิงพาณิชย์ที่โดดเด่น สวนทางกับความเสี่ยงด้านความเป็นส่วนตัวและกฎระเบียบที่กดดัน META, GOOGL และ PLTR"
+              },
+    "themes":  {
+                   "en":  [
+                              "Anthropic\u0027s Historic Nasdaq IPO",
+                              "Agentic AI \u0026 Custom Silicon",
+                              "Vertical AI Commercial Traction",
+                              "Privacy \u0026 Regulatory Scrutiny"
+                          ],
+                   "th":  [
+                              "Anthropic เข้าตลาด Nasdaq ครั้งประวัติศาสตร์",
+                              "Agentic AI และชิปพัฒนาเอง",
+                              "แรงส่งเชิงพาณิชย์ของ Vertical AI",
+                              "แรงกดดันด้านความเป็นส่วนตัวและกฎระเบียบ"
+                          ]
+               },
+    "items":  [
+                  {
+                      "date":  "2026-11-20",
+                      "impact":  "positive",
+                      "publisher":  "Anthropic",
+                      "tickers":  [
+                                      "ANT",
+                                      "GOOGL",
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Anthropic closes $81.3B Nasdaq IPO and $26B tech-partner private placement",
+                      "title_th":  "Anthropic ปิดดีล IPO ใน Nasdaq มูลค่า $81.3B พร้อมเพิ่มทุนพันธมิตร $26B",
+                      "url":  "https://www.anthropic.com/news/anthropic-announces-closing-of-initial-public-offering-including-full-exercise-of-underwriters-option-to-purchase-additional-shares-and-closing-of-concurrent-private-placement",
+                      "why_en":  "Listing under ticker ANT gives Anthropic over $104.8B in net proceeds to fund frontier compute while deepening equity and cloud commitments with strategic backers Google and Microsoft.",
+                      "why_th":  "การเข้าจดทะเบียนภายใต้ชื่อย่อ ANT ทำให้ Anthropic ได้รับเงินสุทธิกว่า $104.8B เพื่อรองรับการขยายโครงสร้างพื้นฐานประมวลผล พร้อมตอกย้ำความร่วมมือด้านหุ้นและคลาวด์กับ Google และ Microsoft"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "mixed",
+                      "publisher":  "NVIDIA Newsroom",
+                      "tickers":  [
+                                      "MSFT",
+                                      "GOOGL",
+                                      "META",
+                                      "ANT"
+                                  ],
+                      "title_en":  "Nvidia Q3 data center revenue jumps 110% to $107.6B on AI buildout",
+                      "title_th":  "รายได้ Data Center ไตรมาส 3 ของ Nvidia พุ่ง 110% แตะ $107.6B รับกระแสลงทุน AI",
+                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+                      "why_en":  "Surging data center sales and $390B in Nvidia supply obligations confirm robust AI adoption, but highlight the steep capital spending burden facing MSFT, GOOGL, META, and ANT.",
+                      "why_th":  "ยอดขาย Data Center ที่เติบโตก้าวกระโดดและภาระผูกพันจัดซื้อชิ้นส่วน $390B ของ Nvidia ยืนยันอุปสงค์ AI ที่ยังแข็งแกร่ง แต่ก็สะท้อนภาระงบลงทุนมหาศาลที่ MSFT, GOOGL, META และ ANT ต้องแบกรับ"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "Microsoft Source",
+                      "tickers":  [
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Microsoft unveils Maia 300 AI accelerator and Cobalt 200 cloud VMs",
+                      "title_th":  "Microsoft เปิดตัวชิป AI รุ่น Maia 300 และเครื่องเสมือน Cobalt 200 บน Azure",
+                      "url":  "https://news.microsoft.com/source/company-news/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/",
+                      "why_en":  "Custom silicon delivering 40% more tokens per watt on Maia 300 and up to 50% faster Cobalt 200 VMs lowers Azure inference costs and reduces reliance on third-party GPUs.",
+                      "why_th":  "ชิปพัฒนาเองที่ช่วยเพิ่มประสิทธิภาพการประมวลผลต่อวัตต์ 40% ใน Maia 300 และเพิ่มความเร็วสูงสุด 50% ใน Cobalt 200 ช่วยลดต้นทุนการรัน AI บน Azure และลดการพึ่งพา GPU จากภายนอก"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "Microsoft Copilot Blog",
+                      "tickers":  [
+                                      "MSFT",
+                                      "ANT"
+                                  ],
+                      "title_en":  "Microsoft adds autonomous Autopilot agents and multi-model routing to Copilot",
+                      "title_th":  "Microsoft เพิ่มฟีเจอร์ Autopilot และระบบสลับโมเดลอัตโนมัติใน Copilot",
+                      "url":  "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/",
+                      "why_en":  "Auto routing across OpenAI and Anthropic models paired with usage-based billing broadens enterprise Copilot monetization for Microsoft and expands corporate distribution for Claude.",
+                      "why_th":  "ระบบสลับใช้โมเดลของทั้ง OpenAI และ Anthropic อัตโนมัติควบคู่การคิดค่าบริการตามการใช้งานจริง ช่วยเพิ่มช่องทางสร้างรายได้ระดับองค์กรให้ Microsoft และขยายฐานลูกค้าองค์กรให้ Claude"
+                  },
+                  {
+                      "date":  "2026-11-18",
+                      "impact":  "positive",
+                      "publisher":  "Google Blog",
+                      "tickers":  [
+                                      "GOOGL"
+                                  ],
+                      "title_en":  "Google rolls out Gemini 4 Neon, Hydrogen, and Carbon frontier models",
+                      "title_th":  "Google เปิดตัวโมเดลตระกูล Gemini 4 ทั้ง Neon, Hydrogen และ Carbon",
+                      "url":  "https://blog.google/technology/developers/introducing-gemini-4-neon/",
+                      "why_en":  "Releasing three specialized 1-million-token Gemini 4 models for cybersecurity, coding, and enterprise workflows strengthens Google Cloud\u0027s competitive position against Anthropic and Microsoft.",
+                      "why_th":  "การเปิดตัวโมเดล Gemini 4 ขนาดหน้าต่างบริบท 1 ล้านโทเคนครบ 3 รุ่นย่อยสำหรับงานความปลอดภัยไซเบอร์ เขียนโค้ด และองค์กร ช่วยเสริมความแข็งแกร่งให้ Google Cloud ในการแข่งขันกับ Anthropic และ Microsoft"
+                  },
+                  {
+                      "date":  "2026-11-21",
+                      "impact":  "positive",
+                      "publisher":  "The Guardian",
+                      "tickers":  [
+                                      "ANT"
+                                  ],
+                      "title_en":  "Two Lean groups verify Claude-assisted proof claim for Riemann hypothesis",
+                      "title_th":  "สองกลุ่มวิจัย Lean ยืนยันโค้ดพิสูจน์สมมติฐานรีมันน์ที่พัฒนาร่วมกับ Claude",
+                      "url":  "https://www.theguardian.com/technology/2026/nov/21/anthropic-levent-alpoge-claude-riemann-hypothesis-mathematics",
+                      "why_en":  "Independent computer verification of a 17-million-line Lean proof highlights Claude\u0027s frontier reasoning capability for scientific and technical workloads, even as human peer review continues.",
+                      "why_th":  "การตรวจสอบผ่านโปรแกรมพิสูจน์ทางคณิตศาสตร์ของโค้ด Lean ยาว 17 ล้านบรรทัดโดยสองกลุ่มอิสระ สะท้อนศักยภาพการให้เหตุผลขั้นสูงของ Claude สำหรับงานวิจัยและเทคนิค แม้ยังอยู่ระหว่างการตรวจสอบโดยนักคณิตศาสตร์"
+                  },
+                  {
+                      "date":  "2026-11-19",
+                      "impact":  "negative",
+                      "publisher":  "TechCrunch",
+                      "tickers":  [
+                                      "META"
+                                  ],
+                      "title_en":  "Leaked internal Meta posts flag account mix-ups in Muse AI agent",
+                      "title_th":  "เอกสารภายใน Meta หลุด เผยบั๊กสลับบัญชีและเสี่ยงข้อมูลรั่วใน Muse AI",
+                      "url":  "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-could-be-exposing-private-data-report-says/",
+                      "why_en":  "Reports that Meta\u0027s personal AI agent—already past 10 million downloads—mixed user conversations and pulled sensitive third-party app data create regulatory and consumer trust risks.",
+                      "why_th":  "รายงานว่า Muse AI ซึ่งมียอดดาวน์โหลดทะลุ 10 ล้านครั้งแล้ว เกิดปัญหาสลับบทสนทนาข้ามบัญชีและดึงข้อมูลจากแอปภายนอก ทำให้ Meta เผชิญความเสี่ยงด้านความเชื่อมั่นและการตรวจสอบจากหน่วยงานกำกับดูแล"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "impact":  "negative",
+                      "publisher":  "Court of Justice of the European Union",
+                      "tickers":  [
+                                      "GOOGL"
+                                  ],
+                      "title_en":  "EU court adviser backs reviving €1.49B Google AdSense antitrust fine",
+                      "title_th":  "ที่ปรึกษาศาลยุติธรรม EU แนะรื้อฟื้นค่าปรับผูกขาด AdSense ของ Google €1.49B",
+                      "url":  "https://curia.europa.eu/juris/celex.jsf?celex=62024CC0826",
+                      "why_en":  "Advocate General Juliane Kokott\u0027s opinion to overturn Google\u0027s 2024 annulment reopens a €1.49B ($1.7B) fine liability ahead of a final EU court ruling expected in 2027.",
+                      "why_th":  "ความเห็นของที่ปรึกษาศาลให้เพิกถอนคำตัดสินปี 2024 ที่เคยยกเลิกค่าปรับ ทำให้ Google กลับมาเผชิญความเสี่ยงภาระค่าปรับ €1.49B ($1.7B) ก่อนศาลสูงสุด EU จะมีคำพิพากษาในปี 2027"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "impact":  "positive",
+                      "publisher":  "Google Cloud Blog",
+                      "tickers":  [
+                                      "GOOGL"
+                                  ],
+                      "title_en":  "Google Cloud launches Gemini for Healthcare agent suite for health systems",
+                      "title_th":  "Google Cloud เปิดตัวโซลูชัน Gemini for Healthcare สำหรับโรงพยาบาลและระบบสุขภาพ",
+                      "url":  "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-for-healthcare",
+                      "why_en":  "Early previews with Stanford School of Medicine and HCA Healthcare push Google Cloud deeper into regulated clinical administration and electronic health record workflows.",
+                      "why_th":  "การเริ่มใช้งานจริงกับเครือข่ายการแพทย์ใหญ่อย่าง Stanford School of Medicine และ HCA Healthcare ช่วยขยายฐานรายได้ของ Google Cloud เข้าสู่กลุ่มธุรกิจสุขภาพที่มีอัตรากำไรสูงและข้อกำกับดูแลเข้มงวด"
+                  },
+                  {
+                      "date":  "2026-11-18",
+                      "impact":  "positive",
+                      "publisher":  "U.S. SEC (Form 8-K)",
+                      "tickers":  [
+                                      "TEM"
+                                  ],
+                      "title_en":  "Tempus AI extends AstraZeneca oncology data partnership with $200M commitment",
+                      "title_th":  "Tempus AI ต่อสัญญาพันธมิตรข้อมูลมะเร็งกับ AstraZeneca มูลค่า $200M ถึงปี 2031",
+                      "url":  "https://www.sec.gov/Archives/edgar/data/1717115/000119312526466240/d665796d8k.htm",
+                      "why_en":  "Extending the collaboration through 2031 locks in $200M in aggregate fees—including a $32M annual minimum floor—boosting multi-year revenue visibility for Tempus\u0027s biopharma data platform.",
+                      "why_th":  "การต่อสัญญาออกไปถึงปี 2031 ช่วยการันตีรายได้รวม $200M โดยมีขั้นต่ำ $32M ต่อปี เพิ่มความแน่นอนให้กระแสรายได้ระยะยาวของธุรกิจไลเซนส์ข้อมูลการแพทย์และ AI ของ Tempus AI"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "mixed",
+                      "publisher":  "The Guardian",
+                      "tickers":  [
+                                      "PLTR"
+                                  ],
+                      "title_en":  "UK government sets March 2029 end for Palantir\u0027s £330M NHS contract",
+                      "title_th":  "รัฐบาลอังกฤษยืนยันสิ้นสุดสัญญา NHS มูลค่า £330M ของ Palantir ในเดือนมี.ค. 2029",
+                      "url":  "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantirs-contract-with-nhs-in-england-in-2029",
+                      "why_en":  "A two-year bridge extension avoids an early 2027 break, but Parliament\u0027s pledge to transition to domestic suppliers by March 2029 caps long-term UK public-health upside.",
+                      "why_th":  "การต่ออายุสัญญาอีก 2 ปีช่วยเลี่ยงการยกเลิกก่อนกำหนดในปี 2027 แต่คำประกาศของรัฐบาลอังกฤษที่จะเปลี่ยนไปใช้ผู้ให้บริการในประเทศภายในมี.ค. 2029 จำกัดโอกาสเติบโตระยะยาวในภาคสาธารณสุขอังกฤษ"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "impact":  "mixed",
+                      "publisher":  "U.S. SEC (Form 8-K Exhibit 99.1)",
+                      "tickers":  [
+                                      "ONDS"
+                                  ],
+                      "title_en":  "Ondas Q3 revenue doubles QoQ to $167.5M; raises 2026 outlook to $550M+",
+                      "title_th":  "รายได้ Q3 ของ Ondas โตเท่าตัวแตะ $167.5M พร้อมปรับเป้าปี 2026 เป็น $550M+",
+                      "url":  "https://www.sec.gov/Archives/edgar/data/0001356764/000149315226043232/ex99-1.htm",
+                      "why_en":  "Backlog jumped 36% sequentially to $835M and management set a $1.1B 2027 sales target, though production ramp costs squeezed gross margin to 21.8% and widened EBITDA losses.",
+                      "why_th":  "ยอดคำสั่งซื้อคงค้างพุ่ง 36% จากไตรมาสก่อนแตะ $835M และบริษัทตั้งเป้ายอดขายปี 2027 ที่ $1.1B แต่ต้นทุนช่วงเร่งสายการผลิตกดดันอัตรากำไรขั้นต้นเหลือ 21.8% และทำให้ขาดทุน EBITDA กว้างขึ้น"
+                  },
+                  {
+                      "date":  "2026-11-09",
+                      "impact":  "positive",
+                      "publisher":  "Carahsoft",
+                      "tickers":  [
+                                      "IONQ"
+                                  ],
+                      "title_en":  "IonQ partners with Carahsoft to expand U.S. public-sector quantum distribution",
+                      "title_th":  "IonQ จับมือ Carahsoft เป็นตัวแทนจำหน่ายระบบควอนตัมเจาะภาครัฐสหรัฐฯ",
+                      "url":  "https://www.carahsoft.com/news/ionq-and-carahsoft-partner-to-bring-quantum-solutions-to-the-public-sector",
+                      "why_en":  "Using Carahsoft\u0027s government contract vehicles and reseller network lowers procurement friction for IonQ\u0027s computing, networking, and sensing products across U.S. federal and state agencies.",
+                      "why_th":  "การใช้ช่องทางจัดซื้อจัดจ้างและเครือข่ายตัวแทนภาครัฐของ Carahsoft ช่วยลดอุปสรรคการขายและเร่งการเข้าถึงหน่วยงานรัฐสหรัฐฯ สำหรับทั้งโซลูชันควอนตัมคอมพิวติ้งและเครือข่ายของ IonQ"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "impact":  "positive",
+                      "publisher":  "Delaware State Police",
+                      "tickers":  [
+                                      "AXON"
+                                  ],
+                      "title_en":  "Delaware State Police rolls out Axon real-time AI body-camera translation",
+                      "title_th":  "ตำรวจรัฐเดลาแวร์เริ่มใช้งานระบบแปลภาษา AI แบบเรียลไทม์บนกล้องติดตัว Axon",
+                      "url":  "https://dsp.delaware.gov/2026/11/12/state-police-launch-real-time-translation-by-axon/",
+                      "why_en":  "Statewide deployment supporting over 50 languages under a renewed Axon contract demonstrates growing agency adoption of high-margin AI software layered onto body-worn hardware.",
+                      "why_th":  "การใช้งานจริงทั่วทั้งรัฐซึ่งรองรับกว่า 50 ภาษาภายใต้สัญญาที่ต่ออายุกับ Axon สะท้อนการขยายตัวของซอฟต์แวร์ AI อัตรากำไรสูงที่ต่อยอดบนฐานฮาร์ดแวร์กล้องติดตัวตำรวจ"
+                  }
+              ]
+}

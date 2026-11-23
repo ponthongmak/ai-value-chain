@@ -1,0 +1,764 @@
+{
+    "ticker":  "AMD",
+    "name":  "Advanced Micro Devices",
+    "symbol":  "NASDAQ:AMD",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:40:41Z",
+    "costUsd":  0.6671587,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:AMD",
+                       "yahoo":  "AMD",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:38:17Z",
+                       "price":  424.39,
+                       "open":  471.73,
+                       "high":  474.79,
+                       "low":  418.76,
+                       "volume":  69989800,
+                       "avgVolume20":  42318780,
+                       "changePct":  -13.25,
+                       "historyDays":  501,
+                       "ema50":  526.11,
+                       "ema100":  508.96,
+                       "ema200":  445.14,
+                       "bb":  {
+                                  "upper":  604.03,
+                                  "middle":  509.08,
+                                  "lower":  414.13
+                              },
+                       "macd":  {
+                                    "macd":  -16.29,
+                                    "signal":  -12.82,
+                                    "hist":  -3.47
+                                },
+                       "rsi14":  38.42,
+                       "high52w":  658.52,
+                       "low52w":  188.22,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         542.52
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         523.2
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         466.38
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         490.33
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         475.51
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         452.4
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         488.45
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         511.57
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         547.26
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         507.29
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         512.48
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         537.37
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         551.63
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         519.85
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         519.74
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         532.57
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         521.58
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         539.49
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         580.91
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         540.88
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         517.82
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         552.05
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         516.11
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         517.41
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         546.72
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         557.89
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         534.39
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         548.13
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         529.14
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         500.94
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         495.76
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         503.57
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         544.43
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         552.33
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         539.69
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         521.95
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         494.95
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         454.62
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         429.56
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         485.39
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         476.15
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         484.64
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         518.58
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         482.05
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         489.28
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         483.36
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         469.56
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         474.32
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         482.93
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         483.01
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         514.39
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         506
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         484.39
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         466.42
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         469.46
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         473.25
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         456.75
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         479.18
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         480.93
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         476.67
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         465.58
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         470.72
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         459.61
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         457.06
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         456.16
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         477.57
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         505.74
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         521.1
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         503.6
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         516.13
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         493.41
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         504.2
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         512.5
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         545.09
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         559.82
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         615.52
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         623.77
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         614.61
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         629.26
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         630.63
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         607.87
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         607.57
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         611.76
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         615.73
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         633.91
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         631.75
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         649.42
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         645.86
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         620.68
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         608.1
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         594.24
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         605.53
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         570.82
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         562.23
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         528.75
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         538.05
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         534.74
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         552.72
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         507.93
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         516.79
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         531.28
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         560.26
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         578.44
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         566.42
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         504.8
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         466.84
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         483.9
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         488.78
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         404.4
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         449.04
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         508.58
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         515.21
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         552.9
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         585.3
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         534.06
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         504.28
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         503.41
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         530.14
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         489.19
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         424.39
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          379.18,
+                                          384.83,
+                                          388.02,
+                                          392.04,
+                                          395.31,
+                                          397.55,
+                                          401.11,
+                                          405.44,
+                                          411.01,
+                                          414.78,
+                                          418.61,
+                                          423.27,
+                                          428.3,
+                                          431.89,
+                                          435.34,
+                                          439.15,
+                                          442.38,
+                                          446.19,
+                                          451.48,
+                                          454.98,
+                                          457.45,
+                                          461.16,
+                                          463.31,
+                                          465.43,
+                                          468.62,
+                                          472.12,
+                                          474.56,
+                                          477.45,
+                                          479.47,
+                                          480.32,
+                                          480.92,
+                                          481.81,
+                                          484.27,
+                                          486.94,
+                                          489,
+                                          490.3,
+                                          490.48,
+                                          489.07,
+                                          486.74,
+                                          486.69,
+                                          486.27,
+                                          486.21,
+                                          487.48,
+                                          487.27,
+                                          487.34,
+                                          487.19,
+                                          486.5,
+                                          486.02,
+                                          485.9,
+                                          485.78,
+                                          486.91,
+                                          487.66,
+                                          487.53,
+                                          486.7,
+                                          486.02,
+                                          485.52,
+                                          484.39,
+                                          484.19,
+                                          484.06,
+                                          483.77,
+                                          483.06,
+                                          482.57,
+                                          481.67,
+                                          480.71,
+                                          479.75,
+                                          479.66,
+                                          480.68,
+                                          482.27,
+                                          483.11,
+                                          484.4,
+                                          484.75,
+                                          485.52,
+                                          486.57,
+                                          488.87,
+                                          491.65,
+                                          496.51,
+                                          501.5,
+                                          505.94,
+                                          510.77,
+                                          515.47,
+                                          519.1,
+                                          522.56,
+                                          526.06,
+                                          529.58,
+                                          533.67,
+                                          537.52,
+                                          541.91,
+                                          545.98,
+                                          548.91,
+                                          551.23,
+                                          552.92,
+                                          554.98,
+                                          555.6,
+                                          555.86,
+                                          554.8,
+                                          554.14,
+                                          553.38,
+                                          553.36,
+                                          551.57,
+                                          550.21,
+                                          549.47,
+                                          549.89,
+                                          551.01,
+                                          551.62,
+                                          549.78,
+                                          546.53,
+                                          544.07,
+                                          541.9,
+                                          536.51,
+                                          533.08,
+                                          532.12,
+                                          531.46,
+                                          532.3,
+                                          534.38,
+                                          534.36,
+                                          533.18,
+                                          532.02,
+                                          531.94,
+                                          530.27,
+                                          526.11
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Record Q3 overshadowed by China-firmware short report; AMD breaks below 200-day EMA",
+               "summary":  "AMD\u0027s business is accelerating. Q3 2026 revenue reached $13.4B (+45%), Data Center revenue hit a record $8.5B (+97%), and Q4 guidance of about $17B beat the roughly $16.2B consensus. The stock went the other way. A Hunterbrook short report on November 19 linked AMD firmware to IEIT Systems, a blacklisted Chinese server maker. That came on top of a US export rule on November 16 and an AI-chip selloff across Asia. AMD closed at $424.39 on November 20, down 13.25% that day, below all three EMAs and about 36% under its $658.52 high.",
+               "pros":  [
+                            "Q4 2026 guidance of about $17B (±3%) implies roughly 27% growth on Q3\u0027s $13.4B.",
+                            "Anthropic, Meta, Microsoft, OpenAI and Oracle are already running models on the first Helios MI450 racks.",
+                            "Data Center was 64% of Q3 revenue and grew 97% year on year, with a 34% operating margin.",
+                            "Lisa Su expects server revenue to double in 2027, and several analysts model about 80% total growth for 2027.",
+                            "Hunterbrook says itself that its findings do not show AMD broke export law."
+                        ],
+               "cons":  [
+                            "Price fell under the EMA 200 ($445.14) on 1.65× normal volume, which is a high-conviction breakdown.",
+                            "Hunterbrook alleges IEIT shipped at least six newer AMD firmware versions after the March 2025 blacklisting, and law firms opened securities probes on November 20.",
+                            "The November 16 Commerce rule requires licences for AI chips sent to Singapore, Malaysia, Thailand, Indonesia and Brazil.",
+                            "In FY2025, 22.4% of revenue was billed to China and Hong Kong and 12.4% to Singapore, so regulatory headlines hit hard.",
+                            "Gross margin guidance of about 55% non-GAAP is far below NVIDIA\u0027s, which suggests AMD still competes partly on price."
+                        ],
+               "opportunityCheck":  "The scores look mostly reasonable. I would raise \u0027position\u0027 by one or two points. Q3 showed paying, at-scale Helios deployments with every major AI lab and three hyperscalers, and Citi says supply, not demand, is now the main constraint. That is stronger than a distant number two. I would keep \u0027bottleneck \u0026 pricing power\u0027 where it is: a 55% gross margin guide shows AMD is not setting prices. If the IEIT allegations lead to a formal Commerce finding, trim \u0027optionality\u0027. Nothing found so far justifies that.",
+               "technical":  "Trend: price ($424.39) is below the EMA 50 ($526.11), EMA 100 ($508.96) and EMA 200 ($445.14). EMAs are exponential moving averages of price over 50, 100 and 200 days. They are still stacked bullishly (50 \u003e 100 \u003e 200), so the long uptrend has not formally reversed. But losing the 200-day line on November 20 is a major warning. Momentum: MACD (a trend-momentum gauge) is -16.29, below its signal line at -12.82, and the histogram is negative at -3.47, so downside momentum is still building. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 38.42: weak, but not yet oversold. Volatility: price is just above the lower Bollinger Band at $414.13 (bands mark roughly two standard deviations around the 20-day average of $509.08), so the move is stretched. It sits about halfway in the 52-week range of $188.22–$658.52. Volume of 70.0M shares was 1.65× the 20-day average, and the day closed near its $418.76 low after opening at $471.73. Sellers were in control. Support is at $414–419. Resistance is at $445, then about $509.",
+               "fundamental":  "AMD is the main merchant alternative to NVIDIA for AI accelerators and leads in server CPUs. Q3 2026, reported November 3, was a clear beat. Revenue was $13.38B against $13.09B expected, and non-GAAP EPS was $2.09 against $1.95. Data Center revenue was $8.5B, up 97%, driven by EPYC CPUs and the MI450 launch. Q4 guidance is about $17B with a roughly 55% non-GAAP gross margin. Weak spots: Gaming fell 40%, and margins came in slightly under the Street\u0027s expectations. Analysts on November 4 mostly stayed at Buy or Overweight. Morgan Stanley (Equal-weight, $550) and JPMorgan (Neutral, $575) were more cautious. The moat thesis rests on the Helios ramp in 2027. The fundamentals reinforce it. The open question is regulatory, not about demand.",
+               "news":  [
+                            "November 3: Q3 revenue was $13.4B (+45% YoY) and Data Center revenue was $8.5B (+97%). Q4 guidance is about $17B ±3%, and Lisa Su said growth would accelerate as Helios and \u0027Venice\u0027 EPYC production scales.",
+                            "November 4: Citi ($800), UBS ($700), Goldman ($675) and Barclays ($665) kept bullish ratings. Some trimmed price targets, and Barclays flagged slightly soft gross margins.",
+                            "November 16: Commerce\u0027s BIS issued a rule requiring licences for advanced AI chips going to data centres in Singapore, Malaysia, Thailand, Indonesia and Brazil. The rule targets Chinese remote access to the chips and names both NVIDIA and AMD parts.",
+                            "November 19: Hunterbrook, which is short AMD, reported that blacklisted IEIT Systems kept shipping newer AMD firmware, most recently on October 19. It also said Aivres, an AMD Instinct partner, offers near-identical firmware. AMD reportedly rejected the report and said it complies with export rules.",
+                            "November 19–20: AMD fell 7.7% and then 13.25%, a loss of more than 24% over five sessions. Taiwan\u0027s Taiex had its worst week since 1991. Several law firms announced investigations into possible securities claims."
+                        ],
+               "caution":  "The breakdown happened on heavy volume and below the 200-day EMA, and MACD is still falling. Short-term sellers clearly have control. The IEIT issue may not fade quickly. If Commerce opens an inquiry or forces changes at partners such as Aivres, Helios server supply and China-linked revenue could both suffer. Class-action probes tend to keep headlines going for months. Hunterbrook\u0027s affiliated fund profits if the stock falls, so treat its framing critically. But AMD has not given a detailed public rebuttal yet.",
+               "opportunity":  "None of the November news touches AMD\u0027s order book. Q4 guidance is about 27% above Q3, five leading AI buyers already run Helios, and supply is the main constraint. Hunterbrook concedes it has not shown a legal violation. At $424.39, price sits just above the lower Bollinger Band ($414.13), and RSI 38 is near oversold. For long-term holders, the main question is whether $414–445 holds as a base. Watch for any Commerce response to the report.",
+               "risks":  [
+                             "Commerce enforcement or licence restrictions could follow from the IEIT firmware allegations.",
+                             "Securities class actions filed after the November 19–20 drop could weigh on the stock.",
+                             "New licence rules for Southeast Asia and Brazil (November 16) may slow non-US data-centre sales.",
+                             "Any slip in the MI450/MI455 Helios ramp would hurt, because Q4 and 2027 guidance assume a steep ramp.",
+                             "The AI-capex sentiment reversal visible across Asian chip stocks may continue."
+                         ]
+           },
+    "th":  {
+               "headline":  "งบไตรมาส 3 ทำสถิติ แต่รายงาน short เรื่องเฟิร์มแวร์จีนกดหุ้นหลุด EMA 200",
+               "summary":  "ธุรกิจของ AMD ยังเร่งตัวขึ้น ไตรมาส 3/2026 รายได้ 13.4 พันล้านดอลลาร์ (+45%) Data Center ทำสถิติ 8.5 พันล้าน (+97%) และไกด์ไตรมาส 4 ราว 17 พันล้าน สูงกว่าตลาดคาดที่ราว 16.2 พันล้าน แต่ราคาหุ้นกลับสวนทาง เมื่อ 19 พ.ย. Hunterbrook ออกรายงาน short อ้างว่าเฟิร์มแวร์ AMD ไปโผล่ที่ IEIT Systems ผู้ผลิตเซิร์ฟเวอร์จีนที่ถูกขึ้นบัญชีดำ ซ้ำด้วยกฎส่งออกใหม่ของสหรัฐฯ เมื่อ 16 พ.ย. และแรงขายหุ้นชิป AI ทั่วเอเชีย หุ้นปิดวันที่ 20 พ.ย. ที่ $424.39 ร่วง 13.25% ในวันเดียว ต่ำกว่า EMA ทั้งสามเส้น และห่างจากจุดสูงสุด $658.52 ราว 36%",
+               "pros":  [
+                            "ไกด์ไตรมาส 4/2026 ราว 17 พันล้านดอลลาร์ (±3%) เท่ากับโตราว 27% จากไตรมาส 3 ที่ 13.4 พันล้าน",
+                            "Anthropic, Meta, Microsoft, OpenAI และ Oracle เริ่มรันโมเดลบนแร็ก Helios MI450 ชุดแรกแล้ว",
+                            "Data Center มีสัดส่วน 64% ของรายได้ไตรมาส 3 โต 97% และมีอัตรากำไรจากการดำเนินงาน 34%",
+                            "Lisa Su คาดว่ารายได้เซิร์ฟเวอร์จะโตเท่าตัวในปี 2027 และนักวิเคราะห์หลายรายประเมินว่ารายได้รวมปี 2027 จะโตราว 80%",
+                            "Hunterbrook ยอมรับเองว่าผลการตรวจสอบยังไม่ได้พิสูจน์ว่า AMD ทำผิดกฎหมายส่งออก"
+                        ],
+               "cons":  [
+                            "ราคาหลุด EMA 200 ($445.14) ด้วยวอลุ่ม 1.65 เท่าของค่าเฉลี่ย ถือเป็นการหลุดที่มีน้ำหนัก",
+                            "Hunterbrook อ้างว่า IEIT ปล่อยเฟิร์มแวร์ AMD เวอร์ชันใหม่อย่างน้อย 6 ครั้งหลังถูกแบนเมื่อ มี.ค. 2025 และสำนักงานกฎหมายเริ่มสอบสวนเพื่อฟ้องคดีหลักทรัพย์ตั้งแต่ 20 พ.ย.",
+                            "กฎกระทรวงพาณิชย์สหรัฐฯ (16 พ.ย.) บังคับให้ขอใบอนุญาตส่งชิป AI ไปสิงคโปร์ มาเลเซีย ไทย อินโดนีเซีย และบราซิล",
+                            "ปีงบ 2025 รายได้ที่เรียกเก็บในจีนและฮ่องกงคิดเป็น 22.4% และสิงคโปร์ 12.4% ข่าวด้านกฎระเบียบจึงกระทบแรง",
+                            "ไกด์อัตรากำไรขั้นต้น non-GAAP ราว 55% ยังต่ำกว่า NVIDIA มาก สะท้อนว่า AMD ยังต้องแข่งด้านราคาอยู่บางส่วน"
+                        ],
+               "opportunityCheck":  "คะแนนโดยรวมดูสมเหตุสมผล แต่ผมจะเพิ่มคะแนน \u0027position\u0027 ขึ้น 1–2 แต้ม เพราะไตรมาส 3 แสดงให้เห็นว่า Helios มีลูกค้าจ่ายเงินจริงในระดับใหญ่ ทั้งแล็บ AI ชั้นนำและไฮเปอร์สเกลเลอร์ 3 ราย และ Citi ระบุว่าข้อจำกัดหลักตอนนี้คือซัพพลาย ไม่ใช่ดีมานด์ ซึ่งแข็งกว่าการเป็นเบอร์สองที่ทิ้งห่าง ส่วน \u0027bottleneck \u0026 pricing power\u0027 ควรคงไว้ เพราะไกด์มาร์จิ้น 55% บอกว่า AMD ยังไม่ใช่ผู้กำหนดราคา หากข้อกล่าวหาเรื่อง IEIT นำไปสู่ข้อสรุปอย่างเป็นทางการจากกระทรวงพาณิชย์ ควรลด \u0027optionality\u0027 ลง แต่ข้อมูลตอนนี้ยังไม่ถึงขั้นนั้น",
+               "technical":  "แนวโน้ม: ราคา $424.39 อยู่ต่ำกว่า EMA 50 ($526.11), EMA 100 ($508.96) และ EMA 200 ($445.14) ซึ่งเป็นเส้นค่าเฉลี่ยราคาแบบถ่วงน้ำหนักย้อนหลัง 50, 100 และ 200 วัน เส้น EMA ยังเรียงตัวแบบขาขึ้น (50 \u003e 100 \u003e 200) จึงยังไม่ถือว่าแนวโน้มระยะยาวกลับตัวอย่างเป็นทางการ แต่การหลุดเส้น 200 วันเมื่อ 20 พ.ย. เป็นสัญญาณเตือนสำคัญ โมเมนตัม: MACD (ตัวชี้วัดแรงส่งของแนวโน้ม) อยู่ที่ -16.29 ต่ำกว่าเส้นสัญญาณที่ -12.82 และฮิสโตแกรมติดลบ -3.47 แสดงว่าแรงลงยังเพิ่มขึ้น RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 38.42 คืออ่อนแรงแต่ยังไม่ oversold ความผันผวน: ราคาอยู่เหนือขอบล่าง Bollinger Band ($414.13) เพียงเล็กน้อย (Bollinger Band คือกรอบราว 2 ส่วนเบี่ยงเบนมาตรฐานรอบค่าเฉลี่ย 20 วันที่ $509.08) แปลว่าราคาลงมาไกลแล้ว และอยู่ราวกึ่งกลางกรอบ 52 สัปดาห์ $188.22–$658.52 วอลุ่ม 70.0 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน 1.65 เท่า และราคาปิดใกล้จุดต่ำสุดของวันที่ $418.76 หลังเปิดที่ $471.73 ฝั่งขายคุมเกม แนวรับอยู่ที่ $414–419 แนวต้านอยู่ที่ $445 และถัดไปราว $509",
+               "fundamental":  "AMD เป็นทางเลือกหลักนอกเหนือจาก NVIDIA ในตลาดชิปเร่ง AI และเป็นผู้นำซีพียูเซิร์ฟเวอร์ งบไตรมาส 3/2026 ที่ประกาศเมื่อ 3 พ.ย. ออกมาดีกว่าคาดชัดเจน รายได้ 13.38 พันล้านดอลลาร์ เทียบกับที่คาด 13.09 พันล้าน และ EPS non-GAAP 2.09 ดอลลาร์ เทียบกับที่คาด 1.95 Data Center ทำได้ 8.5 พันล้าน (+97%) จาก EPYC และการเปิดตัว MI450 ไกด์ไตรมาส 4 ราว 17 พันล้าน พร้อมอัตรากำไรขั้นต้น non-GAAP ราว 55% จุดอ่อนคือ Gaming ลดลง 40% และมาร์จิ้นต่ำกว่าที่ตลาดคาดเล็กน้อย เมื่อ 4 พ.ย. นักวิเคราะห์ส่วนใหญ่ยังให้ Buy หรือ Overweight มีเพียง Morgan Stanley (Equal-weight, $550) และ JPMorgan (Neutral, $575) ที่ระมัดระวังกว่า ทีสิสเรื่องคูเมืองขึ้นกับการเร่งผลิต Helios ในปี 2027 ซึ่งพื้นฐานรอบนี้ช่วยยืนยัน คำถามที่ยังค้างอยู่เป็นเรื่องกฎระเบียบ ไม่ใช่ดีมานด์",
+               "news":  [
+                            "3 พ.ย.: รายได้ไตรมาส 3 อยู่ที่ 13.4 พันล้านดอลลาร์ (+45%) Data Center 8.5 พันล้าน (+97%) ไกด์ไตรมาส 4 ราว 17 พันล้าน ±3% และ Lisa Su กล่าวว่าการเติบโตจะเร่งขึ้นเมื่อขยายการผลิต Helios และ EPYC \u0027Venice\u0027",
+                            "4 พ.ย.: Citi ($800), UBS ($700), Goldman ($675) และ Barclays ($665) ยังคงมุมมองบวก บางรายปรับลดราคาเป้าหมาย และ Barclays ชี้ว่ามาร์จิ้นขั้นต้นอ่อนกว่าคาดเล็กน้อย",
+                            "16 พ.ย.: BIS ของกระทรวงพาณิชย์สหรัฐฯ ออกกฎให้ขอใบอนุญาตส่งชิป AI ขั้นสูงไปดาต้าเซ็นเตอร์ในสิงคโปร์ มาเลเซีย ไทย อินโดนีเซีย และบราซิล เพื่อปิดช่องทางที่บริษัทจีนเช่าใช้ชิปจากระยะไกล โดยครอบคลุมทั้งชิปของ NVIDIA และ AMD",
+                            "19 พ.ย.: Hunterbrook ซึ่งถือสถานะ short หุ้น AMD รายงานว่า IEIT Systems ที่ถูกขึ้นบัญชีดำยังปล่อยเฟิร์มแวร์ AMD เวอร์ชันใหม่ ล่าสุดเมื่อ 19 ต.ค. และระบุว่า Aivres ซึ่งเป็นพาร์ทเนอร์ Instinct ของ AMD ก็มีเฟิร์มแวร์แทบเหมือนกัน มีรายงานว่า AMD ปฏิเสธและยืนยันว่าปฏิบัติตามกฎส่งออก",
+                            "19–20 พ.ย.: หุ้น AMD ร่วง 7.7% และ 13.25% รวมห้าวันทำการลดลงกว่า 24% ขณะที่ดัชนี Taiex ของไต้หวันมีสัปดาห์แย่ที่สุดนับตั้งแต่ปี 1991 และสำนักงานกฎหมายหลายแห่งประกาศสอบสวนเพื่อฟ้องคดีหลักทรัพย์"
+                        ],
+               "caution":  "การหลุดเส้น 200 วันเกิดขึ้นพร้อมวอลุ่มหนาแน่น และ MACD ยังชี้ลง ฝั่งขายระยะสั้นจึงคุมเกมชัดเจน ประเด็น IEIT อาจไม่จบเร็ว หากกระทรวงพาณิชย์เปิดการสอบสวน หรือบังคับให้พาร์ทเนอร์อย่าง Aivres ต้องเปลี่ยนแปลง ทั้งซัพพลายเซิร์ฟเวอร์ Helios และรายได้ที่เกี่ยวโยงกับจีนอาจได้รับผลกระทบ คดี class action มักทำให้มีข่าวต่อเนื่องไปอีกหลายเดือน กองทุนในเครือ Hunterbrook ได้กำไรเมื่อหุ้นลง จึงควรอ่านรายงานอย่างวิพากษ์ แต่จนถึงตอนนี้ AMD ก็ยังไม่ได้ชี้แจงข้อโต้แย้งโดยละเอียดต่อสาธารณะ",
+               "opportunity":  "ข่าวทั้งหมดในเดือน พ.ย. ไม่ได้กระทบยอดสั่งซื้อของ AMD ไกด์ไตรมาส 4 สูงกว่าไตรมาส 3 ราว 27% ลูกค้า AI ชั้นนำห้ารายใช้ Helios อยู่แล้ว และข้อจำกัดหลักคือซัพพลาย อีกทั้ง Hunterbrook ยอมรับว่ายังพิสูจน์การทำผิดกฎหมายไม่ได้ ที่ $424.39 ราคาอยู่เหนือขอบล่าง Bollinger Band ($414.13) เพียงเล็กน้อย และ RSI 38 ใกล้โซน oversold สำหรับนักลงทุนระยะยาว คำถามสำคัญคือโซน $414–445 จะเป็นฐานได้หรือไม่ และควรติดตามท่าทีของกระทรวงพาณิชย์ต่อรายงานนี้",
+               "risks":  [
+                             "อาจมีการบังคับใช้กฎหมายหรือจำกัดใบอนุญาตจากกระทรวงพาณิชย์สหรัฐฯ ตามข้อกล่าวหาเรื่องเฟิร์มแวร์ IEIT",
+                             "คดี class action ที่ตามมาหลังหุ้นร่วงวันที่ 19–20 พ.ย. อาจกดดันราคาหุ้น",
+                             "กฎใบอนุญาตใหม่สำหรับอาเซียนและบราซิล (16 พ.ย.) อาจชะลอยอดขายให้ดาต้าเซ็นเตอร์นอกสหรัฐฯ",
+                             "หากการเร่งผลิต Helios MI450/MI455 สะดุดจะกระทบหนัก เพราะไกด์ไตรมาส 4 และปี 2027 ตั้งอยู่บนการเร่งผลิตที่ชันมาก",
+                             "ความเชื่อมั่นต่อการลงทุน AI ที่กลับทิศ ซึ่งเห็นได้จากหุ้นชิปในเอเชีย อาจลากยาวต่อไป"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "AMD Reports Third Quarter 2026 Financial Results",
+                        "publisher":  "AMD Newsroom",
+                        "url":  "https://newsroom.amd.com/news/amd-reports-third-quarter-2026-earnings/",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "AMD earnings beat the Street. Here\u0027s what analysts are saying",
+                        "publisher":  "CNBC",
+                        "url":  "https://www.cnbc.com/2026/11/04/amd-earnings-analysts-ai-growth.html",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "AMD\u0027s China ties complicate its appeal as Nvidia\u0027s rival.",
+                        "publisher":  "Hunterbrook",
+                        "url":  "https://hntrbrk.com/investigations/amd-china",
+                        "date":  "2026-11-19"
+                    },
+                    {
+                        "title":  "AMD Faces Its Own China Questions After Hunterbrook Report",
+                        "publisher":  "Yahoo Finance (GuruFocus)",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/amd-faces-own-china-questions-183546783.html",
+                        "date":  "2026-11-19"
+                    },
+                    {
+                        "title":  "AMD Stock Drops Another 7% Before the Bell and Taiwan Semiconductor Slides 4.2% as Nasdaq Futures Fall 1.6% After Asia\u0027s Chip Selloff",
+                        "publisher":  "24/7 Wall St.",
+                        "url":  "https://247wallst.com/investing/2026/11/20/amd-stock-drops-another-7-0-before-the-bell-and-taiwan-semiconductor-slides-4-2-as-nasdaq-futures-fall-1-6-after-asias-chip-selloff/",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "The Nvidia scandal fuels tougher China chip rules as Commerce targets Singapore and Malaysia",
+                        "publisher":  "Fortune",
+                        "url":  "https://fortune.com/2026/11/16/new-commerce-rule-nvidia-chip-singapore-malaysia-china/",
+                        "date":  "2026-11-16"
+                    },
+                    {
+                        "title":  "The China Scare That Hit Nvidia Just Found AMD",
+                        "publisher":  "Forbes",
+                        "url":  "https://www.forbes.com/sites/jonmarkman/2026/11/20/the-china-scare-that-hit-nvidia-just-found-amd/",
+                        "date":  "2026-11-20"
+                    }
+                ]
+}

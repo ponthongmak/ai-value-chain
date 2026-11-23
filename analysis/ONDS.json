@@ -1,0 +1,741 @@
+{
+    "ticker":  "ONDS",
+    "name":  "Ondas",
+    "symbol":  "NASDAQ:ONDS",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:04:12Z",
+    "costUsd":  0.5926978000000002,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:ONDS",
+                       "yahoo":  "ONDS",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:02:13Z",
+                       "price":  3.76,
+                       "open":  4.1,
+                       "high":  4.2,
+                       "low":  3.73,
+                       "volume":  47536100,
+                       "avgVolume20":  46520815,
+                       "changePct":  -11.11,
+                       "ema50":  6.15,
+                       "ema100":  7.02,
+                       "ema200":  7.54,
+                       "bb":  {
+                                  "upper":  7.19,
+                                  "middle":  5.44,
+                                  "lower":  3.69
+                              },
+                       "macd":  {
+                                    "macd":  -0.63,
+                                    "signal":  -0.5,
+                                    "hist":  -0.13
+                                },
+                       "rsi14":  28.68,
+                       "high52w":  15.28,
+                       "low52w":  3.73,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         11.61
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         11.97
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         10.43
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         10.3
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         9.65
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         9.31
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         9.83
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         9.33
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         9.51
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         9.21
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         9.12
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         9.27
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         8.89
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         8.53
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         7.68
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         7.68
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         7.83
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         8.02
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         8.24
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         7.92
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         7.41
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         7.82
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         7.35
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         7.52
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         7.65
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         7.26
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         6.96
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         7.36
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         7.05
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         6.65
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         6.53
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         6.87
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         7.66
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         8
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         7.93
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         7.8
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         8.02
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         7.86
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         6.8
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         7.58
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         7.49
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         8.37
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         8.86
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         8.87
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         8.74
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         9.11
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         9.31
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         9.74
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         9.77
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         8.91
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         9.24
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         9
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         9.06
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         8.9
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         8.38
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         8.71
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         8.24
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         8.24
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         8.22
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         8.75
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         7.9
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         7.66
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         7.04
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         7.61
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         7.63
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         7.62
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         7.62
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         7.29
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         7.25
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         7.23
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         7.23
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         7.24
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         7.2
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         7.39
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         7.39
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         7.38
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         7.72
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         7.4
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         7.6
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         7.64
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         7.68
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         7.48
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         7.33
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         7.12
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         7.24
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         7.42
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         7.41
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         7.19
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         6.85
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         6.73
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         6.67
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         6.71
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         6.14
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         6.35
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         6.04
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         6.06
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         6.1
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         6.27
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         6.02
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         6.2
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         6.16
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         6.65
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         6.86
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         6.88
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         6.32
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         5.75
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         5.79
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         5.27
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         4.52
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         5.34
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         5.97
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         5.57
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         5.73
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         5.32
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         5.16
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         4.71
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         4.39
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         4.42
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         4.23
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         3.76
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          10.42,
+                                          10.48,
+                                          10.48,
+                                          10.47,
+                                          10.44,
+                                          10.39,
+                                          10.37,
+                                          10.33,
+                                          10.3,
+                                          10.25,
+                                          10.21,
+                                          10.17,
+                                          10.12,
+                                          10.06,
+                                          9.97,
+                                          9.88,
+                                          9.8,
+                                          9.73,
+                                          9.67,
+                                          9.6,
+                                          9.51,
+                                          9.45,
+                                          9.37,
+                                          9.29,
+                                          9.23,
+                                          9.15,
+                                          9.07,
+                                          9,
+                                          8.92,
+                                          8.83,
+                                          8.74,
+                                          8.67,
+                                          8.63,
+                                          8.61,
+                                          8.58,
+                                          8.55,
+                                          8.53,
+                                          8.5,
+                                          8.43,
+                                          8.4,
+                                          8.37,
+                                          8.37,
+                                          8.38,
+                                          8.4,
+                                          8.42,
+                                          8.44,
+                                          8.48,
+                                          8.53,
+                                          8.58,
+                                          8.59,
+                                          8.61,
+                                          8.63,
+                                          8.65,
+                                          8.66,
+                                          8.65,
+                                          8.65,
+                                          8.63,
+                                          8.62,
+                                          8.6,
+                                          8.61,
+                                          8.58,
+                                          8.54,
+                                          8.48,
+                                          8.45,
+                                          8.42,
+                                          8.39,
+                                          8.36,
+                                          8.31,
+                                          8.27,
+                                          8.23,
+                                          8.19,
+                                          8.16,
+                                          8.12,
+                                          8.09,
+                                          8.06,
+                                          8.04,
+                                          8.02,
+                                          8,
+                                          7.98,
+                                          7.97,
+                                          7.96,
+                                          7.94,
+                                          7.92,
+                                          7.88,
+                                          7.86,
+                                          7.84,
+                                          7.82,
+                                          7.8,
+                                          7.76,
+                                          7.72,
+                                          7.68,
+                                          7.64,
+                                          7.58,
+                                          7.54,
+                                          7.48,
+                                          7.42,
+                                          7.37,
+                                          7.33,
+                                          7.28,
+                                          7.23,
+                                          7.19,
+                                          7.17,
+                                          7.16,
+                                          7.15,
+                                          7.11,
+                                          7.06,
+                                          7.01,
+                                          6.94,
+                                          6.85,
+                                          6.79,
+                                          6.76,
+                                          6.71,
+                                          6.67,
+                                          6.62,
+                                          6.56,
+                                          6.49,
+                                          6.41,
+                                          6.33,
+                                          6.25,
+                                          6.15
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Record revenue, but margin and loss worries push ONDS to a 52-week low",
+               "technical":  "The trend is clearly down. On 20 Nov 2026 ONDS closed at $3.76, down 11.11% on the day. That is far below the EMA 50 ($6.15), EMA 100 ($7.02) and EMA 200 ($7.54). EMAs are smoothed average prices over 50, 100 and 200 days. They are stacked in bearish order, with the shortest below the longest, which marks a well-established downtrend. Momentum is still falling. MACD (a trend-momentum gauge) is -0.63, below its signal line at -0.50, and the histogram is negative at -0.13. RSI 14 is 28.68. RSI is a 0–100 momentum gauge where under 30 counts as oversold, so selling is stretched and short bounces become more likely. Price sits just above the lower Bollinger Band at $3.69. Bollinger Bands mark a typical 20-day trading range, and its middle line is $5.44. The day\u0027s low of $3.73 is also the 52-week low, about 75% below the 52-week high of $15.28. Volume was 47.5M shares, only about 2% above the 20-day average of 46.5M. That is not the heavy volume that usually marks a selling climax. Nearby support is $3.69–3.73, and the first resistance is around $5.44.",
+               "fundamental":  "Ondas is now mostly a defense and autonomy company assembled through acquisitions. Q3 2026 results came out on 12 Nov. Revenue was $167.5M, double Q2\u0027s $83.8M and above the roughly $148M consensus. Backlog rose 36% from Q2 to $835M. GAAP gross margin fell to 21.8% from 43.1% in Q2. Management blamed production inefficiencies in precision-strike programs and accounting charges tied to acquisitions. The adjusted EBITDA loss widened to $59.7M, worse than the roughly $40M consensus. Guidance went up: Q4 revenue above $250M, FY2026 at least $550M and FY2027 at least $1.1B, excluding further acquisitions. Company-wide EBITDA breakeven is now targeted for Q3 2027. Cash and investments of $820M give it room to keep operating. For the moat, demand is real, but profitable delivery at scale is not yet proven.",
+               "news":  [
+                            "12 Nov 2026: Q3 revenue was a record $167.5M with $214M of new orders. Ondas raised its FY2026 revenue target to at least $550M and set a 2027 target of at least $1.1B. Shares still fell because of the margin collapse and the larger EBITDA loss.",
+                            "13–16 Nov 2026: Needham and Lake Street cut their price targets from $19 to $14, Northland from $18 to $13, Maxim from $22 to $18 and Stifel from $18 to $15. All kept Buy ratings and cited the EBITDA miss and lower valuations across peer companies.",
+                            "5 Nov 2026: Ondas agreed to buy Stemme GmbH, the German maker of the airframe used in its ULTRA long-endurance surveillance aircraft, in an all-cash deal with no price disclosed. The goal is 10 ULTRA aircraft a month by 2028, and closing is expected in Q1 2027. The stock fell about 9% to $5.27 that day.",
+                            "Q3 operations: Ondas won $100M in Sentinel bookings, including $53.7M of ULTRA follow-on orders, and a U.S. Army follow-on task order. Its Sentrycs counter-drone systems were deployed at 2026 FIFA World Cup and NFL stadiums.",
+                            "20 Nov 2026: The stock fell 11.11% to a new 52-week low of $3.73 intraday. No new company announcement explains it. Small insider sales by two directors and the COO were disclosed the same day, each about $20K at an average of $4.08."
+                        ],
+               "caution":  "The main risk is that growth is coming through acquisitions and is burning cash. Gross margin halved in one quarter, and the EBITDA loss is getting bigger as revenue rises. The Q4 2026 target to turn the core operating businesses EBITDA-positive is the next credibility test. The January 2026 share offering also came with 121.6M warrants at a $28 exercise price, which leaves a large overhang of potential new shares. Momentum indicators are still falling, and volume shows no sign that selling has run its course. An oversold RSI can stay oversold for weeks.",
+               "opportunity":  "The business numbers keep improving even as the stock falls. The $835M backlog is about 1.5 times the FY2026 revenue target, guidance was raised and the 2027 target is about double this year\u0027s. Every analyst who cut a price target kept a Buy rating. RSI under 30 and price at the lower Bollinger Band show selling is stretched. If gross margin recovers to the mid-30s as guided and Q4 revenue comes in above $250M, the market\u0027s view of the stock could change quickly.",
+               "risks":  [
+                             "Gross margin could stay low if precision-strike production problems persist",
+                             "The company-wide EBITDA breakeven target of Q3 2027 could slip",
+                             "Dilution from outstanding warrants and from paying for acquisitions with stock",
+                             "Risk of combining many acquired companies in a short time",
+                             "Lower valuations for defense-tech peers and U.S. budget uncertainty after the midterms",
+                             "Technical downtrend with no confirmed bottom"
+                         ],
+               "summary":  "ONDS is in a strong technical downtrend. Price is below all three EMAs, MACD is negative and the stock is at its 52-week low, though RSI 28.68 shows it is oversold. The drop since 12 Nov reflects worries about profitability, not demand. Revenue doubled from Q2, backlog reached $835M and guidance went up, but gross margin halved and losses widened. The early-commercial-autonomy thesis is not broken, but it is on watch. The next checks are Q4 margins and whether the core businesses turn EBITDA-positive."
+           },
+    "th":  {
+               "headline":  "รายได้ทำสถิติใหม่ แต่ความกังวลเรื่องมาร์จิ้นและการขาดทุนกด ONDS ลงไปที่จุดต่ำสุด 52 สัปดาห์",
+               "technical":  "แนวโน้มเป็นขาลงชัดเจน วันที่ 20 พ.ย. 2026 ONDS ปิดที่ $3.76 ลดลง 11.11% ในวันเดียว ราคาอยู่ต่ำกว่า EMA 50 ($6.15), EMA 100 ($7.02) และ EMA 200 ($7.54) อย่างมาก EMA คือเส้นราคาเฉลี่ยแบบถ่วงน้ำหนักช่วง 50, 100 และ 200 วัน ทั้งสามเส้นเรียงตัวแบบขาลง คือเส้นสั้นอยู่ใต้เส้นยาว แสดงว่าขาลงตั้งตัวมั่นคงแล้ว โมเมนตัมยังอ่อนลงต่อเนื่อง MACD (ตัววัดแรงส่งของเทรนด์) อยู่ที่ -0.63 ต่ำกว่าเส้นสัญญาณที่ -0.50 และฮิสโตแกรมติดลบ -0.13 ส่วน RSI 14 อยู่ที่ 28.68 RSI เป็นมาตรวัดโมเมนตัม 0–100 ถ้าต่ำกว่า 30 ถือว่า oversold หรือขายมากเกินไป จึงมีโอกาสเด้งระยะสั้นมากขึ้น ราคาอยู่เหนือ Bollinger Band เส้นล่างที่ $3.69 เพียงเล็กน้อย Bollinger Band คือกรอบการแกว่งปกติช่วง 20 วัน มีเส้นกลางอยู่ที่ $5.44 ราคาต่ำสุดของวันที่ $3.73 เป็นจุดต่ำสุดรอบ 52 สัปดาห์ด้วย ห่างจากจุดสูงสุด 52 สัปดาห์ที่ $15.28 ราว 75% วอลุ่มอยู่ที่ 47.5 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 46.5 ล้านหุ้นเพียงราว 2% จึงยังไม่ใช่วอลุ่มหนาแน่นแบบที่มักเห็นตอนแรงขายหมดแรง แนวรับใกล้อยู่ที่ $3.69–3.73 แนวต้านแรกอยู่ราว $5.44",
+               "fundamental":  "ตอนนี้ Ondas กลายเป็นบริษัทกลาโหมและระบบอัตโนมัติที่โตจากการเข้าซื้อกิจการเป็นหลัก ผลประกอบการ Q3 2026 ประกาศเมื่อ 12 พ.ย. รายได้ $167.5M เพิ่มเป็นสองเท่าจาก $83.8M ใน Q2 และสูงกว่าที่ตลาดคาดไว้ราว $148M งานในมือ (backlog) โตจาก Q2 36% เป็น $835M แต่ gross margin ตามบัญชี GAAP ลดลงเหลือ 21.8% จาก 43.1% ใน Q2 ผู้บริหารระบุว่ามาจากสายการผลิตอาวุธโจมตีแม่นยำที่ยังไม่มีประสิทธิภาพ และรายการทางบัญชีจากการเข้าซื้อกิจการ ขาดทุน Adjusted EBITDA กว้างขึ้นเป็น $59.7M แย่กว่าที่ตลาดคาดไว้ราว $40M บริษัทปรับเป้าขึ้น ได้แก่ รายได้ Q4 มากกว่า $250M ปี 2026 อย่างน้อย $550M และปี 2027 อย่างน้อย $1.1B โดยไม่รวมดีลซื้อกิจการเพิ่ม ส่วนเป้า EBITDA คุ้มทุนทั้งบริษัทอยู่ที่ Q3 2027 เงินสดและเงินลงทุนระยะสั้น $820M เพียงพอให้ดำเนินงานต่อได้ ในแง่คูน้ำทางธุรกิจ ดีมานด์มีจริง แต่ยังพิสูจน์ไม่ได้ว่าจะส่งมอบในปริมาณมากแบบมีกำไรได้",
+               "news":  [
+                            "12 พ.ย. 2026: รายได้ Q3 ทำสถิติใหม่ที่ $167.5M มียอดสั่งซื้อใหม่ $214M บริษัทปรับเป้ารายได้ปี 2026 ขึ้นเป็นอย่างน้อย $550M และตั้งเป้าปี 2027 อย่างน้อย $1.1B แต่หุ้นยังลดลงเพราะมาร์จิ้นทรุดและขาดทุน EBITDA มากขึ้น",
+                            "13–16 พ.ย. 2026: Needham และ Lake Street ลดราคาเป้าหมายจาก $19 เหลือ $14, Northland จาก $18 เหลือ $13, Maxim จาก $22 เหลือ $18 และ Stifel จาก $18 เหลือ $15 ทุกรายยังคงคำแนะนำ Buy โดยให้เหตุผลว่า EBITDA ต่ำกว่าคาด และมูลค่าหุ้นกลุ่มเดียวกันลดลง",
+                            "5 พ.ย. 2026: Ondas ตกลงซื้อ Stemme GmbH ผู้ผลิตโครงเครื่องบินสัญชาติเยอรมันที่ใช้ในเครื่องบินสอดแนมพิสัยไกล ULTRA เป็นดีลเงินสดทั้งหมดและไม่เปิดเผยราคา เป้าหมายคือผลิต ULTRA ให้ได้ 10 ลำต่อเดือนภายในปี 2028 คาดว่าจะปิดดีลใน Q1 2027 หุ้นร่วงราว 9% เหลือ $5.27 ในวันนั้น",
+                            "ด้านธุรกิจใน Q3: Ondas ได้ยอดจองในกลุ่ม Sentinel $100M รวมคำสั่งซื้อต่อเนื่องของ ULTRA $53.7M และได้คำสั่งงานต่อเนื่องจากกองทัพบกสหรัฐฯ ระบบต่อต้านโดรน Sentrycs ถูกนำไปใช้ที่สนามแข่ง FIFA World Cup 2026 และสนาม NFL",
+                            "20 พ.ย. 2026: หุ้นร่วง 11.11% ทำจุดต่ำสุดใหม่รอบ 52 สัปดาห์ที่ $3.73 ระหว่างวัน ยังไม่มีประกาศใหม่จากบริษัทที่อธิบายการร่วงครั้งนี้ วันเดียวกันมีรายงานกรรมการ 2 คนและ COO ขายหุ้นจำนวนเล็กน้อย คนละราว $20K ที่ราคาเฉลี่ย $4.08"
+                        ],
+               "caution":  "ความเสี่ยงหลักคือการเติบโตมาจากการซื้อกิจการและกำลังเผาเงินสด gross margin ลดลงครึ่งหนึ่งภายในไตรมาสเดียว และขาดทุน EBITDA ยิ่งมากขึ้นแม้รายได้โต เป้าให้ธุรกิจหลักมี EBITDA เป็นบวกใน Q4 2026 คือบททดสอบความน่าเชื่อถือรอบถัดไป นอกจากนี้ การเพิ่มทุนเมื่อมกราคม 2026 มาพร้อมใบสำคัญแสดงสิทธิ (warrant) 121.6 ล้านหน่วยที่ราคาใช้สิทธิ $28 จึงมีหุ้นใหม่ที่อาจเพิ่มเข้ามาในตลาดอีกมาก ตัวชี้วัดโมเมนตัมยังชี้ลง และวอลุ่มยังไม่บอกว่าแรงขายหมดแล้ว RSI ที่ต่ำกว่า 30 อาจค้างอยู่ในโซนนั้นได้หลายสัปดาห์",
+               "opportunity":  "ตัวเลขธุรกิจยังดีขึ้นต่อเนื่องแม้หุ้นจะร่วง backlog $835M เท่ากับราว 1.5 เท่าของเป้ารายได้ปี 2026 บริษัทปรับเป้าขึ้น และเป้าปี 2027 สูงเกือบสองเท่าของปีนี้ นักวิเคราะห์ทุกรายที่ลดราคาเป้าหมายยังคงคำแนะนำ Buy ส่วน RSI ต่ำกว่า 30 และราคาที่แตะ Bollinger Band เส้นล่างบ่งว่าแรงขายตึงมากแล้ว หาก gross margin ฟื้นกลับมาแถว 30% กลางๆ ตามที่ผู้บริหารคาด และรายได้ Q4 เกิน $250M มุมมองของตลาดต่อหุ้นตัวนี้อาจเปลี่ยนได้เร็ว",
+               "risks":  [
+                             "gross margin อาจต่ำต่อไปหากปัญหาการผลิตอาวุธโจมตีแม่นยำยังไม่คลี่คลาย",
+                             "เป้า EBITDA คุ้มทุนทั้งบริษัทใน Q3 2027 อาจเลื่อนออกไป",
+                             "หุ้นอาจถูกไดลูทจาก warrant ที่ค้างอยู่ และจากการใช้หุ้นจ่ายค่าซื้อกิจการ",
+                             "ความเสี่ยงจากการรวมบริษัทที่ซื้อมาจำนวนมากในเวลาสั้น",
+                             "มูลค่าหุ้นกลุ่มเทคโนโลยีกลาโหมลดลง และงบประมาณสหรัฐฯ ไม่แน่นอนหลังการเลือกตั้งกลางเทอม",
+                             "กราฟยังเป็นขาลงและยังไม่มีสัญญาณยืนยันว่าถึงจุดต่ำสุด"
+                         ],
+               "summary":  "ONDS อยู่ในขาลงทางเทคนิคที่ชัดเจน ราคาต่ำกว่า EMA ทั้งสามเส้น MACD ติดลบ และอยู่ที่จุดต่ำสุดรอบ 52 สัปดาห์ แม้ RSI 28.68 จะบอกว่าอยู่ในโซน oversold แล้วก็ตาม การร่วงตั้งแต่ 12 พ.ย. สะท้อนความกังวลเรื่องกำไร ไม่ใช่ดีมานด์ รายได้โตสองเท่าจาก Q2, backlog แตะ $835M และบริษัทปรับเป้าขึ้น แต่ gross margin ลดลงครึ่งหนึ่งและขาดทุนกว้างขึ้น สมมติฐาน early commercial autonomy ยังไม่พัง แต่ต้องจับตา สิ่งที่ต้องดูต่อคือมาร์จิ้นใน Q4 และธุรกิจหลักจะมี EBITDA เป็นบวกได้ตามเป้าหรือไม่"
+           },
+    "sources":  [
+                    {
+                        "title":  "Ondas Inc. Form 8-K Exhibit 99.1 – Q3 2026 results press release",
+                        "publisher":  "SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001646188/000119312526457088/onds-ex99_1.htm",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Earnings call transcript: Ondas tops Q3 2026 estimates but shares fall",
+                        "publisher":  "Investing.com",
+                        "url":  "https://ng.investing.com/news/stock-market-news/earnings-call-transcript-ondas-tops-q3-2026-estimates-but-shares-fall-93CH-2803639",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Ondas Stock Falls Over 4% Amid Four Analyst Price-Target Cuts",
+                        "publisher":  "The Crypto Basic",
+                        "url":  "https://thecryptobasic.com/2026/11/16/ondas-stock-falls-over-4-amid-four-analyst-target-cuts-despite-record-revenue/",
+                        "date":  "2026-11-16"
+                    },
+                    {
+                        "title":  "Ondas (NASDAQ:ONDS) Stock Price Down 8.7% Following Analyst Downgrade",
+                        "publisher":  "MarketBeat",
+                        "url":  "https://www.marketbeat.com/instant-alerts/price-ondas-nasdaq-onds-stock-price-down-87-following-analyst-downgrade-2026-11-16/",
+                        "date":  "2026-11-16"
+                    },
+                    {
+                        "title":  "Ondas plans significant US manufacturing expansion to scale low-cost ULTRA ISR aircraft production",
+                        "publisher":  "ASDNews",
+                        "url":  "https://asdnews.com/news/defense/2026/11/05/ondas-plans-significant-us-manufacturing-expansion-scale-lowcost-ultra-isr-aircraft-production-targeting-10-aircraft-per-month-2028",
+                        "date":  "2026-11-05"
+                    },
+                    {
+                        "title":  "Ondas Inc (ONDS) stock plunges as company announces Stemme acquisition to boost drone production",
+                        "publisher":  "Blockonomi",
+                        "url":  "https://blockonomi.com/ondas-inc-onds-stock-plunges-as-company-announces-stemme-acquisition-to-boost-drone-production/",
+                        "date":  "2026-11-05"
+                    },
+                    {
+                        "title":  "Insider Selling: Ondas (NASDAQ:ONDS) COO Sells $18,784.32 in Stock",
+                        "publisher":  "MarketBeat",
+                        "url":  "https://www.marketbeat.com/instant-alerts/insider-insider-selling-ondas-nasdaq-onds-coo-sells-1878432-in-stock-2026-11-20/",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Ondas director Jaspreet Sood sells $20,963 in stock",
+                        "publisher":  "Investing.com",
+                        "url":  "https://www.investing.com/news/insider-trading-news/ondas-director-jaspreet-sood-sells-20963-in-stock-93CH-5043066",
+                        "date":  "2026-11-20"
+                    }
+                ]
+}

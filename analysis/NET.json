@@ -1,0 +1,734 @@
+{
+    "ticker":  "NET",
+    "name":  "Cloudflare",
+    "symbol":  "NYSE:NET",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:04:18Z",
+    "costUsd":  0.7624416,
+    "stance":  "neutral",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NYSE:NET",
+                       "yahoo":  "NET",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:01:11Z",
+                       "price":  274.96,
+                       "open":  300,
+                       "high":  300.88,
+                       "low":  271.94,
+                       "volume":  4756400,
+                       "avgVolume20":  4403385,
+                       "changePct":  -9.46,
+                       "ema50":  304.12,
+                       "ema100":  294.25,
+                       "ema200":  267.65,
+                       "bb":  {
+                                  "upper":  340.33,
+                                  "middle":  294.24,
+                                  "lower":  248.15
+                              },
+                       "macd":  {
+                                    "macd":  -5.88,
+                                    "signal":  -6.8,
+                                    "hist":  0.92
+                                },
+                       "rsi14":  42.36,
+                       "high52w":  370.35,
+                       "low52w":  158.83,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         265.33
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         268.64
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         250.11
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         247.79
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         236.13
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         219.67
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         227.44
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         228.48
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         235.71
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         230.97
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         226.87
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         224.06
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         218.38
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         224.94
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         223.48
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         226.65
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         237.24
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         243.76
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         245.28
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         246.31
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         242.41
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         247.55
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         268.83
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         273.4
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         275.8
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         268.4
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         269.53
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         281.75
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         273.04
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         272.46
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         277.66
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         272.42
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         272.31
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         268.98
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         262.32
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         262.15
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         265.61
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         264.1
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         270.38
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         283.39
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         278.98
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         282.74
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         301.33
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         292.96
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         284.43
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         300.27
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         310.59
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         306.97
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         311.45
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         330.83
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         315.78
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         307.01
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         301.36
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         291.88
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         278.91
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         293.14
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         280.35
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         277.58
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         284.89
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         308.23
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         299.84
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         305.11
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         285.51
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         272.74
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         284.51
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         278.92
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         284.3
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         314.18
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         311.17
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         306.53
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         330.36
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         327.23
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         324.65
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         333.94
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         323.6
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         351.67
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         353
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         352.33
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         358.82
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         349.02
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         353.99
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         352.26
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         347.28
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         351
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         349.07
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         359.49
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         355.01
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         342.97
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         341.89
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         360.93
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         350.87
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         347.7
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         324.33
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         316.32
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         296.3
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         297.58
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         291.69
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         307.22
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         303.61
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         325.73
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         331.86
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         327.8
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         318.72
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         310.3
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         280.7
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         265.17
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         273.62
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         266.58
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         244.51
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         268.75
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         293.75
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         305.8
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         315
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         318.5
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         305.81
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         293.59
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         284.8
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         300.91
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         303.68
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         274.96
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          215.42,
+                                          217.51,
+                                          218.79,
+                                          219.92,
+                                          220.56,
+                                          220.53,
+                                          220.8,
+                                          221.1,
+                                          221.67,
+                                          222.04,
+                                          222.23,
+                                          222.3,
+                                          222.14,
+                                          222.25,
+                                          222.3,
+                                          222.47,
+                                          223.05,
+                                          223.86,
+                                          224.7,
+                                          225.55,
+                                          226.21,
+                                          227.05,
+                                          228.69,
+                                          230.44,
+                                          232.22,
+                                          233.64,
+                                          235.05,
+                                          236.88,
+                                          238.3,
+                                          239.63,
+                                          241.13,
+                                          242.35,
+                                          243.53,
+                                          244.53,
+                                          245.22,
+                                          245.89,
+                                          246.66,
+                                          247.35,
+                                          248.25,
+                                          249.63,
+                                          250.78,
+                                          252.03,
+                                          253.96,
+                                          255.49,
+                                          256.63,
+                                          258.34,
+                                          260.39,
+                                          262.22,
+                                          264.15,
+                                          266.76,
+                                          268.68,
+                                          270.19,
+                                          271.41,
+                                          272.21,
+                                          272.47,
+                                          273.28,
+                                          273.56,
+                                          273.72,
+                                          274.16,
+                                          275.49,
+                                          276.45,
+                                          277.57,
+                                          277.88,
+                                          277.68,
+                                          277.95,
+                                          277.99,
+                                          278.24,
+                                          279.65,
+                                          280.88,
+                                          281.89,
+                                          283.79,
+                                          285.49,
+                                          287.03,
+                                          288.87,
+                                          290.23,
+                                          292.64,
+                                          295.01,
+                                          297.25,
+                                          299.67,
+                                          301.6,
+                                          303.66,
+                                          305.56,
+                                          307.2,
+                                          308.92,
+                                          310.49,
+                                          312.41,
+                                          314.08,
+                                          315.22,
+                                          316.26,
+                                          318.01,
+                                          319.3,
+                                          320.42,
+                                          320.57,
+                                          320.4,
+                                          319.46,
+                                          318.6,
+                                          317.54,
+                                          317.14,
+                                          316.61,
+                                          316.97,
+                                          317.55,
+                                          317.95,
+                                          317.98,
+                                          317.68,
+                                          316.23,
+                                          314.23,
+                                          312.64,
+                                          310.83,
+                                          308.23,
+                                          306.68,
+                                          306.17,
+                                          306.16,
+                                          306.51,
+                                          306.98,
+                                          306.93,
+                                          306.41,
+                                          305.56,
+                                          305.38,
+                                          305.31,
+                                          304.12
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Strong Q3 rally erased as AI selloff pushes NET toward its 200-day EMA",
+               "technical":  "Trend: NET closed at $274.96 on 2026-11-20 after a 9.46% one-day drop. That puts it below the EMA 50 ($304.12) and EMA 100 ($294.25) but still above the EMA 200 ($267.65). EMAs (exponential moving averages, trend lines that give more weight to recent prices) are still stacked 50 \u003e 100 \u003e 200, so the long-term uptrend holds while the short-term trend has broken. Momentum: MACD (12/26/9, a trend-momentum gauge) is -5.88 against a signal line of -6.80, a positive histogram of +0.92. That is a bullish crossover below zero, though Friday\u0027s slide may wear it down. RSI 14 (a 0–100 momentum gauge; under 30 is oversold, over 70 overbought) is 42.36: weak, not oversold. Volatility: price sits in the lower half of the Bollinger Bands (20-day, 2 standard deviations: $248.15–$340.33, midline $294.24). It is about 55% of the way up its 52-week range ($158.83–$370.35) and 25.8% below the high. Volume of 4.76M was only about 8% above the 20-day average, and the close was near the day\u0027s low of $271.94. Support: $267.65 (EMA 200), then about $248. Resistance: $294–$304.",
+               "fundamental":  "Q3 2026, reported 2026-11-05, was Cloudflare\u0027s fastest growth in nearly four years. Revenue was $782.5M (+39% YoY) and current RPO (contracted revenue due within 12 months) rose 37%. Dollar-based net retention reached 122% vs 119% a year earlier, and about 5,000 customers now pay over $100K a year (+25%). Non-GAAP operating margin was 17.5%, free cash flow was $82.1M, and management expects GAAP profitability in Q4 2026, well ahead of its 2028 target. Guidance: Q4 revenue $845–846M (~38% growth); FY2026 $2.963–2.964B. On the AI side, active developers reached 10 million (from 7M a quarter earlier), \u0027Act 4\u0027 agent-payment products booked their first revenue, and Cloudflare signed an $11M Workers deal with an AI company. Watch gross margin: 72.4% non-GAAP, down 290 bps YoY, partly because the Workers platform runs at slightly lower margins.",
+               "news":  [
+                            "2026-11-05: Q3 beat. Revenue was $782.5M (+39% YoY), non-GAAP EPS was $0.38 vs about $0.34 expected, and FY2026 revenue guidance rose to $2.963–2.964B. The stock had slid to about $244.51 that day before the report, then jumped roughly 20% the next session.",
+                            "Analysts after results: Needham kept Buy but cut its target to $365 from $380, and Cantor Fitzgerald kept Neutral but cut to $310 from $340. JPMorgan was reported raising its target to $375 from $350.",
+                            "Earnings call (2026-11-05): management pitched Cloudflare as the \u0027agentic cloud\u0027 (a platform for AI agents). Deals included a $15.5M Magic Transit contract with a Fortune 100 cloud infrastructure provider and an $11M Workers Developer Platform deal with an AI company.",
+                            "2026-11-05: Cloudflare named Christian Smith as President of Revenue, a sales-leadership change as large customers rise to 75% of revenue.",
+                            "2026-11-13: Gartner named Cloudflare a Leader in its 2026 Magic Quadrant for Edge Distribution Platforms, an outside endorsement of the edge network.",
+                            "2026-11-20: I found no company-specific news behind the 9.46% drop. It came the same day as a broad AI-led selloff: the Nasdaq fell about 5.3%, chip stocks fell by double digits, and the S\u0026P 500 entered a correction (down more than 10% from its peak)."
+                        ],
+               "caution":  "The post-earnings jump has fully reversed. The stock went from about $312 after results back to $274.96 and is now below its 50- and 100-day EMAs, during a market correction in which the Nasdaq fell 5.3% on 2026-11-20 alone. If the EMA 200 at $267.65 fails, the next levels to watch are the lower Bollinger Band near $248 and the pre-earnings level around $244.51. The valuation is still high, so NET tends to fall harder than the market when AI sentiment turns. The 290 bps drop in gross margin is also worth watching.",
+               "opportunity":  "Nothing in the past 30 days damaged the business. Growth sped up to 39%, net retention improved to 122%, and GAAP profitability is guided for Q4 2026. The 2026-11-20 drop looks driven by the market, not the company: volume was only about 8% above average, the EMAs are still stacked bullishly, and MACD remains above its signal line. If the $267.65 EMA 200 holds, the larger uptrend stays intact. Moving back above $294–$304 would suggest the pullback has ended.",
+               "risks":  [
+                             "A wider AI-sector selloff could keep pulling down high-valuation software names like NET, even with strong results.",
+                             "Gross margin pressure (72.4% non-GAAP, down 290 bps YoY) as lower-margin Workers and AI inference become a bigger share of revenue.",
+                             "A daily close below the EMA 200 ($267.65) would break the long-term uptrend and open the way to about $244–$248.",
+                             "Markets expect a possible Fed rate hike in December, which tends to hit long-duration growth stocks hardest.",
+                             "The $2.175B in convertible notes issued in August 2026 could dilute shareholders, and competition in edge AI inference is coming from hyperscalers (giant cloud providers) and other CDNs."
+                         ],
+               "summary":  "Cloudflare reported its strongest quarter in years on 2026-11-05: 39% growth, 122% net retention, raised guidance and a fast-growing AI-agent developer base. The moat thesis looks intact. The stock, however, has given back its post-earnings rally, closing at $274.96 after a 9.46% fall on 2026-11-20 during an AI-led market selloff. Technically the picture is neutral: the short-term trend is broken, but the long-term trend holds above the $267.65 EMA 200. Watch that level and gross margins."
+           },
+    "th":  {
+               "headline":  "งบ Q3 แกร่ง แต่แรงเทขายหุ้น AI ดัน NET ลงมาทดสอบ EMA 200",
+               "technical":  "แนวโน้ม: NET ปิดที่ $274.96 เมื่อ 20 พ.ย. 2026 หลังร่วง 9.46% ในวันเดียว ราคาหลุดลงมาอยู่ใต้ EMA 50 ($304.12) และ EMA 100 ($294.25) แต่ยังยืนเหนือ EMA 200 ($267.65) ได้ EMA (เส้นค่าเฉลี่ยที่ให้น้ำหนักกับราคาช่วงหลังมากกว่า) ยังเรียงตัว 50 \u003e 100 \u003e 200 ขาขึ้นระยะยาวจึงยังไม่เสีย แต่แนวโน้มระยะสั้นพังไปแล้ว โมเมนตัม: MACD (12/26/9 ตัววัดแรงส่งของเทรนด์) อยู่ที่ -5.88 สูงกว่าเส้น signal ที่ -6.80 ฮิสโตแกรมเป็นบวก +0.92 ถือเป็นสัญญาณตัดขึ้นใต้เส้นศูนย์ แต่แรงขายวันศุกร์อาจทำให้สัญญาณนี้จางลง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 คือขายมากเกินไป เกิน 70 คือซื้อมากเกินไป) อยู่ที่ 42.36 อ่อนแรงแต่ยังไม่ถึงโซน oversold ความผันผวน: ราคาอยู่ครึ่งล่างของ Bollinger Bands (20 วัน, 2 ส่วนเบี่ยงเบนมาตรฐาน: $248.15–$340.33 เส้นกลาง $294.24) และอยู่ราว 55% ของกรอบราคา 52 สัปดาห์ ($158.83–$370.35) ต่ำกว่าจุดสูงสุด 25.8% วอลุ่ม 4.76 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันเพียงราว 8% และปิดใกล้จุดต่ำสุดของวันที่ $271.94 แนวรับแรกคือ $267.65 (EMA 200) ถัดไปราว $248 แนวต้านอยู่ที่ $294–$304",
+               "fundamental":  "ไตรมาส 3/2026 (ประกาศ 5 พ.ย. 2026) เป็นไตรมาสที่โตเร็วที่สุดในรอบเกือบ 4 ปี รายได้ $782.5M เพิ่มขึ้น 39% YoY ส่วน current RPO (รายได้ตามสัญญาที่จะรับรู้ภายใน 12 เดือน) โต 37% dollar-based net retention ขึ้นเป็น 122% จาก 119% เมื่อปีก่อน และลูกค้าที่จ่ายเกิน $100K ต่อปีมีราว 5,000 ราย (+25%) อัตรากำไรจากการดำเนินงานแบบ non-GAAP อยู่ที่ 17.5% กระแสเงินสดอิสระ $82.1M และผู้บริหารคาดว่าจะมีกำไรแบบ GAAP ในไตรมาส 4/2026 เร็วกว่าเป้าเดิมปี 2028 มาก คาดการณ์รายได้ไตรมาส 4 อยู่ที่ $845–846M (โตราว 38%) ทั้งปี $2.963–2.964B ในมุม AI นักพัฒนาที่ใช้งานจริงแตะ 10 ล้านราย (จาก 7 ล้านในไตรมาสก่อน) ผลิตภัณฑ์ \u0027Act 4\u0027 สำหรับการชำระเงินของ AI agent เริ่มมีรายได้ก้อนแรก และบริษัทได้ดีล Workers มูลค่า $11M กับบริษัท AI จุดที่ต้องจับตาคือ gross margin แบบ non-GAAP อยู่ที่ 72.4% ลดลง 290 bps YoY ส่วนหนึ่งเพราะแพลตฟอร์ม Workers มีมาร์จินต่ำกว่าเล็กน้อย",
+               "news":  [
+                            "5 พ.ย. 2026: งบ Q3 ดีกว่าคาด รายได้ $782.5M (+39% YoY) EPS แบบ non-GAAP $0.38 เทียบกับที่ตลาดคาดราว $0.34 และปรับเป้ารายได้ทั้งปี 2026 ขึ้นเป็น $2.963–2.964B ในวันนั้นหุ้นไหลลงไปราว $244.51 ก่อนประกาศงบ แล้วพุ่งขึ้นราว 20% ในวันถัดมา",
+                            "นักวิเคราะห์หลังงบ: Needham คงคำแนะนำ Buy แต่ลดราคาเป้าหมายเป็น $365 จาก $380 ส่วน Cantor Fitzgerald คง Neutral และลดเป็น $310 จาก $340 ขณะที่มีรายงานว่า JPMorgan ปรับเป้าขึ้นเป็น $375 จาก $350",
+                            "ประชุมนักวิเคราะห์ (5 พ.ย. 2026): ผู้บริหารวางตำแหน่ง Cloudflare เป็น \u0027agentic cloud\u0027 (แพลตฟอร์มสำหรับ AI agent) ดีลที่เปิดเผยมีทั้งสัญญา Magic Transit $15.5M กับผู้ให้บริการโครงสร้างพื้นฐานคลาวด์ระดับ Fortune 100 และดีล Workers Developer Platform $11M กับบริษัท AI",
+                            "5 พ.ย. 2026: Cloudflare แต่งตั้ง Christian Smith เป็น President of Revenue ปรับทีมผู้นำฝ่ายขายในช่วงที่ลูกค้ารายใหญ่มีสัดส่วนสูงขึ้นเป็น 75% ของรายได้",
+                            "13 พ.ย. 2026: Gartner จัดให้ Cloudflare เป็น Leader ใน Magic Quadrant ปี 2026 ด้าน Edge Distribution Platforms เท่ากับมีบุคคลภายนอกยืนยันความแข็งแกร่งของเครือข่าย edge",
+                            "20 พ.ย. 2026: ไม่พบข่าวเฉพาะของบริษัทที่อธิบายการร่วง 9.46% ได้ การร่วงเกิดวันเดียวกับที่ตลาดเทขายหุ้นกลุ่ม AI อย่างหนัก Nasdaq ร่วงราว 5.3% หุ้นชิปดิ่งเป็นเลขสองหลัก และ S\u0026P 500 เข้าสู่ภาวะ correction (ต่ำกว่าจุดสูงสุดเกิน 10%)"
+                        ],
+               "caution":  "ราคาที่พุ่งขึ้นหลังงบถูกลบไปหมดแล้ว จากราว $312 หลังประกาศงบกลับลงมาที่ $274.96 และหลุดใต้ EMA 50 กับ EMA 100 ท่ามกลางตลาดที่อยู่ในภาวะ correction โดยวันที่ 20 พ.ย. 2026 วันเดียว Nasdaq ร่วงไป 5.3% ถ้า EMA 200 ที่ $267.65 รับไม่อยู่ ระดับถัดไปที่ต้องดูคือขอบล่าง Bollinger ราว $248 และระดับก่อนประกาศงบราว $244.51 มูลค่าหุ้นยังแพง เวลาที่ตลาดกังวลเรื่อง AI หุ้นจึงมักลงแรงกว่าตลาด gross margin ที่ลดลง 290 bps ก็เป็นอีกเรื่องที่ควรติดตาม",
+               "opportunity":  "ช่วง 30 วันที่ผ่านมาไม่มีอะไรทำให้ธุรกิจเสียหาย การเติบโตเร่งขึ้นเป็น 39% net retention ดีขึ้นเป็น 122% และบริษัทคาดว่าจะมีกำไรแบบ GAAP ในไตรมาส 4/2026 การร่วงเมื่อ 20 พ.ย. ดูมาจากภาวะตลาดมากกว่าตัวบริษัท วอลุ่มสูงกว่าค่าเฉลี่ยเพียงราว 8% เส้น EMA ยังเรียงตัวเป็นขาขึ้น และ MACD ยังอยู่เหนือเส้น signal ถ้า EMA 200 ที่ $267.65 ยืนได้ ขาขึ้นใหญ่ก็ยังอยู่ และถ้าราคากลับขึ้นไปเหนือ $294–$304 ได้ จะเป็นสัญญาณว่าการย่อตัวรอบนี้น่าจะจบแล้ว",
+               "risks":  [
+                             "ถ้าแรงเทขายหุ้นกลุ่ม AI ลามต่อ อาจกดดันหุ้นซอฟต์แวร์มูลค่าสูงอย่าง NET ต่อไปแม้ผลประกอบการจะดี",
+                             "gross margin ถูกกดดัน (non-GAAP 72.4% ลดลง 290 bps YoY) เมื่อรายได้จาก Workers และ AI inference ที่มาร์จินต่ำกว่ามีสัดส่วนมากขึ้น",
+                             "ถ้าปิดต่ำกว่า EMA 200 ($267.65) แนวโน้มขาขึ้นระยะยาวจะเสีย และอาจลงไปทดสอบโซน $244–$248",
+                             "ตลาดคาดว่า Fed อาจขึ้นดอกเบี้ยในเดือนธันวาคม ซึ่งมักกระทบหุ้นเติบโตที่มูลค่าขึ้นกับกำไรในอนาคตไกลมากที่สุด",
+                             "หุ้นกู้แปลงสภาพ $2.175B ที่ออกเมื่อ ส.ค. 2026 อาจทำให้เกิด dilution และการแข่งขันด้าน AI inference บน edge จาก hyperscaler (ผู้ให้บริการคลาวด์รายใหญ่) และผู้ให้บริการ CDN รายอื่น"
+                         ],
+               "summary":  "Cloudflare รายงานไตรมาสที่ดีที่สุดในรอบหลายปีเมื่อ 5 พ.ย. 2026 รายได้โต 39% net retention 122% ปรับเป้าทั้งปีขึ้น และฐานนักพัฒนาสาย AI agent ขยายตัวเร็ว moat thesis จึงยังแข็งแรง แต่ราคาหุ้นคืนกำไรหลังงบไปหมดแล้ว ปิดที่ $274.96 หลังร่วง 9.46% เมื่อ 20 พ.ย. 2026 ในวันที่ตลาดเทขายหุ้น AI ภาพเทคนิคจึงเป็นกลาง แนวโน้มระยะสั้นเสียแต่ระยะยาวยังอยู่เหนือ EMA 200 ที่ $267.65 จุดที่ต้องติดตามคือระดับนี้และทิศทางของ gross margin"
+           },
+    "sources":  [
+                    {
+                        "title":  "Cloudflare Announces Third Quarter 2026 Financial Results (Form 8-K Exhibit 99.1)",
+                        "publisher":  "Cloudflare / SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001477333/000147733326000060/q326exhibit991.htm",
+                        "date":  "2026-11-05"
+                    },
+                    {
+                        "title":  "Cloudflare (NET) Q3 2026 Earnings Call Transcript",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/earnings/call-transcripts/2026/11/06/cloudflare-net-q3-2026-earnings-call-transcript/",
+                        "date":  "2026-11-06"
+                    },
+                    {
+                        "title":  "These Analysts Slash Their Forecasts On Cloudflare Following Q3 Results",
+                        "publisher":  "Benzinga",
+                        "url":  "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/62973644/these-analysts-slash-their-forecasts-on-cloudflare-following-q3-results",
+                        "date":  "2026-11-06"
+                    },
+                    {
+                        "title":  "Cloudflare Placed in 2026 Gartner Magic Quadrant for Edge Distribution Platforms",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/technology/articles/cloudflare-placed-2026-gartner-magic-140000500.html",
+                        "date":  "2026-11-13"
+                    },
+                    {
+                        "title":  "Stock market today: Dow and S\u0026P 500 enter correction, Nasdaq sinks 5% to erase 2026 gains as AI trade melts down",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Cloudflare Inc (NET) Stock Down 9.5% but Still Overvalued -- GF Score: 73/100",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9213422/cloudflare-inc-net-stock-down-95-but-still-overvalued-gf-score-73100",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Cloudflare, Inc. - News",
+                        "publisher":  "Cloudflare Investor Relations",
+                        "url":  "https://www.cloudflare.net/news/default.aspx"
+                    }
+                ]
+}

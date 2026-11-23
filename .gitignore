@@ -1,0 +1,9 @@
+# Local-only: your AI account profiles, logs and job status (never published)
+ai-accounts.json
+logs/
+analysis/.jobs/
+_site/
+*.bak
+*.tmp
+desktop.ini
+.claude/settings.local.json

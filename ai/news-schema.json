@@ -1,0 +1,44 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["brief", "themes", "items"],
+  "properties": {
+    "brief": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["en", "th"],
+      "properties": {
+        "en": { "type": "string", "description": "2-3 sentences: what mattered most for this layer in the period" },
+        "th": { "type": "string" }
+      }
+    },
+    "themes": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["en", "th"],
+      "properties": {
+        "en": { "type": "array", "items": { "type": "string" }, "description": "2-4 short theme tags, 2-5 words each" },
+        "th": { "type": "array", "items": { "type": "string" } }
+      }
+    },
+    "items": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["date", "publisher", "url", "tickers", "impact", "title_en", "title_th", "why_en", "why_th"],
+        "properties": {
+          "date": { "type": "string", "description": "YYYY-MM-DD publication date" },
+          "publisher": { "type": "string" },
+          "url": { "type": "string" },
+          "tickers": { "type": "array", "items": { "type": "string" }, "description": "Tickers from the given list that this item is about" },
+          "impact": { "type": "string", "enum": ["positive", "negative", "mixed"] },
+          "title_en": { "type": "string", "description": "Plain headline, under 16 words" },
+          "title_th": { "type": "string" },
+          "why_en": { "type": "string", "description": "One sentence: why it matters for the stock or the layer" },
+          "why_th": { "type": "string" }
+        }
+      }
+    }
+  }
+}

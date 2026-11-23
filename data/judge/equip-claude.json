@@ -1,0 +1,102 @@
+{
+    "sector":  "equip",
+    "judge":  "claude",
+    "provider":  "claude",
+    "model":  "claude-opus-5-5",
+    "effort":  "max",
+    "account":  "Claude",
+    "generatedAt":  "2026-11-23T05:07:35Z",
+    "costUsd":  1.1698485,
+    "stocks":  {
+                   "AEHR":  {
+                                "m":  [
+                                          11,
+                                          8,
+                                          4,
+                                          3,
+                                          4
+                                      ],
+                                "o":  [
+                                          17,
+                                          16,
+                                          11,
+                                          7,
+                                          13
+                                      ],
+                                "why_en":  "Over 80% of revenue now comes from AI and photonics burn-in, giving high AI exposure, but tiny scale, one-hyperscaler dependence and a thin profit record leave a weak moat.",
+                                "why_th":  "รายได้กว่า 80% มาจากระบบ burn-in สำหรับชิป AI และโฟโตนิกส์ จึงได้ประโยชน์จาก AI สูง แต่ธุรกิจยังเล็ก พึ่งพาลูกค้าไฮเปอร์สเกลเลอร์รายเดียว และกำไรไม่สม่ำเสมอ ทำให้คูเมืองอ่อน"
+                            },
+                   "AMAT":  {
+                                "m":  [
+                                          16,
+                                          15,
+                                          12,
+                                          17,
+                                          16
+                                      ],
+                                "o":  [
+                                          14,
+                                          15,
+                                          16,
+                                          13,
+                                          14
+                                      ],
+                                "why_en":  "Largest, broadest equipment portfolio and installed base give a scale-driven moat; AI demand in DRAM, GAA logic and advanced packaging lifts growth, though China and mature-node exposure dilute it.",
+                                "why_th":  "พอร์ตเครื่องจักรผลิตชิปที่ใหญ่และครบที่สุดพร้อมฐานเครื่องที่ติดตั้งขนาดใหญ่สร้างคูเมืองจากขนาด ความต้องการ AI ใน DRAM ชิปลอจิก GAA และแพ็กเกจจิงขั้นสูงหนุนการเติบโต แต่รายได้จากจีนและโหนดรุ่นเก่าลดทอนลง"
+                            },
+                   "ASML":  {
+                                "m":  [
+                                          20,
+                                          19,
+                                          16,
+                                          18,
+                                          18
+                                      ],
+                                "o":  [
+                                          15,
+                                          16,
+                                          20,
+                                          20,
+                                          12
+                                      ],
+                                "why_en":  "Sole EUV supplier with demand exceeding supply through 2028 yields an unmatched moat and maximum AI bottleneck power; optionality beyond lithography is the only modest part.",
+                                "why_th":  "เป็นผู้ผลิตเครื่อง EUV เพียงรายเดียวในโลกและความต้องการเกินกำลังผลิตไปถึงปี 2028 จึงมีคูเมืองที่ไม่มีใครเทียบได้และเป็นคอขวดสำคัญของ AI โดยมีเพียงโอกาสนอกธุรกิจลิโธกราฟีที่ยังจำกัด"
+                            },
+                   "KLAC":  {
+                                "m":  [
+                                          18,
+                                          17,
+                                          13,
+                                          16,
+                                          19
+                                      ],
+                                "o":  [
+                                          14,
+                                          15,
+                                          18,
+                                          15,
+                                          13
+                                      ],
+                                "why_en":  "Majority share in process control, ~60% gross margins and decades of top returns give a deep moat; AI upside is solid but less leveraged to the DRAM-led cycle.",
+                                "why_th":  "ครองส่วนแบ่งตลาดเครื่องตรวจสอบและวัดคุณภาพมากกว่าครึ่ง อัตรากำไรขั้นต้นราว 60% และผลตอบแทนสูงต่อเนื่องหลายสิบปี ทำให้คูเมืองลึก ส่วนโอกาสจาก AI แข็งแรงแต่ได้อานิสงส์จากรอบลงทุน DRAM น้อยกว่าคู่แข่ง"
+                            },
+                   "LRCX":  {
+                                "m":  [
+                                          16,
+                                          15,
+                                          11,
+                                          15,
+                                          16
+                                      ],
+                                "o":  [
+                                          15,
+                                          16,
+                                          16,
+                                          13,
+                                          14
+                                      ],
+                                "why_en":  "Etch and deposition leadership plus a vast installed base give a solid moat; DRAM/HBM- and NAND-led 2027 spending makes it a prime AI beneficiary despite TEL and Applied competition.",
+                                "why_th":  "ความเป็นผู้นำด้านเครื่องกัดและเคลือบชิปพร้อมฐานเครื่องที่ติดตั้งจำนวนมหาศาลสร้างคูเมืองที่มั่นคง และการลงทุนปี 2027 ที่นำโดย DRAM/HBM และ NAND ทำให้ได้ประโยชน์จาก AI สูง แม้แข่งขันกับ TEL และ Applied"
+                            }
+               }
+}

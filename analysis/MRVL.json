@@ -1,0 +1,772 @@
+{
+    "ticker":  "MRVL",
+    "name":  "Marvell Technology",
+    "symbol":  "NASDAQ:MRVL",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:43:18Z",
+    "costUsd":  0.7872479,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:MRVL",
+                       "yahoo":  "MRVL",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:40:17Z",
+                       "price":  122.28,
+                       "open":  132.89,
+                       "high":  134.18,
+                       "low":  120.56,
+                       "volume":  40302600,
+                       "avgVolume20":  32868125,
+                       "changePct":  -11.69,
+                       "historyDays":  501,
+                       "ema50":  199.66,
+                       "ema100":  207.39,
+                       "ema200":  189.36,
+                       "bb":  {
+                                  "upper":  244.6,
+                                  "middle":  171.05,
+                                  "lower":  97.51
+                              },
+                       "macd":  {
+                                    "macd":  -25.23,
+                                    "signal":  -23.66,
+                                    "hist":  -1.57
+                                },
+                       "rsi14":  27.9,
+                       "high52w":  329.88,
+                       "low52w":  70.69,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         301.65
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         316.43
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         263.47
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         288.85
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         266.88
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         252.59
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         280.71
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         279.7
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         308.88
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         278.67
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         289.54
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         310.58
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         307.86
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         279.04
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         276.7
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         281.26
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         266.77
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         277.75
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         297.89
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         272.05
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         245.29
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         249.27
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         230.7
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         231.71
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         243.27
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         235.81
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         217.53
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         222.44
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         206.26
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         188.3
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         188.68
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         194.94
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         207.96
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         210.99
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         209.32
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         194.23
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         189.17
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         174.47
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         163.4
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         183.3
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         187.56
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         193.78
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         218.59
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         211.02
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         210.54
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         218.72
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         208.56
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         212.31
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         217.08
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         222.18
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         222.02
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         234.33
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         216
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         237.27
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         251.01
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         237.04
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         229.29
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         240.38
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         245.11
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         241.45
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         216.62
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         211.66
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         210.39
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         206.48
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         208.83
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         223.55
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         225.41
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         235.01
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         226.96
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         236.1
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         218.82
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         221.7
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         229.71
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         240.76
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         244.25
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         257.38
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         262.36
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         260.9
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         258.95
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         261.94
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         251.9
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         263.27
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         264.21
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         268.08
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         272.29
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         271.25
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         287.01
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         284.68
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         274.66
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         275.28
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         265.86
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         268.73
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         245.28
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         241.24
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         227.83
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         237.09
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         240.42
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         244.76
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         223.47
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         228.51
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         233.78
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         243.57
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         251.65
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         218.34
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         196.4
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         171.41
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         171.97
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         159.8
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         133.55
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         141.2
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         154.6
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         154.39
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         168.8
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         164.45
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         156.76
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         145.36
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         148.74
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         145.54
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         138.47
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         122.28
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          167.47,
+                                          173.31,
+                                          176.85,
+                                          181.24,
+                                          184.6,
+                                          187.26,
+                                          190.93,
+                                          194.41,
+                                          198.9,
+                                          202.03,
+                                          205.46,
+                                          209.58,
+                                          213.43,
+                                          216.01,
+                                          218.39,
+                                          220.85,
+                                          222.65,
+                                          224.81,
+                                          227.68,
+                                          229.42,
+                                          230.04,
+                                          230.8,
+                                          230.79,
+                                          230.83,
+                                          231.32,
+                                          231.49,
+                                          230.95,
+                                          230.61,
+                                          229.66,
+                                          228.03,
+                                          226.49,
+                                          225.25,
+                                          224.58,
+                                          224.04,
+                                          223.47,
+                                          222.32,
+                                          221.02,
+                                          219.19,
+                                          217.01,
+                                          215.68,
+                                          214.58,
+                                          213.77,
+                                          213.95,
+                                          213.84,
+                                          213.71,
+                                          213.91,
+                                          213.7,
+                                          213.64,
+                                          213.78,
+                                          214.11,
+                                          214.42,
+                                          215.2,
+                                          215.23,
+                                          216.09,
+                                          217.46,
+                                          218.23,
+                                          218.66,
+                                          219.52,
+                                          220.52,
+                                          221.34,
+                                          221.16,
+                                          220.78,
+                                          220.38,
+                                          219.83,
+                                          219.4,
+                                          219.56,
+                                          219.79,
+                                          220.39,
+                                          220.65,
+                                          221.25,
+                                          221.16,
+                                          221.18,
+                                          221.51,
+                                          222.27,
+                                          223.13,
+                                          224.47,
+                                          225.96,
+                                          227.33,
+                                          228.57,
+                                          229.88,
+                                          230.74,
+                                          232.02,
+                                          233.28,
+                                          234.64,
+                                          236.12,
+                                          237.5,
+                                          239.44,
+                                          241.21,
+                                          242.53,
+                                          243.81,
+                                          244.67,
+                                          245.62,
+                                          245.6,
+                                          245.43,
+                                          244.74,
+                                          244.44,
+                                          244.29,
+                                          244.3,
+                                          243.49,
+                                          242.9,
+                                          242.54,
+                                          242.58,
+                                          242.94,
+                                          241.97,
+                                          240.19,
+                                          237.49,
+                                          234.92,
+                                          231.97,
+                                          228.11,
+                                          224.71,
+                                          221.96,
+                                          219.31,
+                                          217.33,
+                                          215.25,
+                                          212.96,
+                                          210.31,
+                                          207.89,
+                                          205.45,
+                                          202.82,
+                                          199.66
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Lumentum deal and AI-chip rout cut MRVL to $122; Q3 results due about 1 Dec",
+               "summary":  "MRVL closed at $122.28 on 20 Nov 2026. That is 11.69% down on the day and about 29% below its 2 Nov close of $171.41. Two things caused the drop. On 2 Nov Marvell agreed to buy Lumentum for stock only (4.5 MRVL shares per Lumentum share, about $115B enterprise value), and BofA and TD Cowen downgraded the stock soon after. At the same time AI-chip stocks sold off across the sector. The business itself still looks healthy: Q3 revenue guidance of $3.15B was confirmed and the range narrowed, with results expected around 1 Dec.",
+               "pros":  [
+                            "Q2 FY27 revenue was $2.739B (+37% YoY). Data center revenue was $2.17B (+46%), or 79% of sales.",
+                            "On 2 Nov Marvell confirmed Q3 guidance of $3.15B and narrowed the range to ±2%, so no sign of weaker demand.",
+                            "Lumentum adds in-house lasers and optical modules. Marvell projects more than $1B in yearly cost savings and higher EPS in the first year after closing.",
+                            "RSI 14 is 27.9, which counts as oversold. Price is still above the lower Bollinger Band at $97.51.",
+                            "Stifel ($280), UBS ($350) and Needham ($300) all kept Buy ratings after the deal."
+                        ],
+               "cons":  [
+                            "Paying only in stock gives Lumentum holders about 33% of the combined company, and the deal is not expected to close until the first half of 2028.",
+                            "BofA cut MRVL to Neutral (target $400→$225) and TD Cowen cut it to Hold ($350→$175) after the deal.",
+                            "Stifel warned that slower cloud capex growth in 2028–29 could delay ramps of Marvell\u0027s custom and interconnect chips.",
+                            "Price sits below all three EMAs, MACD is below its signal line, and the 20 Nov drop came on 1.23x average volume.",
+                            "Even after the fall, the stock still trades at about 13–14x trailing sales."
+                        ],
+               "opportunityCheck":  "Most sub-scores look reasonable. I would raise AI revenue exposure by 1–2 points: data center was 79% of Q2 FY27 revenue and grew 46%, which is more than a 15 suggests. I would leave bottleneck \u0026 pricing power at 11 for now. Lumentum\u0027s lasers are a real supply chokepoint, but the deal does not close until the first half of 2028 and could still fail on shareholder or regulatory votes. Market growth at 17 deserves a closer look if Stifel\u0027s 2028–29 capex-slowdown view gains support.",
+               "technical":  "MRVL closed at $122.28 on 20 Nov. It opened at $132.89 and finished near the day\u0027s low of $120.56, which is a weak close. Trend: price is far below the EMA 50 ($199.66), EMA 100 ($207.39) and EMA 200 ($189.36). EMAs are moving averages that weight recent prices more. The EMA 50 has dropped below the EMA 100, an early sign the medium-term trend has turned down. Momentum: MACD (a trend-momentum gauge) is -25.23, below its signal line at -23.66, and the histogram is negative (-1.57), so selling pressure is still building. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 27.9. That means the selling is stretched, but it is not a reversal signal by itself. Volatility: the Bollinger Bands (a range of about two standard deviations around the 20-day average) run from $97.51 to $244.60, very wide after weeks of big swings. Price is in the lower half, below the $171.05 middle line. In the 52-week range of $70.69–$329.88, price sits near the bottom fifth, about 63% below the high. Volume of 40.3M was about 1.23x the 20-day average, so heavy trading backed the drop. Support levels are $120.56 and then $97.51. Resistance levels are about $133.55 (the 5 Nov close) and $138.47 (the 19 Nov close).",
+               "fundamental":  "Marvell sits at two choke points in AI data centers: custom accelerators (XPUs) for cloud companies, and the optical DSPs that link AI servers. Q2 FY27 (quarter ended 1 Aug 2026): revenue was $2.739B, up 37% YoY. Data center revenue was $2.17B, up 46%. Non-GAAP gross margin was 58.9%. Q3 guidance is $3.15B (±2% after the 2 Nov update) with non-GAAP EPS of $1.10 ±$0.05. Management expects about $12B for FY27, and Stifel cites a roughly $20B outlook for FY28. Buying Lumentum would add lasers, transceivers and optical manufacturing, moving Marvell from chips into full optical modules, a market the companies size at $550B. That fits the optical-DSP moat. The cost is roughly 50% more shares, a close not expected until the first half of 2028, and integration risk.",
+               "news":  [
+                            "2 Nov 2026: Marvell agreed to buy Lumentum for stock only. Lumentum holders get 4.5 MRVL shares per share (about $115B EV, a 23.9% premium) and Marvell holders keep about 67%. Closing is expected in the first half of 2028. MRVL fell 12.7% that day, after a 13.2% drop on 29 Oct when Bloomberg reported the talks.",
+                            "2 Nov 2026: In the same release, Marvell said preliminary fiscal Q3 revenue matched guidance. It kept the $3.15B midpoint and narrowed the range to ±2% from ±5%.",
+                            "Early Nov 2026: BofA downgraded MRVL to Neutral and cut its target to $225 from $400. TD Cowen downgraded to Hold with a $175 target, and KeyBanc moved to Sector Weight. All cited dilution and deal timing.",
+                            "5 Nov 2026: MRVL fell 16.4% with no company news, as the Nasdaq dropped 5.5% in an AI selloff. Some reports linked the selloff to newly elected governors promising to pause data-center construction.",
+                            "16 Nov 2026: MRVL fell 7.3% as 33 of 34 large chip stocks declined ahead of Nvidia\u0027s earnings report.",
+                            "20 Nov 2026: Stifel kept its Buy rating but cut its target to $280 from $370, citing slower 2028–29 capex and lower peer valuations. MRVL fell 11.69% in a broad tech selloff. Q3 FY27 results are expected around 1 Dec 2026."
+                        ],
+               "caution":  "Momentum is still pointing down. Price is about $67 below the EMA 50, MACD is still falling, and the bands are so wide that 10% daily moves have been common. Oversold readings can last for weeks in a selloff. The Lumentum deal also changes what an MRVL share represents: the share count rises by roughly half, and the uncertainty runs until the first half of 2028. Shareholder votes, antitrust reviews (China included) and Lumentum\u0027s own results could all weigh on the stock. If the 1 Dec results or FY28 commentary disappoint, the $97.51 lower band and the February area near $70–74 are the next reference levels.",
+               "opportunity":  "The selloff looks driven more by deal worries and sector sentiment than by any break in demand. On 2 Nov Marvell narrowed its Q3 range around $3.15B, and Q2 data center revenue grew 46%. RSI at 27.9 shows the selling is stretched. Most covering analysts kept Buy ratings even after cutting targets. If the deal closes, Marvell would own both the DSP and the laser inside AI optical links, which would deepen its optics moat. The 1 Dec report and the FY28 outlook are the next clear tests of whether the fundamentals still support that view.",
+               "risks":  [
+                             "The Lumentum deal could fail shareholder or regulatory approval, or run into integration problems before the first half of 2028.",
+                             "Dilution: the share count rises about 50% for a business bought at a high price.",
+                             "Cloud-capex slowdown in 2028–29 could delay custom XPU and interconnect ramps.",
+                             "Political pushback against data-center construction in some US states.",
+                             "Losing or delaying custom-chip programs at large cloud customers.",
+                             "High valuation and very high volatility (21 daily drops of 7%+ in the past year)."
+                         ]
+           },
+    "th":  {
+               "headline":  "ดีล Lumentum บวกแรงเทขายหุ้นชิป AI กด MRVL ลงมาที่ $122 รอดูงบ Q3 ราว 1 ธ.ค.",
+               "summary":  "MRVL ปิดที่ $122.28 เมื่อ 20 พ.ย. 2026 ลดลง 11.69% ในวันเดียว และต่ำกว่าราคาปิด 2 พ.ย. ที่ $171.41 ราว 29% สาเหตุหลักมีสองเรื่อง เรื่องแรก เมื่อ 2 พ.ย. Marvell ตกลงซื้อ Lumentum โดยจ่ายเป็นหุ้นทั้งหมด (4.5 หุ้น MRVL ต่อ 1 หุ้น Lumentum มูลค่ากิจการราว $115B) จากนั้น BofA และ TD Cowen ก็ลดคำแนะนำ เรื่องที่สอง หุ้นชิป AI ถูกเทขายทั้งกลุ่ม ส่วนตัวธุรกิจยังดูดี บริษัทยืนยันเป้ารายได้ Q3 ที่ $3.15B และบีบกรอบให้แคบลง งบจะออกราว 1 ธ.ค.",
+               "pros":  [
+                            "รายได้ Q2 FY27 อยู่ที่ $2.739B (+37% YoY) ส่วนรายได้ data center $2.17B (+46%) คิดเป็น 79% ของยอดขาย",
+                            "วันที่ 2 พ.ย. บริษัทยืนยันเป้ารายได้ Q3 ที่ $3.15B และบีบกรอบเหลือ ±2% แปลว่ายังไม่เห็นสัญญาณดีมานด์อ่อนลง",
+                            "Lumentum ทำให้ได้เลเซอร์และโมดูลออปติคัลมาไว้ในมือ บริษัทคาดว่าจะประหยัดต้นทุนได้เกิน $1B ต่อปี และ EPS จะเพิ่มขึ้นตั้งแต่ปีแรกหลังปิดดีล",
+                            "RSI 14 อยู่ที่ 27.9 ซึ่งเข้าโซน oversold และราคายังอยู่เหนือ Bollinger Band ล่างที่ $97.51",
+                            "หลังประกาศดีล Stifel ($280), UBS ($350) และ Needham ($300) ยังคงคำแนะนำ Buy"
+                        ],
+               "cons":  [
+                            "การจ่ายด้วยหุ้นล้วนทำให้ผู้ถือหุ้น Lumentum ได้ส่วนในบริษัทรวมราว 33% และกว่าจะปิดดีลก็ครึ่งแรกปี 2028",
+                            "หลังดีล BofA ลดเป็น Neutral (เป้า $400→$225) และ TD Cowen ลดเป็น Hold ($350→$175)",
+                            "Stifel เตือนว่าถ้า capex ของคลาวด์โตช้าลงในปี 2028–29 การเร่งผลิตชิป custom และ interconnect อาจล่าช้า",
+                            "ราคาอยู่ใต้ EMA ทั้งสามเส้น MACD อยู่ใต้ signal และวันที่ 20 พ.ย. ร่วงพร้อมวอลุ่ม 1.23 เท่าของค่าเฉลี่ย",
+                            "แม้ร่วงมาแล้ว หุ้นยังซื้อขายที่ราว 13–14 เท่าของยอดขายย้อนหลัง"
+                        ],
+               "opportunityCheck":  "คะแนนย่อยส่วนใหญ่ดูสมเหตุสมผล ข้อที่ควรขยับคือ AI revenue exposure ซึ่งน่าจะเพิ่มได้ 1–2 แต้ม เพราะ data center คิดเป็น 79% ของรายได้ Q2 FY27 และโต 46% ซึ่งมากกว่าที่ระดับ 15 สะท้อน ส่วน bottleneck \u0026 pricing power ควรคงไว้ที่ 11 ก่อน แม้เลเซอร์ของ Lumentum จะเป็นคอขวดของซัพพลายจริง แต่ดีลยังไม่ปิดจนถึงครึ่งแรกปี 2028 และยังอาจไม่ผ่านการโหวตผู้ถือหุ้นหรือหน่วยงานกำกับ ส่วน market growth ที่ 17 ควรจับตาถ้ามุมมองของ Stifel ว่า capex จะชะลอในปี 2028–29 เริ่มมีหลักฐานมากขึ้น",
+               "technical":  "MRVL ปิดที่ $122.28 เมื่อ 20 พ.ย. เปิดที่ $132.89 แล้วปิดใกล้จุดต่ำสุดของวันที่ $120.56 ถือว่าปิดอ่อนแอ ด้านแนวโน้ม ราคาอยู่ต่ำกว่า EMA 50 ($199.66), EMA 100 ($207.39) และ EMA 200 ($189.36) มาก (EMA คือเส้นค่าเฉลี่ยที่ให้น้ำหนักราคาล่าสุดมากกว่า) และ EMA 50 หลุดลงใต้ EMA 100 แล้ว เป็นสัญญาณแรกว่าแนวโน้มระยะกลางเริ่มกลับเป็นขาลง ด้านโมเมนตัม MACD (ตัววัดแรงส่งของเทรนด์) อยู่ที่ -25.23 ต่ำกว่าเส้น signal ที่ -23.66 และ histogram ติดลบ (-1.57) แปลว่าแรงขายยังเพิ่มขึ้น RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 คือ oversold) อยู่ที่ 27.9 หมายถึงขายกันมากเกินไปแล้ว แต่ตัวมันเองยังไม่ใช่สัญญาณกลับตัว ด้านความผันผวน Bollinger Bands (กรอบราวสองส่วนเบี่ยงเบนมาตรฐานรอบค่าเฉลี่ย 20 วัน) กว้างมากที่ $97.51–$244.60 หลังจากราคาแกว่งแรงหลายสัปดาห์ ราคาอยู่ครึ่งล่าง ต่ำกว่าเส้นกลาง $171.05 ในกรอบ 52 สัปดาห์ $70.69–$329.88 ราคาอยู่แถวหนึ่งในห้าล่างสุด ต่ำกว่าจุดสูงสุดราว 63% วอลุ่ม 40.3M สูงกว่าค่าเฉลี่ย 20 วันราว 1.23 เท่า ยืนยันว่าการร่วงมีแรงขายจริง แนวรับอยู่ที่ $120.56 และถัดไป $97.51 แนวต้านอยู่ราว $133.55 (ราคาปิด 5 พ.ย.) และ $138.47 (ราคาปิด 19 พ.ย.)",
+               "fundamental":  "Marvell อยู่ตรงจุดคอขวดสองจุดในศูนย์ข้อมูล AI คือชิปเร่งความเร็วแบบสั่งทำ (XPU) ให้บริษัทคลาวด์ และชิป DSP ออปติคัลที่เชื่อมเซิร์ฟเวอร์ AI เข้าด้วยกัน งบ Q2 FY27 (ไตรมาสสิ้นสุด 1 ส.ค. 2026) รายได้ $2.739B โต 37% YoY รายได้ data center $2.17B โต 46% และ non-GAAP gross margin 58.9% เป้า Q3 อยู่ที่ $3.15B (±2% หลังอัปเดตเมื่อ 2 พ.ย.) และ non-GAAP EPS $1.10 ±$0.05 ผู้บริหารคาดรายได้ FY27 ราว $12B ส่วน Stifel อ้างถึงกรอบ FY28 ราว $20B การซื้อ Lumentum จะเพิ่มเลเซอร์ ทรานซีฟเวอร์ และการผลิตออปติคัลเข้ามา ทำให้ Marvell ขยับจากการขายชิปไปสู่โมดูลออปติคัลครบชุด ซึ่งทั้งสองบริษัทประเมินตลาดรวมไว้ที่ $550B ภาพนี้สอดคล้องกับ moat ด้าน optical DSP แต่ต้องแลกกับจำนวนหุ้นที่เพิ่มขึ้นราว 50% การปิดดีลที่ยังอีกไกลถึงครึ่งแรกปี 2028 และความเสี่ยงในการรวมกิจการ",
+               "news":  [
+                            "2 พ.ย. 2026: Marvell ตกลงซื้อ Lumentum โดยจ่ายเป็นหุ้นทั้งหมด ผู้ถือหุ้น Lumentum ได้ 4.5 หุ้น MRVL ต่อหุ้น (EV ราว $115B พรีเมียม 23.9%) และผู้ถือหุ้น Marvell เดิมคงสัดส่วนราว 67% คาดปิดดีลครึ่งแรกปี 2028 วันนั้นหุ้นร่วง 12.7% ต่อจากที่ร่วง 13.2% เมื่อ 29 ต.ค. ตอน Bloomberg รายงานข่าวการเจรจา",
+                            "2 พ.ย. 2026: ในประกาศเดียวกัน Marvell แจ้งว่ารายได้เบื้องต้นของไตรมาส 3 เป็นไปตามเป้า คงจุดกึ่งกลางที่ $3.15B และบีบกรอบจาก ±5% เหลือ ±2%",
+                            "ต้นเดือน พ.ย. 2026: BofA ลดคำแนะนำเป็น Neutral และหั่นเป้าจาก $400 เหลือ $225 TD Cowen ลดเป็น Hold ด้วยเป้า $175 และ KeyBanc ปรับเป็น Sector Weight ทั้งหมดอ้างเรื่องการ dilution และระยะเวลาของดีล",
+                            "5 พ.ย. 2026: MRVL ร่วง 16.4% โดยไม่มีข่าวจากบริษัท ขณะที่ Nasdaq ลดลง 5.5% จากแรงเทขายหุ้น AI บางรายงานโยงกับการที่ผู้ว่าการรัฐที่เพิ่งชนะเลือกตั้งบางคนประกาศจะชะลอการสร้าง data center",
+                            "16 พ.ย. 2026: MRVL ลดลง 7.3% เมื่อหุ้นชิปขนาดใหญ่ 33 จาก 34 ตัวปรับลงก่อนงบของ Nvidia",
+                            "20 พ.ย. 2026: Stifel คงคำแนะนำ Buy แต่ลดเป้าจาก $370 เหลือ $280 โดยอ้าง capex ที่อาจชะลอในปี 2028–29 และมูลค่าหุ้นกลุ่มเดียวกันที่ลดลง วันนั้น MRVL ร่วง 11.69% ท่ามกลางการเทขายหุ้นเทคทั้งตลาด งบ Q3 FY27 คาดว่าจะออกราว 1 ธ.ค. 2026"
+                        ],
+               "caution":  "โมเมนตัมยังชี้ลง ราคาต่ำกว่า EMA 50 ราว $67 MACD ยังลดลงต่อ และกรอบ Bollinger กว้างจนการขยับวันละ 10% กลายเป็นเรื่องปกติ สภาวะ oversold ในช่วงตลาดขาลงอาจลากยาวได้หลายสัปดาห์ นอกจากนี้ดีล Lumentum ยังเปลี่ยนสิ่งที่หุ้น MRVL หนึ่งหุ้นเป็นตัวแทน เพราะจำนวนหุ้นจะเพิ่มขึ้นราวครึ่งหนึ่ง และความไม่แน่นอนจะอยู่ไปจนถึงครึ่งแรกปี 2028 ทั้งการโหวตของผู้ถือหุ้น การพิจารณาด้านการแข่งขัน (รวมถึงจีน) และผลประกอบการของ Lumentum เองล้วนกดดันหุ้นได้ ถ้างบวันที่ 1 ธ.ค. หรือมุมมอง FY28 น่าผิดหวัง ระดับอ้างอิงถัดไปคือ band ล่าง $97.51 และโซนเดือน ก.พ. แถว $70–74",
+               "opportunity":  "แรงขายรอบนี้ดูมาจากความกังวลเรื่องดีลและบรรยากาศทั้งกลุ่ม มากกว่าการที่ดีมานด์สะดุด เมื่อ 2 พ.ย. Marvell บีบกรอบรายได้ Q3 ให้แคบลงรอบ $3.15B และรายได้ data center ใน Q2 โต 46% RSI ที่ 27.9 บอกว่าแรงขายตึงมากแล้ว นักวิเคราะห์ส่วนใหญ่ยังคง Buy แม้จะลดเป้าลง ถ้าดีลปิดได้ Marvell จะมีทั้ง DSP และเลเซอร์ที่อยู่ในลิงก์ออปติคัลของ AI ซึ่งจะทำให้ moat ด้านออปติคัลลึกขึ้น งบวันที่ 1 ธ.ค. และแนวโน้ม FY28 คือบททดสอบถัดไปว่าพื้นฐานยังรองรับมุมมองนี้หรือไม่",
+               "risks":  [
+                             "ดีล Lumentum อาจไม่ผ่านการอนุมัติของผู้ถือหุ้นหรือหน่วยงานกำกับ หรือเจอปัญหาการรวมกิจการก่อนครึ่งแรกปี 2028",
+                             "การ dilution: จำนวนหุ้นเพิ่มราว 50% เพื่อซื้อกิจการในราคาสูง",
+                             "capex ของคลาวด์ที่อาจชะลอในปี 2028–29 จะทำให้การเร่งผลิต XPU และ interconnect ล่าช้า",
+                             "กระแสต่อต้านการสร้าง data center ในบางรัฐของสหรัฐฯ",
+                             "ความเสี่ยงเสียหรือเลื่อนโปรเจกต์ชิป custom กับลูกค้าคลาวด์รายใหญ่",
+                             "มูลค่าหุ้นยังสูงและผันผวนมาก (ในรอบปีมีวันที่ร่วง 7% ขึ้นไปถึง 21 ครั้ง)"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
+                        "publisher":  "Marvell Technology (press release)",
+                        "url":  "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity",
+                        "date":  "2026-11-02"
+                    },
+                    {
+                        "title":  "What Just Happened To Marvell Stock?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/mrvl/articles/622181/what-just-happened-to-marvell-stock-2/2026-11-03",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "What Is Behind The Move In Marvell Stock?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/mrvl/articles/623351/what-is-behind-the-move-in-marvell-stock/2026-11-06",
+                        "date":  "2026-11-06"
+                    },
+                    {
+                        "title":  "What Sent Marvell Stock Down Over 7%?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/mrvl/articles/625792/why-did-marvell-stock-fall-over-7/2026-11-17",
+                        "date":  "2026-11-17"
+                    },
+                    {
+                        "title":  "Stifel cuts Marvell stock price target on deal concerns to $280",
+                        "publisher":  "Investing.com",
+                        "url":  "https://www.investing.com/news/analyst-ratings/stifel-cuts-marvell-stock-price-target-on-deal-concerns-to-280-93CH-5041981",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "AI data center revenue hits $2.17B at Marvell (NASDAQ: MRVL) as it sets new Q3 earnings target",
+                        "publisher":  "StockTitan (8-K summary)",
+                        "url":  "https://www.stocktitan.net/sec-filings/MRVL/8-k-marvell-technology-inc-reports-material-event-e969d3608687.html",
+                        "date":  "2026-08-27"
+                    },
+                    {
+                        "title":  "Marvell Technology Aktie: TD Cowen und Bank of America stufen nach Lumentum-Deal ab",
+                        "publisher":  "Goldesel",
+                        "url":  "https://goldesel.de/aktien/news/marvell-technology-aktie-td-cowen-und-bank-of-america-stufen-nach-lumentum-deal-ab"
+                    },
+                    {
+                        "title":  "Marvell Technology (MRVL) Q3 2027 Earnings Date, Time \u0026 Estimates",
+                        "publisher":  "MarketBeat",
+                        "url":  "https://www.marketbeat.com/earnings/reports/2026-12-1-marvell-technology-group-ltd-stock/"
+                    }
+                ]
+}

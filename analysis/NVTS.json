@@ -1,0 +1,739 @@
+{
+    "ticker":  "NVTS",
+    "name":  "Navitas Semiconductor",
+    "symbol":  "NASDAQ:NVTS",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:08:44Z",
+    "costUsd":  0.7573218,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:NVTS",
+                       "yahoo":  "NVTS",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:05:56Z",
+                       "price":  6.08,
+                       "open":  6.91,
+                       "high":  6.95,
+                       "low":  6.03,
+                       "volume":  18163000,
+                       "avgVolume20":  14419680,
+                       "changePct":  -15.2,
+                       "ema50":  9.69,
+                       "ema100":  11.17,
+                       "ema200":  11.71,
+                       "bb":  {
+                                  "upper":  10.5,
+                                  "middle":  8.53,
+                                  "lower":  6.56
+                              },
+                       "macd":  {
+                                    "macd":  -0.72,
+                                    "signal":  -0.53,
+                                    "hist":  -0.19
+                                },
+                       "rsi14":  31.82,
+                       "high52w":  34.17,
+                       "low52w":  6.03,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         30.84
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         30.67
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         25.08
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         24.48
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         22.85
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         20.5
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         22.21
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         23.39
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         23.73
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         22.09
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         22.34
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         24.02
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         23.7
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         21.4
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         18.32
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         17.7
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         17.3
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         17.74
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         17.92
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         16.53
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         14.46
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         15.23
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         13.99
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         13.36
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         14.18
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         13.47
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         12.87
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         13.09
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         13.27
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         11.76
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         11.46
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         11.54
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         12.82
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         12.67
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         12.03
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         10.92
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         11.41
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         10.01
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         9.73
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         11.01
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         10.86
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         11.52
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         12.69
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         12.35
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         12.4
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         13.89
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         13.17
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         13.6
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         13.93
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         13.66
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         14.45
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         14.58
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         13.17
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         12.83
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         12.97
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         12.97
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         12.23
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         12.44
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         12.67
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         12.51
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         11.49
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         11.59
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         10.94
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         11.21
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         11.1
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         11.8
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         12
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         11.6
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         11.15
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         11.63
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         10.89
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         10.81
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         10.48
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         11.14
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         11.43
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         12.16
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         12.46
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         11.84
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         11.84
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         12.2
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         11.73
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         11.73
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         11.61
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         12.12
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         12.4
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         12.34
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         11.97
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         11.3
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         10.93
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         10.78
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         9.99
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         10.45
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         9.35
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         9.23
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         8.34
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         8.63
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         8.74
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         9.16
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         8.49
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         8.38
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         8.4
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         9.35
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         9.36
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         9.2
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         8.48
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         7.93
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         8.56
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         9.33
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         7.86
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         8.61
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         9.58
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         9.38
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         10.07
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         9.56
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         8.95
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         7.88
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         7.6
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         7.3
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         7.17
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         6.08
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          18.89,
+                                          19.35,
+                                          19.58,
+                                          19.77,
+                                          19.89,
+                                          19.91,
+                                          20,
+                                          20.14,
+                                          20.28,
+                                          20.35,
+                                          20.43,
+                                          20.57,
+                                          20.69,
+                                          20.72,
+                                          20.62,
+                                          20.51,
+                                          20.38,
+                                          20.28,
+                                          20.19,
+                                          20.04,
+                                          19.83,
+                                          19.65,
+                                          19.42,
+                                          19.19,
+                                          18.99,
+                                          18.77,
+                                          18.54,
+                                          18.33,
+                                          18.13,
+                                          17.88,
+                                          17.63,
+                                          17.39,
+                                          17.21,
+                                          17.03,
+                                          16.84,
+                                          16.6,
+                                          16.4,
+                                          16.15,
+                                          15.9,
+                                          15.71,
+                                          15.52,
+                                          15.36,
+                                          15.25,
+                                          15.14,
+                                          15.03,
+                                          14.99,
+                                          14.92,
+                                          14.87,
+                                          14.83,
+                                          14.78,
+                                          14.77,
+                                          14.76,
+                                          14.7,
+                                          14.63,
+                                          14.56,
+                                          14.5,
+                                          14.41,
+                                          14.33,
+                                          14.27,
+                                          14.2,
+                                          14.09,
+                                          13.99,
+                                          13.87,
+                                          13.77,
+                                          13.67,
+                                          13.59,
+                                          13.53,
+                                          13.45,
+                                          13.36,
+                                          13.3,
+                                          13.2,
+                                          13.11,
+                                          13,
+                                          12.93,
+                                          12.87,
+                                          12.84,
+                                          12.83,
+                                          12.79,
+                                          12.75,
+                                          12.73,
+                                          12.69,
+                                          12.65,
+                                          12.61,
+                                          12.59,
+                                          12.59,
+                                          12.58,
+                                          12.55,
+                                          12.5,
+                                          12.44,
+                                          12.38,
+                                          12.28,
+                                          12.21,
+                                          12.1,
+                                          11.99,
+                                          11.84,
+                                          11.72,
+                                          11.6,
+                                          11.51,
+                                          11.39,
+                                          11.27,
+                                          11.16,
+                                          11.09,
+                                          11.02,
+                                          10.95,
+                                          10.85,
+                                          10.74,
+                                          10.65,
+                                          10.6,
+                                          10.49,
+                                          10.42,
+                                          10.38,
+                                          10.35,
+                                          10.33,
+                                          10.3,
+                                          10.25,
+                                          10.16,
+                                          10.06,
+                                          9.95,
+                                          9.84,
+                                          9.69
+                                      ]
+                   },
+    "en":  {
+               "headline":  "New 52-week low in a chip selloff, despite a quarter that beat and raised",
+               "technical":  "NVTS closed at $6.08 on 20 Nov 2026. It fell 15.2% that day and finished just above its new 52-week low of $6.03, 82% below the 52-week high of $34.17. Trend: price is far below all three EMAs (exponential moving averages, which smooth out the price trend): EMA50 $9.69, EMA100 $11.17 and EMA200 $11.71. The stacking 50 \u003c 100 \u003c 200 is a classic downtrend, and price is about 37% below the EMA50. Momentum: MACD (a trend-momentum gauge) is at -0.72, below its signal line at -0.53, and the histogram is negative at -0.19. That means selling pressure is still growing, not fading. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 31.82, near oversold but not there yet. Volatility: price closed below the lower Bollinger Band at $6.56 (the bands are a 20-day average ± 2 standard deviations). That marks a stretched, extreme move. Such closes often lead to short bounces, but strong downtrends can keep going. Volume of 18.2M shares was about 1.26× the 20-day average of 14.4M, so the selling was real. Nearest support is the $6.03 low. The first resistance is near $6.56, then $8.53 (the band\u0027s middle line).",
+               "fundamental":  "The business is improving even as the share price collapses. Q3 2026 revenue (reported 3 Nov) was $14.0M, up 33% from Q2 and 38% from a year earlier, at the top of guidance. Non-GAAP gross margin rose to 40.0%. Q4 guidance is $16.0M ±$0.5M, about 14% growth over Q3. Navitas has mostly exited low-end mobile chips. It expects AI data-center and grid/energy products to pass 40% of sales by year-end, and AI revenue to roughly triple in 2027. On 6 Oct it closed the roughly $126M purchase of Claros (vertical power delivery). It also pointed to an 800V-to-12V board built with Nvidia and an 800V reference design with Microchip. Scale is still tiny: the Q3 GAAP net loss was $37.1M, and Q4 non-GAAP opex of about $25M is more than revenue. Cash of $531.5M and no debt give a long runway.",
+               "news":  [
+                            "3 Nov 2026: Q3 revenue of $14.0M (+38% year on year) beat the roughly $13.5M consensus, and Q4 was guided to $16.0M ±$0.5M. Management cited a 1-million-unit GaN order for an 800V power brick and a book-to-bill near 2.0 (orders about twice shipments). Shares rose 7.9% to $8.56 that day.",
+                            "4 Nov 2026: Rosenblatt upgraded NVTS from Neutral to Buy with a $13 target. Separately, Needham reportedly kept its Buy rating but cut its target from $21 to $15.",
+                            "12 Nov 2026: Navitas filed a second patent suit against Renesas in East Texas (six counts), aimed at Renesas\u0027s newly launched 650V SuperGaN part. It adds to an August suit, while trade-secret and patent claims that Renesas and Wolfspeed filed against Navitas in July are still pending.",
+                            "12 Nov 2026: Nvidia announced that CEO Jensen Huang had resigned, with CFO Colette Kress as interim CEO. Nvidia is Navitas\u0027s flagship 800V partner, so AI-power stocks were hit; NVTS fell about 12% to $7.88 on 16 Nov.",
+                            "20 Nov 2026: NVTS fell 15.2% to $6.08, a new 52-week low, during a broad chip selloff. I found no negative news specific to Navitas. Management is due to speak at a UBS investor conference on 1 Dec."
+                        ],
+               "caution":  "The chart is in a confirmed downtrend with no sign of turning. Price is below every EMA and the MACD gap is still widening. A close below the lower band at a fresh 52-week low can mark capitulation (a final wave of panic selling), but nothing confirms that yet. On fundamentals, about $16M of quarterly revenue against roughly $25M of opex means losses will continue. The stock\u0027s beta near 4 also means it tends to move about four times as much as the market. Patent fights with Renesas and Wolfspeed carry legal costs and uncertain outcomes, and Nvidia\u0027s leadership change could slow its decisions on the 800V roadmap.",
+               "opportunity":  "The selloff appears driven by sector sentiment (Nvidia\u0027s CEO exit and a chip-wide selloff), not by Navitas\u0027s own results, which beat estimates and guided higher. RSI near 31 and a close below the lower Bollinger Band show the stock is stretched. Readings like these often come before relief bounces, though the timing is unpredictable. For long-term holders, the key points to check at the 1 Dec UBS conference are: $531.5M of cash (roughly a third of the market value), book-to-bill near 2.0, the 1-million-unit 800V GaN order, and the goal of tripling AI revenue in 2027.",
+               "risks":  [
+                             "Nvidia\u0027s leadership uncertainty could delay or reshape the 800V data-center power roadmap that Navitas is betting on.",
+                             "Pending patent and trade-secret lawsuits involving Renesas and Wolfspeed could bring costs or limits on products.",
+                             "Losses continue: Q4 opex of about $25M against about $16M of revenue could eventually require raising money by issuing new shares.",
+                             "Worries about slower AI data-center spending (higher borrowing costs, permit delays) hit high-beta suppliers hardest.",
+                             "Larger rivals such as Renesas are launching competing 650V GaN products despite the lawsuits."
+                         ],
+               "summary":  "Technically, NVTS is bearish. At $6.08 it sits at a 52-week low, below all three EMAs and the lower Bollinger Band, with MACD negative and RSI at 31.82, near oversold. The slide from $10.07 on 11 Nov came from shocks across the sector, mainly Nvidia\u0027s CEO resignation and a chip selloff, not from Navitas\u0027s own numbers, which beat and raised guidance. The GaN/SiC AI-power thesis is still early and unproven at scale. I mark it \u0027watch\u0027 because of uncertainty over Nvidia\u0027s roadmap, ongoing litigation and continued heavy losses."
+           },
+    "th":  {
+               "headline":  "หุ้นทำจุดต่ำสุดรอบ 52 สัปดาห์ใหม่จากแรงขายหุ้นชิป ทั้งที่งบดีกว่าคาด",
+               "technical":  "NVTS ปิดที่ $6.08 เมื่อ 20 พ.ย. 2026 ร่วง 15.2% ในวันเดียว ปิดเหนือจุดต่ำสุดรอบ 52 สัปดาห์ใหม่ที่ $6.03 เพียงเล็กน้อย และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ $34.17 ราว 82% ด้านแนวโน้ม ราคาอยู่ต่ำกว่า EMA ทั้งสามเส้นมาก (EMA คือเส้นค่าเฉลี่ยราคาที่ให้น้ำหนักกับราคาล่าสุดมากกว่า ใช้ดูทิศทาง) ได้แก่ EMA50 $9.69, EMA100 $11.17 และ EMA200 $11.71 การเรียงตัว 50 \u003c 100 \u003c 200 คือรูปแบบขาลงชัดเจน และราคาต่ำกว่า EMA50 ราว 37% ด้านโมเมนตัม MACD (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ -0.72 ต่ำกว่าเส้นสัญญาณ -0.53 ฮิสโตแกรมติดลบ -0.19 แปลว่าแรงขายยังเพิ่มขึ้น ไม่ได้อ่อนลง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 31.82 ใกล้เขต oversold แต่ยังไม่เข้า ด้านความผันผวน ราคาปิดหลุดกรอบล่าง Bollinger Band ที่ $6.56 (กรอบที่สร้างจากค่าเฉลี่ย 20 วัน ± 2 ส่วนเบี่ยงเบนมาตรฐาน) แสดงว่าราคาลงแรงผิดปกติ ภาวะแบบนี้มักตามด้วยการเด้งระยะสั้น แต่ในขาลงแรงก็อาจไหลลงต่อได้ วอลุ่ม 18.2 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (14.4 ล้านหุ้น) ราว 1.26 เท่า ยืนยันว่าเป็นแรงขายจริง แนวรับใกล้สุดคือ $6.03 แนวต้านแรกราว $6.56 และถัดไปที่ $8.53 (เส้นกลางกรอบ)",
+               "fundamental":  "ธุรกิจดีขึ้นสวนทางกับราคาหุ้นที่ดิ่งลง รายได้ไตรมาส 3/2026 (ประกาศ 3 พ.ย.) อยู่ที่ $14.0M โต 33% จากไตรมาสก่อน และ 38% จากปีก่อน อยู่ที่ขอบบนของประมาณการ อัตรากำไรขั้นต้น non-GAAP ขยับขึ้นเป็น 40.0% ส่วนแนวทางไตรมาส 4 อยู่ที่ $16.0M ±$0.5M (โตราว 14% จาก Q3) บริษัทถอนตัวจากชิปมือถือระดับล่างเกือบหมดแล้ว และคาดว่ากลุ่ม AI data center รวมกับโครงข่ายไฟฟ้า/พลังงานจะเกิน 40% ของยอดขายภายในสิ้นปี โดยรายได้ AI น่าจะโตราว 3 เท่าในปี 2027 บริษัทปิดดีลซื้อ Claros (เทคโนโลยีจ่ายไฟแนวตั้ง มูลค่าราว $126M) เมื่อ 6 ต.ค. และมีบอร์ด 800V-to-12V ที่พัฒนาร่วมกับ Nvidia กับแบบอ้างอิง 800V ร่วมกับ Microchip แต่ขนาดธุรกิจยังเล็กมาก Q3 ขาดทุนสุทธิ GAAP $37.1M และค่าใช้จ่ายดำเนินงาน non-GAAP ไตรมาส 4 ราว $25M ยังสูงกว่ารายได้ ข้อดีคือมีเงินสด $531.5M และไม่มีหนี้ จึงอยู่รอดได้อีกนาน",
+               "news":  [
+                            "3 พ.ย. 2026: รายได้ Q3 $14.0M (+38% จากปีก่อน) ดีกว่าที่ตลาดคาดราว $13.5M และให้แนวทาง Q4 ที่ $16.0M ±$0.5M ผู้บริหารเผยว่าได้ออร์เดอร์ GaN สำหรับโมดูลจ่ายไฟ 800V จำนวน 1 ล้านชิ้น และ book-to-bill (ยอดสั่งซื้อเทียบยอดส่งมอบ) ราว 2.0 วันนั้นหุ้นขึ้น 7.9% ไปปิดที่ $8.56",
+                            "4 พ.ย. 2026: Rosenblatt ปรับคำแนะนำ NVTS จาก Neutral เป็น Buy พร้อมราคาเป้าหมาย $13 อีกด้านมีรายงานว่า Needham ยังคง Buy แต่ลดราคาเป้าหมายจาก $21 เหลือ $15",
+                            "12 พ.ย. 2026: Navitas ยื่นฟ้อง Renesas ข้อหาละเมิดสิทธิบัตรเป็นคดีที่สองที่ศาลรัฐเท็กซัสตะวันออก (6 ข้อกล่าวหา) มุ่งเป้าชิป 650V SuperGaN ตัวใหม่ของ Renesas ต่อจากคดีแรกเมื่อเดือน ส.ค. ขณะที่คดีความลับทางการค้าและสิทธิบัตรที่ Renesas และ Wolfspeed ฟ้อง Navitas ไว้ตั้งแต่ ก.ค. ยังไม่สิ้นสุด",
+                            "12 พ.ย. 2026: Nvidia ประกาศว่า Jensen Huang ลาออกจากตำแหน่ง CEO และให้ Colette Kress (CFO) รักษาการ CEO เนื่องจาก Nvidia เป็นพันธมิตรหลักด้าน 800V ของ Navitas หุ้นกลุ่มพลังงานไฟฟ้าสำหรับ AI จึงโดนแรงขาย NVTS ร่วงราว 12% ไปปิดที่ $7.88 เมื่อ 16 พ.ย.",
+                            "20 พ.ย. 2026: NVTS ร่วง 15.2% ไปปิดที่ $6.08 ซึ่งเป็นจุดต่ำสุดรอบ 52 สัปดาห์ใหม่ ท่ามกลางแรงขายหุ้นชิปทั้งกลุ่ม โดยไม่พบข่าวร้ายเฉพาะของบริษัท ผู้บริหารมีกำหนดขึ้นเวทีงานสัมมนานักลงทุนของ UBS วันที่ 1 ธ.ค."
+                        ],
+               "caution":  "กราฟอยู่ในขาลงชัดเจนและยังไม่มีสัญญาณกลับตัว ราคาอยู่ใต้ EMA ทุกเส้น และ MACD ยังติดลบห่างออกไปเรื่อยๆ การปิดหลุดกรอบล่างพร้อมทำจุดต่ำสุดใหม่อาจเป็นช่วง capitulation (คลื่นขายตื่นตระหนกระลอกสุดท้าย) ก็จริง แต่ยังไม่มีอะไรยืนยัน ด้านพื้นฐาน รายได้ไตรมาสละราว $16M เทียบกับค่าใช้จ่ายราว $25M แปลว่ายังขาดทุนต่อ ค่า beta ใกล้ 4 หมายความว่าหุ้นมักแกว่งแรงกว่าตลาดราว 4 เท่า นอกจากนี้คดีสิทธิบัตรกับ Renesas และ Wolfspeed มีทั้งค่าใช้จ่ายและผลที่ยังไม่แน่นอน ส่วนการเปลี่ยนผู้นำของ Nvidia อาจทำให้การตัดสินใจเรื่องโรดแมป 800V ช้าลง",
+               "opportunity":  "แรงขายรอบนี้ดูมาจากบรรยากาศทั้งกลุ่ม (CEO ของ Nvidia ลาออก และหุ้นชิปถูกเทขาย) มากกว่าผลงานของ Navitas เอง ซึ่งงบออกมาดีกว่าคาดและให้แนวทางที่สูงขึ้น RSI ราว 31 และการปิดหลุดกรอบล่าง Bollinger Band บอกว่าหุ้นลงมาไกลเกินปกติ สภาวะแบบนี้มักเกิดก่อนการเด้งกลับ แต่จังหวะเวลาคาดเดาไม่ได้ สำหรับนักลงทุนระยะยาว ประเด็นที่ควรติดตามในงาน UBS วันที่ 1 ธ.ค. คือ เงินสด $531.5M (ราวหนึ่งในสามของมูลค่าบริษัท), book-to-bill ราว 2.0, ออร์เดอร์ GaN 800V จำนวน 1 ล้านชิ้น และเป้ารายได้ AI โต 3 เท่าในปี 2027",
+               "risks":  [
+                             "ความไม่แน่นอนเรื่องผู้นำของ Nvidia อาจทำให้โรดแมประบบไฟ 800V สำหรับ data center ที่ Navitas เดิมพันไว้ล่าช้าหรือเปลี่ยนทิศ",
+                             "คดีสิทธิบัตรและความลับทางการค้ากับ Renesas และ Wolfspeed ยังไม่สิ้นสุด อาจมีค่าใช้จ่ายหรือข้อจำกัดด้านผลิตภัณฑ์",
+                             "ยังขาดทุนต่อเนื่อง ค่าใช้จ่าย Q4 ราว $25M เทียบรายได้ราว $16M อาจต้องเพิ่มทุนด้วยการออกหุ้นใหม่ในอนาคต ซึ่งทำให้สัดส่วนผู้ถือหุ้นเดิมลดลง",
+                             "ความกังวลว่าการลงทุน AI data center จะชะลอตัว (ต้นทุนกู้ยืมสูง ใบอนุญาตก่อสร้างล่าช้า) กระทบหุ้นซัพพลายเออร์ที่ beta สูงหนักที่สุด",
+                             "คู่แข่งรายใหญ่อย่าง Renesas ยังเปิดตัวชิป GaN 650V มาแข่งต่อเนื่อง แม้จะถูกฟ้อง"
+                         ],
+               "summary":  "ภาพเทคนิคของ NVTS เป็นขาลง ราคา $6.08 อยู่ที่จุดต่ำสุดรอบ 52 สัปดาห์ ต่ำกว่า EMA ทั้งสามเส้นและกรอบล่าง Bollinger Band ขณะที่ MACD ติดลบ และ RSI 31.82 ใกล้เขต oversold การร่วงจาก $10.07 เมื่อ 11 พ.ย. มาจากปัจจัยกระทบทั้งกลุ่ม หลักๆ คือ CEO ของ Nvidia ลาออกและหุ้นชิปถูกเทขาย ไม่ได้มาจากตัวเลขของ Navitas ซึ่งดีกว่าคาดและปรับแนวทางขึ้น ธีสิสพลังงาน AI จาก GaN/SiC ยังอยู่ช่วงเริ่มต้นและยังพิสูจน์ไม่ได้ในระดับใหญ่ จึงให้สถานะ \u0027watch\u0027 จากความไม่แน่นอนของโรดแมป Nvidia คดีความที่ยังค้าง และผลขาดทุนที่ยังหนัก"
+           },
+    "sources":  [
+                    {
+                        "title":  "Navitas Semiconductor Q3 2026 results press release (Form 8-K Exhibit 99.1)",
+                        "publisher":  "SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001821769/000162828026069489/exhibit991-navitassemicond.htm",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "Earnings call transcript: Navitas Semiconductor Q3 2026 revenue rises, shares gain",
+                        "publisher":  "Investing.com",
+                        "url":  "https://uk.investing.com/news/stock-market-news/earnings-call-transcript-navitas-semiconductor-q3-2026-revenue-rises-shares-gain-93CH-4954262",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "Could Navitas Semiconductor Actually Climb 52%? Or Is Rosenblatt Totally Wrong?",
+                        "publisher":  "TIKR",
+                        "url":  "https://www.tikr.com/blog/could-navitas-semiconductor-actually-climb-52-or-is-rosenblatt-totally-wrong",
+                        "date":  "2026-11"
+                    },
+                    {
+                        "title":  "Navitas files second patent lawsuit against Renesas",
+                        "publisher":  "Semiconductor Today",
+                        "url":  "https://semiconductor-today.com/news_items/2026/nov/navitas-renesas-131126.shtml",
+                        "date":  "2026-11-13"
+                    },
+                    {
+                        "title":  "Jensen Huang resigns as Nvidia CEO after 33 years, effective immediately",
+                        "publisher":  "The Next Web",
+                        "url":  "https://thenextweb.com/news/jensen-huang-resigns-as-nvidia-ceo-after-33-years-effective-immediately",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Why Navitas Semiconductor Stock Sank by 12% on Monday",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/investing/2026/11/16/why-navitas-semiconductor-stock-sank-by-12-on-monday/",
+                        "date":  "2026-11-16"
+                    },
+                    {
+                        "title":  "Investors Are Fleeing Navitas Semiconductor (NVTS). Here\u0027s Why",
+                        "publisher":  "Yahoo Finance (Insider Monkey)",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/investors-fleeing-navitas-semiconductor-nvts-015221715.html",
+                        "date":  "2026-11-17"
+                    },
+                    {
+                        "title":  "Navitas Semiconductor Falls 4% As Chip Stocks Sell Off",
+                        "publisher":  "StocksToTrade",
+                        "url":  "https://stockstotrade.com/news/navitas-semiconductor-corporation-nvts-news-2026-11-20/",
+                        "date":  "2026-11-20"
+                    }
+                ]
+}

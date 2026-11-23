@@ -1,0 +1,764 @@
+{
+    "ticker":  "ORCL",
+    "name":  "Oracle",
+    "symbol":  "NYSE:ORCL",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:53:16Z",
+    "costUsd":  0.7067642,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NYSE:ORCL",
+                       "yahoo":  "ORCL",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:50:49Z",
+                       "price":  101.19,
+                       "open":  108.48,
+                       "high":  108.99,
+                       "low":  100.25,
+                       "volume":  47315400,
+                       "avgVolume20":  42119575,
+                       "changePct":  -8.48,
+                       "historyDays":  501,
+                       "ema50":  129.77,
+                       "ema100":  139.53,
+                       "ema200":  153.67,
+                       "bb":  {
+                                  "upper":  141.85,
+                                  "middle":  122.51,
+                                  "lower":  103.16
+                              },
+                       "macd":  {
+                                    "macd":  -6.27,
+                                    "signal":  -4.82,
+                                    "hist":  -1.45
+                                },
+                       "rsi14":  31.83,
+                       "high52w":  250.25,
+                       "low52w":  100.25,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         230.33
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         236.34
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         213.68
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         211.82
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         205.81
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         201.26
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         184.1
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         184.13
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         192.64
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         188.33
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         183.53
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         184.29
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         175.07
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         165.16
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         157.53
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         152.46
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         148.53
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         147.76
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         146.55
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         142.5
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         140.27
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         143.76
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         141.6
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         140.49
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         144.22
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         140.64
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         131.54
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         127.94
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         132.49
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         124.21
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         126.41
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         121.38
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         127.05
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         125.84
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         120.04
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         114.99
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         119.9
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         119.96
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         117.74
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         127.56
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         129.87
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         141.85
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         145.74
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         144.39
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         143.47
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         147.02
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         151.05
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         145.48
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         153.28
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         156.22
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         150.52
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         146.65
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         142.79
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         143.81
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         142.07
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         146.47
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         142.45
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         144.76
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         148.87
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         151.94
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         150.85
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         149.12
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         141.32
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         145.75
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         154.04
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         158.78
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         162.52
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         161.63
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         152.94
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         150.28
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         144.79
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         140.35
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         143.16
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         150.59
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         147.61
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         148.56
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         149.2
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         144.56
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         139.54
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         137.1
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         132.6
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         137.79
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         137.3
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         138.07
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         142.3
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         142.48
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         144.77
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         143.56
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         135.69
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         141.4
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         137.39
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         143.2
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         130.55
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         134.47
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         128.23
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         129.59
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         131.14
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         129.13
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         125.54
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         126.16
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         126.06
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         130.53
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         144.54
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         139.56
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         130.67
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         119.22
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         126.19
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         123.73
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         115.16
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         116.1
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         119.79
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         117.98
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         128.38
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         127.11
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         125.35
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         119.09
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         115
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         113.89
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         110.57
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         101.19
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          186.22,
+                                          188.19,
+                                          189.19,
+                                          190.07,
+                                          190.69,
+                                          191.11,
+                                          190.83,
+                                          190.57,
+                                          190.65,
+                                          190.56,
+                                          190.28,
+                                          190.05,
+                                          189.46,
+                                          188.51,
+                                          187.29,
+                                          185.93,
+                                          184.46,
+                                          183.02,
+                                          181.59,
+                                          180.06,
+                                          178.5,
+                                          177.14,
+                                          175.74,
+                                          174.36,
+                                          173.18,
+                                          171.9,
+                                          170.32,
+                                          168.66,
+                                          167.24,
+                                          165.55,
+                                          164.02,
+                                          162.34,
+                                          160.96,
+                                          159.58,
+                                          158.03,
+                                          156.34,
+                                          154.91,
+                                          153.54,
+                                          152.14,
+                                          151.18,
+                                          150.34,
+                                          150.01,
+                                          149.84,
+                                          149.63,
+                                          149.39,
+                                          149.29,
+                                          149.36,
+                                          149.21,
+                                          149.37,
+                                          149.64,
+                                          149.67,
+                                          149.55,
+                                          149.29,
+                                          149.07,
+                                          148.8,
+                                          148.71,
+                                          148.46,
+                                          148.32,
+                                          148.34,
+                                          148.48,
+                                          148.57,
+                                          148.59,
+                                          148.31,
+                                          148.21,
+                                          148.44,
+                                          148.84,
+                                          149.38,
+                                          149.86,
+                                          149.98,
+                                          149.99,
+                                          149.79,
+                                          149.42,
+                                          149.17,
+                                          149.23,
+                                          149.16,
+                                          149.14,
+                                          149.14,
+                                          148.96,
+                                          148.59,
+                                          148.14,
+                                          147.53,
+                                          147.15,
+                                          146.77,
+                                          146.42,
+                                          146.26,
+                                          146.11,
+                                          146.06,
+                                          145.96,
+                                          145.56,
+                                          145.4,
+                                          145.08,
+                                          145.01,
+                                          144.44,
+                                          144.05,
+                                          143.43,
+                                          142.89,
+                                          142.43,
+                                          141.91,
+                                          141.26,
+                                          140.67,
+                                          140.1,
+                                          139.72,
+                                          139.91,
+                                          139.9,
+                                          139.54,
+                                          138.74,
+                                          138.25,
+                                          137.68,
+                                          136.8,
+                                          135.98,
+                                          135.35,
+                                          134.67,
+                                          134.42,
+                                          134.13,
+                                          133.79,
+                                          133.21,
+                                          132.5,
+                                          131.77,
+                                          130.94,
+                                          129.77
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Oracle at a 52-week low as funding worries outweigh a $664B backlog",
+               "summary":  "ORCL closed at $101.19 on 20 Nov 2026, down 8.48% that day and 19.3% for the week. That puts it 60% below its 52-week high of $250.25. The selling followed Oracle\u0027s $20B raise on 2 Nov: $10B of stock priced at $116 and $10B of bonds paying 7.0–8.65% interest. It also came during a sell-off in chip stocks. The business is still growing fast. In fiscal Q1 (reported 10 Sep), OCI revenue rose 121% and the backlog reached $664B. The market\u0027s worry is the debt, the lease commitments and the dependence on OpenAI, not demand.",
+               "pros":  [
+                            "Backlog (RPO) reached $664B in fiscal Q1 FY27, and about 90% of it is cloud infrastructure.",
+                            "OCI revenue rose 121% to $7.4B, and management raised FY27 revenue guidance to at least $90B.",
+                            "Oracle says the OpenAI build is fully funded, the Abilene campus is nearly complete and Vera Rubin rack deliveries are on track.",
+                            "Bernstein estimates the non-AI business alone is worth about $133 a share, well above today\u0027s price."
+                        ],
+               "cons":  [
+                            "New bonds pay 7.0–8.65% interest, which is expensive money for a company that wants to be a hyperscaler.",
+                            "About $260–288B of data-center leases sit off the balance sheet and run 15–19 years.",
+                            "Free cash flow is negative, with capex of $28.5B in Q1, and Oracle does not expect it to turn positive before the second half of FY28.",
+                            "Much of the backlog depends on one customer, OpenAI, so any slowdown there would hit Oracle directly."
+                        ],
+               "opportunityCheck":  "Most of the sub-scores fit what I found. The one I would move is position, down by 1–2 points. Oracle is winning large AI contracts, but it pays 7–8.65% to borrow while Microsoft, Google and Amazon fund their buildouts from cash flow, and a large share of its backlog depends on OpenAI. That is a weaker position than the backlog size suggests. AI exposure could arguably go up a point, because about 90% of RPO is cloud infrastructure. The bottleneck score of 11 already looks appropriately modest.",
+               "technical":  "The trend is clearly down. At $101.19, the price is below the 50-day EMA ($129.77), the 100-day ($139.53) and the 200-day ($153.67). EMAs are exponential moving averages, which weight recent prices more. They are also stacked bearishly, with the shortest on the bottom, which is a textbook downtrend. MACD is -6.27, below its signal line at -4.82, with a histogram of -1.45. MACD is a trend-momentum gauge, and a negative histogram means selling pressure is still building. RSI 14 is 31.83. RSI is a 0–100 momentum gauge where under 30 counts as oversold, so the stock is close to oversold but not there yet. The price closed below the lower Bollinger Band at $103.16, the band that marks the edge of normal 20-day volatility. That shows stretched selling and often comes before a short bounce, but it does not confirm a turn. The day\u0027s low of $100.25 is also the 52-week low, and the $100 area is the nearest support. Old support near $115–116, which was the 17 Nov close and the offering price, is now overhead resistance. Volume was 47.3M shares, about 12% above the 20-day average of 42.1M, so the drop came on real selling, not thin trading.",
+               "fundamental":  "Oracle combines a sticky database and applications business with a fast-growing AI cloud. In fiscal Q1 FY27 (quarter ended 31 Aug, reported 10 Sep 2026), revenue was $19.3B, up about 30%. OCI revenue rose 121% to $7.4B, RPO reached $664B and FY27 guidance was raised to at least $90B. The cost of that growth is high. Capex was $28.5B in the quarter and free cash flow was negative. At its 28 Oct Investor Day, Oracle kept its FY30 targets of $225B+ revenue and $21+ EPS. It capped new capital raises at $20B, then used all of that on 2 Nov. Next comes the fiscal Q2 report, due around mid-December 2026. Investors will look for proof that capex is turning into revenue and that the cash burn is slowing.",
+               "news":  [
+                            "28 Oct 2026: At Investor Day, Oracle reaffirmed its FY30 goals of $225B+ revenue, a 40%+ margin and $21+ EPS. It capped new financing at $20B, split evenly between equity and debt, and targeted positive free cash flow in the second half of FY28. The shares jumped about 11% that day, then gave back the gain by 30 Oct as chip stocks sold off.",
+                            "2 Nov 2026: Oracle priced 86.2M shares at $116, an 11.2% discount to the previous close, plus $10B of notes due 2029–2046 with coupons of 7.000–8.650%. Both deals closed on 4 Nov. On the same day, Stephens upgraded the stock to Overweight with a $213 target.",
+                            "10–13 Nov 2026: Bernstein kept its Outperform rating and $325 target and estimated a value of about $133 a share even if the AI business failed. DBS cut its target to $290 from $310, and President Capital trimmed its target to $323.",
+                            "20 Nov 2026: Oracle said its OpenAI contract, which covers 4.5 GW of extra US capacity, is fully funded through the November raise plus vendor financing. It did not say how large the vendor financing is or who the vendors are. The stock still fell 8.48% to $101.19, 12.8% below the offering price, as AI chip stocks sold off."
+                        ],
+               "caution":  "This is a balance-sheet story more than a demand story. Oracle has now used its whole self-imposed $20B financing cap, so any new raise before FY30 would hurt management\u0027s credibility. The new bonds pay up to 8.65%, a sign that lenders see real risk. About $260–288B of long-term leases are locked in whatever happens to AI demand. If OpenAI slows its spending, both the backlog and the lease burden become a problem. Technically, a break below the $100 area would leave no recent support underneath.",
+               "opportunity":  "Expectations are now much lower. The stock trades below the $116 offering price and near Bernstein\u0027s $133 estimate of what the non-AI business alone is worth. If fiscal Q2 results in mid-December show OCI growth staying above 100% and capex starting to turn into revenue, the \u0027funding crisis\u0027 story could fade quickly. RSI is near 30 and the price is below the lower Bollinger Band, so the selling looks stretched in the short term. A long-term holder gets a 121%-growth AI cloud with the database franchise underneath, at a much lower price.",
+               "risks":  [
+                             "OpenAI concentration: delays or contract changes at OpenAI would hit both the backlog and the cash flow plan.",
+                             "Financing risk: another equity or debt raise would break the $20B cap and dilute shareholders.",
+                             "Credit pressure: debt costs of 7–8.65% plus a rating downgrade could squeeze margins.",
+                             "Execution: data-center or GPU delivery delays would push revenue out while lease costs keep running.",
+                             "Sector sentiment: Oracle has been trading as a high-beta AI-capex stock, so chip-sector sell-offs drag it down."
+                         ]
+           },
+    "th":  {
+               "headline":  "Oracle หลุดลงไปทำจุดต่ำสุดรอบ 52 สัปดาห์ ตลาดกังวลเรื่องเงินทุนมากกว่า backlog",
+               "summary":  "ORCL ปิดที่ $101.19 วันที่ 20 พ.ย. 2026 ร่วง 8.48% ในวันเดียว ทั้งสัปดาห์ลดลง 19.3% และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $250.25 อยู่ราว 60% แรงขายตามมาหลังบริษัทระดมทุน $20B เมื่อ 2 พ.ย. แบ่งเป็นหุ้นเพิ่มทุน $10B ที่ราคา $116 และหุ้นกู้ $10B ดอกเบี้ย 7.0–8.65% ประกอบกับหุ้นชิปถูกเทขายพร้อมกัน ส่วนตัวธุรกิจยังโตแรง ไตรมาส 1 (รายงาน 10 ก.ย.) รายได้ OCI โต 121% และ backlog แตะ $664B สิ่งที่ตลาดกังวลจึงเป็นหนี้ ภาระเช่า และการพึ่ง OpenAI มากกว่าความต้องการลูกค้า",
+               "pros":  [
+                            "Backlog (RPO) แตะ $664B ในไตรมาส 1 ปีงบ FY27 ราว 90% เป็นงานคลาวด์โครงสร้างพื้นฐาน",
+                            "รายได้ OCI โต 121% เป็น $7.4B และผู้บริหารปรับเป้ารายได้ FY27 ขึ้นเป็นอย่างน้อย $90B",
+                            "Oracle ยืนยันว่าโครงการ OpenAI มีเงินทุนครบ ศูนย์ Abilene ใกล้เสร็จ และการส่งมอบแร็ค Vera Rubin เป็นไปตามแผน",
+                            "Bernstein ประเมินว่าธุรกิจที่ไม่ใช่ AI อย่างเดียวมีมูลค่าราว $133 ต่อหุ้น สูงกว่าราคาปัจจุบันชัดเจน"
+                        ],
+               "cons":  [
+                            "หุ้นกู้ชุดใหม่จ่ายดอกเบี้ย 7.0–8.65% ถือเป็นต้นทุนเงินที่แพงสำหรับบริษัทที่อยากเป็น hyperscaler",
+                            "ภาระเช่าศูนย์ข้อมูลราว $260–288B อยู่นอกงบดุล และผูกพันยาว 15–19 ปี",
+                            "กระแสเงินสดอิสระติดลบ capex ไตรมาส 1 สูงถึง $28.5B และบริษัทคาดว่าจะไม่กลับเป็นบวกก่อนครึ่งหลังของ FY28",
+                            "Backlog ส่วนใหญ่ผูกกับลูกค้ารายเดียวคือ OpenAI ถ้าฝั่งนั้นชะลอ Oracle จะโดนเต็มๆ"
+                        ],
+               "opportunityCheck":  "คะแนนย่อยส่วนใหญ่สอดคล้องกับข้อมูลที่พบ ตัวที่ควรปรับคือ position ลดลง 1–2 แต้ม Oracle ชนะสัญญา AI ใหญ่ๆ ก็จริง แต่ต้องกู้เงินที่ดอกเบี้ย 7–8.65% ขณะที่ Microsoft, Google และ Amazon ใช้กระแสเงินสดของตัวเองลงทุน และ backlog ก้อนใหญ่ยังพึ่ง OpenAI สถานะการแข่งขันจริงจึงอ่อนกว่าที่ขนาด backlog บอก ส่วน AI exposure อาจขยับขึ้นได้ 1 แต้ม เพราะ RPO ราว 90% เป็นงานคลาวด์โครงสร้างพื้นฐาน คะแนน bottleneck ที่ 11 ถือว่าพอเหมาะอยู่แล้ว",
+               "technical":  "แนวโน้มเป็นขาลงชัดเจน ราคา $101.19 อยู่ใต้ EMA 50 วัน ($129.77) EMA 100 ($139.53) และ EMA 200 ($153.67) EMA คือเส้นค่าเฉลี่ยเคลื่อนที่แบบให้น้ำหนักราคาล่าสุดมากกว่า และเส้นทั้งสามยังเรียงตัวแบบขาลง คือเส้นสั้นอยู่ล่างสุด เป็นภาพขาลงแบบตำรา MACD อยู่ที่ -6.27 ต่ำกว่าเส้น signal ที่ -4.82 และ histogram เป็น -1.45 MACD ใช้วัดโมเมนตัมของแนวโน้ม histogram ที่ติดลบแปลว่าแรงขายยังเพิ่มขึ้นอยู่ RSI 14 อยู่ที่ 31.83 RSI เป็นมาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป ตอนนี้จึงใกล้โซนนั้นแต่ยังไม่ถึง ราคาปิดต่ำกว่าเส้นล่างของ Bollinger Band ที่ $103.16 ซึ่งเป็นขอบของความผันผวนปกติ 20 วัน แสดงว่าแรงขายยืดเกินไปแล้ว มักตามมาด้วยการเด้งระยะสั้น แต่ยังไม่ใช่สัญญาณกลับตัว จุดต่ำสุดของวันที่ $100.25 คือจุดต่ำสุดรอบ 52 สัปดาห์ด้วย แนวรับใกล้สุดจึงอยู่แถว $100 ส่วนโซน $115–116 (ราคาปิด 17 พ.ย. และราคาเพิ่มทุน) กลายเป็นแนวต้าน วอลุ่ม 47.3M หุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 42.1M ราว 12% แสดงว่าการลงครั้งนี้มีแรงขายจริง ไม่ใช่แค่ตลาดบาง",
+               "fundamental":  "Oracle มีธุรกิจฐานข้อมูลและแอปพลิเคชันที่ลูกค้าย้ายออกยาก ควบคู่กับคลาวด์ AI ที่โตเร็ว ไตรมาส 1 ปีงบ FY27 (สิ้นสุด 31 ส.ค. รายงาน 10 ก.ย. 2026) รายได้ $19.3B โตราว 30% รายได้ OCI โต 121% เป็น $7.4B RPO แตะ $664B และเป้ารายได้ FY27 ถูกปรับขึ้นเป็นอย่างน้อย $90B แต่การเติบโตนี้มีต้นทุนสูง capex ไตรมาสเดียว $28.5B และกระแสเงินสดอิสระติดลบ ในงาน Investor Day 28 ต.ค. บริษัทยืนเป้า FY30 รายได้ $225B ขึ้นไปและ EPS $21 ขึ้นไป พร้อมจำกัดการระดมทุนใหม่ไว้ที่ $20B แล้วก็ใช้โควตานี้หมดเมื่อ 2 พ.ย. ด่านต่อไปคืองบไตรมาส 2 ที่คาดว่าจะออกราวกลางเดือน ธ.ค. 2026 นักลงทุนจะดูว่า capex เริ่มเปลี่ยนเป็นรายได้และการเผาเงินสดชะลอลงหรือยัง",
+               "news":  [
+                            "28 ต.ค. 2026: งาน Investor Day ยืนยันเป้า FY30 รายได้ $225B ขึ้นไป มาร์จิ้น 40% ขึ้นไป และ EPS $21 ขึ้นไป จำกัดการระดมทุนใหม่ที่ $20B แบ่งหุ้นกับหนี้อย่างละครึ่ง และตั้งเป้ากระแสเงินสดอิสระเป็นบวกในครึ่งหลังของ FY28 หุ้นพุ่งราว 11% ในวันนั้น แต่คืนกำไรหมดภายใน 30 ต.ค. เมื่อหุ้นชิปถูกเทขาย",
+                            "2 พ.ย. 2026: Oracle ขายหุ้นเพิ่มทุน 86.2 ล้านหุ้นที่ $116 ต่ำกว่าราคาปิดก่อนหน้า 11.2% และออกหุ้นกู้ $10B ครบกำหนดปี 2029–2046 คูปอง 7.000–8.650% ปิดดีลทั้งคู่วันที่ 4 พ.ย. วันเดียวกันนั้น Stephens อัปเกรดเป็น Overweight เป้า $213",
+                            "10–13 พ.ย. 2026: Bernstein คงเรตติ้ง Outperform เป้า $325 และประเมินว่าหุ้นยังมีมูลค่าราว $133 แม้ธุรกิจ AI จะล้มเหลว ด้าน DBS ลดเป้าจาก $310 เหลือ $290 และ President Capital ลดเป้าเหลือ $323",
+                            "20 พ.ย. 2026: Oracle ประกาศว่าสัญญา OpenAI ซึ่งครอบคลุมกำลังผลิตเพิ่ม 4.5 GW ในสหรัฐฯ มีเงินทุนครบแล้ว จากการระดมทุนเดือน พ.ย. รวมกับ vendor financing แต่ไม่เปิดเผยว่า vendor financing มีขนาดเท่าไรหรือมาจากใคร หุ้นยังร่วง 8.48% ลงไปที่ $101.19 ต่ำกว่าราคาเพิ่มทุน 12.8% ท่ามกลางการเทขายหุ้นชิป AI"
+                        ],
+               "caution":  "เรื่องนี้เป็นปัญหางบดุลมากกว่าปัญหาความต้องการลูกค้า Oracle ใช้โควตาระดมทุน $20B ที่ตั้งไว้เองหมดแล้ว ถ้าต้องระดมทุนเพิ่มอีกก่อน FY30 ความน่าเชื่อถือของผู้บริหารจะเสียหาย หุ้นกู้ใหม่จ่ายดอกเบี้ยสูงถึง 8.65% สะท้อนว่าเจ้าหนี้มองเห็นความเสี่ยงจริง ภาระเช่าระยะยาวราว $260–288B ผูกพันไว้ไม่ว่าดีมานด์ AI จะเป็นอย่างไร ถ้า OpenAI ชะลอการใช้จ่าย ทั้ง backlog และภาระเช่าจะกลายเป็นปัญหาพร้อมกัน ด้านเทคนิค ถ้าหลุดโซน $100 จะไม่มีแนวรับในช่วงหลังรองรับอยู่ข้างล่างเลย",
+               "opportunity":  "ความคาดหวังของตลาดลดลงมากแล้ว หุ้นซื้อขายต่ำกว่าราคาเพิ่มทุน $116 และใกล้ระดับ $133 ที่ Bernstein ประเมินว่าธุรกิจที่ไม่ใช่ AI อย่างเดียวก็มีมูลค่าเท่านั้น ถ้างบไตรมาส 2 กลางเดือน ธ.ค. แสดงว่า OCI ยังโตเกิน 100% และ capex เริ่มเปลี่ยนเป็นรายได้ เรื่องเล่าว่าบริษัท \u0027มีวิกฤตเงินทุน\u0027 อาจจางลงเร็ว RSI ใกล้ 30 และราคาหลุดใต้เส้นล่าง Bollinger Band บ่งว่าแรงขายระยะสั้นยืดเกินไปแล้ว นักลงทุนระยะยาวจะได้คลาวด์ AI ที่โต 121% โดยมีธุรกิจฐานข้อมูลรองรับอยู่ ในราคาที่ถูกลงมาก",
+               "risks":  [
+                             "พึ่ง OpenAI มากเกินไป: ถ้า OpenAI เลื่อนหรือแก้สัญญา จะกระทบทั้ง backlog และแผนกระแสเงินสด",
+                             "ความเสี่ยงด้านเงินทุน: ถ้าต้องเพิ่มทุนหรือกู้อีกจะเกินเพดาน $20B และทำให้ผู้ถือหุ้นเดิมถูกลดสัดส่วน",
+                             "แรงกดดันด้านเครดิต: ต้นทุนหนี้ 7–8.65% บวกกับความเสี่ยงถูกลดอันดับเครดิต อาจกดมาร์จิ้น",
+                             "การดำเนินงาน: ถ้าการสร้างศูนย์ข้อมูลหรือการส่งมอบ GPU ล่าช้า รายได้จะเลื่อนออกไปขณะที่ค่าเช่ายังเดินอยู่",
+                             "อารมณ์ตลาดต่อกลุ่ม: หุ้น Oracle เคลื่อนไหวเหมือนหุ้น AI-capex ที่มี beta สูง เมื่อหุ้นชิปถูกเทขายก็โดนลากลงไปด้วย"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "Oracle (ORCL) Q1 earnings report 2027",
+                        "publisher":  "CNBC",
+                        "url":  "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
+                        "date":  "2026-09-10"
+                    },
+                    {
+                        "title":  "Oracle Investor Day 2026: Accelerating Value Creation",
+                        "publisher":  "Oracle Investor Relations",
+                        "url":  "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Investor-Day-2026-Accelerating-Value-Creation/default.aspx",
+                        "date":  "2026-10-28"
+                    },
+                    {
+                        "title":  "Oracle Corp Form 8-K (common stock and notes offering)",
+                        "publisher":  "SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001341439/000119312526447507/d131790d8k.htm",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "Oracle says its OpenAI infrastructure contract is fully funded after a final capital raise",
+                        "publisher":  "MLQ.ai",
+                        "url":  "https://mlq.ai/news/oracle-says-its-openai-infrastructure-contract-is-fully-funded-after-a-final-capital-raise/",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Oracle Shares Fall as AI Data-Center Bets Weigh",
+                        "publisher":  "Wisevoter",
+                        "url":  "https://wisevoter.com/world/us/2026/11/21/oracle-shares-fall-ai-data-center-risk",
+                        "date":  "2026-11-21"
+                    },
+                    {
+                        "title":  "Bernstein\u0027s $325 Target Says Oracle\u0027s Selloff Went Too Far",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/bernstein-325-target-says-oracle-154405105.html",
+                        "date":  "2026-11-10"
+                    },
+                    {
+                        "title":  "DBS\u0027s $290 Oracle Target Still Implies 126% Upside, Even After a Cut",
+                        "publisher":  "TIKR",
+                        "url":  "https://www.tikr.com/blog/dbss-290-oracle-target-still-implies-126-upside-even-after-a-cut",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Oracle Shares Edge Lower Despite Fresh Analyst Upgrade",
+                        "publisher":  "Tradingpedia",
+                        "url":  "https://www.tradingpedia.com/2026/11/02/oracle-shares-edge-lower-despite-fresh-analyst-upgrade/",
+                        "date":  "2026-11-02"
+                    }
+                ]
+}

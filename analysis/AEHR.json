@@ -1,0 +1,731 @@
+{
+    "ticker":  "AEHR",
+    "name":  "Aehr Test Systems",
+    "symbol":  "NASDAQ:AEHR",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:03:55Z",
+    "costUsd":  0.597425,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:AEHR",
+                       "yahoo":  "AEHR",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:01:54Z",
+                       "price":  39.84,
+                       "open":  45.88,
+                       "high":  45.95,
+                       "low":  39.3,
+                       "volume":  3870000,
+                       "avgVolume20":  3008360,
+                       "changePct":  -16.9,
+                       "ema50":  68.39,
+                       "ema100":  75.39,
+                       "ema200":  70.94,
+                       "bb":  {
+                                  "upper":  69.74,
+                                  "middle":  56.12,
+                                  "lower":  42.51
+                              },
+                       "macd":  {
+                                    "macd":  -6.93,
+                                    "signal":  -6.38,
+                                    "hist":  -0.55
+                                },
+                       "rsi14":  32.59,
+                       "high52w":  147.4,
+                       "low52w":  18.7,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         114.59
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         116.58
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         98.45
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         95.58
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         94.31
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         93.32
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         103.03
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         108.47
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         115.88
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         104.83
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         112.62
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         115.3
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         113.33
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         102.39
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         95.2
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         98.79
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         91.81
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         94.77
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         96.06
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         84.43
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         69.96
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         72.33
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         66.94
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         67.89
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         76.21
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         72.6
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         68.02
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         72.01
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         87.79
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         84.2
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         81.05
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         77.36
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         98.91
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         93.54
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         88.51
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         76.32
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         77.48
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         70
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         65.4
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         76.87
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         79.98
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         91.71
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         109.89
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         98.78
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         99.74
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         103.07
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         106.2
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         117.18
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         129.23
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         123.3
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         134.06
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         145.61
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         123.25
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         107.96
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         105.97
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         101.73
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         96.43
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         95.59
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         91.12
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         90.46
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         80.81
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         79.27
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         76.59
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         80.24
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         76.27
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         86.26
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         90.79
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         95.56
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         93.81
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         94.69
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         83.37
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         81.58
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         84.25
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         90.55
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         93.49
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         96.93
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         100.6
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         97.38
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         97.42
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         104.39
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         98.49
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         100.78
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         99.62
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         101.6
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         107.21
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         104.4
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         92.14
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         89.37
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         87.21
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         84.64
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         78.18
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         77.51
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         71.49
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         69.21
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         60.6
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         63.33
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         61.99
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         63.88
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         55.65
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         55.31
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         56.6
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         63.95
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         64.54
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         61.21
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         54.89
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         51.47
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         65.11
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         60.84
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         49.16
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         53.57
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         59.81
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         59.57
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         65.78
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         61.04
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         56.98
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         50.98
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         49.74
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         49.48
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         47.94
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         39.84
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          82.51,
+                                          83.84,
+                                          84.42,
+                                          84.85,
+                                          85.23,
+                                          85.54,
+                                          86.23,
+                                          87.1,
+                                          88.23,
+                                          88.88,
+                                          89.81,
+                                          90.81,
+                                          91.69,
+                                          92.11,
+                                          92.23,
+                                          92.49,
+                                          92.46,
+                                          92.56,
+                                          92.69,
+                                          92.37,
+                                          91.49,
+                                          90.74,
+                                          89.81,
+                                          88.95,
+                                          88.45,
+                                          87.82,
+                                          87.05,
+                                          86.46,
+                                          86.51,
+                                          86.42,
+                                          86.21,
+                                          85.86,
+                                          86.37,
+                                          86.66,
+                                          86.73,
+                                          86.32,
+                                          85.97,
+                                          85.35,
+                                          84.56,
+                                          84.26,
+                                          84.09,
+                                          84.39,
+                                          85.39,
+                                          85.92,
+                                          86.46,
+                                          87.11,
+                                          87.86,
+                                          89.01,
+                                          90.59,
+                                          91.87,
+                                          93.52,
+                                          95.57,
+                                          96.65,
+                                          97.1,
+                                          97.44,
+                                          97.61,
+                                          97.57,
+                                          97.49,
+                                          97.24,
+                                          96.97,
+                                          96.34,
+                                          95.67,
+                                          94.92,
+                                          94.35,
+                                          93.64,
+                                          93.35,
+                                          93.25,
+                                          93.34,
+                                          93.36,
+                                          93.41,
+                                          93.02,
+                                          92.57,
+                                          92.24,
+                                          92.17,
+                                          92.23,
+                                          92.41,
+                                          92.73,
+                                          92.91,
+                                          93.09,
+                                          93.53,
+                                          93.73,
+                                          94,
+                                          94.22,
+                                          94.51,
+                                          95.01,
+                                          95.38,
+                                          95.25,
+                                          95.02,
+                                          94.72,
+                                          94.32,
+                                          93.69,
+                                          93.05,
+                                          92.21,
+                                          91.31,
+                                          90.1,
+                                          89.05,
+                                          87.99,
+                                          87.05,
+                                          85.81,
+                                          84.62,
+                                          83.52,
+                                          82.75,
+                                          82.04,
+                                          81.22,
+                                          80.19,
+                                          79.06,
+                                          78.51,
+                                          77.82,
+                                          76.7,
+                                          75.79,
+                                          75.16,
+                                          74.55,
+                                          74.21,
+                                          73.69,
+                                          73.04,
+                                          72.17,
+                                          71.29,
+                                          70.44,
+                                          69.55,
+                                          68.39
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Record quarter, but AEHR falls 16.9% in a chip sell-off and breaks its lower band",
+               "technical":  "The trend is clearly down. AEHR closed at 39.84 USD on 2026-11-20, below all three exponential moving averages (EMAs, smoothed average prices): EMA50 at 68.39, EMA100 at 75.39 and EMA200 at 70.94. The 50-day line has fallen under both longer lines, which shows a strong uptrend that has rolled over. MACD (a trend-momentum gauge) is -6.93, below its signal line at -6.38, with a negative histogram (-0.55), so downside momentum is still building. RSI 14 (a 0–100 momentum gauge where under 30 means oversold) is 32.59, close to oversold but not there yet. Price closed below the lower Bollinger Band (42.51; the bands track normal price swings around the 20-day average of 56.12). That marks an unusually stretched move, and these often see a short bounce, but they can also keep \u0027walking the band\u0027 lower. Volume of 3.87M was about 1.29x the 20-day average, which confirms real selling. The stock is about 73% below its 52-week high of 147.4 and sits in the bottom sixth of its range, above the 18.7 low. The day\u0027s low of 39.3 is the nearest support, and 42.5–45.9 is the first resistance zone.",
+               "fundamental":  "The business is going the opposite way to the share price. On 2026-11-02 Aehr reported record Q1 FY2027 revenue of $33.0M, up 200% year on year. Bookings were $46.7M and backlog was $100.9M ($109.3M effective as of Nov 1). Non-GAAP EPS was $0.28. The company raised its FY2027 revenue guidance to $150M, about triple FY2026, with non-GAAP net income of at least 20% of revenue. On AI, its lead hyperscale customer qualified a second AI processor on Sonoma package-level burn-in, and that customer expects a larger ramp in calendar 2027. A major AI accelerator and CPU supplier bought a full FOX-XP wafer-level test cell for evaluation in Taiwan. The weak spots are cash, which fell to $105.1M from $116.5M, inventory, which rose to $53.1M, and continued reliance on a few customers.",
+               "news":  [
+                            "2026-10-07: Aehr announced about $6M in follow-on Sonoma orders from its lead hyperscale customer for a next-generation AI processor, with production expected to ramp in calendar 2027.",
+                            "2026-11-02: Q1 FY2027 revenue hit a record $33.0M (+200% YoY), backlog reached $100.9M, and FY2027 guidance was raised to $150M. Consensus comparisons differ by source: one says revenue beat, another says it missed a ~$37.7M estimate.",
+                            "Around 2026-11-05: the stock fell about 17% from $60.84 after Jefferies cut its target from $175 to $140 and Lake Street from $110 to $90. Both kept Buy ratings.",
+                            "2026-11-20: shares fell 16.9% to 39.84 with no company-specific news. The move was part of a broad semiconductor sell-off that also hit Micron, AMD and Onto Innovation. AEHR\u0027s beta is roughly 3.4, meaning it typically moves about three times as much as the market."
+                        ],
+               "caution":  "AEHR is a very high-beta stock (beta about 3.4) and has lost about 73% from its 52-week high, even as fundamentals improved. That tells you sentiment and sector flows, not quarterly results, are setting the price right now. A large share of revenue still depends on one hyperscaler and one wafer-level AI customer, and customer forecasts are non-binding. The FOX-XP production decision from the new AI processor supplier is not expected until several months after installation in early 2027. Any delay or loss there would hit expectations hard. Inventory growth and cash burn also need watching.",
+               "opportunity":  "The company is delivering: revenue tripled year on year, guidance went up, and there is a $100M+ backlog to support it. The stock trades at 39.84 USD on 2026-11-20, near the low end of its range, while RSI is close to oversold and price sits below the lower Bollinger Band. If the semiconductor sell-off eases, a stretched move like this can mean-revert toward the 20-day average of 56.12. Longer term, the potential FOX-XP win and the hyperscaler\u0027s second AI processor ramp in 2027 could widen the customer base beyond the current concentration.",
+               "risks":  [
+                             "Customer concentration: one hyperscaler and one wafer-level AI customer drive most of the AI revenue.",
+                             "The FOX-XP evaluation may not convert into a high-volume production order.",
+                             "Extreme volatility (beta about 3.4) and sector-wide semiconductor sell-offs.",
+                             "Inventory rose to $53.1M and cash fell to $105.1M, so execution risk is rising.",
+                             "Silicon-carbide demand remains weak, and the company has exposure to Taiwan and geopolitics."
+                         ],
+               "summary":  "AEHR\u0027s chart is bearish. Price is below all three EMAs, MACD is negative, and the stock closed below the lower Bollinger Band on above-average volume after a 16.9% drop on 2026-11-20. The news does not explain the selling: the 2026-11-02 quarter set a record and guidance went up. The decline reflects analyst target cuts and a sector-wide chip sell-off on a high-beta stock. The niche-burn-in moat thesis is intact, and its AI customer pipeline is widening. The key test is whether the FOX-XP evaluation turns into production orders in 2027."
+           },
+    "th":  {
+               "headline":  "ผลงานทำสถิติใหม่ แต่ AEHR ร่วง 16.9% ตามกลุ่มชิป หลุดกรอบล่าง BB",
+               "technical":  "แนวโน้มเป็นขาลงชัดเจน ราคาปิดวันที่ 20 พ.ย. 2026 ที่ 39.84 USD ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA หรือราคาเฉลี่ยที่ถ่วงน้ำหนักราคาล่าสุด) ทั้งสามเส้น คือ EMA50 ที่ 68.39, EMA100 ที่ 75.39 และ EMA200 ที่ 70.94 เส้น EMA50 หักลงมาอยู่ใต้เส้นระยะยาวทั้งสองแล้ว แปลว่าขาขึ้นแรงก่อนหน้านี้กลับตัวลง MACD (ตัววัดโมเมนตัมของเทรนด์) อยู่ที่ -6.93 ต่ำกว่าเส้นสัญญาณที่ -6.38 และฮิสโตแกรมติดลบ -0.55 โมเมนตัมขาลงจึงยังไม่จบ RSI 14 (มาตรวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 32.59 ใกล้โซน oversold แต่ยังไม่ถึง ราคาปิดต่ำกว่าเส้นล่างของ Bollinger Band (42.51 ส่วนเส้นกลางคือค่าเฉลี่ย 20 วันที่ 56.12) ถือว่ายืดตัวผิดปกติ บ่อยครั้งจะเด้งสั้นๆ แต่ก็อาจไหลเกาะขอบล่างลงต่อได้ วอลุ่ม 3.87 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันราว 1.29 เท่า ยืนยันว่าแรงขายเป็นของจริง ราคาต่ำกว่าจุดสูงสุด 52 สัปดาห์ (147.4) ราว 73% และอยู่ช่วงล่างสุดของกรอบ เหนือจุดต่ำ 18.7 แนวรับใกล้สุดคือ 39.3 (low ของวัน) ส่วนแนวต้านแรกอยู่ช่วง 42.5–45.9",
+               "fundamental":  "ธุรกิจกำลังเดินสวนทางกับราคาหุ้น วันที่ 2 พ.ย. 2026 Aehr รายงานรายได้ Q1 FY2027 ทำสถิติใหม่ที่ 33.0 ล้านดอลลาร์ โต 200% จากปีก่อน ยอดสั่งซื้อใหม่ 46.7 ล้าน backlog 100.9 ล้าน (รวมออร์เดอร์หลังปิดไตรมาสเป็น 109.3 ล้าน ณ 1 พ.ย.) EPS non-GAAP อยู่ที่ 0.28 ดอลลาร์ บริษัทปรับเป้ารายได้ FY2027 ขึ้นเป็น 150 ล้าน หรือราว 3 เท่าของปีก่อน และคาดกำไรสุทธิ non-GAAP ไม่ต่ำกว่า 20% ของรายได้ ฝั่ง AI ลูกค้า hyperscaler รายหลักผ่านการรับรองชิป AI ตัวที่สองบนระบบ Sonoma (burn-in ระดับแพ็กเกจ) และคาดว่าจะผลิตจำนวนมากกว่าเดิมในปี 2027 ส่วนผู้ผลิตชิป AI accelerator และ CPU รายใหญ่ซื้อ FOX-XP (burn-in ระดับเวเฟอร์) ครบชุดไปทดสอบที่ไต้หวัน จุดอ่อนคือเงินสดลดจาก 116.5 เหลือ 105.1 ล้าน สินค้าคงคลังเพิ่มเป็น 53.1 ล้าน และยังพึ่งลูกค้าไม่กี่ราย",
+               "news":  [
+                            "7 ต.ค. 2026: Aehr ได้ออร์เดอร์ Sonoma เพิ่มราว 6 ล้านดอลลาร์จากลูกค้า hyperscaler รายหลัก สำหรับชิป AI รุ่นถัดไป คาดเริ่มผลิตจำนวนมากในปี 2027",
+                            "2 พ.ย. 2026: รายได้ Q1 FY2027 ทำสถิติ 33.0 ล้านดอลลาร์ (+200% YoY) backlog 100.9 ล้าน และปรับเป้ารายได้ทั้งปีขึ้นเป็น 150 ล้าน แต่การเทียบกับประมาณการตลาดไม่ตรงกัน บางแหล่งว่าชนะ บางแหล่งว่าต่ำกว่าคาดราว 37.7 ล้าน",
+                            "ราว 5 พ.ย. 2026: หุ้นร่วงราว 17% จาก 60.84 ดอลลาร์ หลัง Jefferies ลดราคาเป้าจาก 175 เหลือ 140 และ Lake Street ลดจาก 110 เหลือ 90 ดอลลาร์ ทั้งสองยังให้คำแนะนำ Buy",
+                            "20 พ.ย. 2026: หุ้นดิ่ง 16.9% เหลือ 39.84 โดยไม่มีข่าวเฉพาะของบริษัท เป็นการขายทั้งกลุ่มเซมิคอนดักเตอร์ ซึ่งฉุด Micron, AMD และ Onto Innovation ลงแรงด้วย ค่า beta ของ AEHR ราว 3.4 หมายถึงปกติแกว่งแรงกว่าตลาดราว 3 เท่า"
+                        ],
+               "caution":  "AEHR เป็นหุ้น beta สูงมาก (ราว 3.4) และร่วงจากจุดสูงสุดรอบปีไปราว 73% ทั้งที่งบการเงินดีขึ้น แปลว่าตอนนี้ราคาถูกกำหนดด้วยอารมณ์ตลาดและเงินที่ไหลเข้าออกกลุ่มชิปมากกว่าผลประกอบการ รายได้ AI ส่วนใหญ่ยังมาจาก hyperscaler หนึ่งรายและลูกค้าเวเฟอร์อีกหนึ่งราย และประมาณการของลูกค้าไม่มีผลผูกพัน การตัดสินใจสั่งผลิตจริงของ FOX-XP จากลูกค้าชิป AI รายใหม่จะเกิดขึ้นหลายเดือนหลังติดตั้งต้นปี 2027 หากล่าช้าหรือไม่ได้งาน ความคาดหวังจะถูกกระทบหนัก นอกจากนี้ควรจับตาสต็อกสินค้าที่พองขึ้นและการใช้เงินสด",
+               "opportunity":  "ฝั่งธุรกิจกำลังส่งมอบผลงานจริง รายได้โต 3 เท่าจากปีก่อน เป้าทั้งปีถูกปรับขึ้น และมี backlog กว่า 100 ล้านดอลลาร์รองรับ ราคาวันที่ 20 พ.ย. 2026 ที่ 39.84 ดอลลาร์อยู่ใกล้ขอบล่างของกรอบรอบปี RSI ใกล้โซนขายมากเกินไป และราคาอยู่ใต้กรอบล่าง Bollinger หากแรงเทขายกลุ่มชิปผ่อนลง การยืดตัวขนาดนี้มักดีดกลับเข้าหาค่าเฉลี่ย 20 วัน (56.12) ได้ ในระยะยาว หากได้งานผลิต FOX-XP จริง และชิป AI ตัวที่สองของ hyperscaler เข้าสู่การผลิตในปี 2027 ฐานลูกค้าจะกว้างขึ้นและลดการกระจุกตัวในปัจจุบัน",
+               "risks":  [
+                             "ลูกค้ากระจุกตัว: hyperscaler หนึ่งรายและลูกค้าเวเฟอร์ AI อีกหนึ่งรายเป็นแหล่งรายได้ AI หลัก",
+                             "การทดสอบ FOX-XP อาจไม่กลายเป็นออร์เดอร์ผลิตจำนวนมาก",
+                             "ราคาผันผวนสูงมาก (beta ราว 3.4) และเสี่ยงต่อแรงเทขายทั้งกลุ่มเซมิคอนดักเตอร์",
+                             "สินค้าคงคลังเพิ่มเป็น 53.1 ล้าน และเงินสดลดเหลือ 105.1 ล้าน ความเสี่ยงด้านการบริหารจัดการจึงสูงขึ้น",
+                             "ตลาด silicon carbide ยังอ่อนแอ และบริษัทมีความเสี่ยงด้านภูมิรัฐศาสตร์ไต้หวัน"
+                         ],
+               "summary":  "กราฟ AEHR อยู่ในภาวะขาลง ราคาต่ำกว่า EMA ทั้งสามเส้น MACD ติดลบ และราคาปิดหลุดกรอบล่าง Bollinger พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย หลังร่วง 16.9% เมื่อ 20 พ.ย. 2026 ข่าวไม่ได้อธิบายแรงขายนี้ เพราะไตรมาสที่ประกาศเมื่อ 2 พ.ย. ทำสถิติใหม่และเป้าทั้งปีถูกปรับขึ้น ที่ร่วงเป็นผลจากนักวิเคราะห์ลดราคาเป้าและการเทขายทั้งกลุ่มชิป ซึ่งกระทบหุ้น beta สูงตัวนี้แรงเป็นพิเศษ ข้อสันนิษฐานเรื่องความได้เปรียบเชิงเทคโนโลยี burn-in ยังคงอยู่ และฐานลูกค้า AI เริ่มกว้างขึ้น จุดชี้ขาดคือ FOX-XP จะกลายเป็นออร์เดอร์ผลิตจริงในปี 2027 หรือไม่"
+           },
+    "sources":  [
+                    {
+                        "title":  "Aehr Test Systems Reports Record First Quarter Fiscal 2027 Revenue of $33.0 Million; Raises Full-Year Revenue Outlook to $150 Million, Triple Fiscal 2026 Revenue",
+                        "publisher":  "Aehr Test Systems",
+                        "url":  "https://www.aehr.com/2026/11/aehr-test-systems-reports-record-first-quarter-fiscal-2027-revenue-of-33-0-million-raises-full-year-revenue-outlook-to-150-million-triple-fiscal-2026-revenue/",
+                        "date":  "2026-11-02"
+                    },
+                    {
+                        "title":  "Aehr test systems raises FY27 revenue outlook to $150M",
+                        "publisher":  "StockTitan",
+                        "url":  "https://www.stocktitan.net/news/AEHR/aehr-test-systems-reports-record-first-quarter-fiscal-2027-revenue-57354qt0agbe.html",
+                        "date":  "2026-11-02"
+                    },
+                    {
+                        "title":  "Aehr Receives Follow-On Sonoma Production Orders for Lead Hyperscale Customer\u0027s Next-Generation AI Processor",
+                        "publisher":  "Aehr Test Systems",
+                        "url":  "https://www.aehr.com/2026/10/aehr-receives-follow-on-sonoma-production-orders-for-lead-hyperscale-customer-s-next-generation-ai-processor/",
+                        "date":  "2026-10-07"
+                    },
+                    {
+                        "title":  "Aehr Test Systems Reports $33 Million Revenue in Q1 Fiscal 2027, Beating EPS Estimates but Missing Revenue Expectations",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9163163/aehr-test-systems-reports-33-million-revenue-in-q1-fiscal-2027-beating-eps-estimates-but-missing-revenue-expectations",
+                        "date":  "2026-11-02"
+                    },
+                    {
+                        "title":  "Aehr Test Systems (NASDAQ:AEHR) Shares Down 17.4% - Here\u0027s What Happened",
+                        "publisher":  "MarketBeat",
+                        "url":  "https://www.marketbeat.com/instant-alerts/price-aehr-test-systems-nasdaq-aehr-shares-down-174-heres-what-happened-2026-11-05/",
+                        "date":  "2026-11-05"
+                    },
+                    {
+                        "title":  "Aehr Test Systems (NASDAQ:AEHR) Shares Down 10.2% - Here\u0027s Why",
+                        "publisher":  "MarketBeat",
+                        "url":  "https://www.marketbeat.com/instant-alerts/price-aehr-test-systems-nasdaq-aehr-shares-down-102-heres-why-2026-11-20/",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Why Are Aehr Test Systems (NASDAQ:AEHR) Shares Down 16% Despite Record Revenue and Raised Guidance?",
+                        "publisher":  "Kalkine Media",
+                        "url":  "https://kalkine.ca/news/technology/why-are-aehr-test-systems-nasdaqaehr-shares-down-16-despite-record-revenue-and-raised-guidance",
+                        "date":  "2026-11-20"
+                    }
+                ]
+}

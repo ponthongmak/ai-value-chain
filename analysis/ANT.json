@@ -1,0 +1,167 @@
+{
+    "ticker":  "ANT",
+    "name":  "Anthropic",
+    "symbol":  "NASDAQ:ANT",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:40:14Z",
+    "costUsd":  0.7194418,
+    "stance":  "neutral",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:ANT",
+                       "yahoo":  "ANT",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:37:34Z",
+                       "price":  88.91,
+                       "open":  89.86,
+                       "high":  92.56,
+                       "low":  83.05,
+                       "volume":  399561400,
+                       "avgVolume20":  628436850,
+                       "changePct":  -8.5,
+                       "historyDays":  2,
+                       "ema50":  null,
+                       "ema100":  null,
+                       "ema200":  null,
+                       "bb":  null,
+                       "macd":  null,
+                       "rsi14":  null,
+                       "high52w":  115.1,
+                       "low52w":  83.05,
+                       "spark":  [
+                                     [
+                                         "2026-11-19",
+                                         97.17
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         88.91
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          null,
+                                          null
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Record IPO fades: ANT slides 8.5% on day two, holding above $83",
+               "summary":  "Anthropic listed on Nasdaq on 19 Nov 2026 after pricing a record $81.3B IPO at $83. Shares opened at $111.50 and closed day one at $97.17. On 20 Nov they fell 8.5% to $88.91 as an Nvidia-led AI selloff hit the market, and the intraday low of $83.05 nearly touched the offer price. The S-1 shows Q3 revenue of about $17B (up ~12x) and an ~$81B run-rate. It also shows a $1.26B nine-month operating loss and lock-ups that release shares in stages. Two days of trading are not enough to show a trend.",
+               "pros":  [
+                            "Q3 2026 revenue was about $17B, roughly 12x a year earlier, driven largely by Claude Code.",
+                            "Run-rate revenue reached about $81B at end-October, up $10B in a single month.",
+                            "Google, Microsoft, Nvidia and AMD committed $26B as anchor buyers at $83.",
+                            "The $83 IPO price held as support on 20 Nov, with a low of $83.05.",
+                            "Nasdaq will consider fast-track Nasdaq-100 entry in December, which could bring index-fund buying."
+                        ],
+               "cons":  [
+                            "Analysts reading the S-1 estimate about 1.6B shares could unlock within 76 days, more than the ~1.127B sold in the IPO.",
+                            "The nine-month operating loss was $1.26B, and the $104B net loss came mostly from fair-value changes on convertible notes and derivatives.",
+                            "After two straight down sessions, the price is about 23% below the $115.10 day-one high.",
+                            "The business depends on compute from Nvidia, which faces a reported SEC accounting probe, and from Google, Amazon and AMD.",
+                            "At roughly $1.5–1.75T fully diluted, the valuation leaves little room for any growth slowdown."
+                        ],
+               "opportunityCheck":  "The scores look mostly right. Maximum exposure and market growth fit a pure-play model maker that gets 79% of revenue from usage fees. I would raise position: ~12x Q3 growth and an $81B run-rate suggest Anthropic leads enterprise and coding demand rather than following it. Bottleneck at 10 is fair, maybe generous. Anthropic buys compute from Nvidia, Google, Amazon and AMD, lost $1.26B at the operating level over nine months, and keeps pricing power only while it stays ahead of OpenAI and Google. Optionality at 17 fits.",
+               "technical":  "With only two trading days, EMA 50/100/200, Bollinger Bands, MACD and RSI 14 (a 0–100 momentum gauge) are all null. There is no trend to read yet, so this is only about price levels. On 19 Nov the stock opened at $111.50, hit the 52-week high of $115.10 and closed at $97.17. On 20 Nov it opened at $89.86, traded between $92.56 and $83.05, and closed at $88.91, down 8.5%. The $83.05 low is also the 52-week low and sits just above the $83 IPO price, the first support. Buyers defended it, and the close was $5.86 off the low. Resistance is $92.56 (the day-two high), then $97.17 (the day-one close). Volume was 399.6M shares against a 628.4M average. That average covers only the two sessions, so day two traded far lighter than the debut: steady selling, not panic. Two lower closes make the short-term tone weak, but the overall posture stays neutral until real indicators exist. RSI 14 needs about three more weeks of data.",
+               "fundamental":  "Anthropic is the model layer of the AI value chain. It rents GPUs and TPUs from Nvidia, Google, Amazon and AMD and sells Claude through its API, apps, Claude Code and cloud marketplaces. The amended S-1 shows nine-month 2026 revenue of $33.24B, up ~1,200%, with Q3 about $17B; 79% came from usage fees and 21% from subscriptions. Run-rate revenue was ~$81B at end-October. The operating loss was a modest $1.26B over nine months, while most of the $104B net loss is non-cash fair-value changes. The IPO raised $81.3B in the base deal and about 1.127B shares were sold including the over-allotment, mainly to fund compute. Open questions are customer concentration, compute costs, OpenAI (IPO likely 2027) and Google, and the company\u0027s two 2026 disputes with the US government.",
+               "news":  [
+                            "18 Nov 2026: Anthropic priced 980M shares at $83, above the raised $70–78 range, raising $81.3B in the largest IPO on record. Google, Microsoft, Nvidia and AMD committed $26B as anchor investors.",
+                            "19 Nov: ANT opened at $111.50 (+34%), touched about $115 and closed at $97.17 (+17%), a market cap of roughly $1.28T on basic shares.",
+                            "20 Nov: The stock fell 8.5% to $88.91 as an AI selloff hit Nvidia (down ~11–14% amid a reported SEC accounting probe) and pushed the S\u0026P 500 into correction. The $83.05 low held above the IPO price.",
+                            "20 Nov: Anthropic closed the IPO, and the underwriters bought all 147M over-allotment shares, bringing the total sold to about 1.127B.",
+                            "Lock-up: analysts reading the S-1 say up to 316M insider shares could be sold from day one and about 1.6B by day 76. A larger tranche follows full-year 2026 results, likely in January.",
+                            "Nasdaq said ANT will be assessed for fast-track Nasdaq-100 entry after its seventh trading day, in time for the December reconstitution."
+                        ],
+               "caution":  "Disclosure: Claude, an AI model made by Anthropic, wrote this analysis. That is a potential conflict of interest, so check it against independent sources. Two trading days are too few for technical signals. The staged lock-up, up to ~1.6B shares by day 76 and more after January results, can push the price down whatever the fundamentals. Carson Group says large IPOs have averaged a 55% maximum drawdown in their first year. A close below $83 would leave IPO buyers underwater and remove the first support.",
+               "opportunity":  "For a long-term AI-infrastructure holder, ANT is the first listed pure-play frontier model maker with disclosed numbers: ~$17B Q3 revenue growing ~12x and an $81B run-rate. The $83 IPO price, backed by $26B of anchor orders from Google, Microsoft, Nvidia and AMD, is a clear reference level. Nasdaq-100 inclusion in December could add passive buying. The lock-up release dates and the first quarterly report as a public company will show whether growth and margins hold.",
+               "risks":  [
+                             "Lock-up releases through day 76, with a larger tranche after FY2026 results (likely January).",
+                             "Compute dependence on Nvidia, which faces a reported SEC accounting probe, and on Google, Amazon and AMD; higher rates could strain data-center financing.",
+                             "Price pressure from OpenAI, Google and cheaper open-weight models.",
+                             "Regulatory and US-government friction (two disputes in 2026) and a prospectus with 90+ pages of risk factors.",
+                             "A fully diluted valuation of ~$1.5T+ and possible customer concentration."
+                         ]
+           },
+    "th":  {
+               "headline":  "IPO ใหญ่สุดเป็นประวัติการณ์ วันที่สองร่วง 8.5% แต่ยังยืนเหนือ $83",
+               "summary":  "Anthropic เข้าซื้อขายใน Nasdaq เมื่อ 19 พ.ย. 2026 หลังตั้งราคา IPO ที่ $83 และระดมทุนได้ $81.3B สูงที่สุดเป็นประวัติการณ์ วันแรกเปิดที่ $111.50 และปิดที่ $97.17 วันที่ 20 พ.ย. ราคาร่วง 8.5% มาปิดที่ $88.91 ตามแรงเทขายหุ้น AI ที่มี Nvidia นำลง จุดต่ำสุดระหว่างวันอยู่ที่ $83.05 เกือบแตะราคา IPO เอกสาร S-1 แสดงรายได้ไตรมาส 3 ราว $17B (โตราว 12 เท่า) และ run-rate ราว $81B แต่ 9 เดือนแรกยังขาดทุนจากการดำเนินงาน $1.26B และมีหุ้นทยอยปลด lock-up ข้อมูลราคาเพียง 2 วันยังบอกแนวโน้มไม่ได้",
+               "pros":  [
+                            "รายได้ไตรมาส 3/2026 ราว $17B โตราว 12 เท่าจากปีก่อน ส่วนใหญ่มาจาก Claude Code",
+                            "run-rate รายได้ ณ สิ้นเดือน ต.ค. อยู่ที่ราว $81B เพิ่มขึ้น $10B ในเดือนเดียว",
+                            "Google, Microsoft, Nvidia และ AMD รับปากซื้อหุ้นรวม $26B ที่ราคา $83",
+                            "ราคา IPO $83 ทำหน้าที่เป็นแนวรับได้ในวันที่ 20 พ.ย. โดยต่ำสุดอยู่ที่ $83.05",
+                            "Nasdaq จะพิจารณาเข้า Nasdaq-100 แบบเร่งด่วนในเดือน ธ.ค. ซึ่งอาจดึงแรงซื้อจากกองทุนดัชนี"
+                        ],
+               "cons":  [
+                            "นักวิเคราะห์ที่อ่าน S-1 ประเมินว่าหุ้นราว 1.6B หุ้นอาจปลด lock-up ภายใน 76 วัน มากกว่าจำนวนที่ขายใน IPO ราว 1.127B หุ้น",
+                            "9 เดือนแรกขาดทุนจากการดำเนินงาน $1.26B และขาดทุนสุทธิ $104B ซึ่งส่วนใหญ่มาจากการปรับมูลค่ายุติธรรมของหุ้นกู้แปลงสภาพและตราสารอนุพันธ์",
+                            "ราคาลงติดกัน 2 วันจนต่ำกว่าจุดสูงสุดวันแรกที่ $115.10 ราว 23%",
+                            "ธุรกิจต้องพึ่งพลังประมวลผลจาก Nvidia ซึ่งมีรายงานว่าถูก SEC สอบสวนเรื่องบัญชี รวมถึง Google, Amazon และ AMD",
+                            "มูลค่าแบบ fully diluted ราว $1.5–1.75T แทบไม่เหลือที่ให้การเติบโตชะลอลง"
+                        ],
+               "opportunityCheck":  "คะแนนโดยรวมสมเหตุสมผล exposure และ market growth ที่เต็ม 20 เหมาะกับผู้พัฒนาโมเดลล้วนๆ ที่ได้รายได้ 79% จากค่าใช้งาน ข้อที่ผมจะปรับขึ้นคือ position เพราะรายได้ไตรมาส 3 ที่โตราว 12 เท่าและ run-rate $81B บ่งว่า Anthropic เป็นผู้นำตลาดองค์กรและงานเขียนโค้ด ไม่ใช่ผู้ตาม ส่วน bottleneck ที่ 10 ถือว่าพอดีหรืออาจให้สูงไปด้วยซ้ำ เพราะบริษัทเป็นผู้ซื้อพลังประมวลผลจาก Nvidia, Google, Amazon และ AMD ขาดทุนจากการดำเนินงาน $1.26B ใน 9 เดือน และจะมีอำนาจตั้งราคาก็ต่อเมื่อยังนำ OpenAI และ Google อยู่ ส่วน optionality ที่ 17 เหมาะสมแล้ว",
+               "technical":  "หุ้นเพิ่งเทรดได้ 2 วัน ค่า EMA 50/100/200, Bollinger Bands, MACD และ RSI 14 (ตัววัดโมเมนตัม 0–100) จึงยังเป็น null ทั้งหมด ยังอ่านแนวโน้มไม่ได้ ตอนนี้ดูได้แค่ระดับราคา วันที่ 19 พ.ย. เปิดที่ $111.50 ขึ้นไปทำจุดสูงสุด 52 สัปดาห์ที่ $115.10 แล้วปิดที่ $97.17 วันที่ 20 พ.ย. เปิดที่ $89.86 แกว่งระหว่าง $92.56 ถึง $83.05 และปิดที่ $88.91 ลดลง 8.5% จุดต่ำ $83.05 ซึ่งเป็นจุดต่ำสุด 52 สัปดาห์ด้วย อยู่เหนือราคา IPO $83 เพียงเล็กน้อย ราคา IPO จึงเป็นแนวรับแรก ผู้ซื้อเข้ามารับไว้จนราคาปิดสูงกว่าจุดต่ำ $5.86 แนวต้านอยู่ที่ $92.56 (สูงสุดวันที่สอง) และ $97.17 (ราคาปิดวันแรก) วอลุ่มวันที่สองอยู่ที่ 399.6M หุ้น เทียบกับค่าเฉลี่ย 628.4M ซึ่งตอนนี้คิดจากแค่ 2 วัน แปลว่าซื้อขายเบากว่าวันเปิดตัวมาก เป็นแรงขายต่อเนื่องแต่ยังไม่ใช่การเทขายตื่นตระหนก ระยะสั้นโทนอ่อนจากราคาปิดต่ำลง 2 วันติด แต่ภาพรวมยังเป็นกลางจนกว่าอินดิเคเตอร์จะมีข้อมูลพอ RSI 14 ต้องรออีกราว 3 สัปดาห์",
+               "fundamental":  "Anthropic อยู่ชั้นโมเดลของห่วงโซ่คุณค่า AI บริษัทเช่า GPU และ TPU จาก Nvidia, Google, Amazon และ AMD แล้วขาย Claude ผ่าน API แอป Claude Code และ marketplace ของคลาวด์ S-1 ฉบับแก้ไขแสดงรายได้ 9 เดือนแรกของปี 2026 ที่ $33.24B โตราว 1,200% ไตรมาส 3 อยู่ที่ราว $17B รายได้ 79% มาจากค่าใช้งานและ 21% จากค่าสมาชิก run-rate ณ สิ้นเดือน ต.ค. อยู่ที่ราว $81B ขาดทุนจากการดำเนินงาน 9 เดือนแค่ $1.26B ส่วนขาดทุนสุทธิ $104B ส่วนใหญ่เป็นรายการปรับมูลค่าที่ไม่ใช่เงินสด IPO ระดมทุนได้ $81.3B ในดีลหลัก และขายหุ้นรวมราว 1.127B หุ้นเมื่อนับ over-allotment แล้ว เงินส่วนใหญ่จะใช้ซื้อพลังประมวลผล ประเด็นที่ยังต้องติดตามคือการพึ่งลูกค้ารายใหญ่ ต้นทุนประมวลผล การแข่งขันกับ OpenAI (คาดว่าจะ IPO ในปี 2027) และ Google รวมถึงข้อพิพาทกับรัฐบาลสหรัฐฯ 2 ครั้งในปี 2026",
+               "news":  [
+                            "18 พ.ย. 2026: Anthropic ตั้งราคาขาย 980M หุ้นที่ $83 สูงกว่ากรอบ $70–78 ที่ปรับขึ้นแล้ว ระดมทุนได้ $81.3B เป็น IPO ใหญ่ที่สุดเป็นประวัติการณ์ Google, Microsoft, Nvidia และ AMD รับปากลงทุนรวม $26B ในฐานะนักลงทุนหลัก",
+                            "19 พ.ย.: ANT เปิดที่ $111.50 (+34%) ขึ้นไปแตะราว $115 แล้วปิดที่ $97.17 (+17%) มาร์เก็ตแคปราว $1.28T เมื่อนับเฉพาะหุ้นที่ออกแล้ว",
+                            "20 พ.ย.: ราคาร่วง 8.5% มาที่ $88.91 ตามแรงเทขายหุ้น AI ที่ทุบ Nvidia ลงราว 11–14% ท่ามกลางข่าวการสอบสวนบัญชีโดย SEC และดัน S\u0026P 500 เข้าเขตปรับฐาน จุดต่ำ $83.05 ยังอยู่เหนือราคา IPO",
+                            "20 พ.ย.: Anthropic ปิดการเสนอขาย IPO โดยผู้จัดจำหน่ายซื้อหุ้น over-allotment ครบทั้ง 147M หุ้น ทำให้ยอดขายรวมอยู่ที่ราว 1.127B หุ้น",
+                            "Lock-up: นักวิเคราะห์ที่อ่าน S-1 ระบุว่าหุ้นของคนในบริษัทขายได้สูงสุด 316M หุ้นตั้งแต่วันแรก และสะสมราว 1.6B หุ้นภายในวันที่ 76 ก้อนใหญ่กว่านั้นจะตามมาหลังงบทั้งปี 2026 ซึ่งน่าจะออกในเดือน ม.ค.",
+                            "Nasdaq แจ้งว่าจะพิจารณา ANT เข้า Nasdaq-100 แบบเร่งด่วนหลังวันซื้อขายที่ 7 เพื่อให้ทันการปรับดัชนีเดือน ธ.ค."
+                        ],
+               "caution":  "ข้อควรทราบ: บทวิเคราะห์นี้เขียนโดย Claude ซึ่งเป็นโมเดล AI ของ Anthropic เอง จึงอาจมีผลประโยชน์ทับซ้อน ควรตรวจสอบกับแหล่งข้อมูลอิสระด้วย ข้อมูลซื้อขาย 2 วันน้อยเกินกว่าจะให้สัญญาณทางเทคนิค การปลด lock-up เป็นระยะ ราว 1.6B หุ้นภายในวันที่ 76 และเพิ่มอีกหลังงบเดือน ม.ค. อาจกดราคาได้ไม่ว่าพื้นฐานจะดีแค่ไหน Carson Group ระบุว่า IPO ขนาดใหญ่ร่วงลงจากจุดสูงสุดเฉลี่ย 55% ในปีแรก หากราคาปิดต่ำกว่า $83 ผู้ซื้อ IPO จะขาดทุนและแนวรับแรกจะหายไป",
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI นี่คือครั้งแรกที่มีหุ้นผู้พัฒนาโมเดลระดับแนวหน้าล้วนๆ จดทะเบียนพร้อมตัวเลขเปิดเผย ได้แก่รายได้ไตรมาส 3 ราว $17B ที่โตราว 12 เท่า และ run-rate $81B ราคา IPO $83 ซึ่งมีคำสั่งซื้อ $26B จาก Google, Microsoft, Nvidia และ AMD หนุนอยู่ เป็นระดับอ้างอิงที่ชัดเจน การเข้า Nasdaq-100 ในเดือน ธ.ค. อาจเพิ่มแรงซื้อจากกองทุนดัชนี วันปลด lock-up และงบไตรมาสแรกหลังเข้าตลาดจะบอกได้ว่าการเติบโตและมาร์จิ้นไปต่อได้หรือไม่",
+               "risks":  [
+                             "หุ้นปลด lock-up ต่อเนื่องถึงวันที่ 76 และก้อนใหญ่กว่านั้นหลังงบปี 2026 (น่าจะเดือน ม.ค.)",
+                             "พึ่งพลังประมวลผลจาก Nvidia ซึ่งมีรายงานว่าถูก SEC สอบสวนเรื่องบัญชี และจาก Google, Amazon, AMD ขณะที่ดอกเบี้ยขาขึ้นอาจกระทบการระดมทุนสร้างดาต้าเซ็นเตอร์",
+                             "แรงกดดันด้านราคาจาก OpenAI, Google และโมเดล open-weight ที่ถูกกว่า",
+                             "ความขัดแย้งด้านกฎระเบียบกับรัฐบาลสหรัฐฯ (2 ครั้งในปี 2026) และหนังสือชี้ชวนที่มีปัจจัยเสี่ยงยาวกว่า 90 หน้า",
+                             "มูลค่าแบบ fully diluted ราว $1.5T ขึ้นไป และความเสี่ยงจากการพึ่งลูกค้ารายใหญ่"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "Anthropic prices initial public offering",
+                        "publisher":  "Anthropic",
+                        "url":  "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+                        "date":  "2026-11-18"
+                    },
+                    {
+                        "title":  "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+                        "publisher":  "CNBC",
+                        "url":  "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+                        "date":  "2026-11-18"
+                    },
+                    {
+                        "title":  "Anthropic IPO live updates: ANT stock price and Nasdaq debut",
+                        "publisher":  "CNBC",
+                        "url":  "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+                        "date":  "2026-11-19"
+                    },
+                    {
+                        "title":  "Anthropic IPO live: Anthropic stock drops after first day of trading",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/technology/live/anthropic-ipo-live-company-said-to-price-stock-at-83-begin-trading-thursday-212656452.html",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Nvidia shares plunge as Anthropic can\u0027t stop the AI selloff",
+                        "publisher":  "Axios",
+                        "url":  "https://www.axios.com/2026/11/20/anthropic-ipo-nvidia-ai-tech-selloff",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Anthropic\u0027s Lock-Ups Free \"Nearly 40% of the Deal\" on Day One. That\u0027s a Big Risk for Alphabet and Amazon",
+                        "publisher":  "TIKR",
+                        "url":  "https://www.tikr.com/blog/anthropics-lock-ups-free-nearly-40-of-the-deal-on-day-one-thats-a-big-risk-for-alphabet-and-amazon"
+                    },
+                    {
+                        "title":  "Anthropic stock completes IPO as Nasdaq trading begins",
+                        "publisher":  "ad-hoc-news",
+                        "url":  "https://www.ad-hoc-news.de/boerse/news/corporate-news/anthropic-stock-completes-ipo-as-nasdaq-trading-begins/70541864",
+                        "date":  "2026-11-20"
+                    }
+                ]
+}

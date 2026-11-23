@@ -1,0 +1,762 @@
+{
+    "ticker":  "MU",
+    "name":  "Micron Technology",
+    "symbol":  "NASDAQ:MU",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T06:03:38Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:MU",
+                       "yahoo":  "MU",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:58:29Z",
+                       "price":  594.51,
+                       "open":  665.46,
+                       "high":  669,
+                       "low":  585.25,
+                       "volume":  59094000,
+                       "avgVolume20":  33768915,
+                       "changePct":  -13.89,
+                       "historyDays":  501,
+                       "ema50":  856.79,
+                       "ema100":  867.31,
+                       "ema200":  765.29,
+                       "bb":  {
+                                  "upper":  990.4,
+                                  "middle":  786.65,
+                                  "lower":  582.9
+                              },
+                       "macd":  {
+                                    "macd":  -69.23,
+                                    "signal":  -59.56,
+                                    "hist":  -9.67
+                                },
+                       "rsi14":  29.52,
+                       "high52w":  1255,
+                       "low52w":  192.59,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         1079.57
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         996
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         864.01
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         949.28
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         935.89
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         891.88
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         995.87
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         981.61
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         1087.99
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         1020.76
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         1043.19
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         1133.99
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         1211.38
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         1051.77
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         1048.51
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         1213.56
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         1132.33
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         1145.28
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         1154.29
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         1032.28
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         975.56
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         984.75
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         938.38
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         948.8
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         991.64
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         979.3
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         937
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         983.12
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         904.28
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         853.2
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         848.95
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         865.46
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         970.82
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         959.48
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         990.21
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         920.95
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         900.2
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         820.53
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         739
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         874.66
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         823.03
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         829.5
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         892.67
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         893.19
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         881.47
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         877.57
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         861
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         868.52
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         911.29
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         949.83
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         971.66
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         1011.75
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         940.76
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         937.11
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         974.33
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         966.78
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         910.43
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         932.97
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         938.4
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         935.39
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         932.86
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         958.73
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         933.44
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         956.08
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         958.16
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         1016.59
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         1000.26
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         1027.77
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         977.41
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         975.26
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         924.03
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         927.6
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         926.55
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         977.5
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         1015.8
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         1043.96
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         1096.16
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         1071.88
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         1080.53
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         1082.28
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         1053.98
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         1065.08
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         1065.11
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         1097.39
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         1074.89
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         1063.96
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         1045.56
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         1088
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         1035.84
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         1029
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         989.04
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         953.19
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         914.13
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         931.24
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         878.84
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         904.9
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         896.07
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         913.67
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         856.49
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         877.55
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         903.7
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         928.76
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         983.23
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         934.27
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         884.74
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         833.59
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         855.1
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         795.23
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         656.39
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         690
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         733.15
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         725.11
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         811.3
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         798.44
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         778.31
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         719.02
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         712.42
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         705.27
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         690.44
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         594.51
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          667.53,
+                                          680.41,
+                                          687.61,
+                                          697.88,
+                                          707.21,
+                                          714.45,
+                                          725.49,
+                                          735.53,
+                                          749.35,
+                                          760,
+                                          771.1,
+                                          785.33,
+                                          802.04,
+                                          811.83,
+                                          821.12,
+                                          836.51,
+                                          848.11,
+                                          859.76,
+                                          871.31,
+                                          877.62,
+                                          881.46,
+                                          885.51,
+                                          887.59,
+                                          889.99,
+                                          893.97,
+                                          897.32,
+                                          898.88,
+                                          902.18,
+                                          902.26,
+                                          900.34,
+                                          898.32,
+                                          897.03,
+                                          899.93,
+                                          902.26,
+                                          905.71,
+                                          906.31,
+                                          906.07,
+                                          902.72,
+                                          896.3,
+                                          895.45,
+                                          892.61,
+                                          890.13,
+                                          890.23,
+                                          890.35,
+                                          890,
+                                          889.51,
+                                          888.39,
+                                          887.61,
+                                          888.54,
+                                          890.95,
+                                          894.11,
+                                          898.73,
+                                          900.37,
+                                          901.81,
+                                          904.66,
+                                          907.09,
+                                          907.22,
+                                          908.23,
+                                          909.42,
+                                          910.44,
+                                          911.32,
+                                          913.17,
+                                          913.97,
+                                          915.62,
+                                          917.29,
+                                          921.18,
+                                          924.28,
+                                          928.34,
+                                          930.27,
+                                          932.03,
+                                          931.72,
+                                          931.56,
+                                          931.36,
+                                          933.17,
+                                          936.41,
+                                          940.63,
+                                          946.73,
+                                          951.63,
+                                          956.69,
+                                          961.61,
+                                          965.24,
+                                          969.15,
+                                          972.92,
+                                          977.8,
+                                          981.6,
+                                          984.83,
+                                          987.22,
+                                          991.17,
+                                          992.92,
+                                          994.33,
+                                          994.13,
+                                          992.52,
+                                          989.45,
+                                          987.16,
+                                          982.92,
+                                          979.86,
+                                          976.57,
+                                          974.1,
+                                          969.49,
+                                          965.89,
+                                          963.45,
+                                          962.09,
+                                          962.92,
+                                          961.79,
+                                          958.77,
+                                          953.86,
+                                          949.99,
+                                          943.92,
+                                          932.64,
+                                          923.13,
+                                          915.68,
+                                          908.21,
+                                          904.41,
+                                          900.25,
+                                          895.47,
+                                          888.55,
+                                          881.64,
+                                          874.73,
+                                          867.5,
+                                          856.79
+                                      ]
+                   },
+    "en":  {
+               "caution":  "Even with extraordinary FY26 profitability, memory remains historically cyclical, and stocks often peak when margins and earnings look strongest. TrendForce’s November 19 warning of a 2027 NAND oversupply—fueled by a 26.7% jump in industry CapEx and Chinese cloud order cuts—directly threatens a quarter of Micron’s sales. Meanwhile, the November 19 BIS remote-access export rule could slow non-U.S. AI data center deployments. Technically, November 20’s 13.89% drop on 1.75x volume signals heavy institutional selling; oversold RSI alone rarely halts a downtrend without fundamental stabilization.",
+               "cons":  [
+                            "TrendForce warned on November 19 that NAND flash (26% of Q4 revenue) will tip into 2027 oversupply, with spot prices already down 20%.",
+                            "The U.S. BIS Interim Final Rule effective November 19 restricts remote AI compute access across five countries, adding export-policy overhang.",
+                            "Price ($594.51) broke sharply below EMA 50 ($856.79), EMA 100 ($867.31), and EMA 200 ($765.29) on 1.75x average volume, signaling institutional distribution.",
+                            "Ultra-high margins (86.8% GAAP in Q4) heighten classic memory-cycle fears that earnings are near a cyclical peak."
+                        ],
+               "fundamental":  "Micron remains one of only three global suppliers capable of manufacturing leading-edge DRAM and High-Bandwidth Memory (HBM), making it a critical AI infrastructure bottleneck. In fiscal Q4 2026 (reported September 30, 2026), revenue jumped to $54.23 billion—lifting full-year FY26 revenue to $133.19 billion—with GAAP gross margin reaching 86.8% and non-GAAP EPS hitting $33.42. DRAM generated 73% of Q4 revenue ($39.77 billion) versus 26% for NAND ($14.10 billion). Management guided Q1 FY27 revenue to $61.5 billion (±$1.5 billion) and 86.25% non-GAAP gross margin, noting over 75% of FY27 output is already committed and HBM4 12-high stacks are in volume production for Nvidia’s Vera Rubin platform. Micron also closed FY26 with $73.48 billion in cash and investments and committed $1 billion to Anthropic’s November 19 IPO private placement. The December 17, 2026 Q1 report will test whether DRAM tightness offsets softening NAND trends.",
+               "headline":  "Micron plunges 13.89% on NAND glut fears despite locked-in AI DRAM demand",
+               "news":  [
+                            "November 19–20, 2026: TrendForce forecast that NAND flash contract prices will drop 0–5% quarter-over-quarter in Q1 2027 and tip into oversupply as Chinese cloud providers cut enterprise SSD orders and industry CapEx rises 26.7% year-over-year. Combined with GF Securities’ November 17 NAND downgrade, the report triggered MU’s 13.89% single-day plunge on November 20.",
+                            "November 19, 2026: The U.S. Commerce Department’s Bureau of Industry and Security (BIS) put into effect an Interim Final Rule restricting remote access to advanced AI compute and adding license rules for five countries (Singapore, Malaysia, Thailand, Indonesia, and Brazil). The policy heightened geopolitical overhang across AI semiconductor stocks, including Micron.",
+                            "November 19, 2026: Micron scheduled its fiscal Q1 2027 earnings call for December 17, 2026. Investors will scrutinize whether gross margins hold near the 86.25% non-GAAP guidance amid emerging NAND pricing pressure.",
+                            "November 10–19, 2026: Amended SEC S-1 filings showed Micron committed $1 billion to a $26 billion concurrent private placement alongside AI customer Anthropic’s record November 19 Nasdaq IPO (ticker: ANT). The stake reinforces Micron’s direct alignment with frontier-AI model builders using its HBM, DRAM, and enterprise SSDs.",
+                            "November 18, 2026: RBC Capital reiterated an Outperform rating and $1,500 price target on Micron, emphasizing structural DRAM and HBM resilience. Despite bullish Wall Street consensus, equity prices broke sharply lower two days later on cyclical memory fears."
+                        ],
+               "opportunity":  "The selloff has reset expectations sharply ahead of Micron’s December 17, 2026 Q1 FY27 earnings release, creating clear checkpoints for long-term AI infrastructure investors. Because HBM manufacturing consumes three to four times more wafer area than standard DDR5, DRAM supply (73% of Q4 revenue) stays structurally constrained even if NAND weakens. Confirmation that Q1 revenue meets the $61.5 billion guide, gross margins hold near 86%, and FY27 take-or-pay commitments remain intact—paired with price stabilizing above the $582.90 lower Bollinger Band—would help separate cyclical noise from thesis damage.",
+               "opportunityCheck":  "Overall, the AI-opportunity framework looks directionally reasonable, but two adjustments are warranted. First, AI revenue exposure looks understated and should move higher: FY26 revenue surged to $133.19 billion with 86.8% GAAP Q4 gross margins, HBM4 is shipping in volume for Nvidia Vera Rubin, and over 75% of FY27 output is already committed. Second, bottleneck and pricing power deserves a modest downward trim or closer scrutiny—while DRAM and HBM remain tightly constrained by high wafer intensity, TrendForce’s November 19 forecast shows NAND, roughly a quarter of sales, slipping into 2027 oversupply.",
+               "pros":  [
+                            "Over 75% of planned fiscal 2027 memory output and most calendar 2027 HBM supply are already pre-committed at higher prices.",
+                            "DRAM drove 73% of Q4 FY26 revenue ($39.77 billion of $54.23 billion), shielding Micron more than pure-play NAND rivals.",
+                            "Volume production of 36GB 12-high HBM4 for Nvidia’s Vera Rubin platform and 87.0% non-GAAP Q4 gross margin confirm strong AI pricing power.",
+                            "Micron’s $1 billion private placement in Anthropic’s November 19 IPO deepens strategic alignment with a marquee frontier-AI customer."
+                        ],
+               "risks":  [
+                             "NAND flash oversupply in 2027 (26% of Q4 revenue) compressing blended margins faster than DRAM gains can offset.",
+                             "Cyclical peak-earnings risk, where memory multiples stay compressed if investors anticipate profit contraction in 2027–2028.",
+                             "Tighter U.S. BIS export controls (effective November 19, 2026) and reduced Chinese cloud spending curbing global AI server demand.",
+                             "Intensifying HBM4 competition from SK Hynix and Samsung or execution hiccups ramping 12-high and 16-high stacks.",
+                             "Hyperscaler AI CapEx digestion slowing data center memory orders beyond existing 2027 commitments."
+                         ],
+               "summary":  "Micron (MU) plunged 13.89% to $594.51 on November 20, 2026, now down 52.6% from its $1,255 52-week high. The selloff followed TrendForce’s November 19 warning of a 2027 NAND flash oversupply driven by Chinese cloud order cuts, alongside a new U.S. BIS remote-access AI chip export rule effective November 19. Technically, MU sits in a steep bearish breakdown below all key moving averages, though an oversold RSI 14 at 29.52 reflects stretched selling. Fundamentally, core DRAM and HBM4 demand remains pre-committed into 2027, making December 17 earnings pivotal.",
+               "technical":  "Micron’s technical posture as of November 20, 2026 is decisively bearish. At $594.51, the stock closed well below all three exponential moving averages (EMAs, which track average price trends): EMA 50 ($856.79), EMA 100 ($867.31), and EMA 200 ($765.29). EMA 50 has already crossed beneath EMA 100, confirming medium-term trend deterioration. Momentum reinforces the breakdown: MACD (12/26/9, a trend-following momentum gauge) sits deeply negative at -69.23 below its -59.56 signal line, with a -9.67 histogram showing accelerating downside pressure. Meanwhile, RSI 14 (a 0–100 momentum gauge; under 30 is oversold) fell to 29.52, flagging short-term exhaustion rather than a confirmed bottom. Price dropped 13.89% on 59.09 million shares—1.75 times the 20-day average of 33.77 million—providing strong volume confirmation of distribution. Trading 52.6% off its $1,255 52-week high (versus a $192.59 low) and hugging the lower Bollinger Band ($582.90, a 20-day volatility envelope around the $786.65 middle band), MU faces immediate support near $582.90–$585.25 and heavy overhead resistance at EMA 200 ($765.29) and $856.79–$867.31."
+           },
+    "th":  {
+               "caution":  "แม้กำไรปีงบ 2026 จะสูงเป็นประวัติการณ์ แต่ธุรกิจหน่วยความจำมีวัฏจักรชัดเจนและราคามักทำจุดสูงสุดช่วงที่มาร์จิ้นดูดีที่สุด คำเตือนของ TrendForce วันที่ 19 พ.ย. เรื่อง NAND ล้นตลาดในปี 2027 จากงบลงทุนอุตสาหกรรมที่พุ่ง 26.7% และคลาวด์จีนลดออเดอร์ กระทบรายได้ราวหนึ่งในสี่ของ Micron โดยตรง ขณะที่กฎ BIS วันที่ 19 พ.ย. อาจชะลอการขยายศูนย์ข้อมูล AI นอกสหรัฐฯ ส่วนทางเทคนิค การร่วง 13.89% พร้อมวอลุ่ม 1.75 เท่าในวันที่ 20 พ.ย. สะท้อนแรงขายสถาบัน ซึ่งภาวะ RSI oversold อย่างเดียวมักยังไม่หยุดขาลงได้หากปัจจัยพื้นฐานยังไม่นิ่ง",
+               "cons":  [
+                            "TrendForce เตือนวันที่ 19 พ.ย. ว่า NAND flash (26% ของรายได้ Q4) จะพลิกเข้าสู่ภาวะล้นตลาดในปี 2027 โดยราคาสปอตลดลงแล้วราว 20%",
+                            "กฎควบคุมการส่งออกฉบับใหม่ของ BIS สหรัฐฯ มีผลวันที่ 19 พ.ย. คุมการเข้าถึงพลังประมวลผล AI ระยะไกลใน 5 ประเทศ เพิ่มแรงกดดันเชิงภูมิรัฐศาสตร์",
+                            "ราคาปิด $594.51 หลุดต่ำกว่า EMA 50 ($856.79), EMA 100 ($867.31) และ EMA 200 ($765.29) พร้อมวอลุ่ม 1.75 เท่าของค่าเฉลี่ย สะท้อนแรงขายสถาบันหนัก",
+                            "อัตรากำไรที่สูงผิดปกติ (GAAP Q4 ที่ 86.8%) กระตุ้นความกังวลตามวัฏจักรหน่วยความจำว่ากำไรอาจเข้าใกล้จุดพีคแล้ว"
+                        ],
+               "fundamental":  "Micron ยังคงเป็นหนึ่งในสามผู้ผลิตระดับโลกที่ผลิต DRAM ขั้นสูงและ High-Bandwidth Memory (HBM) ได้ จึงเป็นคอขวดสำคัญของโครงสร้างพื้นฐาน AI ในไตรมาส 4 ปีงบ 2026 (ประกาศ 30 ก.ย. 2026) รายได้พุ่งขึ้นเป็น $54.23 พันล้าน ดันรายได้ทั้งปีงบ 2026 แตะ $133.19 พันล้าน โดยมีอัตรากำไรขั้นต้นแบบ GAAP สูงถึง 86.8% และกำไรต่อหุ้น non-GAAP ที่ $33.42 รายได้ Q4 มาจาก DRAM ถึง 73% ($39.77 พันล้าน) เทียบกับ NAND ที่ 26% ($14.10 พันล้าน) ผู้บริหารให้คาดการณ์ Q1 FY27 ที่ $61.5 พันล้าน (±$1.5 พันล้าน) และอัตรากำไรขั้นต้น non-GAAP 86.25% พร้อมระบุว่ากำลังการผลิตกว่า 75% ของปีงบ 2027 ถูกล็อกออเดอร์แล้ว และ HBM4 แบบ 12-high เข้าสู่การผลิตจำนวนมากสำหรับแพลตฟอร์ม Vera Rubin ของ Nvidia นอกจากนี้ บริษัทยังปิดปีด้วยเงินสดและเงินลงทุน $73.48 พันล้าน และร่วมลงทุน $1 พันล้านในดีล IPO ของ Anthropic วันที่ 19 พ.ย. ทำให้งบวันที่ 17 ธ.ค. 2026 เป็นบททดสอบสำคัญว่าความตึงตัวของ DRAM จะชดเชย NAND ที่อ่อนลงได้หรือไม่",
+               "headline":  "Micron ร่วง 13.89% กังวลภาวะ NAND ล้นตลาด แม้ดีมานด์ AI DRAM ล็อกออเดอร์แน่น",
+               "news":  [
+                            "19–20 พ.ย. 2026: TrendForce คาดราคาสัญญา NAND flash จะลดลง 0–5% จากไตรมาสก่อนใน Q1 2027 และเข้าสู่ภาวะล้นตลาด หลังผู้ให้บริการคลาวด์จีนลดคำสั่งซื้อ enterprise SSD และงบลงทุนอุตสาหกรรมพุ่ง 26.7% ต่อปี เมื่อรวมกับมุมมองลบเรื่อง NAND จาก GF Securities วันที่ 17 พ.ย. จึงจุดชนวนให้หุ้น MU ดิ่ง 13.89% ในวันที่ 20 พ.ย.",
+                            "19 พ.ย. 2026: สำนักงานอุตสาหกรรมและความมั่นคงสหรัฐฯ (BIS) ประกาศใช้กฎเฉพาะกาล (Interim Final Rule) คุมการเข้าถึงพลังประมวลผล AI ขั้นสูงจากระยะไกล และเพิ่มข้อกำหนดใบอนุญาตใน 5 ประเทศ ได้แก่ สิงคโปร์ มาเลเซีย ไทย อินโดนีเซีย และบราซิล สร้างแรงกดดันเชิงนโยบายต่อกลุ่มชิป AI รวมถึง Micron",
+                            "19 พ.ย. 2026: Micron กำหนดวันประกาศผลประกอบการ Q1 ปีงบ 2027 ในวันที่ 17 ธ.ค. 2026 ซึ่งตลาดจะจับตาอย่างใกล้ชิดว่าอัตรากำไรขั้นต้นจะยืนใกล้ระดับคาดการณ์ non-GAAP ที่ 86.25% ได้หรือไม่ท่ามกลางแรงกดดันราคา NAND",
+                            "10–19 พ.ย. 2026: เอกสาร S-1 ฉบับแก้ไขต่อ SEC เปิดเผยว่า Micron ร่วมลงเงิน $1 พันล้านในดีล private placement มูลค่า $26 พันล้านควบคู่กับการ IPO ครั้งประวัติศาสตร์ของ Anthropic บน Nasdaq (ชื่อย่อ ANT) วันที่ 19 พ.ย. ตอกย้ำความสัมพันธ์เชิงกลยุทธ์กับลูกค้ารายใหญ่ด้าน AI",
+                            "18 พ.ย. 2026: RBC Capital คงคำแนะนำ Outperform และราคาเป้าหมาย $1,500 สำหรับ MU โดยชี้ว่าธุรกิจ DRAM และ HBM ยังแข็งแกร่งเชิงโครงสร้าง อย่างไรก็ดี ราคาหุ้นกลับปรับตัวลงแรงในอีกสองวันถัดมาจากความกังวลวัฏจักรหน่วยความจำ"
+                        ],
+               "opportunity":  "แรงเทขายได้ปรับลดความคาดหวังของตลาดลงมากก่อนการประกาศงบ Q1 FY27 วันที่ 17 ธ.ค. 2026 สร้างจุดตรวจสอบที่ชัดเจนสำหรับนักลงทุนโครงสร้างพื้นฐาน AI ระยะยาว เนื่องจากการผลิต HBM ใช้พื้นที่เวเฟอร์มากกว่า DDR5 ทั่วไปถึง 3–4 เท่า อุปทาน DRAM (73% ของรายได้ Q4) จึงยังคงตึงตัวเชิงโครงสร้างแม้ฝั่ง NAND จะอ่อนลง หากงบยืนยันรายได้ตามเป้า $61.5 พันล้าน มาร์จิ้นใกล้ 86% และสัญญาล็อกออเดอร์ปีงบ 2027 ยังแน่น ควบคู่กับราคาเริ่มตั้งฐานเหนือกรอบล่าง Bollinger Band ที่ $582.90 ได้ จะช่วยแยกแยะแรงผันผวนระยะสั้นออกจากการเสียพื้นฐานได้ชัดขึ้น",
+               "opportunityCheck":  "โดยรวมกรอบคะแนนโอกาส AI ของหน้าเว็บดูสมเหตุสมผลในเชิงทิศทาง แต่ควรปรับสองด้าน ด้านแรก สัดส่วนรายได้จาก AI (AI revenue exposure) ดูประเมินต่ำไปและควรขยับขึ้น เพราะรายได้ปีงบ 2026 พุ่งถึง $133.19 พันล้านพร้อมมาร์จิ้น GAAP Q4 ที่ 86.8% อีกทั้ง HBM4 เริ่มผลิตจำนวนมากให้ Nvidia Vera Rubin และผลผลิตปีงบ 2027 กว่า 75% ถูกล็อกไว้แล้ว ด้านที่สอง คะแนนด้านคอขวดและอำนาจตั้งราคา (bottleneck \u0026 pricing power) ควรพิจารณาลดลงเล็กน้อยหรือติดตามใกล้ชิด เพราะแม้ DRAM/HBM ยังตึงตัวมาก แต่รายงาน TrendForce วันที่ 19 พ.ย. ชี้ว่า NAND ซึ่งคิดเป็นราวหนึ่งในสี่ของรายได้กำลังเข้าสู่ภาวะล้นตลาดในปี 2027",
+               "pros":  [
+                            "กำลังการผลิตหน่วยความจำปีงบ 2027 กว่า 75% และอุปทาน HBM ปีปฏิทิน 2027 ส่วนใหญ่ถูกล็อกสัญญาซื้อขายล่วงหน้าในราคาที่สูงขึ้นแล้ว",
+                            "DRAM สร้างรายได้ถึง 73% ของไตรมาส 4 ปีงบ 2026 ($39.77 พันล้าน จากทั้งหมด $54.23 พันล้าน) ช่วยกันชนความผันผวนได้ดีกว่าผู้ผลิต NAND ล้วน",
+                            "การเดินเครื่องผลิต HBM4 ขนาด 36GB แบบ 12-high ให้แพลตฟอร์ม Vera Rubin ของ Nvidia และอัตรากำไรขั้นต้น non-GAAP Q4 ที่ 87.0% สะท้อนอำนาจตั้งราคาด้าน AI ที่แข็งแกร่ง",
+                            "การร่วมลงทุน $1 พันล้านในดีล IPO ของ Anthropic วันที่ 19 พ.ย. ช่วยกระชับความสัมพันธ์เชิงกลยุทธ์กับผู้พัฒนาโมเดล AI แถวหน้า"
+                        ],
+               "risks":  [
+                             "ภาวะ NAND ล้นตลาดในปี 2027 (26% ของรายได้ Q4) อาจกดดันอัตรากำไรรวมเร็วกว่าที่ฝั่ง DRAM จะชดเชยได้",
+                             "ความเสี่ยงวัฏจักรกำไรพีค ที่ตลาดมักกดค่า P/E ต่ำต่อเนื่องหากคาดว่ากำไรจะหดตัวในปี 2027–2028",
+                             "กฎควบคุมส่งออกของ BIS สหรัฐฯ (มีผล 19 พ.ย. 2026) และการชะลอคำสั่งซื้อคลาวด์จีนที่อาจกระทบดีมานด์เซิร์ฟเวอร์ AI ทั่วโลก",
+                             "การแข่งขัน HBM4 ที่รุนแรงขึ้นจาก SK Hynix และ Samsung หรือความล่าช้าในการขยายกำลังผลิตสแต็ก 12-high และ 16-high",
+                             "การชะลอตัวของงบลงทุน AI (CapEx) จากผู้ให้บริการคลาวด์รายใหญ่หลังผ่านรอบคำสั่งซื้อปี 2027"
+                         ],
+               "summary":  "หุ้น Micron (MU) ดิ่ง 13.89% ปิดที่ $594.51 เมื่อวันที่ 20 พ.ย. 2026 หรือร่วงลง 52.6% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $1,255 แรงขายปะทุหลัง TrendForce เตือนวันที่ 19 พ.ย. ว่าตลาด NAND flash จะล้นตลาดในปี 2027 จากคลาวด์จีนลดออเดอร์ ประกอบกับกฎคุมส่งออกชิป AI ระยะไกลของ BIS สหรัฐฯ ที่มีผลวันที่ 19 พ.ย. ภาพเทคนิคเข้าสู่ขาลงชัดเจนใต้เส้นค่าเฉลี่ยหลักทั้งหมด แม้ RSI 14 ที่ 29.52 จะชี้ภาวะขายมากเกินไป แต่พื้นฐานฝั่ง DRAM และ HBM4 ยังถูกล็อกออเดอร์ข้ามปี 2027 ทำให้งบวันที่ 17 ธ.ค. เป็นจุดชี้ชะตาสำคัญ",
+               "technical":  "ภาพเทคนิคของ Micron ณ วันที่ 20 พ.ย. 2026 อยู่ในภาวะขาลงชัดเจน ราคาปิด $594.51 หลุดต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่เอ็กซ์โปเนนเชียล (EMA ซึ่งสะท้อนแนวโน้มราคาเฉลี่ย) ทั้งสามเส้น ได้แก่ EMA 50 ($856.79), EMA 100 ($867.31) และ EMA 200 ($765.29) โดย EMA 50 ตัดลงต่ำกว่า EMA 100 แล้ว ยืนยันโครงสร้างขาลงระยะกลาง ด้านแรงส่ง (momentum) ค่า MACD (12/26/9 เครื่องมือวัดทิศทางและแรงส่งของแนวโน้ม) ติดลบหนักที่ -69.23 ต่ำกว่าเส้น signal ที่ -59.56 พร้อม histogram ติดลบ -9.67 สะท้อนแรงขายที่ยังเร่งตัว ขณะที่ RSI 14 (ดัชนีวัดแรงซื้อขายช่วง 0–100 ต่ำกว่า 30 คือเขตขายมากเกินไปหรือ oversold) ลดลงแตะ 29.52 บ่งชี้แรงขายระยะสั้นตึงตัวแต่ยังไม่ใช่สัญญาณกลับตัว การร่วง 13.89% มาพร้อมปริมาณซื้อขาย 59.09 ล้านหุ้น สูงเป็น 1.75 เท่าของค่าเฉลี่ย 20 วัน (33.77 ล้านหุ้น) ยืนยันแรงกระจายขายจริง ราคาอยู่ต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($1,255) ถึง 52.6% (จุดต่ำสุด $192.59) และชิดกรอบล่างของ Bollinger Band ($582.90 กรอบความผันผวน 20 วันรอบค่ากลาง $786.65) โดยมีแนวรับเฉพาะหน้าแถว $582.90–$585.25 และแนวต้านสำคัญที่ EMA 200 ($765.29) รวมถึงโซน $856.79–$867.31"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-09-30",
+                        "publisher":  "Micron Technology",
+                        "title":  "Micron Technology, Inc. Reports Record Fiscal Fourth-Quarter and Full-Year 2026 Results",
+                        "url":  "https://investors.micron.com/news-releases/news-release-details/micron-technology-inc-reports-record-fiscal-fourth-quarter-and"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "Micron Technology",
+                        "title":  "Micron Technology to Report Fiscal First Quarter Results on December 17, 2026",
+                        "url":  "https://investors.micron.com/news-releases/news-release-details/micron-technology-report-fiscal-first-quarter-results-december-17-2026"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "TrendForce",
+                        "title":  "NAND Flash Prices Set to Decline in 2027 as Chinese CSP Order Cuts Outweigh North American Demand Growth, Says TrendForce",
+                        "url":  "https://www.trendforce.com/presscenter/news/20261119-13314.html"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "Federal Register (U.S. Department of Commerce, BIS)",
+                        "title":  "Addressing Remote Access to Advanced Semiconductors",
+                        "url":  "https://www.federalregister.gov/d/2026-23529"
+                    },
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "The Motley Fool",
+                        "title":  "Why Micron Stock Crashed Today",
+                        "url":  "https://www.fool.com/investing/2026/11/20/why-micron-stock-crashed-today/"
+                    },
+                    {
+                        "date":  "2026-11-10",
+                        "publisher":  "The Motley Fool",
+                        "title":  "Nvidia, Alphabet, and Micron Just Agreed to Buy $26 Billion of Stock in One of Their Biggest Customers",
+                        "url":  "https://www.fool.com/investing/2026/11/10/nvidia-alphabet-and-micron-just-agreed-to-buy-26-bi/"
+                    },
+                    {
+                        "date":  "2026-11-18",
+                        "publisher":  "Price Target",
+                        "title":  "RBC Capital Affirms Outperform on Micron, $1,500 Price Target",
+                        "url":  "https://price-target.com/2026/11/18/179197/"
+                    }
+                ]
+}

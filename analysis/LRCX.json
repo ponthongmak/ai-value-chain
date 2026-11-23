@@ -1,0 +1,770 @@
+{
+    "ticker":  "LRCX",
+    "name":  "Lam Research",
+    "symbol":  "NASDAQ:LRCX",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:42:56Z",
+    "costUsd":  0.6809133000000002,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:LRCX",
+                       "yahoo":  "LRCX",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:40:35Z",
+                       "price":  183.27,
+                       "open":  199.05,
+                       "high":  199.78,
+                       "low":  181.77,
+                       "volume":  23736700,
+                       "avgVolume20":  13683190,
+                       "changePct":  -10.02,
+                       "historyDays":  501,
+                       "ema50":  255.12,
+                       "ema100":  273.7,
+                       "ema200":  264.73,
+                       "bb":  {
+                                  "upper":  261.03,
+                                  "middle":  222.52,
+                                  "lower":  184.02
+                              },
+                       "macd":  {
+                                    "macd":  -18.71,
+                                    "signal":  -18.23,
+                                    "hist":  -0.48
+                                },
+                       "rsi14":  30.45,
+                       "high52w":  438.5,
+                       "low52w":  135.5,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         343.71
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         336.41
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         303.28
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         324.45
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         327.16
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         321.8
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         362.52
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         366.81
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         388.92
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         369.34
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         374.18
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         389.04
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         409.54
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         371.33
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         374.8
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         401.82
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         379.09
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         410.91
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         433.33
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         391.26
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         351.41
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         350.2
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         326.13
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         333.15
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         353.17
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         350.33
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         329.92
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         346.1
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         335.43
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         320.96
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         313.3
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         306.76
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         322
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         319.29
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         319.78
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         305.21
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         291.61
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         269.61
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         252.35
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         297.72
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         293.02
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         294.61
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         317.74
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         307.42
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         305.77
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         311.35
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         306.4
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         311.41
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         326.11
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         337.01
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         332.36
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         343.84
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         327.92
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         307.17
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         310.53
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         314
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         310.17
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         314.66
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         312.88
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         318.58
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         301.9
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         301.49
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         290.2
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         288.32
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         292.66
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         307.65
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         320.42
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         315.84
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         298.01
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         298.22
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         273.49
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         270.87
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         269.23
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         269.31
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         288.11
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         302.28
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         310.96
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         307.28
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         307.16
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         315.21
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         314.47
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         323.86
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         328.51
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         340.1
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         347.49
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         345.8
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         333.89
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         329.51
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         320.59
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         318.84
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         309.56
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         301.11
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         286.92
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         277.46
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         263.94
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         272.2
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         263.45
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         260.81
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         230.15
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         230.1
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         237.5
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         240.85
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         253.82
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         254.39
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         239.11
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         227.56
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         230.72
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         221.43
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         185.2
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         200.44
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         221.31
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         222.39
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         235.88
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         233.78
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         225.92
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         210.83
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         210.69
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         211.67
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         203.68
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         183.27
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          277.59,
+                                          279.9,
+                                          280.82,
+                                          282.53,
+                                          284.28,
+                                          285.75,
+                                          288.76,
+                                          291.82,
+                                          295.63,
+                                          298.52,
+                                          301.49,
+                                          304.92,
+                                          309.02,
+                                          311.47,
+                                          313.95,
+                                          317.4,
+                                          319.82,
+                                          323.39,
+                                          327.7,
+                                          330.19,
+                                          331.02,
+                                          331.78,
+                                          331.55,
+                                          331.62,
+                                          332.46,
+                                          333.16,
+                                          333.04,
+                                          333.55,
+                                          333.62,
+                                          333.13,
+                                          332.35,
+                                          331.34,
+                                          330.98,
+                                          330.52,
+                                          330.1,
+                                          329.12,
+                                          327.65,
+                                          325.38,
+                                          322.51,
+                                          321.54,
+                                          320.42,
+                                          319.41,
+                                          319.34,
+                                          318.88,
+                                          318.36,
+                                          318.09,
+                                          317.63,
+                                          317.38,
+                                          317.73,
+                                          318.48,
+                                          319.03,
+                                          320,
+                                          320.31,
+                                          319.8,
+                                          319.43,
+                                          319.22,
+                                          318.86,
+                                          318.7,
+                                          318.47,
+                                          318.48,
+                                          317.83,
+                                          317.18,
+                                          316.13,
+                                          315.04,
+                                          314.16,
+                                          313.9,
+                                          314.16,
+                                          314.22,
+                                          313.59,
+                                          312.99,
+                                          311.44,
+                                          309.85,
+                                          308.25,
+                                          306.73,
+                                          306,
+                                          305.85,
+                                          306.05,
+                                          306.1,
+                                          306.14,
+                                          306.5,
+                                          306.81,
+                                          307.48,
+                                          308.3,
+                                          309.55,
+                                          311.04,
+                                          312.4,
+                                          313.24,
+                                          313.88,
+                                          314.14,
+                                          314.33,
+                                          314.14,
+                                          313.63,
+                                          312.58,
+                                          311.21,
+                                          309.35,
+                                          307.9,
+                                          306.15,
+                                          304.37,
+                                          301.46,
+                                          298.66,
+                                          296.27,
+                                          294.09,
+                                          292.51,
+                                          291.02,
+                                          288.98,
+                                          286.57,
+                                          284.38,
+                                          281.92,
+                                          278.12,
+                                          275.08,
+                                          272.97,
+                                          270.98,
+                                          269.61,
+                                          268.2,
+                                          266.54,
+                                          264.36,
+                                          262.25,
+                                          260.27,
+                                          258.05,
+                                          255.12
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Record quarter, but LRCX is caught in a sector-wide chip crash",
+               "summary":  "Lam closed at $183.27 on 20 Nov 2026, down 10.02% that day and roughly 58% below its 52-week high of $438.50. The business is still growing fast. On 21 Oct it reported fiscal Q1 2027 revenue of $8.22B (up 54% year on year), its first operating margin above 40%, and a December-quarter revenue guide of $8.6B. The selling is coming from the whole sector: chip stocks had their worst week since 2001 as investors questioned AI spending and valuations. Lam\u0027s own soft spots are a smaller China share and supply-chain limits on shipments.",
+               "pros":  [
+                            "Fiscal Q1 2027 revenue was a record $8.22B, up 54% year on year, with memory systems revenue up 120%.",
+                            "Operating margin passed 40% for the first time, and free cash flow was a record $3.24B.",
+                            "Management expects industry chip-equipment spending (WFE) above $200B in 2027, up from the mid-$150B range in 2026.",
+                            "A $25B buyback approved on 5 Nov is about 10% of the company\u0027s market value.",
+                            "RSI near 30 and a close below the lower Bollinger Band show the stock is stretched to the downside."
+                        ],
+               "cons":  [
+                            "Price is about 28% below the EMA50, and the EMA50 now sits below both the EMA100 and EMA200.",
+                            "The chip index fell about 17% in the week to 20 Nov, and memory stocks led the drop.",
+                            "China was 35% of September-quarter revenue, and management expects a significantly lower share in the December quarter.",
+                            "Supply-chain and clean-room limits held back the December guide and could cap shipments into 2027.",
+                            "Memory-heavy sales mean results swing sharply if memory makers slow their tool orders."
+                        ],
+               "opportunityCheck":  "Mostly reasonable. I would raise AI revenue exposure by 1–2 points: memory systems revenue grew 120% year on year, driven by HBM and AI-related DRAM and NAND demand, so more of Lam\u0027s growth is AI-linked than an 11 implies. Position (17) holds up given record margins and share in etch and deposition. Bottleneck looks fair. Supply limits show tools are scarce, but Applied Materials and Tokyo Electron compete hard, and China\u0027s falling share is a reminder that some revenue is not AI-driven.",
+               "technical":  "Trend is clearly down. At $183.27, price sits far below the EMA50 ($255.12), EMA200 ($264.73) and EMA100 ($273.70). EMAs are exponential moving averages that weight recent prices more. The EMA50 has dropped below both longer averages, a sign the downtrend has matured. MACD (a trend-momentum gauge) is -18.71, just under its signal line at -18.23, and the histogram is slightly negative at -0.48. Selling momentum has stopped speeding up but has not turned. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 30.45, right at the oversold line. Price closed below the lower Bollinger Band ($184.02; the bands mark a normal 20-day range). That is a stretched reading that often comes before a bounce, though in strong selloffs price can \u0027walk the band\u0027 lower. The day opened at $199.05, fell to $181.77 and closed near the low, on 23.7M shares, about 1.7× the 20-day average. Heavy volume confirms the selling. Nearest support is around $182–184; the next major level is the 52-week low of $135.50. Resistance sits near $200 and then the 20-day midline at $222.52.",
+               "fundamental":  "Lam\u0027s etch and deposition tools carve and layer the 3D structures in HBM memory, NAND and gate-all-around logic, so it benefits directly when AI drives memory spending. Fiscal Q1 2027 (reported 21 Oct 2026): revenue $8.22B, non-GAAP EPS $2.20 (above consensus), gross margin 52.4% and operating margin above 40%. Guidance for the December quarter is revenue of $8.6B ± $0.4B, EPS of $2.33 ± $0.15 and operating margin around 40.5%. Management expects WFE spending above $200B in 2027. The weak spots: China fell back from 35% of revenue, and supply constraints trimmed the guide, with the slipped shipments expected in the March quarter. Before the latest drop, the stock traded at about 34× trailing earnings, so a valuation reset was always a risk.",
+               "news":  [
+                            "21 Oct 2026: Lam reported record fiscal Q1 2027 revenue of $8.22B and EPS of $2.20, and guided the December quarter to $8.6B. Shares still fell about 6% after hours, and chip stocks slid the next day on its supply-constraint comments.",
+                            "On the call, the CFO said the guide \u0027would have been a bit higher\u0027 without supply-chain limits. The CEO said clean-room and component constraints would last into 2027. China\u0027s revenue share is expected to fall sharply from 35%.",
+                            "5 Nov 2026: The board approved a $25B buyback and a $0.33 quarterly dividend. Shares fell 16.4% that day and rebounded 8.2% to $200.44 on 6 Nov.",
+                            "13 Nov 2026: Applied Materials beat and raised, yet at least 10 brokers cut its price targets for valuation reasons. LRCX fell 5% to $222.72 in sympathy.",
+                            "16–20 Nov 2026: Chip stocks had their worst week since 2001. The chip index fell about 17%, with Nvidia and memory names leading and a reported SEC probe into Nvidia adding pressure. LRCX lost roughly 15–19% for the week. No Lam-specific negative news was reported."
+                        ],
+               "caution":  "The stock has fallen about 58% from its 52-week high in roughly six weeks, and every moving average is now overhead resistance. With MACD freshly below its signal line and volume 1.7× normal, there is no sign of a bottom yet. Oversold readings can stay oversold during a sector panic. Lam is highly sensitive to memory-maker spending: if AI capex doubts make Samsung, SK hynix or Micron delay tool orders, the 2027 WFE forecast above $200B could be cut. A further drop in China revenue and longer supply constraints are extra risks to the March-quarter outlook.",
+               "opportunity":  "Lam\u0027s results have not broken. Revenue, margins and cash flow hit records in the September quarter, and the December guide calls for more growth. The drop so far looks like a sector-wide repricing, not a hit to Lam\u0027s etch and deposition leadership. The $25B buyback gives management a way to retire shares at much lower prices. RSI near 30 and a close below the lower Bollinger Band show the selling is stretched. Long-term holders can watch whether the $182–184 area holds and whether the January 2027 results confirm the $200B+ WFE outlook.",
+               "risks":  [
+                             "AI capex doubts lead memory makers to cut or delay HBM, DRAM and NAND tool orders.",
+                             "China revenue drops faster than guided, or new US export controls tighten.",
+                             "Supply-chain or clean-room limits push shipments beyond the March 2027 quarter.",
+                             "Valuation keeps falling even if earnings hold, as happened to Applied Materials after its 13 Nov beat.",
+                             "A price break below $182 opens the way toward the 52-week low of $135.50."
+                         ]
+           },
+    "th":  {
+               "headline":  "ไตรมาสทำสถิติ แต่ LRCX โดนลากลงไปกับหุ้นชิปทั้งกลุ่ม",
+               "summary":  "Lam ปิดที่ $183.27 เมื่อ 20 พ.ย. 2026 ร่วง 10.02% ในวันเดียว และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $438.50 ราว 58% แต่ธุรกิจยังโตแรง วันที่ 21 ต.ค. บริษัทรายงานรายได้ไตรมาส 1 ปีงบ 2027 ที่ $8.22B (+54% เทียบปีก่อน) อัตรากำไรจากการดำเนินงานเกิน 40% เป็นครั้งแรก และให้เป้ารายได้ไตรมาสธันวาคม $8.6B แรงขายมาจากทั้งกลุ่ม หุ้นชิปเจอสัปดาห์แย่ที่สุดนับตั้งแต่ปี 2001 เพราะตลาดตั้งคำถามกับการลงทุน AI และระดับราคา จุดอ่อนเฉพาะของ Lam คือสัดส่วนรายได้จีนที่ลดลงและข้อจำกัดซัพพลายเชนที่ฉุดการส่งมอบ",
+               "pros":  [
+                            "รายได้ไตรมาส 1 ปีงบ 2027 ทำสถิติ $8.22B โต 54% เทียบปีก่อน รายได้กลุ่มหน่วยความจำโต 120%",
+                            "อัตรากำไรจากการดำเนินงานเกิน 40% เป็นครั้งแรก และกระแสเงินสดอิสระทำสถิติ $3.24B",
+                            "ผู้บริหารคาดการใช้จ่ายเครื่องจักรผลิตชิปทั้งอุตสาหกรรม (WFE) ปี 2027 เกิน $200B จากระดับกลาง $150B ในปี 2026",
+                            "บอร์ดอนุมัติซื้อหุ้นคืน $25B เมื่อ 5 พ.ย. คิดเป็นราว 10% ของมูลค่าตลาด",
+                            "RSI ใกล้ 30 และราคาปิดใต้ Bollinger Band เส้นล่าง บอกว่าแรงขายตึงตัวมากแล้ว"
+                        ],
+               "cons":  [
+                            "ราคาต่ำกว่า EMA50 ราว 28% และ EMA50 หลุดลงไปอยู่ใต้ทั้ง EMA100 และ EMA200 แล้ว",
+                            "ดัชนีหุ้นชิปร่วงราว 17% ในสัปดาห์ที่สิ้นสุด 20 พ.ย. โดยหุ้นหน่วยความจำนำการร่วง",
+                            "จีนคิดเป็น 35% ของรายได้ไตรมาสกันยายน และผู้บริหารคาดว่าสัดส่วนจะลดลงอย่างมีนัยในไตรมาสธันวาคม",
+                            "ข้อจำกัดด้านซัพพลายเชนและพื้นที่คลีนรูมกดเป้าไตรมาสธันวาคม และอาจจำกัดการส่งมอบไปถึงปี 2027",
+                            "รายได้พึ่งพาลูกค้าหน่วยความจำสูง ถ้าผู้ผลิตชะลอสั่งเครื่อง ผลประกอบการจะแกว่งแรง"
+                        ],
+               "opportunityCheck":  "โดยรวมสมเหตุสมผล แต่ผมจะเพิ่มคะแนนสัดส่วนรายได้จาก AI ขึ้น 1–2 แต้ม รายได้กลุ่มหน่วยความจำโต 120% เทียบปีก่อน ขับเคลื่อนด้วย HBM และความต้องการ DRAM/NAND จาก AI การเติบโตของ Lam จึงผูกกับ AI มากกว่าที่ตัวเลข 11 สะท้อน คะแนนตำแหน่งในตลาด (17) ยังเหมาะ เมื่อดูจากมาร์จินที่ทำสถิติและส่วนแบ่งในงาน etch/deposition ส่วนคะแนนคอขวดก็พอดี ข้อจำกัดซัพพลายบอกว่าเครื่องมือขาดตลาด แต่ Applied Materials และ Tokyo Electron แข่งดุ และสัดส่วนจีนที่ลดลงเตือนว่ารายได้บางส่วนไม่ได้มาจาก AI",
+               "technical":  "แนวโน้มเป็นขาลงชัดเจน ราคา $183.27 อยู่ต่ำกว่า EMA50 ($255.12), EMA200 ($264.73) และ EMA100 ($273.70) มาก (EMA คือเส้นค่าเฉลี่ยที่ให้น้ำหนักราคาล่าสุดมากกว่า) EMA50 หลุดลงใต้เส้นยาวทั้งสองเส้นแล้ว สะท้อนว่าขาลงเดินมาไกลแล้ว MACD (ตัววัดแรงส่งของเทรนด์) อยู่ที่ -18.71 ต่ำกว่าเส้นสัญญาณ -18.23 เล็กน้อย ฮิสโตแกรมติดลบบางๆ ที่ -0.48 แปลว่าแรงขายหยุดเร่งตัวแล้ว แต่ยังไม่กลับทิศ RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 30.45 แตะเส้นโซน oversold พอดี ราคาปิดใต้ Bollinger Band เส้นล่าง ($184.02 แถบนี้บอกกรอบราคาปกติช่วง 20 วัน) เป็นภาวะยืดตัวที่มักตามมาด้วยการรีบาวด์ แต่ในช่วงขายหนัก ราคาอาจไหลเลียบเส้นล่างต่อได้ วันนั้นราคาเปิด $199.05 ลงไปต่ำสุด $181.77 แล้วปิดใกล้จุดต่ำสุด วอลุ่ม 23.7 ล้านหุ้น ราว 1.7 เท่าของค่าเฉลี่ย 20 วัน ยืนยันว่าแรงขายหนักจริง แนวรับใกล้สุดอยู่แถว $182–184 ถัดไปคือจุดต่ำสุด 52 สัปดาห์ที่ $135.50 แนวต้านอยู่แถว $200 และเส้นกลาง BB ที่ $222.52",
+               "fundamental":  "เครื่อง etch และ deposition ของ Lam ใช้กัดและสร้างชั้นโครงสร้าง 3 มิติในหน่วยความจำ HBM, NAND และชิปลอจิกแบบ gate-all-around บริษัทจึงได้ประโยชน์โดยตรงเมื่อ AI ดันการลงทุนด้านหน่วยความจำ ผลไตรมาส 1 ปีงบ 2027 (ประกาศ 21 ต.ค. 2026): รายได้ $8.22B, EPS แบบ non-GAAP $2.20 (สูงกว่าคาด), gross margin 52.4% และอัตรากำไรจากการดำเนินงานเกิน 40% เป้าไตรมาสธันวาคมคือรายได้ $8.6B ± $0.4B, EPS $2.33 ± $0.15 และอัตรากำไรจากการดำเนินงานราว 40.5% ผู้บริหารคาด WFE ปี 2027 เกิน $200B จุดที่ต้องระวังคือสัดส่วนรายได้จีนที่ถอยจาก 35% และข้อจำกัดซัพพลายที่ตัดเป้าลงบางส่วน (ยอดที่เลื่อนคาดว่าจะส่งในไตรมาสมีนาคม) ก่อนการร่วงรอบล่าสุด หุ้นซื้อขายราว 34 เท่าของกำไรย้อนหลัง ความเสี่ยงเรื่อง re-rating จึงมีมาตลอด",
+               "news":  [
+                            "21 ต.ค. 2026: Lam รายงานรายได้ไตรมาส 1 ปีงบ 2027 ทำสถิติ $8.22B และ EPS $2.20 ให้เป้าไตรมาสธันวาคม $8.6B แต่หุ้นยังร่วงราว 6% หลังตลาดปิด และหุ้นชิปทั้งกลุ่มไหลลงในวันถัดมาจากความเห็นเรื่องข้อจำกัดซัพพลาย",
+                            "ในการประชุมนักวิเคราะห์ CFO บอกว่าเป้าน่าจะ \u0027สูงกว่านี้อีกหน่อย\u0027 ถ้าไม่ติดข้อจำกัดซัพพลายเชน CEO ระบุว่าปัญหาคลีนรูมและชิ้นส่วนจะลากไปถึงปี 2027 และคาดว่าสัดส่วนรายได้จีนจะลดลงมากจาก 35%",
+                            "5 พ.ย. 2026: บอร์ดอนุมัติซื้อหุ้นคืน $25B และปันผล $0.33 ต่อไตรมาส หุ้นร่วง 16.4% ในวันนั้น ก่อนเด้งกลับ 8.2% ไปที่ $200.44 ในวันที่ 6 พ.ย.",
+                            "13 พ.ย. 2026: Applied Materials ทำผลงานดีกว่าคาดและปรับเป้าขึ้น แต่โบรกอย่างน้อย 10 แห่งยังลดราคาเป้าหมายเพราะเรื่องระดับราคา LRCX ร่วงตาม 5% ไปที่ $222.72",
+                            "16–20 พ.ย. 2026: หุ้นชิปเจอสัปดาห์แย่ที่สุดนับตั้งแต่ปี 2001 ดัชนีชิปร่วงราว 17% นำโดย Nvidia และหุ้นหน่วยความจำ มีรายงานว่า SEC สอบสวนบัญชีของ Nvidia ซ้ำเติม LRCX ลดลงราว 15–19% ทั้งสัปดาห์ โดยไม่มีข่าวร้ายเฉพาะของ Lam"
+                        ],
+               "caution":  "หุ้นร่วงราว 58% จากจุดสูงสุด 52 สัปดาห์ในเวลาประมาณ 6 สัปดาห์ และเส้นค่าเฉลี่ยทุกเส้นกลายเป็นแนวต้านเหนือหัว MACD เพิ่งตัดลงใต้เส้นสัญญาณและวอลุ่มสูงกว่าปกติ 1.7 เท่า จึงยังไม่เห็นสัญญาณว่าถึงจุดต่ำสุด ภาวะ oversold อยู่ต่อได้นานในช่วงตลาดตื่นตระหนก Lam อ่อนไหวต่องบลงทุนของผู้ผลิตหน่วยความจำมาก ถ้าความกังวลเรื่องการลงทุน AI ทำให้ Samsung, SK hynix หรือ Micron เลื่อนสั่งเครื่อง ตัวเลข WFE ปี 2027 ที่คาดไว้เกิน $200B อาจถูกปรับลด รายได้จีนที่ลดลงเพิ่มและข้อจำกัดซัพพลายที่ยืดเยื้อเป็นความเสี่ยงซ้อนต่อไตรมาสมีนาคม",
+               "opportunity":  "ผลประกอบการของ Lam ยังไม่เสีย รายได้ มาร์จิน และกระแสเงินสดทำสถิติในไตรมาสกันยายน และเป้าไตรมาสธันวาคมยังบอกว่าจะโตต่อ การร่วงจนถึงตอนนี้ดูเป็นการปรับฐานราคาทั้งกลุ่ม ไม่ใช่สัญญาณว่าความเป็นผู้นำด้าน etch/deposition ของ Lam ถูกกระทบ งบซื้อหุ้นคืน $25B เปิดทางให้บริษัทลดจำนวนหุ้นได้ในราคาที่ต่ำลงมาก RSI ใกล้ 30 และราคาปิดใต้ Bollinger Band เส้นล่างบอกว่าแรงขายยืดตัวมากแล้ว นักลงทุนระยะยาวติดตามได้ว่าโซน $182–184 จะรับอยู่หรือไม่ และงบเดือนมกราคม 2027 จะยืนยันภาพ WFE เกิน $200B ได้หรือเปล่า",
+               "risks":  [
+                             "ความกังวลเรื่องการลงทุน AI ทำให้ผู้ผลิตหน่วยความจำลดหรือเลื่อนการสั่งเครื่องสำหรับ HBM/DRAM/NAND",
+                             "รายได้จีนลดเร็วกว่าที่บริษัทคาด หรือสหรัฐฯ คุมการส่งออกเข้มขึ้นอีก",
+                             "ข้อจำกัดซัพพลายเชนหรือคลีนรูมทำให้การส่งมอบเลื่อนเลยไตรมาสมีนาคม 2027",
+                             "ระดับราคาหุ้นถูกปรับลดต่อแม้กำไรยังดี เหมือนที่ Applied Materials เจอหลังงบวันที่ 13 พ.ย.",
+                             "ถ้าราคาหลุด $182 อาจเปิดทางลงไปหาจุดต่ำสุด 52 สัปดาห์ที่ $135.50"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "Is Lam Research Stock\u0027s Fall A Bargain Or A Warning?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/lrcx/articles/622263/is-lam-research-stocks-fall-a-bargain-or-a-warning/2026-11-03",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "What Just Lifted Lam Research Stock?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/lrcx/articles/623747/what-just-lifted-lam-research-stock/2026-11-07",
+                        "date":  "2026-11-07"
+                    },
+                    {
+                        "title":  "Lam Research Corp (LRCX) (Q1 2027) Earnings Call Highlights: Record Revenue, First-Ever 40% Operating Margin and a Bullish $200 Billion WFE Outlook",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9136007/lam-research-corp-lrcx-q1-2027-earnings-call-highlights-record-revenue-firstever-40-operating-margin-and-a-bullish-200-billion-wfe-outlook",
+                        "date":  "2026-10-22"
+                    },
+                    {
+                        "title":  "Lam Research (LRCX) Q1 2027 Earnings Call Transcript",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/earnings/call-transcripts/2026/10/21/lam-research-lrcx-q1-2027-earnings-call-transcript/",
+                        "date":  "2026-10-21"
+                    },
+                    {
+                        "title":  "Chip Stocks Fall as Supply Warning Deepens AI Selloff: Marvell and AMD Sink 8%, Intel Drops 7%",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/technology/articles/chip-stocks-fall-supply-warning-154508313.html",
+                        "date":  "2026-10-22"
+                    },
+                    {
+                        "title":  "Applied Materials Drops 6% Despite Beat-and-Raise Quarter as JPMorgan and Goldman Sachs Cut Price Targets; KLA Falls 6%, Lam Research Retreats 5%",
+                        "publisher":  "24/7 Wall St.",
+                        "url":  "https://247wallst.com/investing/2026/11/13/applied-materials-drops-6-despite-beat-and-raise-quarter-as-jpmorgan-and-goldman-sachs-cut-price-targets-kla-falls-6-lam-research-retreats-5/",
+                        "date":  "2026-11-13"
+                    },
+                    {
+                        "title":  "Chips suffer worst week since 2001 as the Nasdaq nears a bear market",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/article/chips-are-crashing-like-its-2008-as-the-nasdaq-100-nears-a-bear-market-192805534.html",
+                        "date":  "2026-11-21"
+                    },
+                    {
+                        "title":  "Lam Research Stock Fell Nearly 7%. What Happened?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/lrcx/articles/625813/why-did-lam-research-stock-fall-nearly-7/2026-11-17",
+                        "date":  "2026-11-17"
+                    }
+                ]
+}

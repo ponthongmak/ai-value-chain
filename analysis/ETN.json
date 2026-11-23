@@ -1,0 +1,748 @@
+{
+    "ticker":  "ETN",
+    "name":  "Eaton",
+    "symbol":  "NYSE:ETN",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:53:34Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NYSE:ETN",
+                       "yahoo":  "ETN",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:47:58Z",
+                       "price":  311.33,
+                       "open":  325.05,
+                       "high":  327.99,
+                       "low":  308.22,
+                       "volume":  4783000,
+                       "avgVolume20":  3336825,
+                       "changePct":  -5.82,
+                       "historyDays":  501,
+                       "ema50":  379.76,
+                       "ema100":  392.17,
+                       "ema200":  389.98,
+                       "bb":  {
+                                  "upper":  401.75,
+                                  "middle":  356.63,
+                                  "lower":  311.52
+                              },
+                       "macd":  {
+                                    "macd":  -18.48,
+                                    "signal":  -16.24,
+                                    "hist":  -2.25
+                                },
+                       "rsi14":  31.39,
+                       "high52w":  478,
+                       "low52w":  308.22,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         421.21
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         418.61
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         395.94
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         403.14
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         401.72
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         375.46
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         393.64
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         391.39
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         407.06
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         407.71
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         409.64
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         421.77
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         435.78
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         405.28
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         404.59
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         419.87
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         402.68
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         408.26
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         426.12
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         412.31
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         398.52
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         413.42
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         395.68
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         399.56
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         405.83
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         407.28
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         402.85
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         415.52
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         412.86
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         396.27
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         399.99
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         401.41
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         402.95
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         406.91
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         415.13
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         404.07
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         398.64
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         386.26
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         361.88
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         386.89
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         415.2
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         438.23
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         444.77
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         447.28
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         448.19
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         448.68
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         444.96
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         459.29
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         459.96
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         453.33
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         451.51
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         455.4
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         431.33
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         424.67
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         415.29
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         419.2
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         408.67
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         409.2
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         419.44
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         416.04
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         402.78
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         401.88
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         390.71
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         390.85
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         397.12
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         410.85
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         422.13
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         415.22
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         409.15
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         425.37
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         393.16
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         392.4
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         397.8
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         409.46
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         424.77
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         435.43
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         442.49
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         438.76
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         440
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         439.98
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         431.41
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         433.27
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         429.71
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         437.28
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         436.11
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         432.6
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         445.09
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         431.33
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         424.51
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         429.65
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         426.69
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         428.31
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         408.85
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         402.48
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         391.25
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         391.5
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         381.98
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         393.94
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         368.99
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         366.11
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         371.92
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         384.2
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         392.88
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         393.72
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         369.97
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         366.07
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         391.7
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         353.08
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         327.02
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         341.72
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         359.3
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         354.22
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         360.62
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         359.04
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         352.97
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         336.88
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         337.11
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         338.34
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         330.57
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         311.33
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          395.34,
+                                          396.25,
+                                          396.24,
+                                          396.51,
+                                          396.71,
+                                          395.88,
+                                          395.79,
+                                          395.62,
+                                          396.07,
+                                          396.53,
+                                          397.04,
+                                          398.01,
+                                          399.49,
+                                          399.72,
+                                          399.91,
+                                          400.69,
+                                          400.77,
+                                          401.06,
+                                          402.05,
+                                          402.45,
+                                          402.29,
+                                          402.73,
+                                          402.45,
+                                          402.34,
+                                          402.48,
+                                          402.67,
+                                          402.67,
+                                          403.18,
+                                          403.56,
+                                          403.27,
+                                          403.14,
+                                          403.07,
+                                          403.07,
+                                          403.22,
+                                          403.69,
+                                          403.7,
+                                          403.5,
+                                          402.83,
+                                          401.22,
+                                          400.66,
+                                          401.23,
+                                          402.68,
+                                          404.33,
+                                          406.02,
+                                          407.67,
+                                          409.28,
+                                          410.68,
+                                          412.58,
+                                          414.44,
+                                          415.97,
+                                          417.36,
+                                          418.85,
+                                          419.34,
+                                          419.55,
+                                          419.38,
+                                          419.38,
+                                          418.96,
+                                          418.57,
+                                          418.61,
+                                          418.51,
+                                          417.89,
+                                          417.26,
+                                          416.22,
+                                          415.23,
+                                          414.52,
+                                          414.37,
+                                          414.68,
+                                          414.7,
+                                          414.48,
+                                          414.91,
+                                          414.05,
+                                          413.21,
+                                          412.6,
+                                          412.48,
+                                          412.96,
+                                          413.84,
+                                          414.96,
+                                          415.9,
+                                          416.84,
+                                          417.75,
+                                          418.29,
+                                          418.87,
+                                          419.3,
+                                          420,
+                                          420.64,
+                                          421.1,
+                                          422.05,
+                                          422.41,
+                                          422.49,
+                                          422.77,
+                                          422.93,
+                                          423.14,
+                                          422.58,
+                                          421.79,
+                                          420.59,
+                                          419.45,
+                                          417.98,
+                                          417.04,
+                                          415.15,
+                                          413.23,
+                                          411.61,
+                                          410.54,
+                                          409.84,
+                                          409.21,
+                                          407.67,
+                                          406.04,
+                                          405.48,
+                                          403.42,
+                                          400.43,
+                                          398.12,
+                                          396.6,
+                                          394.94,
+                                          393.59,
+                                          392.24,
+                                          390.7,
+                                          388.59,
+                                          386.57,
+                                          384.68,
+                                          382.56,
+                                          379.76
+                                      ]
+                   },
+    "en":  {
+               "caution":  "Do not mistake stretched indicators for a confirmed bottom: ETN closed below its lower Bollinger Band on 1.43x volume with MACD still weakening, meaning further downside toward $300 or lower remains possible if AI infrastructure sentiment deteriorates. Fundamentally, $20.1 billion in debt and $20.3 billion in goodwill leave less margin for error if hyperscaler data center capex pauses, M\u0026A integration stumbles, or the pending Mobility-Dana closing faces regulatory delays.",
+               "cons":  [
+                            "Shares broke down to a fresh 52-week low of $308.22 on November 20 on 1.43x average volume, trading 18%–21% below all three key EMAs.",
+                            "Aggressive M\u0026A, led by the $9.55 billion Boyd Thermal deal, lifted total debt to $20.1 billion and goodwill to $20.3 billion versus $0.8 billion cash on September 30.",
+                            "Wall Street sentiment cooled in mid-November, with Erste Group downgrading ETN to Hold on November 18 over leverage and JPMorgan and Jefferies starting at Neutral on November 11.",
+                            "Sector-wide worries over hyperscaler AI capex durability and uncertain timing of 800VDC power architecture shifts continue to compress valuation multiples."
+                        ],
+               "fundamental":  "Eaton sits at the physical bottleneck of AI data centers and utility grids, supplying switchgear, transformers, UPS systems, busways, and—since closing the $9.55 billion Boyd Thermal deal in March 2026—liquid cooling from grid to chip. Q3 2026 results on November 3 underscored strong execution: sales jumped 28% YoY to a record $8.9 billion (+19% organic), segment margins hit a record 25.3% (Electrical Americas at 29.8%), and free cash flow reached $1.03 billion. Management raised full-year adjusted EPS guidance to $13.70–$13.80 and projected roughly 11% end-market growth in 2027 with no declining segments. The main fundamental trade-off is leverage: September 30 Form 10-Q filings showed $20.1 billion in total debt and $20.3 billion in goodwill against $0.8 billion cash, though the Q1 2027 Mobility-Dana separation (~$1.1 billion cash proceeds) and strong cash generation help cushion balance-sheet risk.",
+               "headline":  "Record Q3 AI Backlog Clashes With Technical Breakdown to 52-Week Low",
+               "news":  [
+                            "On November 3, 2026, Eaton posted record Q3 sales of $8.9 billion (+28% YoY), adjusted EPS of $3.68, and a 25.3% segment margin as data center revenue climbed 65% and electrical backlog topped $20 billion. Management raised FY2026 adjusted EPS guidance for the third time to $13.70–$13.80 (Q4: $4.05–$4.15), briefly lifting shares roughly 6%–7%.",
+                            "On November 5, 2026, CEO Paulo Ruiz noted that data center migration toward 800VDC power architecture is real—though its timeline is outside Eaton\u0027s control—while highlighting solid-state transformer investments and Boyd Thermal liquid cooling tracking roughly $1.9 billion in 2026 revenue.",
+                            "On November 17, 2026, SEC Form 4 filings disclosed modest open-market purchases on November 16 by Director Gerald Johnson (300 shares at $338.82) and CFO David B. Foster (200 shares at $346.24) during the pullback.",
+                            "On November 18, 2026, Erste Group downgraded ETN from Buy to Hold citing acquisition-driven debt ($20.1 billion) and goodwill ($20.3 billion), following Neutral initiations by JPMorgan and Jefferies on November 11 and a Wells Fargo target cut on November 4.",
+                            "On October 27, 2026, Eaton declared a $1.10 quarterly dividend (payable November 27), while Q3 filings following an October 16 segment recast confirmed the Mobility-Dana Reverse Morris Trust merger (~$1.1 billion cash to Eaton) remains on track for Q1 2027."
+                        ],
+               "opportunity":  "The disconnect between Eaton\u0027s 34.9% share-price pullback from its $478 high and its record Q3 fundamentals is stark. A $20 billion-plus electrical backlog, 65% data center revenue growth, triple-digit Boyd Thermal liquid-cooling momentum, and an upcoming Q1 2027 exit from lower-margin Mobility assets position Eaton as a cleaner, vertically integrated grid-to-chip AI infrastructure leader. Long-term investors watching for technical stabilization may find this valuation reset worth monitoring closely.",
+               "opportunityCheck":  "The page\u0027s sub-scores look mostly reasonable for market growth, competitive position, and pricing bottlenecks, but AI revenue exposure now appears too low and should move up. Following the March 2026 Boyd Thermal liquid-cooling acquisition (~$1.9 billion expected 2026 revenue), 65% Q3 data center sales growth, a $20 billion-plus electrical backlog, and the pending Q1 2027 Mobility exit, AI infrastructure drives a meaningfully larger share of Eaton\u0027s core business. Optionality also merits a modest upward nudge as liquid cooling and 800VDC solid-state transformers expand Eaton\u0027s grid-to-chip reach.",
+               "pros":  [
+                            "Record Q3 2026 results on November 3 delivered $8.9 billion in sales (+28% YoY), $3.68 adjusted EPS, and a third full-year guidance raise to $13.70–$13.80.",
+                            "AI data center demand surged 65% YoY in Q3, pushing rolling 12-month orders up over 100% and lifting electrical backlog past $20 billion (+46% YoY).",
+                            "Boyd Thermal liquid cooling is tracking roughly $1.9 billion in 2026 revenue with triple-digit growth, broadening Eaton\u0027s grid-to-chip data center portfolio.",
+                            "The Mobility-Dana Reverse Morris Trust separation remains on track for Q1 2027, bringing ~$1.1 billion in cash and sharpening focus on higher-margin Electrical and Aerospace units."
+                        ],
+               "risks":  [
+                             "Balance-sheet leverage ($20.1B total debt, $20.3B goodwill vs. $0.8B cash as of September 30, 2026) increases sensitivity to interest rates and M\u0026A integration missteps.",
+                             "Any slowdown or deferral in hyperscaler AI data center capex could pressure order intake and further compress industrial valuation multiples.",
+                             "Technology transition timing toward 800VDC data center power architectures could shift product mix and competition if adoption accelerates faster than expected.",
+                             "Execution or regulatory delays in closing the Mobility-Dana Reverse Morris Trust merger (targeted for Q1 2027) or integrating Boyd Thermal and COL Group."
+                         ],
+               "summary":  "Eaton (ETN) fell 5.82% on November 20, 2026, to $311.33—near its $308.22 52-week low and 34.9% below its $478 peak—despite reporting record Q3 results on November 3. Quarterly sales rose 28% year-over-year to $8.9 billion, data center revenue jumped 65%, electrical backlog exceeded $20 billion, and management raised full-year adjusted EPS guidance to $13.70–$13.80. Yet sector-wide AI capex fears and scrutiny of $20.1 billion in acquisition-driven debt triggered an Erste Group downgrade on November 18 and heavy technical selling. Technicals are bearish, while Eaton\u0027s long-term electrical moat remains intact.",
+               "technical":  "As of November 20, 2026, ETN\u0027s chart posture is firmly bearish after a 5.82% single-day drop to $311.33. Price sits 18%–21% below its exponential moving averages (EMAs—trend lines weighted toward recent prices): EMA 50 ($379.76), EMA 200 ($389.98), and EMA 100 ($392.17). Because the shorter EMA 50 has fallen beneath both longer averages, the primary trend points decisively downward. Momentum confirms ongoing selling pressure: MACD (12/26/9—a trend-momentum gauge comparing fast and slow averages) sits deep in negative territory at -18.48, below its -16.24 signal line, with a negative -2.25 histogram. RSI 14 (a 0–100 momentum gauge where under 30 signals oversold conditions) has dropped to 31.39, nearing oversold levels without showing a reversal yet. On volatility, price closed slightly below the lower Bollinger Band ($311.52; a two-standard-deviation envelope around the $356.63 20-day average) and barely above its fresh $308.22 52-week low—down 34.9% from the $478.00 high. Volume of 4.78 million shares ran 43% above the 20-day average (3.34 million), confirming heavy distribution. Immediate support sits at $308.22 (then $300); overhead resistance lies at $356.63 and $379.76–$392.17."
+           },
+    "th":  {
+               "caution":  "ไม่ควรมองว่าอินดิเคเตอร์ที่ตึงตัวคือจุดต่ำสุดที่ยืนยันแล้ว เพราะ ETN ปิดต่ำกว่าขอบล่าง Bollinger Band พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย 1.43 เท่า และ MACD ยังอ่อนแรงลงต่อเนื่อง จึงยังมีโอกาสไหลลงทดสอบแนวรับ $300 หรือต่ำกว่าหากบรรยากาศกลุ่มโครงสร้างพื้นฐาน AI ยังถูกกดดัน ด้านพื้นฐาน หนี้รวม $20.1 พันล้าน และค่าความนิยม $20.3 พันล้าน ทำให้บริษัทมีกันชนน้อยลงหากงบลงทุนดาต้าเซ็นเตอร์ชะลอ การควบรวมสะดุด หรือดีลแยกธุรกิจ Mobility-Dana ล่าช้า",
+               "cons":  [
+                            "ราคาหุ้นร่วงแตะจุดต่ำสุดรอบ 52 สัปดาห์ใหม่ที่ $308.22 เมื่อ 20 พ.ย. ด้วยวอลุ่มสูงกว่าค่าเฉลี่ย 1.43 เท่า และอยู่ต่ำกว่าเส้น EMA หลักทั้งสามเส้นถึง 18%–21%",
+                            "การเข้าซื้อกิจการเชิงรุก นำโดยดีล Boyd Thermal มูลค่า $9.55 พันล้าน ดันหนี้รวมขึ้นเป็น $20.1 พันล้าน และค่าความนิยม $20.3 พันล้าน เทียบกับเงินสด $0.8 พันล้าน ณ 30 ก.ย.",
+                            "มุมมองนักวิเคราะห์เริ่มระมัดระวังขึ้นกลางเดือน พ.ย. โดย Erste Group ปรับลดคำแนะนำเป็น Hold เมื่อ 18 พ.ย. จากประเด็นหนี้สิน ขณะที่ JPMorgan และ Jefferies เริ่มบทวิเคราะห์ด้วยระดับ Neutral เมื่อ 11 พ.ย.",
+                            "ความกังวลทั้งกลุ่มต่อความต่อเนื่องของงบลงทุน AI ของผู้ให้บริการคลาวด์ และจังหวะการเปลี่ยนผ่านสู่ระบบไฟ 800VDC ยังคงกดดันการปรับลดมูลค่าหุ้น (multiple compression)"
+                        ],
+               "fundamental":  "Eaton ยืนอยู่ตรงคอขวดสำคัญของโครงสร้างพื้นฐานดาต้าเซ็นเตอร์ AI และโครงข่ายไฟฟ้า ตั้งแต่สวิตช์เกียร์ หม้อแปลง UPS บัสเวย์ ไปจนถึงระบบระบายความร้อนด้วยของเหลวแบบครบวงจร (grid-to-chip) หลังปิดดีล Boyd Thermal มูลค่า $9.55 พันล้านเมื่อ มี.ค. 2026 งบ Q3 2026 เมื่อ 3 พ.ย. สะท้อนการดำเนินงานที่แข็งแกร่ง ยอดขายพุ่ง 28% YoY แตะสถิติ $8.9 พันล้าน (เติบโตจากธุรกิจเดิม 19%) อัตรากำไรกลุ่มธุรกิจทำสถิติ 25.3% (Electrical Americas อยู่ที่ 29.8%) และสร้างกระแสเงินสดอิสระ $1.03 พันล้าน ผู้บริหารปรับเพิ่มคาดการณ์กำไรต่อหุ้นปรับปรุงทั้งปีเป็น $13.70–$13.80 และมองตลาดปลายทางปี 2027 โตราว 11% โดยไม่มีกลุ่มใดหดตัว จุดที่ต้องชั่งน้ำหนักคือภาระหนี้จากรายงาน 10-Q ณ 30 ก.ย. ที่มีหนี้รวม $20.1 พันล้านและค่าความนิยม $20.3 พันล้านเทียบกับเงินสด $0.8 พันล้าน แต่การแยกธุรกิจ Mobility รวมกับ Dana ใน Q1 2027 (รับเงินสดราว $1.1 พันล้าน) และกระแสเงินสดแข็งแกร่งช่วยบรรเทาความเสี่ยงงบดุลได้บางส่วน",
+               "headline":  "งบ Q3 และ Backlog AI ทำสถิติใหม่ สวนทางกราฟหลุดทำจุดต่ำสุดรอบ 52 สัปดาห์",
+               "news":  [
+                            "3 พ.ย. 2026: Eaton รายงานงบ Q3 ทำสถิติสูงสุด ยอดขาย $8.9 พันล้าน (+28% YoY) กำไรต่อหุ้นปรับปรุง $3.68 อัตรากำไรกลุ่มธุรกิจ 25.3% รายได้ดาต้าเซ็นเตอร์โต 65% และ Backlog กลุ่มไฟฟ้าทะลุ $20 พันล้าน พร้อมปรับเพิ่มคาดการณ์กำไรต่อหุ้นปรับปรุงทั้งปี 2026 เป็นครั้งที่ 3 สู่ $13.70–$13.80 (Q4 คาด $4.05–$4.15) ดันหุ้นบวกราว 6%–7% ในวันประกาศงบ",
+                            "5 พ.ย. 2026: ซีอีโอ Paulo Ruiz ยืนยันว่าการเปลี่ยนผ่านระบบไฟดาต้าเซ็นเตอร์สู่ 800VDC กำลังเกิดขึ้นจริงแม้จังหวะเวลาอยู่นอกเหนือการควบคุมของบริษัท พร้อมชูการลงทุนในหม้อแปลงโซลิดสเตต และธุรกิจระบายความร้อน Boyd Thermal ที่คาดทำรายได้ปี 2026 ราว $1.9 พันล้าน",
+                            "17 พ.ย. 2026: เอกสาร SEC Form 4 เปิดเผยการซื้อหุ้นในตลาดเปิดขนาดย่อมเมื่อ 16 พ.ย. ของกรรมการ Gerald Johnson (300 หุ้น ราคาเฉลี่ย $338.82) และซีเอฟโอ David B. Foster (200 หุ้น ราคาเฉลี่ย $346.24) ระหว่างที่หุ้นปรับฐาน",
+                            "18 พ.ย. 2026: Erste Group ปรับลดคำแนะนำ ETN จาก Buy เป็น Hold จากความกังวลหนี้รวม $20.1 พันล้านและค่าความนิยม $20.3 พันล้านจากการเข้าซื้อกิจการ ต่อเนื่องจากที่ JPMorgan และ Jefferies เริ่มให้คำแนะนำ Neutral เมื่อ 11 พ.ย. และ Wells Fargo ปรับลดราคาเป้าหมายเมื่อ 4 พ.ย.",
+                            "27 ต.ค. และ 3 พ.ย. 2026: บอร์ดประกาศจ่ายปันผลไตรมาสละ $1.10 ต่อหุ้น (จ่าย 27 พ.ย.) ขณะที่เอกสารงบ Q3 หลังการปรับโครงสร้างรายงานกลุ่มธุรกิจเมื่อ 16 ต.ค. ยืนยันว่าดีลแยกธุรกิจ Mobility ไปควบรวมกับ Dana แบบ Reverse Morris Trust (รับเงินสดราว $1.1 พันล้าน) ยังเดินหน้าปิดดีลใน Q1 2027 ตามแผน"
+                        ],
+               "opportunity":  "ช่องว่างระหว่างราคาหุ้นที่ปรับลง 34.9% จากจุดสูงสุด $478 กับพื้นฐาน Q3 ที่ทำสถิติใหม่นั้นชัดเจนมาก งานในมือกลุ่มไฟฟ้ากว่า $20 พันล้าน รายได้ดาต้าเซ็นเตอร์ที่โต 65% แรงส่งระดับสามหลักของระบบระบายความร้อน Boyd Thermal และการเตรียมแยกธุรกิจ Mobility ที่มีมาร์จิ้นต่ำกว่าออกใน Q1 2027 จะทำให้ Eaton ก้าวสู่ผู้นำโครงสร้างพื้นฐาน AI แบบครบวงจรตั้งแต่กริดถึงชิปที่คมชัดขึ้น นักลงทุนระยะยาวที่รอสัญญาณกราฟตั้งฐานอาจคุ้มค่าที่จะติดตามการปรับลดมูลค่าครั้งนี้ใกล้ชิด",
+               "opportunityCheck":  "คะแนนย่อยด้านการเติบโตของตลาด ตำแหน่งทางการแข่งขัน และอำนาจกำหนดราคาจากคอขวดดูสมเหตุสมผลแล้ว แต่คะแนนสัดส่วนรายได้จาก AI (AI revenue exposure) ตอนนี้ดูต่ำเกินจริงและควรปรับขึ้น หลังปิดดีลซื้อ Boyd Thermal ในเดือน มี.ค. 2026 (คาดรายได้ปีนี้ราว $1.9 พันล้าน) ประกอบกับรายได้ดาต้าเซ็นเตอร์ Q3 โต 65% งานในมือกลุ่มไฟฟ้าทะลุ $20 พันล้าน และการเตรียมแยกธุรกิจ Mobility ออกใน Q1 2027 ทำให้โครงสร้างพื้นฐาน AI มีน้ำหนักต่อธุรกิจหลักมากขึ้นชัดเจน ส่วนคะแนนทางเลือกการเติบโต (optionality) ก็มีเหตุผลให้ขยับขึ้นเล็กน้อยจากการขยายสู่ระบบระบายความร้อนด้วยของเหลวและหม้อแปลงโซลิดสเตต 800VDC",
+               "pros":  [
+                            "งบ Q3 2026 เมื่อ 3 พ.ย. ทำสถิติสูงสุด ยอดขาย $8.9 พันล้าน (+28% YoY) กำไรต่อหุ้นปรับปรุง $3.68 และปรับเพิ่มคาดการณ์ทั้งปีเป็นครั้งที่ 3 สู่ $13.70–$13.80",
+                            "ดีมานด์ดาต้าเซ็นเตอร์ AI พุ่งแรง 65% YoY ใน Q3 ดันยอดคำสั่งซื้อสะสม 12 เดือนโตเกิน 100% และหนุน Backlog กลุ่มไฟฟ้าทะลุ $20 พันล้าน (+46% YoY)",
+                            "ธุรกิจระบายความร้อนด้วยของเหลว Boyd Thermal คาดทำรายได้ปี 2026 ราว $1.9 พันล้านพร้อมการเติบโตระดับสามหลัก ขยายโซลูชันดาต้าเซ็นเตอร์ครบวงจรจากกริดถึงชิป",
+                            "แผนแยกธุรกิจ Mobility ไปรวมกับ Dana แบบ Reverse Morris Trust ยังเดินหน้าปิดดีลใน Q1 2027 รับเงินสดราว $1.1 พันล้าน และช่วยให้โฟกัสธุรกิจ Electrical และ Aerospace ที่มาร์จิ้นสูงขึ้น"
+                        ],
+               "risks":  [
+                             "ภาระหนี้ในงบดุลที่สูงขึ้น (หนี้รวม $20.1 พันล้าน และค่าความนิยม $20.3 พันล้าน เทียบเงินสด $0.8 พันล้าน ณ 30 ก.ย. 2026) เพิ่มความอ่อนไหวต่อดอกเบี้ยและความเสี่ยงจากการควบรวมกิจการ",
+                             "หากผู้ให้บริการคลาวด์รายใหญ่ชะลอหรือเลื่อนงบลงทุนดาต้าเซ็นเตอร์ AI อาจกดดันคำสั่งซื้อใหม่และซ้ำเติมการปรับลดมูลค่าหุ้นกลุ่มอุตสาหกรรม",
+                             "จังหวะการเปลี่ยนผ่านเทคโนโลยีสู่ระบบไฟดาต้าเซ็นเตอร์ 800VDC อาจเปลี่ยนสัดส่วนสินค้าและการแข่งขันหากตลาดปรับตัวเร็วกว่าคาด",
+                             "ความเสี่ยงด้านกฎระเบียบหรือการดำเนินงานที่อาจทำให้การปิดดีลแยกธุรกิจ Mobility-Dana (เป้า Q1 2027) หรือการผสานงาน Boyd Thermal และ COL Group ล่าช้า"
+                         ],
+               "summary":  "หุ้น Eaton (ETN) ร่วงลง 5.82% เมื่อวันที่ 20 พ.ย. 2026 ปิดที่ $311.33 ใกล้จุดต่ำสุดรอบ 52 สัปดาห์ที่ $308.22 และอ่อนตัวลง 34.9% จากจุดสูงสุด $478 ทั้งที่บริษัทเพิ่งรายงานงบ Q3 ทำสถิติใหม่เมื่อ 3 พ.ย. ด้วยยอดขาย $8.9 พันล้าน (+28% YoY) รายได้ดาต้าเซ็นเตอร์พุ่ง 65% งานในมือกลุ่มไฟฟ้าทะลุ $20 พันล้าน และปรับเพิ่มคาดการณ์กำไรต่อหุ้นปรับปรุงทั้งปีเป็น $13.70–$13.80 อย่างไรก็ดี ความกังวลต่องบลงทุน AI ทั้งกลุ่มและภาระหนี้ $20.1 พันล้านจากการเข้าซื้อกิจการนำไปสู่การปรับลดคำแนะนำโดย Erste Group เมื่อ 18 พ.ย. และแรงขายทางเทคนิค ภาพกราฟยังเป็นขาลง แต่คูเมืองธุรกิจไฟฟ้าในระยะยาวยังแข็งแกร่งเหมือนเดิม",
+               "technical":  "ณ วันที่ 20 พ.ย. 2026 โครงสร้างกราฟของ ETN อยู่ในภาวะขาลงชัดเจนหลังร่วงแรง 5.82% ในวันเดียวมาที่ $311.33 ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA—เส้นแนวโน้มที่ให้น้ำหนักราคาล่าสุดมากกว่า) ทั้งสามเส้นถึง 18%–21% ได้แก่ EMA 50 ($379.76), EMA 200 ($389.98) และ EMA 100 ($392.17) โดย EMA 50 ตัดลงต่ำกว่าเส้นระยะยาวทั้งสองแล้ว สะท้อนแนวโน้มหลักที่เป็นขาลงเต็มตัว ด้านโมเมนตัม MACD (12/26/9—ตัววัดแรงส่งแนวโน้มจากการเทียบเส้นค่าเฉลี่ยเร็วและช้า) ติดลบลึกที่ -18.48 ต่ำกว่าเส้น Signal (-16.24) พร้อม Histogram ติดลบ -2.25 ยืนยันว่าแรงขายยังไม่แผ่ว ส่วน RSI 14 (มาตรวัดโมเมนตัมช่วง 0–100 หากต่ำกว่า 30 ถือว่าขายมากเกินไป) ลดลงมาที่ 31.39 จ่อเขตขายมากเกินไปแต่ยังไม่มีสัญญาณกลับตัว ด้านความผันผวน ราคาปิดต่ำกว่าขอบล่าง Bollinger Band ($311.52—กรอบความผันผวนรอบค่าเฉลี่ย 20 วันที่ $356.63) และเฉียดจุดต่ำสุดรอบ 52 สัปดาห์ใหม่ที่ $308.22 (ต่ำกว่าจุดสูงสุด $478.00 อยู่ 34.9%) ขณะที่วอลุ่ม 4.78 ล้านหุ้นสูงกว่าค่าเฉลี่ย 20 วัน (3.34 ล้านหุ้น) ถึง 43% ยืนยันแรงขายหนักจากสถาบัน แนวรับใกล้อยู่ที่ $308.22 ถัดไป $300 ส่วนแนวต้านอยู่ที่ $356.63 และโซน $379.76–$392.17"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-11-03",
+                        "publisher":  "SEC EDGAR",
+                        "title":  "Eaton Corporation plc Form 10-Q (Quarterly Report for Period Ended September 30, 2026)",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000040/0001551182-26-000040-index.htm"
+                    },
+                    {
+                        "date":  "2026-11-03",
+                        "publisher":  "SEC EDGAR",
+                        "title":  "Eaton Corporation plc Form 8-K (Item 2.02 Third Quarter 2026 Financial Results)",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000037/0001551182-26-000037-index.htm"
+                    },
+                    {
+                        "date":  "2026-11-17",
+                        "publisher":  "SEC EDGAR",
+                        "title":  "Form 4 Statement of Changes in Beneficial Ownership (Gerald Johnson)",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1551182/000110465926129068/0001104659-26-129068-index.htm"
+                    },
+                    {
+                        "date":  "2026-11-17",
+                        "publisher":  "SEC EDGAR",
+                        "title":  "Form 4 Statement of Changes in Beneficial Ownership (David B. Foster)",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1551182/000110465926129065/0001104659-26-129065-index.htm"
+                    },
+                    {
+                        "date":  "2026-10-16",
+                        "publisher":  "SEC EDGAR",
+                        "title":  "Eaton Corporation plc Form 8-K (Segment Reporting Recast Ahead of Mobility Separation)",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1551182/000155118226000034/0001551182-26-000034-index.htm"
+                    }
+                ]
+}

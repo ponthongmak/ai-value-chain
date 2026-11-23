@@ -1,0 +1,734 @@
+{
+    "ticker":  "TEM",
+    "name":  "Tempus AI",
+    "symbol":  "NASDAQ:TEM",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:07:49Z",
+    "costUsd":  0.6447296,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:TEM",
+                       "yahoo":  "TEM",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:05:43Z",
+                       "price":  54.04,
+                       "open":  57.78,
+                       "high":  58.35,
+                       "low":  53.26,
+                       "volume":  7416700,
+                       "avgVolume20":  6677645,
+                       "changePct":  -9.34,
+                       "ema50":  69.46,
+                       "ema100":  66.04,
+                       "ema200":  62.86,
+                       "bb":  {
+                                  "upper":  87.29,
+                                  "middle":  72.09,
+                                  "lower":  56.88
+                              },
+                       "macd":  {
+                                    "macd":  -2.88,
+                                    "signal":  -0.43,
+                                    "hist":  -2.45
+                                },
+                       "rsi14":  32.94,
+                       "high52w":  89.09,
+                       "low52w":  40.77,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         47.51
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         52.26
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         46.43
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         48.59
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         48.82
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         49.48
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         49.59
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         47.82
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         52.32
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         50.56
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         48.79
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         50.84
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         47.85
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         48.61
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         51.94
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         54.87
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         56.14
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         58.31
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         57.93
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         61.6
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         60.27
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         60.7
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         60.09
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         57.27
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         61.5
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         58.23
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         55.93
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         58.67
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         57.25
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         53.59
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         52.47
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         48.41
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         48.98
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         46.96
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         46.01
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         42.69
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         42.91
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         42.9
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         41.55
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         44.29
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         43.87
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         46.05
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         47.05
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         46.7
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         46.12
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         52.05
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         55.06
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         55.69
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         54.61
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         54.29
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         52.1
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         51.64
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         49.36
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         61.25
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         66.65
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         72.69
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         66.17
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         68.73
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         68.48
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         70.69
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         64.04
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         63.05
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         62.27
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         61.94
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         64.66
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         64.62
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         64.29
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         61.28
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         58.74
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         59.01
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         62.21
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         68.85
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         69.97
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         80.36
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         77.84
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         78.03
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         77.19
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         76.59
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         82.24
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         85.01
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         85.08
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         82.58
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         81.9
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         76.5
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         76.63
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         83.55
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         71.98
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         70.35
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         69.28
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         70.93
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         67.99
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         68.22
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         68.32
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         71.13
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         64.72
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         64.34
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         66.75
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         67.76
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         63.81
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         67.61
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         67.16
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         72.15
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         76.61
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         77.84
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         72.22
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         78.48
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         77.8
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         75.61
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         70.43
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         76.05
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         84.44
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         80.54
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         79.43
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         75.89
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         71.6
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         64.76
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         63.43
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         63.62
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         59.61
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         54.04
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          50.1,
+                                          50.18,
+                                          50.04,
+                                          49.98,
+                                          49.93,
+                                          49.92,
+                                          49.9,
+                                          49.82,
+                                          49.92,
+                                          49.95,
+                                          49.9,
+                                          49.94,
+                                          49.86,
+                                          49.81,
+                                          49.89,
+                                          50.09,
+                                          50.32,
+                                          50.64,
+                                          50.92,
+                                          51.34,
+                                          51.69,
+                                          52.04,
+                                          52.36,
+                                          52.55,
+                                          52.9,
+                                          53.11,
+                                          53.22,
+                                          53.44,
+                                          53.59,
+                                          53.59,
+                                          53.54,
+                                          53.34,
+                                          53.17,
+                                          52.93,
+                                          52.66,
+                                          52.26,
+                                          51.9,
+                                          51.54,
+                                          51.15,
+                                          50.88,
+                                          50.61,
+                                          50.43,
+                                          50.3,
+                                          50.16,
+                                          50,
+                                          50.08,
+                                          50.27,
+                                          50.49,
+                                          50.65,
+                                          50.79,
+                                          50.84,
+                                          50.87,
+                                          50.81,
+                                          51.22,
+                                          51.83,
+                                          52.65,
+                                          53.18,
+                                          53.79,
+                                          54.36,
+                                          55,
+                                          55.36,
+                                          55.66,
+                                          55.92,
+                                          56.15,
+                                          56.49,
+                                          56.81,
+                                          57.1,
+                                          57.26,
+                                          57.32,
+                                          57.39,
+                                          57.58,
+                                          58.02,
+                                          58.49,
+                                          59.35,
+                                          60.07,
+                                          60.78,
+                                          61.42,
+                                          62.01,
+                                          62.81,
+                                          63.68,
+                                          64.52,
+                                          65.23,
+                                          65.88,
+                                          66.3,
+                                          66.7,
+                                          67.36,
+                                          67.54,
+                                          67.65,
+                                          67.72,
+                                          67.84,
+                                          67.85,
+                                          67.86,
+                                          67.88,
+                                          68.01,
+                                          67.88,
+                                          67.74,
+                                          67.7,
+                                          67.7,
+                                          67.55,
+                                          67.55,
+                                          67.54,
+                                          67.72,
+                                          68.07,
+                                          68.45,
+                                          68.6,
+                                          68.99,
+                                          69.33,
+                                          69.58,
+                                          69.61,
+                                          69.86,
+                                          70.44,
+                                          70.83,
+                                          71.17,
+                                          71.35,
+                                          71.36,
+                                          71.11,
+                                          70.8,
+                                          70.52,
+                                          70.09,
+                                          69.46
+                                      ]
+                   },
+    "en":  {
+               "headline":  "TEM breaks below all key averages despite a strong Q3 and data deals",
+               "technical":  "The trend has turned down. TEM closed at 54.04 USD on 2026-11-20, down 9.34% on the day, and is now below all three EMAs (exponential moving averages, smoothed trend lines): EMA50 at 69.46, EMA100 at 66.04 and EMA200 at 62.86. The EMAs are still stacked 50 \u003e 100 \u003e 200, a leftover of the earlier uptrend, but the close below the EMA200 is a clear long-term warning. Momentum is weak. MACD (the gap between a fast and a slow average) is -2.88, below its signal line at -0.43, and the histogram is -2.45, so sellers are in control. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 32.94, close to oversold but not there yet. Price closed below the lower Bollinger Band (56.88; middle 72.09, upper 87.29), which shows a stretched, emotional move that often bounces but can keep falling in a strong downtrend. TEM sits about 39% below its 52-week high of 89.09 and 33% above its 52-week low of 40.77. Volume was 7.42M shares, only about 1.1x the 20-day average, so the selling is real but not a panic. Nearby resistance is 56.88 and then 62.86. Support is thin down to the 40.77 low.",
+               "fundamental":  "Tempus sells cancer genomic tests (Diagnostics) and licenses the resulting de-identified clinical and molecular data and AI tools to drug makers (Data and Applications). The flywheel is that every test adds to the data library. Q3 2026 results, published 2026-11-02, back the thesis. Revenue was $411.5M (+23%). Data and Applications grew 33% to $108.1M at a 71.5% gross margin, oncology test volume rose 32%, and data-licensing bookings passed $550M year to date. Adjusted EBITDA was $25.6M, up from $1.5M a year earlier, and full-year revenue guidance rose to $1.60–1.605B. The weak spots are the unchanged ~$65M EBITDA guidance, a continuing GAAP net loss ($14.9M in Q3), about $50.8M of quarterly stock-based compensation, and the pending Personalis deal, which adds a loss-making MRD test business.",
+               "news":  [
+                            "2026-11-02: Q3 revenue was $411.5M (+23% YoY), adjusted EBITDA $25.6M and net loss $14.9M. Full-year 2026 revenue guidance was raised to $1.60–1.605B, and adjusted EBITDA guidance stayed at about $65M.",
+                            "Data deals disclosed around Q3: Bristol Myers Squibb will license oncology data for up to $137.5M over five years, Pathos signed a five-year $55M neurology dataset deal, and the Merck/Moderna collaboration on an individualized cancer vaccine was expanded. The stock rose about 10.7% on 2026-11-02.",
+                            "2026-11-03: Jefferies upgraded TEM from Underperform to Hold and raised its target from $35 to $70. It argued that about 8x expected 2027 revenue leaves little room for further valuation gains until acquisition economics are proven.",
+                            "Personalis acquisition (about $1.5B enterprise value, announced July 2026): regulatory review is complete, and Personalis shareholders vote on 2026-11-30. Tempus will pay at least half in Class A stock, and management has said Personalis currently loses money on its tests.",
+                            "2026-11-10 to 2026-11-17: TEM fell for six straight sessions, a cumulative drop of 24.9%. On 2026-11-20 it lost another 9.34% during a broad AI and Nasdaq sell-off. No new company-specific negative news was found to explain the slide.",
+                            "The Q3 release also reported two FDA 510(k) clearances, for the Tempus ECG-PH and ECG-MR AI cardiology tools, and about 12,000 MRD tests (+300%)."
+                        ],
+               "caution":  "The chart is clearly broken: price is below the EMA200 with negative MACD, and falling below the lower Bollinger Band can mark the start of a deeper move rather than the end. The stock still has a high valuation for a company that only recently reached EBITDA breakeven. A weak AI sector hits it hard, as 2026-11-20 showed. The Personalis deal will issue new shares and add losses, and 2026 EBITDA guidance was not raised. In 2025–26 the stock already fell 46.7% from peak to trough, so very large swings are normal for TEM.",
+               "opportunity":  "The selling does not match the business news. Within about three weeks of a record quarter, a guidance raise, new data-licensing deals with BMS and Pathos, and a Jefferies upgrade, the price dropped about 30% from its early-November level. RSI near 33 and a close below the lower Bollinger Band show stretched, oversold-leaning conditions. Higher reimbursement rates for 2027 (estimated at $80–85M a year) and the Personalis MRD test could support margins. A recovery above 56.88 and then the EMA200 at 62.86 would be the first signs that sellers are tiring.",
+               "risks":  [
+                             "Dilution and added losses if the Personalis deal closes in Q4 2026 with at least half paid in shares",
+                             "A long-duration growth stock that is sensitive to AI-sector sentiment and interest-rate moves",
+                             "Still GAAP loss-making, with about $50M of quarterly stock-based compensation",
+                             "Execution risk in proving MRD economics and acquisition synergies",
+                             "Reimbursement and regulatory changes affecting genomic test payments"
+                         ],
+               "summary":  "Tempus AI\u0027s business improved in the latest period, while its stock fell. Q3 revenue grew 23%, the high-margin data business grew 33%, and new pharma data deals support the clinical-and-genomic-data moat, so the thesis remains intact. Technically, TEM is bearish: at 54.04 USD it is below all three EMAs, MACD is negative and price closed under the lower Bollinger Band, with RSI near oversold at 32.94. The drop looks driven by an AI-sector sell-off and worries about Personalis dilution, not by a business failure. Next watch points are the 2026-11-30 Personalis vote and Q4 results in February 2027."
+           },
+    "th":  {
+               "headline":  "TEM หลุดเส้นค่าเฉลี่ยทุกเส้น แม้ผล Q3 แข็งแรงและได้ดีลข้อมูลใหม่",
+               "technical":  "แนวโน้มกลับเป็นขาลงแล้ว TEM ปิดวันที่ 2026-11-20 ที่ 54.04 USD ลดลง 9.34% ในวันเดียว และอยู่ต่ำกว่า EMA ทั้งสามเส้น (EMA คือเส้นค่าเฉลี่ยที่บอกแนวโน้ม): EMA50 ที่ 69.46, EMA100 ที่ 66.04 และ EMA200 ที่ 62.86 เส้น EMA ยังเรียง 50 \u003e 100 \u003e 200 ซึ่งเป็นร่องรอยจากขาขึ้นเดิม แต่การหลุด EMA200 เป็นสัญญาณเตือนระยะยาวที่ชัดเจน โมเมนตัมอ่อน MACD (ส่วนต่างของค่าเฉลี่ยเร็วกับช้า) อยู่ที่ -2.88 ต่ำกว่าเส้นสัญญาณที่ -0.43 และ histogram เป็นลบที่ -2.45 แปลว่าฝั่งขายคุมเกม RSI 14 (มาตรวัดแรงส่ง 0–100 ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 32.94 ใกล้แต่ยังไม่ถึงโซน oversold ราคาปิดต่ำกว่า Bollinger Band เส้นล่าง (56.88; เส้นกลาง 72.09 เส้นบน 87.29) แสดงว่าราคาถูกเทขายแรงเกินปกติ ซึ่งมักเด้งกลับได้ แต่ถ้าขาลงแรงก็ลงต่อได้เช่นกัน ราคาอยู่ต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ 89.09 ราว 39% และสูงกว่าจุดต่ำสุดที่ 40.77 ราว 33% วอลุ่ม 7.42 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันเพียงราว 1.1 เท่า แรงขายจึงมีจริงแต่ยังไม่ถึงขั้นตื่นตระหนก แนวต้านใกล้คือ 56.88 และ 62.86 ส่วนแนวรับด้านล่างบางมากจนถึงระดับ 40.77",
+               "fundamental":  "Tempus ขายบริการตรวจพันธุกรรมมะเร็ง (Diagnostics) แล้วนำข้อมูลทางคลินิกและโมเลกุลที่ไม่ระบุตัวตนพร้อมเครื่องมือ AI ไปให้บริษัทยาใช้ (Data and Applications) ยิ่งตรวจมาก คลังข้อมูลก็ยิ่งใหญ่ขึ้น ผล Q3 2026 ที่ประกาศวันที่ 2026-11-02 สนับสนุนแนวคิดนี้ รายได้ $411.5M (+23%) ธุรกิจ Data and Applications โต 33% เป็น $108.1M ที่ gross margin 71.5% ปริมาณตรวจมะเร็งเพิ่ม 32% และยอดจองไลเซนส์ข้อมูลทั้งปีเกิน $550M แล้ว Adjusted EBITDA อยู่ที่ $25.6M จาก $1.5M ปีก่อน และบริษัทปรับเป้ารายได้ทั้งปีขึ้นเป็น $1.60–1.605B จุดอ่อนคือเป้า EBITDA ~$65M ไม่ได้ปรับขึ้น ยังขาดทุนสุทธิตามบัญชี ($14.9M ใน Q3) มีค่าตอบแทนเป็นหุ้นราว $50.8M ต่อไตรมาส และดีล Personalis จะนำธุรกิจตรวจ MRD ที่ยังขาดทุนเข้ามา",
+               "news":  [
+                            "2026-11-02: รายได้ Q3 อยู่ที่ $411.5M (+23% YoY) Adjusted EBITDA $25.6M ขาดทุนสุทธิ $14.9M บริษัทปรับเป้ารายได้ปี 2026 ขึ้นเป็น $1.60–1.605B ส่วนเป้า Adjusted EBITDA คงไว้ที่ราว $65M",
+                            "ดีลข้อมูลที่เปิดเผยช่วง Q3: Bristol Myers Squibb ซื้อไลเซนส์ข้อมูลมะเร็งมูลค่าสูงสุด $137.5M ใน 5 ปี Pathos เซ็นดีลข้อมูลระบบประสาท 5 ปีมูลค่า $55M และมีการขยายความร่วมมือกับ Merck/Moderna เรื่องวัคซีนมะเร็งเฉพาะบุคคล หุ้นบวกราว 10.7% ในวันที่ 2026-11-02",
+                            "2026-11-03: Jefferies ปรับคำแนะนำ TEM จาก Underperform เป็น Hold และขึ้นราคาเป้าหมายจาก $35 เป็น $70 แต่มองว่ามูลค่าราว 8 เท่าของรายได้ปี 2027 ทำให้ valuation ขยายต่อได้จำกัด จนกว่าจะพิสูจน์ความคุ้มค่าของการซื้อกิจการได้",
+                            "ดีลซื้อ Personalis (มูลค่ากิจการราว $1.5B ประกาศเดือนกรกฎาคม 2026) ผ่านการตรวจสอบของหน่วยงานกำกับแล้ว ผู้ถือหุ้น Personalis จะโหวตวันที่ 2026-11-30 Tempus จะจ่ายเป็นหุ้น Class A อย่างน้อยครึ่งหนึ่ง และผู้บริหารยอมรับว่า Personalis ยังขาดทุนต่อการตรวจแต่ละครั้ง",
+                            "ช่วง 2026-11-10 ถึง 2026-11-17 TEM ลงติดกัน 6 วัน รวม -24.9% แล้ววันที่ 2026-11-20 ลงอีก 9.34% ท่ามกลางการเทขายหุ้น AI และ Nasdaq ทั้งตลาด ยังไม่พบข่าวร้ายเฉพาะบริษัทที่อธิบายการร่วงรอบนี้",
+                            "รายงาน Q3 ยังระบุว่าได้รับ FDA 510(k) สองรายการสำหรับเครื่องมือ AI ด้านหัวใจ Tempus ECG-PH และ ECG-MR และมีการตรวจ MRD ราว 12,000 ครั้ง (+300%)"
+                        ],
+               "caution":  "กราฟเสียทรงชัดเจน ราคาหลุด EMA200 และ MACD เป็นลบ การหลุด Bollinger Band เส้นล่างอาจเป็นจุดเริ่มของการลงลึก ไม่จำเป็นต้องเป็นจุดจบเสมอไป มูลค่าหุ้นยังสูงสำหรับบริษัทที่เพิ่งพ้นจุดคุ้มทุนระดับ EBITDA และหุ้นโดนกระทบแรงเมื่อกลุ่ม AI ถูกขายอย่างที่เห็นในวันที่ 2026-11-20 ดีล Personalis จะเพิ่มหุ้นใหม่และเพิ่มผลขาดทุน ส่วนเป้า EBITDA ปี 2026 ก็ไม่ได้ปรับขึ้น ในช่วงปี 2025–26 หุ้นเคยลงจากยอดถึงก้นมาแล้ว 46.7% ความผันผวนรุนแรงจึงเป็นเรื่องปกติของ TEM",
+               "opportunity":  "การเทขายสวนทางกับข่าวธุรกิจ ภายในราวสามสัปดาห์หลังรายงานไตรมาสที่ทำสถิติใหม่ ปรับเป้ารายได้ขึ้น ได้ดีลข้อมูลใหม่กับ BMS และ Pathos และ Jefferies ปรับคำแนะนำขึ้น ราคากลับลดลงราว 30% จากระดับต้นเดือนพฤศจิกายน RSI ใกล้ 33 และราคาที่ปิดใต้ Bollinger Band เส้นล่างบ่งชี้ภาวะตึงตัวที่เอียงไปทาง oversold อัตราเบิกจ่ายค่าตรวจที่สูงขึ้นในปี 2027 (ประเมินไว้ $80–85M ต่อปี) และการตรวจ MRD ของ Personalis อาจช่วยหนุนมาร์จิ้นได้ หากราคากลับขึ้นเหนือ 56.88 และ EMA200 ที่ 62.86 ได้ จะเป็นสัญญาณแรกว่าแรงขายเริ่มหมด",
+               "risks":  [
+                             "หุ้นถูก dilute และผลขาดทุนเพิ่มขึ้น หากดีล Personalis ปิดใน Q4 2026 โดยจ่ายเป็นหุ้นอย่างน้อยครึ่งหนึ่ง",
+                             "เป็นหุ้นเติบโตระยะยาวที่อ่อนไหวต่ออารมณ์ตลาดกลุ่ม AI และทิศทางดอกเบี้ย",
+                             "ยังขาดทุนตามบัญชี และมีค่าตอบแทนเป็นหุ้นราว $50M ต่อไตรมาส",
+                             "ความเสี่ยงด้านการลงมือทำ ทั้งการพิสูจน์ความคุ้มค่าของธุรกิจ MRD และ synergy จากการซื้อกิจการ",
+                             "การเปลี่ยนแปลงด้านการเบิกจ่ายและกฎระเบียบที่กระทบรายได้จากการตรวจพันธุกรรม"
+                         ],
+               "summary":  "ช่วงที่ผ่านมาธุรกิจของ Tempus AI ดีขึ้น สวนทางกับราคาหุ้นที่ร่วงลง รายได้ Q3 โต 23% ธุรกิจข้อมูลมาร์จิ้นสูงโต 33% และดีลข้อมูลใหม่กับบริษัทยาช่วยเสริมคูเมืองด้านคลังข้อมูลคลินิกและพันธุกรรม ภาพระยะยาวจึงยังไม่เปลี่ยน แต่ทางเทคนิค TEM เป็นขาลง ที่ 54.04 USD ราคาอยู่ต่ำกว่า EMA ทั้งสามเส้น MACD เป็นลบ ปิดใต้ Bollinger Band เส้นล่าง และ RSI 32.94 ใกล้ oversold การร่วงรอบนี้ดูมาจากการเทขายกลุ่ม AI และความกังวลเรื่อง dilution จากดีล Personalis มากกว่าปัญหาของตัวธุรกิจ จุดที่ต้องติดตามต่อคือการโหวต Personalis วันที่ 2026-11-30 และงบ Q4 ในเดือนกุมภาพันธ์ 2027"
+           },
+    "sources":  [
+                    {
+                        "title":  "Tempus Reports Third Quarter 2026 Results",
+                        "publisher":  "Tempus AI Investor Relations",
+                        "url":  "https://investors.tempus.com/news/news-details/2026/Tempus-Reports-Third-Quarter-2026-Results/default.aspx",
+                        "date":  "2026-11-02"
+                    },
+                    {
+                        "title":  "TEM Stock Jumps As Tempus AI Lands Major Pharma Deals",
+                        "publisher":  "StocksToTrade",
+                        "url":  "https://stockstotrade.com/news/tempus-ai-inc-tem-news-2026_11_02/",
+                        "date":  "2026-11-02"
+                    },
+                    {
+                        "title":  "TEMPUS AI Aktie: Jefferies stuft nach starkem Q3 auf Hold hoch",
+                        "publisher":  "Goldesel",
+                        "url":  "https://goldesel.de/aktien/news/tempus-ai-aktie-jefferies-stuft-nach-starkem-q3-auf-hold-hoch",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "Tempus AI Stock Extends A 6-Day Losing Streak To A 25% Loss",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/tem/articles/626094/tempus-ai-stock-extends-a-6-day-losing-streak-to-a-25-loss/2026-11-18",
+                        "date":  "2026-11-18"
+                    },
+                    {
+                        "title":  "What\u0027s Going To Happen With Tempus AI Stock Soon?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/tem/articles/626794/whats-going-to-happen-with-tempus-ai-stock-soon/2026-11-19",
+                        "date":  "2026-11-19"
+                    },
+                    {
+                        "title":  "Tempus AI Falls 10% as Market Selloff Hits AI Stocks",
+                        "publisher":  "Timothy Sykes",
+                        "url":  "https://www.timothysykes.com/news/tempus-ai-inc-tem-news-2026-11-20/%26gsessionid=Rx4YZFwTtstpj-GDiOCMIctDO_6mrqIsSGcWMAFM1x6nhc9QcxkY0g/",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Tempus to acquire cancer test maker Personalis for $1.5B",
+                        "publisher":  "BioPharma Dive",
+                        "url":  "https://www.biopharmadive.com/news/tempus-to-acquire-cancer-test-maker-personalis-for-15b/825698/"
+                    }
+                ]
+}

@@ -1,0 +1,48 @@
+{
+    "sector":  "fm",
+    "judge":  "antigravity",
+    "provider":  "antigravity",
+    "model":  "gemini-4-neon-high",
+    "effort":  "high",
+    "account":  "Antigravity (Google)",
+    "generatedAt":  "2026-11-23T04:48:26Z",
+    "costUsd":  null,
+    "stocks":  {
+                   "ANT":  {
+                               "m":  [
+                                         16,
+                                         12,
+                                         14,
+                                         13,
+                                         7
+                                     ],
+                               "o":  [
+                                         19,
+                                         18,
+                                         16,
+                                         10,
+                                         15
+                                     ],
+                               "why_en":  "Leading enterprise API share and frontier Claude models drive high AI opportunity, while multi-model switching, rival labs, and unproven profitability under huge compute commitments cap moat durability.",
+                               "why_th":  "ความเป็นผู้นำด้าน API องค์กรและโมเดล Claude ขั้นสูงหนุนโอกาส AI สูง แต่การย้ายค่ายได้ง่าย การแข่งขันรุนแรง และภาระสัญญาประมวลผลสูงทำให้ความทนทานของคูเมืองยังไม่พิสูจน์"
+                           },
+                   "SPCX":  {
+                                "m":  [
+                                          18,
+                                          14,
+                                          12,
+                                          18,
+                                          11
+                                      ],
+                                "o":  [
+                                          13,
+                                          17,
+                                          11,
+                                          9,
+                                          16
+                                      ],
+                                "why_en":  "Unmatched reusable-launch and Starlink scale build a wide physical moat, while rapid Colossus compute scaling and space-AI optionality are tempered by xAI\u0027s early model standing and heavy capex.",
+                                "why_th":  "ขนาดและเทคโนโลยีจรวดนำกลับมาใช้ใหม่กับ Starlink สร้างคูเมืองแข็งแกร่ง ส่วนโอกาส AI จากซูเปอร์คอมพิวเตอร์ Colossus และโครงสร้างพื้นฐานอวกาศยังถูกจำกัดด้วยโมเดล xAI ที่เพิ่งเริ่มต้นและงบลงทุนสูง"
+                            }
+               }
+}

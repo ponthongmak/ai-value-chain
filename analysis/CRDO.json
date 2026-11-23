@@ -1,0 +1,735 @@
+{
+    "ticker":  "CRDO",
+    "name":  "Credo Technology",
+    "symbol":  "NASDAQ:CRDO",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:04:12Z",
+    "costUsd":  0.6641077000000001,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:CRDO",
+                       "yahoo":  "CRDO",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:01:39Z",
+                       "price":  99.86,
+                       "open":  114.01,
+                       "high":  114.18,
+                       "low":  97.92,
+                       "volume":  13112200,
+                       "avgVolume20":  8239505,
+                       "changePct":  -15.2,
+                       "ema50":  161.04,
+                       "ema100":  177.6,
+                       "ema200":  175.86,
+                       "bb":  {
+                                  "upper":  174.04,
+                                  "middle":  136.47,
+                                  "lower":  98.91
+                              },
+                       "macd":  {
+                                    "macd":  -16.22,
+                                    "signal":  -15,
+                                    "hist":  -1.22
+                                },
+                       "rsi14":  31.61,
+                       "high52w":  308.67,
+                       "low52w":  86.49,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         214.6
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         217.5
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         206.89
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         222.27
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         234.32
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         237.68
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         264.76
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         250.81
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         259.41
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         239.18
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         249.33
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         271.83
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         302.52
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         272.01
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         268.99
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         268.03
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         238
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         245.68
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         271.95
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         259.09
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         241.91
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         265.55
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         246.4
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         258.69
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         265.65
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         257.79
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         236.88
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         236.18
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         226.74
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         207.97
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         202.68
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         212.07
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         223.87
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         228.27
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         236.5
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         213.15
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         208.14
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         192.28
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         177.45
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         201.08
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         206.99
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         218.35
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         237.92
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         224.63
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         230.43
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         249.89
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         239.93
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         247.69
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         268.16
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         265.99
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         259.9
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         282.82
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         245.97
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         234.82
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         231.35
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         230.57
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         222.61
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         226.51
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         226.49
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         240.24
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         232.75
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         226.19
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         206.63
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         165.22
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         164.17
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         170.57
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         167.75
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         167.92
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         160.31
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         162.95
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         150.09
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         150.39
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         161.49
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         168.25
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         175.89
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         187.27
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         192.56
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         193.87
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         195.97
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         210.97
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         192.67
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         192.35
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         194.79
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         210.17
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         218.64
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         212.48
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         220.83
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         220.01
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         211.86
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         216.55
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         200.84
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         198.31
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         179.23
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         178.5
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         169.7
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         172.81
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         171.51
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         182.28
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         162.77
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         147.29
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         151.15
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         167.43
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         173.69
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         165.29
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         150.99
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         140.02
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         150.91
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         136.5
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         112.33
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         120.51
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         132.89
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         129.8
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         141.41
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         139.81
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         131.51
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         120.71
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         123.95
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         122.94
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         117.76
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         99.86
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          177.41,
+                                          178.98,
+                                          180.07,
+                                          181.73,
+                                          183.79,
+                                          185.9,
+                                          189,
+                                          191.42,
+                                          194.09,
+                                          195.85,
+                                          197.95,
+                                          200.85,
+                                          204.84,
+                                          207.47,
+                                          209.88,
+                                          212.16,
+                                          213.18,
+                                          214.45,
+                                          216.71,
+                                          218.37,
+                                          219.29,
+                                          221.11,
+                                          222.1,
+                                          223.53,
+                                          225.18,
+                                          226.46,
+                                          226.87,
+                                          227.24,
+                                          227.22,
+                                          226.46,
+                                          225.53,
+                                          225,
+                                          224.96,
+                                          225.09,
+                                          225.53,
+                                          225.05,
+                                          224.39,
+                                          223.13,
+                                          221.34,
+                                          220.54,
+                                          220.01,
+                                          219.94,
+                                          220.65,
+                                          220.81,
+                                          221.18,
+                                          222.31,
+                                          223,
+                                          223.97,
+                                          225.7,
+                                          227.28,
+                                          228.56,
+                                          230.69,
+                                          231.29,
+                                          231.43,
+                                          231.42,
+                                          231.39,
+                                          231.05,
+                                          230.87,
+                                          230.7,
+                                          231.07,
+                                          231.14,
+                                          230.94,
+                                          229.99,
+                                          227.45,
+                                          224.97,
+                                          222.83,
+                                          220.67,
+                                          218.6,
+                                          216.32,
+                                          214.23,
+                                          211.71,
+                                          209.31,
+                                          207.43,
+                                          205.89,
+                                          204.72,
+                                          204.03,
+                                          203.58,
+                                          203.2,
+                                          202.92,
+                                          203.23,
+                                          202.82,
+                                          202.41,
+                                          202.11,
+                                          202.43,
+                                          203.06,
+                                          203.43,
+                                          204.11,
+                                          204.74,
+                                          205.02,
+                                          205.47,
+                                          205.29,
+                                          205.01,
+                                          204,
+                                          203,
+                                          201.7,
+                                          200.56,
+                                          199.42,
+                                          198.75,
+                                          197.34,
+                                          195.38,
+                                          193.64,
+                                          192.62,
+                                          191.87,
+                                          190.83,
+                                          189.27,
+                                          187.34,
+                                          185.91,
+                                          183.97,
+                                          181.16,
+                                          178.78,
+                                          176.98,
+                                          175.13,
+                                          173.81,
+                                          172.48,
+                                          170.87,
+                                          168.9,
+                                          167.14,
+                                          165.41,
+                                          163.54,
+                                          161.04
+                                      ]
+                   },
+    "en":  {
+               "headline":  "CRDO drops 15% to $99.86 in AI-chip sell-off ahead of Dec 1 earnings",
+               "technical":  "The trend is clearly down. At $99.86, CRDO is far below its EMA50 ($161.04), EMA100 ($177.60) and EMA200 ($175.86). These are exponential moving averages, which weight recent days more heavily. The EMA50 has fallen below both longer averages, and the EMA100 has edged under the EMA200 line, so the longer-term trend is also turning lower. MACD, a trend-momentum gauge, is −16.22, below its signal line at −15.00. The histogram is −1.22, which means selling momentum picked up again instead of fading. RSI 14 (a 0–100 momentum gauge where under 30 means oversold) is 31.61, so the stock is close to oversold but not there yet. Price is pressing the lower Bollinger Band at $98.91 (bands sit 2 standard deviations around the 20-day average), and the intraday low of $97.92 dipped below it. The band runs from $98.91 to $174.04, a very wide range that shows extreme volatility. Volume was 13.1M shares, about 1.6× the 20-day average, so heavy trading backed the selling. The stock opened at $114.01 and closed near the day\u0027s low. Support is $97.92–98.91, then the 52-week low of $86.49. Resistance is $114–117.76, then the band midline at $136.47. The stock is 68% below its 52-week high of $308.67.",
+               "fundamental":  "The business is still growing fast. Fiscal Q1 2027 (quarter ended August 1, 2026) revenue was $479M, up 115% year on year, with record optical DSP and retimer sales. Guidance for fiscal Q2 is $525–535M at a 67–69% non-GAAP gross margin. There are also warning signs. Operating margin fell to 25.2% from 35.7% the quarter before, and inventory rose $62.2M to $313.1M. The top four customers made up 84% of revenue, and the largest alone was 33%. In the AI value chain, Credo sells the short copper and optical links that connect GPUs, switches and racks. Its edge is SerDes chip design, and it holds an estimated 93–99% share of active electrical cables (AECs). At the November 20 price, the stock trades at about 15× forward earnings, against a 3-year average of 61×. The market is pricing in lower share or growth, not a broken business.",
+               "news":  [
+                            "Nov 20, 2026: CRDO fell 15.2% to $99.86 in a broad tech sell-off. XLK, the tech-sector ETF, fell about 6%. The trigger was California\u0027s attorney general subpoenaing Nvidia after the Nov 19 close over whether its chips or confidential information reached China. No Credo-specific news came out that day.",
+                            "Nov 20, 2026: Stifel cut its price target to $250 from $310 but kept a Buy rating, and said it still expects Credo to beat and raise guidance on Dec 1.",
+                            "Nov 17, 2026: Credo and Marvell settled their AEC patent dispute, which also ended Marvell\u0027s challenges to Credo patents at the USPTO. Terms are confidential. Shares rose about 6% premarket on Nov 18.",
+                            "Nov 11, 2026: Credo said it will report fiscal Q2 2027 results (quarter ended Oct 31) after the close on Dec 1, 2026, with a call at 2:00 p.m. PT.",
+                            "Oct–Nov 2026: Competition fears weighed on the stock. Reports said Cisco is seeking quotes for its own proprietary 1.6T cable program. MaxLinear\u0027s CEO said the company is targeting 20–30% of the 1.6T AEC market, and Edgewater Research saw little sign of near-term 1.6T AEC deployments.",
+                            "Oct 12, 2026: At the OCP Global Summit, Credo launched the 1.6T ZeroFlap Active Light Cable. It is an optical cable for runs up to 50 m that draws 12 W per end, and shipping is planned for 2027."
+                        ],
+               "caution":  "Both trend and momentum still point down, and the MACD histogram turned more negative on November 20 on heavy volume. If the $97.92 low gives way, the next clear reference is the 52-week low of $86.49. Results on December 1 are a two-way risk for a stock with a five-year beta of about 3.3. Investors will check whether the 84% customer concentration and rising inventory signal slower orders, and whether Cisco or MaxLinear are winning 1.6T designs. Comments on 1.6T timing will matter as much as the headline numbers.",
+               "opportunity":  "The November 20 drop was driven by Nvidia news and a sector-wide sell-off, not by anything Credo reported. Meanwhile, the Marvell settlement on November 17 removed a legal overhang from the AEC franchise. RSI at 31.61 and price at the lower Bollinger Band show the stock is stretched to the downside. At about 15× forward earnings, expectations are low compared with revenue growth above 100%. If Q2 lands at or above the $525–535M guide and the optical push, including the Active Light Cable, gains traction, the valuation gap could narrow.",
+               "risks":  [
+                             "Customer concentration: the top four customers were 84% of fiscal Q1 revenue, with no long-term purchase commitments",
+                             "Competition in 1.6T AECs from MaxLinear (targeting 20–30% share) and a possible proprietary Cisco cable program",
+                             "Margin and inventory pressure: operating margin fell to 25.2%, and inventory rose to $313.1M",
+                             "High beta (about 3.3) makes the stock very sensitive to Nvidia news, AI-capex worries and data-center policy",
+                             "Earnings event risk on Dec 1, 2026, at a time when the technical trend is weak"
+                         ],
+               "summary":  "The technical posture is bearish. CRDO trades well below all three EMAs, MACD is negative and widening, and the November 20 drop of 15.2% came on about 1.6× normal volume. Price now sits at the lower Bollinger Band, with RSI near oversold. The latest leg down came from Nvidia-related sector selling, not from company news, and the Marvell patent settlement is a real positive. However, competition in 1.6T cables and heavy customer concentration are open questions. Until the December 1 results answer them, the moat thesis is on watch, not broken."
+           },
+    "th":  {
+               "headline":  "CRDO ร่วง 15% เหลือ $99.86 จากแรงเทขายหุ้นชิป AI ก่อนงบ 1 ธ.ค.",
+               "technical":  "แนวโน้มยังเป็นขาลงชัดเจน ราคา $99.86 อยู่ต่ำกว่า EMA50 ($161.04), EMA100 ($177.60) และ EMA200 ($175.86) ไปไกลมาก EMA คือเส้นค่าเฉลี่ยที่ให้น้ำหนักกับราคาวันล่าสุดมากกว่า ตอนนี้ EMA50 หลุดลงไปอยู่ใต้ทั้งสองเส้นแล้ว และ EMA100 ก็เริ่มลงมาแตะใต้ EMA200 แปลว่าแนวโน้มระยะยาวกำลังเริ่มกลับเป็นขาลงด้วย MACD (ตัวชี้วัดแรงส่งของแนวโน้ม) อยู่ที่ −16.22 ต่ำกว่าเส้นสัญญาณที่ −15.00 และ histogram ติดลบ −1.22 แสดงว่าแรงขายกลับมาเร่งตัวอีกรอบแทนที่จะอ่อนลง RSI 14 (มาตรวัดแรงส่ง 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 31.61 ใกล้โซน oversold แต่ยังไม่ถึง ราคากำลังกดลงมาที่ขอบล่างของ Bollinger Band ($98.91) และระหว่างวันหลุดลงไปถึง $97.92 กรอบ Bollinger กว้างมากตั้งแต่ $98.91 ถึง $174.04 สะท้อนความผันผวนที่สูงผิดปกติ วันนั้นมีการซื้อขาย 13.1 ล้านหุ้น ราว 1.6 เท่าของค่าเฉลี่ย 20 วัน ยืนยันว่าแรงขายมีน้ำหนักจริง หุ้นเปิดที่ $114.01 แล้วปิดใกล้จุดต่ำสุดของวัน แนวรับอยู่ที่ $97.92–98.91 ถัดไปคือจุดต่ำสุดรอบ 52 สัปดาห์ $86.49 แนวต้านอยู่ที่ $114–117.76 และเส้นกลางของ Bollinger ที่ $136.47 ราคาตอนนี้ต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($308.67) ถึง 68%",
+               "fundamental":  "ธุรกิจยังโตเร็วมาก ไตรมาส 1 ปีงบ 2027 (สิ้นสุด 1 ส.ค. 2026) มีรายได้ $479M โต 115% จากปีก่อน และยอดขาย optical DSP กับ retimer ทำสถิติสูงสุดใหม่ บริษัทให้แนวทางรายได้ไตรมาส 2 ที่ $525–535M อัตรากำไรขั้นต้น non-GAAP 67–69% แต่ก็มีสัญญาณที่ต้องระวัง อัตรากำไรจากการดำเนินงานลดลงเหลือ 25.2% จาก 35.7% ในไตรมาสก่อน และสินค้าคงคลังเพิ่มขึ้น $62.2M เป็น $313.1M ลูกค้า 4 รายใหญ่คิดเป็น 84% ของรายได้ โดยรายใหญ่สุดรายเดียวคิดเป็น 33% ใน value chain ของ AI บริษัทขายสายและชิปเชื่อมต่อระยะสั้นทั้งแบบทองแดงและออปติคัล ที่เชื่อม GPU สวิตช์ และแร็คเข้าด้วยกัน จุดแข็งคือการออกแบบชิป SerDes และครองส่วนแบ่งตลาดสาย AEC ราว 93–99% ที่ราคาวันที่ 20 พ.ย. หุ้นซื้อขายที่ราว 15 เท่าของกำไรล่วงหน้า เทียบกับค่าเฉลี่ย 3 ปีที่ 61 เท่า ตลาดกำลังสะท้อนความกังวลว่าส่วนแบ่งหรือการเติบโตจะลดลง ไม่ใช่มองว่าธุรกิจพังแล้ว",
+               "news":  [
+                            "20 พ.ย. 2026: CRDO ร่วง 15.2% ปิดที่ $99.86 ตามแรงเทขายหุ้นเทคทั้งกลุ่ม โดย XLK (ETF หุ้นกลุ่มเทค) ลดลงราว 6% ชนวนคืออัยการสูงสุดรัฐแคลิฟอร์เนียออกหมายเรียก Nvidia หลังตลาดปิดวันที่ 19 พ.ย. เพื่อสอบว่าชิปหรือข้อมูลลับหลุดไปจีนหรือไม่ วันนั้นไม่มีข่าวเฉพาะของ Credo",
+                            "20 พ.ย. 2026: Stifel ลดราคาเป้าหมายจาก $310 เหลือ $250 แต่ยังคงคำแนะนำ Buy และยังคาดว่า Credo จะประกาศงบดีกว่าคาดและปรับแนวทางขึ้นในวันที่ 1 ธ.ค.",
+                            "17 พ.ย. 2026: Credo และ Marvell ยุติข้อพิพาทสิทธิบัตรเรื่องสาย AEC ซึ่งรวมถึงการถอนคำร้องที่ Marvell ยื่นคัดค้านสิทธิบัตรของ Credo ต่อ USPTO ด้วย เงื่อนไขเป็นความลับ หุ้นขึ้นราว 6% ก่อนตลาดเปิดวันที่ 18 พ.ย.",
+                            "11 พ.ย. 2026: Credo แจ้งว่าจะประกาศงบไตรมาส 2 ปีงบ 2027 (สิ้นสุด 31 ต.ค.) หลังตลาดปิดวันที่ 1 ธ.ค. 2026 และจัด conference call เวลา 14:00 น. ตามเวลาแปซิฟิก",
+                            "ต.ค.–พ.ย. 2026: ความกังวลเรื่องคู่แข่งกดดันราคาหุ้น มีรายงานว่า Cisco กำลังขอใบเสนอราคาสำหรับโครงการสาย 1.6T ที่ออกแบบเอง CEO ของ MaxLinear ระบุว่าตั้งเป้าส่วนแบ่ง 20–30% ในตลาดสาย AEC 1.6T และ Edgewater Research ยังไม่พบสัญญาณการติดตั้งสาย AEC 1.6T ในระยะใกล้มากนัก",
+                            "12 ต.ค. 2026: ที่งาน OCP Global Summit Credo เปิดตัว 1.6T ZeroFlap Active Light Cable ซึ่งเป็นสายออปติคัลสำหรับระยะไม่เกิน 50 ม. ใช้ไฟ 12 W ต่อปลาย และมีแผนเริ่มส่งมอบในปี 2027"
+                        ],
+               "caution":  "ทั้งแนวโน้มและแรงส่งยังชี้ลง และ histogram ของ MACD ติดลบลึกขึ้นในวันที่ 20 พ.ย. พร้อมวอลุ่มที่หนาแน่น หากราคาหลุด $97.92 จุดอ้างอิงถัดไปคือจุดต่ำสุดรอบ 52 สัปดาห์ที่ $86.49 งบวันที่ 1 ธ.ค. อาจพาราคาแกว่งแรงได้ทั้งขึ้นและลง เพราะหุ้นตัวนี้มี beta 5 ปีราว 3.3 นักลงทุนจะจับตาว่าการพึ่งลูกค้ารายใหญ่ถึง 84% และสินค้าคงคลังที่เพิ่มขึ้นเป็นสัญญาณว่าคำสั่งซื้อชะลอหรือไม่ และ Cisco หรือ MaxLinear เริ่มได้งานออกแบบสาย 1.6T ไปแล้วหรือยัง คำอธิบายเรื่องจังหวะเวลาของสาย 1.6T จะสำคัญไม่แพ้ตัวเลขรายได้",
+               "opportunity":  "การร่วงวันที่ 20 พ.ย. มาจากข่าว Nvidia และแรงขายทั้งกลุ่ม ไม่ได้มาจากสิ่งที่ Credo รายงานเอง ขณะเดียวกัน ข้อตกลงกับ Marvell เมื่อ 17 พ.ย. ก็ปลดความเสี่ยงด้านกฎหมายออกจากธุรกิจ AEC ไปแล้ว RSI ที่ 31.61 และราคาที่อยู่ขอบล่างของ Bollinger Band แสดงว่าหุ้นถูกขายลงมาตึงมาก ที่ราว 15 เท่าของกำไรล่วงหน้า ความคาดหวังของตลาดถือว่าต่ำเมื่อเทียบกับรายได้ที่โตเกิน 100% หากรายได้ไตรมาส 2 ออกมาตามหรือดีกว่ากรอบ $525–535M และธุรกิจออปติคัล รวมถึง Active Light Cable เริ่มมีแรงส่ง ช่องว่างด้าน valuation อาจแคบลงได้",
+               "risks":  [
+                             "พึ่งพาลูกค้ากระจุกตัว: ลูกค้า 4 รายใหญ่คิดเป็น 84% ของรายได้ไตรมาส 1 และไม่มีสัญญาซื้อระยะยาว",
+                             "การแข่งขันในสาย AEC 1.6T จาก MaxLinear (ตั้งเป้าส่วนแบ่ง 20–30%) และโครงการสายที่ Cisco อาจออกแบบเอง",
+                             "แรงกดดันด้านมาร์จินและสต็อก: อัตรากำไรจากการดำเนินงานลดเหลือ 25.2% และสินค้าคงคลังเพิ่มเป็น $313.1M",
+                             "beta สูง (ราว 3.3) ทำให้หุ้นอ่อนไหวมากต่อข่าว Nvidia ความกังวลเรื่องงบลงทุน AI และนโยบายดาต้าเซ็นเตอร์",
+                             "ความเสี่ยงจากงบวันที่ 1 ธ.ค. 2026 ในช่วงที่แนวโน้มทางเทคนิคยังอ่อนแอ"
+                         ],
+               "summary":  "ภาพเทคนิคเป็นขาลง CRDO อยู่ต่ำกว่า EMA ทั้งสามเส้นไปมาก MACD ติดลบและห่างจากเส้นสัญญาณมากขึ้น และการร่วง 15.2% เมื่อ 20 พ.ย. มาพร้อมวอลุ่มราว 1.6 เท่าของปกติ ตอนนี้ราคาอยู่ที่ขอบล่างของ Bollinger Band และ RSI ใกล้โซน oversold แรงขายรอบล่าสุดมาจากข่าว Nvidia ที่ลากทั้งกลุ่มลง ไม่ใช่ข่าวของบริษัทเอง และข้อตกลงสิทธิบัตรกับ Marvell ถือเป็นข่าวดีจริง แต่การแข่งขันในสาย 1.6T และการพึ่งลูกค้ารายใหญ่ยังเป็นคำถามค้างอยู่ จนกว่างบวันที่ 1 ธ.ค. จะให้คำตอบ ทฤษฎีเรื่องคูเมืองของบริษัทจึงอยู่ในสถานะต้องจับตา ยังไม่ถึงขั้นเสียหาย"
+           },
+    "sources":  [
+                    {
+                        "title":  "Credo Sinks 6%, Marvell Down 5% as Cramer Says Nvidia Woes Are \"Overwhelming the Good News\"",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/credo-sinks-6-marvell-down-143904477.html",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Tech slump pushes Credo Technology down 14%",
+                        "publisher":  "Seeking Alpha",
+                        "url":  "https://seekingalpha.com/news/4675303-tech-slump-pushes-credo-technology-down-14",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Credo Reaches Settlement in Patent Dispute",
+                        "publisher":  "Credo Technology (Investor Relations)",
+                        "url":  "https://investors.credosemi.com/news-events/news/news-details/2026/Credo-Reaches-Settlement-in-Patent-Dispute/default.aspx",
+                        "date":  "2026-11-17"
+                    },
+                    {
+                        "title":  "Credo Schedules Second Quarter Fiscal Year 2027 Financial Results Conference Call",
+                        "publisher":  "Credo Technology",
+                        "url":  "https://s205.q4cdn.com/511065572/files/doc_news/Credo-Schedules-Second-Quarter-Fiscal-Year-2027-Financial-Results-Conference-Call-2026.pdf",
+                        "date":  "2026-11-11"
+                    },
+                    {
+                        "title":  "Credo Technology owns 93% of its AI cable niche—so why did it plunge 30%?",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/technology/ai/articles/credo-technology-owns-93-ai-124230415.html",
+                        "date":  "2026-11-13"
+                    },
+                    {
+                        "title":  "What Just Happened To Credo Stock?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/crdo/articles/622653/what-just-happened-to-credo-stock/2026-11-04",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "Credo Technology Group unveils 1.6-terabit optical cable, targets AI market",
+                        "publisher":  "Crypto Briefing",
+                        "url":  "https://cryptobriefing.com/credo-1-6t-active-light-cable-ai/",
+                        "date":  "2026-10-23"
+                    }
+                ]
+}

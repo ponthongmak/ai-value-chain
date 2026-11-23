@@ -1,0 +1,762 @@
+{
+    "ticker":  "GLW",
+    "name":  "Corning",
+    "symbol":  "NYSE:GLW",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T06:05:21Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NYSE:GLW",
+                       "yahoo":  "GLW",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T06:00:10Z",
+                       "price":  94.38,
+                       "open":  103.11,
+                       "high":  103.88,
+                       "low":  93.49,
+                       "volume":  16243500,
+                       "avgVolume20":  10986880,
+                       "changePct":  -10.94,
+                       "historyDays":  501,
+                       "ema50":  130.51,
+                       "ema100":  141.81,
+                       "ema200":  140.58,
+                       "bb":  {
+                                  "upper":  135.74,
+                                  "middle":  116.02,
+                                  "lower":  96.29
+                              },
+                       "macd":  {
+                                    "macd":  -9.26,
+                                    "signal":  -8.56,
+                                    "hist":  -0.7
+                                },
+                       "rsi14":  30.51,
+                       "high52w":  271.78,
+                       "low52w":  77.39,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         200.76
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         197.7
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         177.58
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         187.54
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         173.94
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         168.17
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         176.55
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         179.2
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         187.88
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         177.42
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         175.4
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         194.92
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         209.83
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         194.07
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         205.83
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         228.01
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         221.05
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         255.69
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         255.43
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         220.63
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         196.79
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         194.8
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         185.38
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         184.03
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         192.38
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         190.89
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         183.11
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         187.64
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         174.41
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         158.39
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         154.61
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         153.1
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         162.41
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         154.06
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         156.06
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         146.65
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         143.36
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         126.01
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         124.05
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         135.22
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         138.25
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         146.64
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         159.89
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         156.7
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         157.18
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         165.68
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         157.76
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         159.19
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         167.44
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         158.54
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         165.99
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         173.21
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         159.9
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         152.46
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         151.45
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         149.84
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         145.55
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         147.16
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         152.78
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         152.8
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         148.98
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         148.73
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         145.56
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         144.13
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         146
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         154.3
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         165.96
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         168.46
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         163.12
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         166.4
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         143.6
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         143.57
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         144.16
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         147.8
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         150.13
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         158.98
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         159.69
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         154.48
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         154.15
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         156.74
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         151.59
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         158.71
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         153.76
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         160.42
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         164.19
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         159.37
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         168.97
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         163.25
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         152.83
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         156.68
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         147.28
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         148.54
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         140.89
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         138.43
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         132
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         132.74
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         132.26
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         134.92
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         123.99
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         123.69
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         127.74
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         126.3
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         131.2
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         128.88
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         123.31
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         123.2
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         126.14
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         118.77
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         103.43
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         106.13
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         115.95
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         112.13
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         120.46
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         119.5
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         114.08
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         106.17
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         108.49
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         108.15
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         105.97
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         94.38
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          171.81,
+                                          172.82,
+                                          173.01,
+                                          173.58,
+                                          173.59,
+                                          173.38,
+                                          173.5,
+                                          173.73,
+                                          174.28,
+                                          174.4,
+                                          174.44,
+                                          175.25,
+                                          176.6,
+                                          177.29,
+                                          178.41,
+                                          180.35,
+                                          181.95,
+                                          184.84,
+                                          187.61,
+                                          188.9,
+                                          189.21,
+                                          189.43,
+                                          189.27,
+                                          189.07,
+                                          189.2,
+                                          189.26,
+                                          189.02,
+                                          188.97,
+                                          188.4,
+                                          187.22,
+                                          185.94,
+                                          184.65,
+                                          183.78,
+                                          182.62,
+                                          181.57,
+                                          180.2,
+                                          178.76,
+                                          176.69,
+                                          174.63,
+                                          173.08,
+                                          171.72,
+                                          170.73,
+                                          170.31,
+                                          169.77,
+                                          169.28,
+                                          169.14,
+                                          168.69,
+                                          168.32,
+                                          168.29,
+                                          167.9,
+                                          167.83,
+                                          168.04,
+                                          167.72,
+                                          167.12,
+                                          166.51,
+                                          165.85,
+                                          165.06,
+                                          164.36,
+                                          163.9,
+                                          163.47,
+                                          162.9,
+                                          162.34,
+                                          161.68,
+                                          161,
+                                          160.41,
+                                          160.17,
+                                          160.4,
+                                          160.71,
+                                          160.81,
+                                          161.03,
+                                          160.34,
+                                          159.68,
+                                          159.08,
+                                          158.63,
+                                          158.3,
+                                          158.33,
+                                          158.38,
+                                          158.23,
+                                          158.07,
+                                          158.02,
+                                          157.76,
+                                          157.8,
+                                          157.64,
+                                          157.75,
+                                          158,
+                                          158.06,
+                                          158.48,
+                                          158.67,
+                                          158.44,
+                                          158.37,
+                                          157.94,
+                                          157.57,
+                                          156.92,
+                                          156.19,
+                                          155.24,
+                                          154.36,
+                                          153.49,
+                                          152.76,
+                                          151.64,
+                                          150.54,
+                                          149.65,
+                                          148.73,
+                                          148.04,
+                                          147.29,
+                                          146.35,
+                                          145.44,
+                                          144.69,
+                                          143.67,
+                                          142.09,
+                                          140.68,
+                                          139.71,
+                                          138.63,
+                                          137.92,
+                                          137.2,
+                                          136.29,
+                                          135.11,
+                                          134.06,
+                                          133.05,
+                                          131.99,
+                                          130.51
+                                      ]
+                   },
+    "en":  {
+               "caution":  "Even after a 65% drop from June\u0027s peak, catching a falling stock carries timing risk while GLW trades well below all major moving averages on expanding volume. The unutilized $2 billion at-the-market equity program creates an ongoing dilution overhang whenever management raises capital to fund fiber factory expansions. Moreover, with nearly all profit growth concentrated in Optical Communications, any slowdown in hyperscaler AI capex or prolonged weakness in Glass Innovations and Solar could pressure earnings multiples further.",
+               "cons":  [
+                            "Shares remain in a steep downtrend, down 65.3% from June\u0027s $271.78 high and trading well below the EMA 50 ($130.51) and EMA 200 ($140.58).",
+                            "Corning\u0027s $2 billion at-the-market equity program announced on September 11, 2026 creates potential share dilution overhang even though no shares were sold through September 30.",
+                            "Growth is heavily skewed toward AI optics, while Glass Innovations sales fell 3% YoY to $1.51 billion and Solar posted a $7 million net loss in Q3 2026.",
+                            "High sensitivity to hyperscaler AI spending sentiment triggered a 10.94% single-day plunge on November 20, 2026 alongside optical peers."
+                        ],
+               "fundamental":  "Corning occupies a critical physical layer of the AI value chain, supplying high-density optical fiber, multicore cables, and GlassWorks AI connectivity needed as GPU clusters outgrow copper links. On October 27, 2026, Q3 core sales rose 19% YoY to $5.08 billion and core EPS jumped 36% to $0.91, with core gross margin reaching 40.5% and ROIC climbing to 16.7%. Optical Communications led with $2.38 billion in revenue (+44% YoY), driven by an 84% surge in Enterprise Networks and \u003e100% growth in Gen AI products. Management guided Q4 core sales to $5.2–$5.3 billion and core EPS to $0.96–$1.00. Multi-billion-dollar 2026 contracts with Meta, Verizon, and AT\u0026T reinforce Corning\u0027s materials-science and manufacturing scale moat, though softer Glass Innovations (-3% YoY) and a $7 million Solar loss show non-AI units remain uneven.",
+               "headline":  "Corning plunges 11% in tech selloff despite booming AI fiber earnings",
+               "news":  [
+                            "Nov 20, 2026 — GLW tumbled 10.94% to $94.38 on 1.48x normal volume despite no adverse company filing, caught in a broad AI-hardware selloff that also hit optical peers Coherent and Credo.",
+                            "Nov 11, 2026 — Jefferies initiated coverage with a Buy rating and $134 target on long-term data-center fiber demand, following Fox Advisors\u0027 November 5 upgrade to Overweight and Bernstein\u0027s November target trim to $120.",
+                            "Oct 29, 2026 — Corning\u0027s Q3 Form 10-Q confirmed zero shares were sold through September 30 under the $2 billion Goldman Sachs at-the-market equity program announced on September 11, though the shelf remains active.",
+                            "Oct 27, 2026 — Corning beat Q3 2026 guidance with $5.08 billion in core sales (+19% YoY) and $0.91 core EPS (+36% YoY), led by a 44% jump in Optical Communications, and guided Q4 core EPS to $0.96–$1.00.",
+                            "Oct 27, 2026 (Q3 update) — Management highlighted four multi-billion-dollar optical deals signed during Q3, notably September\u0027s agreements with Verizon (\u003e80 million fiber miles for 2027–2032) and AT\u0026T (\u003e$3 billion)."
+                        ],
+               "opportunity":  "For long-term AI-infrastructure holders, the market\u0027s sharp multiple reset has separated GLW\u0027s share price from accelerating fundamentals. Optical Communications is expanding margins rapidly as AI clusters shift from copper to high-density fiber, and long-term commitments from Meta, Verizon, and AT\u0026T provide rare multi-year revenue visibility through 2030–2032. As fiber penetrates deeper inside data-center racks via multicore cables and co-packaged optics later this decade, Corning\u0027s U.S. and European manufacturing scale positions it as a durable physical bottleneck beneficiary once technical selling exhausts itself.",
+               "opportunityCheck":  "The current AI-opportunity sub-scores understate Corning\u0027s AI revenue exposure and slightly undervalue its bottleneck pricing power. With Q3 2026 Optical Communications reaching $2.38 billion—nearly half of total core sales—and Gen AI products more than doubling year-over-year, AI infrastructure is now the primary profit driver rather than a secondary contributor, so AI revenue exposure should move meaningfully higher. Bottleneck and pricing power also warrant a modest lift, as 80% segment profit growth and multi-year supply commitments from Meta, Verizon, and AT\u0026T prove tight fiber capacity. Market growth, competitive position, and optionality look appropriately calibrated.",
+               "pros":  [
+                            "Optical Communications sales jumped 44% year-over-year to $2.38 billion in Q3 2026, with Gen AI fiber products growing over 100% and segment net income surging 80% to $532 million.",
+                            "Management guided Q4 2026 core sales to $5.2–$5.3 billion (+19% YoY) and core EPS to $0.96–$1.00 (+36% YoY) after beating Q3 consensus at $0.91.",
+                            "Multi-year fiber agreements signed in 2026 with Meta (up to $6 billion), Verizon (over 80 million miles through 2032), and AT\u0026T (over $3 billion) lock in long-term demand.",
+                            "Core operating margin expanded 310 basis points to 22.7% in Q3 2026, while adjusted free cash flow reached $661 million."
+                        ],
+               "risks":  [
+                             "Hyperscaler AI data-center capex digestion or order deferrals",
+                             "Potential share dilution from the active $2 billion at-the-market equity program",
+                             "Heavy capital expenditures for North Carolina and Poland fiber plant expansions pressuring near-term free cash flow",
+                             "Continued profit drag in Glass Innovations (TV/smartphone glass) and Solar ramp-up losses",
+                             "High valuation beta causing sharp drawdowns during broader tech sector selloffs"
+                         ],
+               "summary":  "Corning (GLW) fell 10.94% to $94.38 on November 20, 2026, extending a 65% retreat from its June 30 peak of $271.78 during a broad AI hardware selloff. Technically, the posture is bearish, with shares below all major moving averages and sitting just above oversold territory. Fundamentally, however, the long-term moat remains intact: Q3 2026 results on October 27 beat estimates as Optical Communications surged 44% year-over-year to $2.38 billion and Gen AI product sales more than doubled. The drop reflects valuation compression and capital-raising overhang rather than operational weakness.",
+               "technical":  "GLW closed at $94.38 on November 20, 2026, down 10.94% on the day, confirming a firmly bearish technical trend. Price sits far below all three exponential moving averages (EMAs, trend-tracking averages): EMA 50 ($130.51), EMA 100 ($141.81), and EMA 200 ($140.58). With EMA 50 already below EMA 200 and EMA 100 rolling over, the medium- and long-term trend remains downward. Momentum confirms selling pressure: MACD (a trend-momentum spread) stands at -9.26 below its -8.56 signal line, leaving a negative -0.70 histogram. Meanwhile, RSI 14 (a 0–100 momentum gauge where under 30 signals oversold conditions) has dropped to 30.51, showing stretched near-term selling without a reversal signal yet. Volatility is elevated: GLW closed below its lower Bollinger Band ($96.29; middle $116.02, upper $135.74)—a volatility channel measuring price stretch—and sits in the bottom 9% of its 52-week range ($77.39–$271.78). Volume of 16.24 million shares ran 48% above the 20-day average (10.99 million), confirming distribution. Near-term support sits at the $93.49 intraday low and $77.39 52-week low, while resistance lies at $96.29, $116.02, and $130.51."
+           },
+    "th":  {
+               "caution":  "แม้ว่าราคาหุ้นจะปรับฐานลงมาแล้วถึง 65% จากจุดสูงสุดในเดือนมิถุนายน แต่การรับมีดในช่วงที่หุ้นยังหลุดต่ำกว่าเส้นค่าเฉลี่ยหลักทั้งหมดพร้อมวอลุ่มขายสูงยังมีความเสี่ยงด้านจังหวะเวลา โครงการขายหุ้นเพิ่มทุนแบบทยอยขาย (ATM) วงเงิน $2 พันล้านที่ยังเปิดอยู่เป็นแรงกดดันด้าน dilution หากบริษัทต้องการเงินทุนขยายโรงงานไฟเบอร์เพิ่ม นอกจากนี้ เมื่อกำไรเกือบทั้งหมดพึ่งพา Optical Communications หากกลุ่ม hyperscaler ชะลองบลงทุน AI หรือธุรกิจ Glass Innovations และ Solar อ่อนแอต่อ ตลาดอาจกด valuation ลงได้อีก",
+               "cons":  [
+                            "แนวโน้มกราฟยังเป็นขาลงชัดเจน โดยร่วงลง 65.3% จากจุดสูงสุดเดือนมิถุนายนที่ $271.78 และอยู่ต่ำกว่า EMA 50 ($130.51) กับ EMA 200 ($140.58) มาก",
+                            "โครงการทยอยขายหุ้นเพิ่มทุน (ATM) วงเงิน $2 พันล้านที่ประกาศเมื่อ 11 ก.ย. 2026 สร้างความกังวลด้าน dilution แม้จะยังไม่มีการขายหุ้นจริงจนถึงสิ้น ก.ย.",
+                            "การเติบโตกระจุกตัวในธุรกิจไฟเบอร์ AI ขณะที่ Glass Innovations ยอดขายลดลง 3% YoY เหลือ $1.51 พันล้าน และ Solar ยังขาดทุนสุทธิ $7 ล้านใน Q3 2026",
+                            "หุ้นอ่อนไหวสูงต่อกระแสการลงทุน AI ทำให้ร่วงแรงถึง 10.94% ในวันเดียวเมื่อ 20 พ.ย. 2026 ตามแรงเทขายกลุ่มออปติคอลทั้งอุตสาหกรรม"
+                        ],
+               "fundamental":  "Corning ครองจุดสำคัญในโครงสร้างพื้นฐานกายภาพของห่วงโซ่มูลค่า AI ผ่านสายไฟเบอร์ความหนาแน่นสูง สายแบบ multicore และชุดเชื่อมต่อ GlassWorks AI เมื่อคลัสเตอร์ GPU เริ่มเกินขีดจำกัดของสายทองแดง งบ Q3 2026 เมื่อ 27 ต.ค. รายงานยอดขาย core โต 19% YoY เป็น $5.08 พันล้าน และ core EPS พุ่ง 36% เป็น $0.91 โดยอัตรากำไรขั้นต้น core แตะ 40.5% และ ROIC ขยับเป็น 16.7% กลุ่ม Optical Communications ทำรายได้ $2.38 พันล้าน (+44% YoY) จาก Enterprise Networks ที่โต 84% และสินค้า Gen AI ที่โตเกิน 100% ผู้บริหารคาด Q4 รายได้ $5.2–$5.3 พันล้าน และ core EPS $0.96–$1.00 สัญญาระยะยาวหลายพันล้านดอลลาร์กับ Meta, Verizon และ AT\u0026T ยิ่งตอกย้ำปราการด้านวัสดุศาสตร์และกำลังการผลิต แม้ธุรกิจเดิมอย่าง Glass Innovations (-3% YoY) และ Solar (ขาดทุน $7 ล้าน) จะยังชะลอตัวก็ตาม",
+               "headline":  "Corning ร่วง 11% ตามแรงเทขายกลุ่มเทค แม้งบไฟเบอร์ AI โตแกร่ง",
+               "news":  [
+                            "20 พ.ย. 2026 — หุ้น GLW ร่วง 10.94% ปิดที่ $94.38 ด้วยวอลุ่มสูงกว่าปกติ 1.48 เท่าแม้ไม่มีข่าวลบเฉพาะบริษัท โดยถูกเทขายตามกลุ่มฮาร์ดแวร์ AI และหุ้นออปติคอลอย่าง Coherent และ Credo",
+                            "11 พ.ย. 2026 — Jefferies เริ่มบทวิเคราะห์ด้วยคำแนะนำ Buy เป้า $134 จากดีมานด์ไฟเบอร์ดาต้าเซ็นเตอร์ ตามหลัง Fox Advisors ที่ปรับขึ้นเป็น Overweight (5 พ.ย.) ขณะที่ Bernstein หั่นเป้าลงเป็น $120 ในเดือน พ.ย.",
+                            "29 ต.ค. 2026 — แบบฟอร์ม 10-Q ไตรมาส 3 ยืนยันว่ายังไม่มีการออกขายหุ้นภายใต้โครงการ ATM วงเงิน $2 พันล้านกับ Goldman Sachs (ประกาศ 11 ก.ย.) จนถึงสิ้น ก.ย. 2026 แต่วงเงินยังคงเปิดใช้งานอยู่",
+                            "27 ต.ค. 2026 — งบ Q3 2026 ออกมาดีกว่าคาดการณ์ด้วยยอดขาย core $5.08 พันล้าน (+19% YoY) และ core EPS $0.91 (+36% YoY) นำโดย Optical Communications ที่โต 44% พร้อมให้เป้างบ Q4 core EPS ที่ $0.96–$1.00",
+                            "27 ต.ค. 2026 (อัปเดตงบ Q3) — ผู้บริหารระบุว่าเซ็นสัญญาไฟเบอร์ระดับหลายพันล้านดอลลาร์เพิ่มถึง 4 ดีลใน Q3 โดยเฉพาะดีลเดือน ก.ย. กับ Verizon (กว่า 80 ล้านไมล์ ช่วงปี 2027–2032) และ AT\u0026T (กว่า $3 พันล้าน)"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI การปรับลดมูลค่าครั้งใหญ่ทำให้ราคาหุ้น GLW แยกขาดจากพื้นฐานที่กำลังเร่งตัว ธุรกิจ Optical Communications กำลังขยายมาร์จิ้นรวดเร็วตามการเปลี่ยนผ่านจากสายทองแดงสู่ไฟเบอร์ในคลัสเตอร์ AI พร้อมสัญญาระยะยาวกับ Meta, Verizon และ AT\u0026T ที่ช่วยล็อกฐานรายได้ไปจนถึงปี 2030–2032 เมื่อสายไฟเบอร์ขยายลึกเข้าไปถึงระดับแร็คเซิร์ฟเวอร์ผ่าน multicore fiber และ co-packaged optics ในช่วงปลายทศวรรษ กำลังการผลิตในสหรัฐฯ และยุโรปของ Corning จะเป็นจุดคอขวดสำคัญที่ได้เปรียบเมื่อแรงขายทางเทคนิคเริ่มคลี่คลาย",
+               "opportunityCheck":  "คะแนนย่อยโอกาส AI ปัจจุบันประเมินสัดส่วนรายได้จาก AI ของ Corning ต่ำเกินไป และให้คะแนนอำนาจต่อรองจากจุดคอขวดต่ำกว่าความเป็นจริงเล็กน้อย เมื่อ Optical Communications ใน Q3 2026 แตะ $2.38 พันล้านหรือเกือบครึ่งหนึ่งของรายได้ core ทั้งหมด และยอดขายสินค้า Gen AI โตกว่าเท่าตัว โครงสร้างพื้นฐาน AI จึงกลายเป็นเครื่องยนต์ทำกำไรหลักแล้วและควรปรับเพิ่มคะแนนสัดส่วนรายได้ AI อย่างมีนัยสำคัญ ส่วนคะแนนคอขวดและอำนาจตั้งราคาก็ควรขยับขึ้นเช่นกัน เพราะกำไรกลุ่มนี้พุ่งถึง 80% พร้อมสัญญาระยะยาวจาก Meta, Verizon และ AT\u0026T สะท้อนอุปทานไฟเบอร์ที่ตึงตัว ขณะที่การเติบโตของตลาด ตำแหน่งการแข่งขัน และโอกาสต่อยอดถือว่าสมเหตุสมผลแล้ว",
+               "pros":  [
+                            "รายได้ Optical Communications พุ่ง 44% YoY แตะ $2.38 พันล้านใน Q3 2026 โดยสินค้าไฟเบอร์ Gen AI โตเกิน 100% และกำไรสุทธิกลุ่มนี้พุ่ง 80% เป็น $532 ล้าน",
+                            "ผู้บริหารให้เป้า Q4 2026 ยอดขาย core ที่ $5.2–$5.3 พันล้าน (+19% YoY) และ core EPS ที่ $0.96–$1.00 (+36% YoY) หลังงบ Q3 ออกมาดีกว่าคาดที่ $0.91",
+                            "สัญญาระยะยาวในปี 2026 กับ Meta (สูงสุด $6 พันล้าน), Verizon (กว่า 80 ล้านไมล์ถึงปี 2032) และ AT\u0026T (กว่า $3 พันล้าน) ช่วยสร้างความชัดเจนของรายได้หลายปีข้างหน้า",
+                            "อัตรากำไรจากการดำเนินงาน core ขยายตัว 310 bps แตะ 22.7% ใน Q3 2026 พร้อมกระแสเงินสดอิสระปรับปรุงแล้ว $661 ล้าน"
+                        ],
+               "risks":  [
+                             "ความเสี่ยงที่กลุ่ม hyperscaler ชะลอหรือเลื่อนงบลงทุนดาต้าเซ็นเตอร์ AI",
+                             "ความเสี่ยงด้าน share dilution จากโครงการทยอยขายหุ้นเพิ่มทุน ATM วงเงิน $2 พันล้านที่ยังเปิดอยู่",
+                             "งบลงทุนก่อสร้างโรงงานไฟเบอร์ในสหรัฐฯ และโปแลนด์ที่สูงอาจกดดันกระแสเงินสดอิสระระยะสั้น",
+                             "แรงฉุดจากธุรกิจ Glass Innovations (กระจกทีวีและสมาร์ตโฟน) ที่ซบเซาและธุรกิจ Solar ที่ยังขาดทุนช่วงเร่งผลิต",
+                             "ค่าเบต้าของ valuation ที่สูงทำให้หุ้นผันผวนรุนแรงเมื่อตลาดหุ้นเทคปรับฐาน"
+                         ],
+               "summary":  "หุ้น Corning (GLW) ร่วง 10.94% ปิดที่ $94.38 เมื่อวันที่ 20 พ.ย. 2026 รวมปรับฐานลงแล้ว 65% จากจุดสูงสุดวันที่ 30 มิ.ย. ที่ $271.78 ท่ามกลางแรงเทขายกลุ่มฮาร์ดแวร์ AI ภาพเทคนิคยังเป็นขาลงชัดเจน โดยราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยหลักทั้งหมดและเข้าใกล้เขตขายมากเกินไป แต่พื้นฐานและปราการธุรกิจระยะยาวยังแข็งแกร่ง หลังงบ Q3 2026 วันที่ 27 ต.ค. ออกมาดีกว่าคาดจาก Optical Communications ที่โต 44% YoY แตะ $2.38 พันล้าน และสินค้า Gen AI โตกว่าเท่าตัว การปรับลงจึงมาจากการลดพีอีและกังวลเรื่องเพิ่มทุนมากกว่าพื้นฐานเสื่อมถอย",
+               "technical":  "GLW ปิดที่ $94.38 เมื่อ 20 พ.ย. 2026 ลดลง 10.94% ในวันเดียว ยืนยันแนวโน้มเทคนิคขาลงชัดเจน ราคาอยู่ต่ำกว่าเส้น EMA (เส้นค่าเฉลี่ยเคลื่อนที่บอกแนวโน้ม) ทั้ง 3 เส้นมาก ได้แก่ EMA 50 ($130.51), EMA 100 ($141.81) และ EMA 200 ($140.58) โดย EMA 50 ตัดลงต่ำกว่า EMA 200 ไปแล้ว ขณะที่ EMA 100 กำลังหักหัวลง สะท้อนขาลงทั้งระยะกลางและยาว ด้านโมเมนตัม MACD (ตัวชี้วัดโมเมนตัมแนวโน้ม) อยู่ที่ -9.26 ต่ำกว่าเส้น signal ที่ -8.56 และ histogram ติดลบ -0.70 แรงขายยังคุมตลาด ส่วน RSI 14 (ดัชนีวัดแรงซื้อขายช่วง 0–100 ต่ำกว่า 30 คือเขตขายมากเกินไป) ลดลงมาที่ 30.51 สะท้อนแรงขายที่ตึงตัวแต่ยังไม่เกิดสัญญาณกลับตัว ด้านความผันผวนราคาปิดหลุดกรอบล่างของ Bollinger Bands ($96.29; เส้นกลาง $116.02 กรอบบน $135.74) ซึ่งเป็นกรอบวัดการเหวี่ยงของราคา และอยู่ในโซนล่าง 9% ของกรอบรอบ 52 สัปดาห์ ($77.39–$271.78) วอลุ่ม 16.24 ล้านหุ้นสูงกว่าค่าเฉลี่ย 20 วัน (10.99 ล้านหุ้น) ถึง 48% ยืนยันแรงขายหนัก แนวรับใกล้สุดอยู่ที่จุดต่ำสุดระหว่างวัน $93.49 และฐาน 52 สัปดาห์ $77.39 ส่วนแนวต้านอยู่ที่ $96.29, $116.02 และ $130.51"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-10-27",
+                        "publisher":  "Corning",
+                        "title":  "Corning Delivers Outstanding Third-Quarter Results",
+                        "url":  "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/corning-delivers-outstanding-third-quarter-results.html"
+                    },
+                    {
+                        "date":  "2026-10-27",
+                        "publisher":  "Corning Investor Relations",
+                        "title":  "Q3 2026 Earnings Release",
+                        "url":  "https://s203.q4cdn.com/212458750/files/doc_financials/2026/q3/Q3-2026-Earnings-Release.pdf"
+                    },
+                    {
+                        "date":  "2026-10-29",
+                        "publisher":  "U.S. SEC (EDGAR)",
+                        "title":  "Form 10-Q for the Quarterly Period Ended September 30, 2026",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/24741/000002474126000279/glw-20260930.htm"
+                    },
+                    {
+                        "date":  "2026-10-27",
+                        "publisher":  "Fortune",
+                        "title":  "Corning Q3 2026 Earnings Call Transcript",
+                        "url":  "https://fortune.com/transcript/corning-q3-2026-earnings-call-transcript/"
+                    },
+                    {
+                        "date":  "2026-11-11",
+                        "publisher":  "Investing.com",
+                        "title":  "Jefferies initiates Corning stock coverage with buy rating on fiber demand",
+                        "url":  "https://www.investing.com/news/analyst-ratings/jefferies-initiates-corning-stock-coverage-with-buy-rating-on-fiber-demand-93ch-3831828"
+                    },
+                    {
+                        "date":  "2026-09-08",
+                        "publisher":  "Corning",
+                        "title":  "Verizon and Corning Announce Multi-Year, Multi-Billion-Dollar Supply Agreement for Broadband Expansion and Next-Gen AI Infrastructure",
+                        "url":  "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/09/verizon-and-corning-announce-multi-year-multi-billion-dollar-supply-agreement-for-broadband-expansion-and-next-gen-ai-infrastructure.html"
+                    },
+                    {
+                        "date":  "2026-09-29",
+                        "publisher":  "Corning",
+                        "title":  "AT\u0026T and Corning Team Up to Engineer the Connected World with Fiber",
+                        "url":  "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/09/att-and-corning-team-up-to-engineer-the-connected-world-with-fiber.html"
+                    }
+                ]
+}

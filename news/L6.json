@@ -1,0 +1,234 @@
+{
+    "layer":  6,
+    "name":  "AI Platforms, Distribution \u0026 Edge",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "generatedAt":  "2026-11-23T05:33:04Z",
+    "period":  [
+                   "2026-11-09",
+                   "2026-11-23"
+               ],
+    "costUsd":  null,
+    "brief":  {
+                  "en":  "The period was defined by Anthropic\u0027s historic $81.3 billion Nasdaq IPO, which reinforced hyperscaler equity and cloud ties for AMZN and GOOGL, alongside new U.S. BIS rules tightening remote AI cloud access and adding five chip-licensing destinations while exempting qualifying U.S. cloud operators. Across platforms and silicon, MSFT, GOOGL, ORCL, AMZN, and QCOM pushed harder into in-house models, custom AI chips, and agentic cloud infrastructure as ORCL confirmed full funding for its OpenAI buildout. Meanwhile, edge and security stocks saw active catalysts, led by reported CRWD-Zscaler acquisition talks, a 30x jump in AI-driven attack traffic on NET\u0027s network, and 110% revenue growth at AMBQ.",
+                  "th":  "ช่วงสองสัปดาห์นี้โดดเด่นด้วยไอพีโอประวัติศาสตร์มูลค่า 8.13 หมื่นล้านดอลลาร์ของ Anthropic บนตลาด Nasdaq ซึ่งตอกย้ำสายสัมพันธ์ด้านสัดส่วนการถือหุ้นและรายได้คลาวด์กับ AMZN และ GOOGL ควบคู่กับกฎใหม่ของ U.S. BIS ที่อุดช่องโหว่การเช่าพลังประมวลผล AI Cloud จากระยะไกลและเพิ่มใบอนุญาตส่งออกชิปใน 5 ประเทศ แต่ยังยกเว้นให้ผู้ให้บริการคลาวด์สหรัฐฯ ที่เข้าเกณฑ์ ขณะเดียวกัน MSFT, GOOGL, ORCL, AMZN และ QCOM เดินหน้าขยายโมเดลของตัวเอง ชิปคัสตอม และโครงสร้างพื้นฐานสำหรับ AI Agent โดย ORCL ยืนยันว่าจัดหาเงินทุนสำหรับสัญญา OpenAI ครบแล้ว ด้านกลุ่ม Edge และความปลอดภัยไซเบอร์มีความเคลื่อนไหวสำคัญ ทั้งกระแสข่าว CRWD เจรจาซื้อกิจการ Zscaler ปริมาณการโจมตีอัตโนมัติด้วย AI ที่พุ่ง 30 เท่าบนเครือข่ายของ NET และรายได้ไตรมาส 3 ของ AMBQ ที่เติบโตถึง 110%"
+              },
+    "themes":  {
+                   "en":  [
+                              "Record Anthropic IPO",
+                              "Cloud AI Export Rules",
+                              "Enterprise Agent Infrastructure",
+                              "Custom Silicon \u0026 Edge AI"
+                          ],
+                   "th":  [
+                              "ไอพีโอประวัติศาสตร์ของ Anthropic",
+                              "กฎคุมส่งออก AI Cloud",
+                              "โครงสร้างพื้นฐาน Enterprise Agent",
+                              "ชิปคัสตอมและ Edge AI"
+                          ]
+               },
+    "items":  [
+                  {
+                      "date":  "2026-11-20",
+                      "impact":  "positive",
+                      "publisher":  "Anthropic",
+                      "tickers":  [
+                                      "ANT",
+                                      "AMZN",
+                                      "GOOGL"
+                                  ],
+                      "title_en":  "Anthropic closes record $81.3 billion Nasdaq IPO priced at $83 per share",
+                      "title_th":  "Anthropic ปิดดีลไอพีโอประวัติศาสตร์ 8.13 หมื่นล้านดอลลาร์บน Nasdaq ที่ราคา 83 ดอลลาร์ต่อหุ้น",
+                      "url":  "https://investor.anthropic.com/news-releases/news-release-details/anthropic-announces-closing-initial-public-offering-including",
+                      "why_en":  "The record listing gives ANT massive balance-sheet firepower for frontier compute while crystallizing major non-voting stakes for AMZN (14.7%) and GOOGL (~13.5%, including a $10 billion private placement) alongside multi-year cloud spend commitments.",
+                      "why_th":  "การเข้าตลาดหลักทรัพย์ครั้งใหญ่ที่สุดในประวัติศาสตร์ช่วยเสริมฐานเงินทุนมหาศาลให้ ANT สำหรับลงทุนพลังประมวลผล AI ขณะเดียวกันยังสะท้อนมูลค่าหุ้นที่ AMZN (14.7%) และ GOOGL (ราว 13.5% รวมการลงทุนเพิ่ม 1 หมื่นล้านดอลลาร์) ถืออยู่ ควบคู่กับสัญญาใช้บริการคลาวด์ระยะยาว"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "mixed",
+                      "publisher":  "U.S. Bureau of Industry and Security",
+                      "tickers":  [
+                                      "MSFT",
+                                      "AMZN",
+                                      "GOOGL",
+                                      "ORCL"
+                                  ],
+                      "title_en":  "U.S. BIS issues rule curbing remote AI cloud access and adding five chip-license countries",
+                      "title_th":  "U.S. BIS ออกกฎคุมการเข้าถึง AI Cloud จากระยะไกล และเพิ่มใบอนุญาตส่งออกชิปอีก 5 ประเทศ",
+                      "url":  "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
+                      "why_en":  "The rule adds global compliance burdens on cloud clusters exceeding 12 million TPP serving Macau or Country Group D:5 clients and imposes chip licenses on Thailand, Malaysia, Singapore, Indonesia, and Brazil, though qualifying U.S. hyperscalers receive exemptions.",
+                      "why_th":  "กฎใหม่เพิ่มภาระการตรวจสอบลูกค้าสำหรับดาต้าเซ็นเตอร์ที่มีพลังประมวลผลเกิน 12 ล้าน TPP หากให้บริการลูกค้าจากมาเก๊าหรือกลุ่มประเทศ D:5 รวมถึงบังคับขอใบอนุญาตส่งออกชิปไปไทย มาเลเซีย สิงคโปร์ อินโดนีเซีย และบราซิล แต่ยังคงข้อยกเว้นให้ผู้ให้บริการคลาวด์สัญชาติสหรัฐฯ ที่เข้าเกณฑ์"
+                  },
+                  {
+                      "date":  "2026-11-20",
+                      "impact":  "positive",
+                      "publisher":  "Oracle",
+                      "tickers":  [
+                                      "ORCL"
+                                  ],
+                      "title_en":  "Oracle confirms full funding for OpenAI infrastructure contract after $20 billion raise",
+                      "title_th":  "Oracle ยืนยันจัดหาเงินทุนครบสำหรับสัญญาโครงสร้างพื้นฐาน OpenAI หลังระดมทุน 2 หมื่นล้านดอลลาร์",
+                      "url":  "https://www.oracle.com/news/announcement/oracle-statement-november-20-2026/",
+                      "why_en":  "Securing full financing eases balance-sheet concerns around Oracle\u0027s capital-intensive AI buildout, with its Abilene campus nearly finished, Shackelford permitted, NVIDIA Vera Rubin racks on schedule, and free cash flow targeted to exceed $30 billion in FY29.",
+                      "why_th":  "การปิดดีลเงินทุนครบถ้วนช่วยคลายความกังวลเรื่องภาระหนี้และเงินลงทุนขยายดาต้าเซ็นเตอร์ของ ORCL โดยแคมปัส Abilene ใกล้เสร็จสมบูรณ์ แคมปัส Shackelford ได้รับใบอนุญาตแล้ว แร็ค NVIDIA Vera Rubin ยังส่งมอบตามแผน และบริษัทยังคงเป้ากระแสเงินสดอิสระเกิน 3 หมื่นล้านดอลลาร์ในปีงบประมาณ 2029"
+                  },
+                  {
+                      "date":  "2026-11-20",
+                      "impact":  "mixed",
+                      "publisher":  "Channel NewsAsia",
+                      "tickers":  [
+                                      "CRWD"
+                                  ],
+                      "title_en":  "CrowdStrike reportedly in talks to acquire cloud security rival Zscaler",
+                      "title_th":  "มีรายงาน CrowdStrike อยู่ระหว่างเจรจาซื้อกิจการคู่แข่งด้านคลาวด์ซีเคียวริตี้ Zscaler",
+                      "url":  "https://www.channelnewsasia.com/business/crowdstrike-talks-acquire-zscaler-sources-say-4785461",
+                      "why_en":  "Acquiring Zscaler (valued around $32 billion to $33.5 billion) would pair CRWD\u0027s endpoint Falcon platform with leading zero-trust network security in a ~$265 billion combined giant, but carries substantial integration and dilution risks if a deal proceeds.",
+                      "why_th":  "หากดีลซื้อ Zscaler (มูลค่าตลาดราว 3.2–3.35 หมื่นล้านดอลลาร์) เกิดขึ้นจริง จะช่วยผสานจุดแข็งด้าน Endpoint ของ Falcon เข้ากับระบบ Zero-Trust บนคลาวด์สู่บริษัทรวมมูลค่าราว 2.65 แสนล้านดอลลาร์ แต่ยังมีความเสี่ยงสูงด้านการควบรวมและ Dilution Dilution ต่อผู้ถือหุ้น"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "Microsoft",
+                      "tickers":  [
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Microsoft unveils seven MAI models and Agent 365 cost controls at Ignite 2026",
+                      "title_th":  "Microsoft เปิดตัวโมเดล MAI ใหม่ 7 รุ่น พร้อมระบบคุมต้นทุน Agent 365 ในงาน Ignite 2026",
+                      "url":  "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+                      "why_en":  "Launching in-house models like MAI Code 2 (starting at $0.50/$2.50 per million tokens) and MAI Cyber 2 Flash alongside Agent 365 analytics and Cobalt 200 VMs lowers MSFT\u0027s reliance on third-party models and sharpens enterprise Copilot margins.",
+                      "why_th":  "การเปิดตัวโมเดลที่พัฒนาเองอย่าง MAI Code 2 (ราคาโปรโมชัน 0.50/2.50 ดอลลาร์ต่อล้านโทเคน) และ MAI Cyber 2 Flash ควบคู่กับเครื่องมือคุมต้นทุน Agent 365 และ Cobalt 200 VMs ช่วยลดการพึ่งพาโมเดลภายนอกและหนุนอัตรากำไรของ Azure และ Copilot ในองค์กร"
+                  },
+                  {
+                      "date":  "2026-11-09",
+                      "impact":  "positive",
+                      "publisher":  "Google",
+                      "tickers":  [
+                                      "GOOGL"
+                                  ],
+                      "title_en":  "Google launches TPU 8i Max and TPU 8tx for agentic and confidential AI",
+                      "title_th":  "Google เปิดตัวชิป TPU 8i Max และ TPU 8tx สำหรับงาน AI Agent และการประมวลผลความลับสูง",
+                      "url":  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
+                      "why_en":  "Expanding eighth-generation TPUs to four systems in one year—including dual-chip 8i Max (384 GB HBM, 17.2 TB/s bandwidth) and AMD EPYC-paired encrypted 8tx—strengthens Google Cloud\u0027s custom-silicon economics for regulated and multi-agent workloads.",
+                      "why_th":  "การขยายชิป TPU รุ่นที่ 8 เป็น 4 ระบบภายในปีเดียว ทั้ง 8i Max แบบชิปคู่ (หน่วยความจำ HBM 384 GB แบนด์วิดท์ 17.2 TB/s) และ 8tx ที่เข้ารหัสระดับฮาร์ดแวร์ร่วมกับ AMD EPYC ช่วยเสริมความได้เปรียบด้านต้นทุนของ Google Cloud สำหรับลูกค้าองค์กรและภาครัฐ"
+                  },
+                  {
+                      "date":  "2026-11-20",
+                      "impact":  "positive",
+                      "publisher":  "24/7 Wall St.",
+                      "tickers":  [
+                                      "GOOGL"
+                                  ],
+                      "title_en":  "Google reportedly shifts 1 million 2027 TPU orders from Broadcom to MediaTek",
+                      "title_th":  "มีรายงาน Google โยกคำสั่งผลิต TPU ปี 2027 ราว 1 ล้านตัวจาก Broadcom ไป MediaTek",
+                      "url":  "https://247wallst.com/broadcom/2026/11/20/broadcom-plunges-11-as-google-reportedly-shifts-tpu-orders-to-mediatek/",
+                      "why_en":  "Reallocating roughly 1 million 2027 TPU units toward MediaTek gives GOOGL stronger supplier leverage, better power-efficiency options, and reduced single-vendor bottleneck risk as internal and cloud TPU demand scales.",
+                      "why_th":  "การกระจายคำสั่งผลิตชิป TPU ปี 2027 ราว 1 ล้านตัวไปยัง MediaTek ช่วยเพิ่มอำนาจต่อรองด้านต้นทุน ลดการพึ่งพาผู้ผลิตรายเดียว และเสริมประสิทธิภาพการใช้พลังงานให้โครงสร้างพื้นฐาน AI ของ GOOGL"
+                  },
+                  {
+                      "date":  "2026-11-09",
+                      "impact":  "positive",
+                      "publisher":  "Anthropic",
+                      "tickers":  [
+                                      "ANT"
+                                  ],
+                      "title_en":  "Anthropic releases Claude Fable 5.2 and Mythos 5.2 with 30% faster speeds",
+                      "title_th":  "Anthropic เปิดตัว Claude Fable 5.2 และ Mythos 5.2 เร็วขึ้นสูงสุด 30% เสริมงาน Agentic",
+                      "url":  "https://www.anthropic.com/news/introducing-claude-fable-5-2-and-claude-mythos-5-2",
+                      "why_en":  "Up to 30% faster output and upgraded multi-agent orchestration for coding, finance, and science strengthen ANT\u0027s commercial stickiness across API and enterprise developer customers right as it transitions to a public company.",
+                      "why_th":  "ความเร็วการประมวลผลที่เพิ่มขึ้นสูงสุด 30% พร้อมความสามารถสั่งงาน AI Agent หลายตัวพร้อมกันในงานเขียนโค้ด การเงิน และวิทยาศาสตร์ ช่วยย้ำความแข็งแกร่งด้านรายได้จากลูกค้าองค์กรและนักพัฒนาของ ANT ในจังหวะเข้าตลาดหุ้น"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "Business Wire",
+                      "tickers":  [
+                                      "QCOM"
+                                  ],
+                      "title_en":  "Qualcomm and Cirrascale launch cloud evaluations for Dragonfly AI200 inference racks",
+                      "title_th":  "Qualcomm จับมือ Cirrascale เปิดทดสอบระบบคลาวด์ชิป Dragonfly AI200 สำหรับงาน AI Inference",
+                      "url":  "https://www.businesswire.com/news/home/20261117481734/en/Qualcomm-and-Cirrascale-Collaborate-to-Advance-Next-Generation-Energy-Efficient-AI-Inference",
+                      "why_en":  "Opening enterprise evaluations for the rack-scale AI200 (768 GB LPDDR per card, up to ~43 TB per rack) marks a tangible commercial milestone toward QCOM\u0027s $5 billion FY27 data-center revenue goal beyond handsets.",
+                      "why_th":  "การเปิดให้ลูกค้าองค์กรและคลาวด์ทดลองใช้งานแร็ค AI200 (หน่วยความจำ 768 GB LPDDR ต่อการ์ด รวมสูงสุดราว 43 TB ต่อแร็ค) เป็นก้าวสำคัญเชิงพาณิชย์ของ QCOM สู่เป้ารายได้ดาต้าเซ็นเตอร์ 5 พันล้านดอลลาร์ในปีงบประมาณ 2027 เพื่อลดการพึ่งพาตลาดสมาร์ตโฟน"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "impact":  "positive",
+                      "publisher":  "Ambiq Micro",
+                      "tickers":  [
+                                      "AMBQ"
+                                  ],
+                      "title_en":  "Ambiq Micro Q3 net sales jump 110% to $38.14 million, raising full-year outlook",
+                      "title_th":  "Ambiq Micro รายได้ไตรมาส 3 พุ่ง 110% แตะ 38.14 ล้านดอลลาร์ พร้อมปรับเพิ่มเป้าทั้งปี",
+                      "url":  "https://ambiq.com/am-press-releases/ambiq-reports-third-quarter-2026-financial-results/",
+                      "why_en":  "A 390 bps non-GAAP gross margin expansion to 48.7%, Q4 revenue guidance of $43.5M–$44.5M, and an upgraded ~$140M FY26 sales target show accelerating adoption of AMBQ\u0027s ultra-low-power SPOT chips in edge AI wearables.",
+                      "why_th":  "อัตรากำไรขั้นต้น Non-GAAP ที่ขยายตัว 390 bps สู่ 48.7% แนวโน้มรายได้ไตรมาส 4 ที่ 43.5–44.5 ล้านดอลลาร์ และการปรับเป้ารายได้ปี 2026 ขึ้นเป็นราว 140 ล้านดอลลาร์ สะท้อนความต้องการชิปประหยัดพลังงาน SPOT ในอุปกรณ์สวมใส่ Edge AI ที่เร่งตัวชัดเจน"
+                  },
+                  {
+                      "date":  "2026-11-13",
+                      "impact":  "positive",
+                      "publisher":  "Cloudflare",
+                      "tickers":  [
+                                      "NET",
+                                      "CRWD"
+                                  ],
+                      "title_en":  "Cloudflare reports 30x surge in automated AI pentesting and exploitation traffic",
+                      "title_th":  "Cloudflare เผยปริมาณการเจาะระบบและสแกนช่องโหว่อัตโนมัติด้วย AI พุ่ง 30 เท่าตั้งแต่เดือนตุลาคม",
+                      "url":  "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
+                      "why_en":  "A 30x spike in daily autonomous AI exploitation requests across 50+ framework families underscores rising enterprise urgency for automated edge and endpoint defenses, supporting structural security demand for NET and CRWD.",
+                      "why_th":  "ปริมาณคำขอเจาะระบบอัตโนมัติจากเฟรมเวิร์ก AI กว่า 50 ตระกูลที่พุ่งขึ้นถึง 30 เท่าต่อวัน ตอกย้ำความจำเป็นขององค์กรในการลงทุนระบบป้องกันระดับ Edge และ Endpoint ซึ่งหนุนความต้องการระยะยาวของทั้ง NET และ CRWD"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "mixed",
+                      "publisher":  "The Guardian",
+                      "tickers":  [
+                                      "PLTR"
+                                  ],
+                      "title_en":  "UK confirms Palantir keeps £330 million NHS data contract until March 2029 exit",
+                      "title_th":  "รัฐบาลสหราชอาณาจักรยืนยันต่อสัญญา NHS มูลค่า 330 ล้านปอนด์กับ Palantir ถึงมีนาคม 2029 ก่อนสิ้นสุด",
+                      "url":  "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantirs-contract-with-nhs-in-england-in-2029",
+                      "why_en":  "Avoiding an early 2027 break clause protects near-term UK public-sector revenue for PLTR, but the government\u0027s commitment to exit and re-tender the Federated Data Platform in 2029 caps long-term NHS renewal upside.",
+                      "why_th":  "การที่รัฐบาลอังกฤษไม่ใช้สิทธิ์ยกเลิกสัญญาก่อนกำหนดในปี 2027 ช่วยรักษารายได้ภาครัฐระยะสั้นให้ PLTR แต่การประกาศเตรียมยุติสัญญาและเปิดประมูลใหม่ในปี 2029 จำกัดโอกาสต่ออายุระยะยาวในโครงการ NHS"
+                  },
+                  {
+                      "date":  "2026-11-18",
+                      "impact":  "mixed",
+                      "publisher":  "Los Angeles Times",
+                      "tickers":  [
+                                      "QCOM"
+                                  ],
+                      "title_en":  "Qualcomm discloses 517 California job cuts amid handset softness and data-center pivot",
+                      "title_th":  "Qualcomm แจ้งปลดพนักงาน 517 ตำแหน่งในแคลิฟอร์เนีย ท่ามกลางยอดขายมือถือชะลอและแผนรุกดาต้าเซ็นเตอร์",
+                      "url":  "https://www.latimes.com/socal/daily-pilot/news/story/2026-11-18/tech-layoffs-flare-up-in-san-diego-with-hundreds-of-layoffs-at-chipmaker",
+                      "why_en":  "Eliminating 442 roles in San Diego and 75 in Santa Clara highlights near-term pressure in QCOM\u0027s core handset segment, while signaling tighter cost discipline to fund its data-center AI expansion.",
+                      "why_th":  "การลดพนักงาน 442 ตำแหน่งในซานดิเอโกและ 75 ตำแหน่งในซานตาคลาราสะท้อนแรงกดดันระยะสั้นในธุรกิจชิปมือถือของ QCOM แต่ขณะเดียวกันก็แสดงถึงการคุมต้นทุนเพื่อโยกทรัพยากรไปขยายธุรกิจ AI ดาต้าเซ็นเตอร์"
+                  },
+                  {
+                      "date":  "2026-11-13",
+                      "impact":  "positive",
+                      "publisher":  "SEC EDGAR",
+                      "tickers":  [
+                                      "AXON"
+                                  ],
+                      "title_en":  "Axon shifts $1.2 billion Skydio drone investment to 90% cash in SEC filing",
+                      "title_th":  "Axon ปรับโครงสร้างการลงทุนใน Skydio มูลค่า 1.2 พันล้านดอลลาร์เป็นเงินสด 90% ลดการออกหุ้นใหม่",
+                      "url":  "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001078150/000107815026000078/axon-20261113.htm",
+                      "why_en":  "Raising the cash share of AXON\u0027s ~$1.2 billion Skydio drone deal from roughly 60% to 90% significantly reduces shareholder dilution while preserving its exclusive North American public-safety drone distribution partnership.",
+                      "why_th":  "การเพิ่มสัดส่วนชำระด้วยเงินสดจากราว 60% เป็น 90% ในดีลลงทุนบริษัทโดรน Skydio มูลค่า 1.2 พันล้านดอลลาร์ ช่วยลดผลกระทบ Dilution ต่อผู้ถือหุ้น AXON อย่างมีนัยสำคัญ ขณะที่ยังคงสิทธิ์จัดจำหน่ายโดรนภาครัฐแต่เพียงผู้เดียวในอเมริกาเหนือ"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "eWeek",
+                      "tickers":  [
+                                      "AMZN"
+                                  ],
+                      "title_en":  "AWS extends Amazon Bedrock AgentCore memory retention to 10 years for enterprise agents",
+                      "title_th":  "AWS ขยายเวลาจัดเก็บความจำ Amazon Bedrock AgentCore เป็น 10 ปี รองรับ AI Agent องค์กร",
+                      "url":  "https://www.eweek.com/news/aws-lets-bedrock-ai-agents-keep-10-years-of-conversations-with-limits/",
+                      "why_en":  "Raising AgentCore event memory retention from 1 year to up to 10 years helps AWS capture long-horizon, compliance-heavy enterprise agent workloads on Bedrock and strengthens platform lock-in.",
+                      "why_th":  "การขยายระยะเวลาจัดเก็บประวัติการทำงานของ AI Agent จาก 1 ปีเป็นสูงสุด 10 ปี ช่วยให้ AWS ตอบโจทย์องค์กรที่มีข้อกำหนดด้านการตรวจสอบและกำกับดูแลระยะยาวได้ดีขึ้น เพิ่มแรงดึงดูดการใช้งานบนแพลตฟอร์ม Bedrock"
+                  }
+              ]
+}

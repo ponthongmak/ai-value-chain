@@ -1,0 +1,739 @@
+{
+    "ticker":  "CRWD",
+    "name":  "CrowdStrike",
+    "symbol":  "NASDAQ:CRWD",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:03:52Z",
+    "costUsd":  0.6867038,
+    "stance":  "neutral",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:CRWD",
+                       "yahoo":  "CRWD",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:01:26Z",
+                       "price":  229.44,
+                       "open":  237.38,
+                       "high":  240.92,
+                       "low":  227.3,
+                       "volume":  12798700,
+                       "avgVolume20":  9210110,
+                       "changePct":  -5.76,
+                       "ema50":  235.96,
+                       "ema100":  221.09,
+                       "ema200":  192.43,
+                       "bb":  {
+                                  "upper":  270.06,
+                                  "middle":  238.11,
+                                  "lower":  206.17
+                              },
+                       "macd":  {
+                                    "macd":  -4.31,
+                                    "signal":  -4.74,
+                                    "hist":  0.44
+                                },
+                       "rsi14":  46.05,
+                       "high52w":  286.99,
+                       "low52w":  85.68,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         186.9
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         179.77
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         167.76
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         164.7
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         161.23
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         161.93
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         172.88
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         170.7
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         173.23
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         169.87
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         170.74
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         171.21
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         168.86
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         170.23
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         168.26
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         169.66
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         175.27
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         185.73
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         190.79
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         193.18
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         193.98
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         199.38
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         194.62
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         191.12
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         198.4
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         187.18
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         187.91
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         210.73
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         206.77
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         203.76
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         203.08
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         198.49
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         191.15
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         188.42
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         183.42
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         183.28
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         180.11
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         181.8
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         179.38
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         185.22
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         190.86
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         202.54
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         211.22
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         209.86
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         207.39
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         214.42
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         225.16
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         221.9
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         221.78
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         225.53
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         216.95
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         213.9
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         212.92
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         201.63
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         190.34
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         191.95
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         190.68
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         185.38
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         189.18
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         227.96
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         218.4
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         231
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         215.07
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         203.42
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         214.97
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         213.1
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         210.02
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         207.8
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         208.86
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         206.74
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         235.38
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         242.49
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         241.36
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         245.7
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         237.65
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         249.35
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         250.06
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         262.49
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         259.67
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         252.13
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         259.25
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         262.74
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         264.75
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         266.09
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         270.04
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         272.67
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         278.86
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         265.44
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         263.01
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         275.04
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         263.01
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         261.21
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         249.29
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         244.57
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         227.39
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         228.1
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         227.37
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         239.34
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         237.94
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         257.57
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         261.83
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         268.02
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         266.66
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         261.15
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         250.43
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         241.81
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         244.68
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         241
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         217.2
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         216.9
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         228.58
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         225.76
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         229.06
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         229.87
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         226.61
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         223.21
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         219.58
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         237.03
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         243.46
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         229.44
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          137.28,
+                                          138.95,
+                                          140.08,
+                                          141.04,
+                                          141.83,
+                                          142.62,
+                                          143.81,
+                                          144.86,
+                                          145.98,
+                                          146.91,
+                                          147.85,
+                                          148.76,
+                                          149.55,
+                                          150.36,
+                                          151.06,
+                                          151.79,
+                                          152.71,
+                                          154.01,
+                                          155.45,
+                                          156.93,
+                                          158.38,
+                                          159.99,
+                                          161.35,
+                                          162.52,
+                                          163.92,
+                                          164.84,
+                                          165.74,
+                                          167.51,
+                                          169.05,
+                                          170.41,
+                                          171.69,
+                                          172.74,
+                                          173.46,
+                                          174.05,
+                                          174.42,
+                                          174.76,
+                                          174.97,
+                                          175.24,
+                                          175.4,
+                                          175.79,
+                                          176.38,
+                                          177.4,
+                                          178.73,
+                                          179.95,
+                                          181.03,
+                                          182.34,
+                                          184.02,
+                                          185.5,
+                                          186.92,
+                                          188.44,
+                                          189.56,
+                                          190.51,
+                                          191.39,
+                                          191.79,
+                                          191.73,
+                                          191.74,
+                                          191.7,
+                                          191.45,
+                                          191.36,
+                                          192.8,
+                                          193.8,
+                                          195.26,
+                                          196.04,
+                                          196.33,
+                                          197.06,
+                                          197.69,
+                                          198.17,
+                                          198.55,
+                                          198.95,
+                                          199.26,
+                                          200.68,
+                                          202.32,
+                                          203.85,
+                                          205.49,
+                                          206.75,
+                                          208.42,
+                                          210.05,
+                                          212.11,
+                                          213.97,
+                                          215.47,
+                                          217.19,
+                                          218.97,
+                                          220.77,
+                                          222.55,
+                                          224.41,
+                                          226.3,
+                                          228.36,
+                                          229.82,
+                                          231.12,
+                                          232.84,
+                                          234.02,
+                                          235.09,
+                                          235.65,
+                                          236,
+                                          235.66,
+                                          235.36,
+                                          235.05,
+                                          235.22,
+                                          235.32,
+                                          236.2,
+                                          237.2,
+                                          238.41,
+                                          239.52,
+                                          240.37,
+                                          240.76,
+                                          240.8,
+                                          240.95,
+                                          240.96,
+                                          240.02,
+                                          239.12,
+                                          238.7,
+                                          238.2,
+                                          237.84,
+                                          237.53,
+                                          237.1,
+                                          236.55,
+                                          235.89,
+                                          235.93,
+                                          236.23,
+                                          235.96
+                                      ]
+                   },
+    "en":  {
+               "headline":  "CRWD slides on AI selloff, then reported Zscaler talks; trend intact but tested",
+               "technical":  "On 20 Nov 2026 CRWD closed at $229.44, down 5.76%, near the day\u0027s low of $227.30. The long-term trend is still up: the EMAs (exponential moving averages, which weight recent prices more) are stacked bullishly, with EMA50 $235.96 above EMA100 $221.09 above EMA200 $192.43. Short-term, though, price has slipped under the EMA50, so the next support is the EMA100 around $221. Momentum is mixed. MACD (12/26/9, a trend-momentum gauge) is negative at -4.31 but just above its signal line at -4.74, with a small positive histogram of +0.44. That is an early, still-fragile bullish crossover below zero. RSI 14 (a 0–100 momentum gauge; above 70 is overbought, below 30 is oversold) is 46.05, which is neutral. In the Bollinger Bands (20-day, ±2 standard deviations), price sits in the lower half, under the $238.11 midline. The bands run from $206.17 to $270.06. The stock is about 20% below its 52-week high of $286.99 and far above the $85.68 low. Volume of 12.8M was about 1.39× the 20-day average of 9.21M, so selling pressure was real. Overall posture: neutral, an uptrend under short-term pressure.",
+               "fundamental":  "CrowdStrike\u0027s most recent quarter (Q2 FY27, reported 26 Aug 2026) was strong. Ending ARR (annual recurring revenue) grew 25% year over year to $5.84B, with a record $332.8M of net new ARR. ARR from Falcon Flex accounts more than doubled (+101%) to $2.29B, which suggests customers are adopting more modules on the single agent. Full-year FY27 ending-ARR guidance was raised to $6.603–6.612B. In the AI value chain, CRWD is positioning Falcon as the security layer for AI agents and AI factories. Partners in the last 30 days include NVIDIA, CoreWeave, Dell\u0027s AI Factory, AWS Bedrock AgentCore and Anthropic\u0027s Claude Cowork. Q3 FY27 results arrive on 1 Dec 2026 after the close, against guidance of $6.184–6.188B ending ARR.",
+               "news":  [
+                            "20 Nov 2026 (after the close): Reuters and Bloomberg reported that CrowdStrike is in talks to acquire Zscaler, which was valued at about $33.5B. ZS jumped about 17% after hours and CRWD fell about 8%. Neither company has confirmed the talks, and no deal is agreed.",
+                            "20 Nov 2026 (regular session): CRWD fell 5.76% to $229.44 as an AI-related tech selloff deepened (Nasdaq -2.1% per Investing.com). The drop erased a two-day rally on 18–19 Nov.",
+                            "18–19 Nov 2026: Cybersecurity stocks rallied after Palo Alto Networks reported record Q1 FY27 revenue of $3.44B, up 39% year over year. CRWD closed at $243.46 on 19 Nov.",
+                            "17–18 Nov 2026: CEO George Kurtz sold 20,000 shares (about $4.5M) under a pre-arranged 10b5-1 trading plan. Routine, but it added to cautious sentiment.",
+                            "3 Nov 2026 (Fal.Con Europe): CrowdStrike launched an AI Kill Switch in Falcon Guardian to stop rogue AI agents. It also announced plans to acquire Fiddler (AI agent observability) and Dreadnode (automated AI security testing), and said EY committed to Falcon.",
+                            "21 Oct – 2 Nov 2026: CrowdStrike announced a Falcon Guardian integration with NVIDIA, a partnership to secure CoreWeave\u0027s AI cloud, and integrated security for the Dell AI Factory with NVIDIA."
+                        ],
+               "caution":  "The $229.44 close does not include the roughly 8% after-hours drop on 20 Nov, so the stock could open near the low $210s. That would be below the EMA100 ($221.09) and close to the lower Bollinger Band ($206.17). A Zscaler deal would likely be the largest in CRWD\u0027s history. It could mean share dilution or debt, a long integration of a very different network-proxy architecture, and less management focus right before Q3 results on 1 Dec. AI-sector valuations are also under pressure across the market.",
+               "opportunity":  "If the deal happens, Zscaler would fill CrowdStrike\u0027s biggest gap, network and zero-trust access. That would let CRWD offer endpoint, cloud, identity and network security from one vendor and compete head-on with Palo Alto Networks, while customers are actively cutting the number of security vendors they use. The underlying business is strong: ARR is growing 25% and Falcon Flex ARR is doubling. The bullish EMA stack and the fresh MACD crossover show the longer uptrend has not broken yet.",
+               "risks":  [
+                             "Deal risk: a large premium for Zscaler could dilute shareholders or add leverage, and the talks may also collapse.",
+                             "Integration risk: merging two different architectures could dilute the single-agent simplicity at the core of the moat.",
+                             "Earnings risk: Q3 FY27 results on 1 Dec 2026 could disappoint on net new ARR or margins.",
+                             "Macro risk: the AI-sector selloff and high software valuations could compress multiples further.",
+                             "Technical risk: a break below the EMA100 near $221 and the lower Bollinger Band near $206 would weaken the medium-term trend."
+                         ],
+               "summary":  "CRWD fell 5.76% to $229.44 on 20 Nov 2026, mainly because of the AI-sector selloff and profit-taking after a rally sparked by Palo Alto Networks\u0027 results. After the close, reports of talks to buy Zscaler added another 8% drop after hours. The technicals are neutral: the long-term EMAs are still bullishly stacked, but price is below the EMA50 and volume confirmed the selling. The business looks healthy, with ARR up 25%. The moat thesis moves to \u0027watch\u0027 because a Zscaler deal would test the single-platform story. The next key event is Q3 results on 1 Dec."
+           },
+    "th":  {
+               "headline":  "CRWD ร่วงตามแรงเทขายหุ้น AI และข่าวเจรจาซื้อ Zscaler แนวโน้มหลักยังไม่เสีย",
+               "technical":  "วันที่ 20 พ.ย. 2026 CRWD ปิดที่ $229.44 ลดลง 5.76% ใกล้จุดต่ำสุดของวันที่ $227.30 แนวโน้มระยะยาวยังเป็นขาขึ้น เพราะเส้น EMA (ค่าเฉลี่ยเคลื่อนที่ที่ให้น้ำหนักราคาล่าสุดมากกว่า) ยังเรียงตัวแบบขาขึ้น คือ EMA50 $235.96 \u003e EMA100 $221.09 \u003e EMA200 $192.43 แต่ระยะสั้นราคาหลุดลงมาใต้ EMA50 แล้ว แนวรับถัดไปจึงอยู่ที่ EMA100 แถว $221 โมเมนตัมยังก้ำกึ่ง MACD (12/26/9 ใช้วัดแรงส่งของแนวโน้ม) ติดลบที่ -4.31 แต่เพิ่งยืนเหนือเส้นสัญญาณ -4.74 และฮิสโตแกรมเป็นบวก +0.44 ถือเป็นการตัดขึ้นใต้ศูนย์ที่ยังเปราะบาง RSI 14 (มาตรวัดโมเมนตัม 0–100 เกิน 70 คือซื้อมากเกินไป ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 46.05 ซึ่งเป็นโซนกลาง ราคาอยู่ครึ่งล่างของ Bollinger Bands (20 วัน ±2 ส่วนเบี่ยงเบนมาตรฐาน) ใต้เส้นกลาง $238.11 โดยกรอบล่างอยู่ที่ $206.17 และกรอบบนที่ $270.06 ราคาต่ำกว่าจุดสูงสุด 52 สัปดาห์ ($286.99) ราว 20% และยังห่างจากจุดต่ำสุด $85.68 มาก วอลุ่ม 12.8 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (9.21 ล้าน) ราว 1.39 เท่า ยืนยันว่าแรงขายมีน้ำหนักจริง ภาพรวมจึงเป็นกลาง คือขาขึ้นที่กำลังถูกทดสอบระยะสั้น",
+               "fundamental":  "ไตรมาสล่าสุด (Q2 FY27 ประกาศ 26 ส.ค. 2026) แข็งแกร่ง ARR (รายได้ประจำต่อปี) ณ สิ้นงวดโต 25% เทียบปีก่อน เป็น $5.84B และ net new ARR ทำสถิติสูงสุดที่ $332.8M ส่วน ARR จากลูกค้า Falcon Flex โตกว่าเท่าตัว (+101%) เป็น $2.29B สะท้อนว่าลูกค้าใช้โมดูลบน agent ตัวเดียวมากขึ้น บริษัทยังปรับเป้า ARR สิ้นปี FY27 ขึ้นเป็น $6.603–6.612B ในห่วงโซ่คุณค่า AI บริษัทกำลังวาง Falcon เป็นชั้นความปลอดภัยของ AI agent และ AI factory ช่วง 30 วันที่ผ่านมาประกาศจับมือกับ NVIDIA, CoreWeave, Dell AI Factory, AWS Bedrock AgentCore และ Claude Cowork ของ Anthropic งบ Q3 FY27 จะออกหลังตลาดปิดวันที่ 1 ธ.ค. 2026 โดยเป้า ARR สิ้นงวดอยู่ที่ $6.184–6.188B",
+               "news":  [
+                            "20 พ.ย. 2026 (หลังตลาดปิด): Reuters และ Bloomberg รายงานว่า CrowdStrike กำลังเจรจาซื้อ Zscaler ซึ่งมีมูลค่าตลาดราว $33.5B ทำให้ ZS พุ่งราว 17% และ CRWD ลงราว 8% ในการซื้อขายหลังปิดตลาด ทั้งสองบริษัทยังไม่ยืนยัน และยังไม่มีข้อตกลงใด",
+                            "20 พ.ย. 2026 (ช่วงตลาดปกติ): CRWD ลง 5.76% มาปิดที่ $229.44 ตามแรงเทขายหุ้นเทคฯ กลุ่ม AI (Nasdaq -2.1% ตาม Investing.com) ลบกำไรจากการขึ้นสองวันช่วง 18–19 พ.ย.",
+                            "18–19 พ.ย. 2026: หุ้นไซเบอร์ซีเคียวริตีขึ้นยกกลุ่มหลัง Palo Alto Networks รายงานรายได้ Q1 FY27 สูงเป็นประวัติการณ์ที่ $3.44B โต 39% CRWD ปิดวันที่ 19 พ.ย. ที่ $243.46",
+                            "17–18 พ.ย. 2026: CEO George Kurtz ขายหุ้น 20,000 หุ้น (ราว $4.5M) ตามแผนซื้อขายล่วงหน้า 10b5-1 เป็นเรื่องปกติ แต่ก็ทำให้บรรยากาศการลงทุนระมัดระวังขึ้น",
+                            "3 พ.ย. 2026 (งาน Fal.Con Europe): เปิดตัว AI Kill Switch ใน Falcon Guardian เพื่อหยุด AI agent ที่ทำงานนอกการควบคุม ประกาศแผนซื้อ Fiddler (ระบบติดตามการทำงานของ AI agent) และ Dreadnode (ทดสอบความปลอดภัย AI อัตโนมัติ) และ EY ประกาศเลือกใช้ Falcon",
+                            "21 ต.ค. – 2 พ.ย. 2026: ประกาศเชื่อม Falcon Guardian กับ NVIDIA จับมือดูแลความปลอดภัยให้ AI cloud ของ CoreWeave และร่วมกับ Dell ทำระบบความปลอดภัยสำหรับ Dell AI Factory with NVIDIA"
+                        ],
+               "caution":  "ราคาปิด $229.44 ยังไม่รวมการร่วงราว 8% หลังตลาดปิดวันที่ 20 พ.ย. จึงอาจเปิดตลาดรอบถัดไปแถว $210 ต้นๆ ซึ่งต่ำกว่า EMA100 ($221.09) และใกล้กรอบล่าง Bollinger ($206.17) ถ้าดีลกับ Zscaler เกิดขึ้นจริง น่าจะเป็นดีลใหญ่ที่สุดในประวัติของ CRWD อาจต้องออกหุ้นเพิ่มหรือกู้เงิน ต้องใช้เวลานานในการรวมระบบ network proxy ที่ออกแบบต่างกันมาก และอาจดึงความสนใจผู้บริหารไปในช่วงก่อนงบ Q3 วันที่ 1 ธ.ค. นอกจากนี้ มูลค่าหุ้นกลุ่ม AI ทั้งตลาดยังถูกกดดันอยู่",
+               "opportunity":  "ถ้าดีลเกิดขึ้น Zscaler จะอุดจุดอ่อนใหญ่ที่สุดของ CrowdStrike คือความปลอดภัยด้านเครือข่ายและ zero-trust access ทำให้ CRWD ขายครบทั้ง endpoint, cloud, identity และ network จากผู้ขายรายเดียว และแข่งกับ Palo Alto Networks ได้ตรงๆ ในช่วงที่ลูกค้าองค์กรกำลังลดจำนวนผู้ขายด้านความปลอดภัย พื้นฐานธุรกิจก็ยังแข็งแรง ARR โต 25% และ ARR ของ Falcon Flex โตเท่าตัว ส่วนทางเทคนิค EMA ที่เรียงตัวขาขึ้นและ MACD ที่เพิ่งตัดขึ้นบอกว่าแนวโน้มใหญ่ยังไม่พัง",
+               "risks":  [
+                             "ความเสี่ยงจากดีล: หากต้องจ่ายพรีเมียมสูงเพื่อซื้อ Zscaler อาจทำให้ผู้ถือหุ้นเดิมถูกลดสัดส่วน (dilution) หรือหนี้สินเพิ่มขึ้น และการเจรจาก็อาจล้มได้",
+                             "ความเสี่ยงด้านการรวมกิจการ: การรวมสองสถาปัตยกรรมที่ต่างกันอาจลดความเรียบง่ายของแพลตฟอร์ม agent ตัวเดียว ซึ่งเป็นหัวใจของ moat",
+                             "ความเสี่ยงจากงบ: ผล Q3 FY27 วันที่ 1 ธ.ค. 2026 อาจผิดคาดทั้งด้าน net new ARR หรือมาร์จิน",
+                             "ความเสี่ยงมหภาค: แรงเทขายหุ้นกลุ่ม AI และมูลค่าหุ้นซอฟต์แวร์ที่สูงอาจทำให้ valuation ถูกบีบลงอีก",
+                             "ความเสี่ยงทางเทคนิค: หากหลุด EMA100 แถว $221 และกรอบล่าง Bollinger แถว $206 แนวโน้มระยะกลางจะอ่อนลง"
+                         ],
+               "summary":  "CRWD ร่วง 5.76% มาปิดที่ $229.44 วันที่ 20 พ.ย. 2026 สาเหตุหลักคือแรงเทขายหุ้นกลุ่ม AI และการขายทำกำไรหลังหุ้นขึ้นรับงบของ Palo Alto Networks หลังตลาดปิดยังมีข่าวเจรจาซื้อ Zscaler กดราคาหลังปิดตลาดลงอีกราว 8% ภาพเทคนิคเป็นกลาง EMA ระยะยาวยังเรียงตัวขาขึ้น แต่ราคาหลุด EMA50 และวอลุ่มยืนยันแรงขาย พื้นฐานยังดี ARR โต 25% แต่ moat thesis ปรับเป็น \u0027watch\u0027 เพราะดีล Zscaler จะเป็นบททดสอบเรื่องแพลตฟอร์มเดียว จุดสำคัญถัดไปคืองบ Q3 วันที่ 1 ธ.ค."
+           },
+    "sources":  [
+                    {
+                        "title":  "CrowdStrike in talks to acquire Zscaler, sources say (Reuters)",
+                        "publisher":  "Investing.com / Reuters",
+                        "url":  "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "CrowdStrike in Talks to Acquire Zscaler in Potential Cybersecurity Mega-Deal",
+                        "publisher":  "Bloomberg",
+                        "url":  "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Why is CrowdStrike stock sliding today?",
+                        "publisher":  "Investing.com",
+                        "url":  "https://www.investing.com/news/stock-market-news/why-is-crowdstrike-stock-sliding-today-93CH-5042186",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Why CrowdStrike Holdings Stock Flew While the Market Flopped Today",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/investing/2026/11/19/why-crowdstrike-holdings-stock-flew-while-the-market-flopped-today/",
+                        "date":  "2026-11-19"
+                    },
+                    {
+                        "title":  "CrowdStrike Delivers AI Security and Safety for the Enterprise",
+                        "publisher":  "CrowdStrike",
+                        "url":  "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-delivers-ai-security-safety-for-the-enterprise/",
+                        "date":  "2026-11-03"
+                    },
+                    {
+                        "title":  "CrowdStrike Pressroom",
+                        "publisher":  "CrowdStrike",
+                        "url":  "https://www.crowdstrike.com/en-us/press-releases/"
+                    },
+                    {
+                        "title":  "CrowdStrike Reports Second Quarter Fiscal Year 2027 Financial Results",
+                        "publisher":  "CrowdStrike Investor Relations",
+                        "url":  "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial",
+                        "date":  "2026-08-26"
+                    },
+                    {
+                        "title":  "CrowdStrike Announces Date of Fiscal Third Quarter 2027 Financial Results Conference Call",
+                        "publisher":  "CrowdStrike Investor Relations",
+                        "url":  "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-announces-date-fiscal-third-quarter-2027-financial"
+                    }
+                ]
+}

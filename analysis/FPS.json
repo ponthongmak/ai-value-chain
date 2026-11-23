@@ -1,0 +1,737 @@
+{
+    "ticker":  "FPS",
+    "name":  "Forgent Power Solutions",
+    "symbol":  "NYSE:FPS",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T05:59:23Z",
+    "costUsd":  0.7918342000000002,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NYSE:FPS",
+                       "yahoo":  "FPS",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T05:56:18Z",
+                       "price":  18,
+                       "open":  20.5,
+                       "high":  20.5,
+                       "low":  17.75,
+                       "volume":  13945100,
+                       "avgVolume20":  10700090,
+                       "changePct":  -14.12,
+                       "ema50":  28.32,
+                       "ema100":  32,
+                       "ema200":  37.25,
+                       "bb":  {
+                                  "upper":  29.42,
+                                  "middle":  23.14,
+                                  "lower":  16.85
+                              },
+                       "macd":  {
+                                    "macd":  -2.95,
+                                    "signal":  -3,
+                                    "hist":  0.05
+                                },
+                       "rsi14":  35.18,
+                       "high52w":  66,
+                       "low52w":  17.67,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         59.78
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         64.59
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         59.13
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         59.32
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         57.15
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         53.2
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         58.21
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         59.03
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         60.51
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         59.37
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         61.92
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         63.41
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         61.84
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         59.3
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         60.12
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         58.7
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         55.13
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         54.99
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         55.86
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         49.9
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         46.86
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         47.5
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         44.67
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         45.29
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         46.15
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         45.75
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         42.6
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         41.18
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         42.62
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         39.58
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         39.79
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         38.5
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         40.31
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         38.87
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         38.96
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         35.89
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         36.22
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         32.41
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         29.25
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         33.28
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         33.27
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         36.29
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         39.4
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         38.49
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         37.72
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         38.71
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         37.6
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         37.72
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         38.27
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         37.56
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         39.66
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         38.83
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         36.18
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         34.46
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         33.36
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         33.18
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         32.19
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         32.19
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         32.21
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         31.62
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         30.4
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         30.54
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         29.27
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         29.42
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         30.6
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         31.35
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         32.31
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         30.99
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         29.2
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         31.82
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         28.64
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         31.36
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         34.84
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         38.06
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         39.44
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         37.75
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         38.52
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         39.88
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         38.95
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         38.97
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         36.59
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         37.2
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         37.44
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         37.33
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         40.35
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         38.97
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         41.35
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         40.65
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         39.8
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         40.03
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         37.09
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         36.17
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         32.7
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         32.37
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         31.68
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         31.52
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         30.23
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         31.76
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         24.92
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         24.22
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         25.12
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         26.99
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         29.27
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         28.35
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         25.81
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         24.56
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         27.14
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         22.44
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         18.21
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         19.48
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         22.6
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         21.48
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         24.57
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         22.15
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         22.12
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         20.57
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         21.2
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         21.7
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         20.96
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         18
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          42.24,
+                                          43.12,
+                                          43.75,
+                                          44.36,
+                                          44.86,
+                                          45.19,
+                                          45.7,
+                                          46.22,
+                                          46.78,
+                                          47.27,
+                                          47.85,
+                                          48.46,
+                                          48.98,
+                                          49.39,
+                                          49.81,
+                                          50.16,
+                                          50.35,
+                                          50.53,
+                                          50.74,
+                                          50.71,
+                                          50.56,
+                                          50.44,
+                                          50.21,
+                                          50.02,
+                                          49.87,
+                                          49.71,
+                                          49.43,
+                                          49.1,
+                                          48.85,
+                                          48.49,
+                                          48.15,
+                                          47.77,
+                                          47.48,
+                                          47.14,
+                                          46.82,
+                                          46.39,
+                                          45.99,
+                                          45.46,
+                                          44.82,
+                                          44.37,
+                                          43.93,
+                                          43.63,
+                                          43.47,
+                                          43.27,
+                                          43.05,
+                                          42.88,
+                                          42.68,
+                                          42.48,
+                                          42.32,
+                                          42.13,
+                                          42.03,
+                                          41.91,
+                                          41.68,
+                                          41.4,
+                                          41.09,
+                                          40.78,
+                                          40.44,
+                                          40.12,
+                                          39.81,
+                                          39.48,
+                                          39.13,
+                                          38.79,
+                                          38.42,
+                                          38.06,
+                                          37.77,
+                                          37.52,
+                                          37.32,
+                                          37.07,
+                                          36.76,
+                                          36.57,
+                                          36.25,
+                                          36.06,
+                                          36.01,
+                                          36.1,
+                                          36.23,
+                                          36.29,
+                                          36.37,
+                                          36.51,
+                                          36.61,
+                                          36.7,
+                                          36.7,
+                                          36.71,
+                                          36.74,
+                                          36.77,
+                                          36.91,
+                                          36.99,
+                                          37.16,
+                                          37.3,
+                                          37.39,
+                                          37.5,
+                                          37.48,
+                                          37.43,
+                                          37.24,
+                                          37.05,
+                                          36.84,
+                                          36.63,
+                                          36.38,
+                                          36.2,
+                                          35.76,
+                                          35.31,
+                                          34.91,
+                                          34.6,
+                                          34.39,
+                                          34.15,
+                                          33.82,
+                                          33.46,
+                                          33.21,
+                                          32.79,
+                                          32.22,
+                                          31.72,
+                                          31.36,
+                                          30.97,
+                                          30.72,
+                                          30.39,
+                                          30.06,
+                                          29.69,
+                                          29.36,
+                                          29.06,
+                                          28.74,
+                                          28.32
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Record growth, record lows: FPS drops 14% to just above its all-time low",
+               "technical":  "FPS closed at $18.00 on 2026-11-20, down 14.12% on the day. It opened at $20.50 and traded as low as $17.75, just above the record low of $17.67 set on 2026-11-06 and 73% below the 52-week high of $66. The trend is clearly down. Price sits far below the EMA 50 ($28.32), EMA 100 ($32.00) and EMA 200 ($37.25). EMAs are moving averages that give more weight to recent prices, and these three are stacked in bearish order, with the short-term average below the long-term ones. Momentum is weak but has stopped getting worse: MACD (a trend-momentum gauge) is -2.95 against its signal line at -3.00, leaving a barely positive histogram of +0.05. Friday\u0027s drop could easily turn it negative again. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 35.18, which is weak but not yet oversold. Price is close to the lower Bollinger Band at $16.85 (the 20-day middle band is $23.14), so the stock is stretched to the downside. Volume was 13.9M shares, about 1.3x the 20-day average of 10.7M, which shows real selling. Support: $17.67–17.75. Resistance: $23.14, then $28–29.",
+               "fundamental":  "Forgent makes switchgear and power-distribution equipment that sits between the grid and the servers, so AI data-center construction feeds directly into its sales. On 2026-11-12 it reported fiscal Q1 2027 (quarter ended 30 Sep). Revenue was $478.6M, up 69% year on year, with net income of $54.8M (+252%) and adjusted EBITDA of $104.9M. Full-year guidance went up to $2.45–2.65B in revenue and $1.30–1.44 in adjusted EPS. Management says the backlog fully covers that guidance (backlog was a record $3B at fiscal year-end in June) and reports \u0027meaningful traction with multiple frontier AI labs and hyperscalers.\u0027 There were weak spots: gross margin slipped to 33.1% from 34.6%, adjusted EBITDA margin fell to 21.9% from 23.0%, and the new guidance midpoints were reportedly slightly below consensus. At $18, the stock trades at about 13x the midpoint of adjusted EPS guidance.",
+               "news":  [
+                            "2026-10-22: CFO Ryan Fiedler stepped down, citing family reasons, and moved into a consulting role. EVP of Finance Amy Ard took over. Shares fell more than 23% that day and dropped below the $27 IPO price.",
+                            "2026-11-05 and 2026-11-16: AI power-equipment stocks sold off broadly on worries about hyperscaler spending and data-center policy (Vertiv fell 14% and 6.6% on those days). FPS fell with the group and hit a record low of $17.67 on 2026-11-06.",
+                            "2026-11-09: Forgent said in advance that fiscal Q1 revenue and adjusted EBITDA would beat its earlier guidance, and the shares rebounded. They gained another 14%+ on 2026-11-11 alongside CoreWeave\u0027s strong results.",
+                            "2026-11-12: Fiscal Q1 2027 revenue rose 69% to $478.6M and adjusted EPS of $0.24 beat the ~$0.20 consensus, with full-year guidance raised. Shares still fell about 8–11% intraday because gross margin shrank and the guidance increase was smaller than hoped.",
+                            "Analysts cut price targets during the slide, including Wells Fargo ($44→$25, Equal-Weight), Bernstein ($48→$33) and KeyBanc ($60→$46). The exact dates could not be confirmed from available sources.",
+                            "2026-11-20: Shares fell 14.12% to $18.00 on above-average volume. No company announcement explains the move. It looks like continued selling of AI-infrastructure stocks rather than new company news."
+                        ],
+               "caution":  "The share price is telling a different story from the earnings. Three things keep pressure on it. First, private-equity owner Neos Partners has already sold stock in three follow-on offerings since the February IPO (the July deal priced at $49), and more shares can still come to market. Second, the CFO left eight months after listing and margins are slipping, both while the company ramps capacity to deliver a $3B backlog. Third, the stock tracks AI-spending sentiment: data centers were 42% of fiscal 2025 revenue. A close below $17.67 would put the stock at new all-time lows with no earlier support to lean on.",
+               "opportunity":  "If the company keeps delivering, the gap between results and share price is wide. Revenue grew 69%, net income grew 252%, guidance went up, and the backlog covers this fiscal year. At about 13x adjusted EPS guidance, the market is pricing in a lot of doubt for a company guiding to roughly 80% revenue growth. On the chart, price is near the lower Bollinger Band, RSI is 35 and the MACD histogram has just turned positive, conditions where selling often slows. Holding above $17.67 and then climbing back above the $23 middle band would be the first signs of a bottom forming.",
+               "risks":  [
+                             "More share sales by private-equity owner Neos Partners (dilution and selling pressure)",
+                             "Execution risk after the CFO change, while factory capacity is being ramped",
+                             "Gross margin falling (33.1% vs 34.6% a year ago)",
+                             "Hyperscalers or AI labs cutting or delaying data-center spending",
+                             "Very high volatility; a close below $17.67 means new record lows with no earlier support",
+                             "Short public track record (listed February 2026), so the moat is still unproven"
+                         ],
+               "summary":  "FPS is in a steep downtrend. At $18.00 it is below all three EMAs, down 73% from its June high, and just above its $17.67 record low after a 14% drop on 2026-11-20 with no company headline behind it. The selling comes from the CFO exit, slipping margins, the private-equity share overhang and sector-wide worries about AI spending. Demand is not the problem: revenue grew 69% and guidance went up. Technical stance: bearish. Moat thesis: watch. The AI-lab and hyperscaler customer traction looks real, but evidence of lasting pricing power is still thin."
+           },
+    "th":  {
+               "headline":  "ยอดขายโตเป็นประวัติการณ์ แต่ราคาร่วง 14% เฉียดจุดต่ำสุดตลอดกาล",
+               "technical":  "FPS ปิดที่ $18.00 วันที่ 20 พ.ย. 2026 ร่วง 14.12% ในวันเดียว เปิดที่ $20.50 และลงไปต่ำสุด $17.75 ห่างจากจุดต่ำสุดตลอดกาล $17.67 (6 พ.ย. 2026) แค่นิดเดียว และต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ $66 อยู่ 73% แนวโน้มเป็นขาลงชัดเจน ราคาอยู่ต่ำกว่า EMA 50 ($28.32), EMA 100 ($32.00) และ EMA 200 ($37.25) มาก EMA คือเส้นค่าเฉลี่ยที่ให้น้ำหนักราคาล่าสุดมากกว่า และทั้งสามเส้นเรียงตัวแบบขาลงเต็มรูปแบบ คือเส้นระยะสั้นอยู่ใต้เส้นระยะยาว โมเมนตัมยังอ่อน แต่แรงขายหยุดเร่งตัวแล้ว MACD (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ -2.95 เทียบเส้นสัญญาณ -3.00 ฮิสโตแกรมเป็นบวกแค่ +0.05 และการร่วงแรงวันศุกร์อาจทำให้กลับเป็นลบได้ง่าย RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 35.18 อ่อนแรงแต่ยังไม่ถึงโซน oversold ราคาเข้าใกล้ Bollinger Band เส้นล่างที่ $16.85 (เส้นกลาง 20 วันอยู่ที่ $23.14) แปลว่าราคาถูกกดลงมาค่อนข้างสุดทาง ปริมาณซื้อขาย 13.9 ล้านหุ้น ราว 1.3 เท่าของค่าเฉลี่ย 20 วัน (10.7 ล้าน) ยืนยันว่าเป็นแรงขายจริง แนวรับ $17.67–17.75 แนวต้าน $23.14 ถัดไป $28–29",
+               "fundamental":  "Forgent ผลิตสวิตช์เกียร์และระบบจ่ายไฟที่อยู่ระหว่างสายส่งกับเซิร์ฟเวอร์ ยอดขายจึงได้ประโยชน์โดยตรงจากการสร้างดาต้าเซ็นเตอร์ AI วันที่ 12 พ.ย. 2026 บริษัทรายงานผลไตรมาส 1 ปีงบ 2027 (สิ้นสุด 30 ก.ย.) รายได้ $478.6M โต 69% จากปีก่อน กำไรสุทธิ $54.8M (+252%) adjusted EBITDA $104.9M และปรับเป้าทั้งปีขึ้นเป็นรายได้ $2.45–2.65B และ adjusted EPS $1.30–1.44 ผู้บริหารบอกว่า backlog ครอบคลุมเป้าปีนี้ทั้งหมดแล้ว (backlog ทำสถิติ $3B ณ สิ้นปีงบในเดือน มิ.ย.) และมี \u0027ความคืบหน้าที่มีนัยสำคัญกับแล็บ AI ชั้นนำและ hyperscaler หลายราย\u0027 ส่วนที่น่าห่วงคือ gross margin ลดลงเหลือ 33.1% จาก 34.6% adjusted EBITDA margin ลดเหลือ 21.9% จาก 23.0% และมีรายงานว่าค่ากลางของเป้าใหม่ต่ำกว่าที่ตลาดคาดเล็กน้อย ที่ราคา $18 หุ้นซื้อขายราว 13 เท่าของค่ากลาง adjusted EPS ที่บริษัทคาดไว้",
+               "news":  [
+                            "22 ต.ค. 2026: CFO Ryan Fiedler ลาออกด้วยเหตุผลครอบครัวและไปเป็นที่ปรึกษาแทน Amy Ard รองประธานฝ่ายการเงินขึ้นรับตำแหน่ง หุ้นร่วงกว่า 23% ในวันนั้นและหลุดราคา IPO ที่ $27",
+                            "5 พ.ย. และ 16 พ.ย. 2026: หุ้นอุปกรณ์ไฟฟ้าสาย AI ถูกเทขายทั้งกลุ่มจากความกังวลเรื่องงบลงทุนของ hyperscaler และนโยบายดาต้าเซ็นเตอร์ (Vertiv ร่วง 14% และ 6.6% ในสองวันนั้น) FPS ลงตามกลุ่มและทำจุดต่ำสุดใหม่ที่ $17.67 เมื่อ 6 พ.ย.",
+                            "9 พ.ย. 2026: Forgent แจ้งล่วงหน้าว่ารายได้และ adjusted EBITDA ไตรมาส 1 จะสูงกว่าเป้าเดิม หุ้นเด้งกลับ และขึ้นอีกกว่า 14% เมื่อ 11 พ.ย. ตามผลประกอบการที่แข็งแกร่งของ CoreWeave",
+                            "12 พ.ย. 2026: รายได้ไตรมาส 1 ปีงบ 2027 โต 69% เป็น $478.6M adjusted EPS $0.24 ชนะที่ตลาดคาดราว $0.20 และปรับเป้าทั้งปีขึ้น แต่หุ้นยังร่วงราว 8–11% ระหว่างวัน เพราะ gross margin หดตัวและเป้าที่ปรับขึ้นน้อยกว่าที่หวัง",
+                            "นักวิเคราะห์ทยอยลดราคาเป้าหมายระหว่างที่หุ้นไหลลง เช่น Wells Fargo ($44→$25, Equal-Weight), Bernstein ($48→$33) และ KeyBanc ($60→$46) ยังยืนยันวันที่แน่นอนจากแหล่งข่าวที่ค้นได้ไม่ได้",
+                            "20 พ.ย. 2026: หุ้นร่วง 14.12% ปิดที่ $18.00 ด้วยปริมาณซื้อขายสูงกว่าค่าเฉลี่ย ไม่พบประกาศจากบริษัทที่อธิบายการร่วงครั้งนี้ ดูเป็นแรงขายต่อเนื่องในหุ้นโครงสร้างพื้นฐาน AI มากกว่าข่าวใหม่ของบริษัทเอง"
+                        ],
+               "caution":  "ราคาหุ้นกำลังเล่าเรื่องที่ต่างจากงบการเงิน มีสามเรื่องที่ยังกดดันราคา หนึ่ง กองทุน PE ผู้ถือหุ้นใหญ่ Neos Partners ขายหุ้นไปแล้วสามรอบหลัง IPO เดือน ก.พ. (รอบ ก.ค. ขายที่ $49) และยังมีหุ้นที่อาจออกมาขายเพิ่มได้อีก สอง CFO ลาออกหลังเข้าตลาดเพียง 8 เดือนและ margin เริ่มลดลง ทั้งที่บริษัทต้องขยายกำลังผลิตเพื่อส่งมอบ backlog $3B สาม หุ้นเคลื่อนไหวตามความรู้สึกตลาดต่องบลงทุน AI โดยดาต้าเซ็นเตอร์คิดเป็น 42% ของรายได้ปีงบ 2025 ถ้าปิดต่ำกว่า $17.67 หุ้นจะทำจุดต่ำสุดใหม่โดยไม่มีแนวรับเดิมให้พึ่ง",
+               "opportunity":  "ถ้าบริษัทส่งมอบงานได้ตามแผนต่อไป ช่องว่างระหว่างผลประกอบการกับราคาหุ้นถือว่ากว้างมาก รายได้โต 69% กำไรสุทธิโต 252% เป้าถูกปรับขึ้น และ backlog ครอบคลุมทั้งปีงบนี้แล้ว ที่ราว 13 เท่าของ adjusted EPS ที่คาดไว้ ตลาดกำลังสะท้อนความไม่เชื่อมั่นสูงมากต่อบริษัทที่ตั้งเป้ารายได้โตราว 80% ในเชิงเทคนิค ราคาอยู่ใกล้ Bollinger Band เส้นล่าง RSI อยู่ที่ 35 และฮิสโตแกรม MACD เพิ่งกลับเป็นบวก ซึ่งมักเป็นช่วงที่แรงขายเริ่มชะลอ ถ้าราคายืนเหนือ $17.67 ได้แล้วกลับขึ้นไปเหนือเส้นกลาง $23 ได้ จะเป็นสัญญาณแรกว่ากำลังสร้างฐาน",
+               "risks":  [
+                             "Neos Partners (ผู้ถือหุ้น PE) ขายหุ้นเพิ่ม ทำให้หุ้นถูกปรับลดสัดส่วนและมีแรงขายกดดัน",
+                             "ความเสี่ยงด้านการบริหารงานหลังเปลี่ยน CFO ในช่วงที่กำลังขยายกำลังผลิต",
+                             "gross margin ลดลง (33.1% เทียบ 34.6% ปีก่อน)",
+                             "hyperscaler หรือแล็บ AI ลดหรือเลื่อนงบลงทุนดาต้าเซ็นเตอร์",
+                             "ราคาผันผวนสูงมาก ถ้าปิดต่ำกว่า $17.67 จะเป็นจุดต่ำสุดใหม่โดยไม่มีแนวรับเดิม",
+                             "เพิ่งเข้าตลาดเมื่อ ก.พ. 2026 ประวัติยังสั้น moat จึงยังพิสูจน์ไม่ได้"
+                         ],
+               "summary":  "FPS อยู่ในขาลงชัน ราคา $18.00 อยู่ต่ำกว่า EMA ทั้งสามเส้น ลดลง 73% จากจุดสูงสุดเดือน มิ.ย. และเกือบแตะจุดต่ำสุดตลอดกาล $17.67 หลังร่วง 14% เมื่อ 20 พ.ย. 2026 โดยไม่มีข่าวจากบริษัทรองรับ แรงขายมาจาก CFO ลาออก margin ที่ลดลง หุ้นที่ PE อาจขายเพิ่ม และความกังวลเรื่องงบลงทุน AI ทั้งกลุ่ม ไม่ใช่เพราะดีมานด์อ่อน เพราะรายได้โต 69% และเป้าถูกปรับขึ้น มุมมองเทคนิค: bearish ส่วน moat thesis: watch ลูกค้าจากแล็บ AI และ hyperscaler ดูเป็นของจริง แต่หลักฐานว่ามีอำนาจตั้งราคาที่ยั่งยืนยังมีน้อย"
+           },
+    "sources":  [
+                    {
+                        "title":  "Forgent Power Solutions, Inc. – Form 8-K Exhibit 99.1: Fiscal First Quarter 2027 Earnings Release",
+                        "publisher":  "SEC EDGAR",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0002080126/000208012626000045/exhibit991earningsrelease_.htm",
+                        "date":  "2026-11-12"
+                    },
+                    {
+                        "title":  "Why Forgent Power Solutions Stock Is Plummeting Today",
+                        "publisher":  "The Motley Fool via Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/why-forgent-power-solutions-stock-205935118.html",
+                        "date":  "2026-11-13"
+                    },
+                    {
+                        "title":  "FPS Stock Plunges To Record Low, Falls Below IPO Price After CFO Ryan Fiedler\u0027s Exit",
+                        "publisher":  "Stocktwits via TradingView",
+                        "url":  "https://www.tradingview.com/news/stocktwits:56733c67d094b:0-fps-stock-plunges-to-record-low-falls-below-ipo-price-after-cfo-ryan-fiedler-s-exit/",
+                        "date":  "2026-10-22"
+                    },
+                    {
+                        "title":  "Forgent\u0027s Orders Are Booming, But Its Stock Has Slumped",
+                        "publisher":  "Finimize",
+                        "url":  "https://finimize.com/content/fps-asset-snapshot",
+                        "date":  "2026-11-10"
+                    },
+                    {
+                        "title":  "Why Forgent Power Solutions (FPS) Stock Is Down -36% in the Last 30 Days",
+                        "publisher":  "Tickeron",
+                        "url":  "https://tickeron.com/ticker/FPS/",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Why is Forgent Power Solutions stock sliding today?",
+                        "publisher":  "Investing.com",
+                        "url":  "https://www.investing.com/news/stock-market-news/why-is-forgent-power-solutions-stock-sliding-today-93CH-4773065",
+                        "date":  "2026-07-02"
+                    },
+                    {
+                        "title":  "What Moved Vertiv Stock Nearly 7% Lower?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/vrt/articles/625807/why-did-vertiv-stock-fall-nearly-7/2026-11-17",
+                        "date":  "2026-11-17"
+                    }
+                ]
+}

@@ -1,0 +1,760 @@
+{
+    "ticker":  "CEG",
+    "name":  "Constellation Energy",
+    "symbol":  "NASDAQ:CEG",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:50:44Z",
+    "costUsd":  0.9690151999999999,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:CEG",
+                       "yahoo":  "CEG",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:45:44Z",
+                       "price":  237.41,
+                       "open":  248.81,
+                       "high":  249.56,
+                       "low":  236.8,
+                       "volume":  5488000,
+                       "avgVolume20":  3915500,
+                       "changePct":  -5.8,
+                       "historyDays":  501,
+                       "ema50":  266.49,
+                       "ema100":  270.35,
+                       "ema200":  278.57,
+                       "bb":  {
+                                  "upper":  286.83,
+                                  "middle":  261.59,
+                                  "lower":  236.34
+                              },
+                       "macd":  {
+                                    "macd":  -2.68,
+                                    "signal":  -0.92,
+                                    "hist":  -1.76
+                                },
+                       "rsi14":  37.46,
+                       "high52w":  380.78,
+                       "low52w":  228.63,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         267.24
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         264.59
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         254.83
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         250.67
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         251.65
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         242.3
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         246.71
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         253.76
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         262.35
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         268
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         267.17
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         274.06
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         275.53
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         270.26
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         267.97
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         268.69
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         264.02
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         259.32
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         248.37
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         236.5
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         239.25
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         245.87
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         239.71
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         244.52
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         250.74
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         251.38
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         257.57
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         256.43
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         258.11
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         251.77
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         252.39
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         253.5
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         262.22
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         274.9
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         275.6
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         274.35
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         270
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         259.82
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         257.95
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         263.56
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         262.75
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         273.71
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         267.25
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         265.12
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         261.1
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         269.89
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         270.43
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         278.36
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         278.68
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         278.64
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         282.5
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         278.2
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         266.83
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         274.17
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         272.92
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         272.88
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         273.43
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         278.42
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         279.52
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         282.41
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         276.75
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         274.77
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         280.31
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         290.04
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         285.05
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         298.96
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         299.05
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         293.9
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         285.97
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         284.75
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         264.57
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         259.89
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         259.53
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         262.8
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         254.71
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         262.11
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         263.46
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         263.88
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         261.62
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         263.27
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         260.43
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         264.58
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         254.02
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         258.92
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         257.49
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         267.62
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         300.4
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         299.59
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         285.07
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         298.07
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         293.89
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         295.79
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         279.54
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         275
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         271.37
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         263.19
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         258.84
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         270.74
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         255.21
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         253.45
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         252.48
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         258.98
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         258.08
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         264.58
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         262.38
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         257.25
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         263.4
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         245.72
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         239.65
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         249.95
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         276.09
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         267.76
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         274.73
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         282.4
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         280.2
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         277.82
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         268.07
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         262.74
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         252.03
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         237.41
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          291.41,
+                                          290.36,
+                                          288.96,
+                                          287.46,
+                                          286.06,
+                                          284.34,
+                                          282.87,
+                                          281.72,
+                                          280.96,
+                                          280.46,
+                                          279.94,
+                                          279.7,
+                                          279.54,
+                                          279.18,
+                                          278.74,
+                                          278.34,
+                                          277.78,
+                                          277.06,
+                                          275.93,
+                                          274.39,
+                                          273.01,
+                                          271.94,
+                                          270.68,
+                                          269.65,
+                                          268.91,
+                                          268.23,
+                                          267.81,
+                                          267.36,
+                                          267,
+                                          266.4,
+                                          265.85,
+                                          265.37,
+                                          265.24,
+                                          265.62,
+                                          266.01,
+                                          266.34,
+                                          266.48,
+                                          266.22,
+                                          265.9,
+                                          265.81,
+                                          265.69,
+                                          266,
+                                          266.05,
+                                          266.01,
+                                          265.82,
+                                          265.98,
+                                          266.16,
+                                          266.63,
+                                          267.11,
+                                          267.56,
+                                          268.14,
+                                          268.54,
+                                          268.47,
+                                          268.7,
+                                          268.86,
+                                          269.02,
+                                          269.19,
+                                          269.55,
+                                          269.94,
+                                          270.43,
+                                          270.68,
+                                          270.84,
+                                          271.21,
+                                          271.95,
+                                          272.46,
+                                          273.5,
+                                          274.51,
+                                          275.27,
+                                          275.69,
+                                          276.04,
+                                          275.59,
+                                          274.98,
+                                          274.37,
+                                          273.92,
+                                          273.16,
+                                          272.73,
+                                          272.37,
+                                          272.03,
+                                          271.63,
+                                          271.3,
+                                          270.87,
+                                          270.62,
+                                          269.97,
+                                          269.54,
+                                          269.07,
+                                          269.01,
+                                          270.24,
+                                          271.39,
+                                          271.93,
+                                          272.95,
+                                          273.78,
+                                          274.64,
+                                          274.83,
+                                          274.84,
+                                          274.7,
+                                          274.25,
+                                          273.65,
+                                          273.53,
+                                          272.81,
+                                          272.05,
+                                          271.29,
+                                          270.8,
+                                          270.3,
+                                          270.08,
+                                          269.78,
+                                          269.29,
+                                          269.06,
+                                          268.14,
+                                          267.02,
+                                          266.35,
+                                          266.74,
+                                          266.78,
+                                          267.09,
+                                          267.69,
+                                          268.18,
+                                          268.56,
+                                          268.54,
+                                          268.31,
+                                          267.67,
+                                          266.49
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Q3 beat and Google deal swamped by AI selloff; CEG near 52-week low",
+               "summary":  "Constellation\u0027s own news since October has been strong. It signed a 20-year Google deal on Oct 6 and won a conditional DOE loan guarantee of up to $5.0B for uprates on Oct 27. On Nov 9 it beat Q3 estimates with adjusted EPS of $5.06, against $3.04 a year earlier, and lifted 2026 guidance to $12.50–12.80. The stock jumped 10.5% that day. It then lost 15.3% in the week to Nov 20 as an AI-led market correction hit. At $237.41 it trades below all three EMAs, on its lower Bollinger Band, and only 3.8% above its 52-week low.",
+               "pros":  [
+                            "Q3 adjusted EPS of $5.06 beat estimates near $3.90, and 2026 guidance rose to $12.50–12.80 from $11.50–12.50.",
+                            "Google signed a 20-year PPA tied to about 890 MW of uprates, plus a 15-year 2,700 MW load-following deal (Oct 6).",
+                            "Amazon\u0027s 20-year, 690 MW deal backs more than $3B of investment at Calvert Cliffs, including a 190 MW expansion.",
+                            "A conditional DOE guarantee of up to $5.0B, at 0.375% over Treasuries, makes uprate funding cheaper.",
+                            "Brokers kept raising targets during the drop (BMO to $335), and none of the 25 covering firms rates it sell."
+                        ],
+               "cons":  [
+                            "The stock fell 15.3% in the week to Nov 20 and closed at $237.41, below its EMA 50, 100 and 200.",
+                            "An AI-led correction (S\u0026P 500 −3.7% on Nov 20) hit \u0027AI power\u0027 names regardless of their results.",
+                            "A 10-year Treasury yield near 5% and ~95% odds of a Fed hike on Dec 9 weigh on capital-heavy power stocks.",
+                            "Policy risk is rising: PJM price caps and auction delays, and Texas data-center politics that touch Calpine\u0027s ERCOT fleet.",
+                            "Q3 was partly held back by higher interest costs and a weaker nuclear production-tax-credit contribution."
+                        ],
+               "opportunityCheck":  "The scores look broadly reasonable. Position fits: Constellation is the largest US nuclear owner and keeps winning hyperscaler contracts. I would nudge AI revenue exposure up a little. Google, Amazon, Microsoft, Meta and the new Peak+ buyer now tie several gigawatts to data centers, though that is still a minority of a fleet that grew with Calpine. I would trim bottleneck \u0026 pricing power by a point or two. PJM price caps, FERC\u0027s procurement pause and Texas data-center politics show that regulators can limit what scarce clean power earns.",
+               "technical":  "The trend is down. The price of $237.41 sits below the EMA 50 ($266.49), EMA 100 ($270.35) and EMA 200 ($278.57). EMAs are exponential moving averages that track the short-, medium- and long-term trend. They are stacked in downtrend order, with the 50 below the 100 and the 100 below the 200. On momentum, MACD (a trend-momentum gauge) is −2.68, below its signal line at −0.92, and the histogram is negative at −1.76. That means selling pressure is building again after the post-earnings bounce faded. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 37.46: weak, but not yet oversold. The price is sitting right on the lower Bollinger Band at $236.34. The bands sit about two standard deviations either side of the 20-day average of $261.59. Touching the lower band means selling is stretched, but in strong declines price can ride the band lower. The stock is 37.7% below its 52-week high of $380.78 and only 3.8% above its 52-week low of $228.63, which is the next support. On Nov 20 it fell 5.8% on 5.49M shares, about 1.4× the 20-day average, and closed near the day\u0027s low of $236.80. The heavy volume confirms the selling.",
+               "fundamental":  "Constellation sells round-the-clock, carbon-free power, the scarce input hyperscalers need, and its contract book keeps growing. Q3, reported Nov 9, brought adjusted EPS of $5.06 versus $3.04 a year earlier and revenue of about $9.55B (+45%). The Calpine gas fleet, acquired in January 2026, helped. Guidance moved to $12.50–12.80 from $11.50–12.50. New contracts include Amazon (690 MW, 20 years, Sept 30) and Google (~890 MW of uprates plus 2,700 MW of load-following, Oct 6). A first \u0027Peak+\u0027 deal adds 270 MW from 2028. Constellation also agreed to buy the 609 MW Rhode Island State Energy Center for $715M. Uprates to existing reactors, not new builds, drive near-term growth, and the DOE loan lowers their cost. Nothing this period weakens the moat. The drop reflects valuation and macro conditions.",
+               "news":  [
+                            "Nov 9: Q3 adjusted EPS of $5.06 beat a consensus near $3.90, and FY2026 guidance was narrowed upward to $12.50–12.80. The stock rose 10.5% that day.",
+                            "Nov 9: Constellation agreed to buy the 609 MW Rhode Island State Energy Center (gas, ISO New England) from Shell Energy for $715M, pending regulatory approval.",
+                            "Oct 27: DOE gave a conditional commitment to guarantee up to $5.0B of loans for nuclear uprates, with a 30-year term at 0.375% above Treasuries.",
+                            "Oct 6: Google signed a 20-year PPA supporting more than $4.3B of uprates across 11 units (~890 MW, first in 2028), plus a 15-year 2,700 MW load-following agreement in PJM.",
+                            "Nov 16–20: The shares fell four straight sessions (−15.3% for the week) during an AI-led market correction. BMO raised its target to $335 (Outperform) that same week, and no company-specific filing explained the drop.",
+                            "Nov 3–5: Texas elected a governor who campaigned on halting new data centers, and power producers sold off. This matters to Constellation because Calpine brought a large Texas (ERCOT) fleet."
+                        ],
+               "caution":  "The stock is trading on AI market mood, not on its own results. It gave back the whole Nov 9 earnings jump within about eight sessions. With the 10-year yield near 5% and futures pricing a Fed hike on Dec 9, capital-heavy power stocks with high valuations can keep de-rating. The 52-week low of $228.63 is the nearest support, and a close below it would mean fresh one-year lows. Policy risk is also building, from PJM price caps and procurement delays to Texas data-center politics. These could cap the pricing power the thesis relies on.",
+               "opportunity":  "For a long-term holder, the gap between business news and the share price is unusually wide. Guidance rose, three hyperscaler-linked deals were signed in about six weeks, and a low-cost DOE loan backs uprate growth. Yet the stock is about 38% below its 52-week high. Contracts of 15–20 years lock in revenue that does not depend on AI stock sentiment. The lower Bollinger Band and an RSI approaching 30 are zones where selling often runs out. However, the MACD has not turned up yet, so the chart has not confirmed a bottom.",
+               "risks":  [
+                             "The AI-led market correction deepens and drags AI power names further regardless of results.",
+                             "Rising rates (10-year near 5%, a possible Dec 9 hike) compress valuations of capital-intensive utilities.",
+                             "PJM price caps, FERC delays or state data-center moratoria limit power prices and new deals.",
+                             "Uprate execution, nuclear outages or Calpine integration costs ($73M after tax in Q3) disappoint.",
+                             "The price breaks below the $228.63 52-week low, a support level."
+                         ]
+           },
+    "th":  {
+               "headline":  "ผลกำไร Q3 ดีเกินคาดและดีล Google ถูกกลบด้วยแรงเทขายหุ้น AI จน CEG ใกล้จุดต่ำสุดรอบ 52 สัปดาห์",
+               "summary":  "ข่าวของ Constellation ตั้งแต่เดือนตุลาคมเป็นบวกต่อเนื่อง วันที่ 6 ต.ค. บริษัทเซ็นดีลขายไฟ 20 ปีกับ Google และวันที่ 27 ต.ค. ได้คำมั่นเบื้องต้นจาก DOE ว่าจะค้ำประกันเงินกู้สูงสุด $5.0B สำหรับงานเพิ่มกำลังผลิต (uprate) วันที่ 9 พ.ย. ผลประกอบการ Q3 ออกมาดีกว่าคาด กำไรต่อหุ้นปรับปรุง $5.06 เทียบกับ $3.04 ในปีก่อน และบริษัทปรับเป้าทั้งปี 2026 ขึ้นเป็น $12.50–12.80 วันนั้นหุ้นพุ่ง 10.5% แต่ในสัปดาห์ที่สิ้นสุด 20 พ.ย. กลับร่วง 15.3% ตามตลาดที่ปรับฐานเพราะหุ้น AI ถูกเทขาย ราคาปัจจุบัน $237.41 อยู่ต่ำกว่า EMA ทั้งสามเส้น แตะกรอบล่าง Bollinger และสูงกว่าจุดต่ำสุดรอบ 52 สัปดาห์เพียง 3.8%",
+               "pros":  [
+                            "กำไรต่อหุ้นปรับปรุง Q3 อยู่ที่ $5.06 สูงกว่าที่ตลาดคาดไว้ราว $3.90 และเป้าปี 2026 ถูกปรับขึ้นเป็น $12.50–12.80 จาก $11.50–12.50",
+                            "Google เซ็น PPA 20 ปี ผูกกับงาน uprate ราว 890 MW และเซ็นสัญญา load-following 2,700 MW อายุ 15 ปี (6 ต.ค.)",
+                            "ดีล 20 ปีขนาด 690 MW กับ Amazon สนับสนุนการลงทุนกว่า $3B ที่ Calvert Cliffs ซึ่งรวมการขยายกำลังผลิต 190 MW",
+                            "DOE ให้คำมั่นเบื้องต้นว่าจะค้ำประกันเงินกู้สูงสุด $5.0B ที่ดอกเบี้ยเหนือพันธบัตรรัฐบาลเพียง 0.375% ทำให้ต้นทุนเงินทุนของงาน uprate ถูกลง",
+                            "ระหว่างที่หุ้นร่วง โบรกยังทยอยปรับราคาเป้าหมายขึ้น (BMO ปรับเป็น $335) และไม่มีโบรกใดใน 25 แห่งที่ให้คำแนะนำขาย"
+                        ],
+               "cons":  [
+                            "ราคาร่วง 15.3% ในสัปดาห์ที่สิ้นสุด 20 พ.ย. ปิดที่ $237.41 ต่ำกว่า EMA 50, 100 และ 200",
+                            "ตลาดปรับฐานจากแรงเทขายหุ้น AI (S\u0026P 500 ลด 3.7% เฉพาะวันที่ 20 พ.ย.) หุ้นกลุ่มไฟฟ้าเพื่อ AI ถูกลากลงด้วยโดยไม่สนผลประกอบการ",
+                            "บอนด์ยีลด์ 10 ปีใกล้ 5% และตลาดให้โอกาสราว 95% ที่ Fed จะขึ้นดอกเบี้ยวันที่ 9 ธ.ค. ซึ่งกดดันหุ้นไฟฟ้าที่ใช้เงินลงทุนสูง",
+                            "ความเสี่ยงด้านนโยบายเพิ่มขึ้น ทั้งเพดานราคาและการเลื่อนประมูลของ PJM และกระแสการเมืองเรื่องดาต้าเซ็นเตอร์ในเท็กซัสที่กระทบโรงไฟฟ้า ERCOT ของ Calpine",
+                            "ต้นทุนดอกเบี้ยที่สูงขึ้นและเครดิตภาษีการผลิตไฟฟ้านิวเคลียร์ที่ลดลงฉุดผล Q3 บางส่วน"
+                        ],
+               "opportunityCheck":  "คะแนนโดยรวมดูสมเหตุสมผล คะแนนสถานะในตลาดเหมาะสมแล้ว เพราะบริษัทเป็นเจ้าของโรงไฟฟ้านิวเคลียร์รายใหญ่ที่สุดในสหรัฐฯ และยังได้สัญญาจาก hyperscaler อย่างต่อเนื่อง ผมจะขยับคะแนนสัดส่วนรายได้จาก AI ขึ้นเล็กน้อย เพราะตอนนี้ Google, Amazon, Microsoft, Meta และผู้ซื้อรายแรกของ Peak+ ผูกไฟฟ้าหลายกิกะวัตต์ไว้กับดาต้าเซ็นเตอร์แล้ว แม้ยังเป็นส่วนน้อยของกำลังผลิตทั้งหมดที่ใหญ่ขึ้นหลังรวม Calpine ส่วนคะแนนคอขวดและอำนาจกำหนดราคา ผมจะลดลง 1–2 แต้ม เพราะเพดานราคาของ PJM การที่ FERC สั่งพักการจัดหาไฟฟ้า และการเมืองเรื่องดาต้าเซ็นเตอร์ในเท็กซัส ล้วนแสดงว่าหน่วยงานกำกับจำกัดรายได้จากไฟฟ้าสะอาดที่หายากได้จริง",
+               "technical":  "แนวโน้มเป็นขาลง ราคา $237.41 อยู่ต่ำกว่า EMA 50 ($266.49), EMA 100 ($270.35) และ EMA 200 ($278.57) โดย EMA คือเส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนักที่บอกเทรนด์ระยะสั้น กลาง และยาว ทั้งสามเส้นเรียงตัวแบบขาลงชัดเจน คือเส้น 50 อยู่ใต้เส้น 100 และเส้น 100 อยู่ใต้เส้น 200 ด้านโมเมนตัม MACD (ตัววัดแรงส่งของเทรนด์) อยู่ที่ −2.68 ต่ำกว่าเส้นสัญญาณที่ −0.92 และฮิสโตแกรมติดลบ −1.76 แปลว่าแรงขายกลับมาเร่งตัวหลังราคาที่เด้งขึ้นจากงบหมดแรง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 37.46 ซึ่งอ่อนแอแต่ยังไม่ถึงโซน oversold ราคากำลังแตะกรอบล่างของ Bollinger Band ที่ $236.34 กรอบนี้ห่างจากค่าเฉลี่ย 20 วันที่ $261.59 ไปข้างละประมาณ 2 ส่วนเบี่ยงเบนมาตรฐาน การแตะกรอบล่างบอกว่าแรงขายยืดตัวมากแล้ว แต่ในขาลงแรงๆ ราคาอาจไหลเลียบกรอบล่างต่อไปได้ ตอนนี้ราคาต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $380.78 อยู่ 37.7% และสูงกว่าจุดต่ำสุดที่ $228.63 เพียง 3.8% ซึ่งเป็นแนวรับถัดไป วันที่ 20 พ.ย. ราคาลง 5.8% ด้วยปริมาณซื้อขาย 5.49 ล้านหุ้น ราว 1.4 เท่าของค่าเฉลี่ย 20 วัน และปิดใกล้จุดต่ำสุดของวันที่ $236.80 วอลุ่มที่หนาแน่นยืนยันแรงขาย",
+               "fundamental":  "Constellation ขายไฟฟ้าสะอาดที่จ่ายได้ตลอด 24 ชั่วโมง ซึ่งเป็นสิ่งที่หายากและ hyperscaler ต้องการ และสัญญาระยะยาวของบริษัทยังเพิ่มขึ้นเรื่อยๆ งบ Q3 ที่ประกาศวันที่ 9 พ.ย. มีกำไรต่อหุ้นปรับปรุง $5.06 เทียบกับ $3.04 ในปีก่อน และรายได้ราว $9.55B เพิ่มขึ้น 45% ส่วนหนึ่งมาจากโรงไฟฟ้าก๊าซของ Calpine ที่ซื้อกิจการเสร็จเมื่อเดือนมกราคม 2026 บริษัทปรับเป้าทั้งปีเป็น $12.50–12.80 จาก $11.50–12.50 สัญญาใหม่ได้แก่ Amazon (690 MW 20 ปี, 30 ก.ย.) และ Google (uprate ราว 890 MW และ load-following 2,700 MW, 6 ต.ค.) และดีลแรกภายใต้ Peak+ ขนาด 270 MW ที่เริ่มปี 2028 นอกจากนี้บริษัทตกลงซื้อโรงไฟฟ้า Rhode Island State Energy Center ขนาด 609 MW ในราคา $715M การเติบโตระยะใกล้มาจากการเพิ่มกำลังผลิตของเตาปฏิกรณ์เดิม (uprate) ไม่ใช่การสร้างโรงใหม่ และเงินกู้จาก DOE ช่วยลดต้นทุนส่วนนี้ ข่าวในรอบนี้ไม่มีอะไรที่ทำให้ความได้เปรียบเชิงการแข่งขันอ่อนลง การที่หุ้นร่วงสะท้อนเรื่องมูลค่าหุ้นและภาวะเศรษฐกิจมหภาค",
+               "news":  [
+                            "9 พ.ย.: กำไรต่อหุ้นปรับปรุง Q3 อยู่ที่ $5.06 สูงกว่าคาดการณ์ราว $3.90 และบริษัทปรับเป้ากำไรปี 2026 ให้แคบลงและสูงขึ้นเป็น $12.50–12.80 วันนั้นหุ้นขึ้น 10.5%",
+                            "9 พ.ย.: ตกลงซื้อโรงไฟฟ้าก๊าซ Rhode Island State Energy Center ขนาด 609 MW (ตลาด ISO New England) จาก Shell Energy มูลค่า $715M โดยยังรอการอนุมัติจากหน่วยงานกำกับ",
+                            "27 ต.ค.: DOE ให้คำมั่นเบื้องต้นว่าจะค้ำประกันเงินกู้สูงสุด $5.0B สำหรับงาน uprate โรงไฟฟ้านิวเคลียร์ อายุ 30 ปี ดอกเบี้ยเหนือพันธบัตรรัฐบาล 0.375%",
+                            "6 ต.ค.: Google เซ็น PPA 20 ปี สนับสนุนการลงทุน uprate กว่า $4.3B ใน 11 เตา (ราว 890 MW เริ่มชุดแรกปี 2028) และเซ็นสัญญา load-following 2,700 MW อายุ 15 ปีในตลาด PJM",
+                            "16–20 พ.ย.: หุ้นลงติดกัน 4 วัน (ทั้งสัปดาห์ −15.3%) ช่วงที่ตลาดปรับฐานจากแรงเทขายหุ้น AI สัปดาห์เดียวกันนั้น BMO ยังปรับราคาเป้าหมายขึ้นเป็น $335 (Outperform) และไม่มีเอกสารที่บริษัทยื่นต่อทางการชิ้นใดที่อธิบายการร่วงครั้งนี้",
+                            "3–5 พ.ย.: เท็กซัสได้ผู้ว่าการรัฐที่หาเสียงว่าจะหยุดดาต้าเซ็นเตอร์ใหม่ หุ้นผู้ผลิตไฟฟ้าถูกเทขายตาม เรื่องนี้เกี่ยวกับ CEG เพราะ Calpine มีโรงไฟฟ้าในเท็กซัส (ERCOT) จำนวนมาก"
+                        ],
+               "caution":  "ตอนนี้หุ้นเคลื่อนไหวตามอารมณ์ตลาดต่อหุ้น AI มากกว่าผลประกอบการของบริษัทเอง ราคาคืนกำไรที่พุ่งขึ้นจากงบวันที่ 9 พ.ย. หมดภายในราว 8 วันทำการ เมื่อยีลด์ 10 ปีใกล้ 5% และตลาดฟิวเจอร์สคาดว่า Fed จะขึ้นดอกเบี้ยวันที่ 9 ธ.ค. หุ้นไฟฟ้าที่ใช้เงินลงทุนสูงและซื้อขายที่มูลค่าสูงอาจถูกปรับลดมูลค่าต่อไปได้อีก แนวรับใกล้สุดคือจุดต่ำสุดรอบ 52 สัปดาห์ที่ $228.63 หากราคาปิดต่ำกว่าระดับนี้จะเป็นจุดต่ำสุดใหม่ในรอบปี ความเสี่ยงด้านนโยบายก็เพิ่มขึ้นด้วย ทั้งเพดานราคาและการเลื่อนการจัดหาไฟฟ้าของ PJM และการเมืองเรื่องดาต้าเซ็นเตอร์ในเท็กซัส ซึ่งอาจจำกัดอำนาจกำหนดราคาที่เป็นแกนของทีสิส",
+               "opportunity":  "สำหรับนักลงทุนระยะยาว ช่องว่างระหว่างข่าวธุรกิจกับราคาหุ้นกว้างผิดปกติ เป้ากำไรถูกปรับขึ้น บริษัทเซ็นดีลที่เกี่ยวกับ hyperscaler สามดีลในเวลาราวหกสัปดาห์ และมีเงินกู้ต้นทุนต่ำจาก DOE หนุนการเติบโตของงาน uprate แต่หุ้นยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ราว 38% สัญญาอายุ 15–20 ปีล็อกรายได้ที่ไม่ขึ้นกับอารมณ์ตลาดต่อหุ้น AI บริเวณกรอบล่าง Bollinger และ RSI ที่ใกล้ 30 มักเป็นจุดที่แรงขายเริ่มหมด แต่ MACD ยังไม่กลับตัวขึ้น กราฟจึงยังไม่ยืนยันว่าเป็นจุดต่ำสุด",
+               "risks":  [
+                             "ตลาดหุ้น AI ปรับฐานลึกขึ้น และลากหุ้นไฟฟ้าเพื่อ AI ลงต่อโดยไม่สนผลประกอบการ",
+                             "ดอกเบี้ยขาขึ้น (ยีลด์ 10 ปีใกล้ 5% และ Fed อาจขึ้นดอกเบี้ยวันที่ 9 ธ.ค.) กดมูลค่าหุ้นสาธารณูปโภคที่ใช้เงินลงทุนสูง",
+                             "เพดานราคาของ PJM ความล่าช้าจาก FERC หรือการระงับดาต้าเซ็นเตอร์ในระดับรัฐ จำกัดค่าไฟและดีลใหม่",
+                             "งาน uprate ล่าช้า โรงไฟฟ้านิวเคลียร์หยุดเดินเครื่องนอกแผน หรือต้นทุนการรวมกิจการ Calpine ($73M หลังภาษีใน Q3) สูงกว่าคาด",
+                             "ราคาหลุดแนวรับที่จุดต่ำสุดรอบ 52 สัปดาห์ $228.63"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "Constellation Reports Third Quarter 2026 Results",
+                        "publisher":  "Constellation Energy",
+                        "url":  "https://www.constellationenergy.com/news/2026/11/constellation-reports-third-quarter-2026-results.html",
+                        "date":  "2026-11-09"
+                    },
+                    {
+                        "title":  "What Explains The Move In Constellation Energy Stock?",
+                        "publisher":  "Trefis",
+                        "url":  "https://www.trefis.com/stock/ceg/articles/624082/what-explains-the-move-in-constellation-energy-stock/2026-11-10",
+                        "date":  "2026-11-10"
+                    },
+                    {
+                        "title":  "Weekly Recap (Constellation Energy, week ending Nov 20)",
+                        "publisher":  "Longbridge",
+                        "url":  "https://longbridge.com/en/news/306355711",
+                        "date":  "2026-11-21"
+                    },
+                    {
+                        "title":  "Wall Street Plunges Into Correction as AI Selloff Erases Nasdaq\u0027s 2026 Gains",
+                        "publisher":  "HNGN",
+                        "url":  "https://www.hngn.com/articles/273903/20261120/wall-street-plunges-correction-ai-selloff-erases-nasdaqs-2026-gains.htm",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "PJM auction delay complicates independent power producers\u0027 stock price recovery",
+                        "publisher":  "S\u0026P Global Market Intelligence",
+                        "url":  "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/10/pjm-auction-delay-complicates-independent-power-producers-stock-price-recovery-106494914",
+                        "date":  "2026-10"
+                    },
+                    {
+                        "title":  "Vistra Sinks 16% in a Week to a New 52-Week Low. Is the Texas Selloff Overdone?",
+                        "publisher":  "Yahoo Finance",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/vistra-sinks-16-week-52-022937824.html",
+                        "date":  "2026-11-05"
+                    }
+                ]
+}

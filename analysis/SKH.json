@@ -1,0 +1,756 @@
+{
+    "ticker":  "SKH",
+    "name":  "SK hynix",
+    "symbol":  "KRX:000660",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T06:00:05Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "KRX:000660",
+                       "yahoo":  "000660.KS",
+                       "currency":  "KRW",
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-23T05:55:19Z",
+                       "price":  1083000,
+                       "open":  0,
+                       "high":  1097000,
+                       "low":  1044000,
+                       "volume":  3106292,
+                       "avgVolume20":  3839212,
+                       "changePct":  -2.7,
+                       "historyDays":  484,
+                       "ema50":  1403220.2,
+                       "ema100":  1512307.16,
+                       "ema200":  1418373.71,
+                       "bb":  {
+                                  "upper":  1542984.17,
+                                  "middle":  1263500,
+                                  "lower":  984015.83
+                              },
+                       "macd":  {
+                                    "macd":  -96872.73,
+                                    "signal":  -93857.56,
+                                    "hist":  -3015.17
+                                },
+                       "rsi14":  36.41,
+                       "high52w":  2987000,
+                       "low52w":  501000,
+                       "spark":  [
+                                     [
+                                         "2026-05-29",
+                                         2333000
+                                     ],
+                                     [
+                                         "2026-06-01",
+                                         2363000
+                                     ],
+                                     [
+                                         "2026-06-02",
+                                         2360000
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         2298000
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         2070000
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         1911000
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         2215000
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         2048000
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         2101000
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         2150000
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         2288000
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         2382000
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         2521000
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         2685000
+                                     ],
+                                     [
+                                         "2026-06-19",
+                                         2764000
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         2919000
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         2555000
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         2621000
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         2917000
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         2673000
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         2628000
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         2650000
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         2560000
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         2187000
+                                     ],
+                                     [
+                                         "2026-07-03",
+                                         2425000
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         2343000
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         2201000
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         2076000
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         2186000
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         2180000
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         1845000
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         1913000
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         2082000
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         1842000
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         1764000
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         1836000
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         1830000
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         1919000
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         1759000
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         1816000
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         1550000
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         1401000
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         1322000
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         1718000
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         1567000
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         1577000
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         1668000
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         1495000
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         1422000
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         1420000
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         1425000
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         1504000
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         1593000
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         1645000
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         1662000
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         1500000
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         1691000
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         1730000
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         1671000
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         1678000
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         1688000
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         1730000
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         1653000
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         1674000
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         1693000
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         1613000
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         1596000
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         1647000
+                                     ],
+                                     [
+                                         "2026-09-07",
+                                         1783000
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         1793000
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         1856000
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         1853000
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         1812000
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         1697000
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         1690000
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         1759000
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         1745000
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         1857000
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         1868000
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         1840000
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         1862000
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         1768000
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         1765000
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         1776000
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         1833000
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         1841000
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         1773000
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         1723000
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         1681000
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         1605000
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         1443000
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         1419000
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         1262000
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         1272000
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         1277000
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         1223000
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         1294000
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         1223000
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         1277000
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         1275000
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         1341000
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         1487000
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         1526000
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         1418000
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         1472000
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         1398000
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         1396000
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         1264000
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         1132000
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         1136000
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         1212000
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         1277000
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         1254000
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         1216000
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         1120000
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         1098000
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         1144000
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         1183000
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         1113000
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         1083000
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          1492137.79,
+                                          1526289.25,
+                                          1558983.79,
+                                          1587964.82,
+                                          1606868.16,
+                                          1618794.9,
+                                          1642175.49,
+                                          1658090.18,
+                                          1675459.19,
+                                          1694068.63,
+                                          1717360.06,
+                                          1743424.37,
+                                          1773917.53,
+                                          1809646.26,
+                                          1847071.89,
+                                          1889108.29,
+                                          1915221.69,
+                                          1942899.27,
+                                          1981099.3,
+                                          2008232.66,
+                                          2032537.26,
+                                          2056751.49,
+                                          2076486.72,
+                                          2080820.58,
+                                          2094317.81,
+                                          2104070.05,
+                                          2107871.23,
+                                          2106621.37,
+                                          2109734.26,
+                                          2112489.78,
+                                          2101999.99,
+                                          2094588.22,
+                                          2094094.57,
+                                          2084208.5,
+                                          2071651.31,
+                                          2062410.08,
+                                          2053295.96,
+                                          2048029.45,
+                                          2036694.96,
+                                          2028040.26,
+                                          2009293.58,
+                                          1985438.93,
+                                          1959421.72,
+                                          1949954.2,
+                                          1934936.39,
+                                          1920899.67,
+                                          1910982.03,
+                                          1894669.01,
+                                          1876132.97,
+                                          1858245.41,
+                                          1841255.39,
+                                          1828029.69,
+                                          1818812.84,
+                                          1811996.65,
+                                          1806114.43,
+                                          1794109.94,
+                                          1790066.41,
+                                          1787710.87,
+                                          1783133.97,
+                                          1779011.07,
+                                          1775442.01,
+                                          1773659.97,
+                                          1768928.2,
+                                          1765205.53,
+                                          1762373.94,
+                                          1756516.14,
+                                          1750221.39,
+                                          1746173.49,
+                                          1747617.67,
+                                          1749397.37,
+                                          1753577.86,
+                                          1757476.77,
+                                          1759614.94,
+                                          1757159.45,
+                                          1754525.74,
+                                          1754701.2,
+                                          1754320.77,
+                                          1758347.4,
+                                          1762647.5,
+                                          1765680.94,
+                                          1769458.15,
+                                          1769400.97,
+                                          1769228.38,
+                                          1769493.94,
+                                          1771984.37,
+                                          1774690.87,
+                                          1774624.56,
+                                          1772600.07,
+                                          1769007.91,
+                                          1762576.22,
+                                          1750043.82,
+                                          1737061.71,
+                                          1718431.84,
+                                          1700924.71,
+                                          1684300.21,
+                                          1666210.01,
+                                          1651613.54,
+                                          1634805.16,
+                                          1620773.59,
+                                          1607213.84,
+                                          1596774.08,
+                                          1592469.21,
+                                          1589862.58,
+                                          1583122.87,
+                                          1578765.11,
+                                          1571676.28,
+                                          1564787.02,
+                                          1552991.45,
+                                          1536481.98,
+                                          1520776.8,
+                                          1508667.91,
+                                          1499582.89,
+                                          1489952.19,
+                                          1479208.97,
+                                          1465122.34,
+                                          1450725.39,
+                                          1438696.94,
+                                          1428669.61,
+                                          1416290.41,
+                                          1403220.2
+                                      ]
+                   },
+    "en":  {
+               "caution":  "The divergence between record KRW 83.33 trillion quarterly operating profit and a 63.7% stock drawdown shows the market is pricing in peak margins rather than past results. Investors should watch whether Samsung\u0027s rapid HBM4 ramp erodes SK hynix\u0027s pricing power as industry supply expands alongside higher 2027 CapEx. Meanwhile, U.S. export-license delays affecting Dalian and New York expansion plans, heavy KOSPI foreign selling, and ongoing U.S. DRAM antitrust litigation could keep overhead resistance near KRW 1,263,500–1,403,220 intact.",
+               "cons":  [
+                            "Bernstein estimated on Oct 26, 2026 that Samsung\u0027s Q3 HBM revenue ($8.7 billion) surpassed SK hynix ($7.6 billion), signaling tighter HBM4 competition.",
+                            "Near-80% operating margins heavily reflect price spikes, fueling investor fears of a memory super-cycle peak heading into 2027.",
+                            "U.S. officials held up equipment export licenses for SK hynix\u0027s Dalian, China fab (reported Nov 3, 2026), complicating Solidigm\u0027s $45 billion-plus New York expansion.",
+                            "Q3 net profit dropped to KRW 39.78 trillion on FX and valuation losses, while a U.S. judge refused to dismiss a DRAM price-fixing lawsuit on Nov 14, 2026."
+                        ],
+               "fundamental":  "Fundamentally, SK hynix remains at the center of AI data-center infrastructure as NVIDIA\u0027s core High Bandwidth Memory (HBM) partner for Blackwell and next-generation Vera Rubin platforms. On Oct 28, 2026, Q3 revenue crossed KRW 100 trillion for the first time at KRW 104.62 trillion (+328% YoY, +32% QoQ), while operating profit jumped 632% YoY to KRW 83.33 trillion (79.7% margin) across HBM4, server DDR5, and 321-layer enterprise SSDs. Management expects HBM4 to overtake HBM3E in Q4 2026 as the M15X fab ramps, with over half of 2027–2028 capacity committed under long-term agreements. Still, significant 2027 CapEx expansion for the Yongin cluster, Samsung\u0027s HBM4 catch-up, and paused Solidigm IPO plans make margin durability the central debate.",
+               "headline":  "Record Q3 Profits Collide With Peak-Cycle Fears and Rising HBM4 Rivalry",
+               "news":  [
+                            "Oct 23 \u0026 Oct 28, 2026: SK hynix discontinued its U.S. IPO review for NAND subsidiary Solidigm, citing unfavorable capital market conditions.",
+                            "Oct 26, 2026: A Bernstein analysis reported by The Korea Herald estimated Samsung\u0027s Q3 HBM revenue ($8.7 billion) edged past SK hynix ($7.6 billion) as HBM4 shipments accelerated.",
+                            "Oct 28, 2026: Q3 2026 revenue surged 328% YoY to KRW 104.62 trillion with KRW 83.33 trillion in operating profit (79.7% margin), while management guided HBM4 to surpass HBM3E in Q4 2026.",
+                            "Nov 3, 2026: Reuters reported U.S. officials held up export licenses for American chipmaking tools destined for SK hynix\u0027s Dalian, China fab, snagging Solidigm\u0027s $45 billion-plus New York plant plans.",
+                            "Nov 14 \u0026 Nov 16, 2026: A U.S. judge denied SK hynix, Samsung, and Micron\u0027s motion to dismiss a DRAM price-fixing class-action suit, two days before SK hynix unveiled a KRW 1.4 trillion ($1.05 billion) five-year domestic supplier support fund.",
+                            "Nov 20, 2026: SK hynix filed to convert JPY 129 billion ($810 million) of bonds (closing Dec 4) into a 14.1% indirect stake in Kioxia, becoming the Japanese NAND maker\u0027s largest indirect shareholder."
+                        ],
+               "opportunity":  "If AI accelerator demand stays durable through NVIDIA\u0027s Vera Rubin transition, SK hynix\u0027s multi-year LTA coverage (over 50% of 2027–2028 capacity) and Q4 2026 HBM4 crossover provide unusually strong revenue visibility compared with prior memory cycles. Near-term technical stabilization near the KRW 984,016 lower Bollinger Band could also be supported by roughly KRW 13.4 trillion ($9.9 billion) in remaining share buybacks once South Korea eases daily buyback limits on Nov 24, 2026, alongside promised special dividends from Kioxia investment gains.",
+               "opportunityCheck":  "The page\u0027s strong marks for AI revenue exposure, market growth, and bottleneck pricing power remain justified by Q3\u0027s KRW 104.62 trillion revenue, 79.7% operating margin, HBM4 crossover, and multi-year capacity lock-in. However, I would trim the market-position score slightly: Bernstein\u0027s Oct 26 analysis indicates Samsung has rapidly closed the HBM revenue gap during the HBM4 ramp, shifting SK hynix from undisputed dominance toward a tight duopoly. Conversely, optionality deserves a modest lift as SK hynix converts Kioxia bonds into a 14.1% indirect NAND stake and expands CXL and memory-pooling solutions.",
+               "pros":  [
+                            "Q3 2026 revenue reached KRW 104.62 trillion (+328% YoY) with KRW 83.33 trillion in operating profit and a 79.7% margin.",
+                            "Full-scale HBM4 shipments started in Q3 2026 and management guides HBM4 to overtake HBM3E share in Q4 2026.",
+                            "Long-term agreements already lock in over 50% of projected 2027–2028 capacity, giving multi-year earnings visibility.",
+                            "Roughly KRW 13.4 trillion ($9.9 billion) in remaining share buyback capacity aligns with South Korea easing daily buyback caps from Nov 24, 2026."
+                        ],
+               "risks":  [
+                             "HBM4 market-share erosion as Samsung Electronics narrows the technology and revenue gap.",
+                             "Cyclical memory margin compression if 2027 industry CapEx outpaces hyperscaler AI monetization.",
+                             "U.S.-China semiconductor export controls delaying Dalian fab upgrades and complicating U.S. NAND investments.",
+                             "FX volatility, non-operating valuation swings, and U.S. DRAM antitrust class-action litigation."
+                         ],
+               "summary":  "SK hynix (KRX:000660) delivered historic Q3 2026 results on Oct 28—KRW 104.62 trillion in revenue and KRW 83.33 trillion in operating profit (79.7% margin)—as HBM4 entered full mass production. Yet shares have fallen 63.7% from their KRW 2,987,000 52-week high to KRW 1,083,000 on Nov 23 amid AI-monetization jitters, peak-margin fears, and heavy KOSPI foreign outflows. An Oct 26 Bernstein estimate suggesting Samsung rivaled or topped SK hynix in Q3 HBM revenue, alongside U.S. export-license delays in Dalian (Nov 3), puts the long-term moat thesis on watch.",
+               "technical":  "As of Nov 23, 2026, SK hynix trades at KRW 1,083,000 (-2.7% on the day) in a firmly bearish downtrend across 484 trading days of history. Price sits more than 22% below all three exponential moving averages (EMAs, which smooth price trends): EMA 50 at KRW 1,403,220, EMA 200 at KRW 1,418,374, and EMA 100 at KRW 1,512,307. Notably, EMA 50 has crossed beneath EMA 200—a classic bearish \"death cross.\" Momentum confirms weakness: MACD (a trend-momentum gauge) stands at -96,873 below its -93,858 signal line with a negative -3,015 histogram, while RSI 14 (a 0–100 momentum gauge; under 30 is oversold) sits at 36.41, weak but not yet oversold. Within the Bollinger Bands (a 20-day volatility channel), price lies well under the KRW 1,263,500 middle line (initial resistance) and 9.1% above the KRW 984,016 lower band (near-term support), sitting in the bottom quarter of its KRW 501,000–2,987,000 52-week range (-63.7% from the peak). Daily volume of 3.11 million shares ran 19% below the 3.84 million 20-day average, showing muted panic selling on the latest dip."
+           },
+    "th":  {
+               "caution":  "ความต่างระหว่างกำไรจากการดำเนินงานที่สูงเป็นประวัติการณ์ถึง KRW 83.33 ล้านล้าน กับราคาหุ้นที่ร่วงลง 63.7% สะท้อนว่าตลาดกำลังกังวลว่ามาร์จิ้นอาจผ่านจุดสูงสุดแล้ว นักลงทุนต้องจับตาว่าการเร่งผลิต HBM4 ของ Samsung จะบั่นทอนอำนาจกำหนดราคาของ SK hynix หรือไม่เมื่อกำลังผลิตทั้งอุตสาหกรรมขยายตัวตามงบ CapEx ปี 2027 อีกทั้งความล่าช้าของใบอนุญาตส่งออกสหรัฐฯ สำหรับโรงงานต้าเหลียน-นิวยอร์ก แรงขายต่างชาติใน KOSPI และคดีผูกขาดราคา DRAM ในสหรัฐฯ อาจยังกดดันให้แนวต้าน KRW 1,263,500–1,403,220 ผ่านได้ยากในระยะสั้น",
+               "cons":  [
+                            "บทวิเคราะห์ของ Bernstein เมื่อ 26 ต.ค. 2026 ประเมินว่ารายได้ HBM ไตรมาส 3 ของ Samsung ($8.7 พันล้าน) แซงหน้า SK hynix ($7.6 พันล้าน) สะท้อนการแข่งขัน HBM4 ที่ดุเดือดขึ้น",
+                            "อัตรากำไรจากการดำเนินงานใกล้ 80% ส่วนใหญ่มาจากราคาชิปที่พุ่งแรง ทำให้ตลาดกังวลว่าวัฏจักรขาขึ้นของหน่วยความจำอาจใกล้จุดสูงสุดก่อนเข้าสู่ปี 2027",
+                            "ทางการสหรัฐฯ ชะลอใบอนุญาตส่งออกเครื่องจักรผลิตชิปไปโรงงานต้าเหลียนในจีน (รายงาน 3 พ.ย. 2026) กระทบแผนขยายโรงงาน Solidigm มูลค่ากว่า $45 พันล้านในนิวยอร์ก",
+                            "กำไรสุทธิ Q3 2026 ลดลงเหลือ KRW 39.78 ล้านล้านจากผลขาดทุนอัตราแลกเปลี่ยนและมูลค่าสินทรัพย์ลงทุน ขณะที่ศาลสหรัฐฯ ปฏิเสธคำร้องยกฟ้องคดีฮั้วราคา DRAM เมื่อ 14 พ.ย. 2026"
+                        ],
+               "fundamental":  "ในเชิงพื้นฐาน SK hynix ยังคงเป็นหัวใจสำคัญของโครงสร้างพื้นฐาน AI ในฐานะซัพพลายเออร์หลักด้าน High Bandwidth Memory (HBM) ให้กับแพลตฟอร์ม Blackwell และ Vera Rubin ของ NVIDIA ผลประกอบการ Q3 2026 เมื่อ 28 ต.ค. 2026 สร้างสถิติรายได้ทะลุร้อยล้านล้านวอนครั้งแรกที่ KRW 104.62 ล้านล้าน (+328% YoY, +32% QoQ) และกำไรจากการดำเนินงานพุ่ง 632% YoY แตะ KRW 83.33 ล้านล้าน (อัตรากำไร 79.7%) จากทั้ง HBM4, server DDR5 และ enterprise SSD 321 ชั้น ผู้บริหารคาดว่า HBM4 จะแซง HBM3E ใน Q4 2026 ตามการเดินเครื่องโรงงาน M15X พร้อมมีสัญญาระยะยาว (LTA) รองรับกำลังผลิตปี 2027–2028 แล้วกว่าครึ่ง อย่างไรก็ดี การเพิ่มงบ CapEx ปี 2027 สำหรับคลัสเตอร์ Yongin การไล่ตามของ Samsung ใน HBM4 และการพับแผน IPO ของ Solidigm ทำให้ความยั่งยืนของอัตรากำไรเป็นโจทย์สำคัญที่สุด",
+               "headline":  "กำไร Q3 ทำสถิติใหม่ แต่หุ้นร่วงรับความกังวลจุดสูงสุดวัฏจักรและคู่แข่ง HBM4",
+               "news":  [
+                            "23 และ 28 ต.ค. 2026: SK hynix ยุติการพิจารณาแผนนำ Solidigm บริษัทย่อยด้าน NAND เข้าตลาดหุ้นสหรัฐฯ โดยระบุว่าภาวะตลาดทุนยังไม่เอื้ออำนวย",
+                            "26 ต.ค. 2026: บทวิเคราะห์ Bernstein ที่ The Korea Herald รายงานประเมินว่ารายได้ HBM ไตรมาส 3 ของ Samsung ($8.7 พันล้าน) ขยับแซง SK hynix ($7.6 พันล้าน) จากการเร่งส่งมอบ HBM4",
+                            "28 ต.ค. 2026: รายงานงบ Q3 2026 รายได้พุ่ง 328% YoY แตะ KRW 104.62 ล้านล้าน กำไรจากการดำเนินงาน KRW 83.33 ล้านล้าน (มาร์จิ้น 79.7%) พร้อมคาดว่า HBM4 จะแซง HBM3E ใน Q4 2026",
+                            "3 พ.ย. 2026: Reuters รายงานว่าทางการสหรัฐฯ ชะลอใบอนุญาตส่งออกเครื่องจักรชิปสหรัฐฯ ไปโรงงานต้าเหลียนของ SK hynix ในจีน ส่งผลให้แผนสร้างโรงงานมูลค่ากว่า $45 พันล้านของ Solidigm ในนิวยอร์กสะดุด",
+                            "14 และ 16 พ.ย. 2026: ผู้พิพากษาสหรัฐฯ ปฏิเสธคำร้องยกฟ้องคดีกลุ่มผู้บริโภคฟ้องฮั้วราคา DRAM ต่อ SK hynix, Samsung และ Micron ก่อนที่ SK hynix จะประกาศกองทุนสนับสนุนซัพพลายเออร์เกาหลีใต้ KRW 1.4 ล้านล้าน ($1.05 พันล้าน) ระยะ 5 ปี",
+                            "20 พ.ย. 2026: SK hynix ยื่นเอกสารแปลงหุ้นกู้มูลค่า JPY 129 พันล้าน ($810 ล้าน) กำหนดเสร็จสิ้น 4 ธ.ค. เพื่อถือหุ้นทางอ้อม 14.1% ขึ้นเป็นผู้ถือหุ้นทางอ้อมรายใหญ่สุดของ Kioxia"
+                        ],
+               "opportunity":  "หากความต้องการชิปเร่งประมวลผล AI ยังคงแข็งแกร่งต่อเนื่องในช่วงเปลี่ยนผ่านสู่สถาปัตยกรรม Vera Rubin ของ NVIDIA สัญญาระยะยาว (LTA) ที่ล็อกกำลังผลิตปี 2027–2028 ไว้แล้วกว่า 50% และการที่ HBM4 ขึ้นเป็นสินค้าหลักใน Q4 2026 จะช่วยให้มองเห็นรายได้ชัดเจนกว่าวัฏจักรหน่วยความจำรอบก่อนๆ นอกจากนี้ การที่ทางการเกาหลีใต้ผ่อนคลายเพดานซื้อหุ้นคืนรายวันตั้งแต่ 24 พ.ย. 2026 เปิดโอกาสให้ SK hynix ใช้วงเงินซื้อหุ้นคืนคงเหลือราว KRW 13.4 ล้านล้าน ($9.9 พันล้าน) รวมถึงแผนจ่ายปันผลพิเศษจากกำไรเงินลงทุนใน Kioxia ช่วยพยุงราคาใกล้แนวรับ KRW 984,016",
+               "opportunityCheck":  "คะแนนที่อยู่ในระดับสูงสำหรับสัดส่วนรายได้ AI การเติบโตของตลาด และอำนาจกำหนดราคาในคอขวดยังคงสมเหตุสมผลจากรายได้ Q3 ที่ KRW 104.62 ล้านล้าน อัตรากำไรจากการดำเนินงาน 79.7% การขึ้นแท่นของ HBM4 และสัญญาระยะยาวถึงปี 2028 อย่างไรก็ตาม ควรปรับลดคะแนนด้านสถานะผู้นำตลาดลงเล็กน้อย เนื่องจากบทวิเคราะห์ Bernstein เมื่อ 26 ต.ค. ชี้ว่า Samsung ไล่ตามรายได้ HBM มาติดๆ ในยุค HBM4 ทำให้ความได้เปรียบเปลี่ยนจากผู้นำเดี่ยวเป็นตลาดกึ่งผูกขาดสองราย ในทางกลับกัน คะแนนด้านโอกาสต่อยอด (optionality) ควรปรับขึ้นเล็กน้อยจากการเข้าถือหุ้นทางอ้อม 14.1% ใน Kioxia และการรุกเทคโนโลยี CXL กับ memory pooling",
+               "pros":  [
+                            "รายได้ Q3 2026 แตะ KRW 104.62 ล้านล้าน (+328% YoY) พร้อมกำไรจากการดำเนินงาน KRW 83.33 ล้านล้าน คิดเป็นอัตรากำไร 79.7%",
+                            "เริ่มผลิตและส่งมอบ HBM4 เต็มรูปแบบใน Q3 2026 และผู้บริหารคาดว่าจะแซงสัดส่วน HBM3E ได้ใน Q4 2026",
+                            "สัญญาระยะยาว (LTA) ล็อกกำลังผลิตปี 2027–2028 ไว้แล้วกว่า 50% ช่วยเพิ่มความชัดเจนของรายได้หลายปีข้างหน้า",
+                            "วงเงินซื้อหุ้นคืนคงเหลือราว KRW 13.4 ล้านล้าน ($9.9 พันล้าน) สอดรับการที่เกาหลีใต้ผ่อนคลายเพดานซื้อหุ้นคืนรายวันเริ่ม 24 พ.ย. 2026"
+                        ],
+               "risks":  [
+                             "ส่วนแบ่งตลาด HBM4 อาจถูกบีบลงจากการที่ Samsung Electronics เร่งไล่ตามทั้งเทคโนโลยีและรายได้",
+                             "อัตรากำไรหน่วยความจำเสี่ยงหดตัวตามวัฏจักร หากงบลงทุน CapEx ของอุตสาหกรรมปี 2027 โตเร็วกว่าการสร้างรายได้ AI ของกลุ่ม hyperscaler",
+                             "มาตรการควบคุมการส่งออกชิประหว่างสหรัฐฯ-จีน ที่กระทบการอัปเกรดโรงงานต้าเหลียนและแผนลงทุน NAND ในสหรัฐฯ",
+                             "ความผันผวนของอัตราแลกเปลี่ยน รายการปรับมูลค่าเงินลงทุนนอกการดำเนินงาน และคดีฟ้องร้องผูกขาดราคา DRAM ในสหรัฐฯ"
+                         ],
+               "summary":  "SK hynix (KRX:000660) ประกาศงบ Q3 2026 สูงสุดเป็นประวัติการณ์เมื่อ 28 ต.ค. ด้วยรายได้ KRW 104.62 ล้านล้าน และกำไรจากการดำเนินงาน KRW 83.33 ล้านล้าน (มาร์จิ้น 79.7%) พร้อมเริ่มผลิต HBM4 เต็มรูปแบบ ทว่าราคาหุ้นกลับร่วงลง 63.7% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ KRW 2,987,000 เหลือ KRW 1,083,000 ณ 23 พ.ย. ท่ามกลางความกังวลเรื่องความคุ้มทุน AI มาร์จิ้นที่อาจถึงจุดพีค และแรงขายต่างชาติใน KOSPI ขณะที่รายงาน Bernstein (26 ต.ค.) ชี้ว่า Samsung เร่งแซงรายได้ HBM บวกกับปัญหาใบอนุญาตส่งออกสหรัฐฯ ที่โรงงานต้าเหลียน (3 พ.ย.) ทำให้ต้องจัดสถานะความแข็งแกร่งระยะยาวเป็นเฝ้าระวัง (watch)",
+               "technical":  "ณ วันที่ 23 พ.ย. 2026 หุ้น SK hynix ปิดที่ KRW 1,083,000 (-2.7% ในวันเดียว) อยู่ในแนวโน้มขาลงอย่างชัดเจนจากข้อมูลย้อนหลัง 484 วันทำการ โดยราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA ซึ่งใช้จับแนวโน้มราคา) ทั้งสามเส้นเกิน 22% ได้แก่ EMA 50 ที่ KRW 1,403,220, EMA 200 ที่ KRW 1,418,374 และ EMA 100 ที่ KRW 1,512,307 โดย EMA 50 ตัดลงต่ำกว่า EMA 200 เกิดสัญญาณขาลง \"death cross\" ด้านโมเมนตัมยังอ่อนแรง ค่า MACD (ตัวชี้วัดแรงส่งและแนวโน้ม) อยู่ที่ -96,873 ต่ำกว่าเส้น signal ที่ -93,858 พร้อม histogram ติดลบที่ -3,015 ส่วน RSI 14 (มาตรวัดโมเมนตัมช่วง 0–100 ต่ำกว่า 30 คือเขตขายมากเกินไป) อยู่ที่ 36.41 อ่อนแอแต่ยังไม่เข้าเขต oversold เมื่อเทียบกับ Bollinger Bands (กรอบความผันผวน 20 วัน) ราคาอยู่ต่ำกว่าเส้นกลาง KRW 1,263,500 (แนวต้านแรก) และอยู่เหนือกรอบล่าง KRW 984,016 (แนวรับระยะสั้น) ราว 9.1% โดยอยู่โซนล่างของกรอบ 52 สัปดาห์ที่ KRW 501,000–2,987,000 (-63.7% จากจุดสูงสุด) ปริมาณซื้อขาย 3.11 ล้านหุ้น ต่ำกว่าค่าเฉลี่ย 20 วันที่ 3.84 ล้านหุ้นราว 19% บ่งชี้ว่าแรงเทขายตื่นตระหนกเริ่มเบาลงบ้างในการปรับลงล่าสุด"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-10-28",
+                        "publisher":  "SK hynix Newsroom",
+                        "title":  "SK hynix Announces 3Q26 Financial Results",
+                        "url":  "https://news.skhynix.com/sk-hynix-announces-3q26-financial-results/"
+                    },
+                    {
+                        "date":  "2026-10-26",
+                        "publisher":  "The Korea Herald",
+                        "title":  "Samsung may have overtaken SK hynix in HBM revenue, analysis suggests",
+                        "url":  "https://www.koreaherald.com/view.php?ud=20261026050630"
+                    },
+                    {
+                        "date":  "2026-11-03",
+                        "publisher":  "Reuters",
+                        "title":  "SK Hynix\u0027s New York chip plans hit snag over US restrictions on China, sources say",
+                        "url":  "https://www.reuters.com/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/"
+                    },
+                    {
+                        "date":  "2026-11-16",
+                        "publisher":  "Reuters",
+                        "title":  "SK Hynix to spend $1 billion over five years to support chip suppliers",
+                        "url":  "https://www.reuters.com/world/asia-pacific/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-2026-11-16/"
+                    },
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "Korea JoongAng Daily",
+                        "title":  "SK hynix to convert Kioxia bonds to become Japanese NAND firm\u0027s largest indirect shareholder",
+                        "url":  "https://koreajoongangdaily.joins.com/news/2026-11-20/business/industry/SK-hynix-to-convert-Kioxia-bonds-to-become-Japanese-NAND-firms-largest-indirect-shareholder/21965706"
+                    },
+                    {
+                        "date":  "",
+                        "publisher":  "SK hynix Newsroom",
+                        "title":  "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Supercomputing 2026",
+                        "url":  "https://news.skhynix.com/building-the-future-ai-ecosystem-around-memory-sk-hynix-presents-its-technology-vision-at-supercomputing-2026/"
+                    }
+                ]
+}

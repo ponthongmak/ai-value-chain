@@ -1,0 +1,752 @@
+{
+    "ticker":  "AMZN",
+    "name":  "Amazon",
+    "symbol":  "NASDAQ:AMZN",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:42:31Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:AMZN",
+                       "yahoo":  "AMZN",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:38:05Z",
+                       "price":  246.82,
+                       "open":  253.48,
+                       "high":  259.97,
+                       "low":  245.31,
+                       "volume":  74108100,
+                       "avgVolume20":  52964545,
+                       "changePct":  -4.1,
+                       "historyDays":  501,
+                       "ema50":  256.67,
+                       "ema100":  254.15,
+                       "ema200":  247.87,
+                       "bb":  {
+                                  "upper":  275.29,
+                                  "middle":  257.42,
+                                  "lower":  239.56
+                              },
+                       "macd":  {
+                                    "macd":  0.94,
+                                    "signal":  1.99,
+                                    "hist":  -1.04
+                                },
+                       "rsi14":  42.3,
+                       "high52w":  287.2,
+                       "low52w":  196,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         250.02
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         253.79
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         246.03
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         245.22
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         244.19
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         238
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         241.51
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         238.55
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         246.02
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         246
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         237.5
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         244.39
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         232.79
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         234.11
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         234.27
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         227.01
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         232.69
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         240.14
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         238.34
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         241.7
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         242.67
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         244.16
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         245.98
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         243.62
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         247.04
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         245.34
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         247.31
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         247.49
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         254.96
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         249.89
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         247.23
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         249.99
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         247.55
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         244.85
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         233.66
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         232.11
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         231.39
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         230.86
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         226.65
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         235.5
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         271.58
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         284.02
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         277.42
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         272.65
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         272.26
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         274.48
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         278.09
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         272.27
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         267.28
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         265.13
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         262.65
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         261.31
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         259.45
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         265.84
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         260.11
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         258.63
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         262.07
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         261.06
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         260.28
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         256.26
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         266.43
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         259.77
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         254.92
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         254.98
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         258.9
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         258.51
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         256.97
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         252.4
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         251.89
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         256.78
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         253.54
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         248.42
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         245.96
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         251.19
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         253.71
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         258.45
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         254.98
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         249.27
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         249.38
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         249.67
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         246.15
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         246.67
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         249.15
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         248.23
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         251.52
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         251.4
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         256.29
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         259.92
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         254.06
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         262.43
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         259.53
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         258.58
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         254.08
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         254.76
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         250
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         262.45
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         262.63
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         262.37
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         250.38
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         248
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         249.09
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         253.1
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         254.6
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         243.79
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         240.35
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         245.63
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         250.69
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         266.03
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         260.21
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         259.3
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         266.93
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         270.87
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         266.17
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         267.44
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         266.66
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         257.75
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         257.89
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         267.74
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         257.37
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         246.82
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          252.89,
+                                          252.93,
+                                          252.66,
+                                          252.37,
+                                          252.04,
+                                          251.49,
+                                          251.1,
+                                          250.61,
+                                          250.43,
+                                          250.26,
+                                          249.76,
+                                          249.55,
+                                          248.89,
+                                          248.31,
+                                          247.76,
+                                          246.94,
+                                          246.39,
+                                          246.14,
+                                          245.84,
+                                          245.67,
+                                          245.56,
+                                          245.5,
+                                          245.52,
+                                          245.44,
+                                          245.51,
+                                          245.5,
+                                          245.57,
+                                          245.65,
+                                          246.01,
+                                          246.16,
+                                          246.21,
+                                          246.35,
+                                          246.4,
+                                          246.34,
+                                          245.84,
+                                          245.3,
+                                          244.76,
+                                          244.21,
+                                          243.53,
+                                          243.21,
+                                          244.32,
+                                          245.88,
+                                          247.12,
+                                          248.12,
+                                          249.06,
+                                          250.06,
+                                          251.16,
+                                          251.99,
+                                          252.59,
+                                          253.08,
+                                          253.46,
+                                          253.76,
+                                          253.99,
+                                          254.45,
+                                          254.67,
+                                          254.83,
+                                          255.11,
+                                          255.35,
+                                          255.54,
+                                          255.57,
+                                          255.99,
+                                          256.14,
+                                          256.09,
+                                          256.05,
+                                          256.16,
+                                          256.25,
+                                          256.28,
+                                          256.13,
+                                          255.96,
+                                          256,
+                                          255.9,
+                                          255.61,
+                                          255.23,
+                                          255.07,
+                                          255.02,
+                                          255.15,
+                                          255.14,
+                                          254.91,
+                                          254.7,
+                                          254.5,
+                                          254.17,
+                                          253.88,
+                                          253.69,
+                                          253.48,
+                                          253.4,
+                                          253.32,
+                                          253.44,
+                                          253.69,
+                                          253.71,
+                                          254.05,
+                                          254.26,
+                                          254.43,
+                                          254.42,
+                                          254.43,
+                                          254.26,
+                                          254.58,
+                                          254.9,
+                                          255.19,
+                                          255,
+                                          254.73,
+                                          254.51,
+                                          254.45,
+                                          254.46,
+                                          254.04,
+                                          253.5,
+                                          253.19,
+                                          253.09,
+                                          253.6,
+                                          253.86,
+                                          254.07,
+                                          254.58,
+                                          255.22,
+                                          255.65,
+                                          256.11,
+                                          256.52,
+                                          256.57,
+                                          256.62,
+                                          257.06,
+                                          257.07,
+                                          256.67
+                                      ]
+                   },
+    "en":  {
+               "caution":  "Near-term sentiment is caught between historic AI investment and market impatience over cash generation. With ~$220 billion in 2026 CapEx keeping free cash flow deeply negative (-$42.4 billion trailing) and depreciation poised to climb, any hint of slowing AWS demand or tighter cloud margins could trigger further multiple compression. Technically, breaking below the EMA 200 ($247.87) on 1.4x average volume leaves the stock vulnerable to testing lower support ($239.56), while Anthropic\u0027s daily public share price (ANT) now adds mark-to-market volatility to AMZN\u0027s earnings and sentiment.",
+               "cons":  [
+                            "Full-year 2026 cash CapEx of ~$220 billion ($75.9 billion in Q3 alone) drove trailing 12-month free cash flow to a $42.4 billion outflow.",
+                            "Q3 diluted EPS of $1.89 missed consensus (~$1.96) and total sales of $201.9 billion slightly trailed estimates, as North America (6%) and International (5%) retail slowed.",
+                            "Technical posture turned bearish on November 20 after a 4.1% drop on 1.4x average volume broke below the EMA 200 ($247.87).",
+                            "Heavy infrastructure spending risks margin compression from rising depreciation, while the FTC retail antitrust trial looms in March 2027."
+                        ],
+               "fundamental":  "Amazon\u0027s Q3 2026 report (October 29) showed booming AI cloud growth offsetting slower retail. Net sales rose 12% year-over-year to $201.9 billion, operating income jumped 61% to a record $28.1 billion (13.9% margin), and Q4 sales guidance of $240.0–$247.0 billion signals 12%–16% growth. AWS accelerated 39.3% to $46.0 billion ($17.8 billion operating income) as Bedrock token volume surged nearly 17x and Trainium chips scaled across inference workloads, underpinning management\u0027s \u003e40% AWS growth outlook for 2027–2028. Anthropic\u0027s November 19 Nasdaq IPO further validated the ecosystem, valuing Amazon\u0027s ~14.6% stake near $187 billion alongside a $110 billion AWS compute commitment through 2036. The cost is heavy: ~$220 billion in 2026 CapEx pushed trailing free cash flow to -$42.4 billion, despite operating cash flow rising 29% to $168.3 billion.",
+               "headline":  "AWS surges 39% and Anthropic IPOs, yet $220B CapEx weighs on AMZN",
+               "news":  [
+                            "October 29, 2026: Amazon reported Q3 net sales of $201.9 billion (+12% YoY) and diluted EPS of $1.89 (below ~$1.96 consensus), while AWS jumped 39.3% to $46.0 billion with a $578 billion backlog. Management guided \u003e40% AWS growth for 2027–2028 and reaffirmed ~$220 billion in 2026 CapEx, swinging trailing free cash flow to -$42.4 billion.",
+                            "October 30–November 20, 2026: Analysts split over CapEx versus AI momentum, with Morgan Stanley ($350 to $335), TD Cowen ($350 to $340), and Wedbush ($310 to $298) trimming targets post-earnings on cash burn and depreciation. Later, UBS assumed Buy at $340 (November 17) and Oppenheimer lifted its target from $285 to $310 (November 20) citing Anthropic\u0027s IPO value.",
+                            "Late October 2026: CEO Andy Jassy indicated 2027 AWS capacity is largely sold out and 2028 heavily booked, prompting tiered Bedrock pricing with a ~75% Priority premium alongside discounted Flex and Batch options. AWS also scaled Trainium2 clusters (Project Rainier) ahead of 3nm Trainium3 deployments.",
+                            "November 19–20, 2026: Anthropic debuted on Nasdaq (ticker ANT) at $83/share, opening at $111.50 and closing day one at $97.17 before slipping to $88.91 on November 20, valuing Amazon\u0027s ~14.6% stake near $161 billion–$187 billion. Despite the windfall and Anthropic\u0027s $110 billion AWS compute commitment, AMZN fell 4.1% on November 20 amid a broad Nasdaq tech sell-off."
+                        ],
+               "opportunity":  "For long-term AI-infrastructure holders, the gap between weakening price action and strengthening cloud fundamentals is notable. AWS\u0027s 39.3% acceleration, $578 billion backlog, and \u003e40% multi-year growth outlook provide rare multi-year demand visibility, backed by sold-out 2027 capacity and Trainium\u0027s cost edge over third-party GPUs. Anthropic\u0027s IPO also turned an $18 billion bet into a liquid stake worth ~$161 billion–$187 billion while locking in $110 billion of AWS usage. Upcoming AWS re:Invent (starting November 30, 2026) offers a near-term catalyst for Trainium3 and enterprise AI updates.",
+               "opportunityCheck":  "The page\u0027s overall AI-opportunity profile looks broadly right on market growth, competitive position, and optionality—the last reinforced by Anthropic\u0027s November 19 IPO and Trainium3\u0027s roadmap. However, I would raise the bottleneck and pricing power score meaningfully: CEO Andy Jassy noted 2027 AWS capacity is largely sold out, backlog hit $578 billion, and Bedrock introduced a ~75% Priority-tier premium while holding a 38.7% cloud margin. I would also nudge AI revenue exposure slightly higher, since AWS already supplies 63% of operating income despite retail dominating top-line sales.",
+               "pros":  [
+                            "AWS Q3 2026 revenue surged 39.3% year-over-year to $46.0 billion ($184 billion run rate) at a 38.7% operating margin, with management guiding over 40% growth in 2027 and 2028.",
+                            "AWS backlog reached $578 billion on triple-digit growth, and Anthropic committed to at least $110 billion in AWS compute spending through 2036.",
+                            "Anthropic\u0027s November 19 Nasdaq IPO valued Amazon\u0027s ~14.6% stake at roughly $161 billion to $187 billion on an $18 billion investment.",
+                            "Custom Trainium chips power a large share of Bedrock inference as token volume jumped nearly 17x year-over-year, lifting company operating margin to a record 13.9%."
+                        ],
+               "risks":  [
+                             "CapEx and cash-flow drag: ~$220 billion in 2026 spending drove trailing free cash flow to -$42.4 billion and will raise future depreciation expense.",
+                             "Anthropic equity volatility: Daily mark-to-market swings in public ANT shares (down ~8.5% on November 20) can cause sharp fluctuations in Amazon\u0027s reported net income and sentiment.",
+                             "E-commerce deceleration: North America (+6%) and International (+5%) retail growth slowed amid cautious consumer spending and promotional discounting.",
+                             "Regulatory and cloud competition: The FTC antitrust bench trial is scheduled for March 2027, while Microsoft Azure and Google Cloud compete aggressively for enterprise AI workloads."
+                         ],
+               "summary":  "Amazon closed at $246.82 on November 20, 2026, falling 4.1% on heavy volume below its 50-, 100-, and 200-day moving averages. The slide reflects anxiety over $220 billion in 2026 capital spending—driving trailing free cash flow to negative $42.4 billion in Q3 (October 29)—and a tech sell-off after Anthropic\u0027s November 19 IPO. Fundamentally, Amazon\u0027s cloud moat strengthened: AWS jumped 39.3% year-over-year to $46.0 billion with a $578 billion backlog, while Anthropic\u0027s debut valued Amazon\u0027s 14.6% stake near $187 billion alongside a $110 billion AWS compute commitment.",
+               "technical":  "As of November 20, 2026, AMZN trades at $246.82, down 4.1% on the day (intraday range $245.31–$259.97). Although the three exponential moving averages (EMAs, which smooth price trends) remain stacked bullishly—EMA 50 at $256.67 above EMA 100 at $254.15 and EMA 200 at $247.87—price has just broken below all three, putting the long-term uptrend under immediate test. Momentum confirms the slide: MACD (a trend-momentum gauge comparing short- and long-term averages) sits at 0.94 below its 1.99 signal line, leaving a negative -1.04 histogram. RSI 14 (a 0–100 momentum scale; below 30 is oversold) reads 42.3—bearish and weak, yet not oversold enough to suggest selling exhaustion. Within Bollinger Bands (a volatility channel around the 20-day average spanning $239.56 to $275.29), AMZN sits well below the $257.42 midline and near the $239.56 lower band, while standing 14.1% off its $287.20 52-week high (range $196.00–$287.20). Crucially, volume hit 74.1 million shares versus a 53.0 million 20-day average (1.4x), confirming institutional selling. Near-term resistance sits at $247.87 (EMA 200) and $256.67–$257.42 (EMA 50/midline); initial support lies at $239.56."
+           },
+    "th":  {
+               "caution":  "ระยะสั้นตลาดยังชั่งน้ำหนักระหว่างการลงทุน AI ครั้งประวัติศาสตร์กับความกังวลด้านกระแสเงินสด งบลงทุนปี 2026 ราว $220 พันล้านทำให้กระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบหนัก (-$42.4 พันล้าน) และจะกดดันค่าเสื่อมราคาในอนาคต หากดีมานด์ AWS ชะลอหรือมาร์จิ้นคลาวด์แคบลง หุ้นอาจถูกปรับลดมูลค่าต่อได้ ด้านเทคนิค การหลุด EMA 200 ($247.87) พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย 1.4 เท่าเปิดความเสี่ยงลงทดสอบแนวรับ $239.56 ขณะที่ราคาหุ้น ANT ในตลาดจะเพิ่มความผันผวนต่อกำไรทางบัญชีของ AMZN รายวัน",
+               "cons":  [
+                            "งบลงทุนปี 2026 สูงถึง ~$220 พันล้าน (ไตรมาส 3 ไตรมาสเดียว $75.9 พันล้าน) ดึงกระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ -$42.4 พันล้าน",
+                            "กำไรต่อหุ้นปรับลด Q3 อยู่ที่ $1.89 ต่ำกว่าคาด (~$1.96) และยอดขายรวม $201.9 พันล้านพลาดเป้าเล็กน้อย ขณะที่ค้าปลีกอเมริกาเหนือ (+6%) และต่างประเทศ (+5%) ชะลอตัว",
+                            "ภาพเทคนิคพลิกเป็นขาลงเมื่อวันที่ 20 พ.ย. หลังราคาร่วง 4.1% พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย 1.4 เท่าจนหลุดเส้น EMA 200 ($247.87)",
+                            "การลงทุนโครงสร้างพื้นฐานมหาศาลเสี่ยงกดดันอัตรากำไรจากค่าเสื่อมราคาที่เพิ่มขึ้น และยังมีคดีผูกขาดค้าปลีกของ FTC รอพิจารณาในเดือนมี.ค. 2027"
+                        ],
+               "fundamental":  "งบไตรมาส 3 ปี 2026 (ประกาศ 29 ต.ค.) สะท้อนภาพที่คลาวด์ AI โตแรงช่วยพยุงธุรกิจค้าปลีกที่ชะลอ ยอดขายรวมเพิ่ม 12% YoY แตะ $201.9 พันล้าน กำไรจากการดำเนินงานพุ่ง 61% ทำสถิติสูงสุด $28.1 พันล้าน (มาร์จิ้น 13.9%) และคาดการณ์ยอดขาย Q4 ที่ $240.0–$247.0 พันล้านคิดเป็นเติบโต 12%–16% จุดเด่นคือ AWS ที่เร่งตัว 39.3% สู่ $46.0 พันล้าน (กำไรดำเนินงาน $17.8 พันล้าน) โดยปริมาณโทเคนบน Bedrock พุ่งเกือบ 17 เท่า และชิป Trainium ถูกใช้รันงาน inference แพร่หลาย หนุนเป้าการเติบโต AWS เกิน 40% ในปี 2027–2028 นอกจากนี้ การ IPO ของ Anthropic วันที่ 19 พ.ย. ยังตีมูลค่าหุ้นสัดส่วน ~14.6% ของ Amazon ราว $187 พันล้านพร้อมสัญญาเช่าใช้ AWS ขั้นต่ำ $110 พันล้านถึงปี 2036 แต่ต้องแลกกับงบลงทุนปี 2026 ราว $220 พันล้านที่กดกระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ -$42.4 พันล้าน แม้กระแสเงินสดจากการดำเนินงานโต 29% เป็น $168.3 พันล้านก็ตาม",
+               "headline":  "AWS พุ่ง 39% และ Anthropic เข้าตลาด แต่งบลงทุน $220B กดดัน AMZN",
+               "news":  [
+                            "29 ต.ค. 2026: Amazon รายงานยอดขาย Q3 ที่ $201.9 พันล้าน (+12% YoY) และ EPS $1.89 (ต่ำกว่าคาด ~$1.96) แต่ AWS โตแรง 39.3% แตะ $46.0 พันล้านพร้อม Backlog $578 พันล้าน ผู้บริหารคาด AWS โตเกิน 40% ในปี 2027–2028 และยืนยันงบลงทุนปี 2026 ราว $220 พันล้าน ทำให้กระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ -$42.4 พันล้าน",
+                            "30 ต.ค.–20 พ.ย. 2026: นักวิเคราะห์เสียงแตกเรื่องงบลงทุนกับโอกาส AI โดย Morgan Stanley ($350 เหลือ $335), TD Cowen ($350 เหลือ $340) และ Wedbush ($310 เหลือ $298) ปรับลดเป้าราคาหลังงบเพราะกังวลค่าเสื่อมและกระแสเงินสด ต่อมา UBS ให้คำแนะนำ Buy เป้า $340 (17 พ.ย.) และ Oppenheimer ปรับเป้าจาก $285 เป็น $310 (20 พ.ย.) จากมูลค่าหุ้น Anthropic หลัง IPO",
+                            "ปลาย ต.ค. 2026: ซีอีโอ Andy Jassy ระบุว่ากำลังการประมวลผลของ AWS สำหรับปี 2027 ถูกจองเกือบเต็มและปี 2028 ถูกจองไปมากแล้ว ส่งผลให้ Bedrock ออกแพ็กเกจราคาแบบแบ่งระดับโดยคิดพรีเมียม Priority ราว 75% ควบคู่แพ็กเกจลดราคา Flex และ Batch พร้อมเร่งขยายคลัสเตอร์ Trainium2 (Project Rainier) ก่อนส่ง Trainium3 ขนาด 3nm",
+                            "19–20 พ.ย. 2026: Anthropic เข้าซื้อขายใน Nasdaq (ชื่อย่อ ANT) ที่ราคา IPO $83 เปิดวันแรก $111.50 และปิด $97.17 ก่อนย่อลงมาที่ $88.91 ในวันที่ 20 พ.ย. ทำให้สัดส่วนถือหุ้น ~14.6% ของ Amazon มีมูลค่าราว $161–$187 พันล้าน แม้ได้กำไรทางบัญชีมหาศาลและสัญญา AWS $110 พันล้าน แต่ AMZN ยังร่วง 4.1% วันที่ 20 พ.ย. ตามแรงขายหุ้นเทคใน Nasdaq"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนสายโครงสร้างพื้นฐาน AI ระยะยาว ช่องว่างระหว่างราคาหุ้นที่อ่อนตัวกับพื้นฐานคลาวด์ที่แกร่งขึ้นถือว่าน่าจับตา AWS ที่เร่งโต 39.3% พร้อม Backlog $578 พันล้านและแนวโน้มโตเกิน 40% ในปี 2027–2028 ช่วยให้เห็นดีมานด์ระยะยาวชัดเจน หนุนด้วยกำลังการให้บริการปี 2027 ที่แทบเต็มและความได้เปรียบต้นทุนของชิป Trainium ด้านการ IPO ของ Anthropic เปลี่ยนเงินลงทุน $18 พันล้านเป็นหุ้นสภาพคล่องมูลค่า ~$161–$187 พันล้านพร้อมล็อกยอดใช้ AWS $110 พันล้าน ขณะที่งาน AWS re:Invent (เริ่ม 30 พ.ย. 2026) อาจเป็นปัจจัยหนุนระยะใกล้เรื่อง Trainium3 และบริการ AI องค์กร",
+               "opportunityCheck":  "คะแนนภาพรวมโอกาส AI ของหน้าเว็บดูเหมาะสมในด้านการเติบโตของตลาด ตำแหน่งผู้นำ และโอกาสต่อยอด (ซึ่งยิ่งชัดขึ้นหลัง Anthropic เข้า IPO วันที่ 19 พ.ย. และแผน Trainium3) แต่ควรปรับเพิ่มคะแนนด้านคอขวดและอำนาจกำหนดราคาอย่างมีนัยสำคัญ เพราะซีอีโอ Andy Jassy ระบุว่ากำลังให้บริการ AWS ปี 2027 แทบขายหมดแล้ว Backlog พุ่ง $578 พันล้าน และ Bedrock เก็บพรีเมียมระดับ Priority ได้ถึง ~75% ขณะรักษามาร์จิ้นคลาวด์ 38.7% นอกจากนี้ควรขยับคะแนนสัดส่วนรายได้ AI ขึ้นเล็กน้อย เนื่องจาก AWS ทำกำไรดำเนินงานให้บริษัทถึง 63% แม้รายได้หลักยังมาจากค้าปลีกก็ตาม",
+               "pros":  [
+                            "รายได้ AWS ไตรมาส 3 ปี 2026 พุ่ง 39.3% YoY สู่ $46.0 พันล้าน (อัตราต่อปี $184 พันล้าน) ด้วยอัตรากำไรจากการดำเนินงาน 38.7% และผู้บริหารคาดโตเกิน 40% ทั้งปี 2027 และ 2028",
+                            "Backlog ของ AWS ทะยานแตะ $578 พันล้านด้วยอัตราโตระดับเลขสามหลัก และ Anthropic ทำสัญญาใช้พลังประมวลผล AWS ขั้นต่ำ $110 พันล้านถึงปี 2036",
+                            "การ IPO ในตลาด Nasdaq ของ Anthropic วันที่ 19 พ.ย. ทำให้สัดส่วนถือหุ้น ~14.6% ของ Amazon มีมูลค่าราว $161–$187 พันล้านจากต้นทุนลงทุน $18 พันล้าน",
+                            "ชิป Trainium ที่พัฒนาเองรองรับงาน inference บน Bedrock ในสัดส่วนสูง ขณะที่ปริมาณโทเคนโตเกือบ 17 เท่า YoY หนุนอัตรากำไรจากการดำเนินงานรวมทำสถิติใหม่ 13.9%"
+                        ],
+               "risks":  [
+                             "แรงกดดันจากงบลงทุนและกระแสเงินสด: การใช้จ่ายปี 2026 ราว $220 พันล้านทำให้กระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ -$42.4 พันล้านและจะเพิ่มค่าเสื่อมราคาในอนาคต",
+                             "ความผันผวนของหุ้น Anthropic: การเหวี่ยงตัวรายวันของหุ้น ANT ในตลาด (ร่วง ~8.5% วันที่ 20 พ.ย.) จะทำให้กำไรสุทธิทางบัญชีและบรรยากาศการลงทุนของ AMZN ผันผวนตาม",
+                             "ธุรกิจค้าปลีกชะลอตัว: ยอดขายอเมริกาเหนือ (+6%) และต่างประเทศ (+5%) เติบโตช้าลงท่ามกลางกำลังซื้อผู้บริโภคที่ระมัดระวังและการแข่งขันด้านส่วนลด",
+                             "ความเสี่ยงกฎระเบียบและการแข่งขันคลาวด์: คดีผูกขาดของ FTC มีกำหนดไต่สวนเดือนมี.ค. 2027 ขณะที่ Microsoft Azure และ Google Cloud แข่งขันชิงงาน AI องค์กรอย่างดุเดือด"
+                         ],
+               "summary":  "หุ้น Amazon ปิดที่ $246.82 เมื่อวันที่ 20 พ.ย. 2026 ร่วงลง 4.1% พร้อมวอลุ่มหนาแน่นจนหลุดเส้นค่าเฉลี่ยเคลื่อนที่ 50, 100 และ 200 วัน แรงขายสะท้อนความกังวลต่องบลงทุนปี 2026 สูงถึง $220 พันล้านที่กดกระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ -$42.4 พันล้านในงบ Q3 (29 ต.ค.) ผสมกับแรงเทขายหุ้นเทคหลัง Anthropic เข้าตลาดวันที่ 19 พ.ย. อย่างไรก็ดี คูเมืองด้านคลาวด์กลับแกร่งขึ้นชัดเจน โดย AWS โต 39.3% YoY แตะ $46.0 พันล้าน พร้อม Backlog $578 พันล้าน และการ IPO ของ Anthropic ตีมูลค่าหุ้นสัดส่วน 14.6% ของ Amazon ราว $187 พันล้านควบสัญญาใช้ AWS $110 พันล้าน",
+               "technical":  "ณ วันที่ 20 พ.ย. 2026 AMZN ปิดที่ $246.82 ลดลง 4.1% ในวันเดียว (กรอบระหว่างวัน $245.31–$259.97) แม้เส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — เส้นกรองแนวโน้มราคา) ทั้งสามเส้นยังเรียงตัวแบบขาขึ้น โดย EMA 50 ที่ $256.67 อยู่เหนือ EMA 100 ($254.15) และ EMA 200 ($247.87) แต่ราคาเพิ่งหลุดต่ำกว่าทุกเส้น ทำให้แนวโน้มขาขึ้นระยะยาวถูกทดสอบทันที ด้านโมเมนตัมยืนยันแรงอ่อนตัว: MACD (ตัววัดโมเมนตัมเทียบค่าเฉลี่ยระยะสั้นกับยาว) อยู่ที่ 0.94 ต่ำกว่าเส้น signal ที่ 1.99 ทำให้ค่า histogram ติดลบ -1.04 ส่วน RSI 14 (มาตรวัดแรงซื้อขาย 0–100 หากต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 42.3 สะท้อนแรงขายคุมเกมแต่ยังไม่ถึงเขต oversold ในกรอบ Bollinger Bands (ช่องความผันผวนรอบค่าเฉลี่ย 20 วันช่วง $239.56–$275.29) ราคาอยู่ต่ำกว่าเส้นกลาง $257.42 และเข้าใกล้ขอบล่าง $239.56 โดยยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($287.20) อยู่ 14.1% (กรอบปี $196.00–$287.20) ที่สำคัญ ปริมาณซื้อขายพุ่งแตะ 74.1 ล้านหุ้นเทียบค่าเฉลี่ย 20 วันที่ 53.0 ล้านหุ้น (1.4 เท่า) ยืนยันแรงขายจากสถาบัน แนวต้านระยะใกล้อยู่ที่ $247.87 (EMA 200) และ $256.67–$257.42 (EMA 50/เส้นกลาง) ส่วนแนวรับแรกอยู่ที่ $239.56"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-10-29",
+                        "publisher":  "Amazon",
+                        "title":  "Amazon.com Announces Third Quarter Results",
+                        "url":  "https://www.aboutamazon.com/news/company-news/amazon-2026-third-quarter-results"
+                    },
+                    {
+                        "date":  "2026-10-29",
+                        "publisher":  "Constellation Research",
+                        "title":  "AWS Q3 revenue growth surges 39%, capex stings Amazon\u0027s cash flow",
+                        "url":  "https://www.constellationr.com/insights/news/aws-q3-revenue-growth-surges-39-capex-stings-amazons-cash-flow"
+                    },
+                    {
+                        "date":  "2026-11-05",
+                        "publisher":  "Morningstar",
+                        "title":  "Amazon Earnings Review: Capex Poised to Rise as Cloud Growth Accelerates",
+                        "url":  "https://www.morningstar.com/stocks/amazon-earnings-review-capex-poised-rise-cloud-growth-accelerates"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "Fortune",
+                        "title":  "Amazon and Google will own nearly 30% of Anthropic after today\u0027s IPO, netting a roughly $260 billion paper windfall",
+                        "url":  "https://fortune.com/2026/11/19/anthropic-google-amazon-ipo-valuation-stake-paper-windfall/"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "GeekWire",
+                        "title":  "Amazon\u0027s $18B bet on Anthropic tops $200B, for a moment, in the Claude maker\u0027s historic market debut",
+                        "url":  "https://www.geekwire.com/2026/amazons-18b-bet-on-anthropic-tops-200b-for-a-moment-in-the-claude-makers-historic-market-debut/"
+                    },
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "Investing.com",
+                        "title":  "Oppenheimer raises Amazon stock price target on Anthropic stake value",
+                        "url":  "https://www.investing.com/news/stock-market-news/oppenheimer-raises-amazon-stock-price-target-on-anthropic-stake-value-93CH-3773229"
+                    }
+                ]
+}

@@ -1,0 +1,718 @@
+{
+    "ticker":  "SPCX",
+    "name":  "SpaceX",
+    "symbol":  "NASDAQ:SPCX",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:40:30Z",
+    "costUsd":  0.6201582,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:SPCX",
+                       "yahoo":  "SPCX",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:38:07Z",
+                       "price":  127.79,
+                       "open":  131.93,
+                       "high":  133.84,
+                       "low":  126.28,
+                       "volume":  124025300,
+                       "avgVolume20":  103530380,
+                       "changePct":  -7.69,
+                       "historyDays":  113,
+                       "ema50":  143.98,
+                       "ema100":  143.73,
+                       "ema200":  null,
+                       "bb":  {
+                                  "upper":  151,
+                                  "middle":  139.18,
+                                  "lower":  127.35
+                              },
+                       "macd":  {
+                                    "macd":  -3.12,
+                                    "signal":  -2.98,
+                                    "hist":  -0.14
+                                },
+                       "rsi14":  38.5,
+                       "high52w":  225.64,
+                       "low52w":  104.83,
+                       "spark":  [
+                                     [
+                                         "2026-06-12",
+                                         160.95
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         192.5
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         211.39
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         191.82
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         185
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         154.6
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         156.11
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         154.54
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         153
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         153.23
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         164.19
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         170.86
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         157.54
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         162
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         160.42
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         149.47
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         148.3
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         152.16
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         145.3
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         139.14
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         136.08
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         135.27
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         131.11
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         123.99
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         119.85
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         123.54
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         115.26
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         118.24
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         115.07
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         113.5
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         116.41
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         112.55
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         112.2
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         108.37
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         114.53
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         125.33
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         108.27
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         114.92
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         133.11
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         138.74
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         133.29
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         146.15
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         141.29
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         140
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         146.23
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         143.34
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         139.65
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         134
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         136.97
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         135
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         137.95
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         139.63
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         140.87
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         141.5
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         143.69
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         142.23
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         140.71
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         149.74
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         147.95
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         153.47
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         147.55
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         148.18
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         151.21
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         148.15
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         143.49
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         150.88
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         154.81
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         152.71
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         151.85
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         154.72
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         148.36
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         148.03
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         148.68
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         145.47
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         149.24
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         150.86
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         148.07
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         158.96
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         171.09
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         171.92
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         167.6
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         160.57
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         162.57
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         163.42
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         156.54
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         152.16
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         148.62
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         146.03
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         147.96
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         147.79
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         159.31
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         144.75
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         147.49
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         146.9
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         148.58
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         145.23
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         143.89
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         134.72
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         136.37
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         141.31
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         135.92
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         123.62
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         134.27
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         142.07
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         143.09
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         139.75
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         139.94
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         139.11
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         137.36
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         141.7
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         143.5
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         138.43
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         127.79
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          null,
+                                          141.5,
+                                          141.36,
+                                          141.29,
+                                          141.27,
+                                          141.28,
+                                          141.38,
+                                          141.41,
+                                          141.38,
+                                          141.71,
+                                          141.95,
+                                          142.41,
+                                          142.61,
+                                          142.83,
+                                          143.15,
+                                          143.35,
+                                          143.36,
+                                          143.65,
+                                          144.09,
+                                          144.43,
+                                          144.72,
+                                          145.11,
+                                          145.24,
+                                          145.35,
+                                          145.48,
+                                          145.48,
+                                          145.63,
+                                          145.83,
+                                          145.92,
+                                          146.43,
+                                          147.4,
+                                          148.36,
+                                          149.11,
+                                          149.56,
+                                          150.07,
+                                          150.6,
+                                          150.83,
+                                          150.88,
+                                          150.79,
+                                          150.61,
+                                          150.5,
+                                          150.4,
+                                          150.75,
+                                          150.51,
+                                          150.39,
+                                          150.25,
+                                          150.19,
+                                          149.99,
+                                          149.76,
+                                          149.17,
+                                          148.66,
+                                          148.38,
+                                          147.89,
+                                          146.94,
+                                          146.44,
+                                          146.27,
+                                          146.14,
+                                          145.89,
+                                          145.66,
+                                          145.4,
+                                          145.09,
+                                          144.95,
+                                          144.9,
+                                          144.64,
+                                          143.98
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Strong Q3 results overshadowed by data-center permit setbacks; chart still trending down",
+               "summary":  "SpaceX closed at $127.79 on 20 Nov 2026, down 7.69% in one day on volume about 1.2x normal. The drop came after Arizona\u0027s attorney general asked for a delay to the 9 Dec vote on its $50B AI campus. Earlier, on 17 Nov, a Texas county voted not to hold a tax-break hearing for a $24B site. On 5 Nov the stock had already fallen as much as 11% on post-election political risk. Q3 results on 20 Oct were strong, with revenue of $14.58B (+161%). Still, the chart is in a downtrend, and a lockup covering about 798M shares ends on 8 Dec.",
+               "pros":  [
+                            "Q3 revenue of $14.58B (+161% YoY) beat the $12.72B estimate, and net income reached $4.4B.",
+                            "AI segment revenue rose about ninefold to $7.56B with a $431M profit, now over half of sales.",
+                            "Starlink revenue grew 69% to $5.25B, subscribers reached 13.6M, and operating income roughly doubled to $2.37B.",
+                            "Colossus compute is rented to outside customers including Google and Anthropic, which shows real third-party demand."
+                        ],
+               "cons":  [
+                            "Q3 capex was $19.6B, including $16.4B for AI, about seven times the $2.8B operating income.",
+                            "The $74B AI data-center plan hit permit trouble in Arizona (vote on 9 Dec) and Texas (vote against a hearing on 17 Nov).",
+                            "The main IPO lockup ends on 8 Dec 2026 and could release up to about 798M shares.",
+                            "Democrats take Congress in January 2027 and may investigate Musk\u0027s government contracts.",
+                            "Price is about 11% below both EMA 50 and EMA 100, and MACD has just slipped under its signal line."
+                        ],
+               "opportunityCheck":  "The exposure score of 5 looks clearly too low. In Q3 the AI segment brought in $7.56B of $14.58B revenue (about 52%) and rents Colossus compute to Google and Anthropic, so I would raise exposure the most. Market growth and optionality fit what I found. The position score is fair: Grok still trails the leading labs, and the compute-rental business is new. A low bottleneck score also makes sense, because power and permits are the scarce input, not SpaceX, as the Arizona and Texas setbacks show.",
+               "technical":  "The stock has only 113 trading days of history since its 12 Jun 2026 listing, so EMA 200 is not available. Trend: price at $127.79 is about 11% below both the EMA 50 ($143.98) and EMA 100 ($143.73). An EMA is an average of recent closes that gives more weight to the latest days. The two lines are almost touching, with EMA 50 barely above EMA 100, so the medium-term trend has gone flat and is tilting down. Momentum: MACD (12/26/9, a trend-momentum gauge) is -3.12, just below its signal line at -2.98. The histogram is slightly negative at -0.14, a fresh but still weak bearish turn. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 38.5, which is weak but not oversold. Volatility: price closed right on the lower Bollinger Band at $127.35 (middle $139.18, upper $151), a sign the move is stretched. Price sits in the lower fifth of its 52-week range of $104.83–$225.64. Volume of 124.0M was about 1.2x the 20-day average of 103.5M, so real selling backed the 20 Nov drop. Support is the $127.35 band, then $104.83. Resistance is near $139 and $144.",
+               "fundamental":  "SpaceX now has three businesses: Starlink earns the cash, launch is strategic, and AI drives growth. In Q3 2026 (reported 20 Oct), revenue was $14.58B (+161%), operating income $2.8B and net income $4.4B, helped by about $1.6B of non-operating gains. Connectivity revenue rose 69% to $5.25B with $2.37B of operating income. AI revenue jumped to $7.56B with a $431M profit; this includes Cursor, whose $60B acquisition closed in the quarter. Launch brought in $1.77B, about break-even. The weak spot is cash: capex was $19.6B in one quarter. In the AI value chain, SpaceX is now both a compute landlord (Google, Anthropic) and a model builder (Grok). Its AI returns depend on getting power and permits for the $74B Arizona and Texas build-out.",
+               "news":  [
+                            "20 Oct 2026: Q3 beat estimates, with revenue of $14.58B vs $12.72B expected and adjusted EPS of $0.45 vs $0.13. Shares rose about 8% after hours from a $147.50 close.",
+                            "5 Nov 2026: Shares fell as much as 11% after Democrats won both chambers of Congress and Gina Hinojosa won the Texas governor\u0027s race. That raised the risk of contract oversight and pauses on new data centers.",
+                            "17 Nov 2026: Cameron County, Texas, voted 3-2 against holding a public hearing on a 10-year tax break for SpaceX\u0027s $24B AI data center near Brownsville.",
+                            "20 Nov 2026: Arizona AG Kris Mayes asked Cochise County to delay its 9 Dec vote on the $50B campus, which could need up to 6 GW of power, over power and water concerns. Shares fell 7.69% to $127.79.",
+                            "Lockup trackers show the main 180-day IPO lockup ends on 8 Dec 2026 and covers up to about 798M shares. Musk\u0027s shares stay locked until June 2027."
+                        ],
+               "caution":  "The next three weeks hold several risk events: an Arizona community meeting on 3 Dec, the lockup expiry on 8 Dec (up to about 798M shares) and the Cochise County vote on 9 Dec. If price fails to hold the lower band at $127.35, there is little chart support until the $104.83 52-week low. Q3 net income also leaned on about $1.6B of non-operating gains. Quarterly capex is about seven times operating income, so the bull case depends on the AI build-out paying back.",
+               "opportunity":  "If Arizona approves the campus on 9 Dec and the lockup passes without heavy selling, the two worries behind November\u0027s losses could ease. The business itself is growing quickly. Starlink revenue is up 69% and subscribers nearly doubled to 13.6M, while the AI unit is already profitable and rents compute to Google and Anthropic. Price sits on the lower band with RSI 38.5. A move back above the $139 Bollinger middle would be the first sign that sellers are running out of steam.",
+               "risks":  [
+                             "Permit and power delays for the $74B Arizona and Texas AI data-center plan",
+                             "New share supply when the main lockup ends on 8 Dec 2026",
+                             "Congressional scrutiny of Musk-linked government contracts starting January 2027",
+                             "Very heavy AI capex ($19.6B in Q3) that could strain cash or require new funding",
+                             "Key-person and governance risk, including talk of a Tesla merger"
+                         ]
+           },
+    "th":  {
+               "headline":  "งบ Q3 แข็งแรง แต่ถูกบดบังด้วยปัญหาใบอนุญาตดาต้าเซ็นเตอร์ กราฟยังเป็นขาลง",
+               "summary":  "SpaceX ปิดที่ $127.79 เมื่อ 20 พ.ย. 2026 ร่วง 7.69% ในวันเดียว ด้วยวอลุ่มสูงกว่าปกติราว 1.2 เท่า สาเหตุคืออัยการสูงสุดรัฐแอริโซนาขอให้เลื่อนการโหวตวันที่ 9 ธ.ค. เรื่องแคมปัส AI มูลค่า $50B ก่อนหน้านั้นเมื่อ 17 พ.ย. เคาน์ตีหนึ่งในเท็กซัสก็โหวตไม่เปิดเวทีพิจารณาลดภาษีให้โครงการ $24B ส่วนวันที่ 5 พ.ย. หุ้นเคยดิ่งถึง 11% จากความเสี่ยงการเมืองหลังเลือกตั้ง งบ Q3 ที่ประกาศ 20 ต.ค. แข็งแรงมาก รายได้ $14.58B (+161%) แต่กราฟยังเป็นขาลง และหุ้นติด lockup ราว 798 ล้านหุ้นจะปลดล็อกวันที่ 8 ธ.ค.",
+               "pros":  [
+                            "รายได้ Q3 อยู่ที่ $14.58B (+161% YoY) สูงกว่าคาดการณ์ $12.72B และกำไรสุทธิอยู่ที่ $4.4B",
+                            "รายได้กลุ่ม AI โตราว 9 เท่าเป็น $7.56B มีกำไร $431M และคิดเป็นกว่าครึ่งของยอดขายแล้ว",
+                            "รายได้ Starlink โต 69% เป็น $5.25B ผู้ใช้แตะ 13.6 ล้านราย และกำไรจากการดำเนินงานเพิ่มเกือบเท่าตัวเป็น $2.37B",
+                            "มีลูกค้าภายนอกเช่าพลังประมวลผลของ Colossus อย่าง Google และ Anthropic แสดงว่าดีมานด์มีอยู่จริง"
+                        ],
+               "cons":  [
+                            "capex ใน Q3 สูงถึง $19.6B ในจำนวนนี้ $16.4B ลงที่ AI คิดเป็นราว 7 เท่าของกำไรจากการดำเนินงาน $2.8B",
+                            "แผนดาต้าเซ็นเตอร์ AI มูลค่า $74B ติดปัญหาใบอนุญาตทั้งในแอริโซนา (โหวต 9 ธ.ค.) และเท็กซัส (โหวตไม่เปิดเวทีเมื่อ 17 พ.ย.)",
+                            "lockup หลัง IPO ชุดใหญ่จะหมดวันที่ 8 ธ.ค. 2026 อาจมีหุ้นออกมาได้ถึงราว 798 ล้านหุ้น",
+                            "เดโมแครตจะคุมสภาคองเกรสตั้งแต่ ม.ค. 2027 และอาจตรวจสอบสัญญารัฐบาลที่เกี่ยวกับ Musk",
+                            "ราคาต่ำกว่าทั้ง EMA 50 และ EMA 100 ราว 11% และ MACD เพิ่งหลุดใต้เส้น signal"
+                        ],
+               "opportunityCheck":  "คะแนน exposure ที่ 5 ต่ำเกินไปชัดเจน ใน Q3 กลุ่ม AI ทำรายได้ $7.56B จากทั้งหมด $14.58B หรือราว 52% และยังให้ Google กับ Anthropic เช่าพลังประมวลผลของ Colossus จึงควรปรับ exposure ขึ้นมากที่สุด คะแนน market growth และ optionality สอดคล้องกับข้อมูลที่พบ คะแนน position ถือว่าเหมาะสม เพราะ Grok ยังตามหลังแล็บชั้นนำ และธุรกิจให้เช่าพลังประมวลผลยังใหม่ คะแนน bottleneck ที่ต่ำก็มีเหตุผล เพราะคอขวดจริงคือไฟฟ้าและใบอนุญาต ไม่ใช่ SpaceX ดังที่เห็นจากกรณีแอริโซนาและเท็กซัส",
+               "technical":  "หุ้นเพิ่งเข้าตลาดเมื่อ 12 มิ.ย. 2026 จึงมีข้อมูลเพียง 113 วันทำการ ยังคำนวณ EMA 200 ไม่ได้ ด้านแนวโน้ม ราคา $127.79 อยู่ต่ำกว่าทั้ง EMA 50 ($143.98) และ EMA 100 ($143.73) ราว 11% (EMA คือเส้นค่าเฉลี่ยราคาปิดที่ให้น้ำหนักกับวันล่าสุดมากกว่า) ทั้งสองเส้นแทบแตะกัน โดย EMA 50 อยู่เหนือ EMA 100 เพียงเล็กน้อย แปลว่าแนวโน้มระยะกลางแบนลงและเริ่มเอียงลง ด้านโมเมนตัม MACD (12/26/9 ตัววัดแรงส่งของเทรนด์) อยู่ที่ -3.12 ต่ำกว่าเส้น signal ที่ -2.98 และ histogram ติดลบเล็กน้อยที่ -0.14 เป็นสัญญาณขาลงที่เพิ่งเกิดแต่ยังไม่แรง RSI 14 (มาตรวัดแรงส่ง 0–100 ต่ำกว่า 30 ถือว่า oversold) อยู่ที่ 38.5 คืออ่อนแรงแต่ยังไม่ oversold ด้านความผันผวน ราคาปิดชิดกรอบล่าง Bollinger Band ที่ $127.35 (เส้นกลาง $139.18 กรอบบน $151) แสดงว่าราคาลงมาค่อนข้างตึงแล้ว และอยู่ในช่วงล่างสุดราว 1 ใน 5 ของกรอบ 52 สัปดาห์ $104.83–$225.64 วอลุ่ม 124.0 ล้านหุ้นสูงกว่าค่าเฉลี่ย 20 วัน (103.5 ล้าน) ราว 1.2 เท่า ยืนยันว่าแรงขายวันที่ 20 พ.ย. มีน้ำหนักจริง แนวรับอยู่ที่ $127.35 ถัดไปคือ $104.83 แนวต้านอยู่แถว $139 และ $144",
+               "fundamental":  "ตอนนี้ SpaceX มีสามธุรกิจ คือ Starlink ที่ทำเงินสด ธุรกิจปล่อยจรวดที่เป็นสินทรัพย์เชิงกลยุทธ์ และ AI ที่เป็นตัวเร่งการเติบโต งบ Q3 2026 (ประกาศ 20 ต.ค.) มีรายได้ $14.58B (+161%) กำไรจากการดำเนินงาน $2.8B และกำไรสุทธิ $4.4B ซึ่งได้แรงหนุนจากกำไรนอกการดำเนินงานราว $1.6B ฝั่ง Connectivity รายได้โต 69% เป็น $5.25B และมีกำไรจากการดำเนินงาน $2.37B ส่วน AI รายได้พุ่งเป็น $7.56B มีกำไร $431M โดยรวม Cursor ที่ปิดดีลซื้อมูลค่า $60B ในไตรมาสนี้ด้วย ธุรกิจปล่อยจรวดมีรายได้ $1.77B และราวคุ้มทุน จุดที่น่ากังวลคือกระแสเงินสด เพราะ capex สูงถึง $19.6B ในไตรมาสเดียว ในห่วงโซ่คุณค่า AI ตอนนี้ SpaceX เป็นทั้งผู้ให้เช่าพลังประมวลผล (Google, Anthropic) และผู้สร้างโมเดล (Grok) ผลตอบแทนจาก AI จึงขึ้นกับว่าจะได้ไฟฟ้าและใบอนุญาตสำหรับโครงการ $74B ในแอริโซนาและเท็กซัสหรือไม่",
+               "news":  [
+                            "20 ต.ค. 2026: งบ Q3 ดีกว่าคาด รายได้ $14.58B เทียบกับคาดการณ์ $12.72B และ EPS ปรับปรุงอยู่ที่ $0.45 เทียบกับ $0.13 หุ้นขึ้นราว 8% หลังตลาดปิด จากราคาปิด $147.50",
+                            "5 พ.ย. 2026: หุ้นร่วงถึง 11% ระหว่างวัน หลังเดโมแครตชนะทั้งสองสภา และ Gina Hinojosa ชนะเลือกตั้งผู้ว่าฯ เท็กซัส ทำให้เสี่ยงทั้งการตรวจสอบสัญญาภาครัฐและการระงับดาต้าเซ็นเตอร์ใหม่",
+                            "17 พ.ย. 2026: Cameron County ในเท็กซัสโหวต 3-2 ไม่เปิดเวทีสาธารณะพิจารณาลดภาษี 10 ปีให้ดาต้าเซ็นเตอร์ AI มูลค่า $24B ใกล้ Brownsville",
+                            "20 พ.ย. 2026: อัยการสูงสุดแอริโซนา Kris Mayes ขอให้ Cochise County เลื่อนการโหวตวันที่ 9 ธ.ค. เรื่องแคมปัส $50B ที่อาจต้องใช้ไฟถึง 6 GW เพราะห่วงเรื่องไฟฟ้าและน้ำ หุ้นร่วง 7.69% มาที่ $127.79",
+                            "ข้อมูลจากเว็บติดตาม lockup ระบุว่า lockup หลัง IPO ระยะ 180 วันชุดหลักจะหมดวันที่ 8 ธ.ค. 2026 ครอบคลุมราว 798 ล้านหุ้น ส่วนหุ้นของ Musk ยังล็อกถึง มิ.ย. 2027"
+                        ],
+               "caution":  "สามสัปดาห์ข้างหน้ามีเหตุการณ์เสี่ยงหลายนัด ได้แก่ เวทีชุมชนในแอริโซนาวันที่ 3 ธ.ค. การปลด lockup วันที่ 8 ธ.ค. (สูงสุดราว 798 ล้านหุ้น) และการโหวตของ Cochise County วันที่ 9 ธ.ค. หากราคายืนกรอบล่าง $127.35 ไม่อยู่ แนวรับทางเทคนิคถัดไปจะอยู่ไกลถึงจุดต่ำสุด 52 สัปดาห์ที่ $104.83 นอกจากนี้กำไรสุทธิ Q3 ยังพึ่งกำไรนอกการดำเนินงานราว $1.6B และ capex ต่อไตรมาสสูงราว 7 เท่าของกำไรจากการดำเนินงาน มุมมองบวกจึงขึ้นกับว่าการลงทุน AI จะคืนทุนได้จริงหรือไม่",
+               "opportunity":  "หากแอริโซนาอนุมัติแคมปัสในวันที่ 9 ธ.ค. และการปลด lockup ผ่านไปโดยไม่มีแรงขายหนัก ความกังวลสองเรื่องที่กดหุ้นตลอด พ.ย. อาจคลายลง ตัวธุรกิจเองยังโตเร็ว รายได้ Starlink โต 69% ผู้ใช้เพิ่มเกือบเท่าตัวเป็น 13.6 ล้านราย และหน่วย AI ทำกำไรแล้วพร้อมมีลูกค้าเช่าพลังประมวลผลอย่าง Google และ Anthropic ตอนนี้ราคาอยู่ที่กรอบล่าง Bollinger และ RSI อยู่ที่ 38.5 ถ้าราคากลับขึ้นเหนือเส้นกลาง $139 ได้ จะเป็นสัญญาณแรกว่าแรงขายเริ่มหมด",
+               "risks":  [
+                             "ใบอนุญาตและไฟฟ้าสำหรับแผนดาต้าเซ็นเตอร์ AI $74B ในแอริโซนาและเท็กซัสอาจล่าช้า",
+                             "มีหุ้นใหม่ไหลเข้าตลาดเมื่อ lockup ชุดหลักหมดวันที่ 8 ธ.ค. 2026",
+                             "สภาคองเกรสอาจตรวจสอบสัญญาภาครัฐที่เกี่ยวกับ Musk ตั้งแต่ ม.ค. 2027",
+                             "capex ด้าน AI สูงมาก ($19.6B ใน Q3) อาจกดดันกระแสเงินสดหรือต้องระดมทุนเพิ่ม",
+                             "ความเสี่ยงด้านบุคคลสำคัญและธรรมาภิบาล รวมถึงกระแสข่าวควบรวมกับ Tesla"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "Why SpaceX Stock (SPCX) Is Falling Today",
+                        "publisher":  "TipRanks",
+                        "url":  "https://www.tipranks.com/news/why-spacex-stock-spcx-is-falling-today-november-20-2026",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "SpaceX Stock (SPCX) Is Plunging. Why Investors Are Scared Today",
+                        "publisher":  "TipRanks",
+                        "url":  "https://www.tipranks.com/news/article/spacex-stock-spcx-is-plunging-why-investors-are-scared-today-november-5-2026",
+                        "date":  "2026-11-05"
+                    },
+                    {
+                        "title":  "SpaceX (SPCX) Q3 2026 earnings report: Live updates",
+                        "publisher":  "CNBC",
+                        "url":  "https://www.cnbc.com/2026/10/20/spacex-spcx-earnings-live-updates-q3-2026html.html",
+                        "date":  "2026-10-20"
+                    },
+                    {
+                        "title":  "SpaceX revenue rises 161% to $14.6B as AI business overtakes Starlink",
+                        "publisher":  "The Next Web",
+                        "url":  "https://thenextweb.com/news/spacex-quarterly-revenue-ai-starlink-q3"
+                    },
+                    {
+                        "title":  "SpaceX Q3 2026 Earnings: $14.6B Revenue Meets $19.6B Capex",
+                        "publisher":  "NextGComm",
+                        "url":  "https://www.nextgcomm.com/financials-spacex-q3-earning-report-2026/"
+                    },
+                    {
+                        "title":  "SpaceX Lockup Expiration Dates: Next Unlock 8 Dec (798M Shares)",
+                        "publisher":  "OrbitAlpha",
+                        "url":  "https://www.orbitalpha.cloud/spacex-stock/lockup-calendar"
+                    }
+                ]
+}

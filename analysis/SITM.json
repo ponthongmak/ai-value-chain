@@ -1,0 +1,744 @@
+{
+    "ticker":  "SITM",
+    "name":  "SiTime",
+    "symbol":  "NASDAQ:SITM",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-21T06:04:06Z",
+    "costUsd":  0.6840626000000001,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:SITM",
+                       "yahoo":  "SITM",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-21T06:01:32Z",
+                       "price":  361.24,
+                       "open":  390.46,
+                       "high":  397.94,
+                       "low":  356.21,
+                       "volume":  940600,
+                       "avgVolume20":  828065,
+                       "changePct":  -10.83,
+                       "ema50":  502.56,
+                       "ema100":  538.68,
+                       "ema200":  520.39,
+                       "bb":  {
+                                  "upper":  514.4,
+                                  "middle":  437.38,
+                                  "lower":  360.37
+                              },
+                       "macd":  {
+                                    "macd":  -34.82,
+                                    "signal":  -34.45,
+                                    "hist":  -0.37
+                                },
+                       "rsi14":  33.8,
+                       "high52w":  901.81,
+                       "low52w":  243.68,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         712.75
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         706.98
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         625.68
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         664.28
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         659.52
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         664.23
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         721.24
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         729.89
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         742.46
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         684.86
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         677.21
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         729.04
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         753.12
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         706.9
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         692.47
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         675.7
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         672.19
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         710.47
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         745.56
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         703.84
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         601.66
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         615.46
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         592.19
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         612.13
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         648.15
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         628.94
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         602.55
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         623.83
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         612.38
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         564.59
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         554.97
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         555.15
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         590.18
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         590.67
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         576.41
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         554.46
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         522.67
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         491.1
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         462.16
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         527.87
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         535.2
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         550.32
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         583.06
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         543.12
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         687.5
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         725.28
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         689.96
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         667.1
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         680.52
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         687.93
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         711.91
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         749.44
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         680.06
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         618.71
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         598.81
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         614.83
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         580.97
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         594.1
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         596.97
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         599.89
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         557.86
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         565.42
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         552.75
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         568.82
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         574.47
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         612.09
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         598.95
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         589.87
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         602.27
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         635.66
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         558.35
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         550.39
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         548.9
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         598.6
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         614.27
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         638.32
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         633.72
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         608.91
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         643.24
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         662.27
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         656.65
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         651.43
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         652.03
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         678.87
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         709.44
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         710.04
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         711.06
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         665.16
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         645.06
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         612.37
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         570.07
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         579.66
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         524.93
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         501.59
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         472.14
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         495.75
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         497.11
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         509.2
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         462.72
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         460.22
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         464.7
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         490.94
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         501.18
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         488.08
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         447.06
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         417.9
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         444.88
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         403.27
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         355
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         416.92
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         457.05
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         444.45
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         472.56
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         470.55
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         444.54
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         421.16
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         422.27
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         418.78
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         405.1
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         361.24
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          608.51,
+                                          612.37,
+                                          612.9,
+                                          614.91,
+                                          616.66,
+                                          618.53,
+                                          622.55,
+                                          626.76,
+                                          631.3,
+                                          633.4,
+                                          635.12,
+                                          638.8,
+                                          643.28,
+                                          645.78,
+                                          647.61,
+                                          648.71,
+                                          649.63,
+                                          652.02,
+                                          655.69,
+                                          657.58,
+                                          655.38,
+                                          653.82,
+                                          651.4,
+                                          649.86,
+                                          649.79,
+                                          648.98,
+                                          647.15,
+                                          646.24,
+                                          644.91,
+                                          641.76,
+                                          638.36,
+                                          635.1,
+                                          633.33,
+                                          631.66,
+                                          629.49,
+                                          626.55,
+                                          622.48,
+                                          617.33,
+                                          611.24,
+                                          607.97,
+                                          605.12,
+                                          602.97,
+                                          602.19,
+                                          599.87,
+                                          603.31,
+                                          608.09,
+                                          611.3,
+                                          613.49,
+                                          616.12,
+                                          618.93,
+                                          622.58,
+                                          627.56,
+                                          629.61,
+                                          629.19,
+                                          628,
+                                          627.48,
+                                          625.66,
+                                          624.42,
+                                          623.34,
+                                          622.42,
+                                          619.89,
+                                          617.75,
+                                          615.2,
+                                          613.39,
+                                          611.86,
+                                          611.87,
+                                          611.36,
+                                          610.52,
+                                          610.2,
+                                          611.19,
+                                          609.12,
+                                          606.82,
+                                          604.55,
+                                          604.31,
+                                          604.7,
+                                          606.02,
+                                          607.11,
+                                          607.18,
+                                          608.59,
+                                          610.7,
+                                          612.5,
+                                          614.03,
+                                          615.52,
+                                          618,
+                                          621.59,
+                                          625.06,
+                                          628.43,
+                                          629.87,
+                                          630.47,
+                                          629.76,
+                                          627.42,
+                                          625.54,
+                                          621.6,
+                                          616.89,
+                                          611.21,
+                                          606.69,
+                                          602.39,
+                                          598.73,
+                                          593.4,
+                                          588.18,
+                                          583.34,
+                                          579.71,
+                                          576.63,
+                                          573.16,
+                                          568.21,
+                                          562.32,
+                                          557.71,
+                                          551.66,
+                                          543.95,
+                                          538.96,
+                                          535.75,
+                                          532.17,
+                                          529.83,
+                                          527.51,
+                                          524.26,
+                                          520.21,
+                                          516.37,
+                                          512.54,
+                                          508.33,
+                                          502.56
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Strong Q3 beat, but AI-chip selloff drags SITM below every EMA",
+               "technical":  "SITM closed at $361.24 on 2026-11-20, down 10.83% in one session. It opened at $390.46 and finished near the day\u0027s low of $356.21. The trend is clearly down. Price sits far below the EMA 50 ($502.56), EMA 200 ($520.39) and EMA 100 ($538.68); EMAs are moving averages of price over 50, 100 and 200 days that give more weight to recent days. The EMA 50 has fallen beneath both longer averages, so the medium-term trend has turned lower. Momentum is weak. MACD 12/26/9, a trend-momentum gauge, is -34.82, just under its signal line at -34.45, and the histogram is a tiny -0.37. Selling is no longer speeding up, but there is no bullish turn yet. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 33.8, close to oversold. Price is pinned to the lower Bollinger Band at $360.37; the bands sit about 2 standard deviations either side of the 20-day average of $437.38. In the 52-week range of $243.68–$901.81, price is about 18% up from the low and about 60% below the high. Volume was 940,600, or 1.14× the 20-day average, which confirms the selling but does not look like panic. Support is at $356–360; resistance is at $437, then about $503.",
+               "fundamental":  "SiTime makes precision timing chips. In AI data centers, its MEMS oscillators and clocks sit inside optical modules, switches and accelerator cards. Q3 2026, reported on 2026-11-04, was strong: revenue was $298.7M (+257% y/y), non-GAAP gross margin was 70.7%, and non-GAAP EPS was $4.01 against a $3.41 consensus. Core comms/enterprise/data-center revenue grew 202% y/y to $127.3M. The Renesas timing unit (TPD), acquired on 2026-07-01, added $86.3M, and over 80% of that comes from data-center and comms customers. Q4 guidance is $331–341M revenue, about 70% gross margin and about $4.76 EPS. Management expects up to 2× more timing content in near-packaged optics and 3× in co-packaged optics, and puts its design pipeline at $10B. The weak spots: operating cash flow was -$6.6M, DSO (days to collect payment) rose to 61, and wafer supply stays tight into 2027.",
+               "news":  [
+                            "2026-11-04: Q3 2026 revenue of $298.7M and non-GAAP EPS of $4.01 beat consensus by about 3% and 18%, driven by AI-infrastructure timing demand and the acquired Renesas TPD. Even so, the stock was reported down about 10.7% after hours, a sign of how high expectations were.",
+                            "2026-11-04: Q4 guidance calls for $331–341M revenue, about 70% non-GAAP gross margin and about $4.76 non-GAAP EPS at the midpoint. Management said wafer supply constraints will last into 2027.",
+                            "2026-11-04: SiTime announced a 3-for-1 forward stock split. Holders of record on 2026-12-03 get two extra shares for each share held, and split-adjusted trading is expected to start on 2026-12-07.",
+                            "The stock bounced to $457.05 on 2026-11-09, then slid 5.3% to $421.16 on 2026-11-16 and 3.3% to $405.10 on 2026-11-19. GuruFocus also notes about $501M of insider selling over the past 12 months, with no insider buying.",
+                            "2026-11-20: SITM\u0027s 10.83% drop came during a sector-wide AI-chip selloff in which AMD, Micron and Broadcom each fell roughly 11–13%. Reports blamed AI-capex doubts, high valuations, rates and China/export-control worries; I found no SiTime-specific news that day.",
+                            "I found no analyst rating or price-target changes for SITM between 2026-10-21 and 2026-11-21; the latest dated actions I found are from August 2026."
+                        ],
+               "caution":  "The trend is down on all three EMA timeframes. The stock is now trading on AI-chip sentiment rather than its own results: it fell after a clear beat on 2026-11-04 and again on 2026-11-20 with no company news. If the lower band near $360 and the $356 intraday low break, there is little chart support before the 52-week low of $243.68. Other things to watch: the $1.35B of 0% convertible notes, negative Q3 operating cash flow and $501M of insider selling. From 2026-12-07, the 3-for-1 split will divide quoted prices by three.",
+               "opportunity":  "The business is moving the opposite way to the share price. Q4 guidance implies about 11–14% quarter-on-quarter growth with margins near 70%, and management expects more timing content per optical module as the industry moves to 1.6T and co-packaged optics. RSI at 33.8 is near oversold and price is hugging the lower Bollinger Band. That setup often comes before short-term relief bounces, but it does not guarantee one. The drop came from sector sentiment, not a broken moat. Getting back above the 20-day average near $437 would be the first sign the stock is stabilising.",
+               "risks":  [
+                             "AI-capex sentiment risk: SITM is trading as a high-beta AI-semis name and fell with AMD, Micron and Broadcom on 2026-11-20",
+                             "Valuation de-rating: even after a 60% drawdown from $901.81, expectations stay high, as the post-beat drop on 2026-11-04 showed",
+                             "Wafer supply constraints through 2027 could cap upside to revenue",
+                             "Integration and working-capital strain from the Renesas TPD deal: Q3 operating cash flow was -$6.6M and DSO reached 61 days",
+                             "Balance sheet: $1.35B of 0% convertible notes due 2031 and cash of $324.3M after the acquisition",
+                             "Customer concentration: the largest consumer customer brought in $42.7M in Q3",
+                             "Steady insider selling of about $501M over 12 months"
+                         ],
+               "summary":  "SITM fell 10.83% to $361.24 on 2026-11-20 in a broad AI-chip selloff. That leaves it about 60% below its 52-week high and below all three EMAs, so the technical posture is bearish. RSI is 33.8, near oversold, and price sits on the lower Bollinger Band. The fundamentals point the other way: the Q3 beat on 2026-11-04 ($298.7M revenue, $4.01 EPS) and the Q4 guide of $331–341M show the AI-timing thesis is working, helped by the Renesas TPD deal. The moat thesis is intact. The stock\u0027s problem is sentiment and valuation, not the business."
+           },
+    "th":  {
+               "headline":  "ผลงาน Q3 เกินคาด แต่แรงเทขายหุ้นชิป AI ฉุด SITM หลุดทุกเส้น EMA",
+               "technical":  "SITM ปิดที่ $361.24 เมื่อ 2026-11-20 ร่วงลง 10.83% ในวันเดียว เปิดตลาดที่ $390.46 แล้วไปปิดใกล้จุดต่ำสุดของวันที่ $356.21 แนวโน้มเป็นขาลงชัดเจน ราคาอยู่ต่ำกว่า EMA 50 ($502.56), EMA 200 ($520.39) และ EMA 100 ($538.68) อยู่มาก (EMA คือเส้นค่าเฉลี่ยราคาที่ให้น้ำหนักกับราคาช่วงหลังมากกว่า) และ EMA 50 หลุดลงมาอยู่ใต้เส้นระยะยาวทั้งสองเส้นแล้ว แปลว่าแนวโน้มระยะกลางกลับเป็นขาลง โมเมนตัมยังอ่อน MACD 12/26/9 (ตัววัดแรงส่งของเทรนด์) อยู่ที่ -34.82 ต่ำกว่าเส้น signal ที่ -34.45 เล็กน้อย และ histogram ติดลบแค่ -0.37 แรงขายไม่ได้เร่งตัวขึ้นแล้ว แต่ก็ยังไม่มีสัญญาณกลับตัว RSI 14 (มาตรวัดโมเมนตัม 0–100 ถ้าต่ำกว่า 30 ถือว่าขายมากเกินไปหรือ oversold) อยู่ที่ 33.8 ใกล้โซน oversold ราคาแนบอยู่ที่ขอบล่างของ Bollinger Band ที่ $360.37 ซึ่งเป็นแถบที่ห่างจากค่าเฉลี่ย 20 วัน ($437.38) ราว 2 ส่วนเบี่ยงเบนมาตรฐาน ในกรอบราคา 52 สัปดาห์ $243.68–$901.81 ราคาอยู่สูงกว่าจุดต่ำสุดราว 18% และต่ำกว่าจุดสูงสุดประมาณ 60% วอลุ่ม 940,600 หุ้น คิดเป็น 1.14 เท่าของค่าเฉลี่ย 20 วัน ยืนยันแรงขาย แต่ยังไม่ถึงขั้นเทขายด้วยความตื่นตระหนก แนวรับอยู่ที่ $356–360 แนวต้านอยู่ที่ $437 และถัดไปราว $503",
+               "fundamental":  "SiTime ผลิตชิปกำหนดจังหวะเวลาความแม่นยำสูง ในดาต้าเซ็นเตอร์ AI ชิป MEMS oscillator และ clock ของบริษัทอยู่ในโมดูลออปติคัล สวิตช์ และการ์ดเร่งประมวลผล งบ Q3 2026 ที่ประกาศเมื่อ 2026-11-04 ออกมาแข็งแรง รายได้ $298.7M (+257% y/y) อัตรากำไรขั้นต้น non-GAAP 70.7% และ EPS non-GAAP $4.01 เทียบกับที่ตลาดคาด $3.41 รายได้กลุ่มหลักด้านสื่อสาร/องค์กร/ดาต้าเซ็นเตอร์โต 202% เป็น $127.3M ส่วนธุรกิจ timing ที่ซื้อจาก Renesas (TPD) เมื่อ 2026-07-01 เพิ่มรายได้ $86.3M โดยกว่า 80% มาจากลูกค้าดาต้าเซ็นเตอร์และสื่อสาร แนวทาง Q4 คือรายได้ $331–341M อัตรากำไรขั้นต้นราว 70% และ EPS ราว $4.76 ผู้บริหารคาดว่าปริมาณชิป timing ต่อโมดูลจะเพิ่มได้ถึง 2 เท่าใน near-packaged optics และ 3 เท่าใน co-packaged optics และระบุว่ามีโอกาสงานออกแบบในมือรวม $10B จุดอ่อนคือกระแสเงินสดจากการดำเนินงานติดลบ $6.6M, DSO (จำนวนวันเก็บหนี้) เพิ่มเป็น 61 วัน และกำลังผลิตเวเฟอร์ยังตึงตัวไปถึงปี 2027",
+               "news":  [
+                            "2026-11-04: รายได้ Q3 2026 ที่ $298.7M และ EPS non-GAAP $4.01 สูงกว่าที่ตลาดคาดราว 3% และ 18% จากความต้องการชิป timing สำหรับโครงสร้างพื้นฐาน AI และรายได้จาก Renesas TPD ที่ซื้อมา แต่หุ้นกลับมีรายงานว่าลดลงราว 10.7% ในช่วง after-hours สะท้อนว่าตลาดคาดหวังไว้สูงมาก",
+                            "2026-11-04: แนวทาง Q4 ให้รายได้ $331–341M อัตรากำไรขั้นต้น non-GAAP ราว 70% และ EPS non-GAAP ราว $4.76 ที่จุดกึ่งกลาง ผู้บริหารระบุว่าข้อจำกัดด้านเวเฟอร์จะลากยาวไปถึงปี 2027",
+                            "2026-11-04: SiTime ประกาศแตกหุ้นแบบ 3-for-1 ผู้ถือหุ้น ณ วันที่ 2026-12-03 จะได้หุ้นเพิ่ม 2 หุ้นต่อทุก 1 หุ้นที่ถือ และคาดว่าจะเริ่มซื้อขายด้วยราคาหลังแตกหุ้นในวันที่ 2026-12-07",
+                            "หุ้นเด้งขึ้นไปปิดที่ $457.05 เมื่อ 2026-11-09 จากนั้นร่วง 5.3% ไปที่ $421.16 ในวันที่ 2026-11-16 และลดลงอีก 3.3% ไปที่ $405.10 ในวันที่ 2026-11-19 GuruFocus ยังระบุว่าผู้บริหารและผู้เกี่ยวข้องขายหุ้นรวมราว $501M ในรอบ 12 เดือน โดยไม่มีการซื้อเลย",
+                            "2026-11-20: SITM ร่วง 10.83% พร้อมกับแรงเทขายหุ้นชิป AI ทั้งกลุ่ม โดย AMD, Micron และ Broadcom ลดลงตัวละราว 11–13% สื่อให้เหตุผลว่าตลาดกังวลเรื่องงบลงทุน AI, มูลค่าหุ้นที่สูง, ดอกเบี้ย และประเด็นจีน/การควบคุมการส่งออก ไม่พบข่าวเฉพาะของ SiTime ในวันนั้น",
+                            "ไม่พบการปรับคำแนะนำหรือราคาเป้าหมายของนักวิเคราะห์ต่อ SITM ในช่วง 2026-10-21 ถึง 2026-11-21 รายการล่าสุดที่พบเป็นของเดือนสิงหาคม 2026"
+                        ],
+               "caution":  "แนวโน้มเป็นขาลงในทั้งสามกรอบเวลาของ EMA และตอนนี้หุ้นเคลื่อนไหวตามอารมณ์ตลาดของกลุ่มชิป AI มากกว่าผลงานของตัวเอง เห็นได้จากการที่หุ้นร่วงหลังงบดีเกินคาดเมื่อ 2026-11-04 และร่วงอีกครั้งเมื่อ 2026-11-20 ทั้งที่ไม่มีข่าวบริษัท หากหลุดขอบล่างแถวราว $360 และจุดต่ำสุดระหว่างวันที่ $356 ก็แทบไม่มีแนวรับทางกราฟจนถึงจุดต่ำสุด 52 สัปดาห์ที่ $243.68 สิ่งที่ควรติดตามเพิ่มคือหุ้นกู้แปลงสภาพดอกเบี้ย 0% มูลค่า $1.35B, กระแสเงินสดจากการดำเนินงานใน Q3 ที่ติดลบ และการขายหุ้นของคนในราว $501M ตั้งแต่ 2026-12-07 ราคาที่เห็นจะถูกหารด้วย 3 จากการแตกหุ้น",
+               "opportunity":  "ธุรกิจกำลังไปคนละทางกับราคาหุ้น แนวทาง Q4 บ่งชี้ว่ารายได้จะโตราว 11–14% จากไตรมาสก่อน โดยอัตรากำไรขั้นต้นยังอยู่ใกล้ 70% และผู้บริหารคาดว่าปริมาณชิป timing ต่อโมดูลออปติคัลจะเพิ่มขึ้นเมื่ออุตสาหกรรมขยับไปสู่ 1.6T และ co-packaged optics ด้านเทคนิค RSI ที่ 33.8 อยู่ใกล้โซน oversold และราคาเกาะขอบล่าง Bollinger Band ภาพแบบนี้มักเกิดก่อนการรีบาวด์ระยะสั้น แต่ก็ไม่มีอะไรรับประกัน การร่วงครั้งนี้มาจากอารมณ์ตลาดทั้งกลุ่ม ไม่ใช่เพราะ moat เสียหาย ถ้าราคากลับขึ้นไปยืนเหนือค่าเฉลี่ย 20 วันแถว $437 ได้ จะเป็นสัญญาณแรกว่าหุ้นเริ่มทรงตัว",
+               "risks":  [
+                             "ความเสี่ยงจากอารมณ์ตลาดต่องบลงทุน AI: SITM ซื้อขายเหมือนหุ้นชิป AI ที่มี beta สูง และร่วงพร้อม AMD, Micron และ Broadcom เมื่อ 2026-11-20",
+                             "ความเสี่ยงที่ตลาดจะลดมูลค่าหุ้นลงอีก: แม้ราคาจะลงมาแล้ว 60% จาก $901.81 แต่ความคาดหวังยังสูง ดูได้จากที่หุ้นร่วงหลังงบดีเกินคาดเมื่อ 2026-11-04",
+                             "กำลังผลิตเวเฟอร์ที่ตึงตัวไปถึงปี 2027 อาจจำกัดการเติบโตของรายได้",
+                             "ภาระจากการควบรวม Renesas TPD และเงินทุนหมุนเวียน: กระแสเงินสดจากการดำเนินงานใน Q3 ติดลบ $6.6M และ DSO ขึ้นไปถึง 61 วัน",
+                             "งบดุล: มีหุ้นกู้แปลงสภาพดอกเบี้ย 0% มูลค่า $1.35B ครบกำหนดปี 2031 และเหลือเงินสด $324.3M หลังการซื้อกิจการ",
+                             "การพึ่งพาลูกค้ารายใหญ่: ลูกค้ากลุ่มผู้บริโภครายใหญ่ที่สุดสร้างรายได้ $42.7M ใน Q3",
+                             "ผู้บริหารและผู้เกี่ยวข้องขายหุ้นต่อเนื่องรวมราว $501M ในรอบ 12 เดือน"
+                         ],
+               "summary":  "SITM ร่วง 10.83% มาอยู่ที่ $361.24 เมื่อ 2026-11-20 จากแรงเทขายหุ้นชิป AI ทั้งกลุ่ม ราคาต่ำกว่าจุดสูงสุด 52 สัปดาห์ราว 60% และอยู่ใต้ EMA ทั้งสามเส้น ภาพทางเทคนิคจึงเป็นขาลง RSI อยู่ที่ 33.8 ใกล้ oversold และราคาอยู่ที่ขอบล่าง Bollinger Band แต่พื้นฐานไปอีกทาง งบ Q3 ที่ประกาศเมื่อ 2026-11-04 (รายได้ $298.7M, EPS $4.01) และแนวทาง Q4 ที่ $331–341M แสดงว่าธีสิสเรื่องชิป timing สำหรับ AI กำลังเกิดขึ้นจริง โดยมีดีล Renesas TPD ช่วยเสริม moat ระยะยาวยังไม่เสียหาย ปัญหาตอนนี้อยู่ที่อารมณ์ตลาดและมูลค่าหุ้น ไม่ใช่ตัวธุรกิจ"
+           },
+    "sources":  [
+                    {
+                        "title":  "SiTime Q3 2026 results press release (Form 8-K Exhibit 99.1)",
+                        "publisher":  "SEC EDGAR / SiTime",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/0001451809/000145180926000076/sitm-q326x8kxexx991.htm",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "SiTime Q3 Earnings Surpass Estimates, Revenues Increase Y/Y",
+                        "publisher":  "Zacks via TradingView",
+                        "url":  "https://www.tradingview.com/news/zacks:25e21fbf8094b:0-sitime-q3-earnings-surpass-estimates-revenues-increase-y-y/",
+                        "date":  "2026-11"
+                    },
+                    {
+                        "title":  "SiTime (SITM) Q3 Earnings and Revenues Surpass Estimates",
+                        "publisher":  "Yahoo Finance (Zacks)",
+                        "url":  "https://finance.yahoo.com/markets/stocks/articles/sitime-sitm-q3-earnings-revenues-215009675.html",
+                        "date":  "2026-11-04"
+                    },
+                    {
+                        "title":  "A Look at SiTime Corp (SITM) After 3.3% Decline -- GF Value $651.73 vs Price $405.10",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9211222/a-look-at-sitime-corp-sitm-after-33-decline-gf-value-65173-vs-price-40510",
+                        "date":  "2026-11-19"
+                    },
+                    {
+                        "title":  "A Look at SiTime Corp (SITM) After 5.3% Decline -- GF Value $646.42 vs Price $421.16",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9203120/a-look-at-sitime-corp-sitm-after-53-decline-gf-value-64642-vs-price-42116",
+                        "date":  "2026-11-16"
+                    },
+                    {
+                        "title":  "Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Broadcom Stock Plunges Over 11% As Semiconductor Selloff Hits Tech Giants",
+                        "publisher":  "Benzinga",
+                        "url":  "https://www.benzinga.com/markets/tech/26/11/63491944/broadcom-stock-plunges-over-11-as-semiconductor-selloff-hits-tech-giants",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "SiTime (SITM) Stock Price \u0026 Overview",
+                        "publisher":  "StockAnalysis",
+                        "url":  "https://stockanalysis.com/stocks/sitm/"
+                    }
+                ]
+}

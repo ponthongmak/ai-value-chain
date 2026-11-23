@@ -1,0 +1,174 @@
+{
+    "sector":  "net",
+    "judge":  "claude",
+    "provider":  "claude",
+    "model":  "claude-opus-5-5",
+    "effort":  "max",
+    "account":  "Claude",
+    "generatedAt":  "2026-11-23T05:11:56Z",
+    "costUsd":  1.5880869000000002,
+    "stocks":  {
+                   "ALAB":  {
+                                "m":  [
+                                          14,
+                                          12,
+                                          11,
+                                          9,
+                                          8
+                                      ],
+                                "o":  [
+                                          19,
+                                          18,
+                                          16,
+                                          12,
+                                          16
+                                      ],
+                                "why_en":  "Dominant PCIe retimers and Scorpio X scale-up switches make it a near-pure AI play with high opportunity; moat limited by short profit history, small scale and customer concentration.",
+                                "why_th":  "รีไทเมอร์ PCIe ที่ครองตลาดและสวิตช์ Scorpio X สำหรับระบบ scale-up ทำให้เป็นหุ้น AI แทบเต็มตัวและมีโอกาสสูง แต่คูเมืองยังจำกัดจากประวัติการทำกำไรที่สั้น ขนาดธุรกิจเล็ก และการพึ่งพาลูกค้าไม่กี่ราย"
+                            },
+                   "ANET":  {
+                                "m":  [
+                                          15,
+                                          15,
+                                          12,
+                                          13,
+                                          18
+                                      ],
+                                "o":  [
+                                          14,
+                                          16,
+                                          15,
+                                          11,
+                                          14
+                                      ],
+                                "why_en":  "EOS lock-in and a record of 40%+ operating margins give the strongest moat; AI networking should double to ~$7B in 2027, but NVIDIA and white-box rivals limit pricing power.",
+                                "why_th":  "ระบบปฏิบัติการ EOS ที่ลูกค้าเปลี่ยนออกยากและประวัติอัตรากำไรจากการดำเนินงานเกิน 40% ทำให้มีคูเมืองแข็งแกร่งที่สุด รายได้ AI networking คาดว่าจะเพิ่มเท่าตัวเป็นราว 7 พันล้านดอลลาร์ในปี 2027 แต่ NVIDIA และสวิตช์ white-box จำกัดอำนาจการตั้งราคา"
+                            },
+                   "COHR":  {
+                                "m":  [
+                                          16,
+                                          9,
+                                          6,
+                                          14,
+                                          8
+                                      ],
+                                "o":  [
+                                          15,
+                                          17,
+                                          14,
+                                          13,
+                                          14
+                                      ],
+                                "why_en":  "Vertically integrated InP/VCSEL lasers and 1.6T transceivers ride 85% YoY datacenter growth; moat held back by multi-sourced transceivers, Chinese price competition and a weak returns history.",
+                                "why_th":  "เลเซอร์ InP/VCSEL ที่ผลิตเองครบวงจรและทรานซีฟเวอร์ 1.6T ได้แรงหนุนจากรายได้ดาต้าเซ็นเตอร์ที่โต 85% จากปีก่อน แต่คูเมืองถูกจำกัดเพราะลูกค้าซื้อทรานซีฟเวอร์จากหลายเจ้า การแข่งขันด้านราคาจากจีน และประวัติผลตอบแทนต่อทุนที่อ่อน"
+                            },
+                   "CRDO":  {
+                                "m":  [
+                                          15,
+                                          10,
+                                          8,
+                                          9,
+                                          7
+                                      ],
+                                "o":  [
+                                          19,
+                                          17,
+                                          16,
+                                          11,
+                                          15
+                                      ],
+                                "why_en":  "Leading AEC share and efficient SerDes make it a near-pure AI connectivity play; moat is thinner on rising AEC competition, 84% revenue from four customers and brief profitability.",
+                                "why_th":  "ส่วนแบ่งตลาด AEC อันดับหนึ่งและ SerDes ที่ประหยัดพลังงานทำให้เป็นหุ้นการเชื่อมต่อ AI แทบเต็มตัว แต่คูเมืองบางกว่าเพราะคู่แข่ง AEC เพิ่มขึ้น รายได้ 84% มาจากลูกค้าสี่ราย และเพิ่งมีกำไรได้ไม่นาน"
+                            },
+                   "DELL":  {
+                                "m":  [
+                                          9,
+                                          11,
+                                          9,
+                                          18,
+                                          13
+                                      ],
+                                "o":  [
+                                          13,
+                                          16,
+                                          16,
+                                          6,
+                                          12
+                                      ],
+                                "why_en":  "Unmatched supply-chain scale and enterprise relationships underpin a $95B AI server backlog, but thin AI margins and no control of scarce inputs limit both moat and pricing power.",
+                                "why_th":  "ขนาดซัพพลายเชนที่คู่แข่งเทียบได้ยากและความสัมพันธ์กับลูกค้าองค์กรหนุนยอดค้างส่งเซิร์ฟเวอร์ AI 9.5 หมื่นล้านดอลลาร์ แต่มาร์จินธุรกิจ AI ที่บางและการไม่ได้ควบคุมวัตถุดิบที่ขาดแคลนจำกัดทั้งคูเมืองและอำนาจการตั้งราคา"
+                            },
+                   "GLW":  {
+                               "m":  [
+                                         18,
+                                         11,
+                                         7,
+                                         16,
+                                         11
+                                     ],
+                               "o":  [
+                                         10,
+                                         15,
+                                         16,
+                                         12,
+                                         12
+                                     ],
+                               "why_en":  "World-class materials science and fiber scale give a solid moat despite middling returns; AI fiber demand surges with Meta\u0027s up-to-$6B deal, but AI is a minority of revenue.",
+                               "why_th":  "ความเชี่ยวชาญด้านวัสดุศาสตร์ระดับโลกและขนาดการผลิตไฟเบอร์ให้คูเมืองที่มั่นคงแม้ผลตอบแทนต่อทุนอยู่ระดับกลาง ความต้องการไฟเบอร์สำหรับ AI พุ่งขึ้นพร้อมดีลกับ Meta มูลค่าสูงสุด 6 พันล้านดอลลาร์ แต่ AI ยังเป็นส่วนน้อยของรายได้"
+                           },
+                   "LITE":  {
+                                "m":  [
+                                          17,
+                                          10,
+                                          6,
+                                          11,
+                                          7
+                                      ],
+                                "o":  [
+                                          17,
+                                          18,
+                                          17,
+                                          17,
+                                          15
+                                      ],
+                                "why_en":  "Leading EML and CW laser chips are a true AI bottleneck, driving 136% growth, ~45% operating margins and OCS upside; moat tempered by a cyclical, loss-making history.",
+                                "why_th":  "ชิปเลเซอร์ EML และ CW ชั้นนำเป็นคอขวดที่แท้จริงของ AI หนุนรายได้โต 136% และอัตรากำไรจากการดำเนินงานราว 45% พร้อมโอกาสจาก OCS แต่คูเมืองถูกลดทอนด้วยประวัติธุรกิจที่ผันผวนตามวัฏจักรและเคยขาดทุน"
+                            },
+                   "ONDS":  {
+                                "m":  [
+                                          8,
+                                          6,
+                                          4,
+                                          4,
+                                          2
+                                      ],
+                                "o":  [
+                                          6,
+                                          14,
+                                          8,
+                                          3,
+                                          10
+                                      ],
+                                "why_en":  "Acquisition-built drone and counter-drone business grows fast with an $835M backlog, but persistent losses, 22% gross margins and little AI-infrastructure exposure leave weak moat and opportunity.",
+                                "why_th":  "ธุรกิจโดรนและระบบต่อต้านโดรนที่สร้างจากการซื้อกิจการเติบโตเร็วพร้อมยอดค้างส่ง 835 ล้านดอลลาร์ แต่ยังขาดทุนต่อเนื่อง อัตรากำไรขั้นต้นเพียง 22% และแทบไม่ได้รับอานิสงส์จากโครงสร้างพื้นฐาน AI ทำให้ทั้งคูเมืองและโอกาสอ่อน"
+                            },
+                   "SMCI":  {
+                                "m":  [
+                                          8,
+                                          5,
+                                          6,
+                                          11,
+                                          5
+                                      ],
+                                "o":  [
+                                          18,
+                                          16,
+                                          14,
+                                          4,
+                                          10
+                                      ],
+                                "why_en":  "Near-pure AI server exposure at $54B TTM revenue, but easily copied assembly, ~12% gross margins, no pricing power and governance scandals keep the moat weak.",
+                                "why_th":  "รายได้เกือบทั้งหมดผูกกับเซิร์ฟเวอร์ AI ที่ 5.4 หมื่นล้านดอลลาร์ใน 12 เดือนล่าสุด แต่งานประกอบที่ลอกเลียนได้ง่าย อัตรากำไรขั้นต้นราว 12% ไม่มีอำนาจการตั้งราคา และปัญหาธรรมาภิบาลทำให้คูเมืองอ่อน"
+                            }
+               }
+}

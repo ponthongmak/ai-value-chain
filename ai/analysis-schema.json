@@ -1,0 +1,195 @@
+{
+    "type":  "object",
+    "additionalProperties":  false,
+    "required":  [
+                     "stance",
+                     "thesis",
+                     "en",
+                     "th",
+                     "sources"
+                 ],
+    "properties":  {
+                       "stance":  {
+                                      "type":  "string",
+                                      "enum":  [
+                                                   "bullish",
+                                                   "neutral",
+                                                   "bearish"
+                                               ]
+                                  },
+                       "thesis":  {
+                                      "type":  "string",
+                                      "enum":  [
+                                                   "intact",
+                                                   "watch",
+                                                   "weakened"
+                                               ]
+                                  },
+                       "en":  {
+                                  "type":  "object",
+                                  "additionalProperties":  false,
+                                  "required":  [
+                                                   "headline",
+                                                   "summary",
+                                                   "pros",
+                                                   "cons",
+                                                   "opportunityCheck",
+                                                   "technical",
+                                                   "fundamental",
+                                                   "news",
+                                                   "caution",
+                                                   "opportunity",
+                                                   "risks"
+                                               ],
+                                  "properties":  {
+                                                     "headline":  {
+                                                                      "type":  "string",
+                                                                      "description":  "One line, under 15 words"
+                                                                  },
+                                                     "pros":  {
+                                                                  "type":  "array",
+                                                                  "items":  {
+                                                                                "type":  "string"
+                                                                            },
+                                                                  "description":  "3-5 short bullet points for the bull case"
+                                                              },
+                                                     "cons":  {
+                                                                  "type":  "array",
+                                                                  "items":  {
+                                                                                "type":  "string"
+                                                                            },
+                                                                  "description":  "3-5 short bullet points for the bear case"
+                                                              },
+                                                     "opportunityCheck":  {
+                                                                              "type":  "string",
+                                                                              "description":  "Does the page\u0027s AI-opportunity score look right? 50-100 words"
+                                                                          },
+                                                     "technical":  {
+                                                                       "type":  "string"
+                                                                   },
+                                                     "fundamental":  {
+                                                                         "type":  "string",
+                                                                         "description":  "Business and AI value-chain angle with the latest results"
+                                                                     },
+                                                     "news":  {
+                                                                  "type":  "array",
+                                                                  "items":  {
+                                                                                "type":  "string"
+                                                                            }
+                                                              },
+                                                     "caution":  {
+                                                                     "type":  "string"
+                                                                 },
+                                                     "opportunity":  {
+                                                                         "type":  "string"
+                                                                     },
+                                                     "risks":  {
+                                                                   "type":  "array",
+                                                                   "items":  {
+                                                                                 "type":  "string"
+                                                                             }
+                                                               },
+                                                     "summary":  {
+                                                                     "type":  "string"
+                                                                 }
+                                                 }
+                              },
+                       "th":  {
+                                  "type":  "object",
+                                  "additionalProperties":  false,
+                                  "required":  [
+                                                   "headline",
+                                                   "summary",
+                                                   "pros",
+                                                   "cons",
+                                                   "opportunityCheck",
+                                                   "technical",
+                                                   "fundamental",
+                                                   "news",
+                                                   "caution",
+                                                   "opportunity",
+                                                   "risks"
+                                               ],
+                                  "properties":  {
+                                                     "headline":  {
+                                                                      "type":  "string",
+                                                                      "description":  "One line, under 15 words"
+                                                                  },
+                                                     "pros":  {
+                                                                  "type":  "array",
+                                                                  "items":  {
+                                                                                "type":  "string"
+                                                                            },
+                                                                  "description":  "3-5 short bullet points for the bull case"
+                                                              },
+                                                     "cons":  {
+                                                                  "type":  "array",
+                                                                  "items":  {
+                                                                                "type":  "string"
+                                                                            },
+                                                                  "description":  "3-5 short bullet points for the bear case"
+                                                              },
+                                                     "opportunityCheck":  {
+                                                                              "type":  "string",
+                                                                              "description":  "Does the page\u0027s AI-opportunity score look right? 50-100 words"
+                                                                          },
+                                                     "technical":  {
+                                                                       "type":  "string"
+                                                                   },
+                                                     "fundamental":  {
+                                                                         "type":  "string",
+                                                                         "description":  "Business and AI value-chain angle with the latest results"
+                                                                     },
+                                                     "news":  {
+                                                                  "type":  "array",
+                                                                  "items":  {
+                                                                                "type":  "string"
+                                                                            }
+                                                              },
+                                                     "caution":  {
+                                                                     "type":  "string"
+                                                                 },
+                                                     "opportunity":  {
+                                                                         "type":  "string"
+                                                                     },
+                                                     "risks":  {
+                                                                   "type":  "array",
+                                                                   "items":  {
+                                                                                 "type":  "string"
+                                                                             }
+                                                               },
+                                                     "summary":  {
+                                                                     "type":  "string"
+                                                                 }
+                                                 }
+                              },
+                       "sources":  {
+                                       "type":  "array",
+                                       "items":  {
+                                                     "type":  "object",
+                                                     "additionalProperties":  false,
+                                                     "required":  [
+                                                                      "title",
+                                                                      "publisher",
+                                                                      "url",
+                                                                      "date"
+                                                                  ],
+                                                     "properties":  {
+                                                                        "title":  {
+                                                                                      "type":  "string"
+                                                                                  },
+                                                                        "publisher":  {
+                                                                                          "type":  "string"
+                                                                                      },
+                                                                        "url":  {
+                                                                                    "type":  "string"
+                                                                                },
+                                                                        "date":  {
+                                                                                     "type":  "string",
+                                                                                     "description":  "YYYY-MM-DD, or empty if unknown"
+                                                                                 }
+                                                                    }
+                                                 }
+                                   }
+                   }
+}

@@ -1,0 +1,758 @@
+{
+    "ticker":  "GOOGL",
+    "name":  "Alphabet",
+    "symbol":  "NASDAQ:GOOGL",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:46:26Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "NASDAQ:GOOGL",
+                       "yahoo":  "GOOGL",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:42:32Z",
+                       "price":  265.29,
+                       "open":  274.5,
+                       "high":  283.15,
+                       "low":  264.22,
+                       "volume":  57302800,
+                       "avgVolume20":  45232640,
+                       "changePct":  -2.7,
+                       "historyDays":  501,
+                       "ema50":  312.78,
+                       "ema100":  325.97,
+                       "ema200":  323.34,
+                       "bb":  {
+                                  "upper":  319.6,
+                                  "middle":  289.45,
+                                  "lower":  259.3
+                              },
+                       "macd":  {
+                                    "macd":  -13.59,
+                                    "signal":  -13.06,
+                                    "hist":  -0.53
+                                },
+                       "rsi14":  27.78,
+                       "high52w":  408.61,
+                       "low52w":  264.22,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         358.99
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         372.19
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         368.53
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         363.31
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         364.26
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         356.38
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         357.77
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         359.68
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         369.35
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         373.25
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         363.79
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         368.03
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         349.68
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         346.13
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         345.29
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         343.71
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         337.39
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         353.65
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         357.37
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         361.21
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         359.91
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         366.46
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         367.03
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         361.92
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         358.89
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         357.18
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         352.51
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         359.51
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         370.92
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         354.46
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         346.77
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         351.99
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         347.15
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         342.09
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         317.69
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         319.74
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         326.56
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         333.71
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         336.71
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         333.66
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         356.13
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         373.51
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         377.65
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         362.43
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         357.75
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         354.3
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         357.52
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         343.8
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         343.54
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         346.36
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         345.9
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         344
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         344.2
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         344.72
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         340.67
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         344.82
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         348.06
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         346.96
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         342
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         340.65
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         346.59
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         339.35
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         335.02
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         337.12
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         342.48
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         338.46
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         338.36
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         330.65
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         332.6
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         338.5
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         349.39
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         344.98
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         342.87
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         347.33
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         349.54
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         354.97
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         351.16
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         337.83
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         342.36
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         343.92
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         342.75
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         340.92
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         344.08
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         338.24
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         343.5
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         346.47
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         347.68
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         350.5
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         348.29
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         351.66
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         352.72
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         353.78
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         347.64
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         349.22
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         340.59
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         344.18
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         340.28
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         334.76
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         324.22
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         320.21
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         316.8
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         320.58
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         324.89
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         283.82
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         279.84
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         278.99
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         280.03
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         288.93
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         282.57
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         284.78
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         288.15
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         287.38
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         293.45
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         298.7
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         295.77
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         283.72
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         280.2
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         282.44
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         272.66
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         265.29
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          360.44,
+                                          360.91,
+                                          361.2,
+                                          361.29,
+                                          361.4,
+                                          361.21,
+                                          361.07,
+                                          361.02,
+                                          361.34,
+                                          361.81,
+                                          361.89,
+                                          362.13,
+                                          361.64,
+                                          361.03,
+                                          360.42,
+                                          359.76,
+                                          358.88,
+                                          358.68,
+                                          358.63,
+                                          358.73,
+                                          358.77,
+                                          359.08,
+                                          359.39,
+                                          359.49,
+                                          359.46,
+                                          359.37,
+                                          359.1,
+                                          359.12,
+                                          359.58,
+                                          359.38,
+                                          358.89,
+                                          358.62,
+                                          358.17,
+                                          357.54,
+                                          355.97,
+                                          354.55,
+                                          353.46,
+                                          352.68,
+                                          352.06,
+                                          351.33,
+                                          351.52,
+                                          352.38,
+                                          353.37,
+                                          353.73,
+                                          353.89,
+                                          353.9,
+                                          354.05,
+                                          353.64,
+                                          353.25,
+                                          352.98,
+                                          352.7,
+                                          352.36,
+                                          352.04,
+                                          351.75,
+                                          351.32,
+                                          351.06,
+                                          350.94,
+                                          350.79,
+                                          350.44,
+                                          350.06,
+                                          349.92,
+                                          349.51,
+                                          348.94,
+                                          348.48,
+                                          348.24,
+                                          347.86,
+                                          347.49,
+                                          346.83,
+                                          346.27,
+                                          345.96,
+                                          346.1,
+                                          346.05,
+                                          345.93,
+                                          345.98,
+                                          346.12,
+                                          346.47,
+                                          346.65,
+                                          346.31,
+                                          346.15,
+                                          346.07,
+                                          345.94,
+                                          345.74,
+                                          345.67,
+                                          345.38,
+                                          345.31,
+                                          345.35,
+                                          345.45,
+                                          345.64,
+                                          345.75,
+                                          345.98,
+                                          346.24,
+                                          346.54,
+                                          346.58,
+                                          346.69,
+                                          346.45,
+                                          346.36,
+                                          346.12,
+                                          345.67,
+                                          344.83,
+                                          343.87,
+                                          342.81,
+                                          341.93,
+                                          341.27,
+                                          339.01,
+                                          336.69,
+                                          334.43,
+                                          332.3,
+                                          330.6,
+                                          328.71,
+                                          326.99,
+                                          325.47,
+                                          323.97,
+                                          322.78,
+                                          321.83,
+                                          320.81,
+                                          319.36,
+                                          317.82,
+                                          316.43,
+                                          314.72,
+                                          312.78
+                                      ]
+                   },
+    "en":  {
+               "caution":  "Near-term cash generation and chart structure both call for discipline. Management reaffirmed $195B–$205B in 2026 capex and signaled elevated 2027 spending, meaning negative or depressed free cash flow could persist while depreciation climbs. Simultaneously, Search\u0027s deceleration to 12% under AI Mode shows Alphabet must prove generative answers can match classic keyword ad yields. With GOOGL closing near $264.22 support on 26.7% above-average volume and MACD still negative, an oversold RSI of 27.78 alone does not guarantee a durable floor.",
+               "cons":  [
+                            "Q3 2026 capex doubled to $51.4 billion within a $195B–$205B full-year plan, turning free cash flow negative at -$9.1 billion for a second straight quarter.",
+                            "Core Google Search revenue ($63.35 billion) decelerated from 17% to 12% growth as AI Mode queries initially carried fewer ads than classic search.",
+                            "GAAP diluted EPS dropped to $2.12 in Q3 2026 after an $8.2 billion unrealized equity markdown tied to SpaceX, triggering a historic ~12%–13% one-day drop on October 29.",
+                            "Technical trend is firmly broken below all major moving averages, with heavy 57.3 million share volume on November 20 confirming ongoing distribution."
+                        ],
+               "fundamental":  "The selloff directly reflects Wall Street repricing Alphabet from a high-FCF ad cash cow into a capital-intensive AI hyperscaler. On October 28, 2026, Alphabet posted 25% Q3 revenue growth to $127.6 billion and 30% operating income growth to $40.6 billion (31.8% margin), yet lost nearly $500 billion in market value on October 29. The tension is stark: Google Cloud doubled to $30.7 billion at a 36.2% margin on enterprise AI and external TPU sales, backed by a $560.8 billion backlog and Anthropic\u0027s $121.3 billion floor, proving the TPU–Cloud–Gemini stack is winning. Conversely, $51.4 billion in quarterly capex drove -$9.1 billion free cash flow, while Search slowed to 12% ($63.35 billion) on AI Mode ad dilution. Alphabet\u0027s integrated moat is not broken, but return on AI capex and Search monetization keep the thesis on watch.",
+               "headline":  "Alphabet Hits 52-Week Low as $51.4B CapEx Overshadows Cloud Surge",
+               "news":  [
+                            "October 28–29, 2026: Alphabet reported Q3 revenue up 25% to $127.6 billion and Google Cloud up 103% to $30.7 billion, but $51.4 billion in capex, -$9.1 billion free cash flow, 12% Search growth, and an $8.2 billion SpaceX equity markdown (GAAP EPS $2.12) triggered a record ~12%–13% drop.",
+                            "November 9, 2026: Google expanded its eighth-generation custom AI silicon with TPU 8tx (paired with 5th-gen AMD EPYC for confidential computing) and dual-die TPU 8i Max (384 GB HBM) for regulated enterprises and long-context agentic workloads.",
+                            "November 17, 2026: At Brussels\u0027 Sovereign AI Summit, Google Cloud announced plans to deploy Gemini models on partner-operated Google Cloud Dedicated infrastructure across Europe with strict local data residency and key controls.",
+                            "November 19, 2026: Anthropic debuted on Nasdaq at $83 per share, valuing Alphabet\u0027s ~13.4% stake near $147 billion while filings revealed Anthropic\u0027s $121.3 billion minimum Google Cloud compute floor through July 2033; GOOGL still fell amid broader tech risk-off selling."
+                        ],
+               "opportunity":  "For long-term AI infrastructure holders, the 35% drawdown contrasts sharply with Alphabet\u0027s accelerating Cloud and silicon execution. Google Cloud\u0027s 103% growth to $30.7 billion with 36.2% operating margins, a $560.8 billion backlog, and Anthropic\u0027s $121.3 billion multi-year compute floor provide rare multi-year revenue visibility. External TPU demand—bolstered by November 9\u0027s TPU 8tx and 8i Max launches—plus a ~$147 billion public Anthropic stake offer meaningful fundamental cushioning once investors see capex intensity stabilize or AI Mode ad monetization improve.",
+               "opportunityCheck":  "The page\u0027s sub-scores look broadly reasonable but slightly dated on AI revenue exposure and bottleneck power. With Google Cloud doubling to $30.7 billion—nearly a quarter of Q3 2026 revenue—on AI infrastructure and external TPU sales, plus a $560.8 billion backlog, I would raise AI revenue exposure. Bottleneck and pricing power also deserves a modest upward look given 36.2% Cloud margins and custom TPU 8tx/8i Max differentiation, though lower initial AI Mode ad monetization and $195B–$205B annual capex prevent a big upgrade. Market growth, position, and optionality still fit well.",
+               "pros":  [
+                            "Google Cloud revenue surged 103% year-over-year to $30.7 billion in Q3 2026, with operating income tripling to $11.12 billion (36.2% margin).",
+                            "Google Cloud backlog reached $560.8 billion in Q3 2026, reinforced by Anthropic\u0027s $121.3 billion minimum compute commitment running through July 2033.",
+                            "Custom silicon leadership expanded on November 9, 2026 with TPU 8tx for confidential AI and dual-die TPU 8i Max alongside rising external TPU sales.",
+                            "Anthropic\u0027s November 19 Nasdaq IPO valued Alphabet\u0027s ~13.4% stake at roughly $147 billion, adding substantial balance-sheet asset value."
+                        ],
+               "risks":  [
+                             "Sustained $195B–$205B+ annual AI capex extending into 2027 could keep free cash flow negative and pressure margins as depreciation rises.",
+                             "Prolonged lower ad load in Search AI Mode could structurally cap growth in Alphabet\u0027s largest profit pool ($63.35B Q3 Search revenue).",
+                             "Ongoing DOJ behavioral remedies in Search (including GenAI distribution rules) and Ad Tech (interoperability mandates) add compliance and competitive friction.",
+                             "Heavy concentration of Cloud growth in major AI labs like Anthropic exposes revenue trajectory if external AI funding or model demand cools."
+                         ],
+               "summary":  "Alphabet (GOOGL) closed at $265.29 on November 20, 2026, barely above its $264.22 52-week low and 35% off its $408.61 peak. The slide accelerated after October 28 Q3 2026 results showed $51.4 billion in quarterly capex—driving -$9.1 billion free cash flow—and Search growth slowing from 17% to 12% on lower AI Mode monetization. Those pressures overshadowed Google Cloud\u0027s 103% jump to $30.7 billion and Anthropic\u0027s $121.3 billion Cloud commitment disclosed November 19. Technicals remain bearish despite oversold signals, keeping the long-term moat on watch.",
+               "technical":  "GOOGL is in a steep downtrend as of November 20, 2026, closing down 2.7% at $265.29—just above its $264.22 52-week low and 35.1% below its $408.61 52-week high. Price trades well below all three exponential moving averages (EMAs—weighted trend averages): EMA 50 ($312.78), EMA 200 ($323.34), and EMA 100 ($325.97). EMA 50 has crossed below EMA 200, confirming bearish trend structure. Momentum indicators echo the weakness: MACD (12/26/9—a trend-momentum gauge) sits at -13.59 below its -13.06 signal line with a -0.53 histogram, showing downward pressure persists. However, RSI 14 (a 0–100 momentum gauge; under 30 is oversold) reads 27.78, flagging stretched short-term selling. Within Bollinger Bands (20/2—a volatility channel around the 20-day average), price hovers near the $259.30 lower band and far below the $289.45 midline. Volume hit 57.30 million shares versus the 45.23 million 20-day average (+26.7%), confirming heavy selling after an intraday fade from $283.15. Key support sits at $264.22 and $259.30; resistance lies at $289.45 and the $312.78–$325.97 EMA zone."
+           },
+    "th":  {
+               "caution":  "ทั้งกระแสเงินสดระยะสั้นและโครงสร้างกราฟยังต้องใช้ความระมัดระวัง ผู้บริหารยืนยันงบลงทุนปี 2026 ที่ $195B–$205B และส่งสัญญาณลงทุนสูงต่อในปี 2027 ทำให้กระแสเงินสดอิสระอาจติดลบหรือถูกกดดันต่อขณะค่าเสื่อมราคาพุ่งขึ้น ขณะเดียวกัน การที่ Search ชะลอเหลือ 12% ภายใต้ AI Mode สะท้อนว่า Alphabet ต้องพิสูจน์ให้ได้ว่าคำตอบแบบ AI สร้างรายได้โฆษณาเทียบเท่าการค้นหาแบบเดิม ด้านกราฟ GOOGL ปิดใกล้แนวรับ $264.22 ด้วยวอลุ่มสูงกว่าค่าเฉลี่ย 26.7% และ MACD ยังติดลบ ดังนั้น RSI 27.78 ที่เข้าเขต oversold เพียงอย่างเดียวยังไม่การันตีจุดต่ำสุด",
+               "cons":  [
+                            "งบลงทุน (CapEx) Q3 2026 พุ่งเท่าตัวเป็น $51.4B ภายใต้งบทั้งปี $195B–$205B กดกระแสเงินสดอิสระติดลบ -$9.1B ต่อเนื่องเป็นไตรมาสที่สอง",
+                            "รายได้หลัก Google Search ($63.35B) ชะลอจาก 17% เหลือ 12% เพราะการค้นหาผ่าน AI Mode ในระยะเริ่มต้นมีโฆษณาน้อยกว่าหน้าค้นหาแบบเดิม",
+                            "กำไรต่อหุ้น (GAAP EPS) Q3 2026 ลดเหลือ $2.12 จากการบันทึกขาดทุนทางบัญชีหุ้น SpaceX ราว $8.2B ส่งผลให้หุ้นร่วงหนักเป็นประวัติการณ์ ~12%–13% ในวันที่ 29 ต.ค.",
+                            "โครงสร้างทางเทคนิคเสียทรงชัดเจนใต้เส้นค่าเฉลี่ยหลักทั้งหมด โดยวอลุ่มวันที่ 20 พ.ย. สูงถึง 57.3 ล้านหุ้น ยืนยันแรงขายต่อเนื่อง"
+                        ],
+               "fundamental":  "การร่วงลงของราคาหุ้นสะท้อนการที่ตลาดกำลังประเมิน Alphabet ใหม่ จากเครื่องจักรผลิตเงินสดจากโฆษณา มาเป็นยักษ์ใหญ่โครงสร้างพื้นฐาน AI ที่ต้องใช้เงินลงทุนมหาศาล แม้ผลประกอบการ Q3 2026 เมื่อวันที่ 28 ต.ค. จะโชว์รายได้รวมโต 25% แตะ $127.6B และกำไรจากการดำเนินงานโต 30% เป็น $40.6B (มาร์จิ้น 31.8%) แต่มูลค่าตลาดกลับหายไปเกือบ $500B ในวันที่ 29 ต.ค. ภาพความต่างชัดเจนมาก: Google Cloud โตเท่าตัวเป็น $30.7B ด้วยมาร์จิ้นสูง 36.2% จากความต้องการโครงสร้างพื้นฐาน AI และการขายชิป TPU ภายนอก หนุนด้วย backlog $560.8B และสัญญาขั้นต่ำจาก Anthropic $121.3B พิสูจน์ว่าแพลตฟอร์ม TPU–Cloud–Gemini กำลังชนะ แต่ด้านกลับ CapEx $51.4B ทำให้กระแสเงินสดอิสระติดลบ -$9.1B ส่วน Search ชะลอเหลือ 12% ($63.35B) จากผลกระทบ AI Mode คูเมืองทางธุรกิจยังไม่พัง แต่ความคุ้มค่าของงบลงทุนและการทำเงินจาก Search ทำให้ต้องจัดสถานะเป็นเฝ้าระวัง",
+               "headline":  "Alphabet แตะจุดต่ำสุดรอบ 52 สัปดาห์ เมื่อ CapEx $51.4B กลบกระแส Cloud พุ่งแรง",
+               "news":  [
+                            "28–29 ต.ค. 2026: Alphabet รายงานรายได้ Q3 โต 25% เป็น $127.6B และ Google Cloud พุ่ง 103% เป็น $30.7B แต่ CapEx ที่ $51.4B กระแสเงินสดอิสระติดลบ -$9.1B การเติบโตของ Search เหลือ 12% และขาดทุนทางบัญชี SpaceX $8.2B (GAAP EPS $2.12) กดหุ้นร่วงหนักเป็นประวัติการณ์ราว 12%–13%",
+                            "9 พ.ย. 2026: Google เปิดตัวชิป AI รุ่นที่ 8 เพิ่มเติม ได้แก่ TPU 8tx (ทำงานร่วมกับ AMD EPYC เจน 5 สำหรับการประมวลผลแบบเข้ารหัสปลอดภัยสูง) และ TPU 8i Max แบบ dual-die (HBM 384 GB) เจาะกลุ่มองค์กรภายใต้การกำกับและงาน agentic AI ขนาดใหญ่",
+                            "17 พ.ย. 2026: ในงาน Sovereign AI Summit ที่บรัสเซลส์ Google Cloud ประกาศเตรียมนำโมเดล Gemini ไปให้บริการบน Google Cloud Dedicated ร่วมกับพันธมิตรในยุโรป ภายใต้กฎการเก็บข้อมูลและกุญแจเข้ารหัสในประเทศอย่างเข้มงวด",
+                            "19 พ.ย. 2026: Anthropic เข้าซื้อขาย IPO ในตลาด Nasdaq ที่ราคา $83 ต่อหุ้น ดันมูลค่าสัดส่วนการถือหุ้น ~13.4% ของ Alphabet แตะราว $147B พร้อมเปิดเผยสัญญาขั้นต่ำใช้ Google Cloud มูลค่า $121.3B ถึง ก.ค. 2033 แต่หุ้น GOOGL ยังปรับลงตามแรงขายหุ้นเทคในตลาดรวม"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI การที่ราคาหุ้นปรับลง 35% จากจุดสูงสุดสวนทางอย่างชัดเจนกับผลงานฝั่ง Cloud และชิปที่เร่งตัวขึ้น Google Cloud ที่โต 103% แตะ $30.7B พร้อมมาร์จิ้น 36.2% backlog มูลค่า $560.8B และสัญญาขั้นต่ำ $121.3B จาก Anthropic มอบความชัดเจนของรายได้ระยะยาวที่หาได้ยาก ขณะที่ดีมานด์ TPU ภายนอกซึ่งได้แรงเสริมจาก TPU 8tx และ 8i Max เมื่อ 9 พ.ย. รวมถึงมูลค่าหุ้น Anthropic ราว $147B ช่วยเป็นกันชนพื้นฐานที่ดี หากงบลงทุนเริ่มนิ่งหรือการสร้างรายได้จาก AI Mode ฟื้นตัว",
+               "opportunityCheck":  "คะแนนย่อยบนหน้าเว็บส่วนใหญ่สมเหตุสมผล แต่ประเมินสัดส่วนรายได้จาก AI และอำนาจคอขวดต่ำไปเล็กน้อย เมื่อ Google Cloud โตเท่าตัวเป็น $30.7B หรือเกือบหนึ่งในสี่ของรายได้ Q3 2026 จากโครงสร้างพื้นฐาน AI และการขายชิป TPU ภายนอก พร้อม backlog $560.8B ควรปรับคะแนนด้านสัดส่วนรายได้ AI ขึ้น ด้านคอขวดและอำนาจตั้งราคาก็มีเหตุผลให้มองบวกขึ้นเล็กน้อยจากมาร์จิ้น Cloud ที่ 36.2% และความต่างของชิป TPU 8tx/8i Max แต่ถูกจำกัดด้วยรายได้โฆษณา AI Mode ที่ยังต่ำกว่าปกติและ CapEx ปีละ $195B–$205B ส่วนคะแนนตลาด ตำแหน่งผู้นำ และโอกาสต่อยอดเหมาะสมแล้ว",
+               "pros":  [
+                            "รายได้ Google Cloud ไตรมาส 3 ปี 2026 พุ่ง 103% จากปีก่อนเป็น $30.7B ขณะที่กำไรจากการดำเนินงานโตสามเท่าเป็น $11.12B (มาร์จิ้น 36.2%)",
+                            "ยอดงานรอรับรู้รายได้ (backlog) ของ Google Cloud แตะ $560.8B ใน Q3 2026 และได้แรงหนุนจากสัญญาขั้นต่ำของ Anthropic มูลค่า $121.3B ยาวถึง ก.ค. 2033",
+                            "ความแข็งแกร่งด้านชิปของตนเองขยายตัวต่อในวันที่ 9 พ.ย. 2026 ด้วยการเปิดตัว TPU 8tx และ TPU 8i Max ควบคู่ยอดขายระบบ TPU ภายนอกที่เติบโตเด่น",
+                            "การ IPO ของ Anthropic ในตลาด Nasdaq วันที่ 19 พ.ย. ทำให้สัดส่วนถือหุ้น ~13.4% ของ Alphabet มีมูลค่าตลาดราว $147B เสริมความแกร่งงบดุลชัดเจน"
+                        ],
+               "risks":  [
+                             "งบลงทุน AI ระดับ $195B–$205B ต่อปีที่ลากยาวถึงปี 2027 อาจทำให้กระแสเงินสดอิสระติดลบต่อเนื่องและกดดันมาร์จิ้นจากค่าเสื่อมราคาที่เพิ่มขึ้น",
+                             "หากการแสดงโฆษณาใน Search AI Mode ยังสร้างรายได้ต่ำกว่าปกติเป็นเวลานาน อาจจำกัดการเติบโตของแหล่งกำไรหลัก ($63.35B ใน Q3) เชิงโครงสร้าง",
+                             "มาตรการแก้ไขเชิงพฤติกรรมจากคดีผูกขาดของ DOJ ทั้งฝั่ง Search (ครอบคลุมการกระจาย GenAI) และ Ad Tech เพิ่มต้นทุนการปฏิบัติตามกฎและแรงแข่งขัน",
+                             "การที่การเติบโตของ Cloud พึ่งพาลูกค้าห้องแล็บ AI รายใหญ่เช่น Anthropic สูง ทำให้มีความเสี่ยงหากการระดมทุนหรือความต้องการประมวลผลของลูกค้าชะลอตัว"
+                         ],
+               "summary":  "Alphabet (GOOGL) ปิดที่ $265.29 เมื่อวันที่ 20 พ.ย. 2026 เหนือจุดต่ำสุดรอบ 52 สัปดาห์ที่ $264.22 เพียงเล็กน้อย และร่วงลง 35% จากจุดสูงสุด $408.61 แรงขายเร่งตัวหลังงบ Q3 2026 วันที่ 28 ต.ค. เผยงบลงทุน (CapEx) พุ่งเป็น $51.4B จนกระแสเงินสดอิสระติดลบ -$9.1B ขณะที่ Search ชะลอจาก 17% เหลือ 12% จากรายได้โฆษณา AI Mode ที่ยังต่ำ ปัจจัยเหล่านี้กลบข่าวดีทั้ง Google Cloud ที่โต 103% แตะ $30.7B และสัญญา Cloud $121.3B จาก Anthropic เมื่อ 19 พ.ย. ด้านกราฟยังเป็นขาลงแม้เข้าเขตขายมากเกินไป ทำให้ต้องเฝ้าระวังคูเมืองธุรกิจระยะยาวอย่างใกล้ชิด",
+               "technical":  "ข้อมูล ณ วันที่ 20 พ.ย. 2026 ชี้ว่า GOOGL อยู่ในแนวโน้มขาลงชัดเจน โดยปิดลบ 2.7% ที่ $265.29 จ่อจุดต่ำสุดรอบ 52 สัปดาห์ ($264.22) และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($408.61) ถึง 35.1% ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนัก (EMA — เส้นวัดแนวโน้มราคา) ทั้งสามเส้น ได้แก่ EMA 50 ($312.78), EMA 200 ($323.34) และ EMA 100 ($325.97) โดย EMA 50 ตัดลงใต้ EMA 200 ยืนยันโครงสร้างขาลง สัญญาณโมเมนตัมยังอ่อนแอ: MACD (12/26/9 — ตัวชี้วัดทิศทางและแรงส่ง) อยู่ที่ -13.59 ต่ำกว่าเส้น signal ที่ -13.06 และมี histogram ติดลบ -0.53 สะท้อนแรงกดดันด้านลงยังไม่หมด อย่างไรก็ดี RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือเขตขายมากเกินไป หรือ oversold) ลดลงมาที่ 27.78 บ่งชี้แรงขายระยะสั้นที่ตึงตัว ด้านกรอบความผันผวน Bollinger Bands (20/2 — กรอบราคาเทียบค่าเฉลี่ย 20 วัน) ราคาเกาะใกล้ขอบล่าง $259.30 และห่างจากเส้นกลาง $289.45 วอลุ่มซื้อขายพุ่งเป็น 57.30 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 45.23 ล้านหุ้นถึง 26.7% ยืนยันแรงขายจริงหลังราคาวกกลับจากจุดสูงสุดระหว่างวัน $283.15 โดยมีแนวรับสำคัญที่ $264.22 และ $259.30 ส่วนแนวต้านอยู่ที่ $289.45 และโซน EMA $312.78–$325.97"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-10-28",
+                        "publisher":  "Alphabet Inc.",
+                        "title":  "Alphabet Announces Third Quarter 2026 Results",
+                        "url":  "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf"
+                    },
+                    {
+                        "date":  "2026-10-29",
+                        "publisher":  "The Guardian",
+                        "title":  "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street",
+                        "url":  "https://www.theguardian.com/technology/2026/oct/29/google-owner-alphabet-loses-500bn-market-value-profit-disappoints-wall-street"
+                    },
+                    {
+                        "date":  "2026-10-29",
+                        "publisher":  "Forbes",
+                        "title":  "Google Parent\u0027s Stock Tank Erases Nearly $500 Billion In Second-Biggest Daily Market Cap Loss Ever",
+                        "url":  "https://www.forbes.com/sites/fionariley/2026/10/29/google-parents-stock-tank-erases-nearly-500-billion-in-second-biggest-daily-market-cap-loss-ever/"
+                    },
+                    {
+                        "date":  "2026-11-09",
+                        "publisher":  "Google Blog",
+                        "title":  "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
+                        "url":  "https://blog.google/technology/developers/our-newest-tpus-8tx-and-8i-max-built-for-the-agentic-era/"
+                    },
+                    {
+                        "date":  "2026-11-17",
+                        "publisher":  "Google Cloud Blog",
+                        "title":  "Sovereign AI on your terms, made with Europe",
+                        "url":  "https://cloud.google.com/blog/products/identity-security/sovereign-ai-on-your-terms-made-with-europe"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "The Motley Fool",
+                        "title":  "Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google\u0027s Stake",
+                        "url":  "https://www.fool.com/investing/2026/11/19/stock-market-today-111926-alphabet-shares-fall-anth/"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "FourWeekMBA",
+                        "title":  "Anthropic Raises Its Google Spending Floor to $121.3B",
+                        "url":  "https://fourweekmba.com/anthropic-raises-its-google-spending-floor-to-121-3b/"
+                    }
+                ]
+}

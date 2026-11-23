@@ -1,0 +1,764 @@
+{
+    "ticker":  "EQIX",
+    "name":  "Equinix",
+    "symbol":  "NASDAQ:EQIX",
+    "model":  "claude-opus-5-5",
+    "effort":  "high",
+    "generatedAt":  "2026-11-22T15:52:29Z",
+    "costUsd":  0.7805716000000001,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NASDAQ:EQIX",
+                       "yahoo":  "EQIX",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-22T15:49:25Z",
+                       "price":  968.22,
+                       "open":  1013.47,
+                       "high":  1013.47,
+                       "low":  964.25,
+                       "volume":  1333800,
+                       "avgVolume20":  753255,
+                       "changePct":  -4.89,
+                       "historyDays":  501,
+                       "ema50":  1023.54,
+                       "ema100":  1024.5,
+                       "ema200":  1001.79,
+                       "bb":  {
+                                  "upper":  1084.27,
+                                  "middle":  1024.85,
+                                  "lower":  965.44
+                              },
+                       "macd":  {
+                                    "macd":  1.8,
+                                    "signal":  6.62,
+                                    "hist":  -4.82
+                                },
+                       "rsi14":  39.11,
+                       "high52w":  1128.68,
+                       "low52w":  720.62,
+                       "spark":  [
+                                     [
+                                         "2026-06-03",
+                                         1077
+                                     ],
+                                     [
+                                         "2026-06-04",
+                                         1089.15
+                                     ],
+                                     [
+                                         "2026-06-05",
+                                         1080.95
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         1062.74
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         1059.84
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         1038.33
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         1043.18
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         1055.85
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         1064.38
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         1094.68
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         1088.52
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         1092.19
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         1115.94
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         1115.93
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         1095
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         1087.61
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         1091.3
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         1085.17
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         1042.39
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         1013.62
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         1002.02
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         998.84
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         1022.93
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         1015.97
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         1034.87
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         1051.21
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         1039.53
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         1023.54
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         1022.6
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         1009.14
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         1020
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         1017.31
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         1027.88
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         1028.74
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         1033.55
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         1084.24
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         1046.79
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         1034.86
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         1008.02
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         1047.53
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         1019.28
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         1031.44
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         1051.53
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         1056.2
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         1052.86
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         1042.62
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         1043.38
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         1032.4
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         1069.17
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         1073.78
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         1102.1
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         1097.61
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         1085.09
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         1077.08
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         1082.61
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         1065.39
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         1055.2
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         1073.44
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         1079.61
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         1076.45
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         1044.41
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         1046.72
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         1027.59
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         1019.24
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         1040.83
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         1035.98
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         1041.21
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         1043.06
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         1023.81
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         1037.72
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         998.72
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         1006.98
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         1016.16
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         1025.94
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         1021.34
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         1057.26
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         1059.26
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         1037.66
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         1034.76
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         1008.08
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         1011.07
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         1015.27
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         1011.58
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         1012.33
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         1025.72
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         1023.44
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         1047.36
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         1031.77
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         1011.16
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         1026.06
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         1032.6
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         1019.4
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         995.9
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         996.26
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         985.98
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         975.71
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         987.44
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         995
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         952.62
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         955.03
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         967.65
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         999.38
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         1007.66
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         1036.67
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         1013.7
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         993.69
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         1014.4
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         1054.09
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         997.35
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         1012.71
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         1054.5
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         1050
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         1068.06
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         1072.77
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         1053.79
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         1043.06
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         1034.83
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         1036.5
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         1018.05
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         968.22
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          1044.86,
+                                          1046.59,
+                                          1047.94,
+                                          1048.52,
+                                          1048.96,
+                                          1048.55,
+                                          1048.34,
+                                          1048.63,
+                                          1049.25,
+                                          1051.03,
+                                          1052.5,
+                                          1054.06,
+                                          1056.48,
+                                          1058.82,
+                                          1060.23,
+                                          1061.31,
+                                          1062.48,
+                                          1063.37,
+                                          1062.55,
+                                          1060.63,
+                                          1058.33,
+                                          1056,
+                                          1054.7,
+                                          1053.18,
+                                          1052.47,
+                                          1052.42,
+                                          1051.91,
+                                          1050.8,
+                                          1049.69,
+                                          1048.1,
+                                          1047,
+                                          1045.84,
+                                          1045.13,
+                                          1044.49,
+                                          1044.06,
+                                          1045.64,
+                                          1045.68,
+                                          1045.26,
+                                          1043.8,
+                                          1043.94,
+                                          1042.98,
+                                          1042.52,
+                                          1042.88,
+                                          1043.4,
+                                          1043.77,
+                                          1043.73,
+                                          1043.71,
+                                          1043.27,
+                                          1044.28,
+                                          1045.44,
+                                          1047.66,
+                                          1049.62,
+                                          1051.01,
+                                          1052.03,
+                                          1053.23,
+                                          1053.71,
+                                          1053.77,
+                                          1054.54,
+                                          1055.52,
+                                          1056.34,
+                                          1055.88,
+                                          1055.52,
+                                          1054.42,
+                                          1053.04,
+                                          1052.56,
+                                          1051.91,
+                                          1051.49,
+                                          1051.16,
+                                          1050.09,
+                                          1049.6,
+                                          1047.61,
+                                          1046.02,
+                                          1044.84,
+                                          1044.1,
+                                          1043.21,
+                                          1043.76,
+                                          1044.37,
+                                          1044.11,
+                                          1043.74,
+                                          1042.34,
+                                          1041.12,
+                                          1040.1,
+                                          1038.98,
+                                          1037.94,
+                                          1037.46,
+                                          1036.91,
+                                          1037.32,
+                                          1037.1,
+                                          1036.08,
+                                          1035.69,
+                                          1035.57,
+                                          1034.94,
+                                          1033.4,
+                                          1031.95,
+                                          1030.15,
+                                          1028.01,
+                                          1026.42,
+                                          1025.19,
+                                          1022.34,
+                                          1019.7,
+                                          1017.66,
+                                          1016.94,
+                                          1016.58,
+                                          1017.37,
+                                          1017.22,
+                                          1016.3,
+                                          1016.23,
+                                          1017.71,
+                                          1016.91,
+                                          1016.75,
+                                          1018.23,
+                                          1019.47,
+                                          1021.38,
+                                          1023.4,
+                                          1024.59,
+                                          1025.31,
+                                          1025.68,
+                                          1026.11,
+                                          1025.79,
+                                          1023.54
+                                      ]
+                   },
+    "en":  {
+               "headline":  "Strong Q3, but AI sell-off and Trump tax threat break the 200-day line",
+               "summary":  "Equinix fell 4.89% to $968.22 on 20 Nov 2026 on about 1.8x normal volume and closed below its EMA 200. The trigger was not company news. AI-infrastructure stocks sold off broadly, and on the same day President Trump threatened a \"tremendous tax\" on US firms that build AI data centres abroad. The business itself looks solid. Q3 results on 28 Oct showed revenue up 11% to $2.571B and record gross bookings of $533M (+35%), and 2026 guidance went up for a third time. The short-term chart is weak; the long-term thesis is unchanged.",
+               "pros":  [
+                            "Record Q3 annualized gross bookings of $533M, up 35% year on year (reported 28 Oct 2026).",
+                            "2026 guidance raised for a third time: revenue $10.325–10.365B, AFFO/share $43.71–44.11.",
+                            "Prices on new deals rose 12% year on year, and management plans to reprice renewals.",
+                            "Liquid-cooling bookings rose more than 10x, and Inference Exchange launched in beta with NVIDIA and Together AI.",
+                            "Analysts raised price targets after the results (Citi $1,320, JPMorgan $1,350 on 29 Oct), and no downgrades were found."
+                        ],
+               "cons":  [
+                            "On 20 Nov the price closed below EMA 50, 100 and 200 on 1.8x average volume.",
+                            "Trump\u0027s 20 Nov threat to tax US firms\u0027 overseas AI data centres targets the kind of global footprint Equinix runs.",
+                            "Direct AI exposure is still small: neoclouds are under 2% of recurring revenue, and the AI share of bookings is not disclosed.",
+                            "2026 capex of $5–6B needs open capital markets just as sentiment turns against AI spending.",
+                            "Churn is guided to 2–2.5% for the rest of 2026 as low-density customers are repriced or let go."
+                        ],
+               "opportunityCheck":  "The scores look broadly right. Exposure at 9 fits: Equinix gives no AI share of bookings, and neoclouds are under 2% of monthly recurring revenue. Position at 17 is earned by the interconnection ecosystem, which added 6,900 net cross-connects in Q3. I would raise bottleneck \u0026 pricing power by about one point, because new-deal pricing rose 12% and management plans to reprice renewals while power stays scarce. Optionality could rise once Inference Exchange and Fabric One reach general availability in 2027 with disclosed pricing, but neither is proven yet.",
+               "technical":  "Trend: the 20 Nov close of $968.22 is below all three exponential moving averages (EMAs, smoothed average prices): EMA 50 at $1,023.54, EMA 100 at $1,024.50 and EMA 200 at $1,001.79. The 50 and 100 are flat and almost on top of each other, both still above the 200. That points to a stalled medium-term uptrend rather than a clear reversal, but losing the 200-day line is a warning. Momentum: MACD (the gap between a fast and a slow average) is 1.8, below its signal line at 6.62, with a histogram of -4.82. That is a bearish crossover. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 39.11, so momentum is weak but not oversold. Volatility: the price sits on the lower Bollinger Band at $965.44 (a band 2 standard deviations around the 20-day mean of $1,024.85), which means it is stretched to the downside in the short term. It is about 14% below the 52-week high of $1,128.68 and 34% above the 52-week low of $720.62. Volume of 1.33M shares was about 1.8x the 20-day average of 753K, which confirms real selling. Support is near the lower band at about $965; resistance is the EMA cluster at $1,000–1,025.",
+               "fundamental":  "Equinix rents space, power and, above all, connections. Customers pay to cross-connect with clouds, networks and partners inside its 270+ sites, which makes the ecosystem sticky. In Q3 2026 (reported 28 Oct), revenue was $2.571B (+11%) and adjusted EBITDA $1.321B (+15%). AFFO per share was $11.64, up 12% excluding a one-off atNorth fee. Net interconnections grew by 6,900, and Fabric revenue rose 24%. Full-year guidance now implies about 12% revenue growth and an EBITDA margin of about 51%; Q4 revenue is guided at $2.684–2.724B. AI shows up mainly through inference and hybrid enterprise AI. New customers average 7 kW per cabinet versus 5 kW for those leaving, liquid-cooling bookings rose more than 10x, and 15% of 2027 retail capacity is already pre-sold. Capex of $5–6B funds a 3 GW pipeline.",
+               "news":  [
+                            "28 Oct 2026: Q3 results showed record annualized gross bookings of $533M (+35%), and guidance was raised for the third straight quarter, with AFFO/share now $43.71–44.11.",
+                            "28–29 Oct 2026: Equinix launched Inference Exchange in beta with NVIDIA and Together AI (200+ open models, full launch in 2027) and Fabric One with AWS and Google Cloud as lead partners (general availability early 2027).",
+                            "29 Oct–2 Nov 2026: Analysts raised targets after the results (Citigroup to $1,320, JPMorgan to $1,350, BMO to $1,250); no downgrades were found.",
+                            "20 Nov 2026: The stock fell 4.89% (-7.7% for the week, per GuruFocus) in a broad sell-off of AI-infrastructure stocks. CNN reported the Nasdaq erased its 2026 gains, and Digital Realty fell as much as 6.6%.",
+                            "20 Nov 2026: President Trump said US companies would face a \"tremendous tax\" for building AI data centres abroad. No rate, date or legal mechanism was given, so the impact on Equinix is unclear."
+                        ],
+               "caution":  "The chart turned weak on 20 Nov: the price is below all three EMAs, MACD has crossed down, and the selling came on heavy volume. The trigger was macro and political, and that kind of pressure can last even when results are good. The overseas data-centre tax remark is vague, but it matters for a US company with a large share of its sites abroad. A concrete proposal would be a real risk. Equinix also spends heavily ($5–6B of capex in 2026) and, as a REIT, is sensitive to interest rates. Tighter funding or higher bond yields would weigh on the stock.",
+               "opportunity":  "Nothing in the 20 Nov drop came from Equinix itself. Its latest numbers (28 Oct) were strong: record bookings, 12% higher pricing on new deals and a third guidance raise. If the sell-off is mostly sentiment, the gap between the price and the business has widened. The stock sits at the lower Bollinger Band with RSI near 39, and published analyst targets are well above the current price. Inference Exchange and Fabric One add new AI-linked products in 2027. Long-term holders will want to see whether Q4 bookings, 60% of target already done by late October, hold up.",
+               "risks":  [
+                             "US policy: a tax or penalty on US firms\u0027 overseas AI data centres (threatened 20 Nov) could hurt international expansion.",
+                             "AI sentiment: a long sell-off in AI-related stocks could compress data-centre REIT valuations even if bookings stay strong.",
+                             "Power and permits: management names power availability, legislation and community opposition as industry headwinds.",
+                             "Execution: Inference Exchange and Fabric One are still in beta, and their pricing is not yet disclosed.",
+                             "Funding: $5–6B of 2026 capex and an atNorth commitment of up to $963M depend on affordable capital."
+                         ]
+           },
+    "th":  {
+               "headline":  "งบ Q3 แข็งแกร่ง แต่แรงเทขายหุ้น AI และคำขู่ภาษีของทรัมป์ดันราคาหลุด EMA 200",
+               "summary":  "EQIX ร่วง 4.89% ปิดที่ $968.22 เมื่อ 20 พ.ย. 2026 ด้วยวอลุ่มราว 1.8 เท่าของปกติ และหลุดเส้น EMA 200 สาเหตุไม่ได้มาจากข่าวของบริษัท แต่มาจากแรงเทขายหุ้นโครงสร้างพื้นฐาน AI ทั้งกลุ่ม ซ้ำด้วยคำพูดของประธานาธิบดีทรัมป์ในวันเดียวกันที่ขู่เก็บ \"ภาษีมหาศาล\" จากบริษัทสหรัฐฯ ที่ไปสร้างดาต้าเซ็นเตอร์ AI ในต่างประเทศ ส่วนตัวธุรกิจยังดี งบ Q3 ที่ประกาศ 28 ต.ค. รายได้โต 11% เป็น $2.571B ยอดจองใหม่ทำสถิติ $533M (+35%) และปรับประมาณการปี 2026 ขึ้นเป็นครั้งที่สาม กราฟระยะสั้นอ่อนแอ แต่ทีสิสระยะยาวยังเหมือนเดิม",
+               "pros":  [
+                            "ยอดจองใหม่รายปี (annualized gross bookings) ไตรมาส 3 ทำสถิติ $533M โต 35% จากปีก่อน (ประกาศ 28 ต.ค. 2026)",
+                            "ปรับประมาณการปี 2026 ขึ้นเป็นครั้งที่สาม: รายได้ $10.325–10.365B และ AFFO/หุ้น $43.71–44.11",
+                            "ราคาสัญญาใหม่ขึ้น 12% จากปีก่อน และผู้บริหารเตรียมขึ้นราคาตอนต่อสัญญา",
+                            "ยอดจองระบบระบายความร้อนด้วยของเหลวเพิ่มกว่า 10 เท่า และเปิดทดสอบ Inference Exchange ร่วมกับ NVIDIA และ Together AI แล้ว",
+                            "นักวิเคราะห์ขึ้นราคาเป้าหมายหลังประกาศงบ (Citi $1,320, JPMorgan $1,350 เมื่อ 29 ต.ค.) และยังไม่พบการลดคำแนะนำ"
+                        ],
+               "cons":  [
+                            "วันที่ 20 พ.ย. ราคาปิดต่ำกว่า EMA 50, 100 และ 200 ด้วยวอลุ่ม 1.8 เท่าของค่าเฉลี่ย",
+                            "คำขู่ของทรัมป์เมื่อ 20 พ.ย. เรื่องเก็บภาษีดาต้าเซ็นเตอร์ AI นอกประเทศ เล็งตรงไปที่บริษัทที่มีเครือข่ายทั่วโลกอย่าง Equinix",
+                            "สัดส่วนรายได้จาก AI โดยตรงยังน้อย: ลูกค้ากลุ่ม neocloud มีไม่ถึง 2% ของรายได้ประจำ และบริษัทไม่เปิดเผยสัดส่วน AI ในยอดจอง",
+                            "งบลงทุนปี 2026 ราว $5–6B ต้องพึ่งตลาดทุน ขณะที่ตลาดเริ่มกังวลการใช้จ่ายด้าน AI",
+                            "คาดอัตราลูกค้ายกเลิก (churn) 2–2.5% ในช่วงที่เหลือของปี เพราะจะขึ้นราคาหรือปล่อยลูกค้าที่ใช้ไฟต่อตู้ต่ำ"
+                        ],
+               "opportunityCheck":  "คะแนนโดยรวมดูสมเหตุสมผล คะแนนสัดส่วนรายได้ AI ที่ 9 เหมาะสม เพราะบริษัทไม่เปิดเผยสัดส่วน AI ในยอดจอง และกลุ่ม neocloud มีไม่ถึง 2% ของรายได้ประจำรายเดือน คะแนนสถานะในตลาด 17 สมควรแล้ว เพราะระบบนิเวศ interconnection ยังแข็งแรง ไตรมาส 3 มีการเชื่อมต่อเพิ่มสุทธิ 6,900 จุด ที่ควรขยับขึ้นราว 1 คะแนนคือคอขวดและอำนาจตั้งราคา เพราะราคาสัญญาใหม่ขึ้น 12% และบริษัทจะขึ้นราคาตอนต่อสัญญาในช่วงที่ไฟฟ้ายังขาดแคลน คะแนนทางเลือกการเติบโตอาจขยับขึ้นได้เมื่อ Inference Exchange และ Fabric One เปิดให้บริการเต็มรูปแบบในปี 2027 พร้อมเปิดเผยราคา แต่ตอนนี้ยังพิสูจน์ไม่ได้",
+               "technical":  "แนวโน้ม: ราคาปิดวันที่ 20 พ.ย. ที่ $968.22 อยู่ใต้เส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โพเนนเชียล (EMA คือค่าเฉลี่ยที่ให้น้ำหนักราคาล่าสุดมากกว่า) ทั้งสามเส้น ได้แก่ EMA 50 ที่ $1,023.54, EMA 100 ที่ $1,024.50 และ EMA 200 ที่ $1,001.79 เส้น EMA 50 กับ 100 แบนและเกือบทับกัน แต่ยังอยู่เหนือ EMA 200 แสดงว่าขาขึ้นระยะกลางกำลังหยุดพัก ยังไม่ใช่การกลับตัวชัดเจน แต่การหลุด EMA 200 ถือเป็นสัญญาณเตือน โมเมนตัม: MACD (ส่วนต่างระหว่างค่าเฉลี่ยเร็วกับช้า) อยู่ที่ 1.8 ต่ำกว่าเส้นสัญญาณที่ 6.62 และฮิสโตแกรมติดลบ -4.82 จึงเป็นการตัดลงเชิงลบ RSI 14 (มาตรวัดโมเมนตัม 0–100 ถ้าต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 39.11 แปลว่าอ่อนแรงแต่ยังไม่ oversold ความผันผวน: ราคาแตะขอบล่างของ Bollinger Band ที่ $965.44 (กรอบกว้าง 2 ส่วนเบี่ยงเบนมาตรฐานรอบค่าเฉลี่ย 20 วันที่ $1,024.85) แปลว่าระยะสั้นราคาถูกกดลงมาแรง ราคาต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $1,128.68 ราว 14% และสูงกว่าจุดต่ำสุดที่ $720.62 ราว 34% วอลุ่ม 1.33 ล้านหุ้น สูงราว 1.8 เท่าของค่าเฉลี่ย 20 วัน (753K) ยืนยันว่ามีแรงขายจริง แนวรับอยู่แถวขอบล่างราว $965 ส่วนแนวต้านคือกลุ่มเส้น EMA ที่ $1,000–1,025",
+               "fundamental":  "Equinix ให้เช่าพื้นที่และไฟฟ้า แต่สิ่งที่สำคัญที่สุดคือ \"การเชื่อมต่อ\" ลูกค้ายอมจ่ายเพื่อต่อสายตรงถึงคลาวด์ เครือข่าย และคู่ค้าภายในศูนย์ข้อมูลกว่า 270 แห่ง ระบบนิเวศนี้จึงทำให้ลูกค้าย้ายออกยาก งบ Q3 2026 (ประกาศ 28 ต.ค.) รายได้ $2.571B (+11%) และ adjusted EBITDA $1.321B (+15%) AFFO ต่อหุ้น $11.64 โต 12% ถ้าไม่รวมค่าธรรมเนียมครั้งเดียวจากดีล atNorth การเชื่อมต่อเพิ่มสุทธิ 6,900 จุด และรายได้ Fabric โต 24% ประมาณการทั้งปีบ่งชี้ว่ารายได้จะโตราว 12% และมาร์จิน EBITDA ราว 51% ส่วนรายได้ Q4 คาดไว้ที่ $2.684–2.724B AI เข้ามาผ่านงาน inference และ AI แบบไฮบริดขององค์กรเป็นหลัก ลูกค้าใหม่ใช้ไฟเฉลี่ย 7 kW ต่อตู้ เทียบกับ 5 kW ของลูกค้าที่ออกไป ยอดจองระบบระบายความร้อนด้วยของเหลวเพิ่มกว่า 10 เท่า และพื้นที่ retail ที่จะเปิดในปี 2027 ขายล่วงหน้าไปแล้ว 15% งบลงทุน $5–6B ใช้พัฒนาโครงการขนาดรวม 3 GW",
+               "news":  [
+                            "28 ต.ค. 2026: งบ Q3 มียอดจองใหม่รายปีสูงเป็นสถิติที่ $533M (+35%) และปรับประมาณการขึ้นเป็นไตรมาสที่สามติดต่อกัน โดย AFFO/หุ้นอยู่ที่ $43.71–44.11",
+                            "28–29 ต.ค. 2026: เปิดตัว Inference Exchange รุ่นทดสอบร่วมกับ NVIDIA และ Together AI (โมเดลโอเพนซอร์สกว่า 200 ตัว เปิดเต็มรูปแบบปี 2027) และ Fabric One ที่มี AWS กับ Google Cloud เป็นพันธมิตรหลัก (เปิดใช้งานทั่วไปต้นปี 2027)",
+                            "29 ต.ค.–2 พ.ย. 2026: นักวิเคราะห์ขึ้นราคาเป้าหมายหลังประกาศงบ ได้แก่ Citigroup เป็น $1,320, JPMorgan เป็น $1,350 และ BMO เป็น $1,250 โดยยังไม่พบการลดคำแนะนำ",
+                            "20 พ.ย. 2026: หุ้นร่วง 4.89% (ทั้งสัปดาห์ -7.7% ตามข้อมูล GuruFocus) จากแรงเทขายหุ้นโครงสร้างพื้นฐาน AI ทั้งกลุ่ม CNN รายงานว่า Nasdaq ลบกำไรทั้งหมดของปี 2026 และ Digital Realty ร่วงสูงสุดราว 6.6%",
+                            "20 พ.ย. 2026: ทรัมป์กล่าวว่าบริษัทสหรัฐฯ ที่สร้างดาต้าเซ็นเตอร์ AI ในต่างประเทศจะเจอ \"ภาษีมหาศาล\" แต่ยังไม่บอกอัตรา วันเริ่ม หรือกลไกทางกฎหมาย จึงยังประเมินผลต่อ Equinix ไม่ได้"
+                        ],
+               "caution":  "กราฟเปลี่ยนเป็นอ่อนแอตั้งแต่ 20 พ.ย.: ราคาอยู่ใต้ EMA ทั้งสามเส้น MACD ตัดลง และแรงขายมาพร้อมวอลุ่มสูง ตัวจุดชนวนเป็นปัจจัยมหภาคและการเมือง แรงกดดันแบบนี้อาจลากยาวได้แม้งบจะดี คำขู่เรื่องภาษีดาต้าเซ็นเตอร์นอกประเทศยังคลุมเครือ แต่สำคัญกับบริษัทสหรัฐฯ ที่มีศูนย์ข้อมูลในต่างประเทศจำนวนมาก ถ้ามีข้อเสนอที่เป็นรูปธรรมจะเป็นความเสี่ยงจริง นอกจากนี้ Equinix ใช้เงินลงทุนสูง ($5–6B ในปี 2026) และในฐานะ REIT ยังอ่อนไหวต่อดอกเบี้ย ถ้าแหล่งทุนตึงตัวหรือบอนด์ยีลด์ขึ้น จะกดดันราคาหุ้น",
+               "opportunity":  "แรงขายวันที่ 20 พ.ย. ไม่ได้มาจากตัว Equinix เลย ตัวเลขล่าสุดของบริษัท (28 ต.ค.) แข็งแกร่ง ทั้งยอดจองทำสถิติ ราคาสัญญาใหม่สูงขึ้น 12% และปรับประมาณการขึ้นเป็นครั้งที่สาม ถ้าการเทขายครั้งนี้มาจากอารมณ์ตลาดเป็นหลัก ช่องว่างระหว่างราคาหุ้นกับพื้นฐานก็กว้างขึ้น ตอนนี้ราคาอยู่ที่ขอบล่าง Bollinger Band, RSI ราว 39 และราคาเป้าหมายของนักวิเคราะห์ยังสูงกว่าราคาปัจจุบันมาก Inference Exchange และ Fabric One จะเพิ่มผลิตภัณฑ์ที่เกี่ยวกับ AI ในปี 2027 สิ่งที่ผู้ถือระยะยาวควรติดตามคือยอดจอง Q4 ซึ่งทำได้แล้ว 60% ของเป้าตั้งแต่ปลายเดือนตุลาคม จะไปถึงเป้าหรือไม่",
+               "risks":  [
+                             "นโยบายสหรัฐฯ: ภาษีหรือบทลงโทษดาต้าเซ็นเตอร์ AI นอกประเทศของบริษัทสหรัฐฯ (ขู่ไว้เมื่อ 20 พ.ย.) อาจกระทบการขยายธุรกิจในต่างประเทศ",
+                             "อารมณ์ตลาดต่อ AI: ถ้าหุ้นกลุ่ม AI ถูกเทขายยาวนาน มูลค่าของ REIT ดาต้าเซ็นเตอร์อาจถูกกดลง แม้ยอดจองจะยังแข็งแรง",
+                             "ไฟฟ้าและใบอนุญาต: ผู้บริหารระบุว่าปริมาณไฟฟ้า กฎหมาย และการต่อต้านจากชุมชน เป็นแรงต้านของทั้งอุตสาหกรรม",
+                             "การดำเนินงาน: Inference Exchange และ Fabric One ยังอยู่ในช่วงทดสอบ และยังไม่เปิดเผยราคา",
+                             "เงินทุน: งบลงทุนปี 2026 ราว $5–6B และเงินที่ผูกพันในดีล atNorth สูงสุด $963M ต้องอาศัยต้นทุนเงินที่ไม่แพง"
+                         ]
+           },
+    "sources":  [
+                    {
+                        "title":  "Equinix Reports Third-Quarter Results and Raises 2026 Guidance",
+                        "publisher":  "Equinix Newsroom",
+                        "url":  "https://newsroom.equinix.com/2026-10-28-Equinix-Reports-Third-Quarter-Results-and-Raises-2026-Guidance",
+                        "date":  "2026-10-28"
+                    },
+                    {
+                        "title":  "Equinix (EQIX) Q3 2026 Earnings Call Transcript",
+                        "publisher":  "The Motley Fool",
+                        "url":  "https://www.fool.com/earnings/call-transcripts/2026/10/29/equinix-eqix-q3-2026-earnings-call-transcript/",
+                        "date":  "2026-10-29"
+                    },
+                    {
+                        "title":  "Citigroup Issues Positive Forecast for Equinix (NASDAQ:EQIX) Stock Price",
+                        "publisher":  "MarketBeat",
+                        "url":  "https://www.marketbeat.com/instant-alerts/analyst-citigroup-issues-positive-forecast-for-equinix-nasdaq-eqix-stock-price-2026-10-29/",
+                        "date":  "2026-10-29"
+                    },
+                    {
+                        "title":  "BMO raises Equinix stock price target on strong demand and pricing",
+                        "publisher":  "Investing.com",
+                        "url":  "https://www.investing.com/news/analyst-ratings/bmo-raises-equinix-stock-price-target-on-strong-demand-and-pricing-93CH-4990566",
+                        "date":  "2026-11-02"
+                    },
+                    {
+                        "title":  "Trump\u0027s surprise data-center threat sends major tech and infrastructure stocks lower",
+                        "publisher":  "Latin Times",
+                        "url":  "https://www.latintimes.com/trump-ai-data-centers-overseas-tax-threat-601669",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "Nasdaq wipes out gains for the year as Anthropic IPO fails to quell AI nerves",
+                        "publisher":  "CNN",
+                        "url":  "https://www.cnn.com/2026/11/20/investing/us-stocks-anthropic-ai",
+                        "date":  "2026-11-20"
+                    },
+                    {
+                        "title":  "A Look at Equinix Inc (EQIX) After 4.9% Decline -- GF Value $988.36 vs Price $968.22",
+                        "publisher":  "GuruFocus",
+                        "url":  "https://www.gurufocus.com/news/9213426/a-look-at-equinix-inc-eqix-after-49-decline-gf-value-98836-vs-price-96822",
+                        "date":  "2026-11-20"
+                    }
+                ]
+}

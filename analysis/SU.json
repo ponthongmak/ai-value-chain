@@ -1,0 +1,764 @@
+{
+    "ticker":  "SU",
+    "name":  "Schneider Electric",
+    "symbol":  "EURONEXT:SU",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-23T05:55:42Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "watch",
+    "indicators":  {
+                       "symbol":  "EURONEXT:SU",
+                       "yahoo":  "SU.PA",
+                       "currency":  "EUR",
+                       "asOf":  "2026-11-20",
+                       "fetchedAt":  "2026-11-23T05:50:42Z",
+                       "price":  226.55,
+                       "open":  229.6,
+                       "high":  230.2,
+                       "low":  225.65,
+                       "volume":  1412186,
+                       "avgVolume20":  1196985,
+                       "changePct":  -3.7,
+                       "historyDays":  511,
+                       "ema50":  253.54,
+                       "ema100":  262.88,
+                       "ema200":  263.06,
+                       "bb":  {
+                                  "upper":  249.63,
+                                  "middle":  237.82,
+                                  "lower":  226.02
+                              },
+                       "macd":  {
+                                    "macd":  -6.16,
+                                    "signal":  -6.99,
+                                    "hist":  0.83
+                                },
+                       "rsi14":  34.89,
+                       "high52w":  312.3,
+                       "low52w":  223.45,
+                       "spark":  [
+                                     [
+                                         "2026-06-08",
+                                         270.5
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         263.45
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         257.7
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         264.3
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         265.3
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         270.15
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         276.95
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         282.75
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         291
+                                     ],
+                                     [
+                                         "2026-06-19",
+                                         289.25
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         292.75
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         279.5
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         280.5
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         279.55
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         276.05
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         278.1
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         285.4
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         276.65
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         275.9
+                                     ],
+                                     [
+                                         "2026-07-03",
+                                         280.1
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         278.35
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         268
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         263.8
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         270
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         269.65
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         268.55
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         273.1
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         270.15
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         264.35
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         262.45
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         264.7
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         268.8
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         269
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         265.4
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         268.05
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         265.6
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         262
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         256.8
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         284.6
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         289.6
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         290.1
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         299.25
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         300.4
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         300.6
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         303.7
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         302.25
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         305.75
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         311
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         309.25
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         306.4
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         308.75
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         295.1
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         294
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         294.3
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         296.8
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         291.8
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         296.25
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         299.2
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         297.55
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         301.75
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         294.6
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         288.2
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         286.75
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         287.35
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         288
+                                     ],
+                                     [
+                                         "2026-09-07",
+                                         295.5
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         299.6
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         289.7
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         287.4
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         291.1
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         272.05
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         275.3
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         279.4
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         287.1
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         285.75
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         295
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         295
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         293.35
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         289.8
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         291
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         290.5
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         296.35
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         292
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         292.6
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         303
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         272.8
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         260.5
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         254.55
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         261.1
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         266.4
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         265.35
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         264.4
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         264.4
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         258
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         253.3
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         252.6
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         244.3
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         249.1
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         235.75
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         231.4
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         235.7
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         242.7
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         246.2
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         247.6
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         237.5
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         240.45
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         239.75
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         231.55
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         227.85
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         228.65
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         234.4
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         235.35
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         242.5
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         244.8
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         243.45
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         241.55
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         236.6
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         238.05
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         235.25
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         226.55
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          266.66,
+                                          266.54,
+                                          266.19,
+                                          266.12,
+                                          266.08,
+                                          266.24,
+                                          266.66,
+                                          267.29,
+                                          268.22,
+                                          269.05,
+                                          269.98,
+                                          270.35,
+                                          270.75,
+                                          271.09,
+                                          271.29,
+                                          271.56,
+                                          272.1,
+                                          272.28,
+                                          272.42,
+                                          272.72,
+                                          272.94,
+                                          272.75,
+                                          272.4,
+                                          272.3,
+                                          272.2,
+                                          272.06,
+                                          272.1,
+                                          272.02,
+                                          271.72,
+                                          271.36,
+                                          271.09,
+                                          271,
+                                          270.93,
+                                          270.71,
+                                          270.6,
+                                          270.41,
+                                          270.08,
+                                          269.56,
+                                          270.15,
+                                          270.91,
+                                          271.66,
+                                          272.75,
+                                          273.83,
+                                          274.88,
+                                          276.01,
+                                          277.04,
+                                          278.16,
+                                          279.45,
+                                          280.62,
+                                          281.63,
+                                          282.7,
+                                          283.18,
+                                          283.61,
+                                          284.03,
+                                          284.53,
+                                          284.81,
+                                          285.26,
+                                          285.81,
+                                          286.27,
+                                          286.87,
+                                          287.18,
+                                          287.22,
+                                          287.2,
+                                          287.21,
+                                          287.24,
+                                          287.56,
+                                          288.03,
+                                          288.1,
+                                          288.07,
+                                          288.19,
+                                          287.56,
+                                          287.08,
+                                          286.77,
+                                          286.79,
+                                          286.75,
+                                          287.07,
+                                          287.38,
+                                          287.62,
+                                          287.7,
+                                          287.83,
+                                          287.94,
+                                          288.27,
+                                          288.41,
+                                          288.58,
+                                          289.14,
+                                          288.5,
+                                          287.4,
+                                          286.11,
+                                          285.13,
+                                          284.4,
+                                          283.65,
+                                          282.9,
+                                          282.17,
+                                          281.22,
+                                          280.13,
+                                          279.05,
+                                          277.69,
+                                          276.57,
+                                          274.96,
+                                          273.26,
+                                          271.78,
+                                          270.64,
+                                          269.68,
+                                          268.82,
+                                          267.59,
+                                          266.53,
+                                          265.48,
+                                          264.15,
+                                          262.72,
+                                          261.39,
+                                          260.33,
+                                          259.35,
+                                          258.69,
+                                          258.14,
+                                          257.57,
+                                          256.94,
+                                          256.14,
+                                          255.43,
+                                          254.64,
+                                          253.54
+                                      ]
+                   },
+    "en":  {
+               "caution":  "The sell-off from October\u0027s highs reflects real fundamental uncertainty, not just noise. Investors are repricing a balance sheet absorbing roughly EUR 6.0 billion in euro bonds (November 2) and US$10 billion in 5.7%-coupon dollar bonds (November 18) alongside EUR 6.0 billion in equity dilution to buy PTC at a 42.3% premium. S\u0026P expects FFO-to-debt to dip to 28%–30% in 2027. With shares hovering at EUR 226.55—just above EUR 223.45 support—any stumble in data-center orders or PTC regulatory clearance could test fresh 52-week lows.",
+               "cons":  [
+                            "The $22.6 billion PTC deal (42.3% premium) triggered EUR 6.0 billion in equity dilution at EUR 240 on October 20 plus EUR 6.0 billion in euro bonds and US$10 billion in dollar bonds.",
+                            "Shares trade at EUR 226.55—below the EUR 240 placement price and all three major EMAs—sitting just 1.4% above the EUR 223.45 52-week low.",
+                            "J.P. Morgan downgraded SU to Neutral on October 6 (cutting its target from EUR 345 to EUR 310), flagging valuation overhang and software-sector disruption worries.",
+                            "Closing is not expected until Q3 2027, leaving nearly a year of regulatory, financing-cost (5.7% average USD bond coupon), and AVEVA-PTC integration uncertainty."
+                        ],
+               "fundamental":  "Operationally, Schneider Electric\u0027s AI infrastructure engine is accelerating. Q3 2026 revenue hit a record EUR 11.46 billion (+16.9% organic), driven by Energy Management (+18.8% organic to EUR 9.62 billion) and triple-digit Data Center \u0026 Networks demand across North America (+20%) and China \u0026 East Asia (+26%). Industrial Automation added EUR 1.85 billion (+8.1% organic). Management raised FY2026 targets to +12%–14% organic revenue growth and +18%–21% organic adjusted EBITA growth, implying a 19.7%–19.9% margin. Strategically, Schneider spans grid-to-chip power distribution, Motivair liquid cooling for 500kW-class AI racks, and an October 21 NVIDIA-HPE Physical AI edge alliance. Yet capital allocation now dominates the debate: funding the $22.6 billion PTC software deal (plus the EUR 1.2 billion Shelly Group offer) with EUR 6.0 billion in equity and over EUR 15 billion equivalent in new euro and dollar bonds temporarily lifts leverage through 2027.",
+               "headline":  "Record AI data-center growth overshadowed by $22.6B PTC deal financing",
+               "news":  [
+                            "Nov 20, 2026: Schneider Electric shares dropped 3.7% to EUR 226.55 on above-average volume amid a broader European tech and AI-infrastructure sell-off, leaving the stock below its EUR 240 October equity placement price.",
+                            "Nov 18, 2026: Schneider Electric priced a US$10 billion eight-tranche senior USD bond offering (averaging 10.2-year maturity and 5.7% coupon), completing the bulk of permanent debt financing for its PTC acquisition.",
+                            "Nov 2, 2026: The company completed a EUR 6.0 billion six-tranche senior Euro bond issuance under its EMTN program (average 8.2-year maturity, ~4.3% coupon) to refinance part of its EUR 22 billion PTC bridge facility.",
+                            "Oct 21, 2026: Schneider Electric, NVIDIA, and HPE announced a strategic collaboration to deploy edge-based \"Physical AI\" agents on HPE Private Cloud AI for process industries.",
+                            "Oct 20, 2026: Schneider Electric completed a EUR 6.0 billion accelerated equity placement of 25 million new shares at EUR 240 per share (~5.0% discount) to partially fund the PTC purchase.",
+                            "Oct 16, 2026: Q3 2026 revenue reached a record EUR 11.46 billion (+16.9% organic) on triple-digit Data Center demand, prompting management to upgrade FY2026 organic revenue growth guidance to +12%–14% and adjusted EBITA growth to +18%–21%.",
+                            "Oct 5–6, 2026: Schneider agreed to buy U.S. industrial software firm PTC for $22.6 billion ($205/share cash, 42.3% premium, closing expected by Q3 2027); J.P. Morgan downgraded SU to Neutral (target EUR 310), while S\u0026P affirmed its \u0027A/A-1\u0027 rating with a stable outlook."
+                        ],
+               "opportunity":  "For long-term AI-infrastructure investors, the market\u0027s M\u0026A skepticism has pulled shares 27.5% below their EUR 312.30 peak even as core data-center demand grows at triple-digit rates and FY2026 operating margins expand toward 19.7%–19.9%. Schneider\u0027s installed base in electrical switchgear, UPS, and Motivair direct-to-chip liquid cooling remains deeply embedded in hyperscale and on-premises AI buildouts, reinforced by its NVIDIA and HPE partnerships. If management delivers its targeted EUR 250 million cost and EUR 800 million revenue synergies from PTC while deleveraging by 2028, sentiment could eventually refocus on earnings power.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile looks broadly sensible, with strong positioning and solid pricing power confirmed by triple-digit data-center demand and FY2026 margin expansion guidance. However, I would nudge AI revenue exposure slightly higher because Data Center \u0026 Networks already accounts for roughly 30% of group order exposure, though PTC\u0027s CAD/PLM software will modestly dilute that percentage after closing. I would also lift optionality slightly: pairing Motivair liquid cooling, the NVIDIA-HPE Physical AI alliance, and PTC\u0027s digital-thread software expands Schneider\u0027s industrial AI flywheel, even if near-term integration risk caps further upside for now.",
+               "pros":  [
+                            "Record Q3 2026 revenue reached EUR 11.46 billion (+16.9% organic), led by Energy Management (+18.8%) and triple-digit Data Center \u0026 Networks demand.",
+                            "Management upgraded FY2026 guidance on October 16 to +12%–14% organic sales growth and +18%–21% organic adjusted EBITA growth, targeting 19.7%–19.9% margins.",
+                            "Motivair liquid cooling and the October 21 NVIDIA and HPE Physical AI alliance strengthen Schneider\u0027s grid-to-chip positioning for high-density AI racks.",
+                            "S\u0026P Global affirmed Schneider\u0027s \u0027A/A-1\u0027 credit rating with a stable outlook on October 6, expecting deleveraging back toward 40% FFO-to-debt by 2028."
+                        ],
+               "risks":  [
+                             "Higher leverage and interest burden after issuing EUR 6.0 billion in euro bonds (~4.3% coupon) and US$10 billion in USD bonds (5.7% coupon) to fund PTC.",
+                             "Execution, regulatory, and integration risk across the $22.6 billion PTC takeover (expected Q3 2027 close) alongside AVEVA and the EUR 1.2 billion Shelly Group offer.",
+                             "Risk that AI-driven software disruption or slower CAD/PLM growth erodes returns on the 42.3% premium paid for PTC.",
+                             "Potential moderation in hyperscaler AI data-center capex or high European energy costs delaying regional data-center buildouts."
+                         ],
+               "summary":  "Schneider Electric (SU) closed at EUR 226.55 on November 20, 2026—down 3.7% on the day and 27.5% below its 52-week high—as investors digested massive financing for its October 5, $22.6 billion all-cash agreement to acquire industrial software firm PTC. Despite record Q3 2026 revenue of EUR 11.46 billion (+16.9% organic), triple-digit Data Center demand, and upgraded FY2026 guidance on October 16, a EUR 6.0 billion share placement at EUR 240 (October 20) plus EUR 6.0 billion in euro bonds (November 2) and US$10 billion in dollar bonds (November 18) keep technicals bearish near 52-week lows.",
+               "technical":  "Schneider Electric\u0027s chart is decisively bearish as of November 20, 2026. At EUR 226.55 (-3.7% on the day), price sits well below all three exponential moving averages (EMAs, which track average trend prices): EMA 50 (EUR 253.54), EMA 100 (EUR 262.88), and EMA 200 (EUR 263.06). The full bearish stack—with EMA 100 slipping just beneath EMA 200—confirms a medium- and long-term downtrend. On volatility, shares closed right on the lower Bollinger Band (EUR 226.02, a 20-day volatility envelope around the EUR 237.82 middle band) and sit 27.5% below the EUR 312.30 52-week high, barely 1.4% above key 52-week low support at EUR 223.45. Momentum gauges show heavy pressure: RSI 14 (a 0–100 momentum gauge; under 30 is oversold) sits at 34.89, nearing oversold territory. MACD (12/26/9, a trend-momentum oscillator) remains deeply negative at -6.16, though slightly above its -6.99 signal line (+0.83 histogram), hinting earlier selling had paused before November 20\u0027s renewed drop. Volume of 1.41 million shares ran 18% above the 1.20 million 20-day average, confirming active distribution. Immediate support is EUR 223.45; overhead resistance sits at EUR 237.82, the EUR 240.00 placement price, and EUR 253.54."
+           },
+    "th":  {
+               "caution":  "การปรับตัวลงจากจุดสูงสุดเดือนตุลาคมไม่ใช่แค่ความผันผวนชั่วคราว แต่สะท้อนความเสี่ยงจริงด้านงบดุลและการจัดสรรเงินทุน หลังบริษัทต้องแบกรับหุ้นกู้ยูโร EUR 6.0 พันล้าน (2 พ.ย.) หุ้นกู้ดอลลาร์ US$10 พันล้านดอกเบี้ยเฉลี่ย 5.7% (18 พ.ย.) และการเพิ่มทุน EUR 6.0 พันล้าน เพื่อซื้อ PTC ในราคาพรีเมียมถึง 42.3% โดย S\u0026P คาดว่าสัดส่วน FFO-to-debt จะลดลงชั่วคราวสู่ 28%–30% ในปี 2027 ด้วยราคาหุ้นที่อยู่ใกล้แนวรับ EUR 223.45 หากคำสั่งซื้อ Data Center ชะลอหรือดีล PTC ติดขัดด้านกฎระเบียบ ราคาอาจเสี่ยงทำจุดต่ำสุดใหม่",
+               "cons":  [
+                            "ดีลซื้อ PTC มูลค่า $22.6 พันล้าน (จ่ายพรีเมียม 42.3%) ทำให้บริษัทต้องเพิ่มทุน EUR 6.0 พันล้านที่ EUR 240 เมื่อ 20 ต.ค. และก่อหนี้หุ้นกู้เพิ่มอีก EUR 6.0 พันล้านกับ US$10 พันล้าน",
+                            "ราคาหุ้น EUR 226.55 หลุดต่ำกว่าราคาเพิ่มทุน EUR 240 และอยู่ใต้เส้น EMA ทั้งสามเส้น โดยอยู่เหนือจุดต่ำสุดรอบ 52 สัปดาห์ที่ EUR 223.45 เพียง 1.4%",
+                            "J.P. Morgan ปรับลดคำแนะนำเป็น Neutral เมื่อ 6 ต.ค. (ลดเป้าหมายจาก EUR 345 เหลือ EUR 310) จากความกังวลด้านมูลค่าหุ้นและความเสี่ยงที่ AI อาจดิสรัปต์ซอฟต์แวร์อุตสาหกรรม",
+                            "ดีล PTC คาดว่าจะปิดได้ราว Q3 2027 ทำให้ตลาดยังต้องเผชิญความไม่แน่นอนด้านกฎระเบียบ ดอกเบี้ยจ่าย (หุ้นกู้ USD เฉลี่ย 5.7%) และการควบรวมกับ AVEVA ไปอีกเกือบหนึ่งปี"
+                        ],
+               "fundamental":  "ด้านพื้นฐาน ธุรกิจโครงสร้างพื้นฐาน AI ของ Schneider Electric กำลังเร่งตัวชัดเจน โดยรายได้ Q3 2026 ทำสถิติใหม่ EUR 11.46 พันล้าน (+16.9% organic) จากกลุ่ม Energy Management (+18.8% เป็น EUR 9.62 พันล้าน) ที่ได้แรงหนุนจากดีมานด์ Data Center \u0026 Networks โตระดับเลขสามหลักทั้งในอเมริกาเหนือ (+20%) และจีน-เอเชียตะวันออก (+26%) ขณะที่ Industrial Automation โต +8.1% เป็น EUR 1.85 พันล้าน บริษัทจึงปรับเพิ่มเป้าปี 2026 เป็นรายได้โต +12%–14% และ Adjusted EBITA โต +18%–21% organic (มาร์จิน 19.7%–19.9%) ผสานจุดแข็งระบบไฟฟ้า ระบบหล่อเย็นของเหลว Motivair สำหรับแร็ค AI 500kW+ และพันธมิตร Physical AI กับ NVIDIA และ HPE ทว่าประเด็นหลักที่ตลาดกังวลคือการจัดสรรเงินทุน หลังบริษัททุ่มซื้อ PTC มูลค่า $22.6 พันล้าน (รวมถึงดีล Shelly Group EUR 1.2 พันล้าน) ด้วยการเพิ่มทุน EUR 6.0 พันล้านและออกหุ้นกู้ใหม่กว่า EUR 15 พันล้านเทียบเท่า ซึ่งจะกดดันงบดุลไปจนถึงปี 2027",
+               "headline":  "รายได้ Data Center โตแรงทุบสถิติ แต่ดีล PTC $22.6B กดดันราคาหุ้น",
+               "news":  [
+                            "20 พ.ย. 2026: หุ้น Schneider Electric ร่วง 3.7% ปิดที่ EUR 226.55 ด้วยวอลุ่มสูงกว่าค่าเฉลี่ย ท่ามกลางแรงเทขายหุ้นเทคโนโลยีและโครงสร้างพื้นฐาน AI ในยุโรป ทำให้ราคาหลุดต่ำกว่าราคาเพิ่มทุนเดือนตุลาคมที่ EUR 240",
+                            "18 พ.ย. 2026: บริษัทกำหนดราคาขายหุ้นกู้สกุลเงินดอลลาร์สหรัฐ 8 ชุด มูลค่ารวม US$10 พันล้าน (อายุเฉลี่ย 10.2 ปี ดอกเบี้ยเฉลี่ย 5.7%) เพื่อระดมทุนก้อนหลักสำหรับดีลซื้อ PTC",
+                            "2 พ.ย. 2026: บริษัทออกหุ้นกู้สกุลเงินยูโร 6 ชุด มูลค่า EUR 6.0 พันล้าน ภายใต้โครงการ EMTN (อายุเฉลี่ย 8.2 ปี ดอกเบี้ยเฉลี่ยราว 4.3%) เพื่อรีไฟแนนซ์เงินกู้ระยะสั้นบางส่วนของดีล PTC",
+                            "21 ต.ค. 2026: Schneider Electric, NVIDIA และ HPE ประกาศความร่วมมือเชิงกลยุทธ์เพื่อพัฒนาโซลูชัน \"Physical AI\" แบบ Edge AI บน HPE Private Cloud AI สำหรับอุตสาหกรรมกระบวนการผลิต",
+                            "20 ต.ค. 2026: บริษัทปิดการเพิ่มทุนแบบเฉพาะเจาะจง (accelerated bookbuild) มูลค่า EUR 6.0 พันล้าน ออกหุ้นใหม่ 25 ล้านหุ้นที่ราคา EUR 240 ต่อหุ้น (ส่วนลดราว 5.0%) เพื่อสนับสนุนดีล PTC",
+                            "16 ต.ค. 2026: ประกาศรายได้ Q3 2026 สูงสุดเป็นประวัติการณ์ที่ EUR 11.46 พันล้าน (+16.9% organic) จากดีมานด์ Data Center โตเลขสามหลัก พร้อมปรับเพิ่มเป้ารายได้ organic ปี 2026 เป็น +12%–14% และ Adjusted EBITA เป็น +18%–21%",
+                            "5–6 ต.ค. 2026: ประกาศข้อตกลงซื้อกิจการ PTC ด้วยเงินสด $22.6 พันล้าน ($205/หุ้น พรีเมียม 42.3% คาดปิดดีลภายใน Q3 2027) ส่งผลให้ J.P. Morgan ปรับลดคำแนะนำเป็น Neutral (เป้า EUR 310) ขณะที่ S\u0026P คงเครดิต \u0027A/A-1\u0027 แนวโน้มมีเสถียรภาพ"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI ความกังวลต่อดีลควบรวมได้กดราคาหุ้นลงมาต่ำกว่าจุดสูงสุดที่ EUR 312.30 ถึง 27.5% ทั้งที่ธุรกิจหลักด้าน Data Center ยังโตระดับเลขสามหลักและอัตรากำไรจากการดำเนินงานปี 2026 ขยายสู่ 19.7%–19.9% ฐานติดตั้งเดิมในอุปกรณ์สวิตช์เกียร์ ระบบสำรองไฟ UPS และระบบหล่อเย็น Motivair ยังเป็นหัวใจสำคัญของ Data Center ทั้งแบบ Hyperscale และ On-premises เสริมด้วยพันธมิตร NVIDIA และ HPE หากผู้บริหารสร้าง Synergy จาก PTC ได้ตามเป้า (ลดต้นทุน EUR 250 ล้าน เพิ่มรายได้ EUR 800 ล้าน) และลดหนี้ได้ภายในปี 2028 ตลาดอาจกลับมาให้มูลค่ากับพลังการทำกำไรอีกครั้ง",
+               "opportunityCheck":  "คะแนนโอกาสด้าน AI บนหน้าเว็บโดยรวมถือว่าสมเหตุสมผล โดยเฉพาะจุดยืนในตลาดและอำนาจการกำหนดราคาที่สะท้อนผ่านดีมานด์ Data Center โตระดับเลขสามหลักและการขยายตัวของมาร์จินปี 2026 อย่างไรก็ตาม ควรขยับคะแนนสัดส่วนรายได้ AI ขึ้นเล็กน้อยเพราะกลุ่ม Data Center \u0026 Networks คิดเป็นราว 30% ของคำสั่งซื้อรวมแล้ว แม้ดีล PTC จะทำให้สัดส่วนดังกล่าวเจือจางลงบ้างหลังปิดดีล และอาจเพิ่มคะแนน optionality ขึ้นเล็กน้อยจากการผสาน Motivair, พันธมิตร NVIDIA-HPE และซอฟต์แวร์ PTC สู่ระบบนิเวศ Physical AI แต่ยังไม่ควรปรับขึ้นมากจนกว่าจะเห็นความคืบหน้าในการควบรวม",
+               "pros":  [
+                            "รายได้ Q3 2026 ทำสถิติใหม่ EUR 11.46 พันล้าน (+16.9% organic) นำโดยกลุ่ม Energy Management (+18.8%) และคำสั่งซื้อ Data Center \u0026 Networks ที่โตระดับเลขสามหลัก",
+                            "ผู้บริหารปรับเพิ่มเป้าหมายปี 2026 เมื่อ 16 ต.ค. เป็นรายได้โต +12%–14% organic และ Adjusted EBITA โต +18%–21% organic พร้อมมาร์จิน 19.7%–19.9%",
+                            "ระบบระบายความร้อนด้วยของเหลว Motivair และความร่วมมือ Physical AI กับ NVIDIA และ HPE (21 ต.ค.) เสริมจุดแข็งโครงสร้างพื้นฐานตั้งแต่ระบบไฟจนถึงแร็ค AI ความหนาแน่นสูง",
+                            "S\u0026P Global คงอันดับเครดิต \u0027A/A-1\u0027 แนวโน้มมีเสถียรภาพเมื่อ 6 ต.ค. โดยคาดว่ากระแสเงินสดที่แข็งแกร่งจะช่วยลดภาระหนี้กลับสู่ระดับ FFO-to-debt ราว 40% ภายในปี 2028"
+                        ],
+               "risks":  [
+                             "ภาระหนี้และดอกเบี้ยจ่ายที่สูงขึ้นหลังออกหุ้นกู้ยูโร EUR 6.0 พันล้าน (ดอกเบี้ยราว 4.3%) และหุ้นกู้ดอลลาร์ US$10 พันล้าน (ดอกเบี้ยเฉลี่ย 5.7%) เพื่อซื้อ PTC",
+                             "ความเสี่ยงด้านการอนุมัติจากหน่วยงานกำกับดูแลและการควบรวมดีล PTC มูลค่า $22.6 พันล้าน (ปิดดีล Q3 2027) เข้ากับ AVEVA รวมถึงดีล Shelly Group มูลค่า EUR 1.2 พันล้าน",
+                             "ความเสี่ยงที่การเปลี่ยนแปลงจาก AI หรือการเติบโตที่ชะลอลงในตลาดซอฟต์แวร์ CAD/PLM จะทำให้ผลตอบแทนจากราคาพรีเมียม 42.3% ไม่คุ้มค่า",
+                             "ความเสี่ยงที่งบลงทุน AI Data Center ของกลุ่ม Hyperscaler จะชะลอตัว หรือต้นทุนพลังงานที่สูงในยุโรปจะทำให้โครงการ Data Center ในภูมิภาคล่าช้า"
+                         ],
+               "summary":  "หุ้น Schneider Electric (SU) ปิดที่ EUR 226.55 เมื่อ 20 พ.ย. 2026 (-3.7% ในวันเดียว และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ถึง 27.5%) จากแรงกดดันเรื่องการจัดหาเงินทุนครั้งใหญ่เพื่อซื้อกิจการซอฟต์แวร์อุตสาหกรรม PTC มูลค่า $22.6 พันล้าน (ประกาศ 5 ต.ค.) แม้งบ Q3 2026 วันที่ 16 ต.ค. จะทำรายได้สูงสุดเป็นประวัติการณ์ EUR 11.46 พันล้าน (+16.9% organic) จากดีมานด์ Data Center ที่โตระดับเลขสามหลักพร้อมปรับเพิ่มเป้าทั้งปี 2026 แต่การเพิ่มทุน EUR 6.0 พันล้านที่ราคา EUR 240 (20 ต.ค.) และการออกหุ้นกู้ EUR 6.0 พันล้าน (2 พ.ย.) กับ US$10 พันล้าน (18 พ.ย.) ทำให้ภาพเทคนิคยังเป็นขาลงใกล้จุดต่ำสุดรอบปี",
+               "technical":  "ภาพเทคนิคของ Schneider Electric ณ วันที่ 20 พ.ย. 2026 อยู่ในแนวโน้มขาลงชัดเจน ราคาปิดที่ EUR 226.55 (-3.7%) อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA ซึ่งสะท้อนต้นทุนเฉลี่ยของแนวโน้ม) ทั้งสามเส้น ได้แก่ EMA 50 (EUR 253.54), EMA 100 (EUR 262.88) และ EMA 200 (EUR 263.06) โดย EMA 100 เพิ่งตัดลงต่ำกว่า EMA 200 เล็กน้อย ตอกย้ำโครงสร้างขาลงระยะกลางถึงยาว ด้านความผันผวน ราคาลงมาเกาะขอบล่างของ Bollinger Bands (กรอบความผันผวน 20 วัน ที่ EUR 226.02 เทียบเส้นกลาง EUR 237.82) และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ (EUR 312.30) ถึง 27.5% เหลือระยะห่างเหนือแนวรับจุดต่ำสุดรอบปีที่ EUR 223.45 เพียง 1.4% ด้านโมเมนตัม RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 34.89 ใกล้เขตขายมากเกินไป ส่วน MACD (12/26/9 ตัววัดแนวโน้มและโมเมนตัม) ยังติดลบหนักที่ -6.16 แม้จะอยู่เหนือเส้นสัญญาณ -6.99 เล็กน้อย (histogram +0.83) สะท้อนว่าแรงขายที่เคยชะลอกลับมาเร่งตัวอีกครั้งในวันที่ 20 พ.ย. พร้อมปริมาณซื้อขาย 1.41 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 1.20 ล้านหุ้นถึง 18% แนวรับสำคัญคือ EUR 223.45 ส่วนแนวต้านอยู่ที่ EUR 237.82, ราคาเพิ่มทุน EUR 240.00 และ EMA 50 ที่ EUR 253.54"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-11-18",
+                        "publisher":  "Schneider Electric",
+                        "title":  "Successful pricing of US$ 10 billion of bonds as part of the financing of the PTC acquisition",
+                        "url":  "https://www.se.com/ww/en/about-us/newsroom/news/financial-releases-and-regulated-information/successful-pricing-of-us-10-billion-of-bonds-as-part-of-the-financing-of-the-ptc-acquisition-1383569"
+                    },
+                    {
+                        "date":  "2026-10-21",
+                        "publisher":  "Schneider Electric",
+                        "title":  "Schneider Electric, NVIDIA \u0026 HPE announce strategic collaboration to accelerate Physical AI for Process Industries",
+                        "url":  "https://www.se.com/ww/en/about-us/newsroom/news/schneider-electric-nvidia-hpe-announce-strategic-collaboration-to-accelerate-physical-ai-for-process-industries-619728"
+                    },
+                    {
+                        "date":  "2026-10-20",
+                        "publisher":  "Schneider Electric",
+                        "title":  "Schneider Electric announces the success of its €6.0 billion capital increase, without shareholders\u0027 preferential subscription rights, to partially finance the acquisition of PTC Inc.",
+                        "url":  "https://www.se.com/ww/en/about-us/newsroom/news/information-on-6.0-billion-capital-increase-via-private-placement-60481105"
+                    },
+                    {
+                        "date":  "2026-10-16",
+                        "publisher":  "Schneider Electric",
+                        "title":  "Schneider Electric Q3 2026 Revenues (Financial Results Portal)",
+                        "url":  "https://www.se.com/ww/en/about-us/investor-relations/financial-results/"
+                    },
+                    {
+                        "date":  "2026-10-06",
+                        "publisher":  "S\u0026P Global Ratings",
+                        "title":  "Schneider Electric S.E. \u0027A/A-1\u0027 Ratings Affirmed",
+                        "url":  "https://www.spglobal.com/ratings/en/regulatory/article/-/out/id/10182604"
+                    },
+                    {
+                        "date":  "2026-10-06",
+                        "publisher":  "Investing.com",
+                        "title":  "Schneider Electric slides as J.P. Morgan sees PTC deal weighing on valuation",
+                        "url":  "https://www.investing.com/news/stock-market-news/schneider-electric-slides-as-jp-morgan-sees-ptc-deal-weighing-on-valuation-932CH-4552156"
+                    },
+                    {
+                        "date":  "2026-10-05",
+                        "publisher":  "PTC",
+                        "title":  "Schneider Electric to Acquire PTC",
+                        "url":  "https://investors.ptc.com/news-releases/news-release-details/schneider-electric-acquire-ptc"
+                    }
+                ]
+}
