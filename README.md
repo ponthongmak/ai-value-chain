@@ -1,6 +1,6 @@
 # AI Value Chain Map
 
-A research map of the AI value chain: 7 layers (power → chips → servers → data centers → models → platforms → applications), 55 listed companies, multi-year trend scores, layer news and AI analyses. English and Thai.
+A research map of the AI value chain: 7 layers (power → chips → servers → data centers → models → platforms → applications), 133 US-listed companies, multi-year trend scores, layer news and AI analyses. English and Thai.
 
 **Live site:** https://ponthongmak.github.io/ai-value-chain/
 
@@ -42,7 +42,7 @@ Browsers: Chrome or Edge. Safari may block a website from talking to `localhost`
 More detail: [AI-ANALYSIS.md](AI-ANALYSIS.md).
 
 ## ภาษาไทย (ย่อ)
-แผนที่ห่วงโซ่คุณค่า AI 7 ชั้น 55 บริษัท พร้อมคะแนนจากแนวโน้มหลายปี ข่าวรายชั้น และบทวิเคราะห์ AI เว็บไซต์เปิดให้อ่านได้ทุกคน
+แผนที่ห่วงโซ่คุณค่า AI 7 ชั้น 133 บริษัทที่จดทะเบียนในสหรัฐฯ พร้อมคะแนนจากแนวโน้มหลายปี ข่าวรายชั้น และบทวิเคราะห์ AI เว็บไซต์เปิดให้อ่านได้ทุกคน
 
 ถ้าต้องการใช้ AI ด้วยบัญชีของคุณเอง:
 1. ติดตั้ง Claude Code, Codex หรือ Antigravity

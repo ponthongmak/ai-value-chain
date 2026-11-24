@@ -5,135 +5,9 @@
     "model":  "gemini-4-neon-high",
     "effort":  "high",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-24T04:59:49Z",
+    "generatedAt":  "2026-11-24T16:32:23Z",
     "costUsd":  null,
     "stocks":  {
-                   "AMZN":  {
-                                "m":  [
-                                          17,
-                                          17,
-                                          18,
-                                          20,
-                                          17
-                                      ],
-                                "o":  [
-                                          14,
-                                          18,
-                                          18,
-                                          16,
-                                          17
-                                      ],
-                                "why_en":  "Unmatched cloud and retail scale anchors Amazon\u0027s wide moat, while surging AWS AI demand, Bedrock, Anthropic ties, and Trainium chips drive massive AI upside.",
-                                "why_th":  "ขนาดธุรกิจคลาวด์และค้าปลีกที่เหนือชั้นสร้างคูเมืองแข็งแกร่ง ขณะที่อุปสงค์ AI บน AWS, Bedrock, ความร่วมมือกับ Anthropic และชิป Trainium ผลักดันโอกาสเติบโตมหาศาล"
-                            },
-                   "AXON":  {
-                                "m":  [
-                                          14,
-                                          18,
-                                          14,
-                                          12,
-                                          12
-                                      ],
-                                "o":  [
-                                          12,
-                                          15,
-                                          17,
-                                          12,
-                                          14
-                                      ],
-                                "why_en":  "Mission-critical TASER, body-camera, and Evidence.com lock-in builds a durable law-enforcement moat, with Draft One driving high-margin AI software growth inside a niche public-safety market.",
-                                "why_th":  "การผูกติดของอุปกรณ์ TASER กล้องติดตัว และ Evidence.com สร้างคูเมืองแกร่งในวงการตำรวจ โดย Draft One หนุนการเติบโตซอฟต์แวร์ AI มาร์จิ้นสูงในตลาดเฉพาะกลุ่ม"
-                            },
-                   "CRWD":  {
-                                "m":  [
-                                          15,
-                                          16,
-                                          15,
-                                          13,
-                                          12
-                                      ],
-                                "o":  [
-                                          12,
-                                          16,
-                                          16,
-                                          11,
-                                          14
-                                      ],
-                                "why_en":  "CrowdStrike\u0027s unified Falcon platform and threat-data network create strong switching costs, while Charlotte AI and agent security add solid upside despite intense competition and thin GAAP margins.",
-                                "why_th":  "แพลตฟอร์ม Falcon และเครือข่ายข้อมูลภัยคุกคามสร้างต้นทุนการเปลี่ยนเจ้าสูง ขณะที่ Charlotte AI และระบบปกป้องเอเจนต์หนุนการเติบโตแม้เผชิญการแข่งขันสูงและกำไร GAAP ยังบาง"
-                            },
-                   "DOCN":  {
-                                "m":  [
-                                          9,
-                                          10,
-                                          10,
-                                          7,
-                                          10
-                                      ],
-                                "o":  [
-                                          13,
-                                          17,
-                                          10,
-                                          6,
-                                          10
-                                      ],
-                                "why_en":  "Developer simplicity supports a modest SMB niche, but weak scale and low switching costs leave DigitalOcean exposed against hyperscalers and GPU neoclouds despite fast-growing AI inference demand.",
-                                "why_th":  "ความใช้งานง่ายช่วยยึดตลาดเฉพาะกลุ่มนักพัฒนา แต่ขนาดที่เล็กและต้นทุนการเปลี่ยนเจ้าต่ำทำให้เสียเปรียบคลาวด์ยักษ์ใหญ่และเนโอคลาวด์ GPU แม้อุปสงค์ AI inference โตเร็ว"
-                            },
-                   "GOOGL":  {
-                                 "m":  [
-                                           19,
-                                           16,
-                                           18,
-                                           19,
-                                           18
-                                       ],
-                                 "o":  [
-                                           15,
-                                           18,
-                                           18,
-                                           17,
-                                           18
-                                       ],
-                                 "why_en":  "Alphabet combines elite Search, Android, YouTube, and Cloud durability with industry-leading full-stack AI advantages across custom TPUs, Gemini models, surging Cloud revenue, and Waymo optionality.",
-                                 "why_th":  "Alphabet ผสานความแข็งแกร่งของ Search, Android, YouTube และคลาวด์ เข้ากับข้อได้เปรียบ AI ครบวงจรตั้งแต่ชิป TPU โมเดล Gemini รายได้คลาวด์ที่พุ่งแรง และศักยภาพจาก Waymo"
-                             },
-                   "META":  {
-                                "m":  [
-                                          16,
-                                          14,
-                                          19,
-                                          18,
-                                          16
-                                      ],
-                                "o":  [
-                                          14,
-                                          16,
-                                          15,
-                                          12,
-                                          16
-                                      ],
-                                "why_en":  "Unrivaled consumer social networks and ad scale sustain a wide moat, while AI lifts ad targeting and opens wearable optionality despite heavy CapEx and no cloud platform.",
-                                "why_th":  "เครือข่ายโซเชียลและขนาดธุรกิจโฆษณาที่ไร้คู่แข่งสร้างคูเมืองกว้าง ขณะที่ AI ช่วยเพิ่มประสิทธิภาพโฆษณาและเปิดโอกาสอุปกรณ์สวมใส่ แม้ต้องลงทุนสูงและไม่มีธุรกิจคลาวด์"
-                            },
-                   "MSFT":  {
-                                "m":  [
-                                          17,
-                                          19,
-                                          18,
-                                          19,
-                                          19
-                                      ],
-                                "o":  [
-                                          15,
-                                          18,
-                                          18,
-                                          15,
-                                          16
-                                      ],
-                                "why_en":  "Unmatched enterprise switching costs and 47% operating margins give Microsoft the sector\u0027s strongest moat, paired with huge Azure AI and Copilot scale across global corporate workflows.",
-                                "why_th":  "ต้นทุนการเปลี่ยนเจ้าในองค์กรที่สูงที่สุดและมาร์จิ้น 47% สร้างคูเมืองแกร่งที่สุดในกลุ่ม ผสานกับขนาดของ Azure AI และ Copilot ที่ฝังลึกในระบบงานองค์กรทั่วโลก"
-                            },
                    "NET":  {
                                "m":  [
                                          15,
@@ -144,67 +18,13 @@
                                      ],
                                "o":  [
                                          13,
-                                         17,
-                                         15,
-                                         11,
-                                         15
-                                     ],
-                               "why_en":  "Cloudflare\u0027s global edge network builds a differentiated moat despite ongoing GAAP losses, positioning Workers AI and AI Gateway well to capture rising edge inference and agentic traffic.",
-                               "why_th":  "เครือข่ายเอดจ์ทั่วโลกสร้างคูเมืองที่แตกต่างแม้ยังขาดทุนทางบัญชี GAAP ทำให้ Workers AI และ AI Gateway พร้อมรองรับการเติบโตของ edge inference และทราฟฟิกจากเอเจนต์ AI"
-                           },
-                   "ORCL":  {
-                                "m":  [
-                                          15,
-                                          18,
-                                          14,
-                                          15,
-                                          16
-                                      ],
-                                "o":  [
-                                          15,
-                                          18,
-                                          15,
-                                          13,
-                                          13
-                                      ],
-                                "why_en":  "Sticky enterprise databases underpin Oracle\u0027s durable moat, while massive OCI GPU-cluster backlogs fuel surging AI cloud growth tempered by heavy CapEx and OpenAI customer concentration.",
-                                "why_th":  "ฐานข้อมูลองค์กรที่เปลี่ยนเจ้าได้ยากค้ำยันคูเมืองที่มั่นคง ขณะที่แบ็กล็อกคลัสเตอร์ GPU บน OCI หนุนการเติบโต AI คลาวด์อย่างก้าวกระโดด แม้มีความเสี่ยงด้านงบลงทุนและการพึ่งพา OpenAI"
-                            },
-                   "PLTR":  {
-                                "m":  [
-                                          16,
-                                          18,
-                                          13,
-                                          13,
-                                          14
-                                      ],
-                                "o":  [
-                                          18,
-                                          18,
-                                          17,
-                                          13,
-                                          15
-                                      ],
-                                "why_en":  "Deeply embedded Ontology deployments create high switching costs and surging 47% GAAP margins, making Palantir a premier pure-play enterprise and sovereign AI winner through AIP.",
-                                "why_th":  "การฝังระบบ Ontology ลึกในองค์กรสร้างต้นทุนการเปลี่ยนเจ้าสูงและมาร์จิ้น GAAP พุ่งแตะ 47% ส่งให้ Palantir เป็นผู้นำซอฟต์แวร์ AI องค์กรและภาครัฐผ่านแพลตฟอร์ม AIP"
-                            },
-                   "TEM":  {
-                               "m":  [
-                                         12,
-                                         12,
-                                         13,
-                                         11,
-                                         7
-                                     ],
-                               "o":  [
-                                         13,
                                          16,
-                                         13,
-                                         12,
-                                         14
+                                         14,
+                                         11,
+                                         16
                                      ],
-                               "why_en":  "A growing clinical-genomic data library supports strong pharma AI licensing upside, but persistent GAAP operating losses and competitive oncology diagnostics keep its moat developing.",
-                               "why_th":  "คลังข้อมูลคลินิกและจีโนมิกส์ที่เติบโตหนุนโอกาสขายลิขสิทธิ์ข้อมูล AI ให้บริษัทยา แต่การขาดทุนทางบัญชี GAAP ต่อเนื่องและการแข่งขันด้านการตรวจวินิจฉัยมะเร็งทำให้คูเมืองยังอยู่ระหว่างสร้างตัว"
+                               "why_en":  "Global edge scale and security network effects underpin a solid moat despite GAAP losses, while surging AI agent traffic, Workers AI, and crawl monetization drive strong upside.",
+                               "why_th":  "ขนาดเครือข่ายเอดจ์ระดับโลกและผลกระทบเครือข่ายด้านความปลอดภัยช่วยสร้างคูเมืองที่แข็งแกร่งแม้ยังขาดทุนตามบัญชี GAAP ขณะที่ทราฟฟิก AI agent ที่พุ่งสูง แพลตฟอร์ม Workers AI และโอกาสสร้างรายได้จากการควบคุมบอต AI หนุนการเติบโตด้าน AI อย่างโดดเด่น"
                            }
                }
 }

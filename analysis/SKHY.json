@@ -1,7 +1,7 @@
 {
-    "ticker":  "SKH",
+    "ticker":  "SKHY",
     "name":  "SK hynix",
-    "symbol":  "KRX:000660",
+    "symbol":  "NASDAQ:SKHY",
     "model":  "gemini-4-neon-high",
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",

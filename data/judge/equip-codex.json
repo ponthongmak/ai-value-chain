@@ -5,44 +5,44 @@
     "model":  "gpt-6.2-sol",
     "effort":  "high",
     "account":  "Codex (ChatGPT)",
-    "generatedAt":  "2026-11-24T04:49:52Z",
+    "generatedAt":  "2026-11-24T16:11:33Z",
     "costUsd":  null,
     "stocks":  {
                    "AEHR":  {
                                 "m":  [
                                           13,
-                                          11,
-                                          5,
-                                          6,
-                                          5
+                                          13,
+                                          7,
+                                          7,
+                                          6
                                       ],
                                 "o":  [
-                                          15,
                                           16,
-                                          12,
-                                          9,
+                                          16,
+                                          13,
+                                          10,
                                           14
                                       ],
-                                "why_en":  "Specialized burn-in tools are winning AI processor orders, with customer concentration and uneven profitability limiting Aehr’s moat. [Quarterly filing](https://www.sec.gov/Archives/edgar/data/1040470/000165495426009601/aehr_10q.htm)",
-                                "why_th":  "เครื่องทดสอบความทนทานแบบเบิร์นอินเฉพาะทางของ Aehr ได้คำสั่งซื้อสำหรับชิป AI เพิ่มขึ้น โดยการพึ่งพาลูกค้าไม่กี่รายและกำไรที่ผันผวนจำกัดความได้เปรียบระยะยาว"
+                                "why_en":  "Specialized burn-in tools have won AI processor production orders, and customer concentration and uneven profitability limit the moat. [Quarterly results](https://www.aehr.com/2026/11/aehr-test-systems-reports-record-first-quarter-fiscal-2027-revenue-of-33-0-million-raises-full-year-revenue-outlook-to-150-million-triple-fiscal-2026-revenue/)",
+                                "why_th":  "เครื่องทดสอบความทนทานเฉพาะทางได้คำสั่งซื้อสำหรับสายการผลิตชิป AI ส่วนฐานลูกค้าที่กระจุกตัวและกำไรที่ผันผวนจำกัดความแข็งแกร่งของความได้เปรียบ"
                             },
                    "AMAT":  {
                                 "m":  [
                                           17,
-                                          16,
-                                          14,
-                                          19,
-                                          17
+                                          17,
+                                          15,
+                                          18,
+                                          18
                                       ],
                                 "o":  [
-                                          12,
-                                          16,
+                                          13,
+                                          17,
                                           17,
                                           15,
                                           16
                                       ],
-                                "why_en":  "A large installed base and process expertise make Applied hard to displace as AI lifts demand for advanced logic, DRAM and packaging tools. [Earnings call](https://ir.appliedmaterials.com/static-files/14fd85ae-ff29-4756-879c-c899da301ae6)",
-                                "why_th":  "ฐานเครื่องจักรที่ติดตั้งไว้จำนวนมากและความเชี่ยวชาญด้านกระบวนการผลิตทำให้ลูกค้าเปลี่ยนจาก Applied ได้ยาก ขณะที่ AI เพิ่มความต้องการเครื่องมือผลิตชิปลอจิกขั้นสูงและ DRAM รวมถึงเครื่องมือแพ็กเกจจิง"
+                                "why_en":  "A broad tool portfolio and large installed base sustain margins as AI spending lifts demand for leading-edge logic, DRAM, and advanced packaging equipment. [Earnings remarks](https://ir.appliedmaterials.com/static-files/14fd85ae-ff29-4756-879c-c899da301ae6)",
+                                "why_th":  "เครื่องจักรที่หลากหลายและฐานเครื่องที่ติดตั้งจำนวนมากช่วยรักษาอัตรากำไร ขณะที่การลงทุนด้าน AI เพิ่มความต้องการเครื่องผลิตชิปลอจิกขั้นสูง ชิป DRAM และเครื่องสำหรับแพ็กเกจจิงขั้นสูง"
                             },
                    "ASML":  {
                                 "m":  [
@@ -57,46 +57,118 @@
                                           17,
                                           20,
                                           20,
+                                          13
+                                      ],
+                                "why_en":  "Its EUV monopoly and recurring service revenue sustain high returns as AI demand drives chipmakers to expand leading-edge capacity. [Quarterly results](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026)",
+                                "why_th":  "การเป็นผู้ขายเครื่อง EUV เพียงรายเดียวและรายได้บริการที่เกิดขึ้นต่อเนื่องช่วยรักษาผลตอบแทนระดับสูง ขณะที่ความต้องการด้าน AI ผลักดันให้ผู้ผลิตชิปเพิ่มกำลังการผลิตที่ใช้เทคโนโลยีขั้นสูง"
+                            },
+                   "ENTG":  {
+                                "m":  [
+                                          15,
+                                          17,
+                                          10,
+                                          14,
+                                          12
+                                      ],
+                                "o":  [
+                                          10,
+                                          15,
+                                          15,
+                                          13,
                                           14
                                       ],
-                                "why_en":  "ASML’s EUV monopoly makes it indispensable to leading-edge AI chip production, with High NA and advanced packaging adding growth opportunities. [Annual report](https://www.sec.gov/Archives/edgar/data/937966/000162828026011378/asml-20251231.htm)",
-                                "why_th":  "การเป็นผู้ขายเครื่อง EUV เพียงรายเดียวทำให้ ASML ขาดไม่ได้ในการผลิตชิป AI ขั้นสูง โดยเครื่อง High NA และอุปกรณ์แพ็กเกจจิงขั้นสูงช่วยเพิ่มโอกาสเติบโต"
+                                "why_en":  "Fab qualification makes specialty materials hard to replace, and tighter contamination limits at advanced nodes increase demand from AI chip production. [Capital Markets Day](https://investor.entegris.com/news/news-details/2026/Entegris-Details-Growth-Strategy-and-Long-Term-Financial-Model-at-2026-Capital-Markets-Day/default.aspx)",
+                                "why_th":  "วัสดุเฉพาะทางที่ผ่านการรับรองจากโรงงานแล้วเปลี่ยนทดแทนได้ยาก และข้อกำหนดด้านการปนเปื้อนที่เข้มงวดขึ้นในกระบวนการผลิตขั้นสูงช่วยเพิ่มความต้องการวัสดุเหล่านี้ในการผลิตชิป AI"
                             },
                    "KLAC":  {
                                 "m":  [
+                                          19,
                                           18,
-                                          18,
-                                          12,
-                                          18,
+                                          13,
+                                          17,
                                           19
                                       ],
                                 "o":  [
-                                          12,
-                                          16,
-                                          19,
+                                          13,
                                           17,
+                                          19,
+                                          18,
                                           14
                                       ],
-                                "why_en":  "KLA’s market-leading inspection tools are embedded in fab workflows, while more complex AI chips and advanced packaging increase demand for defect detection. [Annual filing](https://ir.kla.com/sec-filings/all-sec-filings/content/0000319201-26-000027/klac-20260630.htm)",
-                                "why_th":  "เครื่องตรวจสอบของ KLA ครองตลาดและเป็นส่วนหนึ่งของกระบวนการผลิตในโรงงาน ขณะที่ความซับซ้อนของชิป AI และแพ็กเกจจิงขั้นสูงเพิ่มความต้องการตรวจหาข้อบกพร่อง"
+                                "why_en":  "Dominant inspection tools and deeply embedded yield workflows sustain high margins as complex AI chips and packages require more process control. [Annual report](https://ir.kla.com/sec-filings/annual-reports/content/0001193125-26-397978/0001193125-26-397978.pdf)",
+                                "why_th":  "ความเป็นผู้นำด้านเครื่องตรวจสอบและระบบควบคุมอัตราชิปดีที่ฝังอยู่ในสายการผลิตช่วยรักษาอัตรากำไรสูง ขณะที่ชิป AI และแพ็กเกจที่ซับซ้อนขึ้นต้องควบคุมกระบวนการผลิตมากขึ้น"
                             },
                    "LRCX":  {
                                 "m":  [
                                           18,
                                           17,
-                                          12,
-                                          18,
+                                          13,
+                                          17,
                                           17
                                       ],
                                 "o":  [
-                                          13,
+                                          14,
                                           17,
-                                          17,
+                                          18,
                                           16,
                                           16
                                       ],
-                                "why_en":  "Qualified etch and deposition tools are hard to replace in fabs, while AI lifts demand for HBM equipment and creates opportunities in hybrid bonding. [Lam Research](https://newsroom.lamresearch.com/advanced-packaging-next-frontier-ai-scaling)",
-                                "why_th":  "เครื่องกัดลายและเครื่องเคลือบฟิล์มของ Lam ที่ผ่านการรับรองแล้วเปลี่ยนทดแทนได้ยากในโรงงานผลิตชิป ขณะที่ AI เพิ่มความต้องการเครื่องมือผลิต HBM และเปิดโอกาสด้านการยึดประสานแบบไฮบริด"
-                            }
+                                "why_en":  "Qualified etch and deposition tools and a large installed base sustain returns as HBM and advanced logic require more fabrication steps. [Earnings presentation](https://investor.lamresearch.com/content/dam/investor/image/Q1_2027-slides-full_final.pdf)",
+                                "why_th":  "เครื่องกัดลายและเคลือบฟิล์มที่ผ่านการรับรองแล้วและฐานเครื่องที่ติดตั้งจำนวนมากช่วยรักษาผลตอบแทน ขณะที่การผลิต HBM และชิปลอจิกขั้นสูงต้องใช้ขั้นตอนมากขึ้น"
+                            },
+                   "MKSI":  {
+                                "m":  [
+                                          14,
+                                          15,
+                                          10,
+                                          12,
+                                          11
+                                      ],
+                                "o":  [
+                                          11,
+                                          15,
+                                          14,
+                                          12,
+                                          13
+                                      ],
+                                "why_en":  "Vacuum and power subsystems are hard to replace once designed into equipment, and demand for AI substrates and advanced packaging provides room to grow. [Quarterly results](https://investor.mks.com/node/24536)",
+                                "why_th":  "ระบบสุญญากาศและระบบจ่ายไฟเปลี่ยนได้ยากเมื่อผู้ผลิตออกแบบเครื่องให้ใช้ระบบเหล่านี้แล้ว ส่วนความต้องการแผ่นฐานสำหรับชิป AI และแพ็กเกจจิงขั้นสูงเปิดโอกาสให้ธุรกิจเติบโต"
+                            },
+                   "ONTO":  {
+                                "m":  [
+                                          15,
+                                          15,
+                                          9,
+                                          11,
+                                          12
+                                      ],
+                                "o":  [
+                                          14,
+                                          17,
+                                          15,
+                                          13,
+                                          14
+                                      ],
+                                "why_en":  "Specialized inspection tools are costly to replace once integrated into packaging lines, and stacked AI chips increase demand for more precise inspection. [Quarterly results](https://investors.ontoinnovation.com/news/news-details/2026/Onto-Innovation-Reports-2026-Third-Quarter-Results/default.aspx)",
+                                "why_th":  "เครื่องตรวจสอบเฉพาะทางมีต้นทุนการเปลี่ยนสูงเมื่อติดตั้งในสายการผลิตแพ็กเกจแล้ว และการซ้อนชิป AI เพิ่มความต้องการการตรวจสอบที่แม่นยำขึ้น"
+                            },
+                   "TER":  {
+                               "m":  [
+                                         16,
+                                         17,
+                                         13,
+                                         15,
+                                         14
+                                     ],
+                               "o":  [
+                                         17,
+                                         17,
+                                         16,
+                                         14,
+                                         15
+                                     ],
+                               "why_en":  "Tester software and validated test programs make switching costly, and demand for accelerator and HBM testing now drives a substantial share of sales. [Earnings presentation](https://d1io3yog0oux5.cloudfront.net/_72d0b4ca9e4a1a38aea2af8ee1b50286/teradyne/db/938/9658/presentation/Teradyne_Q3%2726_Earnings_Presentation.pdf)",
+                               "why_th":  "ซอฟต์แวร์ของเครื่องทดสอบและโปรแกรมทดสอบที่ผ่านการตรวจสอบแล้วทำให้การเปลี่ยนระบบมีต้นทุนสูง และความต้องการทดสอบชิปเร่งการประมวลผลกับ HBM เป็นแรงขับเคลื่อนยอดขายส่วนสำคัญ"
+                           }
                }
 }

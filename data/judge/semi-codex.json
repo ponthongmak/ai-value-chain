@@ -260,42 +260,6 @@
                                 "why_en":  "MEMS timing expertise and customer qualifications protect SiTime’s niche, while faster optical links in AI clusters increase demand for precision timing chips. [Source](https://investor.sitime.com/files/doc_financials/2026/q3/SiTime-SITM-3Q-2026-Earnings-Call-Transcript-Nov-04-2026.pdf)",
                                 "why_th":  "ความเชี่ยวชาญด้านชิปกำหนดจังหวะสัญญาณแบบ MEMS และการผ่านการรับรองจากลูกค้าช่วยรักษาตำแหน่งของ SiTime ในตลาดเฉพาะทาง ขณะที่การเชื่อมต่อผ่านแสงที่เร็วขึ้นในคลัสเตอร์ AI เพิ่มความต้องการชิปกำหนดจังหวะความแม่นยำสูง"
                             },
-                   "SKH":  {
-                               "m":  [
-                                         18,
-                                         16,
-                                         9,
-                                         18,
-                                         12
-                                     ],
-                               "o":  [
-                                         17,
-                                         18,
-                                         18,
-                                         18,
-                                         15
-                                     ],
-                               "why_en":  "HBM stacking expertise, accelerator qualification and memory manufacturing scale support SK hynix’s leadership as AI systems require more high-bandwidth memory. [Source](https://news.skhynix.com/en/q3-2026-business-results/)",
-                               "why_th":  "ความเชี่ยวชาญในการซ้อนชิป HBM การผ่านการรับรองให้ใช้กับชิปเร่งประมวลผล และขนาดการผลิตหน่วยความจำช่วยให้ SK hynix รักษาความเป็นผู้นำในช่วงที่ระบบ AI ต้องการหน่วยความจำแบนด์วิดท์สูงมากขึ้น"
-                           },
-                   "SMSN":  {
-                                "m":  [
-                                          17,
-                                          14,
-                                          12,
-                                          20,
-                                          13
-                                      ],
-                                "o":  [
-                                          15,
-                                          18,
-                                          17,
-                                          17,
-                                          16
-                                      ],
-                                "why_en":  "Samsung’s memory manufacturing scale is hard to match, and rising HBM4 shipments and advanced foundry orders give it two ways to benefit from AI demand. [Source](https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results)",
-                                "why_th":  "ขนาดการผลิตหน่วยความจำของ Samsung เป็นข้อได้เปรียบที่คู่แข่งตามได้ยาก และทั้งยอดส่งมอบ HBM4 ที่เพิ่มขึ้นกับคำสั่งจ้างผลิตชิปด้วยกระบวนการขั้นสูงช่วยให้บริษัทได้ประโยชน์จากความต้องการ AI"
-                            },
                    "TSM":  {
                                "m":  [
                                          20,
@@ -313,6 +277,24 @@
                                      ],
                                "why_en":  "Leading process nodes and costly requalification protect foundry returns, while scarce CoWoS capacity gives TSMC leverage as GPU and custom accelerator demand grows. [Source](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)",
                                "why_th":  "ความเป็นผู้นำด้านกระบวนการผลิตชิปและต้นทุนสูงในการรับรองผู้ผลิตรายใหม่ช่วยรักษาผลตอบแทน ขณะที่กำลังผลิตแพ็กเกจแบบ CoWoS ที่มีจำกัดเพิ่มอำนาจต่อรองให้ TSMC เมื่อความต้องการ GPU และชิปเร่งประมวลผลสั่งทำเพิ่มขึ้น"
-                           }
+                           },
+                   "SKHY":  {
+                                "m":  [
+                                          18,
+                                          16,
+                                          9,
+                                          18,
+                                          12
+                                      ],
+                                "o":  [
+                                          17,
+                                          18,
+                                          18,
+                                          18,
+                                          15
+                                      ],
+                                "why_en":  "HBM stacking expertise, accelerator qualification and memory manufacturing scale support SK hynix’s leadership as AI systems require more high-bandwidth memory. [Source](https://news.skhynix.com/en/q3-2026-business-results/)",
+                                "why_th":  "ความเชี่ยวชาญในการซ้อนชิป HBM การผ่านการรับรองให้ใช้กับชิปเร่งประมวลผล และขนาดการผลิตหน่วยความจำช่วยให้ SK hynix รักษาความเป็นผู้นำในช่วงที่ระบบ AI ต้องการหน่วยความจำแบนด์วิดท์สูงมากขึ้น"
+                            }
                }
 }

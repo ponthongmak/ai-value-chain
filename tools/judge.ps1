@@ -28,7 +28,7 @@ try {
   $facts = foreach ($t in $tick) {
     $c = Get-Company $t; $f = if ($fund) { $fund.$t } else { $null }
     $hist = if ($f -and $f.ser) { "years $($f.ser.t -join ', ') | revenue USD B: $(($f.ser.rev | ForEach-Object { & $b $_ }) -join ', ') | operating income USD B: $(($f.ser.oi | ForEach-Object { & $b $_ }) -join ', ')" } else { 'no figures' }
-    "- $t | $($c.name) ($($c.tv))`n  business: $($c.does)`n  moat thesis on the page: $($c.moat)`n  $hist"
+    "- $t | $($c.name) ($($c.tv))`n  business: $($c.does)`n  moat thesis on the page: $($c.moat)$(if ($c.mix) { "`n  revenue mix (estimate): $($c.mix)" })`n  $hist"
   }
   $prompt = [IO.File]::ReadAllText((Join-Path $AiRoot 'ai\judge-prompt.md'), $Utf8) + "`n`nSECTOR: $Sector`nTODAY: $((Get-Date).ToString('yyyy-MM-dd'))`n`nCOMPANIES`n" + ($facts -join "`n")
   $res = Invoke-AI -Task judge -Prompt $prompt -SchemaPath (Join-Path $AiRoot 'ai\judge-schema.json') -Account $cfg.profile -Model $cfg.model -Effort $cfg.effort

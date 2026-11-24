@@ -6,99 +6,171 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
     "model":  "gemini-4-neon-high",
     "effort":  "high",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-24T04:48:00Z",
+    "generatedAt":  "2026-11-24T16:12:21Z",
     "costUsd":  null,
     "stocks":  {
                    "AEHR":  {
                                 "m":  [
                                           11,
-                                          10,
+                                          11,
                                           6,
                                           5,
                                           5
                                       ],
                                 "o":  [
-                                          17,
+                                          14,
                                           16,
                                           11,
-                                          10,
+                                          11,
                                           12
                                       ],
-                                "why_en":  "Niche AI burn-in systems drive surging AI exposure, but tiny scale, severe customer concentration, and unproven multi-cycle durability keep its moat narrow.",
-                                "why_th":  "ระบบเบิร์นอินชิป AI เฉพาะทางช่วยหนุนสัดส่วนรายได้ AI ให้พุ่งสูง แต่ขนาดธุรกิจที่เล็ก การพึ่งพาลูกค้าน้อยราย และความทนทานที่ยังไม่พิสูจน์ทำให้คูเมืองยังแคบ"
+                                "why_en":  "Niche burn-in technology and tiny, volatile scale keep its moat narrow, while surging hyperscaler AI processor orders offer high-growth but customer-concentrated upside.",
+                                "why_th":  "เทคโนโลยีทดสอบเบิร์นอินเฉพาะทางและขนาดธุรกิจที่เล็กผันผวนทำให้ป้อมปราการแคบ ขณะที่คำสั่งซื้อชิป AI จากไฮเปอร์สเกลเลอร์สร้างโอกาสโตสูงแต่ยังกระจุกตัว"
                             },
                    "AMAT":  {
                                 "m":  [
                                           16,
-                                          16,
-                                          14,
+                                          17,
+                                          13,
                                           18,
                                           17
                                       ],
                                 "o":  [
+                                          13,
                                           14,
-                                          15,
                                           16,
                                           15,
-                                          16
+                                          15
                                       ],
-                                "why_en":  "Industry-leading scale and the broadest WFE portfolio underpin a strong moat, while leadership in HBM packaging and GAA drives solid AI upside.",
-                                "why_th":  "ขนาดธุรกิจระดับผู้นำและพอร์ตเครื่องจักรผลิตชิปที่ครบวงจรที่สุดสร้างคูเมืองแข็งแกร่ง ขณะที่ความเป็นผู้นำด้านแพ็กเกจจิ้ง HBM และทรานซิสเตอร์ GAA หนุนโอกาสเติบโตจาก AI ได้ดี"
+                                "why_en":  "Unmatched wafer-fab breadth, scale, and steady margins create a wide moat, while GAA, backside power, and packaging drive solid though more diversified AI upside.",
+                                "why_th":  "กลุ่มผลิตภัณฑ์เครื่องจักรเวเฟอร์ที่ครบวงจร ขนาดใหญ่ และมาร์จิ้นสม่ำเสมอสร้างป้อมปราการแข็งแกร่ง ขณะที่ GAA, แบ็กไซด์พาวเวอร์ และแพ็กเกจจิ้งหนุนโอกาส AI ที่มั่นคงแต่กระจายตัว"
                             },
                    "ASML":  {
                                 "m":  [
                                           20,
+                                          20,
+                                          15,
                                           19,
-                                          16,
-                                          18,
                                           18
                                       ],
                                 "o":  [
                                           15,
-                                          16,
+                                          15,
                                           20,
                                           20,
-                                          14
+                                          13
                                       ],
-                                "why_en":  "Its unmatched EUV and High-NA lithography monopoly creates an exceptional moat and makes ASML the indispensable bottleneck for leading-edge AI logic and HBM.",
-                                "why_th":  "การผูกขาดเครื่องฉายแสง EUV และ High-NA แบบไร้คู่แข่งสร้างคูเมืองระดับสูงสุด และทำให้ ASML เป็นคอขวดที่ขาดไม่ได้สำหรับการผลิตชิป AI ขั้นสูงและหน่วยความจำ HBM"
+                                "why_en":  "An unassailable EUV lithography monopoly with immense switching costs and scale anchors an elite moat, making it the indispensable bottleneck for advanced AI silicon.",
+                                "why_th":  "การผูกขาดเครื่องลิโธกราฟี EUV ที่มีต้นทุนเปลี่ยนย้ายและขนาดธุรกิจมหาศาลสร้างป้อมปราการระดับสูงสุด พร้อมเป็นคอขวดที่ขาดไม่ได้ของชิป AI ขั้นสูง"
+                            },
+                   "ENTG":  {
+                                "m":  [
+                                          14,
+                                          16,
+                                          9,
+                                          12,
+                                          13
+                                      ],
+                                "o":  [
+                                          12,
+                                          14,
+                                          14,
+                                          14,
+                                          13
+                                      ],
+                                "why_en":  "Qualified specialty materials and filters create sticky recurring demand, while rising chemical and thermal intensity in HBM and advanced packaging delivers steady AI growth.",
+                                "why_th":  "วัสดุเคมีเฉพาะทางและตัวกรองที่ผ่านการรับรองสร้างรายได้ประจำที่เปลี่ยนยาก ขณะที่ความเข้มข้นของวัสดุใน HBM และแพ็กเกจจิ้งขั้นสูงหนุนการเติบโตจาก AI อย่างสม่ำเสมอ"
                             },
                    "KLAC":  {
                                 "m":  [
                                           18,
                                           18,
-                                          14,
+                                          13,
                                           16,
                                           19
                                       ],
                                 "o":  [
+                                          14,
                                           15,
-                                          16,
                                           18,
                                           17,
-                                          15
+                                          14
                                       ],
-                                "why_en":  "Dominant process-control share and 40%+ operating margins secure an elite moat, as rising AI die complexity and advanced packaging structurally boost inspection intensity.",
-                                "why_th":  "ส่วนแบ่งตลาดระบบตรวจสอบและวัดผลที่ครองความเหนือกว่าพร้อมอัตรากำไรจากการดำเนินงานเกิน 40% สร้างคูเมืองแกร่งมาก ขณะที่ความซับซ้อนของชิป AI และแพ็กเกจจิ้งขั้นสูงยิ่งเร่งความต้องการใช้งาน"
+                                "why_en":  "Dominant process-control share, deep optical IP, and industry-leading 40%-plus margins build a formidable moat as GAA, HBM, and packaging complexity amplify AI inspection demand.",
+                                "why_th":  "ส่วนแบ่งตลาดตรวจสอบเวเฟอร์ที่เหนือกว่า สิทธิบัตรด้านออปติก และมาร์จิ้นกว่า 40% สร้างป้อมปราการแกร่ง ขณะที่ความซับซ้อนของ GAA, HBM และแพ็กเกจจิ้งเร่งความต้องการตรวจสอบชิป AI"
                             },
                    "LRCX":  {
                                 "m":  [
                                           17,
-                                          16,
+                                          17,
                                           12,
                                           17,
-                                          17
+                                          16
                                       ],
                                 "o":  [
-                                          16,
+                                          15,
                                           16,
                                           17,
                                           16,
                                           15
                                       ],
-                                "why_en":  "Deep etch and deposition leadership delivers a strong moat, while surging HBM, 3D NAND, and GAA complexity fuel standout AI equipment growth.",
-                                "why_th":  "ความเป็นผู้นำเชิงลึกด้านเครื่องกัดและเคลือบผิวสร้างคูเมืองที่แข็งแกร่ง ขณะที่ความต้องการ HBM, 3D NAND และ GAA ที่ซับซ้อนขึ้นช่วยผลักดันการเติบโตจาก AI อย่างโดดเด่น"
-                            }
+                                "why_en":  "Leadership in etch and deposition with high switching costs and scale drives a wide moat, directly capturing surging HBM, GAA, and backside-power AI spending.",
+                                "why_th":  "ความเป็นผู้นำด้านกัดและเคลือบผิวเวเฟอร์ที่มีต้นทุนเปลี่ยนย้ายและขนาดใหญ่สร้างป้อมปราการแข็งแกร่ง พร้อมรับแรงหนุนโดยตรงจากการลงทุน HBM, GAA และแบ็กไซด์พาวเวอร์เพื่อ AI"
+                            },
+                   "MKSI":  {
+                                "m":  [
+                                          13,
+                                          14,
+                                          9,
+                                          12,
+                                          11
+                                      ],
+                                "o":  [
+                                          13,
+                                          14,
+                                          14,
+                                          12,
+                                          13
+                                      ],
+                                "why_en":  "Designed-in fab subsystems and Atotech plating chemistries create moderate switching costs offset by cyclicality, while AI server substrates and packaging drive solid growth.",
+                                "why_th":  "ระบบย่อยในเครื่องผลิตชิปและเคมีชุบผิวของ Atotech สร้างต้นทุนเปลี่ยนย้ายระดับกลางท่ามกลางความผันผวนตามวัฏจักร ขณะที่ซับสเตรตเซิร์ฟเวอร์ AI และแพ็กเกจจิ้งหนุนการเติบโตได้ดี"
+                            },
+                   "ONTO":  {
+                                "m":  [
+                                          14,
+                                          14,
+                                          9,
+                                          9,
+                                          12
+                                      ],
+                                "o":  [
+                                          14,
+                                          17,
+                                          13,
+                                          13,
+                                          13
+                                      ],
+                                "why_en":  "Specialized Dragonfly packaging inspection brings strong HBM and CoWoS AI market growth, but smaller scale and fierce KLA and Camtek rivalry limit its moat.",
+                                "why_th":  "เครื่องตรวจสอบแพ็กเกจจิ้ง Dragonfly รับอานิสงส์การเติบโตสูงของ HBM และ CoWoS เพื่อ AI แต่ขนาดธุรกิจที่เล็กกว่าและการแข่งขันดุเดือดจาก KLA และ Camtek จำกัดป้อมปราการ"
+                            },
+                   "TER":  {
+                               "m":  [
+                                         15,
+                                         16,
+                                         12,
+                                         13,
+                                         13
+                                     ],
+                               "o":  [
+                                         16,
+                                         16,
+                                         15,
+                                         15,
+                                         14
+                                     ],
+                               "why_en":  "An ATE duopoly and sticky IG-XL software provide a solid moat, while surging AI accelerator and HBM test demand drives strong near-term upside.",
+                               "why_th":  "ตลาดผูกขาดคู่ด้านเครื่องทดสอบชิปและซอฟต์แวร์ IG-XL ที่เปลี่ยนยากสร้างป้อมปราการมั่นคง ขณะที่ความต้องการทดสอบชิปเร่งความเร็ว AI และ HBM ที่พุ่งสูงหนุนโอกาสเติบโตโดดเด่น"
+                           }
                }
 },
 "equip-claude":{
@@ -108,99 +180,171 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
     "model":  "claude-opus-5-5",
     "effort":  "max",
     "account":  "Claude",
-    "generatedAt":  "2026-11-24T04:50:12Z",
-    "costUsd":  0.8556181,
+    "generatedAt":  "2026-11-24T16:15:08Z",
+    "costUsd":  1.1825734,
     "stocks":  {
                    "AEHR":  {
                                 "m":  [
                                           11,
                                           8,
+                                          4,
                                           3,
-                                          2,
-                                          3
+                                          4
                                       ],
                                 "o":  [
                                           16,
-                                          16,
-                                          12,
+                                          15,
+                                          11,
                                           8,
-                                          12
+                                          13
                                       ],
-                                "why_en":  "Unique wafer-level burn-in technology, but tiny scale, erratic profits and concentrated customers mean a thin moat; AI and photonics burn-in topped 80% of recent revenue, FY27 guided to triple.",
-                                "why_th":  "มีเทคโนโลยีเบิร์นอินระดับเวเฟอร์ที่โดดเด่น แต่บริษัทเล็กมาก กำไรไม่สม่ำเสมอ และพึ่งพาลูกค้าไม่กี่ราย คูเมืองจึงบาง ขณะที่งานเบิร์นอินชิป AI และโฟโตนิกส์คิดเป็นกว่า 80% ของรายได้ล่าสุด และคาดว่ารายได้ปีงบ 2027 จะโตสามเท่า"
+                                "why_en":  "Distinctive wafer-level burn-in tech but tiny scale, concentrated customers and erratic profits mean a thin moat; AI processor burn-in now drives most revenue, with high but unproven upside.",
+                                "why_th":  "มีเทคโนโลยีเบิร์นอินระดับเวเฟอร์ที่โดดเด่น แต่ขนาดเล็กมาก ลูกค้ากระจุกตัว และกำไรไม่สม่ำเสมอ คูเมืองจึงบาง ส่วนงานเบิร์นอินชิป AI กลายเป็นรายได้หลักแล้ว มีศักยภาพสูงแต่ยังพิสูจน์ไม่ได้เต็มที่"
                             },
                    "AMAT":  {
                                 "m":  [
-                                          16,
-                                          16,
-                                          13,
                                           17,
+                                          15,
+                                          12,
+                                          18,
                                           16
                                       ],
                                 "o":  [
                                           13,
-                                          15,
+                                          13,
                                           16,
-                                          14,
-                                          14
+                                          13,
+                                          15
                                       ],
-                                "why_en":  "Largest, broadest process-tool portfolio with sticky installed base and service; AI drives GAA, DRAM and packaging demand, but competition, China curbs and recent share loss limit pricing power.",
-                                "why_th":  "มีพอร์ตเครื่องมือผลิตชิปที่ใหญ่และครอบคลุมที่สุด พร้อมฐานเครื่องที่ติดตั้งแล้วและงานบริการที่ลูกค้าเปลี่ยนได้ยาก AI หนุนความต้องการด้าน GAA, DRAM และแพ็กเกจจิง แต่การแข่งขัน ข้อจำกัดการส่งออกไปจีน และส่วนแบ่งตลาดที่ลดลงจำกัดอำนาจกำหนดราคา"
+                                "why_en":  "Largest, broadest wafer-fab equipment portfolio and installed base give scale and stickiness; record AI-driven DRAM, logic and packaging demand, but no single bottleneck and sizable China exposure.",
+                                "why_th":  "พอร์ตเครื่องจักรผลิตชิปที่ใหญ่และครอบคลุมที่สุด พร้อมฐานเครื่องที่ติดตั้งจำนวนมาก ให้ความได้เปรียบด้านขนาดและลูกค้าเปลี่ยนยาก ได้แรงหนุนจากความต้องการ DRAM ลอจิก และแพ็กเกจจิงจาก AI แต่ไม่ได้คุมคอขวดและพึ่งพาจีนสูง"
                             },
                    "ASML":  {
                                 "m":  [
                                           20,
-                                          18,
+                                          19,
                                           15,
-                                          18,
+                                          19,
                                           18
                                       ],
                                 "o":  [
-                                          15,
-                                          16,
+                                          14,
+                                          14,
                                           20,
                                           20,
-                                          12
+                                          13
                                       ],
-                                "why_en":  "Sole EUV supplier with decades of unmatched optics and light-source know-how; AI-driven logic and DRAM demand now exceeds its supply through 2028, giving extraordinary pricing power.",
-                                "why_th":  "เป็นผู้ผลิตเครื่อง EUV รายเดียวของโลก มีองค์ความรู้ด้านเลนส์และแหล่งกำเนิดแสงที่ไม่มีใครเทียบได้ และความต้องการชิปลอจิกและ DRAM จาก AI สูงเกินกำลังผลิตไปจนถึงปี 2028 จึงมีอำนาจกำหนดราคาสูงมาก"
+                                "why_en":  "Sole EUV supplier with unmatched optics IP and service base gives a near-unassailable moat; EUV is the scarcest AI-fab input, with demand exceeding supply through 2028.",
+                                "why_th":  "เป็นผู้ผลิตเครื่อง EUV รายเดียวในโลก มีทรัพย์สินทางปัญญาด้านออปติกและฐานบริการที่ไม่มีใครเทียบ คูเมืองแทบเจาะไม่ได้ และ EUV คือปัจจัยการผลิตที่ขาดแคลนที่สุดของชิป AI โดยความต้องการเกินกำลังผลิตถึงปี 2028"
+                            },
+                   "ENTG":  {
+                                "m":  [
+                                          13,
+                                          15,
+                                          8,
+                                          12,
+                                          11
+                                      ],
+                                "o":  [
+                                          10,
+                                          11,
+                                          14,
+                                          11,
+                                          11
+                                      ],
+                                "why_en":  "Specified-in purity materials and filters are hard to requalify out, a solid moat; AI upside is indirect, tied to wafer starts and layer counts.",
+                                "why_th":  "วัสดุความบริสุทธิ์สูงและตัวกรองที่ถูกกำหนดไว้ในกระบวนการผลิตเปลี่ยนออกได้ยาก จึงมีคูเมืองที่มั่นคง แต่ประโยชน์จาก AI เป็นทางอ้อม ผูกกับปริมาณเวเฟอร์และจำนวนชั้นของชิป"
                             },
                    "KLAC":  {
                                 "m":  [
                                           18,
-                                          16,
+                                          17,
                                           13,
                                           16,
-                                          18
+                                          19
                                       ],
                                 "o":  [
-                                          14,
-                                          15,
+                                          13,
+                                          13,
                                           18,
                                           16,
                                           12
                                       ],
-                                "why_en":  "Dominant process-control share and industry-best margins form a deep, durable moat; AI raises inspection intensity at leading-edge nodes and advanced packaging, with China exposure tempering upside.",
-                                "why_th":  "ครองส่วนแบ่งตลาดเครื่องตรวจสอบและวัดคุณภาพในโรงงานชิปอย่างเหนือชั้น พร้อมอัตรากำไรสูงสุดในอุตสาหกรรม คูเมืองจึงลึกและยั่งยืน AI เพิ่มความต้องการตรวจสอบในโหนดล้ำสมัยและแพ็กเกจจิงขั้นสูง แต่สัดส่วนรายได้จากจีนยังเป็นตัวถ่วง"
+                                "why_en":  "Dominant process-control share with industry-best margins and returns underpins a top-tier moat; AI gains come through leading-edge and advanced-packaging inspection, though exposure is indirect.",
+                                "why_th":  "ครองส่วนแบ่งตลาดเครื่องตรวจสอบและวัดคุณภาพ พร้อมมาร์จินและผลตอบแทนสูงสุดในอุตสาหกรรม คูเมืองจึงอยู่ระดับแถวหน้า ได้ประโยชน์จาก AI ผ่านการตรวจสอบชิปขั้นสูงและแพ็กเกจจิงขั้นสูง แต่เป็นทางอ้อม"
                             },
                    "LRCX":  {
                                 "m":  [
                                           17,
-                                          16,
-                                          12,
+                                          15,
+                                          11,
                                           16,
                                           16
                                       ],
                                 "o":  [
-                                          14,
+                                          13,
+                                          13,
+                                          16,
+                                          13,
+                                          14
+                                      ],
+                                "why_en":  "Etch and deposition leadership, especially high-aspect-ratio memory etch, gives a strong, sticky moat; AI-driven HBM, DRAM and NAND spending lifts growth, tempered by memory cyclicality and China reliance.",
+                                "why_th":  "เป็นผู้นำเครื่องกัดและเคลือบ โดยเฉพาะการกัดร่องลึกสำหรับหน่วยความจำ คูเมืองแข็งแรงและลูกค้าเปลี่ยนยาก การลงทุน HBM, DRAM และ NAND จาก AI หนุนการเติบโต แต่ยังผันผวนตามวัฏจักรหน่วยความจำและพึ่งพาจีน"
+                            },
+                   "MKSI":  {
+                                "m":  [
+                                          12,
+                                          13,
+                                          7,
+                                          12,
+                                          9
+                                      ],
+                                "o":  [
+                                          11,
+                                          12,
+                                          13,
+                                          10,
+                                          12
+                                      ],
+                                "why_en":  "Subsystems designed into OEM tools and Atotech chemistry are sticky, but leverage and uneven margins weaken durability; AI lifts chip-tool and advanced-PCB demand without a controlling bottleneck.",
+                                "why_th":  "ชิ้นส่วนย่อยที่ฝังอยู่ในเครื่องจักรของผู้ผลิตและเคมีภัณฑ์ Atotech ทำให้ลูกค้าเปลี่ยนยาก แต่หนี้สูงและมาร์จินไม่สม่ำเสมอลดความทนทาน AI เพิ่มความต้องการเครื่องผลิตชิปและแผงวงจรขั้นสูง แต่ไม่ได้คุมคอขวด"
+                            },
+                   "ONTO":  {
+                                "m":  [
+                                          13,
+                                          12,
+                                          8,
+                                          8,
+                                          11
+                                      ],
+                                "o":  [
                                           15,
                                           17,
-                                          14,
+                                          13,
+                                          11,
                                           13
                                       ],
-                                "why_en":  "Etch leadership and process-of-record lock-in in memory give a wide moat; HBM, DRAM and advanced-packaging demand drive record growth, though TEL and Applied compete in most steps.",
-                                "why_th":  "เป็นผู้นำเครื่องกัดวงจร (etch) และเป็นเครื่องมือหลักที่ถูกล็อกไว้ในสายการผลิตหน่วยความจำ คูเมืองจึงกว้าง ความต้องการ HBM, DRAM และแพ็กเกจจิงขั้นสูงดันรายได้ทำสถิติใหม่ แต่ยังมี TEL และ Applied แข่งขันในหลายขั้นตอน"
-                            }
+                                "why_en":  "Strong advanced-packaging inspection niche but small scale versus KLA limits the moat; AI-driven 2.5D and HBM packaging growth, record backlog and high exposure drive a strong opportunity.",
+                                "why_th":  "แข็งแกร่งเฉพาะทางในเครื่องตรวจสอบแพ็กเกจจิงขั้นสูง แต่ขนาดเล็กกว่า KLA มากจึงจำกัดคูเมือง ขณะที่แพ็กเกจจิง 2.5D และ HBM จาก AI ยอดค้างส่งมอบสูงเป็นประวัติการณ์ และสัดส่วนรายได้ AI สูง หนุนโอกาสอย่างมาก"
+                            },
+                   "TER":  {
+                               "m":  [
+                                         14,
+                                         15,
+                                         12,
+                                         12,
+                                         12
+                                     ],
+                               "o":  [
+                                         16,
+                                         16,
+                                         13,
+                                         12,
+                                         13
+                                     ],
+                               "why_en":  "Sticky tester installed base and test software, but second to Advantest; AI now over 60% of sales as compute and HBM test surge, giving strong exposure and growth.",
+                               "why_th":  "ฐานเครื่องทดสอบและซอฟต์แวร์ทดสอบทำให้ลูกค้าเปลี่ยนยาก แต่เป็นอันดับสองรองจาก Advantest ขณะที่ AI คิดเป็นกว่า 60% ของยอดขาย จากการทดสอบชิปประมวลผลและ HBM ที่เติบโตแรง"
+                           }
                }
 },
 "equip-codex":{
@@ -210,44 +354,44 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
     "model":  "gpt-6.2-sol",
     "effort":  "high",
     "account":  "Codex (ChatGPT)",
-    "generatedAt":  "2026-11-24T04:49:52Z",
+    "generatedAt":  "2026-11-24T16:11:33Z",
     "costUsd":  null,
     "stocks":  {
                    "AEHR":  {
                                 "m":  [
                                           13,
-                                          11,
-                                          5,
-                                          6,
-                                          5
+                                          13,
+                                          7,
+                                          7,
+                                          6
                                       ],
                                 "o":  [
-                                          15,
                                           16,
-                                          12,
-                                          9,
+                                          16,
+                                          13,
+                                          10,
                                           14
                                       ],
-                                "why_en":  "Specialized burn-in tools are winning AI processor orders, with customer concentration and uneven profitability limiting Aehr’s moat. [Quarterly filing](https://www.sec.gov/Archives/edgar/data/1040470/000165495426009601/aehr_10q.htm)",
-                                "why_th":  "เครื่องทดสอบความทนทานแบบเบิร์นอินเฉพาะทางของ Aehr ได้คำสั่งซื้อสำหรับชิป AI เพิ่มขึ้น โดยการพึ่งพาลูกค้าไม่กี่รายและกำไรที่ผันผวนจำกัดความได้เปรียบระยะยาว"
+                                "why_en":  "Specialized burn-in tools have won AI processor production orders, and customer concentration and uneven profitability limit the moat. [Quarterly results](https://www.aehr.com/2026/11/aehr-test-systems-reports-record-first-quarter-fiscal-2027-revenue-of-33-0-million-raises-full-year-revenue-outlook-to-150-million-triple-fiscal-2026-revenue/)",
+                                "why_th":  "เครื่องทดสอบความทนทานเฉพาะทางได้คำสั่งซื้อสำหรับสายการผลิตชิป AI ส่วนฐานลูกค้าที่กระจุกตัวและกำไรที่ผันผวนจำกัดความแข็งแกร่งของความได้เปรียบ"
                             },
                    "AMAT":  {
                                 "m":  [
                                           17,
-                                          16,
-                                          14,
-                                          19,
-                                          17
+                                          17,
+                                          15,
+                                          18,
+                                          18
                                       ],
                                 "o":  [
-                                          12,
-                                          16,
+                                          13,
+                                          17,
                                           17,
                                           15,
                                           16
                                       ],
-                                "why_en":  "A large installed base and process expertise make Applied hard to displace as AI lifts demand for advanced logic, DRAM and packaging tools. [Earnings call](https://ir.appliedmaterials.com/static-files/14fd85ae-ff29-4756-879c-c899da301ae6)",
-                                "why_th":  "ฐานเครื่องจักรที่ติดตั้งไว้จำนวนมากและความเชี่ยวชาญด้านกระบวนการผลิตทำให้ลูกค้าเปลี่ยนจาก Applied ได้ยาก ขณะที่ AI เพิ่มความต้องการเครื่องมือผลิตชิปลอจิกขั้นสูงและ DRAM รวมถึงเครื่องมือแพ็กเกจจิง"
+                                "why_en":  "A broad tool portfolio and large installed base sustain margins as AI spending lifts demand for leading-edge logic, DRAM, and advanced packaging equipment. [Earnings remarks](https://ir.appliedmaterials.com/static-files/14fd85ae-ff29-4756-879c-c899da301ae6)",
+                                "why_th":  "เครื่องจักรที่หลากหลายและฐานเครื่องที่ติดตั้งจำนวนมากช่วยรักษาอัตรากำไร ขณะที่การลงทุนด้าน AI เพิ่มความต้องการเครื่องผลิตชิปลอจิกขั้นสูง ชิป DRAM และเครื่องสำหรับแพ็กเกจจิงขั้นสูง"
                             },
                    "ASML":  {
                                 "m":  [
@@ -262,47 +406,119 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
                                           17,
                                           20,
                                           20,
+                                          13
+                                      ],
+                                "why_en":  "Its EUV monopoly and recurring service revenue sustain high returns as AI demand drives chipmakers to expand leading-edge capacity. [Quarterly results](https://www.investor.asml.com/news-releases/news-release-details/asml-reports-eu11.7-billion-total-net-sales-and-eu5.0-billion-net-income-q3-2026)",
+                                "why_th":  "การเป็นผู้ขายเครื่อง EUV เพียงรายเดียวและรายได้บริการที่เกิดขึ้นต่อเนื่องช่วยรักษาผลตอบแทนระดับสูง ขณะที่ความต้องการด้าน AI ผลักดันให้ผู้ผลิตชิปเพิ่มกำลังการผลิตที่ใช้เทคโนโลยีขั้นสูง"
+                            },
+                   "ENTG":  {
+                                "m":  [
+                                          15,
+                                          17,
+                                          10,
+                                          14,
+                                          12
+                                      ],
+                                "o":  [
+                                          10,
+                                          15,
+                                          15,
+                                          13,
                                           14
                                       ],
-                                "why_en":  "ASML’s EUV monopoly makes it indispensable to leading-edge AI chip production, with High NA and advanced packaging adding growth opportunities. [Annual report](https://www.sec.gov/Archives/edgar/data/937966/000162828026011378/asml-20251231.htm)",
-                                "why_th":  "การเป็นผู้ขายเครื่อง EUV เพียงรายเดียวทำให้ ASML ขาดไม่ได้ในการผลิตชิป AI ขั้นสูง โดยเครื่อง High NA และอุปกรณ์แพ็กเกจจิงขั้นสูงช่วยเพิ่มโอกาสเติบโต"
+                                "why_en":  "Fab qualification makes specialty materials hard to replace, and tighter contamination limits at advanced nodes increase demand from AI chip production. [Capital Markets Day](https://investor.entegris.com/news/news-details/2026/Entegris-Details-Growth-Strategy-and-Long-Term-Financial-Model-at-2026-Capital-Markets-Day/default.aspx)",
+                                "why_th":  "วัสดุเฉพาะทางที่ผ่านการรับรองจากโรงงานแล้วเปลี่ยนทดแทนได้ยาก และข้อกำหนดด้านการปนเปื้อนที่เข้มงวดขึ้นในกระบวนการผลิตขั้นสูงช่วยเพิ่มความต้องการวัสดุเหล่านี้ในการผลิตชิป AI"
                             },
                    "KLAC":  {
                                 "m":  [
+                                          19,
                                           18,
-                                          18,
-                                          12,
-                                          18,
+                                          13,
+                                          17,
                                           19
                                       ],
                                 "o":  [
-                                          12,
-                                          16,
-                                          19,
+                                          13,
                                           17,
+                                          19,
+                                          18,
                                           14
                                       ],
-                                "why_en":  "KLA’s market-leading inspection tools are embedded in fab workflows, while more complex AI chips and advanced packaging increase demand for defect detection. [Annual filing](https://ir.kla.com/sec-filings/all-sec-filings/content/0000319201-26-000027/klac-20260630.htm)",
-                                "why_th":  "เครื่องตรวจสอบของ KLA ครองตลาดและเป็นส่วนหนึ่งของกระบวนการผลิตในโรงงาน ขณะที่ความซับซ้อนของชิป AI และแพ็กเกจจิงขั้นสูงเพิ่มความต้องการตรวจหาข้อบกพร่อง"
+                                "why_en":  "Dominant inspection tools and deeply embedded yield workflows sustain high margins as complex AI chips and packages require more process control. [Annual report](https://ir.kla.com/sec-filings/annual-reports/content/0001193125-26-397978/0001193125-26-397978.pdf)",
+                                "why_th":  "ความเป็นผู้นำด้านเครื่องตรวจสอบและระบบควบคุมอัตราชิปดีที่ฝังอยู่ในสายการผลิตช่วยรักษาอัตรากำไรสูง ขณะที่ชิป AI และแพ็กเกจที่ซับซ้อนขึ้นต้องควบคุมกระบวนการผลิตมากขึ้น"
                             },
                    "LRCX":  {
                                 "m":  [
                                           18,
                                           17,
-                                          12,
-                                          18,
+                                          13,
+                                          17,
                                           17
                                       ],
                                 "o":  [
-                                          13,
+                                          14,
                                           17,
-                                          17,
+                                          18,
                                           16,
                                           16
                                       ],
-                                "why_en":  "Qualified etch and deposition tools are hard to replace in fabs, while AI lifts demand for HBM equipment and creates opportunities in hybrid bonding. [Lam Research](https://newsroom.lamresearch.com/advanced-packaging-next-frontier-ai-scaling)",
-                                "why_th":  "เครื่องกัดลายและเครื่องเคลือบฟิล์มของ Lam ที่ผ่านการรับรองแล้วเปลี่ยนทดแทนได้ยากในโรงงานผลิตชิป ขณะที่ AI เพิ่มความต้องการเครื่องมือผลิต HBM และเปิดโอกาสด้านการยึดประสานแบบไฮบริด"
-                            }
+                                "why_en":  "Qualified etch and deposition tools and a large installed base sustain returns as HBM and advanced logic require more fabrication steps. [Earnings presentation](https://investor.lamresearch.com/content/dam/investor/image/Q1_2027-slides-full_final.pdf)",
+                                "why_th":  "เครื่องกัดลายและเคลือบฟิล์มที่ผ่านการรับรองแล้วและฐานเครื่องที่ติดตั้งจำนวนมากช่วยรักษาผลตอบแทน ขณะที่การผลิต HBM และชิปลอจิกขั้นสูงต้องใช้ขั้นตอนมากขึ้น"
+                            },
+                   "MKSI":  {
+                                "m":  [
+                                          14,
+                                          15,
+                                          10,
+                                          12,
+                                          11
+                                      ],
+                                "o":  [
+                                          11,
+                                          15,
+                                          14,
+                                          12,
+                                          13
+                                      ],
+                                "why_en":  "Vacuum and power subsystems are hard to replace once designed into equipment, and demand for AI substrates and advanced packaging provides room to grow. [Quarterly results](https://investor.mks.com/node/24536)",
+                                "why_th":  "ระบบสุญญากาศและระบบจ่ายไฟเปลี่ยนได้ยากเมื่อผู้ผลิตออกแบบเครื่องให้ใช้ระบบเหล่านี้แล้ว ส่วนความต้องการแผ่นฐานสำหรับชิป AI และแพ็กเกจจิงขั้นสูงเปิดโอกาสให้ธุรกิจเติบโต"
+                            },
+                   "ONTO":  {
+                                "m":  [
+                                          15,
+                                          15,
+                                          9,
+                                          11,
+                                          12
+                                      ],
+                                "o":  [
+                                          14,
+                                          17,
+                                          15,
+                                          13,
+                                          14
+                                      ],
+                                "why_en":  "Specialized inspection tools are costly to replace once integrated into packaging lines, and stacked AI chips increase demand for more precise inspection. [Quarterly results](https://investors.ontoinnovation.com/news/news-details/2026/Onto-Innovation-Reports-2026-Third-Quarter-Results/default.aspx)",
+                                "why_th":  "เครื่องตรวจสอบเฉพาะทางมีต้นทุนการเปลี่ยนสูงเมื่อติดตั้งในสายการผลิตแพ็กเกจแล้ว และการซ้อนชิป AI เพิ่มความต้องการการตรวจสอบที่แม่นยำขึ้น"
+                            },
+                   "TER":  {
+                               "m":  [
+                                         16,
+                                         17,
+                                         13,
+                                         15,
+                                         14
+                                     ],
+                               "o":  [
+                                         17,
+                                         17,
+                                         16,
+                                         14,
+                                         15
+                                     ],
+                               "why_en":  "Tester software and validated test programs make switching costly, and demand for accelerator and HBM testing now drives a substantial share of sales. [Earnings presentation](https://d1io3yog0oux5.cloudfront.net/_72d0b4ca9e4a1a38aea2af8ee1b50286/teradyne/db/938/9658/presentation/Teradyne_Q3%2726_Earnings_Presentation.pdf)",
+                               "why_th":  "ซอฟต์แวร์ของเครื่องทดสอบและโปรแกรมทดสอบที่ผ่านการตรวจสอบแล้วทำให้การเปลี่ยนระบบมีต้นทุนสูง และความต้องการทดสอบชิปเร่งการประมวลผลกับ HBM เป็นแรงขับเคลื่อนยอดขายส่วนสำคัญ"
+                           }
                }
 },
 "fm-antigravity":{
@@ -1305,24 +1521,6 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
                                "why_en":  "Oligopolistic gas-turbine IP, long service lock-in, and sold-out multi-year slots create elite AI power bottlenecks, while persistent wind losses weigh on standalone margin durability.",
                                "why_th":  "เทคโนโลยีเทอร์ไบน์ก๊าซแบบผู้ขายน้อยราย สัญญาบริการระยะยาว และคิวผลิตที่เต็มหลายปีสร้างคอขวดไฟฟ้า AI ระดับสูง แต่การขาดทุนของธุรกิจพลังงานลมยังกดดันความสม่ำเสมอของอัตรากำไร"
                            },
-                   "SU":  {
-                              "m":  [
-                                        14,
-                                        15,
-                                        12,
-                                        16,
-                                        17
-                                    ],
-                              "o":  [
-                                        13,
-                                        16,
-                                        16,
-                                        14,
-                                        14
-                                    ],
-                              "why_en":  "Best-in-class margin durability, global electrical scale, and EcoStruxure software anchor the sector\u0027s broadest moat, with Motivair liquid cooling driving solid AI growth alongside diversified non-AI operations.",
-                              "why_th":  "ความสม่ำเสมอของอัตรากำไรระดับแนวหน้า ขนาดธุรกิจไฟฟ้าระดับโลก และซอฟต์แวร์ EcoStruxure สร้างคูเมืองที่กว้างที่สุดในกลุ่ม ขณะที่ Motivair หนุนโอกาส AI ได้ดีท่ามกลางธุรกิจที่หลากหลาย"
-                          },
                    "VRT":  {
                                "m":  [
                                          14,
@@ -1443,24 +1641,6 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
                                "why_en":  "One of three heavy-duty gas turbine makers, with a vast service base and sold-out slots in a key AI bottleneck; short profit record and wind losses limit the moat.",
                                "why_th":  "หนึ่งในสามผู้ผลิตกังหันก๊าซขนาดใหญ่ของโลก มีฐานงานบริการมหาศาลและคิวการผลิตที่จองเต็มในคอขวดสำคัญของไฟฟ้าสำหรับ AI แต่ประวัติการทำกำไรที่ยังสั้นและการขาดทุนของธุรกิจพลังงานลมจำกัดคูเมือง"
                            },
-                   "SU":  {
-                              "m":  [
-                                        15,
-                                        15,
-                                        14,
-                                        17,
-                                        16
-                                    ],
-                              "o":  [
-                                        12,
-                                        16,
-                                        17,
-                                        13,
-                                        14
-                                    ],
-                              "why_en":  "Global leader in electrical distribution and data center power and cooling, with a vast installed base, software ecosystem and long margin record; AI exposure is meaningful but diluted.",
-                              "why_th":  "ผู้นำระดับโลกด้านระบบจ่ายไฟฟ้าและระบบไฟฟ้า-ระบายความร้อนของดาต้าเซ็นเตอร์ มีฐานติดตั้งมหาศาล ระบบนิเวศซอฟต์แวร์ และประวัติอัตรากำไรที่ยาวนาน ส่วนรายได้จาก AI มีนัยสำคัญแต่ถูกเจือจางด้วยธุรกิจอื่น"
-                          },
                    "VRT":  {
                                "m":  [
                                          13,
@@ -1581,24 +1761,6 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
                                "why_en":  "Proprietary turbines and long-term service contracts provide defenses despite uneven margins, while scarce turbine production slots and grid equipment give GE Vernova leverage as AI power demand grows. [Q3 results](https://www.gevernova.com/news/articles/ge-vernova-releases-third-quarter-2026-financial-results-announces-agreement-acquire)",
                                "why_th":  "เทคโนโลยีกังหันของบริษัทและสัญญาบริการระยะยาวช่วยปกป้องความได้เปรียบแม้อัตรากำไรผันผวน ขณะที่คิวผลิตกังหันและอุปกรณ์โครงข่ายไฟฟ้าที่มีจำกัดช่วยเพิ่มอำนาจต่อรองเมื่อ AI ต้องการไฟฟ้ามากขึ้น"
                            },
-                   "SU":  {
-                              "m":  [
-                                        15,
-                                        16,
-                                        14,
-                                        18,
-                                        17
-                                    ],
-                              "o":  [
-                                        12,
-                                        17,
-                                        18,
-                                        15,
-                                        16
-                                    ],
-                              "why_en":  "Schneider’s installed electrical and automation systems are costly to replace, and its power distribution and liquid cooling products position it to benefit from AI data-center growth. [Q3 results](https://www.se.com/ww/en/about-us/investor-relations/financial-results/)",
-                              "why_th":  "ระบบไฟฟ้าและระบบอัตโนมัติของ Schneider ที่ติดตั้งแล้วมีค่าใช้จ่ายสูงในการเปลี่ยน ส่วนอุปกรณ์จ่ายไฟและระบบระบายความร้อนด้วยของเหลวช่วยให้บริษัทได้ประโยชน์จากการเติบโตของศูนย์ข้อมูล AI"
-                          },
                    "VRT":  {
                                "m":  [
                                          16,
@@ -1899,42 +2061,6 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
                                 "why_en":  "MEMS timing leadership expanded by Renesas\u0027s clocking assets drives rapid AI data-center adoption, though unproven GAAP margin durability and smaller scale keep its moat moderate.",
                                 "why_th":  "ความเป็นผู้นำชิปตั้งเวลา MEMS ที่เสริมทัพด้วยธุรกิจจาก Renesas หนุนการเติบโตในดาต้าเซ็นเตอร์ AI อย่างก้าวกระโดด แต่ความยั่งยืนของกำไรและขนาดธุรกิจยังจำกัดป้อมปราการ"
                             },
-                   "SKH":  {
-                               "m":  [
-                                         16,
-                                         13,
-                                         11,
-                                         16,
-                                         11
-                                     ],
-                               "o":  [
-                                         18,
-                                         16,
-                                         18,
-                                         18,
-                                         13
-                                     ],
-                               "why_en":  "Number-one HBM share and tight NVIDIA-TSMC integration make it a core AI memory bottleneck with huge pricing power, though memory cyclicality limits structural moat durability.",
-                               "why_th":  "ส่วนแบ่ง HBM อันดับหนึ่งและความร่วมมือใกล้ชิดกับ NVIDIA และ TSMC ทำให้เป็นคอขวดสำคัญที่มีอำนาจตั้งราคาสูง แต่วัฏจักรธุรกิจหน่วยความจำจำกัดความทนทานของป้อมปราการ"
-                           },
-                   "SMSN":  {
-                                "m":  [
-                                          15,
-                                          11,
-                                          12,
-                                          19,
-                                          12
-                                      ],
-                                "o":  [
-                                          14,
-                                          15,
-                                          15,
-                                          16,
-                                          14
-                                      ],
-                                "why_en":  "Unmatched memory scale and a strong HBM4 comeback power huge AI profits, though lagging logic foundry competitiveness, cyclicality, and consumer-electronics dilution restrain moat and opportunity.",
-                                "why_th":  "ขนาดการผลิตหน่วยความจำอันดับหนึ่งและการฟื้นตัวของ HBM4 หนุนกำไร AI มหาศาล แต่ธุรกิจรับจ้างผลิตชิปที่ตามหลัง วัฏจักรตลาด และกลุ่มสินค้าผู้บริโภคลดทอนความเข้มข้นของคะแนน"
-                            },
                    "TSM":  {
                                "m":  [
                                          20,
@@ -1952,7 +2078,25 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
                                      ],
                                "why_en":  "Unmatched leading-edge process and CoWoS packaging dominance give TSMC an extraordinary moat and the ultimate AI supply-chain bottleneck, winning across all major chip designers.",
                                "why_th":  "ความเป็นผู้นำเทคโนโลยีการผลิตขั้นสูงและบรรจุภัณฑ์ CoWoS ที่ไร้คู่เทียบสร้างป้อมปราการระดับโลกและเป็นคอขวดสำคัญที่สุดของห่วงโซ่ AI ที่ได้ประโยชน์จากนักออกแบบชิปทุกราย"
-                           }
+                           },
+                   "SKHY":  {
+                                "m":  [
+                                          16,
+                                          13,
+                                          11,
+                                          16,
+                                          11
+                                      ],
+                                "o":  [
+                                          18,
+                                          16,
+                                          18,
+                                          18,
+                                          13
+                                      ],
+                                "why_en":  "Number-one HBM share and tight NVIDIA-TSMC integration make it a core AI memory bottleneck with huge pricing power, though memory cyclicality limits structural moat durability.",
+                                "why_th":  "ส่วนแบ่ง HBM อันดับหนึ่งและความร่วมมือใกล้ชิดกับ NVIDIA และ TSMC ทำให้เป็นคอขวดสำคัญที่มีอำนาจตั้งราคาสูง แต่วัฏจักรธุรกิจหน่วยความจำจำกัดความทนทานของป้อมปราการ"
+                            }
                }
 },
 "semi-claude":{
@@ -2217,42 +2361,6 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
                                 "why_en":  "Unique MEMS timing plus Renesas\u0027 clock business make SiTime a leading AI data-center timing supplier with ~70% non-GAAP gross margins, but small scale and past GAAP losses limit durability.",
                                 "why_th":  "เทคโนโลยีจับเวลาแบบ MEMS ที่มีเอกลักษณ์รวมกับธุรกิจสัญญาณนาฬิกาของ Renesas ทำให้เป็นผู้นำชิปจับเวลาในศูนย์ข้อมูล AI ด้วยอัตรากำไรขั้นต้นราว 70% แต่ธุรกิจยังเล็กและเคยขาดทุนทางบัญชี"
                             },
-                   "SKH":  {
-                               "m":  [
-                                         16,
-                                         9,
-                                         7,
-                                         16,
-                                         8
-                                     ],
-                               "o":  [
-                                         18,
-                                         16,
-                                         16,
-                                         18,
-                                         13
-                                     ],
-                               "why_en":  "Number-one HBM supplier with about 80% operating margins in a memory oligopoly, making profits overwhelmingly AI-driven; Samsung\u0027s HBM4 share gains and memory cyclicality cap moat durability.",
-                               "why_th":  "ผู้นำอันดับหนึ่งด้าน HBM ที่มีอัตรากำไรจากการดำเนินงานราว 80% ในตลาดหน่วยความจำที่มีผู้เล่นน้อยราย ทำให้กำไรเกือบทั้งหมดมาจาก AI แต่ Samsung กำลังแย่งส่วนแบ่ง HBM4 และวัฏจักรหน่วยความจำจำกัดความทนทานของคูเมือง"
-                           },
-                   "SMSN":  {
-                                "m":  [
-                                          16,
-                                          8,
-                                          9,
-                                          18,
-                                          11
-                                      ],
-                                "o":  [
-                                          14,
-                                          15,
-                                          15,
-                                          16,
-                                          15
-                                      ],
-                                "why_en":  "Largest memory scale, a regained DRAM lead and rising HBM4 share drive record AI-memory profits, but consumer businesses, a lagging foundry and memory cyclicality dilute the moat.",
-                                "why_th":  "มีกำลังผลิตหน่วยความจำใหญ่ที่สุด กลับมาเป็นผู้นำ DRAM และส่วนแบ่ง HBM4 เพิ่มขึ้น ทำให้กำไรจากหน่วยความจำ AI สูงเป็นประวัติการณ์ แต่ธุรกิจผู้บริโภค โรงงานรับจ้างผลิตชิปที่ตามหลังคู่แข่ง และวัฏจักรหน่วยความจำทำให้คูเมืองอ่อนลง"
-                            },
                    "TSM":  {
                                "m":  [
                                          20,
@@ -2270,7 +2378,25 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
                                      ],
                                "why_en":  "Near-monopoly on leading-edge nodes and CoWoS packaging, the key bottleneck for almost all AI chips, backed by decades of high returns; non-AI chips still dilute exposure.",
                                "why_th":  "เกือบผูกขาดการผลิตชิปขั้นสูงสุดและบรรจุภัณฑ์ CoWoS ซึ่งเป็นคอขวดสำคัญของชิป AI เกือบทั้งหมด พร้อมผลตอบแทนสูงต่อเนื่องหลายสิบปี แต่ชิปที่ไม่ใช่ AI ยังเป็นสัดส่วนรายได้ที่มาก"
-                           }
+                           },
+                   "SKHY":  {
+                                "m":  [
+                                          16,
+                                          9,
+                                          7,
+                                          16,
+                                          8
+                                      ],
+                                "o":  [
+                                          18,
+                                          16,
+                                          16,
+                                          18,
+                                          13
+                                      ],
+                                "why_en":  "Number-one HBM supplier with about 80% operating margins in a memory oligopoly, making profits overwhelmingly AI-driven; Samsung\u0027s HBM4 share gains and memory cyclicality cap moat durability.",
+                                "why_th":  "ผู้นำอันดับหนึ่งด้าน HBM ที่มีอัตรากำไรจากการดำเนินงานราว 80% ในตลาดหน่วยความจำที่มีผู้เล่นน้อยราย ทำให้กำไรเกือบทั้งหมดมาจาก AI แต่ Samsung กำลังแย่งส่วนแบ่ง HBM4 และวัฏจักรหน่วยความจำจำกัดความทนทานของคูเมือง"
+                            }
                }
 },
 "semi-codex":{
@@ -2535,42 +2661,6 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
                                 "why_en":  "MEMS timing expertise and customer qualifications protect SiTime’s niche, while faster optical links in AI clusters increase demand for precision timing chips. [Source](https://investor.sitime.com/files/doc_financials/2026/q3/SiTime-SITM-3Q-2026-Earnings-Call-Transcript-Nov-04-2026.pdf)",
                                 "why_th":  "ความเชี่ยวชาญด้านชิปกำหนดจังหวะสัญญาณแบบ MEMS และการผ่านการรับรองจากลูกค้าช่วยรักษาตำแหน่งของ SiTime ในตลาดเฉพาะทาง ขณะที่การเชื่อมต่อผ่านแสงที่เร็วขึ้นในคลัสเตอร์ AI เพิ่มความต้องการชิปกำหนดจังหวะความแม่นยำสูง"
                             },
-                   "SKH":  {
-                               "m":  [
-                                         18,
-                                         16,
-                                         9,
-                                         18,
-                                         12
-                                     ],
-                               "o":  [
-                                         17,
-                                         18,
-                                         18,
-                                         18,
-                                         15
-                                     ],
-                               "why_en":  "HBM stacking expertise, accelerator qualification and memory manufacturing scale support SK hynix’s leadership as AI systems require more high-bandwidth memory. [Source](https://news.skhynix.com/en/q3-2026-business-results/)",
-                               "why_th":  "ความเชี่ยวชาญในการซ้อนชิป HBM การผ่านการรับรองให้ใช้กับชิปเร่งประมวลผล และขนาดการผลิตหน่วยความจำช่วยให้ SK hynix รักษาความเป็นผู้นำในช่วงที่ระบบ AI ต้องการหน่วยความจำแบนด์วิดท์สูงมากขึ้น"
-                           },
-                   "SMSN":  {
-                                "m":  [
-                                          17,
-                                          14,
-                                          12,
-                                          20,
-                                          13
-                                      ],
-                                "o":  [
-                                          15,
-                                          18,
-                                          17,
-                                          17,
-                                          16
-                                      ],
-                                "why_en":  "Samsung’s memory manufacturing scale is hard to match, and rising HBM4 shipments and advanced foundry orders give it two ways to benefit from AI demand. [Source](https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results)",
-                                "why_th":  "ขนาดการผลิตหน่วยความจำของ Samsung เป็นข้อได้เปรียบที่คู่แข่งตามได้ยาก และทั้งยอดส่งมอบ HBM4 ที่เพิ่มขึ้นกับคำสั่งจ้างผลิตชิปด้วยกระบวนการขั้นสูงช่วยให้บริษัทได้ประโยชน์จากความต้องการ AI"
-                            },
                    "TSM":  {
                                "m":  [
                                          20,
@@ -2588,7 +2678,25 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
                                      ],
                                "why_en":  "Leading process nodes and costly requalification protect foundry returns, while scarce CoWoS capacity gives TSMC leverage as GPU and custom accelerator demand grows. [Source](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)",
                                "why_th":  "ความเป็นผู้นำด้านกระบวนการผลิตชิปและต้นทุนสูงในการรับรองผู้ผลิตรายใหม่ช่วยรักษาผลตอบแทน ขณะที่กำลังผลิตแพ็กเกจแบบ CoWoS ที่มีจำกัดเพิ่มอำนาจต่อรองให้ TSMC เมื่อความต้องการ GPU และชิปเร่งประมวลผลสั่งทำเพิ่มขึ้น"
-                           }
+                           },
+                   "SKHY":  {
+                                "m":  [
+                                          18,
+                                          16,
+                                          9,
+                                          18,
+                                          12
+                                      ],
+                                "o":  [
+                                          17,
+                                          18,
+                                          18,
+                                          18,
+                                          15
+                                      ],
+                                "why_en":  "HBM stacking expertise, accelerator qualification and memory manufacturing scale support SK hynix’s leadership as AI systems require more high-bandwidth memory. [Source](https://news.skhynix.com/en/q3-2026-business-results/)",
+                                "why_th":  "ความเชี่ยวชาญในการซ้อนชิป HBM การผ่านการรับรองให้ใช้กับชิปเร่งประมวลผล และขนาดการผลิตหน่วยความจำช่วยให้ SK hynix รักษาความเป็นผู้นำในช่วงที่ระบบ AI ต้องการหน่วยความจำแบนด์วิดท์สูงมากขึ้น"
+                            }
                }
 },
 "soft-antigravity":{
@@ -2598,135 +2706,9 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
     "model":  "gemini-4-neon-high",
     "effort":  "high",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-24T04:59:49Z",
+    "generatedAt":  "2026-11-24T16:32:23Z",
     "costUsd":  null,
     "stocks":  {
-                   "AMZN":  {
-                                "m":  [
-                                          17,
-                                          17,
-                                          18,
-                                          20,
-                                          17
-                                      ],
-                                "o":  [
-                                          14,
-                                          18,
-                                          18,
-                                          16,
-                                          17
-                                      ],
-                                "why_en":  "Unmatched cloud and retail scale anchors Amazon\u0027s wide moat, while surging AWS AI demand, Bedrock, Anthropic ties, and Trainium chips drive massive AI upside.",
-                                "why_th":  "ขนาดธุรกิจคลาวด์และค้าปลีกที่เหนือชั้นสร้างคูเมืองแข็งแกร่ง ขณะที่อุปสงค์ AI บน AWS, Bedrock, ความร่วมมือกับ Anthropic และชิป Trainium ผลักดันโอกาสเติบโตมหาศาล"
-                            },
-                   "AXON":  {
-                                "m":  [
-                                          14,
-                                          18,
-                                          14,
-                                          12,
-                                          12
-                                      ],
-                                "o":  [
-                                          12,
-                                          15,
-                                          17,
-                                          12,
-                                          14
-                                      ],
-                                "why_en":  "Mission-critical TASER, body-camera, and Evidence.com lock-in builds a durable law-enforcement moat, with Draft One driving high-margin AI software growth inside a niche public-safety market.",
-                                "why_th":  "การผูกติดของอุปกรณ์ TASER กล้องติดตัว และ Evidence.com สร้างคูเมืองแกร่งในวงการตำรวจ โดย Draft One หนุนการเติบโตซอฟต์แวร์ AI มาร์จิ้นสูงในตลาดเฉพาะกลุ่ม"
-                            },
-                   "CRWD":  {
-                                "m":  [
-                                          15,
-                                          16,
-                                          15,
-                                          13,
-                                          12
-                                      ],
-                                "o":  [
-                                          12,
-                                          16,
-                                          16,
-                                          11,
-                                          14
-                                      ],
-                                "why_en":  "CrowdStrike\u0027s unified Falcon platform and threat-data network create strong switching costs, while Charlotte AI and agent security add solid upside despite intense competition and thin GAAP margins.",
-                                "why_th":  "แพลตฟอร์ม Falcon และเครือข่ายข้อมูลภัยคุกคามสร้างต้นทุนการเปลี่ยนเจ้าสูง ขณะที่ Charlotte AI และระบบปกป้องเอเจนต์หนุนการเติบโตแม้เผชิญการแข่งขันสูงและกำไร GAAP ยังบาง"
-                            },
-                   "DOCN":  {
-                                "m":  [
-                                          9,
-                                          10,
-                                          10,
-                                          7,
-                                          10
-                                      ],
-                                "o":  [
-                                          13,
-                                          17,
-                                          10,
-                                          6,
-                                          10
-                                      ],
-                                "why_en":  "Developer simplicity supports a modest SMB niche, but weak scale and low switching costs leave DigitalOcean exposed against hyperscalers and GPU neoclouds despite fast-growing AI inference demand.",
-                                "why_th":  "ความใช้งานง่ายช่วยยึดตลาดเฉพาะกลุ่มนักพัฒนา แต่ขนาดที่เล็กและต้นทุนการเปลี่ยนเจ้าต่ำทำให้เสียเปรียบคลาวด์ยักษ์ใหญ่และเนโอคลาวด์ GPU แม้อุปสงค์ AI inference โตเร็ว"
-                            },
-                   "GOOGL":  {
-                                 "m":  [
-                                           19,
-                                           16,
-                                           18,
-                                           19,
-                                           18
-                                       ],
-                                 "o":  [
-                                           15,
-                                           18,
-                                           18,
-                                           17,
-                                           18
-                                       ],
-                                 "why_en":  "Alphabet combines elite Search, Android, YouTube, and Cloud durability with industry-leading full-stack AI advantages across custom TPUs, Gemini models, surging Cloud revenue, and Waymo optionality.",
-                                 "why_th":  "Alphabet ผสานความแข็งแกร่งของ Search, Android, YouTube และคลาวด์ เข้ากับข้อได้เปรียบ AI ครบวงจรตั้งแต่ชิป TPU โมเดล Gemini รายได้คลาวด์ที่พุ่งแรง และศักยภาพจาก Waymo"
-                             },
-                   "META":  {
-                                "m":  [
-                                          16,
-                                          14,
-                                          19,
-                                          18,
-                                          16
-                                      ],
-                                "o":  [
-                                          14,
-                                          16,
-                                          15,
-                                          12,
-                                          16
-                                      ],
-                                "why_en":  "Unrivaled consumer social networks and ad scale sustain a wide moat, while AI lifts ad targeting and opens wearable optionality despite heavy CapEx and no cloud platform.",
-                                "why_th":  "เครือข่ายโซเชียลและขนาดธุรกิจโฆษณาที่ไร้คู่แข่งสร้างคูเมืองกว้าง ขณะที่ AI ช่วยเพิ่มประสิทธิภาพโฆษณาและเปิดโอกาสอุปกรณ์สวมใส่ แม้ต้องลงทุนสูงและไม่มีธุรกิจคลาวด์"
-                            },
-                   "MSFT":  {
-                                "m":  [
-                                          17,
-                                          19,
-                                          18,
-                                          19,
-                                          19
-                                      ],
-                                "o":  [
-                                          15,
-                                          18,
-                                          18,
-                                          15,
-                                          16
-                                      ],
-                                "why_en":  "Unmatched enterprise switching costs and 47% operating margins give Microsoft the sector\u0027s strongest moat, paired with huge Azure AI and Copilot scale across global corporate workflows.",
-                                "why_th":  "ต้นทุนการเปลี่ยนเจ้าในองค์กรที่สูงที่สุดและมาร์จิ้น 47% สร้างคูเมืองแกร่งที่สุดในกลุ่ม ผสานกับขนาดของ Azure AI และ Copilot ที่ฝังลึกในระบบงานองค์กรทั่วโลก"
-                            },
                    "NET":  {
                                "m":  [
                                          15,
@@ -2737,67 +2719,13 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
                                      ],
                                "o":  [
                                          13,
-                                         17,
-                                         15,
-                                         11,
-                                         15
-                                     ],
-                               "why_en":  "Cloudflare\u0027s global edge network builds a differentiated moat despite ongoing GAAP losses, positioning Workers AI and AI Gateway well to capture rising edge inference and agentic traffic.",
-                               "why_th":  "เครือข่ายเอดจ์ทั่วโลกสร้างคูเมืองที่แตกต่างแม้ยังขาดทุนทางบัญชี GAAP ทำให้ Workers AI และ AI Gateway พร้อมรองรับการเติบโตของ edge inference และทราฟฟิกจากเอเจนต์ AI"
-                           },
-                   "ORCL":  {
-                                "m":  [
-                                          15,
-                                          18,
-                                          14,
-                                          15,
-                                          16
-                                      ],
-                                "o":  [
-                                          15,
-                                          18,
-                                          15,
-                                          13,
-                                          13
-                                      ],
-                                "why_en":  "Sticky enterprise databases underpin Oracle\u0027s durable moat, while massive OCI GPU-cluster backlogs fuel surging AI cloud growth tempered by heavy CapEx and OpenAI customer concentration.",
-                                "why_th":  "ฐานข้อมูลองค์กรที่เปลี่ยนเจ้าได้ยากค้ำยันคูเมืองที่มั่นคง ขณะที่แบ็กล็อกคลัสเตอร์ GPU บน OCI หนุนการเติบโต AI คลาวด์อย่างก้าวกระโดด แม้มีความเสี่ยงด้านงบลงทุนและการพึ่งพา OpenAI"
-                            },
-                   "PLTR":  {
-                                "m":  [
-                                          16,
-                                          18,
-                                          13,
-                                          13,
-                                          14
-                                      ],
-                                "o":  [
-                                          18,
-                                          18,
-                                          17,
-                                          13,
-                                          15
-                                      ],
-                                "why_en":  "Deeply embedded Ontology deployments create high switching costs and surging 47% GAAP margins, making Palantir a premier pure-play enterprise and sovereign AI winner through AIP.",
-                                "why_th":  "การฝังระบบ Ontology ลึกในองค์กรสร้างต้นทุนการเปลี่ยนเจ้าสูงและมาร์จิ้น GAAP พุ่งแตะ 47% ส่งให้ Palantir เป็นผู้นำซอฟต์แวร์ AI องค์กรและภาครัฐผ่านแพลตฟอร์ม AIP"
-                            },
-                   "TEM":  {
-                               "m":  [
-                                         12,
-                                         12,
-                                         13,
-                                         11,
-                                         7
-                                     ],
-                               "o":  [
-                                         13,
                                          16,
-                                         13,
-                                         12,
-                                         14
+                                         14,
+                                         11,
+                                         16
                                      ],
-                               "why_en":  "A growing clinical-genomic data library supports strong pharma AI licensing upside, but persistent GAAP operating losses and competitive oncology diagnostics keep its moat developing.",
-                               "why_th":  "คลังข้อมูลคลินิกและจีโนมิกส์ที่เติบโตหนุนโอกาสขายลิขสิทธิ์ข้อมูล AI ให้บริษัทยา แต่การขาดทุนทางบัญชี GAAP ต่อเนื่องและการแข่งขันด้านการตรวจวินิจฉัยมะเร็งทำให้คูเมืองยังอยู่ระหว่างสร้างตัว"
+                               "why_en":  "Global edge scale and security network effects underpin a solid moat despite GAAP losses, while surging AI agent traffic, Workers AI, and crawl monetization drive strong upside.",
+                               "why_th":  "ขนาดเครือข่ายเอดจ์ระดับโลกและผลกระทบเครือข่ายด้านความปลอดภัยช่วยสร้างคูเมืองที่แข็งแกร่งแม้ยังขาดทุนตามบัญชี GAAP ขณะที่ทราฟฟิก AI agent ที่พุ่งสูง แพลตฟอร์ม Workers AI และโอกาสสร้างรายได้จากการควบคุมบอต AI หนุนการเติบโตด้าน AI อย่างโดดเด่น"
                            }
                }
 },
@@ -2808,206 +2736,26 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
     "model":  "claude-opus-5-5",
     "effort":  "max",
     "account":  "Claude",
-    "generatedAt":  "2026-11-24T05:01:23Z",
-    "costUsd":  1.4881343,
+    "generatedAt":  "2026-11-24T16:32:32Z",
+    "costUsd":  0.46543129999999994,
     "stocks":  {
-                   "AMZN":  {
-                                "m":  [
-                                          16,
-                                          16,
-                                          17,
-                                          19,
-                                          14
-                                      ],
-                                "o":  [
-                                          12,
-                                          18,
-                                          17,
-                                          14,
-                                          17
-                                      ],
-                                "why_en":  "AWS scale, data gravity and marketplace networks underpin a wide moat; AWS re-accelerating to 39% with a $578B backlog and Trainium gives large but capex-heavy AI upside.",
-                                "why_th":  "ขนาดของ AWS ข้อมูลลูกค้าที่ย้ายออกยาก และเครือข่ายมาร์เก็ตเพลสสร้างคูเมืองที่กว้าง ขณะที่ AWS กลับมาเร่งโต 39% พร้อมงานในมือ 578 พันล้านดอลลาร์และชิป Trainium ให้โอกาส AI สูงแต่ต้องลงทุนหนัก"
-                            },
-                   "AXON":  {
-                                "m":  [
-                                          13,
-                                          17,
-                                          13,
-                                          11,
-                                          10
-                                      ],
-                                "o":  [
-                                          7,
-                                          12,
-                                          17,
-                                          8,
-                                          13
-                                      ],
-                                "why_en":  "Near-monopoly TASER and body-camera ecosystem with sticky agency contracts, but thin GAAP margins; AI is a real upsell yet small, roughly $100M of $1.75B ARR.",
-                                "why_th":  "ระบบนิเวศ TASER และกล้องติดตัวที่แทบผูกขาดพร้อมสัญญาระยะยาวกับหน่วยงานทำให้ลูกค้าเหนียวแน่น แต่กำไรตามบัญชียังบาง ส่วน AI เป็นการขายเพิ่มที่มีจริงแต่ยังเล็ก ราว 100 ล้านดอลลาร์จาก ARR 1.75 พันล้าน"
-                            },
-                   "CRWD":  {
-                                "m":  [
-                                          15,
-                                          15,
-                                          14,
-                                          12,
-                                          9
-                                      ],
-                                "o":  [
-                                          10,
-                                          13,
-                                          16,
-                                          9,
-                                          13
-                                      ],
-                                "why_en":  "Single-agent Falcon platform and threat-data scale create sticky, leading endpoint share, but GAAP losses dent durability; AI-security demand helps, though cybersecurity grows slower than AI infrastructure.",
-                                "why_th":  "แพลตฟอร์ม Falcon แบบเอเจนต์เดียวและข้อมูลภัยคุกคามขนาดใหญ่ทำให้ลูกค้าเหนียวแน่นและนำตลาดเอนด์พอยต์ แต่ขาดทุนตามบัญชีจึงลดคะแนนความทนทาน ความต้องการความปลอดภัย AI ช่วยหนุน แต่ตลาดโตช้ากว่าโครงสร้างพื้นฐาน AI"
-                            },
-                   "DOCN":  {
-                                "m":  [
-                                          7,
-                                          8,
-                                          7,
-                                          5,
-                                          7
-                                      ],
-                                "o":  [
-                                          11,
-                                          16,
-                                          10,
-                                          4,
-                                          11
-                                      ],
-                                "why_en":  "Developer-friendly niche cloud lacks scale, IP or lock-in against hyperscalers; AI inference demand is lifting growth fast, but it resells GPU capacity with little pricing power.",
-                                "why_th":  "คลาวด์เฉพาะกลุ่มที่นักพัฒนาชื่นชอบ แต่ขาดขนาด เทคโนโลยีเฉพาะ และการผูกลูกค้าเมื่อเทียบกับไฮเปอร์สเกลเลอร์ ความต้องการ AI inference เร่งการเติบโตอย่างรวดเร็ว แต่เป็นเพียงผู้ปล่อยเช่า GPU ที่มีอำนาจตั้งราคาน้อย"
-                            },
-                   "GOOGL":  {
-                                 "m":  [
-                                           19,
-                                           13,
-                                           18,
-                                           19,
-                                           18
-                                       ],
-                                 "o":  [
-                                           14,
-                                           18,
-                                           18,
-                                           16,
-                                           19
-                                       ],
-                                 "why_en":  "Search, Android and YouTube networks plus TPUs and Gemini give a world-class, full-stack moat; Cloud up 103% with external TPU sales makes it the best-placed AI player here.",
-                                 "why_th":  "เครือข่าย Search, Android และ YouTube ผนวกกับชิป TPU และโมเดล Gemini สร้างคูเมืองครบวงจรระดับโลก ขณะที่ Cloud โต 103% และการขาย TPU ให้ลูกค้าภายนอกทำให้อยู่ในตำแหน่งด้าน AI ดีที่สุดในกลุ่มนี้"
-                             },
-                   "META":  {
-                                "m":  [
-                                          15,
-                                          12,
-                                          19,
-                                          17,
-                                          16
-                                      ],
-                                "o":  [
-                                          11,
-                                          14,
-                                          15,
-                                          7,
-                                          16
-                                      ],
-                                "why_en":  "Unmatched consumer network of 3.5B+ daily users and proven ad margins form the moat; AI mainly boosts ad targeting, while heavy capex and catch-up models limit direct AI capture.",
-                                "why_th":  "เครือข่ายผู้ใช้รายวันกว่า 3.5 พันล้านคนและอัตรากำไรโฆษณาที่พิสูจน์แล้วคือคูเมืองหลัก AI ช่วยเพิ่มประสิทธิภาพโฆษณาเป็นหลัก แต่การลงทุนมหาศาลและโมเดลที่ยังไล่ตามคู่แข่งจำกัดรายได้จาก AI โดยตรง"
-                            },
-                   "MSFT":  {
-                                "m":  [
-                                          16,
-                                          19,
-                                          17,
-                                          18,
-                                          19
-                                      ],
-                                "o":  [
-                                          15,
-                                          18,
-                                          17,
-                                          14,
-                                          16
-                                      ],
-                                "why_en":  "Deep enterprise lock-in across Office, Windows, Azure and GitHub with decades of high returns is the moat; Azure growing 48% and Copilot give large, broad AI upside.",
-                                "why_th":  "การผูกลูกค้าองค์กรผ่าน Office, Windows, Azure และ GitHub พร้อมผลตอบแทนสูงต่อเนื่องหลายสิบปีคือคูเมืองหลัก ขณะที่ Azure โต 48% และ Copilot มอบโอกาส AI ที่ใหญ่และกว้างขวาง"
-                            },
                    "NET":  {
                                "m":  [
-                                         14,
+                                         15,
                                          12,
+                                         16,
+                                         14,
+                                         8
+                                     ],
+                               "o":  [
+                                         10,
                                          15,
                                          13,
-                                         6
-                                     ],
-                               "o":  [
                                          10,
-                                         14,
-                                         14,
-                                         10,
-                                         14
+                                         15
                                      ],
-                               "why_en":  "Global edge network and growing developer platform give real network effects, but persistent GAAP losses limit proven durability; AI agents and inference add solid, not dominant, upside.",
-                               "why_th":  "เครือข่าย edge ทั่วโลกและแพลตฟอร์มนักพัฒนาที่เติบโตสร้างผลของเครือข่ายจริง แต่การขาดทุนตามบัญชีต่อเนื่องจำกัดความทนทานที่พิสูจน์ได้ ส่วน AI เอเจนต์และ inference เพิ่มโอกาสที่ดีแต่ยังไม่โดดเด่น"
-                           },
-                   "ORCL":  {
-                                "m":  [
-                                          15,
-                                          17,
-                                          11,
-                                          13,
-                                          13
-                                      ],
-                                "o":  [
-                                          17,
-                                          18,
-                                          15,
-                                          11,
-                                          12
-                                      ],
-                                "why_en":  "Database and ERP switching costs anchor the moat; OCI up 121% and $664B RPO give huge AI exposure, but thin GPU margins, debt and OpenAI concentration cap quality.",
-                                "why_th":  "ต้นทุนการเปลี่ยนระบบฐานข้อมูลและ ERP คือคูเมืองหลัก OCI ที่โต 121% และ RPO 664 พันล้านดอลลาร์ทำให้ได้ประโยชน์จาก AI สูงมาก แต่อัตรากำไร GPU ที่บาง หนี้สิน และการพึ่งพา OpenAI จำกัดคุณภาพ"
-                            },
-                   "PLTR":  {
-                                "m":  [
-                                          16,
-                                          17,
-                                          10,
-                                          10,
-                                          12
-                                      ],
-                                "o":  [
-                                          16,
-                                          16,
-                                          17,
-                                          12,
-                                          15
-                                      ],
-                                "why_en":  "Deeply embedded ontology deployments create high switching costs but a short profit record; AIP-driven 96% growth and leading enterprise and defense AI position give strong opportunity.",
-                                "why_th":  "การติดตั้ง ontology ที่ฝังลึกในงานของลูกค้าทำให้ย้ายออกยาก แต่ประวัติการทำกำไรยังสั้น การเติบโต 96% จาก AIP และความเป็นผู้นำ AI ในองค์กรและกลาโหมให้โอกาสที่แข็งแกร่ง"
-                            },
-                   "TEM":  {
-                               "m":  [
-                                         12,
-                                         9,
-                                         11,
-                                         9,
-                                         4
-                                     ],
-                               "o":  [
-                                         9,
-                                         13,
-                                         13,
-                                         10,
-                                         13
-                                     ],
-                               "why_en":  "A large clinical-genomic data library is a developing but unproven moat amid persistent losses; pharma data licensing gives real AI upside, though most revenue remains conventional diagnostic testing.",
-                               "why_th":  "คลังข้อมูลทางคลินิกและจีโนมขนาดใหญ่เป็นคูเมืองที่กำลังก่อตัวแต่ยังไม่พิสูจน์ ท่ามกลางการขาดทุนต่อเนื่อง การขายสิทธิ์ข้อมูลให้บริษัทยาเป็นโอกาส AI จริง แม้รายได้ส่วนใหญ่ยังมาจากการตรวจวินิจฉัยทั่วไป"
+                               "why_en":  "Edge network spanning 330+ cities with developer and threat-data network effects gives a solid moat, but GAAP losses persist; AI-agent traffic, Workers and crawl-payment optionality drive opportunity.",
+                               "why_th":  "เครือข่าย edge กว่า 330 เมือง ผนวกกับเอฟเฟกต์เครือข่ายจากนักพัฒนาและข้อมูลภัยคุกคาม ทำให้มีคูเมืองที่แข็งแรง แต่ยังขาดทุนตาม GAAP ต่อเนื่อง ส่วนโอกาสด้าน AI มาจากทราฟฟิกของเอเจนต์ AI แพลตฟอร์ม Workers และศักยภาพการเก็บค่าครอว์ลข้อมูล"
                            }
                }
 },
@@ -3018,206 +2766,26 @@ window.JUDGE = {panel:[{"profile":"claude","model":"claude-opus-5-5","effort":"m
     "model":  "gpt-6.2-sol",
     "effort":  "high",
     "account":  "Codex (ChatGPT)",
-    "generatedAt":  "2026-11-24T05:00:17Z",
+    "generatedAt":  "2026-11-24T16:31:25Z",
     "costUsd":  null,
     "stocks":  {
-                   "AMZN":  {
-                                "m":  [
-                                          18,
-                                          16,
-                                          18,
-                                          20,
-                                          14
-                                      ],
-                                "o":  [
-                                          12,
-                                          19,
-                                          19,
-                                          16,
-                                          18
-                                      ],
-                                "why_en":  "AWS\u0027s scale and ecosystem make it hard to displace, while Trainium and Bedrock position Amazon to capture growing AI inference demand. ([ir.aboutamazon.com](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/?utm_source=openai))",
-                                "why_th":  "ขนาดและระบบนิเวศของ AWS ทำให้คู่แข่งเข้ามาแทนที่ได้ยาก ขณะที่ Trainium และ Bedrock ช่วยให้ Amazon รับประโยชน์จากความต้องการรันโมเดล AI ที่เพิ่มขึ้น"
-                            },
-                   "AXON":  {
-                                "m":  [
-                                          15,
-                                          18,
-                                          12,
-                                          13,
-                                          8
-                                      ],
-                                "o":  [
-                                          6,
-                                          14,
-                                          16,
-                                          11,
-                                          14
-                                      ],
-                                "why_en":  "Integrated cameras and evidence workflows make switching costly, while AI report writing is gaining traction but remains a small part of the business. ([filecache.investorroom.com](https://filecache.investorroom.com/mr5ir_axon/645/AXON_Q3_2026_ShareholderLetter.pdf?utm_source=openai))",
-                                "why_th":  "กล้องที่เชื่อมกับระบบจัดการหลักฐานทำให้การย้ายไปใช้ระบบอื่นมีต้นทุนสูง ส่วน AI ช่วยเขียนรายงานได้รับความนิยมเพิ่มขึ้น แต่ยังเป็นส่วนเล็กของธุรกิจ"
-                            },
-                   "CRWD":  {
-                                "m":  [
-                                          16,
-                                          17,
-                                          16,
-                                          15,
-                                          9
-                                      ],
-                                "o":  [
-                                          7,
-                                          16,
-                                          16,
-                                          11,
-                                          15
-                                      ],
-                                "why_en":  "Falcon\u0027s embedded security workflows and threat telemetry support retention, while protecting AI workloads opens a new market whose revenue is not separately disclosed. ([ir.crowdstrike.com](https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-third-quarter-fiscal-year-2027-financial?utm_source=openai))",
-                                "why_th":  "Falcon ฝังอยู่ในงานรักษาความปลอดภัยและมีข้อมูลภัยคุกคามจำนวนมาก จึงช่วยรักษาฐานลูกค้า ส่วนการปกป้องระบบ AI เปิดตลาดใหม่ที่บริษัทยังไม่ได้แยกรายงานรายได้"
-                            },
-                   "DOCN":  {
-                                "m":  [
-                                          11,
-                                          10,
-                                          10,
-                                          10,
-                                          9
-                                      ],
-                                "o":  [
-                                          12,
-                                          19,
-                                          11,
-                                          8,
-                                          14
-                                      ],
-                                "why_en":  "Developer simplicity differentiates DigitalOcean without deep lock-in, while rising spending by AI customers supports its inference opportunity despite limited scale. ([investors.digitalocean.com](https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Third-Quarter-2026-Financial-Results/default.aspx?utm_source=openai))",
-                                "why_th":  "ความใช้งานง่ายทำให้ DigitalOcean โดดเด่นในหมู่นักพัฒนา แต่ลูกค้ายังย้ายออกได้ไม่ยาก ขณะที่ยอดใช้จ่ายของลูกค้า AI ที่เพิ่มขึ้นหนุนโอกาสด้านบริการรันโมเดลแม้ขนาดธุรกิจยังจำกัด"
-                            },
-                   "GOOGL":  {
-                                 "m":  [
-                                           20,
-                                           14,
-                                           19,
-                                           19,
-                                           18
-                                       ],
-                                 "o":  [
-                                           13,
-                                           19,
-                                           18,
-                                           18,
-                                           19
-                                       ],
-                                 "why_en":  "Search and YouTube provide durable distribution, while Gemini and TPUs differentiate Google Cloud and create new ways to monetize AI. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm?utm_source=openai))",
-                                 "why_th":  "Search และ YouTube เป็นช่องทางเข้าถึงผู้ใช้ที่แข็งแกร่งในระยะยาว ขณะที่ Gemini และชิป TPU ทำให้ Google Cloud แตกต่างจากคู่แข่งและเปิดช่องทางใหม่ในการสร้างรายได้จาก AI"
-                             },
-                   "META":  {
-                                "m":  [
-                                          17,
-                                          14,
-                                          20,
-                                          19,
-                                          17
-                                      ],
-                                "o":  [
-                                          11,
-                                          13,
-                                          17,
-                                          11,
-                                          17
-                                      ],
-                                "why_en":  "Meta\u0027s social networks reinforce its advertising moat, while AI already improves ad monetization and assistants offer upside that is not yet proven. ([investor.atmeta.com](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx?utm_source=openai))",
-                                "why_th":  "เครือข่ายสังคมของ Meta เสริมความได้เปรียบในธุรกิจโฆษณา โดย AI ช่วยเพิ่มรายได้จากโฆษณาแล้ว ส่วนผู้ช่วย AI ยังต้องพิสูจน์ว่าจะสร้างรายได้เพิ่มได้แค่ไหน"
-                            },
-                   "MSFT":  {
-                                "m":  [
-                                          18,
-                                          20,
-                                          19,
-                                          19,
-                                          20
-                                      ],
-                                "o":  [
-                                          14,
-                                          19,
-                                          19,
-                                          16,
-                                          18
-                                      ],
-                                "why_en":  "Microsoft\u0027s deeply embedded enterprise software makes switching costly, while Azure and paid Copilot products capture both infrastructure and application spending on AI. ([microsoft.com](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast?utm_source=openai))",
-                                "why_th":  "ซอฟต์แวร์ Microsoft ฝังลึกในงานองค์กรจนเปลี่ยนระบบได้ยาก ขณะที่ Azure และบริการ Copilot แบบเสียเงินสร้างรายได้จาก AI ทั้งฝั่งโครงสร้างพื้นฐานและแอปพลิเคชัน"
-                            },
                    "NET":  {
                                "m":  [
                                          15,
-                                         14,
-                                         15,
-                                         16,
-                                         7
-                                     ],
-                               "o":  [
-                                         7,
-                                         18,
                                          13,
-                                         10,
-                                         16
-                                     ],
-                               "why_en":  "Cloudflare\u0027s global edge network is hard to replicate, but sustained operating profitability is unproven and AI growth depends on converting developer adoption into revenue. ([cloudflare.net](https://www.cloudflare.net/news/news-details/2026/Cloudflare-Announces-Third-Quarter-2026-Financial-Results/default.aspx?utm_source=openai))",
-                               "why_th":  "เครือข่ายเอดจ์ทั่วโลกของ Cloudflare เลียนแบบได้ยาก แต่บริษัทยังไม่พิสูจน์ว่าทำกำไรจากการดำเนินงานได้ต่อเนื่อง และโอกาสเติบโตด้าน AI ขึ้นอยู่กับการเปลี่ยนการใช้งานของนักพัฒนาให้เป็นรายได้"
-                           },
-                   "ORCL":  {
-                                "m":  [
-                                          16,
-                                          19,
-                                          14,
-                                          17,
-                                          16
-                                      ],
-                                "o":  [
-                                          14,
-                                          19,
-                                          16,
-                                          15,
-                                          14
-                                      ],
-                                "why_en":  "Mission-critical databases make switching costly, while large OCI GPU clusters capture demand for scarce AI capacity at the cost of heavy capital investment. ([investor.oracle.com](https://investor.oracle.com/files/content_files/1q27-pressrelease-September_FINAL.pdf?utm_source=openai))",
-                                "why_th":  "ฐานข้อมูลที่รองรับงานสำคัญทำให้ลูกค้าเปลี่ยนระบบได้ยาก ส่วนคลัสเตอร์ GPU ขนาดใหญ่ของ OCI ตอบโจทย์ความต้องการกำลังประมวลผล AI ที่มีจำกัด แต่ต้องใช้เงินลงทุนสูง"
-                            },
-                   "PLTR":  {
-                                "m":  [
-                                          16,
-                                          18,
-                                          12,
-                                          13,
-                                          11
-                                      ],
-                                "o":  [
-                                          16,
-                                          18,
-                                          17,
-                                          12,
-                                          16
-                                      ],
-                                "why_en":  "Palantir is hard to replace once embedded in operations, and AIP extends that foothold into AI workflows, though its record of high margins is short. ([investors.palantir.com](https://investors.palantir.com/files/2026%20Q3%20PLTR%2010-Q.pdf?utm_source=openai))",
-                                "why_th":  "เมื่อ Palantir ฝังอยู่ในกระบวนการทำงานแล้วก็เปลี่ยนออกได้ยาก และ AIP ต่อยอดฐานลูกค้าเดิมสู่งานที่ใช้ AI แม้บริษัทเพิ่งมีอัตรากำไรสูงได้ไม่นาน"
-                            },
-                   "TEM":  {
-                               "m":  [
-                                         14,
-                                         12,
-                                         11,
-                                         12,
+                                         16,
+                                         17,
                                          4
                                      ],
                                "o":  [
-                                         11,
+                                         7,
                                          16,
-                                         14,
-                                         13,
-                                         16
+                                         12,
+                                         8,
+                                         15
                                      ],
-                               "why_en":  "Linked clinical and genomic data are hard to recreate and support AI licensing to drugmakers, but diagnostics still dominate sales and operating losses persist. ([investors.tempus.com](https://investors.tempus.com/news/news-details/2026/Tempus-Reports-Third-Quarter-2026-Results/default.aspx?utm_source=openai))",
-                               "why_th":  "ข้อมูลคลินิกที่เชื่อมกับข้อมูลจีโนมสร้างซ้ำได้ยากและช่วยให้ Tempus ขายสิทธิ์ใช้ข้อมูลและโมเดล AI แก่บริษัทยา แต่รายได้หลักยังมาจากการตรวจวินิจฉัยและบริษัทยังขาดทุนจากการดำเนินงาน"
+                               "why_en":  "Cloudflare’s global edge network is hard to replicate, operating losses persist, and Workers AI and agent tools offer growth with limited visibility into AI revenue. [Cloudflare platform update](https://www.cloudflare.com/press/press-releases/2026/more-than-10-million-developers-are-building-on-cloudflare/) · [Q3 2026 filing](https://www.sec.gov/Archives/edgar/data/1477333/000147733326000061/cloud-20260930.htm)",
+                               "why_th":  "เครือข่ายเอดจ์ทั่วโลกของ Cloudflare เลียนแบบได้ยาก บริษัทยังขาดทุนจากการดำเนินงาน และ Workers AI กับเครื่องมือสำหรับเอเจนต์มีโอกาสเติบโต แม้ข้อมูลรายได้จาก AI ยังมีจำกัด [ข้อมูลแพลตฟอร์ม Cloudflare](https://www.cloudflare.com/press/press-releases/2026/more-than-10-million-developers-are-building-on-cloudflare/) · [รายงานไตรมาส 3 ปี 2026](https://www.sec.gov/Archives/edgar/data/1477333/000147733326000061/cloud-20260930.htm)"
                            }
                }
 }}};

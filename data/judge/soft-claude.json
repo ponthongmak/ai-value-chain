@@ -5,206 +5,26 @@
     "model":  "claude-opus-5-5",
     "effort":  "max",
     "account":  "Claude",
-    "generatedAt":  "2026-11-24T05:01:23Z",
-    "costUsd":  1.4881343,
+    "generatedAt":  "2026-11-24T16:32:32Z",
+    "costUsd":  0.46543129999999994,
     "stocks":  {
-                   "AMZN":  {
-                                "m":  [
-                                          16,
-                                          16,
-                                          17,
-                                          19,
-                                          14
-                                      ],
-                                "o":  [
-                                          12,
-                                          18,
-                                          17,
-                                          14,
-                                          17
-                                      ],
-                                "why_en":  "AWS scale, data gravity and marketplace networks underpin a wide moat; AWS re-accelerating to 39% with a $578B backlog and Trainium gives large but capex-heavy AI upside.",
-                                "why_th":  "ขนาดของ AWS ข้อมูลลูกค้าที่ย้ายออกยาก และเครือข่ายมาร์เก็ตเพลสสร้างคูเมืองที่กว้าง ขณะที่ AWS กลับมาเร่งโต 39% พร้อมงานในมือ 578 พันล้านดอลลาร์และชิป Trainium ให้โอกาส AI สูงแต่ต้องลงทุนหนัก"
-                            },
-                   "AXON":  {
-                                "m":  [
-                                          13,
-                                          17,
-                                          13,
-                                          11,
-                                          10
-                                      ],
-                                "o":  [
-                                          7,
-                                          12,
-                                          17,
-                                          8,
-                                          13
-                                      ],
-                                "why_en":  "Near-monopoly TASER and body-camera ecosystem with sticky agency contracts, but thin GAAP margins; AI is a real upsell yet small, roughly $100M of $1.75B ARR.",
-                                "why_th":  "ระบบนิเวศ TASER และกล้องติดตัวที่แทบผูกขาดพร้อมสัญญาระยะยาวกับหน่วยงานทำให้ลูกค้าเหนียวแน่น แต่กำไรตามบัญชียังบาง ส่วน AI เป็นการขายเพิ่มที่มีจริงแต่ยังเล็ก ราว 100 ล้านดอลลาร์จาก ARR 1.75 พันล้าน"
-                            },
-                   "CRWD":  {
-                                "m":  [
-                                          15,
-                                          15,
-                                          14,
-                                          12,
-                                          9
-                                      ],
-                                "o":  [
-                                          10,
-                                          13,
-                                          16,
-                                          9,
-                                          13
-                                      ],
-                                "why_en":  "Single-agent Falcon platform and threat-data scale create sticky, leading endpoint share, but GAAP losses dent durability; AI-security demand helps, though cybersecurity grows slower than AI infrastructure.",
-                                "why_th":  "แพลตฟอร์ม Falcon แบบเอเจนต์เดียวและข้อมูลภัยคุกคามขนาดใหญ่ทำให้ลูกค้าเหนียวแน่นและนำตลาดเอนด์พอยต์ แต่ขาดทุนตามบัญชีจึงลดคะแนนความทนทาน ความต้องการความปลอดภัย AI ช่วยหนุน แต่ตลาดโตช้ากว่าโครงสร้างพื้นฐาน AI"
-                            },
-                   "DOCN":  {
-                                "m":  [
-                                          7,
-                                          8,
-                                          7,
-                                          5,
-                                          7
-                                      ],
-                                "o":  [
-                                          11,
-                                          16,
-                                          10,
-                                          4,
-                                          11
-                                      ],
-                                "why_en":  "Developer-friendly niche cloud lacks scale, IP or lock-in against hyperscalers; AI inference demand is lifting growth fast, but it resells GPU capacity with little pricing power.",
-                                "why_th":  "คลาวด์เฉพาะกลุ่มที่นักพัฒนาชื่นชอบ แต่ขาดขนาด เทคโนโลยีเฉพาะ และการผูกลูกค้าเมื่อเทียบกับไฮเปอร์สเกลเลอร์ ความต้องการ AI inference เร่งการเติบโตอย่างรวดเร็ว แต่เป็นเพียงผู้ปล่อยเช่า GPU ที่มีอำนาจตั้งราคาน้อย"
-                            },
-                   "GOOGL":  {
-                                 "m":  [
-                                           19,
-                                           13,
-                                           18,
-                                           19,
-                                           18
-                                       ],
-                                 "o":  [
-                                           14,
-                                           18,
-                                           18,
-                                           16,
-                                           19
-                                       ],
-                                 "why_en":  "Search, Android and YouTube networks plus TPUs and Gemini give a world-class, full-stack moat; Cloud up 103% with external TPU sales makes it the best-placed AI player here.",
-                                 "why_th":  "เครือข่าย Search, Android และ YouTube ผนวกกับชิป TPU และโมเดล Gemini สร้างคูเมืองครบวงจรระดับโลก ขณะที่ Cloud โต 103% และการขาย TPU ให้ลูกค้าภายนอกทำให้อยู่ในตำแหน่งด้าน AI ดีที่สุดในกลุ่มนี้"
-                             },
-                   "META":  {
-                                "m":  [
-                                          15,
-                                          12,
-                                          19,
-                                          17,
-                                          16
-                                      ],
-                                "o":  [
-                                          11,
-                                          14,
-                                          15,
-                                          7,
-                                          16
-                                      ],
-                                "why_en":  "Unmatched consumer network of 3.5B+ daily users and proven ad margins form the moat; AI mainly boosts ad targeting, while heavy capex and catch-up models limit direct AI capture.",
-                                "why_th":  "เครือข่ายผู้ใช้รายวันกว่า 3.5 พันล้านคนและอัตรากำไรโฆษณาที่พิสูจน์แล้วคือคูเมืองหลัก AI ช่วยเพิ่มประสิทธิภาพโฆษณาเป็นหลัก แต่การลงทุนมหาศาลและโมเดลที่ยังไล่ตามคู่แข่งจำกัดรายได้จาก AI โดยตรง"
-                            },
-                   "MSFT":  {
-                                "m":  [
-                                          16,
-                                          19,
-                                          17,
-                                          18,
-                                          19
-                                      ],
-                                "o":  [
-                                          15,
-                                          18,
-                                          17,
-                                          14,
-                                          16
-                                      ],
-                                "why_en":  "Deep enterprise lock-in across Office, Windows, Azure and GitHub with decades of high returns is the moat; Azure growing 48% and Copilot give large, broad AI upside.",
-                                "why_th":  "การผูกลูกค้าองค์กรผ่าน Office, Windows, Azure และ GitHub พร้อมผลตอบแทนสูงต่อเนื่องหลายสิบปีคือคูเมืองหลัก ขณะที่ Azure โต 48% และ Copilot มอบโอกาส AI ที่ใหญ่และกว้างขวาง"
-                            },
                    "NET":  {
                                "m":  [
-                                         14,
+                                         15,
                                          12,
+                                         16,
+                                         14,
+                                         8
+                                     ],
+                               "o":  [
+                                         10,
                                          15,
                                          13,
-                                         6
-                                     ],
-                               "o":  [
                                          10,
-                                         14,
-                                         14,
-                                         10,
-                                         14
+                                         15
                                      ],
-                               "why_en":  "Global edge network and growing developer platform give real network effects, but persistent GAAP losses limit proven durability; AI agents and inference add solid, not dominant, upside.",
-                               "why_th":  "เครือข่าย edge ทั่วโลกและแพลตฟอร์มนักพัฒนาที่เติบโตสร้างผลของเครือข่ายจริง แต่การขาดทุนตามบัญชีต่อเนื่องจำกัดความทนทานที่พิสูจน์ได้ ส่วน AI เอเจนต์และ inference เพิ่มโอกาสที่ดีแต่ยังไม่โดดเด่น"
-                           },
-                   "ORCL":  {
-                                "m":  [
-                                          15,
-                                          17,
-                                          11,
-                                          13,
-                                          13
-                                      ],
-                                "o":  [
-                                          17,
-                                          18,
-                                          15,
-                                          11,
-                                          12
-                                      ],
-                                "why_en":  "Database and ERP switching costs anchor the moat; OCI up 121% and $664B RPO give huge AI exposure, but thin GPU margins, debt and OpenAI concentration cap quality.",
-                                "why_th":  "ต้นทุนการเปลี่ยนระบบฐานข้อมูลและ ERP คือคูเมืองหลัก OCI ที่โต 121% และ RPO 664 พันล้านดอลลาร์ทำให้ได้ประโยชน์จาก AI สูงมาก แต่อัตรากำไร GPU ที่บาง หนี้สิน และการพึ่งพา OpenAI จำกัดคุณภาพ"
-                            },
-                   "PLTR":  {
-                                "m":  [
-                                          16,
-                                          17,
-                                          10,
-                                          10,
-                                          12
-                                      ],
-                                "o":  [
-                                          16,
-                                          16,
-                                          17,
-                                          12,
-                                          15
-                                      ],
-                                "why_en":  "Deeply embedded ontology deployments create high switching costs but a short profit record; AIP-driven 96% growth and leading enterprise and defense AI position give strong opportunity.",
-                                "why_th":  "การติดตั้ง ontology ที่ฝังลึกในงานของลูกค้าทำให้ย้ายออกยาก แต่ประวัติการทำกำไรยังสั้น การเติบโต 96% จาก AIP และความเป็นผู้นำ AI ในองค์กรและกลาโหมให้โอกาสที่แข็งแกร่ง"
-                            },
-                   "TEM":  {
-                               "m":  [
-                                         12,
-                                         9,
-                                         11,
-                                         9,
-                                         4
-                                     ],
-                               "o":  [
-                                         9,
-                                         13,
-                                         13,
-                                         10,
-                                         13
-                                     ],
-                               "why_en":  "A large clinical-genomic data library is a developing but unproven moat amid persistent losses; pharma data licensing gives real AI upside, though most revenue remains conventional diagnostic testing.",
-                               "why_th":  "คลังข้อมูลทางคลินิกและจีโนมขนาดใหญ่เป็นคูเมืองที่กำลังก่อตัวแต่ยังไม่พิสูจน์ ท่ามกลางการขาดทุนต่อเนื่อง การขายสิทธิ์ข้อมูลให้บริษัทยาเป็นโอกาส AI จริง แม้รายได้ส่วนใหญ่ยังมาจากการตรวจวินิจฉัยทั่วไป"
+                               "why_en":  "Edge network spanning 330+ cities with developer and threat-data network effects gives a solid moat, but GAAP losses persist; AI-agent traffic, Workers and crawl-payment optionality drive opportunity.",
+                               "why_th":  "เครือข่าย edge กว่า 330 เมือง ผนวกกับเอฟเฟกต์เครือข่ายจากนักพัฒนาและข้อมูลภัยคุกคาม ทำให้มีคูเมืองที่แข็งแรง แต่ยังขาดทุนตาม GAAP ต่อเนื่อง ส่วนโอกาสด้าน AI มาจากทราฟฟิกของเอเจนต์ AI แพลตฟอร์ม Workers และศักยภาพการเก็บค่าครอว์ลข้อมูล"
                            }
                }
 }

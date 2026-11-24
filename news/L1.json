@@ -38,7 +38,6 @@
                                       "VST",
                                       "GEV",
                                       "ETN",
-                                      "SU",
                                       "FPS",
                                       "VRT"
                                   ],
@@ -57,7 +56,6 @@
                                       "VST",
                                       "GEV",
                                       "ETN",
-                                      "SU",
                                       "FPS",
                                       "VRT"
                                   ],
@@ -76,7 +74,6 @@
                                       "VST",
                                       "GEV",
                                       "ETN",
-                                      "SU",
                                       "FPS",
                                       "MPWR",
                                       "ON",
@@ -93,9 +90,7 @@
                       "date":  "2026-11-10",
                       "impact":  "mixed",
                       "publisher":  "Tom\u0027s Hardware",
-                      "tickers":  [
-                                      "GEV"
-                                  ],
+                      "tickers":  ["GEV"],
                       "title_en":  "SoftBank takes $3.73 billion charge after canceling over 13 GW of power equipment",
                       "title_th":  "SoftBank บันทึกขาดทุน 3.73 พันล้านดอลลาร์ฯ หลังยกเลิกการจองอุปกรณ์ไฟฟ้ากว่า 13 GW",
                       "url":  "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-loses-37-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
@@ -106,9 +101,7 @@
                       "date":  "2026-11-12",
                       "impact":  "positive",
                       "publisher":  "Business Wire",
-                      "tickers":  [
-                                      "FPS"
-                                  ],
+                      "tickers":  ["FPS"],
                       "title_en":  "Forgent Power posts record Q1 revenue of $479 million and raises FY27 outlook",
                       "title_th":  "Forgent Power ทำรายได้ไตรมาส 1 สูงสุดเป็นประวัติการณ์ที่ 479 ล้านดอลลาร์ฯ พร้อมปรับเพิ่มคาดการณ์ปีงบ 2027",
                       "url":  "https://www.businesswire.com/news/home/20261112850710/en/",
@@ -119,9 +112,7 @@
                       "date":  "2026-11-17",
                       "impact":  "positive",
                       "publisher":  "Vertiv",
-                      "tickers":  [
-                                      "VRT"
-                                  ],
+                      "tickers":  ["VRT"],
                       "title_en":  "Vertiv expands 800 VDC power portfolio across rack, compute pod, and data hall",
                       "title_th":  "Vertiv ขยายชุดระบบไฟฟ้า 800 VDC ครอบคลุมระดับแร็ค พอดประมวลผล และโถงดาต้าเซ็นเตอร์",
                       "url":  "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-advances-800-vdc-power-architectures-to-support-growing-ai-data-center-demands/",
@@ -132,9 +123,7 @@
                       "date":  "2026-11-16",
                       "impact":  "positive",
                       "publisher":  "Vertiv",
-                      "tickers":  [
-                                      "VRT"
-                                  ],
+                      "tickers":  ["VRT"],
                       "title_en":  "Vertiv launches ATLAS Lab with NVIDIA to validate AI factory infrastructure pre-silicon",
                       "title_th":  "Vertiv เปิดตัว ATLAS Lab ร่วมกับ NVIDIA เพื่อทดสอบระบบไฟฟ้าและทำความเย็นก่อนชิปวางจำหน่าย",
                       "url":  "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-atlas-proves-ai-infrastructure-ahead-of-silicon/",
@@ -142,25 +131,10 @@
                       "why_th":  "การทดสอบระบบจ่ายไฟ ระบบหล่อเย็นด้วยของเหลว และระบบควบคุมร่วมกับแพลตฟอร์ม NVIDIA DSX ล่วงหน้าก่อนชิปออกสู่ตลาดช่วยเสริมความได้เปรียบด้านการออกแบบร่วมกับลูกค้า hyperscaler และลดระยะเวลาติดตั้งจริง"
                   },
                   {
-                      "date":  "2026-11-16",
-                      "impact":  "positive",
-                      "publisher":  "GIGABYTE",
-                      "tickers":  [
-                                      "SU"
-                                  ],
-                      "title_en":  "Schneider Electric and Giga Computing unveil Vera Rubin NVL72 AI factory blueprint",
-                      "title_th":  "Schneider Electric ผนึก Giga Computing เปิดพิมพ์เขียว AI Factory สำหรับ NVIDIA Vera Rubin NVL72",
-                      "url":  "https://www.gigabyte.com/Press/News/2471",
-                      "why_en":  "Integrating Schneider Electric\u0027s power distribution and hybrid liquid cooling directly into GIGABYTE\u0027s next-generation NVIDIA compute architecture strengthens its pipeline for high-density AI deployments.",
-                      "why_th":  "การผสานระบบจ่ายไฟและระบบหล่อเย็นแบบไฮบริดของ Schneider Electric เข้ากับสถาปัตยกรรมประมวลผล NVIDIA รุ่นใหม่ของ GIGABYTE ช่วยเพิ่มโอกาสในการรับงานสร้างดาต้าเซ็นเตอร์ AI ความหนาแน่นสูง"
-                  },
-                  {
                       "date":  "2026-11-10",
                       "impact":  "positive",
                       "publisher":  "GlobeNewswire",
-                      "tickers":  [
-                                      "ON"
-                                  ],
+                      "tickers":  ["ON"],
                       "title_en":  "onsemi launches fourth-generation EliteSiC M4 silicon carbide power platform",
                       "title_th":  "onsemi เปิดตัวแพลตฟอร์มซิลิคอนคาร์ไบด์รุ่นที่ 4 EliteSiC M4 สำหรับดาต้าเซ็นเตอร์และพลังงาน",
                       "url":  "https://www.globenewswire.com/news-release/2026/11/10/3190886/0/en/onsemi-s-EliteSiC-M4-Pushes-Power-Density-Higher-as-Energy-Demands-Grow.html",
@@ -171,9 +145,7 @@
                       "date":  "2026-11-19",
                       "impact":  "positive",
                       "publisher":  "PR Newswire",
-                      "tickers":  [
-                                      "VRT"
-                                  ],
+                      "tickers":  ["VRT"],
                       "title_en":  "Vertiv partners with Solenis on AI data center liquid cooling fluid management",
                       "title_th":  "Vertiv จับมือ Solenis พัฒนาการจัดการของเหลวในระบบระบายความร้อนดาต้าเซ็นเตอร์ AI",
                       "url":  "https://www.prnewswire.com/news-releases/solenis-and-vertiv-partner-to-advance-liquid-cooling-management-for-ai-data-centers-302945426.html",
@@ -184,9 +156,7 @@
                       "date":  "2026-11-12",
                       "impact":  "mixed",
                       "publisher":  "Navitas Semiconductor",
-                      "tickers":  [
-                                      "NVTS"
-                                  ],
+                      "tickers":  ["NVTS"],
                       "title_en":  "Navitas files second GaN patent infringement lawsuit against Renesas in Texas",
                       "title_th":  "Navitas ยื่นฟ้อง Renesas คดีละเมิดสิทธิบัตรชิป GaN เป็นคดีที่สองในรัฐเท็กซัส",
                       "url":  "https://navitassemi.com/navitas-files-patent-infringement-lawsuit-against-newly-announced-renesas-gan-products/",
@@ -197,9 +167,7 @@
                       "date":  "2026-11-23",
                       "impact":  "negative",
                       "publisher":  "TipRanks",
-                      "tickers":  [
-                                      "VRT"
-                                  ],
+                      "tickers":  ["VRT"],
                       "title_en":  "Baird downgrades Vertiv to Neutral and lowers price target to $200",
                       "title_th":  "Baird ปรับลดคำแนะนำหุ้น Vertiv เป็น Neutral พร้อมหั่นราคาเป้าหมายเหลือ 200 ดอลลาร์ฯ",
                       "url":  "https://www.tipranks.com/news/the-fly/vertiv-downgraded-to-neutral-from-outperform-at-baird",
@@ -210,9 +178,7 @@
                       "date":  "2026-11-16",
                       "impact":  "positive",
                       "publisher":  "Investing.com",
-                      "tickers":  [
-                                      "CEG"
-                                  ],
+                      "tickers":  ["CEG"],
                       "title_en":  "BMO raises Constellation Energy target to $335 on nuclear contracting outlook",
                       "title_th":  "BMO ปรับเพิ่มราคาเป้าหมาย Constellation Energy เป็น 335 ดอลลาร์ฯ รับแนวโน้มสัญญาไฟฟ้านิวเคลียร์",
                       "url":  "https://www.investing.com/news/stock-market-news/bmo-raises-constellation-energy-stock-price-target-on-contracting-outlook-4325492",
@@ -223,9 +189,7 @@
                       "date":  "2026-11-11",
                       "impact":  "mixed",
                       "publisher":  "GuruFocus",
-                      "tickers":  [
-                                      "ETN"
-                                  ],
+                      "tickers":  ["ETN"],
                       "title_en":  "JPMorgan reinstates Eaton at Neutral with $395 target amid industrial caution",
                       "title_th":  "JPMorgan กลับมาจัดอันดับ Eaton ที่ Neutral เป้าหมาย 395 ดอลลาร์ฯ ท่ามกลางมุมมองระมัดระวังต่อกลุ่มอุตสาหกรรม",
                       "url":  "https://www.gurufocus.com/news/2984535/etn-reinstated-by-jp-morgan--price-target-announced-at-395",
@@ -237,7 +201,6 @@
                       "impact":  "positive",
                       "publisher":  "The Futurum Group",
                       "tickers":  [
-                                      "SU",
                                       "ETN",
                                       "VRT",
                                       "FPS"

@@ -260,42 +260,6 @@
                                 "why_en":  "MEMS timing leadership expanded by Renesas\u0027s clocking assets drives rapid AI data-center adoption, though unproven GAAP margin durability and smaller scale keep its moat moderate.",
                                 "why_th":  "ความเป็นผู้นำชิปตั้งเวลา MEMS ที่เสริมทัพด้วยธุรกิจจาก Renesas หนุนการเติบโตในดาต้าเซ็นเตอร์ AI อย่างก้าวกระโดด แต่ความยั่งยืนของกำไรและขนาดธุรกิจยังจำกัดป้อมปราการ"
                             },
-                   "SKH":  {
-                               "m":  [
-                                         16,
-                                         13,
-                                         11,
-                                         16,
-                                         11
-                                     ],
-                               "o":  [
-                                         18,
-                                         16,
-                                         18,
-                                         18,
-                                         13
-                                     ],
-                               "why_en":  "Number-one HBM share and tight NVIDIA-TSMC integration make it a core AI memory bottleneck with huge pricing power, though memory cyclicality limits structural moat durability.",
-                               "why_th":  "ส่วนแบ่ง HBM อันดับหนึ่งและความร่วมมือใกล้ชิดกับ NVIDIA และ TSMC ทำให้เป็นคอขวดสำคัญที่มีอำนาจตั้งราคาสูง แต่วัฏจักรธุรกิจหน่วยความจำจำกัดความทนทานของป้อมปราการ"
-                           },
-                   "SMSN":  {
-                                "m":  [
-                                          15,
-                                          11,
-                                          12,
-                                          19,
-                                          12
-                                      ],
-                                "o":  [
-                                          14,
-                                          15,
-                                          15,
-                                          16,
-                                          14
-                                      ],
-                                "why_en":  "Unmatched memory scale and a strong HBM4 comeback power huge AI profits, though lagging logic foundry competitiveness, cyclicality, and consumer-electronics dilution restrain moat and opportunity.",
-                                "why_th":  "ขนาดการผลิตหน่วยความจำอันดับหนึ่งและการฟื้นตัวของ HBM4 หนุนกำไร AI มหาศาล แต่ธุรกิจรับจ้างผลิตชิปที่ตามหลัง วัฏจักรตลาด และกลุ่มสินค้าผู้บริโภคลดทอนความเข้มข้นของคะแนน"
-                            },
                    "TSM":  {
                                "m":  [
                                          20,
@@ -313,6 +277,24 @@
                                      ],
                                "why_en":  "Unmatched leading-edge process and CoWoS packaging dominance give TSMC an extraordinary moat and the ultimate AI supply-chain bottleneck, winning across all major chip designers.",
                                "why_th":  "ความเป็นผู้นำเทคโนโลยีการผลิตขั้นสูงและบรรจุภัณฑ์ CoWoS ที่ไร้คู่เทียบสร้างป้อมปราการระดับโลกและเป็นคอขวดสำคัญที่สุดของห่วงโซ่ AI ที่ได้ประโยชน์จากนักออกแบบชิปทุกราย"
-                           }
+                           },
+                   "SKHY":  {
+                                "m":  [
+                                          16,
+                                          13,
+                                          11,
+                                          16,
+                                          11
+                                      ],
+                                "o":  [
+                                          18,
+                                          16,
+                                          18,
+                                          18,
+                                          13
+                                      ],
+                                "why_en":  "Number-one HBM share and tight NVIDIA-TSMC integration make it a core AI memory bottleneck with huge pricing power, though memory cyclicality limits structural moat durability.",
+                                "why_th":  "ส่วนแบ่ง HBM อันดับหนึ่งและความร่วมมือใกล้ชิดกับ NVIDIA และ TSMC ทำให้เป็นคอขวดสำคัญที่มีอำนาจตั้งราคาสูง แต่วัฏจักรธุรกิจหน่วยความจำจำกัดความทนทานของป้อมปราการ"
+                            }
                }
 }

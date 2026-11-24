@@ -6,7 +6,7 @@ A private research app for the AI value chain. Open `index.html` to read it, or 
 | Tab | What it shows |
 |---|---|
 | **Value chain** | The 7 layers. Click a layer for its sub-sectors, stocks, economics, moats, risks and **Latest news**. |
-| **Companies** | All 55 stocks as score cards. Filter by layer or moat tier, search, and sort by any score. |
+| **Companies** | All 133 stocks as score cards. Filter by layer or moat tier, search, and sort by any score. |
 | **Scores** | The ranking table (6 pillars + Overall and Price), then **How the scores work**. |
 | **News** | Each layer's brief and one combined feed. |
 

@@ -7,7 +7,7 @@ allowed-tools: PowerShell(powershell -NoProfile -ExecutionPolicy Bypass -File to
 
 Refresh the AI Analysis for: $ARGUMENTS
 
-The tickers are keys of the `CO` table in `index.html` (e.g. NVDA, TSM, SKH, SU). If the argument is `all`, do every key in that table, one at a time.
+The tickers are keys of the `CO` table in `index.html` (e.g. NVDA, TSM, SKHY, CDNS). If the argument is `all`, do every key in that table, one at a time.
 
 For each ticker:
 

@@ -260,42 +260,6 @@
                                 "why_en":  "Unique MEMS timing plus Renesas\u0027 clock business make SiTime a leading AI data-center timing supplier with ~70% non-GAAP gross margins, but small scale and past GAAP losses limit durability.",
                                 "why_th":  "เทคโนโลยีจับเวลาแบบ MEMS ที่มีเอกลักษณ์รวมกับธุรกิจสัญญาณนาฬิกาของ Renesas ทำให้เป็นผู้นำชิปจับเวลาในศูนย์ข้อมูล AI ด้วยอัตรากำไรขั้นต้นราว 70% แต่ธุรกิจยังเล็กและเคยขาดทุนทางบัญชี"
                             },
-                   "SKH":  {
-                               "m":  [
-                                         16,
-                                         9,
-                                         7,
-                                         16,
-                                         8
-                                     ],
-                               "o":  [
-                                         18,
-                                         16,
-                                         16,
-                                         18,
-                                         13
-                                     ],
-                               "why_en":  "Number-one HBM supplier with about 80% operating margins in a memory oligopoly, making profits overwhelmingly AI-driven; Samsung\u0027s HBM4 share gains and memory cyclicality cap moat durability.",
-                               "why_th":  "ผู้นำอันดับหนึ่งด้าน HBM ที่มีอัตรากำไรจากการดำเนินงานราว 80% ในตลาดหน่วยความจำที่มีผู้เล่นน้อยราย ทำให้กำไรเกือบทั้งหมดมาจาก AI แต่ Samsung กำลังแย่งส่วนแบ่ง HBM4 และวัฏจักรหน่วยความจำจำกัดความทนทานของคูเมือง"
-                           },
-                   "SMSN":  {
-                                "m":  [
-                                          16,
-                                          8,
-                                          9,
-                                          18,
-                                          11
-                                      ],
-                                "o":  [
-                                          14,
-                                          15,
-                                          15,
-                                          16,
-                                          15
-                                      ],
-                                "why_en":  "Largest memory scale, a regained DRAM lead and rising HBM4 share drive record AI-memory profits, but consumer businesses, a lagging foundry and memory cyclicality dilute the moat.",
-                                "why_th":  "มีกำลังผลิตหน่วยความจำใหญ่ที่สุด กลับมาเป็นผู้นำ DRAM และส่วนแบ่ง HBM4 เพิ่มขึ้น ทำให้กำไรจากหน่วยความจำ AI สูงเป็นประวัติการณ์ แต่ธุรกิจผู้บริโภค โรงงานรับจ้างผลิตชิปที่ตามหลังคู่แข่ง และวัฏจักรหน่วยความจำทำให้คูเมืองอ่อนลง"
-                            },
                    "TSM":  {
                                "m":  [
                                          20,
@@ -313,6 +277,24 @@
                                      ],
                                "why_en":  "Near-monopoly on leading-edge nodes and CoWoS packaging, the key bottleneck for almost all AI chips, backed by decades of high returns; non-AI chips still dilute exposure.",
                                "why_th":  "เกือบผูกขาดการผลิตชิปขั้นสูงสุดและบรรจุภัณฑ์ CoWoS ซึ่งเป็นคอขวดสำคัญของชิป AI เกือบทั้งหมด พร้อมผลตอบแทนสูงต่อเนื่องหลายสิบปี แต่ชิปที่ไม่ใช่ AI ยังเป็นสัดส่วนรายได้ที่มาก"
-                           }
+                           },
+                   "SKHY":  {
+                                "m":  [
+                                          16,
+                                          9,
+                                          7,
+                                          16,
+                                          8
+                                      ],
+                                "o":  [
+                                          18,
+                                          16,
+                                          16,
+                                          18,
+                                          13
+                                      ],
+                                "why_en":  "Number-one HBM supplier with about 80% operating margins in a memory oligopoly, making profits overwhelmingly AI-driven; Samsung\u0027s HBM4 share gains and memory cyclicality cap moat durability.",
+                                "why_th":  "ผู้นำอันดับหนึ่งด้าน HBM ที่มีอัตรากำไรจากการดำเนินงานราว 80% ในตลาดหน่วยความจำที่มีผู้เล่นน้อยราย ทำให้กำไรเกือบทั้งหมดมาจาก AI แต่ Samsung กำลังแย่งส่วนแบ่ง HBM4 และวัฏจักรหน่วยความจำจำกัดความทนทานของคูเมือง"
+                            }
                }
 }

@@ -39,7 +39,6 @@ window.AI_NEWS = {"L1":{
                                       "VST",
                                       "GEV",
                                       "ETN",
-                                      "SU",
                                       "FPS",
                                       "VRT"
                                   ],
@@ -58,7 +57,6 @@ window.AI_NEWS = {"L1":{
                                       "VST",
                                       "GEV",
                                       "ETN",
-                                      "SU",
                                       "FPS",
                                       "VRT"
                                   ],
@@ -77,7 +75,6 @@ window.AI_NEWS = {"L1":{
                                       "VST",
                                       "GEV",
                                       "ETN",
-                                      "SU",
                                       "FPS",
                                       "MPWR",
                                       "ON",
@@ -94,9 +91,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-10",
                       "impact":  "mixed",
                       "publisher":  "Tom\u0027s Hardware",
-                      "tickers":  [
-                                      "GEV"
-                                  ],
+                      "tickers":  ["GEV"],
                       "title_en":  "SoftBank takes $3.73 billion charge after canceling over 13 GW of power equipment",
                       "title_th":  "SoftBank บันทึกขาดทุน 3.73 พันล้านดอลลาร์ฯ หลังยกเลิกการจองอุปกรณ์ไฟฟ้ากว่า 13 GW",
                       "url":  "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-loses-37-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
@@ -107,9 +102,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-12",
                       "impact":  "positive",
                       "publisher":  "Business Wire",
-                      "tickers":  [
-                                      "FPS"
-                                  ],
+                      "tickers":  ["FPS"],
                       "title_en":  "Forgent Power posts record Q1 revenue of $479 million and raises FY27 outlook",
                       "title_th":  "Forgent Power ทำรายได้ไตรมาส 1 สูงสุดเป็นประวัติการณ์ที่ 479 ล้านดอลลาร์ฯ พร้อมปรับเพิ่มคาดการณ์ปีงบ 2027",
                       "url":  "https://www.businesswire.com/news/home/20261112850710/en/",
@@ -120,9 +113,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-17",
                       "impact":  "positive",
                       "publisher":  "Vertiv",
-                      "tickers":  [
-                                      "VRT"
-                                  ],
+                      "tickers":  ["VRT"],
                       "title_en":  "Vertiv expands 800 VDC power portfolio across rack, compute pod, and data hall",
                       "title_th":  "Vertiv ขยายชุดระบบไฟฟ้า 800 VDC ครอบคลุมระดับแร็ค พอดประมวลผล และโถงดาต้าเซ็นเตอร์",
                       "url":  "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-advances-800-vdc-power-architectures-to-support-growing-ai-data-center-demands/",
@@ -133,9 +124,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-16",
                       "impact":  "positive",
                       "publisher":  "Vertiv",
-                      "tickers":  [
-                                      "VRT"
-                                  ],
+                      "tickers":  ["VRT"],
                       "title_en":  "Vertiv launches ATLAS Lab with NVIDIA to validate AI factory infrastructure pre-silicon",
                       "title_th":  "Vertiv เปิดตัว ATLAS Lab ร่วมกับ NVIDIA เพื่อทดสอบระบบไฟฟ้าและทำความเย็นก่อนชิปวางจำหน่าย",
                       "url":  "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-atlas-proves-ai-infrastructure-ahead-of-silicon/",
@@ -143,25 +132,10 @@ window.AI_NEWS = {"L1":{
                       "why_th":  "การทดสอบระบบจ่ายไฟ ระบบหล่อเย็นด้วยของเหลว และระบบควบคุมร่วมกับแพลตฟอร์ม NVIDIA DSX ล่วงหน้าก่อนชิปออกสู่ตลาดช่วยเสริมความได้เปรียบด้านการออกแบบร่วมกับลูกค้า hyperscaler และลดระยะเวลาติดตั้งจริง"
                   },
                   {
-                      "date":  "2026-11-16",
-                      "impact":  "positive",
-                      "publisher":  "GIGABYTE",
-                      "tickers":  [
-                                      "SU"
-                                  ],
-                      "title_en":  "Schneider Electric and Giga Computing unveil Vera Rubin NVL72 AI factory blueprint",
-                      "title_th":  "Schneider Electric ผนึก Giga Computing เปิดพิมพ์เขียว AI Factory สำหรับ NVIDIA Vera Rubin NVL72",
-                      "url":  "https://www.gigabyte.com/Press/News/2471",
-                      "why_en":  "Integrating Schneider Electric\u0027s power distribution and hybrid liquid cooling directly into GIGABYTE\u0027s next-generation NVIDIA compute architecture strengthens its pipeline for high-density AI deployments.",
-                      "why_th":  "การผสานระบบจ่ายไฟและระบบหล่อเย็นแบบไฮบริดของ Schneider Electric เข้ากับสถาปัตยกรรมประมวลผล NVIDIA รุ่นใหม่ของ GIGABYTE ช่วยเพิ่มโอกาสในการรับงานสร้างดาต้าเซ็นเตอร์ AI ความหนาแน่นสูง"
-                  },
-                  {
                       "date":  "2026-11-10",
                       "impact":  "positive",
                       "publisher":  "GlobeNewswire",
-                      "tickers":  [
-                                      "ON"
-                                  ],
+                      "tickers":  ["ON"],
                       "title_en":  "onsemi launches fourth-generation EliteSiC M4 silicon carbide power platform",
                       "title_th":  "onsemi เปิดตัวแพลตฟอร์มซิลิคอนคาร์ไบด์รุ่นที่ 4 EliteSiC M4 สำหรับดาต้าเซ็นเตอร์และพลังงาน",
                       "url":  "https://www.globenewswire.com/news-release/2026/11/10/3190886/0/en/onsemi-s-EliteSiC-M4-Pushes-Power-Density-Higher-as-Energy-Demands-Grow.html",
@@ -172,9 +146,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-19",
                       "impact":  "positive",
                       "publisher":  "PR Newswire",
-                      "tickers":  [
-                                      "VRT"
-                                  ],
+                      "tickers":  ["VRT"],
                       "title_en":  "Vertiv partners with Solenis on AI data center liquid cooling fluid management",
                       "title_th":  "Vertiv จับมือ Solenis พัฒนาการจัดการของเหลวในระบบระบายความร้อนดาต้าเซ็นเตอร์ AI",
                       "url":  "https://www.prnewswire.com/news-releases/solenis-and-vertiv-partner-to-advance-liquid-cooling-management-for-ai-data-centers-302945426.html",
@@ -185,9 +157,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-12",
                       "impact":  "mixed",
                       "publisher":  "Navitas Semiconductor",
-                      "tickers":  [
-                                      "NVTS"
-                                  ],
+                      "tickers":  ["NVTS"],
                       "title_en":  "Navitas files second GaN patent infringement lawsuit against Renesas in Texas",
                       "title_th":  "Navitas ยื่นฟ้อง Renesas คดีละเมิดสิทธิบัตรชิป GaN เป็นคดีที่สองในรัฐเท็กซัส",
                       "url":  "https://navitassemi.com/navitas-files-patent-infringement-lawsuit-against-newly-announced-renesas-gan-products/",
@@ -198,9 +168,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-23",
                       "impact":  "negative",
                       "publisher":  "TipRanks",
-                      "tickers":  [
-                                      "VRT"
-                                  ],
+                      "tickers":  ["VRT"],
                       "title_en":  "Baird downgrades Vertiv to Neutral and lowers price target to $200",
                       "title_th":  "Baird ปรับลดคำแนะนำหุ้น Vertiv เป็น Neutral พร้อมหั่นราคาเป้าหมายเหลือ 200 ดอลลาร์ฯ",
                       "url":  "https://www.tipranks.com/news/the-fly/vertiv-downgraded-to-neutral-from-outperform-at-baird",
@@ -211,9 +179,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-16",
                       "impact":  "positive",
                       "publisher":  "Investing.com",
-                      "tickers":  [
-                                      "CEG"
-                                  ],
+                      "tickers":  ["CEG"],
                       "title_en":  "BMO raises Constellation Energy target to $335 on nuclear contracting outlook",
                       "title_th":  "BMO ปรับเพิ่มราคาเป้าหมาย Constellation Energy เป็น 335 ดอลลาร์ฯ รับแนวโน้มสัญญาไฟฟ้านิวเคลียร์",
                       "url":  "https://www.investing.com/news/stock-market-news/bmo-raises-constellation-energy-stock-price-target-on-contracting-outlook-4325492",
@@ -224,9 +190,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-11",
                       "impact":  "mixed",
                       "publisher":  "GuruFocus",
-                      "tickers":  [
-                                      "ETN"
-                                  ],
+                      "tickers":  ["ETN"],
                       "title_en":  "JPMorgan reinstates Eaton at Neutral with $395 target amid industrial caution",
                       "title_th":  "JPMorgan กลับมาจัดอันดับ Eaton ที่ Neutral เป้าหมาย 395 ดอลลาร์ฯ ท่ามกลางมุมมองระมัดระวังต่อกลุ่มอุตสาหกรรม",
                       "url":  "https://www.gurufocus.com/news/2984535/etn-reinstated-by-jp-morgan--price-target-announced-at-395",
@@ -238,7 +202,6 @@ window.AI_NEWS = {"L1":{
                       "impact":  "positive",
                       "publisher":  "The Futurum Group",
                       "tickers":  [
-                                      "SU",
                                       "ETN",
                                       "VRT",
                                       "FPS"
@@ -286,9 +249,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-23",
                       "impact":  "positive",
                       "publisher":  "NVIDIA",
-                      "tickers":  [
-                                      "NVDA"
-                                  ],
+                      "tickers":  ["NVDA"],
                       "title_en":  "NVIDIA board unanimously reinstates Jensen Huang as CEO",
                       "title_th":  "บอร์ด NVIDIA มีมติเอกฉันท์ให้ Jensen Huang กลับมาเป็น CEO",
                       "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
@@ -299,9 +260,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-17",
                       "impact":  "positive",
                       "publisher":  "NVIDIA",
-                      "tickers":  [
-                                      "NVDA"
-                                  ],
+                      "tickers":  ["NVDA"],
                       "title_en":  "NVIDIA Q3 revenue doubles to $115.8B as Vera Rubin ramps",
                       "title_th":  "รายได้ไตรมาส 3 ของ NVIDIA โตเท่าตัวแตะ $115.8B หนุนโดย Vera Rubin",
                       "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
@@ -318,8 +277,7 @@ window.AI_NEWS = {"L1":{
                                       "CBRS",
                                       "AVGO",
                                       "MRVL",
-                                      "TSM",
-                                      "SMSN"
+                                      "TSM"
                                   ],
                       "title_en":  "US BIS restricts remote AI chip access and tightens regional licensing",
                       "title_th":  "สหรัฐฯ ออกเกณฑ์คุมการเข้าถึงชิป AI ผ่านคลาวด์และเพิ่มใบอนุญาตส่งออกในภูมิภาค",
@@ -331,9 +289,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-10",
                       "impact":  "positive",
                       "publisher":  "TSMC",
-                      "tickers":  [
-                                      "TSM"
-                                  ],
+                      "tickers":  ["TSM"],
                       "title_en":  "TSMC October revenue hits record NT$586.89 billion, up 59.7% YoY",
                       "title_th":  "รายได้เดือนตุลาคมของ TSMC ทำสถิติใหม่ที่ NT$586.89 พันล้าน โต 59.7% YoY",
                       "url":  "https://pr.tsmc.com/english/news/3349",
@@ -344,9 +300,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-20",
                       "impact":  "negative",
                       "publisher":  "Investing.com",
-                      "tickers":  [
-                                      "AVGO"
-                                  ],
+                      "tickers":  ["AVGO"],
                       "title_en":  "Report says Google cut 2027 Broadcom TPU 8i shipments by 20%",
                       "title_th":  "รายงานระบุ Google ลดแผนสั่งซื้อชิป TPU 8i ปี 2027 จาก Broadcom ลง 20%",
                       "url":  "https://www.investing.com/news/stock-market-news/google-reportedly-cuts-broadcomdesigned-tpu-plans-eyes-more-mediatek-chips-93CH-3694292",
@@ -357,9 +311,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-12",
                       "impact":  "positive",
                       "publisher":  "Applied Materials",
-                      "tickers":  [
-                                      "AMAT"
-                                  ],
+                      "tickers":  ["AMAT"],
                       "title_en":  "Applied Materials Q4 revenue jumps 53% to $10.41 billion",
                       "title_th":  "Applied Materials ทำรายได้ไตรมาส 4 พุ่ง 53% แตะ $10.41 พันล้าน",
                       "url":  "https://ir.appliedmaterials.com/static-files/ad12d807-bb15-4518-bc3c-8081e5351c35",
@@ -386,9 +338,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-17",
                       "impact":  "positive",
                       "publisher":  "AMD",
-                      "tickers":  [
-                                      "AMD"
-                                  ],
+                      "tickers":  ["AMD"],
                       "title_en":  "AMD completes $2.9 billion Taalas acquisition to expand AI inference",
                       "title_th":  "AMD ปิดดีลซื้อกิจการ Taalas มูลค่า $2.9 พันล้าน เสริมทัพชิป AI Inference",
                       "url":  "https://newsroom.amd.com/news/2026-11-17-amd-completes-acquisition-of-taalas-to-advance-ai-inference-innovation",
@@ -399,9 +349,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-12",
                       "impact":  "positive",
                       "publisher":  "AMD",
-                      "tickers":  [
-                                      "AMD"
-                                  ],
+                      "tickers":  ["AMD"],
                       "title_en":  "AMD advances Instinct MI400 series on Helios rack-scale AI systems",
                       "title_th":  "AMD เผยความคืบหน้าชิป Instinct MI400 และระบบแร็ค Helios สำหรับงาน AI",
                       "url":  "https://newsroom.amd.com/news/2026-11-12-amd-advances-the-instinct-mi400-series-for-ai-and-scientific-computing",
@@ -412,10 +360,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-13",
                       "impact":  "mixed",
                       "publisher":  "DIGITIMES",
-                      "tickers":  [
-                                      "SKH",
-                                      "SMSN"
-                                  ],
+                      "tickers":  ["SKHY"],
                       "title_en":  "SK hynix HBM4 yield tops 70% as Samsung expands Onyang packaging",
                       "title_th":  "อัตราผลิตดี HBM4 ของ SK hynix ทะลุ 70% ขณะที่ Samsung ขยายฐานแพ็กเกจจิ้ง Onyang",
                       "url":  "https://www.digitimes.com/news/20261113VL215/sk-hynix-hbm4-yield-samsung-packaging.html",
@@ -426,9 +371,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-19",
                       "impact":  "positive",
                       "publisher":  "Singapore Economic Development Board",
-                      "tickers":  [
-                                      "MU"
-                                  ],
+                      "tickers":  ["MU"],
                       "title_en":  "Micron moves first tool into $7 billion Singapore HBM packaging plant",
                       "title_th":  "Micron เริ่มติดตั้งเครื่องจักรชุดแรกในโรงงานแพ็กเกจจิ้ง HBM มูลค่า $7 พันล้านที่สิงคโปร์",
                       "url":  "https://www.edb.gov.sg/en/news-and-insights/micron-marks-first-tool-move-in-at-singapore-hbm-advanced-packaging-facility.html",
@@ -439,9 +382,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-12",
                       "impact":  "positive",
                       "publisher":  "GlobeNewswire",
-                      "tickers":  [
-                                      "CBRS"
-                                  ],
+                      "tickers":  ["CBRS"],
                       "title_en":  "Cerebras posts record Q3 revenue and raises 2026 core guidance",
                       "title_th":  "Cerebras ทำรายได้ไตรมาส 3 สูงสุดเป็นประวัติการณ์พร้อมปรับเพิ่มเป้ารายได้ปี 2026",
                       "url":  "https://www.globenewswire.com/news-release/2026/11/12/3091480/0/en/Cerebras-Systems-Delivers-Record-Revenue-in-Third-Quarter.html",
@@ -452,9 +393,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-20",
                       "impact":  "positive",
                       "publisher":  "Singapore Economic Development Board",
-                      "tickers":  [
-                                      "KLAC"
-                                  ],
+                      "tickers":  ["KLAC"],
                       "title_en":  "KLA opens 210,000-square-foot Singapore expansion for AI process control",
                       "title_th":  "KLA เปิดอาคารผลิตใหม่ขนาด 210,000 ตร.ฟุตในสิงคโปร์ รองรับเครื่องตรวจจับชิป AI",
                       "url":  "https://www.edb.gov.sg/en/news-and-insights/kla-celebrates-building-22b-opening-in-singapore-and-outlines-plans-for-further-expansion.html",
@@ -465,9 +404,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-16",
                       "impact":  "positive",
                       "publisher":  "Business Wire",
-                      "tickers":  [
-                                      "MRVL"
-                                  ],
+                      "tickers":  ["MRVL"],
                       "title_en":  "Marvell partners with Penguin Solutions on CXL AI memory scaling",
                       "title_th":  "Marvell จับมือ Penguin Solutions พัฒนาโซลูชันขยายหน่วยความจำ CXL สำหรับงาน AI",
                       "url":  "https://www.businesswire.com/news/home/20261116246473/en/Marvell-and-Penguin-Solutions-Collaborate-to-Address-Data-Center-AI-Memory-and-Accelerate-Inference-at-Scale",
@@ -478,9 +415,7 @@ window.AI_NEWS = {"L1":{
                       "date":  "2026-11-23",
                       "impact":  "positive",
                       "publisher":  "GlobeNewswire",
-                      "tickers":  [
-                                      "ASML"
-                                  ],
+                      "tickers":  ["ASML"],
                       "title_en":  "ASML repurchases 445,000 shares for €557 million during chip pullback",
                       "title_th":  "ASML เร่งซื้อหุ้นคืน 445,000 หุ้นมูลค่า €557 ล้าน ช่วงหุ้นกลุ่มชิปปรับฐาน",
                       "url":  "https://www.globenewswire.com/news-release/2026/11/23/3408663/0/en/ASML-reports-transactions-under-its-current-share-buyback-program.html",

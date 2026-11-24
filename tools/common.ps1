@@ -330,9 +330,21 @@ function Get-Company([string]$Ticker) {
     $om = [regex]::Match($ob, "\b$([regex]::Escape($Ticker)):\[(\d+),(\d+),(\d+),(\d+),(\d+)\]")
     if ($om.Success) { $opp = @(1..5 | ForEach-Object { [int]$om.Groups[$_].Value }) }
   }
+  # Revenue-mix estimate lives in the MIX table: TICKER:['FY2025', ['label','label_th',pct,tag], ...]
+  $mix = ''
+  $ms = $html.IndexOf('const MIX = {')
+  if ($ms -ge 0) {
+    $mb = $html.Substring($ms, $html.IndexOf('};', $ms) - $ms)
+    $mm = [regex]::Match($mb, "(?m)^\s*$([regex]::Escape($Ticker)):\['([^']*)'(.*)\],?\s*$")
+    if ($mm.Success) {
+      $tags = @{ '2' = 'ai'; '1' = 'partly'; '0' = 'none' }
+      $parts = [regex]::Matches($mm.Groups[2].Value, "\['((?:[^'\\]|\\.)*)','(?:[^'\\]|\\.)*',(\d+),(\d)\]") | ForEach-Object { "$($_.Groups[1].Value) $($_.Groups[2].Value)% ($($tags[$_.Groups[3].Value]))" }
+      $mix = "$($mm.Groups[1].Value): " + $(if ($parts) { $parts -join '; ' } else { 'no revenue yet' })
+    }
+  }
   [pscustomobject]@{
     ticker = $Ticker; name = $m.Groups[1].Value; tv = $m.Groups[2].Value
-    moat = (& $get 'moat'); does = (& $get 'does'); opp = $opp
+    moat = (& $get 'moat'); does = (& $get 'does'); opp = $opp; mix = $mix
   }
 }
 

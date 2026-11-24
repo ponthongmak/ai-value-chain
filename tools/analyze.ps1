@@ -56,6 +56,7 @@ symbol: $($co.tv)
 business: $($co.does)
 moat thesis: $($co.moat)
 AI-opportunity sub-scores (exposure, market growth, position, bottleneck, optionality; each 0-20): $(if ($co.opp) { $co.opp -join ', ' } else { 'not set' })
+page revenue-mix estimate: $(if ($co.mix) { $co.mix } else { 'none' })
 today: $((Get-Date).ToString('yyyy-MM-dd'))$(if ($ind.historyDays -lt 60) { "`nnote: new listing, only $($ind.historyDays) trading days of price history" })
 
 INDICATORS
@@ -75,6 +76,7 @@ $indForModel
       costUsd = $res.costUsd
       stance = $body.stance; thesis = $body.thesis
       indicators = $ind; en = $body.en; th = $body.th; sources = $body.sources
+      revenueMix = $body.revenueMix
     }
     [IO.File]::WriteAllText((Join-Path $AiDir "$t.json"), ($out | ConvertTo-Json -Depth 10), $Utf8)
     & (Join-Path $PSScriptRoot 'build-analysis.ps1')

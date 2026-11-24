@@ -80,24 +80,6 @@
                                "why_en":  "One of three heavy-duty gas turbine makers, with a vast service base and sold-out slots in a key AI bottleneck; short profit record and wind losses limit the moat.",
                                "why_th":  "หนึ่งในสามผู้ผลิตกังหันก๊าซขนาดใหญ่ของโลก มีฐานงานบริการมหาศาลและคิวการผลิตที่จองเต็มในคอขวดสำคัญของไฟฟ้าสำหรับ AI แต่ประวัติการทำกำไรที่ยังสั้นและการขาดทุนของธุรกิจพลังงานลมจำกัดคูเมือง"
                            },
-                   "SU":  {
-                              "m":  [
-                                        15,
-                                        15,
-                                        14,
-                                        17,
-                                        16
-                                    ],
-                              "o":  [
-                                        12,
-                                        16,
-                                        17,
-                                        13,
-                                        14
-                                    ],
-                              "why_en":  "Global leader in electrical distribution and data center power and cooling, with a vast installed base, software ecosystem and long margin record; AI exposure is meaningful but diluted.",
-                              "why_th":  "ผู้นำระดับโลกด้านระบบจ่ายไฟฟ้าและระบบไฟฟ้า-ระบายความร้อนของดาต้าเซ็นเตอร์ มีฐานติดตั้งมหาศาล ระบบนิเวศซอฟต์แวร์ และประวัติอัตรากำไรที่ยาวนาน ส่วนรายได้จาก AI มีนัยสำคัญแต่ถูกเจือจางด้วยธุรกิจอื่น"
-                          },
                    "VRT":  {
                                "m":  [
                                          13,

@@ -18,6 +18,7 @@ Writing rules:
 - The reader sees summary, pros and cons first, so they must stand on their own: name the concrete reasons (numbers, dates, products), not generic statements.
 - "opportunityCheck": say whether the page's AI-opportunity sub-scores look right given what you found, which one you would move and why. Do not restate the scores.
 - "stance" is the overall technical posture: "bullish", "neutral" or "bearish". "thesis" is whether the long-term moat thesis is "intact", "watch" or "weakened" after this period's news.
+- "revenueMix": split the latest fiscal year's revenue (or trailing twelve months if a newer quarter changed the picture a lot) into at most 5 parts, from the company's own segment or end-market disclosures. Merge small parts into "Other". Percentages add up to 100. Tag each part "ai" (demand comes mainly from AI or AI data centers), "partly" (AI is a meaningful but not the main driver) or "none". Name the parts plainly, in English ("name") and Thai ("name_th"). Put the filing or results release you used in "source". A company with no revenue yet returns one part named "No revenue yet" at 100, tagged "none". The page's current estimate is given under COMPANY; correct it where it is wrong.
 - "sources": the 3–8 articles you actually relied on, with real URLs from your searches. Never invent a URL or title.
 
 Return only the JSON object that matches the schema.

@@ -6,7 +6,8 @@
                      "thesis",
                      "en",
                      "th",
-                     "sources"
+                     "sources",
+                     "revenueMix"
                  ],
     "properties":  {
                        "stance":  {
@@ -190,6 +191,61 @@
                                                                                  }
                                                                     }
                                                  }
-                                   }
+                                   },
+                       "revenueMix":  {
+                                          "type":  "object",
+                                          "additionalProperties":  false,
+                                          "required":  [
+                                                           "fiscalYear",
+                                                           "source",
+                                                           "segments"
+                                                       ],
+                                          "description":  "Latest fiscal-year revenue split, at most 5 parts; merge smaller parts into Other",
+                                          "properties":  {
+                                                             "fiscalYear":  {
+                                                                                "type":  "string",
+                                                                                "description":  "e.g. FY2025 or TTM Sep 2026"
+                                                                            },
+                                                             "source":  {
+                                                                            "type":  "string",
+                                                                            "description":  "URL of the annual report, filing or results release used"
+                                                                        },
+                                                             "segments":  {
+                                                                              "type":  "array",
+                                                                              "description":  "1-5 parts; pct values add up to 100",
+                                                                              "items":  {
+                                                                                            "type":  "object",
+                                                                                            "additionalProperties":  false,
+                                                                                            "required":  [
+                                                                                                             "name",
+                                                                                                             "name_th",
+                                                                                                             "pct",
+                                                                                                             "ai"
+                                                                                                         ],
+                                                                                            "properties":  {
+                                                                                                               "name":  {
+                                                                                                                            "type":  "string"
+                                                                                                                        },
+                                                                                                               "name_th":  {
+                                                                                                                               "type":  "string"
+                                                                                                                           },
+                                                                                                               "pct":  {
+                                                                                                                           "type":  "number",
+                                                                                                                           "description":  "Share of revenue in percent"
+                                                                                                                       },
+                                                                                                               "ai":  {
+                                                                                                                          "enum":  [
+                                                                                                                                       "ai",
+                                                                                                                                       "partly",
+                                                                                                                                       "none"
+                                                                                                                                   ],
+                                                                                                                          "description":  "ai = demand mainly from AI/data centers; partly = AI is a meaningful but not main driver; none = little AI link",
+                                                                                                                          "type":  "string"
+                                                                                                                      }
+                                                                                                           }
+                                                                                        }
+                                                                          }
+                                                         }
+                                      }
                    }
 }
