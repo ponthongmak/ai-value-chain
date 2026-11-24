@@ -1,0 +1,778 @@
+{
+    "ticker":  "KEYS",
+    "name":  "Keysight Technologies",
+    "symbol":  "NYSE:KEYS",
+    "model":  "gemini-4-neon-xhigh",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
+    "effort":  "high",
+    "generatedAt":  "2026-11-24T16:57:05Z",
+    "costUsd":  null,
+    "stance":  "bearish",
+    "thesis":  "intact",
+    "indicators":  {
+                       "symbol":  "NYSE:KEYS",
+                       "yahoo":  "KEYS",
+                       "currency":  "USD",
+                       "asOf":  "2026-11-24",
+                       "fetchedAt":  "2026-11-24T16:49:13Z",
+                       "price":  271.74,
+                       "open":  280.59,
+                       "high":  283.48,
+                       "low":  268.92,
+                       "volume":  431148,
+                       "avgVolume20":  1714732,
+                       "changePct":  -6.18,
+                       "historyDays":  501,
+                       "ema50":  313.81,
+                       "ema100":  320.56,
+                       "ema200":  306.07,
+                       "bb":  {
+                                  "upper":  330.03,
+                                  "middle":  292.19,
+                                  "lower":  254.36
+                              },
+                       "macd":  {
+                                    "macd":  -14.25,
+                                    "signal":  -14.24,
+                                    "hist":  -0.01
+                                },
+                       "rsi14":  40.03,
+                       "high52w":  389.93,
+                       "low52w":  173.36,
+                       "spark":  [
+                                     [
+                                         "2026-06-05",
+                                         329.83
+                                     ],
+                                     [
+                                         "2026-06-08",
+                                         331.6
+                                     ],
+                                     [
+                                         "2026-06-09",
+                                         331.43
+                                     ],
+                                     [
+                                         "2026-06-10",
+                                         324
+                                     ],
+                                     [
+                                         "2026-06-11",
+                                         340.03
+                                     ],
+                                     [
+                                         "2026-06-12",
+                                         350.67
+                                     ],
+                                     [
+                                         "2026-06-15",
+                                         356.94
+                                     ],
+                                     [
+                                         "2026-06-16",
+                                         350.29
+                                     ],
+                                     [
+                                         "2026-06-17",
+                                         350.7
+                                     ],
+                                     [
+                                         "2026-06-18",
+                                         363.67
+                                     ],
+                                     [
+                                         "2026-06-22",
+                                         373.34
+                                     ],
+                                     [
+                                         "2026-06-23",
+                                         352.58
+                                     ],
+                                     [
+                                         "2026-06-24",
+                                         351.3
+                                     ],
+                                     [
+                                         "2026-06-25",
+                                         360.06
+                                     ],
+                                     [
+                                         "2026-06-26",
+                                         328.66
+                                     ],
+                                     [
+                                         "2026-06-29",
+                                         340.13
+                                     ],
+                                     [
+                                         "2026-06-30",
+                                         350.07
+                                     ],
+                                     [
+                                         "2026-07-01",
+                                         335.6
+                                     ],
+                                     [
+                                         "2026-07-02",
+                                         313.86
+                                     ],
+                                     [
+                                         "2026-07-06",
+                                         319.73
+                                     ],
+                                     [
+                                         "2026-07-07",
+                                         309.12
+                                     ],
+                                     [
+                                         "2026-07-08",
+                                         317.24
+                                     ],
+                                     [
+                                         "2026-07-09",
+                                         322.17
+                                     ],
+                                     [
+                                         "2026-07-10",
+                                         322.05
+                                     ],
+                                     [
+                                         "2026-07-13",
+                                         320.83
+                                     ],
+                                     [
+                                         "2026-07-14",
+                                         325.73
+                                     ],
+                                     [
+                                         "2026-07-15",
+                                         322.71
+                                     ],
+                                     [
+                                         "2026-07-16",
+                                         312.76
+                                     ],
+                                     [
+                                         "2026-07-17",
+                                         315.9
+                                     ],
+                                     [
+                                         "2026-07-20",
+                                         314.13
+                                     ],
+                                     [
+                                         "2026-07-21",
+                                         328.11
+                                     ],
+                                     [
+                                         "2026-07-22",
+                                         327.53
+                                     ],
+                                     [
+                                         "2026-07-23",
+                                         325.13
+                                     ],
+                                     [
+                                         "2026-07-24",
+                                         318.67
+                                     ],
+                                     [
+                                         "2026-07-27",
+                                         313.68
+                                     ],
+                                     [
+                                         "2026-07-28",
+                                         305.17
+                                     ],
+                                     [
+                                         "2026-07-29",
+                                         296.72
+                                     ],
+                                     [
+                                         "2026-07-30",
+                                         312.69
+                                     ],
+                                     [
+                                         "2026-07-31",
+                                         319.08
+                                     ],
+                                     [
+                                         "2026-08-03",
+                                         321.89
+                                     ],
+                                     [
+                                         "2026-08-04",
+                                         341.24
+                                     ],
+                                     [
+                                         "2026-08-05",
+                                         336.02
+                                     ],
+                                     [
+                                         "2026-08-06",
+                                         336.96
+                                     ],
+                                     [
+                                         "2026-08-07",
+                                         340.97
+                                     ],
+                                     [
+                                         "2026-08-10",
+                                         335.41
+                                     ],
+                                     [
+                                         "2026-08-11",
+                                         343.7
+                                     ],
+                                     [
+                                         "2026-08-12",
+                                         354.5
+                                     ],
+                                     [
+                                         "2026-08-13",
+                                         353.85
+                                     ],
+                                     [
+                                         "2026-08-14",
+                                         357.82
+                                     ],
+                                     [
+                                         "2026-08-17",
+                                         361.15
+                                     ],
+                                     [
+                                         "2026-08-18",
+                                         341
+                                     ],
+                                     [
+                                         "2026-08-19",
+                                         319.45
+                                     ],
+                                     [
+                                         "2026-08-20",
+                                         316.51
+                                     ],
+                                     [
+                                         "2026-08-21",
+                                         316.13
+                                     ],
+                                     [
+                                         "2026-08-24",
+                                         310.66
+                                     ],
+                                     [
+                                         "2026-08-25",
+                                         320.12
+                                     ],
+                                     [
+                                         "2026-08-26",
+                                         321.87
+                                     ],
+                                     [
+                                         "2026-08-27",
+                                         325.82
+                                     ],
+                                     [
+                                         "2026-08-28",
+                                         319.97
+                                     ],
+                                     [
+                                         "2026-08-31",
+                                         322.7
+                                     ],
+                                     [
+                                         "2026-09-01",
+                                         319.27
+                                     ],
+                                     [
+                                         "2026-09-02",
+                                         321.58
+                                     ],
+                                     [
+                                         "2026-09-03",
+                                         322.62
+                                     ],
+                                     [
+                                         "2026-09-04",
+                                         327.21
+                                     ],
+                                     [
+                                         "2026-09-08",
+                                         333.42
+                                     ],
+                                     [
+                                         "2026-09-09",
+                                         331.01
+                                     ],
+                                     [
+                                         "2026-09-10",
+                                         325.65
+                                     ],
+                                     [
+                                         "2026-09-11",
+                                         338.64
+                                     ],
+                                     [
+                                         "2026-09-14",
+                                         314.96
+                                     ],
+                                     [
+                                         "2026-09-15",
+                                         313.36
+                                     ],
+                                     [
+                                         "2026-09-16",
+                                         322.04
+                                     ],
+                                     [
+                                         "2026-09-17",
+                                         331.44
+                                     ],
+                                     [
+                                         "2026-09-18",
+                                         335
+                                     ],
+                                     [
+                                         "2026-09-21",
+                                         342.03
+                                     ],
+                                     [
+                                         "2026-09-22",
+                                         347.32
+                                     ],
+                                     [
+                                         "2026-09-23",
+                                         353.36
+                                     ],
+                                     [
+                                         "2026-09-24",
+                                         357.54
+                                     ],
+                                     [
+                                         "2026-09-25",
+                                         362.15
+                                     ],
+                                     [
+                                         "2026-09-28",
+                                         359.74
+                                     ],
+                                     [
+                                         "2026-09-29",
+                                         360.65
+                                     ],
+                                     [
+                                         "2026-09-30",
+                                         364.04
+                                     ],
+                                     [
+                                         "2026-10-01",
+                                         373.88
+                                     ],
+                                     [
+                                         "2026-10-02",
+                                         384.64
+                                     ],
+                                     [
+                                         "2026-10-05",
+                                         384.17
+                                     ],
+                                     [
+                                         "2026-10-06",
+                                         388.03
+                                     ],
+                                     [
+                                         "2026-10-07",
+                                         381.42
+                                     ],
+                                     [
+                                         "2026-10-08",
+                                         374.67
+                                     ],
+                                     [
+                                         "2026-10-09",
+                                         382.75
+                                     ],
+                                     [
+                                         "2026-10-12",
+                                         377.7
+                                     ],
+                                     [
+                                         "2026-10-13",
+                                         370.22
+                                     ],
+                                     [
+                                         "2026-10-14",
+                                         357.62
+                                     ],
+                                     [
+                                         "2026-10-15",
+                                         342.08
+                                     ],
+                                     [
+                                         "2026-10-16",
+                                         331.21
+                                     ],
+                                     [
+                                         "2026-10-19",
+                                         335.86
+                                     ],
+                                     [
+                                         "2026-10-20",
+                                         334.16
+                                     ],
+                                     [
+                                         "2026-10-21",
+                                         341.35
+                                     ],
+                                     [
+                                         "2026-10-22",
+                                         311.52
+                                     ],
+                                     [
+                                         "2026-10-23",
+                                         314.77
+                                     ],
+                                     [
+                                         "2026-10-26",
+                                         326.04
+                                     ],
+                                     [
+                                         "2026-10-27",
+                                         336.1
+                                     ],
+                                     [
+                                         "2026-10-28",
+                                         335.5
+                                     ],
+                                     [
+                                         "2026-10-29",
+                                         329.84
+                                     ],
+                                     [
+                                         "2026-10-30",
+                                         307.2
+                                     ],
+                                     [
+                                         "2026-11-02",
+                                         298.94
+                                     ],
+                                     [
+                                         "2026-11-03",
+                                         305.11
+                                     ],
+                                     [
+                                         "2026-11-04",
+                                         285.86
+                                     ],
+                                     [
+                                         "2026-11-05",
+                                         260.61
+                                     ],
+                                     [
+                                         "2026-11-06",
+                                         272.13
+                                     ],
+                                     [
+                                         "2026-11-09",
+                                         288.97
+                                     ],
+                                     [
+                                         "2026-11-10",
+                                         291.46
+                                     ],
+                                     [
+                                         "2026-11-11",
+                                         305.64
+                                     ],
+                                     [
+                                         "2026-11-12",
+                                         304.23
+                                     ],
+                                     [
+                                         "2026-11-13",
+                                         297.68
+                                     ],
+                                     [
+                                         "2026-11-16",
+                                         285.63
+                                     ],
+                                     [
+                                         "2026-11-17",
+                                         284.45
+                                     ],
+                                     [
+                                         "2026-11-18",
+                                         286.3
+                                     ],
+                                     [
+                                         "2026-11-19",
+                                         281.42
+                                     ],
+                                     [
+                                         "2026-11-20",
+                                         261.51
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         289.63
+                                     ],
+                                     [
+                                         "2026-11-24",
+                                         271.74
+                                     ]
+                                 ],
+                       "sparkEma50":  [
+                                          330.29,
+                                          330.34,
+                                          330.39,
+                                          330.14,
+                                          330.52,
+                                          331.31,
+                                          332.32,
+                                          333.02,
+                                          333.72,
+                                          334.89,
+                                          336.4,
+                                          337.03,
+                                          337.59,
+                                          338.47,
+                                          338.09,
+                                          338.17,
+                                          338.64,
+                                          338.52,
+                                          337.55,
+                                          336.85,
+                                          335.76,
+                                          335.04,
+                                          334.53,
+                                          334.04,
+                                          333.53,
+                                          333.22,
+                                          332.81,
+                                          332.02,
+                                          331.39,
+                                          330.71,
+                                          330.61,
+                                          330.49,
+                                          330.28,
+                                          329.82,
+                                          329.19,
+                                          328.25,
+                                          327.01,
+                                          326.45,
+                                          326.16,
+                                          325.99,
+                                          326.59,
+                                          326.96,
+                                          327.35,
+                                          327.89,
+                                          328.18,
+                                          328.79,
+                                          329.8,
+                                          330.74,
+                                          331.8,
+                                          332.96,
+                                          333.27,
+                                          332.73,
+                                          332.09,
+                                          331.47,
+                                          330.65,
+                                          330.24,
+                                          329.91,
+                                          329.75,
+                                          329.37,
+                                          329.1,
+                                          328.72,
+                                          328.44,
+                                          328.21,
+                                          328.17,
+                                          328.38,
+                                          328.48,
+                                          328.37,
+                                          328.77,
+                                          328.23,
+                                          327.65,
+                                          327.43,
+                                          327.58,
+                                          327.88,
+                                          328.43,
+                                          329.17,
+                                          330.12,
+                                          331.2,
+                                          332.41,
+                                          333.48,
+                                          334.55,
+                                          335.7,
+                                          337.2,
+                                          339.06,
+                                          340.83,
+                                          342.68,
+                                          344.2,
+                                          345.39,
+                                          346.86,
+                                          348.07,
+                                          348.94,
+                                          349.28,
+                                          349,
+                                          348.3,
+                                          347.81,
+                                          347.28,
+                                          347.04,
+                                          345.65,
+                                          344.44,
+                                          343.72,
+                                          343.42,
+                                          343.11,
+                                          342.59,
+                                          341.2,
+                                          339.54,
+                                          338.19,
+                                          336.14,
+                                          333.18,
+                                          330.78,
+                                          329.14,
+                                          327.67,
+                                          326.8,
+                                          325.92,
+                                          324.81,
+                                          323.27,
+                                          321.75,
+                                          320.36,
+                                          318.83,
+                                          316.59,
+                                          315.53,
+                                          313.81
+                                      ]
+                   },
+    "en":  {
+               "caution":  "The chart warns against assuming the pullback is over: KEYS sits below all three EMAs with RSI 14 at 40.03, not yet oversold, and a break under the $254.36 lower Bollinger Band could invite deeper downside. Fundamentally, supply constraints on 12–24 AI SKUs are slowing backlog conversion, while FY2027 revenue growth guidance (~20%) decelerates from Q4\u0027s 41% pace and drops a ~110 bps tariff-refund margin boost. Investors should also watch the December 18, 2026 CFO handover to Jason Kary and whether hyperscaler AI capex pauses or non-AI wireless demand softens.",
+               "cons":  [
+                            "Price ($271.74) trades well below EMA 50 ($313.81), EMA 100 ($320.56), and EMA 200 ($306.07), confirming a firm technical downtrend.",
+                            "Supply bottlenecks across 12–24 AI hardware SKUs delayed shipments and extended hardware backlog by $200M–$300M, capping near-term upside.",
+                            "FY2027 revenue growth guidance (~20%) moderates from FY2026\u0027s 33% pace, while gross margins lose a ~110 bps FY2026 IEEPA tariff-refund tailwind.",
+                            "At least six Wall Street firms trimmed 12-month price targets after November 19 earnings on AI valuation compression despite keeping largely positive ratings.",
+                            "Long-time CFO Neil Dougherty steps down on December 18, 2026, adding an executive transition alongside cyclical wireless, automotive, and defense exposure."
+                        ],
+               "fundamental":  "Keysight supplies critical \"picks-and-shovels\" design, simulation, and measurement tools needed before hyperscalers and chipmakers deploy faster AI clusters. In FY2026 (ended October 31, 2026), revenue jumped 33% reported (26% core) to $7.157B and orders surged 49% to $8.126B (book-to-bill ~1.13x), lifting non-GAAP EPS 64% to $11.72 and free cash flow to $1.75B. Commercial Communications ($3.767B, +51%) led growth on triple-digit AI wireline demand across 800G/1.6T interconnects, switches, and optics, while Electronic Industrial ($1.961B, +19%) benefited from HBM, advanced-node wafer test, and automotive/EV systems, and Aerospace, Defense \u0026 Government ($1.429B, +15%) provided steady diversification. Software and services reached 33% of revenue (25% ARR), acquired assets hit $100M in synergies, and FY2027 guidance targets ~20% growth. The chart\u0027s sell-off reflects valuation compression and AI SKU supply bottlenecks rather than moat damage.",
+               "headline":  "Record AI-driven FY2026 earnings clash with a 30% pullback and valuation reset",
+               "news":  [
+                            "Nov 19, 2026 — Keysight beat Q4 FY2026 estimates with revenue up 41% YoY to $1.994B, orders up 53% to a record $2.339B, and non-GAAP EPS of $3.61 (vs. ~$3.37 consensus). Management guided Q1 FY2027 revenue to $2.04B–$2.06B, adjusted EPS to $3.63–$3.69, and full-year FY2027 revenue growth to roughly 20%.",
+                            "Nov 19–20, 2026 — On the Q4 earnings call, CFO Neil Dougherty flagged supply constraints across 12–24 AI hardware SKUs that extended backlog by $200M–$300M and noted FY2027 gross margins exclude ~110 bps of one-time FY2026 IEEPA tariff refunds. Management also guided Q1 orders to dip mid-single-digits sequentially on normal seasonality.",
+                            "Nov 20, 2026 — Shares stumbled post-earnings amid a broader tech pullback as at least six brokerages lowered 12-month price targets on valuation resets, including Wells Fargo ($350 from $405), Citigroup ($345 from $400), Baird ($375 from $430), UBS ($380 from $440), and Morgan Stanley ($400 from $425), though most kept positive ratings and Barclays lifted its target to $439.",
+                            "Nov 10, 2026 — Keysight expanded its high-power automated test equipment (ATE) portfolio with compact 12 kW (2U) DC supplies and regenerative systems scaling up to 1,500 V. The new hardware targets EV batteries, aerospace, energy systems, and data-center power modules.",
+                            "Nov 2 \u0026 Nov 23, 2026 — Keysight announced on November 2 that EISG President Jason Kary will succeed retiring 13-year CFO Neil Dougherty on December 18, 2026, with Dougherty advising through FY2027. Separately, a November 23 Form 8-K disclosed director Charles J. Dockendorff will amicably retire on December 18, shrinking the board from 11 to 10."
+                        ],
+               "opportunity":  "For long-term AI infrastructure holders, the 30.3% drop from $389.93 contrasts sharply with strengthening fundamentals. Every generational jump in AI networking—from 800G to 1.6T Ethernet, UALink scale-up fabrics, and co-packaged optics—increases test complexity and deepens Keysight\u0027s R\u0026D design-in lock-in, evidenced by 2.5x FY2026 AI bookings and nearly doubled AI customers. Meanwhile, HBM and silicon-photonics wafer testing are lifting Electronic Industrial (+19% in FY2026), software and services now contribute 33% of revenue (25% ARR), and $1.75B in annual free cash flow with $2.92B in cash provides strong resilience as supply constraints ease through FY2027.",
+               "opportunityCheck":  "Two sub-scores look too low after Keysight\u0027s November 19, 2026 FY2026 report. AI revenue exposure should move higher: Commercial Communications surged 51% to $3.767B on triple-digit AI wireline growth, AI bookings jumped 2.5x with nearly double the customers, and Electronic Industrial now captures HBM and silicon-photonics wafer test demand. Bottleneck and pricing power also deserves an upward revision given 69.0% gross margins, record 35.8% operating margins, and AI SKU shortages outpacing capacity. Market growth, leadership position, and optionality look appropriately placed given cyclicality outside AI and undisclosed standalone AI revenue.",
+               "pros":  [
+                            "FY2026 revenue grew 33% to $7.157B with AI bookings up 2.5x and Q4 orders surging 53% to a record $2.339B.",
+                            "Profitability reached records in Q4 FY2026, with non-GAAP gross margin at 69.0%, operating margin at 35.8%, and full-year free cash flow at $1.75B.",
+                            "Commercial Communications jumped 51% in FY2026 to $3.767B as hyperscalers and chipmakers accelerate 800G, 1.6T, UALink, and optical interconnect validation.",
+                            "Software and services now represent 33% of revenue (25% annual recurring revenue), while acquired businesses hit their $100M synergy run-rate target.",
+                            "FY2027 guidance calls for roughly 20% revenue growth and Q1 revenue of $2.04B–$2.06B, backed by $2.92B in cash and record backlog."
+                        ],
+               "risks":  [
+                             "AI hardware supply bottlenecks across 12–24 key SKUs could persist beyond management\u0027s expectations, delaying revenue recognition from the $200M–$300M extended backlog.",
+                             "Hyperscaler AI data-center capex cyclicality: any digestion phase after the 800G/1.6T ramp would directly slow Commercial Communications\u0027 51% growth engine.",
+                             "Margin normalization in FY2027 as the ~110 bps FY2026 IEEPA tariff-refund tailwind rolls off and acquisition synergy gains mature.",
+                             "Lack of standalone AI revenue disclosure leaves investors estimating true AI exposure versus cyclical telecom/wireless and automotive test demand.",
+                             "Geopolitical, tariff, and export-control risks affecting global semiconductor and communications test shipments."
+                         ],
+               "summary":  "Keysight Technologies (KEYS) sits at $271.74 on November 24, 2026—down 6.18% on the day and 30.3% below its early-October $389.93 high—despite posting the strongest year in company history on November 19, 2026. Q4 FY2026 revenue surged 41% to $1.994B, orders jumped 53% to $2.339B, and adjusted EPS beat at $3.61 on triple-digit AI wireline growth (800G/1.6T). Yet supply constraints across AI hardware SKUs, a broader tech pullback, and brokerage price-target trims drove a bearish chart breakdown. Near-term sentiment is pressured, while Keysight\u0027s long-term test-and-measurement moat stays intact.",
+               "technical":  "As of November 24, 2026, KEYS has a clearly bearish technical posture at $271.74, down 6.18% intraday across 501 trading days of full history. Trend structure has broken down: price sits well below its three Exponential Moving Averages (EMAs—smoothed trend lines weighting recent prices), with EMA 100 ($320.56) above EMA 50 ($313.81) and EMA 200 ($306.07). That leaves KEYS 11.2% beneath its long-term EMA 200 and turns $306.07–$320.56 into heavy overhead resistance, while EMA 50 approaches a bearish cross below EMA 200. Momentum confirms weakness: MACD 12/26/9 (a moving-average trend-momentum gauge) is deeply negative at -14.25 versus a -14.24 signal line, with a -0.01 histogram showing a stalled stabilization attempt. RSI 14 (a 0–100 momentum gauge; below 30 is oversold) reads 40.03—weak, but not yet washed out. Within Bollinger Bands 20/2 (a 20-day volatility envelope), price trades below the $292.19 middle band (initial resistance) toward lower-band support at $254.36. At 30.3% off its $389.93 52-week high and 45.4% up from its $173.36 low, midday volume of 431,148 shares (25% of the 1,714,732 20-day average as of 16:49 UTC) is still partial, leaving full-day selling conviction unconfirmed."
+           },
+    "th":  {
+               "caution":  "กราฟยังเตือนไม่ให้รีบมองว่าแรงขายจบแล้ว เพราะ KEYS เคลื่อนไหวต่ำกว่าเส้น EMA ทั้งสามเส้นและ RSI 14 ที่ 40.03 ยังไม่เข้าเขตขายมากเกินไป หากหลุดแนวรับกรอบล่าง Bollinger Band ที่ $254.36 อาจเปิดช่องลงต่อ ด้านปัจจัยพื้นฐาน ข้อจำกัดชิ้นส่วนในฮาร์ดแวร์ AI ราว 12–24 SKU ทำให้เปลี่ยน backlog เป็นรายได้ช้าลง ขณะที่เป้ารายได้ FY2027 (~20%) ชะลอจากไตรมาส 4 (+41%) และไม่มีแรงหนุนมาร์จิ้นราว 110 bps จากคืนภาษีนำเข้าแล้ว อีกทั้งต้องติดตามการส่งมอบตำแหน่ง CFO ให้ Jason Kary วันที่ 18 ธ.ค. 2026 และจังหวะการลงทุนของ hyperscaler",
+               "cons":  [
+                            "ราคาหุ้น $271.74 หลุดต่ำกว่าเส้น EMA 50 ($313.81), EMA 100 ($320.56) และ EMA 200 ($306.07) ยืนยันภาพขาลงทางเทคนิคชัดเจน",
+                            "ปัญหาซัพพลายตึงตัวในฮาร์ดแวร์ AI ราว 12–24 SKU ทำให้ backlog ยืดออกไปอีก $200M–$300M จำกัดการรับรู้รายได้ระยะสั้น",
+                            "เป้าการเติบโตรายได้ FY2027 ราว 20% ชะลอจาก 33% ในปี FY2026 และอัตรากำไรขั้นต้นจะไม่มีรายการคืนภาษีนำเข้า IEEPA ราว 110 bps เหมือนปีก่อน",
+                            "โบรกเกอร์อย่างน้อย 6 แห่งปรับลดราคาเป้าหมาย 12 เดือนหลังงบวันที่ 19 พ.ย. ตามการปรับลด valuation กลุ่ม AI แม้ส่วนใหญ่ยังคงมุมมองเชิงบวก",
+                            "CFO มากประสบการณ์ Neil Dougherty เตรียมลงจากตำแหน่งวันที่ 18 ธ.ค. 2026 เพิ่มปัจจัยเปลี่ยนผ่านผู้บริหารควบคู่ความผันผวนตามวัฏจักรธุรกิจไร้สายและยานยนต์"
+                        ],
+               "fundamental":  "Keysight เป็นผู้ขาย \"จอบและเสียม\" ด้านเครื่องมือออกแบบ จำลอง และทดสอบอิเล็กทรอนิกส์ที่ hyperscaler และผู้ผลิตชิปต้องใช้ก่อนขยายคลัสเตอร์ AI รุ่นใหม่ ในปีบัญชี FY2026 (สิ้นสุด 31 ต.ค. 2026) รายได้พุ่ง 33% (โตจากธุรกิจเดิม 26%) สู่ $7.157B ยอดคำสั่งซื้อทะยาน 49% เป็น $8.126B (book-to-bill ~1.13 เท่า) ดัน non-GAAP EPS โต 64% เป็น $11.72 และกระแสเงินสดอิสระ $1.75B กลุ่มสื่อสารเชิงพาณิชย์ ($3.767B, +51%) นำการเติบโตจากอุปกรณ์ทดสอบไวร์ไลน์ AI ระดับ 800G/1.6T และออปติคอล ส่วนกลุ่มอุตสาหกรรมอิเล็กทรอนิกส์ ($1.961B, +19%) ได้แรงหนุนจาก HBM การทดสอบเวเฟอร์ชิปขั้นสูง และยานยนต์ไฟฟ้า ขณะที่กลุ่มการบิน-กลาโหม ($1.429B, +15%) ช่วยกระจายความเสี่ยง ซอฟต์แวร์และบริการเพิ่มเป็น 33% ของรายได้ (ARR 25%) และ synergy จากดีลซื้อกิจการแตะเป้า $100M แล้ว การย่อตัวของหุ้นจึงสะท้อนการปรับ valuation และคอขวดซัพพลาย มากกว่าความเสื่อมของคูเมืองธุรกิจ",
+               "headline":  "งบ FY2026 โตทุบสถิติจาก AI แต่หุ้นร่วง 30% รับแรงปรับฐานและลดเป้า",
+               "news":  [
+                            "19 พ.ย. 2026 — Keysight รายงานงบ Q4 FY2026 ดีกว่าคาด โดยรายได้พุ่ง 41% YoY เป็น $1.994B คำสั่งซื้อโต 53% ทำสถิติใหม่ $2.339B และ non-GAAP EPS อยู่ที่ $3.61 (สูงกว่าคาดราว $3.37) ผู้บริหารให้เป้ารายได้ Q1 FY2027 ที่ $2.04B–$2.06B กำไรต่อหุ้น $3.63–$3.69 และเป้ารายได้ทั้งปี FY2027 โตราว 20%",
+                            "19–20 พ.ย. 2026 — ในการประชุมนักวิเคราะห์ CFO Neil Dougherty ระบุว่าซัพพลายในสินค้าฮาร์ดแวร์ AI ราว 12–24 SKU ยังตึงตัวจน backlog ยืดเพิ่ม $200M–$300M พร้อมเตือนว่าอัตรากำไรขั้นต้น FY2027 ไม่รวมแรงหนุนพิเศษราว 110 bps จากการคืนภาษีนำเข้า IEEPA ของปี FY2026 และคาดคำสั่งซื้อ Q1 อ่อนตัวตามฤดูกาลราวหลักเดียวกลางๆ QoQ",
+                            "20 พ.ย. 2026 — หุ้น KEYS อ่อนตัวหลังประกาศงบท่ามกลางแรงขายกลุ่มเทคฯ โดยโบรกเกอร์อย่างน้อย 6 แห่งลดราคาเป้าหมายเพื่อปรับ valuation เช่น Wells Fargo ($350 จาก $405), Citigroup ($345 จาก $400), Baird ($375 จาก $430), UBS ($380 จาก $440) และ Morgan Stanley ($400 จาก $425) แม้ส่วนใหญ่คงคำแนะนำเชิงบวก และ Barclays ปรับเพิ่มเป้าเป็น $439",
+                            "10 พ.ย. 2026 — Keysight ขยายพอร์ตเครื่องทดสอบกำลังไฟฟ้าอัตโนมัติ (ATE) เปิดตัวแหล่งจ่ายไฟ DC ขนาดกะทัดรัด 12 kW (2U) และระบบคืนพลังงานสูงสุด 1,500 V รองรับงานทดสอบแบตเตอรี่ EV การบิน พลังงาน และโมดูลจ่ายไฟของดาต้าเซ็นเตอร์",
+                            "2 และ 23 พ.ย. 2026 — บริษัทประกาศเมื่อ 2 พ.ย. แต่งตั้ง Jason Kary ประธานกลุ่ม EISG ขึ้นเป็น CFO แทน Neil Dougherty ที่ครบวาระ 13 ปี โดยมีผล 18 ธ.ค. 2026 (Dougherty ยังเป็นที่ปรึกษาตลอด FY2027) และในแบบ Form 8-K วันที่ 23 พ.ย. แจ้งว่ากรรมการ Charles J. Dockendorff จะเกษียณโดยสมัครใจในวันที่ 18 ธ.ค. ทำให้บอร์ดลดจาก 11 เหลือ 10 คน"
+                        ],
+               "opportunity":  "สำหรับผู้ถือหุ้นโครงสร้างพื้นฐาน AI ระยะยาว การปรับฐานลง 30.3% จากจุดสูงสุด $389.93 สวนทางกับพื้นฐานที่แข็งแกร่งขึ้นอย่างชัดเจน ทุกการเปลี่ยนผ่านความเร็วเครือข่าย AI จาก 800G ไป 1.6T Ethernet รวมถึงมาตรฐาน UALink และ co-packaged optics ล้วนเพิ่มความซับซ้อนในการทดสอบและยึดลูกค้า R\u0026D ให้แน่นขึ้น เห็นได้จากยอดจอง AI ปี FY2026 ที่โต 2.5 เท่าและฐานลูกค้า AI เพิ่มเกือบเท่าตัว นอกจากนี้กลุ่มอุตสาหกรรมอิเล็กทรอนิกส์ (+19%) ยังได้แรงหนุนจาก HBM และซิลิคอนโฟโตนิกส์ ขณะที่รายได้ซอฟต์แวร์-บริการ 33% (ARR 25%) พร้อมกระแสเงินสดอิสระ $1.75B และเงินสด $2.92B ช่วยรองรับความผันผวนระหว่างรอคอขวดซัพพลายคลี่คลายในปี FY2027",
+               "opportunityCheck":  "หลังงบ FY2026 วันที่ 19 พ.ย. 2026 คะแนนย่อยสองด้านดูต่ำเกินจริง ด้านแรกคือสัดส่วนรายได้ที่เชื่อมโยง AI ควรขยับขึ้น เพราะธุรกิจสื่อสารเชิงพาณิชย์โต 51% สู่ $3.767B จากอุปกรณ์ไวร์ไลน์ AI ที่โตเกินเท่าตัว ยอดจอง AI พุ่ง 2.5 เท่าพร้อมฐานลูกค้าเพิ่มเกือบสองเท่า และกลุ่มอุตสาหกรรมอิเล็กทรอนิกส์ยังได้งานทดสอบ HBM และซิลิคอนโฟโตนิกส์เพิ่ม ด้านที่สองคืออำนาจต่อรองและคอขวดควรปรับขึ้นเช่นกัน สะท้อนจากอัตรากำไรขั้นต้น 69.0% อัตรากำไรจากการดำเนินงานสูงสุดเป็นประวัติการณ์ 35.8% และความต้องการสินค้า AI ที่ล้นกำลังผลิต ส่วนคะแนนการเติบโตตลาด ตำแหน่งผู้นำ และโอกาสต่อยอดอยู่ในระดับเหมาะสมแล้วเมื่อเทียบกับความผันผวนของธุรกิจนอก AI และการไม่แยกเปิดเผยรายได้ AI โดยตรง",
+               "pros":  [
+                            "รายได้ FY2026 โต 33% แตะ $7.157B โดยยอดจองงาน AI พุ่ง 2.5 เท่า และคำสั่งซื้อ Q4 โต 53% ทำสถิติใหม่ $2.339B",
+                            "ความสามารถทำกำไรทำจุดสูงสุดใน Q4 FY2026 ด้วยอัตรากำไรขั้นต้น non-GAAP 69.0% อัตรากำไรจากการดำเนินงาน 35.8% และกระแสเงินสดอิสระทั้งปี $1.75B",
+                            "ธุรกิจสื่อสารเชิงพาณิชย์โต 51% สู่ $3.767B รับแรงเร่งจาก hyperscaler และผู้ผลิตชิปในการทดสอบลิงก์ 800G, 1.6T, UALink และออปติคอล",
+                            "ซอฟต์แวร์และบริการคิดเป็น 33% ของรายได้รวม (รายได้ประจำ ARR 25%) และดีลซื้อกิจการทำ synergy แตะเป้า $100M แล้ว",
+                            "เป้ารายได้ FY2027 โตราว 20% และ Q1 อยู่ที่ $2.04B–$2.06B โดยมี backlog สูงสุดเป็นประวัติการณ์และเงินสด $2.92B รองรับ"
+                        ],
+               "risks":  [
+                             "ปัญหาคอขวดซัพพลายในฮาร์ดแวร์ AI ราว 12–24 SKU อาจยืดเยื้อกว่าคาด ทำให้การรับรู้รายได้จาก backlog ส่วนเพิ่ม $200M–$300M ล่าช้า",
+                             "ความเสี่ยงวัฏจักรการลงทุนดาต้าเซ็นเตอร์ AI หาก hyperscaler ชะลอการใช้จ่ายหลังผ่านรอบอัปเกรด 800G/1.6T จะกระทบเครื่องยนต์หลักที่โต 51% โดยตรง",
+                             "อัตรากำไรปี FY2027 อาจอ่อนลงจากฐานสูง หลังแรงหนุนพิเศษจากการคืนภาษีนำเข้า IEEPA ราว 110 bps หมดไปและประโยชน์จาก synergy เริ่มนิ่ง",
+                             "บริษัทไม่เปิดเผยตัวเลขรายได้ AI แยกต่างหาก ทำให้นักลงทุนประเมินสัดส่วน AI เทียบกับธุรกิจโทรคมนาคมไร้สายและยานยนต์ที่มีวัฏจักรได้ยากขึ้น",
+                             "ความเสี่ยงด้านภูมิรัฐศาสตร์ ภาษีศุลกากร และมาตรการควบคุมการส่งออกที่อาจกระทบยอดส่งมอบเครื่องมือทดสอบเซมิคอนดักเตอร์และเครือข่ายทั่วโลก"
+                         ],
+               "summary":  "หุ้น Keysight Technologies (KEYS) ปรับตัวลงมาอยู่ที่ $271.74 ณ วันที่ 24 พ.ย. 2026 ลดลง 6.18% ในวันเดียว และต่ำกว่าจุดสูงสุดต้นเดือนตุลาคมที่ $389.93 ถึง 30.3% แม้บริษัทเพิ่งรายงานงบ FY2026 วันที่ 19 พ.ย. ดีที่สุดในประวัติศาสตร์ โดยรายได้ Q4 พุ่ง 41% สู่ $1.994B คำสั่งซื้อโต 53% เป็น $2.339B และกำไรต่อหุ้นปรับปรุงที่ $3.61 จากแรงส่งเครือข่าย AI ระดับ 800G/1.6T แต่ปัญหาคอขวดซัพพลายในสินค้า AI แรงขายกลุ่มเทคฯ และการหั่นเป้าของโบรกเกอร์ทำให้กราฟเสียทรงเป็นขาลง แม้อารมณ์ตลาดระยะสั้นถูกกดดัน คูเมืองผู้นำด้านเครื่องมือทดสอบระยะยาวยังคงแข็งแกร่ง",
+               "technical":  "ณ วันที่ 24 พ.ย. 2026 ภาพทางเทคนิคของ KEYS เป็นขาลงชัดเจนที่ราคา $271.74 (-6.18% ระหว่างวัน จากฐานข้อมูลครบ 501 วันซื้อขาย) โครงสร้างแนวโน้มอ่อนแอลงเพราะราคาอยู่ต่ำกว่าเส้น EMA (Exponential Moving Average — เส้นค่าเฉลี่ยที่ให้น้ำหนักราคาล่าสุด) ทั้งสามเส้น โดยเรียงจากบนลงล่างคือ EMA 100 ($320.56) สูงกว่า EMA 50 ($313.81) และ EMA 200 ($306.07) ทำให้ราคาหลุดต่ำกว่าเส้นระยะยาว EMA 200 ถึง 11.2% โซน $306.07–$320.56 จึงกลายเป็นแนวต้านหนาแน่น ขณะที่ EMA 50 กำลังขยับใกล้ตัดลงใต้ EMA 200 ด้านโมเมนตัม MACD 12/26/9 (เครื่องมือวัดแรงส่งแนวโน้ม) ติดลบลึกที่ -14.25 เทียบกับเส้น signal ที่ -14.24 และ histogram ที่ -0.01 สะท้อนความพยายามทรงตัวที่ยังไม่สำเร็จ ส่วน RSI 14 (มาตรวัดแรงซื้อขายระดับ 0–100 ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 40.03 อ่อนแรงแต่ยังไม่เข้าเขต oversold ภายใน Bollinger Bands 20/2 (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาอยู่ต่ำกว่าเส้นกลาง $292.19 (แนวต้านแรก) และไหลเข้าหาแนวรับกรอบล่างที่ $254.36 แม้อยู่ต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($389.93) ถึง 30.3% และสูงกว่าจุดต่ำสุด ($173.36) ราว 45.4% แต่วอลุ่มระหว่างวันที่ 431,148 หุ้น (25% ของค่าเฉลี่ย 20 วัน ที่ 1,714,732 หุ้น ณ เวลา 16:49 UTC) ยังไม่จบวัน จึงยังไม่ยืนยันแรงขายแบบเต็มวัน"
+           },
+    "sources":  [
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "SEC EDGAR",
+                        "title":  "Keysight Technologies, Inc. Form 8-K (Q4 and FY2026 Financial Results)",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/keys-20261119.htm"
+                    },
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "The Motley Fool",
+                        "title":  "Keysight (KEYS) Q4 2026 Earnings Call Transcript",
+                        "url":  "https://www.fool.com/earnings/call-transcripts/2026/11/20/keysight-keys-q4-2026-earnings-call-transcript/"
+                    },
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "Schaeffer\u0027s Investment Research",
+                        "title":  "Electronics Stock Suffers Post-Earnings Stumble Amid Tech Rout",
+                        "url":  "https://www.schaeffersresearch.com/content/news/2026/11/20/electronics-stock-suffers-post-earnings-stumble-amid-tech-rout"
+                    },
+                    {
+                        "date":  "2026-11-02",
+                        "publisher":  "Keysight Technologies",
+                        "title":  "Keysight Announces CFO Succession",
+                        "url":  "https://investor.keysight.com/news-releases/news-release-details/keysight-announces-cfo-succession"
+                    },
+                    {
+                        "date":  "2026-11-10",
+                        "publisher":  "Keysight Technologies",
+                        "title":  "Keysight Expands High-Power Test Portfolio for Broader Power Validation",
+                        "url":  "https://www.keysight.com/us/en/about/newsroom/news-releases/2026/1110-keysight-expands-high-power-test-portfolio-for-broader-power-validation.html"
+                    }
+                ],
+    "revenueMix":  {
+                       "fiscalYear":  "FY2026",
+                       "segments":  [
+                                        {
+                                            "ai":  "partly",
+                                            "name":  "Commercial Communications (Wireline/AI \u0026 Wireless)",
+                                            "name_th":  "สื่อสารเชิงพาณิชย์ (ไวร์ไลน์/AI และไร้สาย)",
+                                            "pct":  53
+                                        },
+                                        {
+                                            "ai":  "partly",
+                                            "name":  "Electronic Industrial (Semis, Auto \u0026 General)",
+                                            "name_th":  "อุตสาหกรรมอิเล็กทรอนิกส์ (ชิป ยานยนต์ และทั่วไป)",
+                                            "pct":  27
+                                        },
+                                        {
+                                            "ai":  "none",
+                                            "name":  "Aerospace, Defense \u0026 Government",
+                                            "name_th":  "การบิน อวกาศ กลาโหม และภาครัฐ",
+                                            "pct":  20
+                                        }
+                                    ],
+                       "source":  "https://www.sec.gov/Archives/edgar/data/1601046/000160104626000040/keys-20261119.htm"
+                   }
+}

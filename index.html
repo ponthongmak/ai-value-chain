@@ -190,6 +190,8 @@ footer{padding:30px 0 50px;color:var(--faint);font-size:12.5px}
 .dsec{padding:14px 0;border-bottom:1px solid var(--border)}
 .dsec:last-child{border-bottom:0}
 .dsec h4{margin:0 0 8px;font-size:11px;text-transform:uppercase;letter-spacing:.07em;color:var(--faint)}
+.syncbar{position:sticky;top:0;z-index:60;padding:9px 16px;font-size:13px;text-align:center;background:var(--warn-soft);color:var(--warn);border-bottom:1px solid var(--border)}
+.syncbar a{color:inherit;font-weight:600}
 .mix{margin-top:10px}
 .mix summary{cursor:pointer;display:inline-flex;align-items:center;gap:8px;font-size:13px;font-weight:600;color:var(--accent);list-style:none;padding:5px 10px;border:1px solid var(--border);border-radius:999px;background:var(--surface)}
 .mix summary::-webkit-details-marker{display:none}
@@ -2606,6 +2608,7 @@ function renderAll(){
   renderRank(); renderMethod(); renderNewsTab();
   setView(view, false);
   if (typeof renderChatChrome === 'function') renderChatChrome();
+  if (typeof renderSyncBar === 'function') renderSyncBar();
   if (openTicker){ renderDrawerHead(); setTab(activeTab); }
 }
 /* after new figures arrive */
@@ -2983,11 +2986,12 @@ async function openUpdate(){
 }
 function updPlan(){   // same expansion rules as the server (/api/update) and tools/update.ps1
   const s = uSt.scope, T = uSt.target; let tick = [], lays = [];
-  if (s === 'all'){ tick = TICKERS; lays = [1, 2, 3, 4, 5, 6, 7]; }
-  if (s === 'layer'){ lays = T.map(Number); tick = [...new Set(LAYERS.filter(Ly => lays.includes(Ly.n)).flatMap(Ly => Ly.subs.flatMap(x => x.t)))]; }
-  if (s === 'sector'){ tick = TICKERS.filter(t => T.includes(CO[t].lens)); lays = LAYERS.filter(Ly => Ly.subs.some(x => x.t.some(t => tick.includes(t)))).map(Ly => Ly.n); }
-  if (s === 'stock') tick = T.filter(t => CO[t]);
-  if (s === 'figures') tick = T.length ? T.filter(t => CO[t]) : TICKERS;
+  const UT = updTickers(), ok = t => UT.includes(t);
+  if (s === 'all'){ tick = UT; lays = [1, 2, 3, 4, 5, 6, 7]; }
+  if (s === 'layer'){ lays = T.map(Number); tick = [...new Set(LAYERS.filter(Ly => lays.includes(Ly.n)).flatMap(Ly => Ly.subs.flatMap(x => x.t)))].filter(ok); }
+  if (s === 'sector'){ tick = UT.filter(t => T.includes(CO[t].lens)); lays = LAYERS.filter(Ly => Ly.subs.some(x => x.t.some(t => tick.includes(t)))).map(Ly => Ly.n); }
+  if (s === 'stock') tick = T.filter(t => CO[t] && ok(t));
+  if (s === 'figures') tick = T.length ? T.filter(t => CO[t] && ok(t)) : UT;
   const P = s === 'figures' ? ['figures'] : uSt.parts;
   const activeJ = ACC && ACC.judges ? ACC.judges.filter(j => ((ACC.status || []).find(s => s.id === j.profile) || {}).signedIn) : [];
   const lens = [...new Set(tick.map(t => CO[t].lens))];
@@ -2999,10 +3003,12 @@ function renderUpdatePanel(){
   const s = uSt.scope, pl = updPlan(), chip = (v, label) => `<button class="chip" data-ut="${v}" aria-pressed="${uSt.target.includes(String(v))}">${esc(label)}</button>`;
   const target = s === 'layer' ? LAYERS.map(Ly => chip(Ly.n, 'L' + Ly.n + ' ' + L(Ly, 'short'))).join('')
     : s === 'sector' ? Object.entries(SECTOR).map(([k, x]) => chip(k, L(x, 's'))).join('')
-    : s === 'stock' || s === 'figures' ? [...TICKERS].sort((a, b) => lab(a).localeCompare(lab(b))).map(t => chip(t, lab(t))).join('') : '';
+    : s === 'stock' || s === 'figures' ? [...updTickers()].sort((a, b) => lab(a).localeCompare(lab(b))).map(t => chip(t, lab(t))).join('') : '';
+  const gap = syncGap();
   const lbl = ACC ? (ACC.profiles.find(p => p.id === uSt.account) || {}).label : '';
   const active = Object.values(JOBS).filter(isActive);
   $('#sideB').innerHTML = `
+    ${gap ? `<p class="small" style="margin:0 0 10px;padding:8px 10px;border-radius:8px;background:var(--warn-soft);color:var(--warn)">${LANG === 'th' ? `หน้านี้ล้าสมัย (${gap.here} หุ้น ส่วนแผนที่บนเครื่องมี ${gap.local}) เปิด <a href="${BRIDGE_URL}/" target="_blank" rel="noopener">แผนที่บนเครื่อง</a> เพื่ออัปเดตครบทุกหุ้น` : `This page is out of date (${gap.here} stocks; your local map has ${gap.local}). Open the <a href="${BRIDGE_URL}/" target="_blank" rel="noopener">local map</a> to update every stock.`}</p>` : ''}
     <h4 style="margin-top:0">${aiT('uScope')}</h4>
     <div class="seg">${['all', 'layer', 'sector', 'stock', 'figures'].map(k => `<button data-us="${k}" aria-pressed="${s === k}">${aiT('sc_' + k)}</button>`).join('')}</div>
     ${target ? `<h4>${aiT(s === 'figures' ? 'uTargetOpt' : 'uTarget')}</h4><div class="chips">${target}</div>` : ''}
@@ -3168,6 +3174,25 @@ document.addEventListener('click', e => {
   const a = e.target.closest('[data-ai-ask]'); if (a){ chatOpen(a.dataset.aiAsk); }
 });
 
+/* This copy of the page vs the map on the local AI server: the hosted site only changes when you publish. */
+function bridgeTickers(){ return BACKEND && Array.isArray(BACKEND.tickers) ? BACKEND.tickers : null; }
+function syncGap(){
+  const bt = bridgeTickers(); if (!bt) return null;
+  const local = new Set(bt), here = new Set(TICKERS);
+  const onlyLocal = bt.filter(t => !here.has(t)), onlyHere = TICKERS.filter(t => !local.has(t));
+  return onlyLocal.length || onlyHere.length ? {local:bt.length, here:TICKERS.length, onlyLocal, onlyHere} : null;
+}
+function renderSyncBar(){
+  let el = $('#syncBar'); const g = syncGap();
+  if (!g){ if (el) el.remove(); return; }
+  if (!el){ el = document.createElement('div'); el.id = 'syncBar'; el.className = 'syncbar'; el.setAttribute('role', 'status'); document.body.prepend(el); }
+  el.innerHTML = LANG === 'th'
+    ? `แผนที่บนเครื่องของคุณมี <b>${g.local}</b> หุ้น แต่หน้านี้มี <b>${g.here}</b> หุ้น เปิด <a href="${BRIDGE_URL}/" target="_blank" rel="noopener">แผนที่บนเครื่อง</a> เพื่ออัปเดตทั้งหมด หรือเผยแพร่ (publish) เพื่อให้เว็บไซต์เป็นข้อมูลล่าสุด`
+    : `Your local map has <b>${g.local}</b> stocks; this page has <b>${g.here}</b>. Open the <a href="${BRIDGE_URL}/" target="_blank" rel="noopener">local map</a> to update all of them, or publish to bring this site up to date.`;
+}
+// Stocks the Update panel can target: on an out-of-date copy, only those the local server still has.
+function updTickers(){ const bt = bridgeTickers(); return bt ? TICKERS.filter(t => bt.includes(t)) : TICKERS; }
+
 function renderConn(){
   const el = $('#aiConn'); if (!el) return;
   const on = !!(SERVED && BACKEND);
@@ -3192,7 +3217,7 @@ function renderConn(){
   try {
     const r = await api('/api/status'); if (!r.ok){ renderConn(); return; }
     BACKEND = await r.json(); JOBS = BACKEND.jobs || {};
-    renderChatChrome(); rerenderAIIfOpen(); renderNewsAll(); $('#fundMeta').innerHTML = fundMetaHTML();
+    renderChatChrome(); rerenderAIIfOpen(); renderNewsAll(); $('#fundMeta').innerHTML = fundMetaHTML(); renderSyncBar();
     if (Object.values(JOBS).some(isActive)) pollJobs();
   } catch(e){ /* plain static hosting: no backend */ }
   renderConn();

@@ -15,7 +15,8 @@ try {
   $cfg = @(Get-Judges | Where-Object { $_.profile -eq $Judge })[0]
   if (-not $cfg) { throw "No judge '$Judge' in the panel (ai-accounts.json judges)." }
   $lens = Get-LensMap
-  $tick = @($lens.Keys | Where-Object { $lens[$_] -eq $Sector } | Sort-Object)
+  # GetEnumerator, not .Keys: a ticker named KEYS would shadow the .Keys property of the table.
+  $tick = @($lens.GetEnumerator() | Where-Object { $_.Value -eq $Sector } | ForEach-Object { $_.Key } | Sort-Object)
   $only = @($Ticker | ForEach-Object { $_ -split '[,\s]+' } | Where-Object { $_ } | ForEach-Object { $_.ToUpper() })
   if ($only.Count) { $tick = @($tick | Where-Object { $only -contains $_ }) }
   if (-not $tick.Count) { throw "No stocks in sector '$Sector'." }

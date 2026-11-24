@@ -1,222 +1,271 @@
 {
     "layer":  3,
     "name":  "AI Servers \u0026 Data Movement",
-    "model":  "gemini-4-neon-high",
-    "provider":  "antigravity",
-    "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-24T03:19:23Z",
+    "model":  "gpt-6.2-astra",
+    "provider":  "codex",
+    "account":  "Codex (ChatGPT)",
+    "generatedAt":  "2026-11-24T16:38:34Z",
     "period":  [
                    "2026-11-10",
                    "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "The past two weeks were dominated by dramatic swings at NVIDIA—which posted $115.8 billion in Q3 revenue with nearly $20 billion from its first Vera Rubin NVL72 quarter before reinstating CEO Jensen Huang 11 days after his resignation. Meanwhile, supply-chain and policy pressures intensified across Layer 3 as the U.S. advanced FCC curbs on Chinese optical transceivers and server makers raised delivery prices up to 45% amid severe memory shortages. At Supercomputing 2026 (SC26), networking, interconnect, timing, and server vendors rolled out next-generation rack-scale inference, optical memory, and PCIe Gen 6 platforms while Credo and Marvell settled their AEC patent dispute.",
-                  "th":  "ช่วงสองสัปดาห์ที่ผ่านมา Layer 3 เด่นที่สุดด้วยเหตุการณ์พลิกผันของ NVIDIA ที่รายงานรายได้ Q3 ทะลุ $115.8 พันล้าน โดย Vera Rubin NVL72 ทำยอดขายเกือบ $20 พันล้านในไตรมาสแรก ก่อนที่บอร์ดจะดึงซีอีโอ Jensen Huang กลับมาดำรงตำแหน่งอีกครั้งหลังลาออกไปได้เพียง 11 วัน ขณะเดียวกันแรงกดดันด้านซัพพลายเชนและนโยบายเข้มข้นขึ้น ทั้งการที่สหรัฐฯ เดินหน้าจำกัดการนำเข้า optical transceiver จากจีน และผู้ผลิตเซิร์ฟเวอร์ AI อย่าง Dell กับ Supermicro ต้องปรับราคาส่งมอบขึ้นสูงสุด 45% จากภาวะขาดแคลนเมมโมรี นอกจากนี้ งาน Supercomputing 2026 (SC26) ยังเต็มไปด้วยการเปิดตัวแพลตฟอร์มระดับแร็ก การเชื่อมต่อด้วยแสง และชิปเชื่อมต่อรุ่นใหม่ พร้อมข่าวดีที่ Credo กับ Marvell ยุติข้อพิพาทสิทธิบัตรสาย AEC ร่วมกันได้สำเร็จ"
+                  "en":  "NVIDIA began shipping Vera Rubin NVL72 racks as quarterly data-center revenue rose 110% year over year. Demand also showed up in networking and optics: Cisco raised its FY2027 forecast for AI infrastructure sales to hyperscalers to $9 billion, and AAOI secured $2.2 billion in minimum purchase commitments. Higher memory costs and new U.S. controls on remote access to advanced chips could complicate some server orders.",
+                  "th":  "NVIDIA เริ่มส่งมอบแร็ก Vera Rubin NVL72 ขณะที่รายได้ศูนย์ข้อมูลโต 110% จากปีก่อน ส่วนฝั่งเครือข่ายและออปติก Cisco เพิ่มคาดการณ์ยอดขายโครงสร้างพื้นฐาน AI ให้ผู้ให้บริการคลาวด์รายใหญ่ในปีบัญชี 2027 เป็น 9 พันล้านดอลลาร์ และ AAOI ได้สัญญาที่ลูกค้าผูกพันซื้อขั้นต่ำ 2.2 พันล้านดอลลาร์ ต้นทุนหน่วยความจำที่สูงขึ้นและกฎใหม่ของสหรัฐฯ ที่ควบคุมการเข้าถึงชิปขั้นสูงจากระยะไกลอาจกระทบคำสั่งซื้อเซิร์ฟเวอร์บางส่วน"
               },
     "themes":  {
                    "en":  [
-                              "NVIDIA leadership \u0026 Rubin ramp",
-                              "U.S. optical transceiver curbs",
-                              "Memory-driven server price hikes",
-                              "SC26 rack-scale interconnect launches"
+                              "Vera Rubin shipments",
+                              "AI networking demand",
+                              "Optical purchase commitments",
+                              "Export licensing"
                           ],
                    "th":  [
-                              "ซีอีโอ NVIDIA และยอด Vera Rubin",
-                              "สหรัฐฯ จำกัด Optical Transceiver จีน",
-                              "เซิร์ฟเวอร์ AI ขึ้นราคาจากวิกฤตเมมโมรี",
-                              "เปิดตัวโซลูชันเชื่อมต่อแร็กในงาน SC26"
+                              "การส่งมอบแร็ก Vera Rubin",
+                              "ความต้องการเครือข่าย AI",
+                              "สัญญาซื้ออุปกรณ์ออปติก",
+                              "ใบอนุญาตส่งออกชิป"
                           ]
                },
     "items":  [
                   {
-                      "date":  "2026-11-23",
-                      "impact":  "positive",
+                      "date":  "2026-11-17",
                       "publisher":  "NVIDIA",
+                      "url":  "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx",
                       "tickers":  [
                                       "NVDA"
                                   ],
-                      "title_en":  "NVIDIA board reinstates Jensen Huang as CEO 11 days after resignation",
-                      "title_th":  "บอร์ด NVIDIA ดึง Jensen Huang กลับมานั่งซีอีโอหลังลาออกเพียง 11 วัน",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
-                      "why_en":  "Unanimously reinstating Huang after senior U.S. government input removes major leadership and execution risk for NVIDIA\u0027s rack-scale AI roadmap.",
-                      "why_th":  "มติเอกฉันท์ในการดึง Jensen Huang กลับมาหลังได้รับข้อมูลจากรัฐบาลสหรัฐฯ ช่วยปลดล็อกความเสี่ยงด้านภาวะผู้นำและความต่อเนื่องของโรดแมปเซิร์ฟเวอร์ AI ระดับแร็กของ NVIDIA"
-                  },
-                  {
-                      "date":  "2026-11-17",
                       "impact":  "positive",
-                      "publisher":  "NVIDIA",
-                      "tickers":  [
-                                      "NVDA"
-                                  ],
-                      "title_en":  "NVIDIA Q3 revenue doubles to $115.8B as Vera Rubin nears $20B",
-                      "title_th":  "NVIDIA รายได้ Q3 พุ่งเท่าตัวแตะ $115.8B ดันยอด Vera Rubin เกือบ $20B",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-                      "why_en":  "Q3 FY27 revenue jumped 103% YoY with $107.6 billion from Data Center, $130 billion Q4 guidance, and a $150 billion buyback expansion, confirming brisk demand for Vera Rubin NVL72 racks.",
-                      "why_th":  "รายได้ไตรมาส 3 ปีงบ 2027 โต 103% YoY โดยมีรายได้ Data Center $107.6 พันล้าน คาดการณ์ไตรมาส 4 ที่ $130 พันล้าน และเพิ่มวงเงินซื้อหุ้นคืน $150 พันล้าน ตอกย้ำดีมานด์แร็ก Vera Rubin NVL72 ที่โตเร็วที่สุดในประวัติศาสตร์บริษัท"
+                      "title_en":  "NVIDIA ships Vera Rubin racks as data-center revenue reaches $107.6 billion",
+                      "title_th":  "NVIDIA เริ่มส่งแร็ก Vera Rubin รายได้ศูนย์ข้อมูลแตะ 107.6 พันล้านดอลลาร์",
+                      "why_en":  "Quarterly data-center revenue rose 110% year over year, and Vera Rubin NVL72 racks were already running at five cloud providers, including Microsoft Azure and Google Cloud.",
+                      "why_th":  "รายได้ศูนย์ข้อมูลประจำไตรมาสโต 110% จากปีก่อน และผู้ให้บริการคลาวด์อย่างน้อย 5 ราย รวมถึง Microsoft Azure และ Google Cloud เริ่มใช้งานแร็ก Vera Rubin NVL72 แล้ว"
                   },
                   {
-                      "date":  "2026-11-17",
-                      "impact":  "mixed",
-                      "publisher":  "Reuters",
+                      "date":  "2026-11-12",
+                      "publisher":  "Cisco",
+                      "url":  "https://newsroom.cisco.com/c/r/newsroom/en/us/a/y2026/m11/cisco-reports-first-quarter-earnings.html",
                       "tickers":  [
-                                      "COHR",
-                                      "LITE",
-                                      "MRVL",
-                                      "ANET",
+                                      "CSCO"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "Cisco raises FY2027 hyperscaler AI infrastructure revenue forecast to $9 billion",
+                      "title_th":  "Cisco เพิ่มเป้ายอดขายโครงสร้างพื้นฐาน AI ให้ลูกค้าคลาวด์รายใหญ่เป็น 9 พันล้านดอลลาร์",
+                      "why_en":  "Cisco now expects more than double its FY2026 AI infrastructure sales to hyperscalers, after first-quarter networking revenue rose 43% year over year.",
+                      "why_th":  "Cisco คาดว่ายอดขายโครงสร้างพื้นฐาน AI ให้ผู้ให้บริการคลาวด์รายใหญ่ในปีบัญชี 2027 จะสูงกว่าปีก่อนกว่าเท่าตัว หลังรายได้ธุรกิจเครือข่ายไตรมาสแรกโต 43% เมื่อเทียบกับปีก่อน"
+                  },
+                  {
+                      "date":  "2026-11-24",
+                      "publisher":  "Applied Optoelectronics",
+                      "url":  "https://investors.ao-inc.com/2026-11-24-AOI-Announces-Multi-Year-Long-Term-Agreement-with-Tier-1-Hyperscale-Datacenter-Customer",
+                      "tickers":  [
+                                      "AAOI"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "AAOI secures $2.2 billion in minimum optics purchases from a hyperscaler",
+                      "title_th":  "AAOI ได้สัญญาซื้ออุปกรณ์ออปติกขั้นต่ำ 2.2 พันล้านดอลลาร์จากลูกค้าคลาวด์รายใหญ่",
+                      "why_en":  "An existing customer committed to about $1.5 billion of 800G transceivers in 2027 and $700 million of laser diodes in 2028–2029, giving AAOI a basis for expanding production.",
+                      "why_th":  "ลูกค้าเดิมตกลงซื้อโมดูลรับส่งสัญญาณ 800G ราว 1.5 พันล้านดอลลาร์ในปี 2027 และเลเซอร์ไดโอดราว 700 ล้านดอลลาร์ในปี 2028–2029 ทำให้ AAOI วางแผนเพิ่มกำลังผลิตได้ชัดขึ้น"
+                  },
+                  {
+                      "date":  "2026-11-19",
+                      "publisher":  "Federal Register",
+                      "url":  "https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm",
+                      "tickers":  [
+                                      "NVDA",
                                       "AVGO",
-                                      "NVDA"
+                                      "MRVL",
+                                      "DELL",
+                                      "HPE",
+                                      "SMCI",
+                                      "CSCO",
+                                      "CLS",
+                                      "JBL",
+                                      "SANM"
                                   ],
-                      "title_en":  "U.S. advances FCC curbs on Chinese optical transceivers despite hyperscaler pushback",
-                      "title_th":  "สหรัฐฯ เดินหน้าให้ FCC จำกัด Optical Transceiver จีน แม้บิ๊กเทคคัดค้านหนัก",
-                      "url":  "https://www.reuters.com/world/us/trumps-china-data-center-curb-advances-despite-amazon-google-meta-lobbying-2026-11-17/",
-                      "why_en":  "Restricting new Chinese transceivers—which account for roughly two-thirds of global supply—boosts share and pricing power for COHR and LITE, but risks higher costs and buildout bottlenecks across U.S. AI clusters.",
-                      "why_th":  "การจำกัดอุปกรณ์รับส่งสัญญาณแสงรุ่นใหม่จากจีนซึ่งครองส่วนแบ่งตลาดโลกราว 2 ใน 3 ช่วยหนุนส่วนแบ่งตลาดและอำนาจต่อรองราคาให้ COHR และ LITE แต่สร้างความเสี่ยงด้านต้นทุนและคอขวดซัพพลายเชนต่อการขยายคลัสเตอร์ AI ในสหรัฐฯ"
+                      "impact":  "negative",
+                      "title_en":  "U.S. export rule covers remote access to advanced chips through overseas data centers",
+                      "title_th":  "สหรัฐฯ ขยายกฎส่งออกชิป ครอบคลุมการเข้าถึงผ่านศูนย์ข้อมูลในต่างประเทศ",
+                      "why_en":  "Suppliers need a license for covered chips and servers when they know the destination data center will provide substantial compute access to entities based in China or other restricted destinations.",
+                      "why_th":  "ผู้ขายต้องขอใบอนุญาตสำหรับชิปและเซิร์ฟเวอร์ที่เข้าข่าย หากทราบว่าศูนย์ข้อมูลปลายทางจะเปิดให้องค์กรในจีนหรือพื้นที่อื่นที่ถูกจำกัดเข้าถึงกำลังประมวลผลในปริมาณมาก"
                   },
                   {
-                      "date":  "2026-11-22",
+                      "date":  "2026-11-23",
+                      "publisher":  "NVIDIA",
+                      "url":  "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx",
+                      "tickers":  [
+                                      "NVDA"
+                                  ],
                       "impact":  "mixed",
-                      "publisher":  "Financial Times",
+                      "title_en":  "NVIDIA reinstates Jensen Huang as CEO while board investigation continues",
+                      "title_th":  "Jensen Huang กลับเป็น CEO ของ NVIDIA ขณะที่คณะกรรมการยังเดินหน้าสอบสวน",
+                      "why_en":  "Huang resumes leadership during the Vera Rubin rollout, while independent directors continue their investigation and NVIDIA seeks a chief compliance officer.",
+                      "why_th":  "Huang กลับมาบริหารในช่วงเร่งส่งมอบ Vera Rubin ขณะที่กรรมการอิสระยังสอบสวนต่อ และ NVIDIA เริ่มสรรหาผู้บริหารมาดูแลงานกำกับการปฏิบัติตามกฎโดยตรง"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "publisher":  "Lambda",
+                      "url":  "https://lambda.com/blog/worlds-first-large-scale-deployment-of-nvidia-photonics-switches-with-cpo",
+                      "tickers":  [
+                                      "NVDA"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "Lambda connects over 10,000 GPUs with NVIDIA co-packaged optical switches",
+                      "title_th":  "Lambda เชื่อม GPU กว่า 10,000 ตัวด้วยสวิตช์ออปติกแบบรวมแพ็กเกจของ NVIDIA",
+                      "why_en":  "Lambda measured 10.1% lower latency across a full pod than with conventional pluggable optics at the same throughput, giving NVIDIA a production reference for its optical switches.",
+                      "why_th":  "เมื่อทดสอบทั้งกลุ่มแร็ก Lambda วัดความหน่วงได้ต่ำกว่าโมดูลออปติกแบบเสียบ 10.1% ที่อัตรารับส่งข้อมูลเท่ากัน ทำให้ NVIDIA มีผลจากระบบที่ใช้งานจริงไว้อ้างอิงกับลูกค้า"
+                  },
+                  {
+                      "date":  "2026-11-23",
+                      "publisher":  "Tom\u0027s Hardware",
+                      "url":  "https://www.tomshardware.com/tech-industry/big-tech/ai-server-makers-hike-prices-up-to-45-percent-months-after-contracts-are-signed-as-ram-shortage-triples-memory-heavy-cpu-node-costs-financial-firms-still-pay-up-as-the-compute-is-valuable",
                       "tickers":  [
                                       "DELL",
-                                      "SMCI"
+                                      "SMCI",
+                                      "HPE",
+                                      "CSCO",
+                                      "CLS",
+                                      "JBL",
+                                      "SANM"
                                   ],
-                      "title_en":  "Dell and Supermicro raise AI server prices up to 45% on memory shortages",
-                      "title_th":  "Dell และ Supermicro ปรับราคาเซิร์ฟเวอร์ AI ขึ้นสูงสุด 45% หลังเมมโมรีขาดตลาดหนัก",
-                      "url":  "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f",
-                      "why_en":  "Passing through 25%–45% post-contract hikes helps defend server makers\u0027 margins after memory prices surged over 400% since early 2024, though it strains customer relationships and raises legal dispute risks.",
-                      "why_th":  "การปรับขึ้นราคาส่งมอบ 25%–45% หลังเซ็นสัญญาช่วยพยุงอัตรากำไรของ DELL และ SMCI ท่ามกลางต้นทุนเมมโมรีที่พุ่งกว่า 400% ตั้งแต่ต้นปี 2024 แต่เพิ่มแรงตึงเครียดกับลูกค้าและความเสี่ยงด้านคดีความ"
+                      "impact":  "mixed",
+                      "title_en":  "Financial firms report server price increases of up to 45% after signing",
+                      "title_th":  "ลูกค้ากลุ่มการเงินเจอราคาเซิร์ฟเวอร์เพิ่มสูงสุด 45% หลังเซ็นสัญญา",
+                      "why_en":  "Reported GPU server price increases of 20–30% suggest builders can pass on some memory costs, though the higher prices also stretch customers’ hardware budgets.",
+                      "why_th":  "ราคาเซิร์ฟเวอร์ GPU ที่มีรายงานว่าขึ้น 20–30% สะท้อนว่าผู้ผลิตผลักภาระต้นทุนหน่วยความจำให้ลูกค้าได้บางส่วน แต่ลูกค้าก็ซื้อเครื่องได้น้อยลงหากใช้งบเท่าเดิม"
                   },
                   {
-                      "date":  "2026-11-20",
-                      "impact":  "negative",
-                      "publisher":  "Investing.com",
+                      "date":  "2026-11-23",
+                      "publisher":  "Axios",
+                      "url":  "https://www.axios.com/2026/11/23/ai-spending-slowdown",
                       "tickers":  [
-                                      "AVGO"
+                                      "NVDA",
+                                      "ANET",
+                                      "AVGO",
+                                      "CSCO",
+                                      "DELL",
+                                      "SMCI",
+                                      "HPE",
+                                      "CLS",
+                                      "JBL",
+                                      "SANM",
+                                      "COHR",
+                                      "LITE",
+                                      "FN",
+                                      "CIEN",
+                                      "MTSI",
+                                      "AAOI",
+                                      "ALAB",
+                                      "CRDO",
+                                      "MRVL",
+                                      "APH",
+                                      "TEL",
+                                      "KEYS",
+                                      "GLW",
+                                      "SITM",
+                                      "NTAP"
                                   ],
-                      "title_en":  "Report says Google trims 2027 Broadcom TPU 8i plans by 1 million units",
-                      "title_th":  "มีรายงาน Google หั่นแผนผลิตชิป TPU 8i ของ Broadcom ปี 2027 ลง 1 ล้านชิ้น",
-                      "url":  "https://www.investing.com/news/stock-market-news/google-reportedly-cuts-broadcomdesigned-tpu-plans-eyes-more-mediatek-chips-5042253",
-                      "why_en":  "Analyst Ming-Chi Kuo\u0027s estimate of a roughly 20% cut in 2027 TPU 8i orders alongside higher MediaTek allocation highlights rising custom-ASIC competition at Broadcom\u0027s largest AI customer.",
-                      "why_th":  "รายงานของนักวิเคราะห์ Ming-Chi Kuo ที่ระบุว่า Google ลดยอดสั่งผลิต TPU 8i ราว 20% และหันไปเพิ่มออร์เดอร์ชิปจาก MediaTek สะท้อนแรงแข่งขันด้านชิป ASIC ที่เข้มข้นขึ้นในลูกค้ารายใหญ่ที่สุดของ AVGO"
+                      "impact":  "mixed",
+                      "title_en":  "Analysts hold spending forecasts steady for five major cloud buyers",
+                      "title_th":  "นักวิเคราะห์คงประมาณการลงทุนของผู้ซื้อโครงสร้างพื้นฐานคลาวด์รายใหญ่ 5 ราย",
+                      "why_en":  "FactSet estimates for Amazon, Alphabet, Microsoft, Meta and Oracle leveled off after earnings, giving rack, networking and component suppliers less reason to expect another increase in buyer budgets.",
+                      "why_th":  "หลังประกาศงบ ประมาณการรายจ่ายลงทุนของ Amazon, Alphabet, Microsoft, Meta และ Oracle ที่ FactSet รวบรวมไว้ทรงตัว ผู้ขายแร็ก อุปกรณ์เครือข่าย และชิ้นส่วนจึงมีเหตุรองรับน้อยลงที่จะคาดว่าลูกค้าจะเพิ่มงบอีกรอบ"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "publisher":  "NVIDIA",
+                      "url":  "https://nvidianews.nvidia.com/news/nvidia-expands-vera-cpu-platform-to-accelerate-scientific-discovery",
+                      "tickers":  [
+                                      "NVDA",
+                                      "DELL",
+                                      "HPE",
+                                      "SMCI"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "Dell, HPE and Supermicro plan to offer NVIDIA Vera CPU racks",
+                      "title_th":  "Dell, HPE และ Supermicro เตรียมขายแร็ก Vera CPU ของ NVIDIA",
+                      "why_en":  "The 192-CPU rack is due from server partners in early 2027, and Germany’s climate computing center has already selected Vera CPUs for its next supercomputer.",
+                      "why_th":  "พันธมิตรผู้ผลิตเซิร์ฟเวอร์คาดว่าจะเริ่มขายแร็กที่ติดตั้ง CPU 192 ตัวได้ต้นปี 2027 และศูนย์คอมพิวเตอร์ด้านภูมิอากาศของเยอรมนีเลือกใช้ Vera CPU ในซูเปอร์คอมพิวเตอร์เครื่องถัดไปแล้ว"
+                  },
+                  {
+                      "date":  "2026-11-19",
+                      "publisher":  "Keysight Technologies",
+                      "url":  "https://investor.keysight.com/investor-news-and-events/financial-press-releases/press-release-details/2026/Keysight-Technologies-Reports-Fourth-Quarter-and-Fiscal-Year-2026-Results/default.aspx",
+                      "tickers":  [
+                                      "KEYS"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "Keysight’s commercial communications revenue rises 73%",
+                      "title_th":  "รายได้กลุ่มสื่อสารเชิงพาณิชย์ของ Keysight โต 73%",
+                      "why_en":  "Commercial communications helped lift quarterly revenue to $1.99 billion from $1.42 billion a year earlier, and Keysight expects $2.04–2.06 billion next quarter.",
+                      "why_th":  "ธุรกิจสื่อสารเชิงพาณิชย์ช่วยดันรายได้รวมรายไตรมาสจาก 1.42 พันล้านดอลลาร์ปีก่อนเป็น 1.99 พันล้านดอลลาร์ และ Keysight คาดว่าไตรมาสหน้าจะทำได้ 2.04–2.06 พันล้านดอลลาร์"
                   },
                   {
                       "date":  "2026-11-17",
+                      "publisher":  "Arista Networks",
+                      "url":  "https://www.arista.com/company/news/press-release/25174-pr-20261117",
+                      "tickers":  [
+                                      "ANET"
+                                  ],
                       "impact":  "positive",
-                      "publisher":  "Business Wire",
+                      "title_en":  "Arista expands Etherlink routing for AI inference across data centers",
+                      "title_th":  "Arista เพิ่มรุ่นเราเตอร์ Etherlink สำหรับงาน AI inference ข้ามศูนย์ข้อมูล",
+                      "why_en":  "The new 7280R4 supports encrypted 400G and 800G optical links, expanding what Arista can sell to operators running AI inference across multiple sites.",
+                      "why_th":  "รุ่น 7280R4 รองรับลิงก์ออปติกเข้ารหัสที่ความเร็ว 400G และ 800G ทำให้ Arista มีอุปกรณ์เครือข่ายเพิ่มสำหรับลูกค้าที่กระจายงานประมวลผล AI ไปหลายศูนย์ข้อมูล"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "publisher":  "Astera Labs",
+                      "url":  "https://ir.asteralabs.com/news-releases/news-release-details/hyve-solutions-and-astera-labs-collaborate-bring-ai-inference",
+                      "tickers":  [
+                                      "ALAB"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "Hyve selects Astera’s Orion boards and switches for Apex inference racks",
+                      "title_th":  "Hyve เลือกบอร์ดและสวิตช์ Orion ของ Astera สำหรับแร็ก Apex",
+                      "why_en":  "Hyve expects to offer Orion-based Apex racks in Q1 2027, giving Astera a route to cloud and enterprise customers that need air-cooled systems.",
+                      "why_th":  "Hyve คาดว่าจะเริ่มขายแร็ก Apex ที่ใช้ Orion ในไตรมาส 1 ปี 2027 ทำให้ Astera เข้าถึงลูกค้าคลาวด์และองค์กรที่ต้องการใช้ระบบระบายความร้อนด้วยอากาศได้มากขึ้น"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "publisher":  "NetApp",
+                      "url":  "https://www.netapp.com/newsroom/press-releases/news-rel-20261110-964363/",
+                      "tickers":  [
+                                      "NTAP"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "Nebul becomes first AI cloud provider to adopt NetApp Novus",
+                      "title_th":  "Nebul เป็นผู้ให้บริการคลาวด์ AI เฉพาะทางรายแรกที่เลือกใช้ NetApp Novus",
+                      "why_en":  "Nebul gives NetApp a European cloud customer for its newly available storage architecture, designed to feed GPU clusters at up to 100 TB/s in aggregate.",
+                      "why_th":  "NetApp ได้ลูกค้าคลาวด์ในยุโรปสำหรับระบบจัดเก็บข้อมูลที่เพิ่งเปิดขาย โดย Novus ออกแบบให้ส่งข้อมูลรวมไปยังคลัสเตอร์ GPU ได้สูงสุด 100 TB/s"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "publisher":  "Credo Technology",
+                      "url":  "https://investors.credosemi.com/news-events/news/news-details/2026/Credo-Reaches-Settlement-in-Patent-Dispute/default.aspx",
                       "tickers":  [
                                       "CRDO",
                                       "MRVL"
                                   ],
-                      "title_en":  "Credo and Marvell settle Active Electrical Cable patent disputes",
-                      "title_th":  "Credo และ Marvell บรรลุข้อตกลงยุติข้อพิพาทสิทธิบัตรสาย AEC ทั้งหมด",
-                      "url":  "https://www.businesswire.com/news/home/20261117966700/en/",
-                      "why_en":  "Marvell\u0027s withdrawal of its USPTO challenges under a confidential settlement clears a major IP overhang on Credo\u0027s flagship AEC copper interconnects while ending litigation uncertainty for both firms.",
-                      "why_th":  "การที่ Marvell ยอมถอนคำร้องคัดค้านสิทธิบัตรต่อ USPTO ภายใต้ข้อตกลงยอมความช่วยปลดล็อกความกังวลด้านกฎหมายต่อสายเชื่อมต่อทองแดง AEC ซึ่งเป็นสินค้าหลักของ CRDO และลดความไม่แน่นอนของทั้งสองบริษัท"
-                  },
-                  {
-                      "date":  "2026-11-19",
-                      "impact":  "positive",
-                      "publisher":  "SEC",
-                      "tickers":  [
-                                      "COHR"
-                                  ],
-                      "title_en":  "Coherent board authorizes $2 billion open-ended share repurchase program",
-                      "title_th":  "บอร์ด Coherent อนุมัติโครงการซื้อหุ้นคืนวงเงิน $2 พันล้านแบบไม่กำหนดวันหมดอายุ",
-                      "url":  "https://www.sec.gov/Archives/edgar/data/820318/000119312526467737/d867801d8k.htm",
-                      "why_en":  "The $2.0 billion buyback authorization disclosed in an 8-K filing underscores management\u0027s confidence in cash generation as 800G and 1.6T optical transceiver demand scales.",
-                      "why_th":  "การเปิดวงเงินซื้อหุ้นคืน $2.0 พันล้านตามเอกสาร 8-K สะท้อนความเชื่อมั่นของผู้บริหารต่อกระแสเงินสดและฐานะการเงิน ท่ามกลางดีมานด์ optical transceiver ระดับ 800G และ 1.6T ที่ขยายตัวแรง"
+                      "impact":  "mixed",
+                      "title_en":  "Credo and Marvell settle active electrical cable patent dispute",
+                      "title_th":  "Credo และ Marvell ตกลงยุติข้อพิพาทสิทธิบัตรสายเชื่อมต่อไฟฟ้าแบบแอ็กทีฟ",
+                      "why_en":  "The agreement resolves Marvell’s challenges to Credo’s cable patents, reducing legal uncertainty for both suppliers while leaving the financial terms confidential.",
+                      "why_th":  "ข้อตกลงยุติการที่ Marvell ยื่นคัดค้านสิทธิบัตรสายเคเบิลของ Credo ช่วยลดความไม่แน่นอนทางกฎหมายของทั้งสองบริษัท ส่วนเงื่อนไขทางการเงินยังเป็นความลับ"
                   },
                   {
                       "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "Business Wire",
+                      "publisher":  "Ciena",
+                      "url":  "https://www.ciena.com/about/newsroom/press-releases/ciena-and-internet2-reach-industry-record-for-longest-terrestrial-800-gbs-coherent-pluggable-link",
                       "tickers":  [
-                                      "ANET"
+                                      "CIEN"
                                   ],
-                      "title_en":  "Arista expands Etherlink R4 switches for distributed AI inferencing",
-                      "title_th":  "Arista ขยายพอร์ต Etherlink R4 รองรับระบบ Distributed AI Inferencing",
-                      "url":  "https://www.businesswire.com/news/home/20261117628006/en/Arista-Announces-New-Etherlink-Offerings-for-Distributed-Inferencing",
-                      "why_en":  "The new 5nm R4 routing platforms cut power use by up to 60% and add 25.6 Tbps coherent optical transport, positioning Arista to capture front-end agentic AI inference networks.",
-                      "why_th":  "เราเตอร์ตระกูล R4 สถาปัตยกรรม 5nm รุ่นใหม่ช่วยลดการใช้พลังงานสูงสุด 60% พร้อมรองรับการส่งข้อมูลด้วยแสง 25.6 Tbps ช่วยให้ ANET ขยายตลาดสู่เครือข่ายประมวลผล AI เชิงเอเจนต์แบบกระจายศูนย์"
-                  },
-                  {
-                      "date":  "2026-11-16",
                       "impact":  "positive",
-                      "publisher":  "GlobeNewswire",
-                      "tickers":  [
-                                      "ALAB"
-                                  ],
-                      "title_en":  "Astera Labs and Hyve partner on Orion rack-scale AI inference systems",
-                      "title_th":  "Astera Labs จับมือ Hyve พัฒนาแร็กเซิร์ฟเวอร์ AI Inference บนสถาปัตยกรรม Orion",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/16/3388716/0/en/Hyve-Solutions-and-Astera-Labs-Collaborate-to-Bring-AI-Inference-Capacity-to-Customers-Faster.html",
-                      "why_en":  "Integrating Astera\u0027s Orion architecture and Scorpio X-Series PCIe switches into Hyve Apex servers delivers up to 89% higher inference throughput ahead of Q1 2027 shipments.",
-                      "why_th":  "การนำสถาปัตยกรรม Orion และสวิตช์ Scorpio X-Series ของ ALAB ไปติดตั้งในเซิร์ฟเวอร์ Hyve Apex ช่วยเพิ่มความเร็วการประมวลผลโทเค็นได้สูงสุด 89% โดยเตรียมเริ่มส่งมอบในไตรมาส 1 ปี 2027"
-                  },
-                  {
-                      "date":  "2026-11-13",
-                      "impact":  "positive",
-                      "publisher":  "Business Wire",
-                      "tickers":  [
-                                      "MRVL"
-                                  ],
-                      "title_en":  "Marvell showcases Photonic Fabric and CXL 3.2 optical memory at SC26",
-                      "title_th":  "Marvell โชว์เทคโนโลยี Photonic Fabric และหน่วยความจำ CXL 3.2 ในงาน SC26",
-                      "url":  "https://www.businesswire.com/news/home/20261113005322/en/Marvell-Scales-Connectivity-Address-AI-Infrastructure%E2%80%99s-Next-Bottleneck-Supercomputing-2026",
-                      "why_en":  "Marvell\u0027s optical shared-memory architecture pools up to 32 TB across racks via Photonic Fabric and Structera CXL 3.2 expanders, targeting AI inference memory bottlenecks.",
-                      "why_th":  "สถาปัตยกรรมหน่วยความจำร่วมผ่านแสงของ MRVL ที่ขยายได้สูงสุด 32 TB ข้ามแร็กด้วย Photonic Fabric และ Structera CXL 3.2 ช่วยปลดล็อกคอขวดหน่วยความจำสำหรับงาน AI inference ขนาดใหญ่"
-                  },
-                  {
-                      "date":  "2026-11-16",
-                      "impact":  "positive",
-                      "publisher":  "Dell Technologies",
-                      "tickers":  [
-                                      "DELL"
-                                  ],
-                      "title_en":  "Dell unveils direct liquid-cooled AI storage and Factory upgrades at SC26",
-                      "title_th":  "Dell เปิดตัวสตอเรจระบายความร้อนด้วยของเหลวและอัปเกรด AI Factory ในงาน SC26",
-                      "url":  "https://www.dell.com/en-us/dt/corporate/newsroom/news/all/company-news/2026/11/dell-technologies-delivers-the-trusted-data-and-ai-infrastructure-foundation-needed-to-scale-enterprise-ai.htm",
-                      "why_en":  "New 2U fanless direct liquid-cooled nodes supporting 32 NVMe drives (shipping 1H 2027) and OpenManage Rack Scale for 100,000 devices strengthen Dell\u0027s turnkey enterprise AI rack offering.",
-                      "why_th":  "สตอเรจไร้พัดลมขนาด 2U ที่ระบายความร้อนด้วยของเหลวโดยตรงรองรับไดรฟ์ NVMe 32 ลูก (เริ่มส่งมอบครึ่งแรกปี 2027) พร้อมซอฟต์แวร์จัดการระดับแร็ก OpenManage รองรับสูงสุด 100,000 อุปกรณ์ ช่วยเสริมจุดแข็งโซลูชันแร็ก AI แบบครบวงจรของ DELL"
-                  },
-                  {
-                      "date":  "2026-11-18",
-                      "impact":  "positive",
-                      "publisher":  "Supermicro",
-                      "tickers":  [
-                                      "SMCI"
-                                  ],
-                      "title_en":  "Supermicro ships first PCIe Gen 6 all-flash storage servers for AI",
-                      "title_th":  "Supermicro เริ่มส่งมอบสตอเรจเซิร์ฟเวอร์ All-Flash รองรับ PCIe Gen 6 รายแรกของอุตสาหกรรม",
-                      "url":  "https://www.supermicro.com/en/pressreleases/supermicro-ships-first-all-flash-storage-servers-delivering-pcie-gen-6-performance-and-broad",
-                      "why_en":  "The 2U AMD EPYC-based servers double sequential read bandwidth and hold up to 3.93 PB across 32 NVMe drives, reinforcing Supermicro\u0027s speed-to-market advantage in AI data pipelines.",
-                      "why_th":  "เซิร์ฟเวอร์ขนาด 2U ที่ใช้ซีพียู AMD EPYC รุ่นใหม่เพิ่มแบนด์วิดท์การอ่านข้อมูลสูงสุด 100% และจุได้ถึง 3.93 PB บนไดรฟ์ NVMe 32 ลูก ตอกย้ำความได้เปรียบด้านความเร็วในการออกสินค้าใหม่ของ SMCI"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "Business Wire",
-                      "tickers":  [
-                                      "SITM"
-                                  ],
-                      "title_en":  "SiTime launches two AI data-center clock families targeting $2B market",
-                      "title_th":  "SiTime เปิดตัวชิปนาฬิกาสำหรับดาต้าเซ็นเตอร์ AI สองตระกูล เจาะตลาด $2 พันล้าน",
-                      "url":  "https://www.businesswire.com/news/home/20261117222922/en/",
-                      "why_en":  "FemtoClock 4 for 224G Ethernet switches and VersaClock 8 for PCIe 7 accelerators expand SiTime\u0027s reach into a $2 billion five-year data-center bandwidth upgrade market.",
-                      "why_th":  "ชิป FemtoClock 4 สำหรับสวิตช์ Ethernet 224G และ VersaClock 8 สำหรับการเชื่อมต่อ PCIe 7 ช่วยขยายโอกาสการเติบโตของ SITM ในตลาดอัปเกรดแบนด์วิดท์ดาต้าเซ็นเตอร์มูลค่า $2 พันล้านในช่วง 5 ปีข้างหน้า"
-                  },
-                  {
-                      "date":  "2026-11-12",
-                      "impact":  "positive",
-                      "publisher":  "GlobeNewswire",
-                      "tickers":  [
-                                      "OSS"
-                                  ],
-                      "title_en":  "One Stop Systems wins $1 million follow-on defense edge-compute order",
-                      "title_th":  "One Stop Systems คว้าออร์เดอร์ซ้ำด้านกลาโหมมูลค่า $1 ล้าน ดันยอดสะสมใกล้ $6 ล้าน",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/12/3389025/0/en/OSS-Receives-10th-Order-Since-May-2025-from-Leading-Defense-and-Intelligence-Contractor.html",
-                      "why_en":  "The 10th follow-on production order since May 2025 lifts cumulative funding for OSS\u0027s rugged Gen 5 PCIe GNSS testing platform to roughly $6 million, validating repeat defense demand.",
-                      "why_th":  "คำสั่งซื้อต่อเนื่องครั้งที่ 10 นับตั้งแต่พฤษภาคม 2025 ดันมูลค่างานสะสมของแพลตฟอร์มทดสอบ GNSS แบบสมบุกสมบันระดับ Gen 5 PCIe ขึ้นเป็นราว $6 ล้าน สะท้อนรายได้ประจำจากลูกค้าภาคกลาโหมที่มั่นคงขึ้นของ OSS"
+                      "title_en":  "Ciena and Internet2 demonstrate an 800G optical link over 2,104 kilometers",
+                      "title_th":  "Ciena และ Internet2 ทดสอบลิงก์ออปติก 800G ได้ไกล 2,104 กิโลเมตร",
+                      "why_en":  "The live-network trial shows Ciena’s compact WaveLogic 6 Nano modules can serve longer routes, widening their potential use in networks that connect data centers.",
+                      "why_th":  "การทดสอบบนเครือข่ายที่ใช้งานจริงแสดงว่าโมดูล WaveLogic 6 Nano ขนาดกะทัดรัดรองรับเส้นทางไกลได้ เพิ่มโอกาสที่ลูกค้าจะเลือกใช้เชื่อมศูนย์ข้อมูลที่อยู่ห่างกัน"
                   }
               ]
 }

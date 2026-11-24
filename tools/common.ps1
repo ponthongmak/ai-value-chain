@@ -213,6 +213,9 @@ function Invoke-AI([string]$Task, [string]$Prompt, [string]$SchemaPath, [string]
   if (-not $exe) { throw "$prov CLI not found on this computer." }
   $env1 = Get-ProfileEnv $prof
   $out = [pscustomobject]@{ text = ''; structured = $null; costUsd = $null; sessionId = $null; provider = $prov; model = $m; account = $prof.label }
+  # A model name that already ends in an effort level (gemini-4-neon-xhigh) sets the effort itself;
+  # adding a different --effort makes the CLI refuse the call.
+  if ($m -match '-(low|medium|high|xhigh|max)$') { $Effort = '' }
   switch ($prov) {
     'claude' {
       $a = @('-p', '--output-format', 'json', '--tools', 'WebSearch,WebFetch', '--allowedTools', 'WebSearch,WebFetch', '--permission-prompts', 'none')
@@ -305,6 +308,19 @@ function Get-ProviderModels([string]$provider) {
 function Test-LimitError([string]$msg) {
   return $msg -match '(?i)(usage|rate)[ _-]?limit|limit (reached|exceeded|resets)|hit your limit|quota|\b429\b|overloaded|out of (extra )?usage|extra usage|credit balance|too many requests|resource[_ ]exhausted|insufficient_quota'
 }
+
+# Sign-in problems (expired or missing login): later jobs on the same account would fail the same way.
+function Test-AuthError([string]$msg) {
+  return $msg -match '(?i)\b401\b|unauthori[sz]ed|not logged in|missing bearer|please (log|sign) ?in|authentication (failed|required)|invalid api key|token (has )?expired'
+}
+# Provider name of a job key: L1-L7 = news task, J-<sector>-<profile> = that judge, anything else = analysis task.
+function Get-JobProvider([string]$key, [string]$Account, [string]$Model) {
+  try {
+    if ($key -match '^J-[a-z]+-(.+)$') { $id = $Matches[1]; return [string](@((Get-Accounts).profiles | Where-Object { $_.id -eq $id })[0].provider) }
+    return [string](Resolve-AiChoice $(if ($key -match '^L[1-7]$') { 'news' } else { 'analysis' }) $Account $Model).profile.provider
+  } catch { return '' }
+}
+$Global:SignInHint = @{ claude = 'Claude'; codex = 'Codex'; antigravity = 'Antigravity' }
 
 function Get-ClaudeAuth {
   $exe = Find-Claude

@@ -1,210 +1,243 @@
 {
     "layer":  2,
     "name":  "AI Semiconductors \u0026 Manufacturing",
-    "model":  "gemini-4-neon-high",
-    "provider":  "antigravity",
-    "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-24T03:19:54Z",
+    "model":  "gpt-6.2-astra",
+    "provider":  "codex",
+    "account":  "Codex (ChatGPT)",
+    "generatedAt":  "2026-11-24T16:38:13Z",
     "period":  [
                    "2026-11-10",
                    "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "AI chip demand remained extraordinary in mid-November as NVIDIA doubled Q3 revenue to $115.8 billion alongside a rapid Vera Rubin ramp, TSMC posted record October sales, and Applied Materials beat estimates with stronger 2027 equipment momentum. At the same time, governance drama over Jensen Huang\u0027s brief departure and swift reinstatement, new U.S. BIS remote-compute and Southeast Asia export controls, and reports of Google trimming 2027 Broadcom TPU orders drove sharp sector volatility. Across memory and wafer-fab equipment, SK hynix, Samsung, Micron, and KLA accelerated HBM4 and advanced packaging capacity to meet multi-year AI infrastructure commitments.",
-                  "th":  "ความต้องการชิป AI ยังเติบโตอย่างร้อนแรงในช่วงกลางเดือนพฤศจิกายน โดย NVIDIA ทำรายได้ไตรมาส 3 พุ่งเท่าตัวแตะ 115.8 พันล้านดอลลาร์พร้อมการเร่งส่งมอบ Vera Rubin ขณะที่ TSMC ทำยอดขายเดือนตุลาคมสูงสุดเป็นประวัติการณ์ และ Applied Materials ส่งสัญญาณการลงทุนเครื่องจักรผลิตชิปที่เร่งตัวสู่ปี 2027 อย่างไรก็ตาม กลุ่มชิปเผชิญความผันผวนรุนแรงจากเหตุการณ์ลาออกและกลับมาดำรงตำแหน่ง CEO อย่างรวดเร็วของ Jensen Huang เกณฑ์คุมส่งออกชิป AI ฉบับใหม่ของสหรัฐฯ ที่ครอบคลุมการเช่าใช้คลาวด์และประเทศในเอเชียตะวันออกเฉียงใต้ รวมถึงรายงานข่าว Google ปรับลดยอดสั่งซื้อ TPU จาก Broadcom ด้านกลุ่มหน่วยความจำและเครื่องจักรอย่าง SK hynix, Samsung, Micron และ KLA ต่างเร่งขยายกำลังผลิต HBM4 และบรรจุภัณฑ์ขั้นสูงเพื่อรองรับคำสั่งซื้อระยะยาวต่อเนื่อง"
+                  "en":  "NVIDIA’s data-center revenue rose 110% year over year to $107.6 billion as Vera Rubin racks began shipping. TSMC approved $40.93 billion for capacity and related investment, while Applied Materials reported 53% sales growth as chipmakers bought more equipment. New U.S. licensing requirements added a hurdle for advanced-chip shipments to five markets, including Thailand.",
+                  "th":  "รายได้ศูนย์ข้อมูลของ NVIDIA โต 110% จากปีก่อนเป็น 107.6 พันล้านดอลลาร์ ขณะที่บริษัทเริ่มส่งมอบแร็ก Vera Rubin ฝั่งการผลิต TSMC อนุมัติวงเงิน 40.93 พันล้านดอลลาร์สำหรับขยายกำลังผลิตและลงทุนด้านอื่น ส่วนยอดขายของ Applied Materials โต 53% ตามการลงทุนซื้อเครื่องจักรของผู้ผลิตชิป สหรัฐฯ ยังเพิ่มเงื่อนไขใบอนุญาตสำหรับการส่งชิปขั้นสูงไปยัง 5 ประเทศ รวมถึงไทย"
               },
     "themes":  {
                    "en":  [
-                              "Vera Rubin \u0026 AI Boom",
-                              "NVIDIA CEO Whiplash",
-                              "Remote-Compute Export Curbs",
-                              "HBM4 \u0026 Packaging Scale-Up"
+                              "AI accelerator demand",
+                              "Foundry capacity expansion",
+                              "Chip export controls",
+                              "Cloud server CPUs"
                           ],
                    "th":  [
-                              "แรงส่ง Vera Rubin และดีมานด์ AI",
-                              "จุดเปลี่ยน CEO ของ NVIDIA",
-                              "เกณฑ์คุมส่งออกคลาวด์ AI สหรัฐฯ",
-                              "เร่งขยายกำลังผลิต HBM4 และแพ็กเกจจิ้ง"
+                              "ความต้องการชิปเร่ง AI",
+                              "การขยายกำลังผลิตชิป",
+                              "ข้อจำกัดการส่งออกชิป",
+                              "ซีพียูสำหรับคลาวด์"
                           ]
                },
     "items":  [
                   {
-                      "date":  "2026-11-23",
-                      "impact":  "positive",
-                      "publisher":  "NVIDIA",
-                      "tickers":  ["NVDA"],
-                      "title_en":  "NVIDIA board unanimously reinstates Jensen Huang as CEO",
-                      "title_th":  "บอร์ด NVIDIA มีมติเอกฉันท์ให้ Jensen Huang กลับมาเป็น CEO",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
-                      "why_en":  "Bringing Huang back 11 days after his resignation removes acute leadership overhang and restores continuity across NVIDIA\u0027s AI roadmap and hyperscaler supply partnerships.",
-                      "why_th":  "การกลับมาของ Huang ภายใน 11 วันหลังลาออกช่วยขจัดความไม่แน่นอนด้านผู้นำ และรักษาความต่อเนื่องของแผนพัฒนาชิป AI รวมถึงความร่วมมือกับกลุ่มคลาวด์รายใหญ่"
-                  },
-                  {
                       "date":  "2026-11-17",
-                      "impact":  "positive",
                       "publisher":  "NVIDIA",
-                      "tickers":  ["NVDA"],
-                      "title_en":  "NVIDIA Q3 revenue doubles to $115.8B as Vera Rubin ramps",
-                      "title_th":  "รายได้ไตรมาส 3 ของ NVIDIA โตเท่าตัวแตะ $115.8B หนุนโดย Vera Rubin",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-                      "why_en":  "Data center sales surged 110% YoY to $107.6 billion with Vera Rubin NVL72 nearing $20 billion in its debut quarter, while $130.0 billion Q4 guidance confirms unabated AI compute demand.",
-                      "why_th":  "รายได้กลุ่ม Data Center พุ่ง 110% YoY แตะ 107.6 พันล้านดอลลาร์ โดย Vera Rubin NVL72 ทำยอดขายเกือบ 20 พันล้านดอลลาร์ตั้งแต่ไตรมาสแรกที่เริ่มส่งมอบ พร้อมคาดการณ์รายได้ไตรมาส 4 ที่ 130.0 พันล้านดอลลาร์สะท้อนดีมานด์ที่ยังแข็งแกร่งมาก"
+                      "url":  "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx",
+                      "tickers":  [
+                                      "NVDA"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "NVIDIA data-center revenue doubles as Vera Rubin racks begin shipping",
+                      "title_th":  "รายได้ศูนย์ข้อมูล NVIDIA โตเกินเท่าตัว พร้อมเริ่มส่งมอบแร็ก Vera Rubin",
+                      "why_en":  "Data-center sales rose 110% year over year to $107.6 billion, and NVIDIA forecast $130 billion in total quarterly revenue, plus or minus 3%, excluding any data-center compute sales to China.",
+                      "why_th":  "ยอดขายธุรกิจศูนย์ข้อมูลโต 110% จากปีก่อนเป็น 107.6 พันล้านดอลลาร์ และ NVIDIA คาดรายได้รวมไตรมาสถัดไปที่ 130 พันล้านดอลลาร์ บวกลบ 3% โดยยังไม่นับยอดขายชิปประมวลผลสำหรับศูนย์ข้อมูลในจีน"
                   },
                   {
                       "date":  "2026-11-19",
-                      "impact":  "negative",
-                      "publisher":  "Federal Register",
+                      "publisher":  "U.S. Bureau of Industry and Security",
+                      "url":  "https://www.govinfo.gov/content/pkg/FR-2026-11-19/html/2026-23529.htm",
                       "tickers":  [
                                       "NVDA",
                                       "AMD",
                                       "CBRS",
+                                      "INTC",
                                       "AVGO",
-                                      "MRVL",
-                                      "TSM"
+                                      "MRVL"
                                   ],
-                      "title_en":  "US BIS restricts remote AI chip access and tightens regional licensing",
-                      "title_th":  "สหรัฐฯ ออกเกณฑ์คุมการเข้าถึงชิป AI ผ่านคลาวด์และเพิ่มใบอนุญาตส่งออกในภูมิภาค",
-                      "url":  "https://www.federalregister.gov/d/2026-23529",
-                      "why_en":  "The interim rule requires licenses for remote compute above 12 million TPP for restricted-country entities and adds licensing for shipments to Singapore, Malaysia, Thailand, Indonesia, and Brazil, raising compliance friction across AI chipmakers and foundries.",
-                      "why_th":  "เกณฑ์ใหม่กำหนดให้ต้องขอใบอนุญาตหากให้บริการเช่าใช้พลังประมวลผลเกิน 12 ล้าน TPP แก่องค์กรจากประเทศต้องห้าม และเพิ่มข้อกำหนดใบอนุญาตส่งออกไปสิงคโปร์ มาเลเซีย ไทย อินโดนีเซีย และบราซิล ซึ่งเพิ่มต้นทุนและข้อจำกัดให้ผู้ผลิตชิปและโรงงานรับจ้างผลิต"
+                      "impact":  "negative",
+                      "title_en":  "US adds advanced-chip licensing requirements for Thailand and four other markets",
+                      "title_th":  "สหรัฐฯ เพิ่มเงื่อนไขใบอนุญาตส่งชิปขั้นสูงไปไทยและอีก 4 ประเทศ",
+                      "why_en":  "Covered shipments to Thailand, Singapore, Malaysia, Indonesia and Brazil now require licenses, though qualifying U.S.-headquartered buyers or their subsidiaries can receive chips under a reporting exception.",
+                      "why_th":  "การส่งชิปที่เข้าเกณฑ์ไปไทย สิงคโปร์ มาเลเซีย อินโดนีเซีย และบราซิลต้องขอใบอนุญาต โดยผู้รับที่มีสำนักงานใหญ่หรือบริษัทแม่สูงสุดอยู่ในสหรัฐฯ ยังใช้ข้อยกเว้นได้หากปฏิบัติตามเงื่อนไขการรายงาน"
                   },
                   {
                       "date":  "2026-11-10",
-                      "impact":  "positive",
-                      "publisher":  "TSMC",
-                      "tickers":  ["TSM"],
-                      "title_en":  "TSMC October revenue hits record NT$586.89 billion, up 59.7% YoY",
-                      "title_th":  "รายได้เดือนตุลาคมของ TSMC ทำสถิติใหม่ที่ NT$586.89 พันล้าน โต 59.7% YoY",
-                      "url":  "https://pr.tsmc.com/english/news/3349",
-                      "why_en":  "Record monthly sales (+14.7% MoM) lifted January–October revenue 43.3% YoY to NT$4.49 trillion, confirming tight utilization in leading-edge logic and CoWoS AI packaging.",
-                      "why_th":  "ยอดขายรายเดือนที่โต 14.7% จากเดือนก่อนหน้าดันรายได้สะสม 10 เดือนแรกโต 43.3% YoY แตะ 4.49 ล้านล้านดอลลาร์ไต้หวัน ยืนยันอัตราการใช้กำลังการผลิตที่หนาแน่นทั้งชิปขั้นสูงและบรรจุภัณฑ์ CoWoS"
-                  },
-                  {
-                      "date":  "2026-11-20",
-                      "impact":  "negative",
-                      "publisher":  "Investing.com",
-                      "tickers":  ["AVGO"],
-                      "title_en":  "Report says Google cut 2027 Broadcom TPU 8i shipments by 20%",
-                      "title_th":  "รายงานระบุ Google ลดแผนสั่งซื้อชิป TPU 8i ปี 2027 จาก Broadcom ลง 20%",
-                      "url":  "https://www.investing.com/news/stock-market-news/google-reportedly-cuts-broadcomdesigned-tpu-plans-eyes-more-mediatek-chips-93CH-3694292",
-                      "why_en":  "Analyst Ming-Chi Kuo estimated Google trimmed Broadcom-designed TPU 8i orders by about 1 million units while boosting MediaTek TPU 8t volume, highlighting customer-concentration and custom-ASIC competition risks.",
-                      "why_th":  "นักวิเคราะห์ Ming-Chi Kuo ระบุว่า Google ปรับลดยอดสั่งซื้อ TPU 8i ที่ออกแบบร่วมกับ Broadcom ราว 1 ล้านชิ้นเพื่อหันไปเพิ่มคำสั่งซื้อ TPU 8t จาก MediaTek สะท้อนความเสี่ยงจากการพึ่งพาลูกค้ารายใหญ่และการแข่งขันในตลาดชิป ASIC"
-                  },
-                  {
-                      "date":  "2026-11-12",
-                      "impact":  "positive",
-                      "publisher":  "Applied Materials",
-                      "tickers":  ["AMAT"],
-                      "title_en":  "Applied Materials Q4 revenue jumps 53% to $10.41 billion",
-                      "title_th":  "Applied Materials ทำรายได้ไตรมาส 4 พุ่ง 53% แตะ $10.41 พันล้าน",
-                      "url":  "https://ir.appliedmaterials.com/static-files/ad12d807-bb15-4518-bc3c-8081e5351c35",
-                      "why_en":  "Beating estimates with $4.16 EPS and guiding Q1 FY2027 revenue to $11.10 billion (+/- $500M) points to accelerating fab equipment spending across advanced logic, DRAM, and packaging.",
-                      "why_th":  "กำไรต่อหุ้นที่ 4.16 ดอลลาร์สูงกว่าคาดพร้อมแนวโน้มรายได้ไตรมาส 1 ปีบัญชี 2027 ที่ 11.10 พันล้านดอลลาร์ (+/- 500 ล้านดอลลาร์) สะท้อนรอบการลงทุนเครื่องจักรผลิตชิปขั้นสูง DRAM และแพ็กเกจจิ้งที่เร่งตัวขึ้น"
-                  },
-                  {
-                      "date":  "2026-11-18",
-                      "impact":  "positive",
-                      "publisher":  "Investing.com",
+                      "publisher":  "TSMC (SEC filing)",
+                      "url":  "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000797/tsm-boardx202611xx.htm",
                       "tickers":  [
-                                      "AMAT",
+                                      "TSM",
                                       "ASML",
+                                      "AMAT",
                                       "LRCX",
-                                      "KLAC"
+                                      "KLAC",
+                                      "ONTO",
+                                      "MKSI",
+                                      "ENTG"
                                   ],
-                      "title_en":  "Bernstein raises 2028 wafer-fab equipment spending forecast to $279 billion",
-                      "title_th":  "Bernstein ปรับเพิ่มคาดการณ์ตลาดเครื่องจักรผลิตชิปปี 2028 แตะ $279 พันล้าน",
-                      "url":  "https://www.investing.com/news/stock-market-news/bernstein-names-top-semiconductor-equipment-stocks-as-chip-spending-accelerates-932CH-3829422",
-                      "why_en":  "Lifting global WFE projections to $217 billion in 2027 and $279 billion in 2028 underscores multi-year structural tool demand for AI logic, HBM, and advanced packaging across leading equipment makers.",
-                      "why_th":  "การปรับเพิ่มคาดการณ์ยอดใช้จ่ายเครื่องจักร WFE ทั่วโลกเป็น 217 พันล้านดอลลาร์ในปี 2027 และ 279 พันล้านดอลลาร์ในปี 2028 ตอกย้ำวัฏจักรการลงทุนระยะยาวในชิป AI และหน่วยความจำ HBM ของผู้ผลิตเครื่องจักรชั้นนำ"
-                  },
-                  {
-                      "date":  "2026-11-17",
                       "impact":  "positive",
-                      "publisher":  "AMD",
-                      "tickers":  ["AMD"],
-                      "title_en":  "AMD completes $2.9 billion Taalas acquisition to expand AI inference",
-                      "title_th":  "AMD ปิดดีลซื้อกิจการ Taalas มูลค่า $2.9 พันล้าน เสริมทัพชิป AI Inference",
-                      "url":  "https://newsroom.amd.com/news/2026-11-17-amd-completes-acquisition-of-taalas-to-advance-ai-inference-innovation",
-                      "why_en":  "Integrating Taalas (in a deal including up to $1.4 billion in milestone payouts) adds hardwired single-model silicon alongside Instinct GPUs to improve AI inference speed and efficiency.",
-                      "why_th":  "การเข้าซื้อ Taalas (ซึ่งรวมมูลค่าตามเป้าหมายสูงสุด 1.4 พันล้านดอลลาร์) ช่วยเพิ่มเทคโนโลยีชิปที่ฝังโมเดล AI ลงบนซิลิคอนโดยตรงมาเสริมกับ Instinct GPU เพื่อเพิ่มความเร็วและลดต้นทุนงาน Inference"
-                  },
-                  {
-                      "date":  "2026-11-12",
-                      "impact":  "positive",
-                      "publisher":  "AMD",
-                      "tickers":  ["AMD"],
-                      "title_en":  "AMD advances Instinct MI400 series on Helios rack-scale AI systems",
-                      "title_th":  "AMD เผยความคืบหน้าชิป Instinct MI400 และระบบแร็ค Helios สำหรับงาน AI",
-                      "url":  "https://newsroom.amd.com/news/2026-11-12-amd-advances-the-instinct-mi400-series-for-ai-and-scientific-computing",
-                      "why_en":  "Detailing the HBM4-equipped MI430X and Helios rack-scale performance for MI450X and MI455X strengthens AMD\u0027s merchant-GPU roadmap for both sovereign supercomputers and hyperscale AI buyers.",
-                      "why_th":  "การเปิดรายละเอียดชิป MI430X ที่ใช้หน่วยความจำ HBM4 รวมถึงประสิทธิภาพของ MI450X และ MI455X บนระบบแร็ค Helios ช่วยเสริมความแข็งแกร่งให้แผนผลิตภัณฑ์ GPU ทางเลือกหลักรองจาก NVIDIA"
-                  },
-                  {
-                      "date":  "2026-11-13",
-                      "impact":  "mixed",
-                      "publisher":  "DIGITIMES",
-                      "tickers":  ["SKHY"],
-                      "title_en":  "SK hynix HBM4 yield tops 70% as Samsung expands Onyang packaging",
-                      "title_th":  "อัตราผลิตดี HBM4 ของ SK hynix ทะลุ 70% ขณะที่ Samsung ขยายฐานแพ็กเกจจิ้ง Onyang",
-                      "url":  "https://www.digitimes.com/news/20261113VL215/sk-hynix-hbm4-yield-samsung-packaging.html",
-                      "why_en":  "Surpassing 70% HBM4 production yields strengthens SK hynix\u0027s volume readiness for next-gen AI accelerators, while Samsung\u0027s packaging scale-up at Onyang intensifies competition for 2027 HBM4 share.",
-                      "why_th":  "อัตราผลผลิตดี (yield) ที่เกิน 70% ตอกย้ำความพร้อมของ SK hynix ในการส่งมอบ HBM4 ปริมาณมากให้ชิป AI รุ่นใหม่ ขณะที่ Samsung เร่งขยายกำลังผลิตแพ็กเกจจิ้งที่โรงงาน Onyang ทำให้การแข่งขันชิงส่วนแบ่งตลาดปี 2027 ดุเดือดขึ้น"
-                  },
-                  {
-                      "date":  "2026-11-19",
-                      "impact":  "positive",
-                      "publisher":  "Singapore Economic Development Board",
-                      "tickers":  ["MU"],
-                      "title_en":  "Micron moves first tool into $7 billion Singapore HBM packaging plant",
-                      "title_th":  "Micron เริ่มติดตั้งเครื่องจักรชุดแรกในโรงงานแพ็กเกจจิ้ง HBM มูลค่า $7 พันล้านที่สิงคโปร์",
-                      "url":  "https://www.edb.gov.sg/en/news-and-insights/micron-marks-first-tool-move-in-at-singapore-hbm-advanced-packaging-facility.html",
-                      "why_en":  "Installing the first cleanroom process tool keeps Micron\u0027s $7 billion HBM packaging facility on schedule for early-2027 initial output as its 2027 HBM capacity remains heavily committed.",
-                      "why_th":  "การนำเครื่องจักรเข้าห้องปลอดเชื้อชุดแรกช่วยให้โรงงานแพ็กเกจจิ้ง HBM มูลค่า 7 พันล้านดอลลาร์เดินหน้าตามแผนเพื่อเริ่มผลิตช่วงต้นปี 2027 รองรับคำสั่งซื้อ HBM ปี 2027 ที่ถูกจองไว้เกือบเต็มแล้ว"
-                  },
-                  {
-                      "date":  "2026-11-12",
-                      "impact":  "positive",
-                      "publisher":  "GlobeNewswire",
-                      "tickers":  ["CBRS"],
-                      "title_en":  "Cerebras posts record Q3 revenue and raises 2026 core guidance",
-                      "title_th":  "Cerebras ทำรายได้ไตรมาส 3 สูงสุดเป็นประวัติการณ์พร้อมปรับเพิ่มเป้ารายได้ปี 2026",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/12/3091480/0/en/Cerebras-Systems-Delivers-Record-Revenue-in-Third-Quarter.html",
-                      "why_en":  "Core revenue climbed 70% YoY to $230.9 million (GAAP $210.8 million, +55% YoY) on surging wafer-scale AI inference demand, prompting management to raise 2026 core revenue guidance to $940–$960 million.",
-                      "why_th":  "รายได้หลักพุ่ง 70% YoY แตะ 230.9 ล้านดอลลาร์ (รายได้ตามบัญชี GAAP 210.8 ล้านดอลลาร์ โต 55% YoY) จากความต้องการประมวลผล AI Inference บนชิปขนาดแผ่นเวเฟอร์ ทำให้บริษัทปรับเพิ่มเป้ารายได้หลักทั้งปี 2026 เป็น 940–960 ล้านดอลลาร์"
-                  },
-                  {
-                      "date":  "2026-11-20",
-                      "impact":  "positive",
-                      "publisher":  "Singapore Economic Development Board",
-                      "tickers":  ["KLAC"],
-                      "title_en":  "KLA opens 210,000-square-foot Singapore expansion for AI process control",
-                      "title_th":  "KLA เปิดอาคารผลิตใหม่ขนาด 210,000 ตร.ฟุตในสิงคโปร์ รองรับเครื่องตรวจจับชิป AI",
-                      "url":  "https://www.edb.gov.sg/en/news-and-insights/kla-celebrates-building-22b-opening-in-singapore-and-outlines-plans-for-further-expansion.html",
-                      "why_en":  "Doubling its Ang Mo Kio site to 420,000 square feet expands KLA\u0027s manufacturing capacity for process-control tools used in AI chips, advanced packaging, and silicon photonics.",
-                      "why_th":  "การขยายพื้นที่ฐานการผลิตในสิงคโปร์เพิ่มขึ้นเท่าตัวเป็น 420,000 ตารางฟุต ช่วยเพิ่มกำลังผลิตเครื่องมือตรวจสอบและควบคุมคุณภาพสำหรับชิป AI บรรจุภัณฑ์ขั้นสูง และซิลิคอนโฟโตนิกส์"
-                  },
-                  {
-                      "date":  "2026-11-16",
-                      "impact":  "positive",
-                      "publisher":  "Business Wire",
-                      "tickers":  ["MRVL"],
-                      "title_en":  "Marvell partners with Penguin Solutions on CXL AI memory scaling",
-                      "title_th":  "Marvell จับมือ Penguin Solutions พัฒนาโซลูชันขยายหน่วยความจำ CXL สำหรับงาน AI",
-                      "url":  "https://www.businesswire.com/news/home/20261116246473/en/Marvell-and-Penguin-Solutions-Collaborate-to-Address-Data-Center-AI-Memory-and-Accelerate-Inference-at-Scale",
-                      "why_en":  "Combining Marvell\u0027s Structera X CXL memory controllers and photonic fabric with Penguin\u0027s data center platform targets AI inference memory bottlenecks such as large KV-cache workloads.",
-                      "why_th":  "การผสานชิปควบคุมหน่วยความจำ Structera X CXL และเทคโนโลยีโฟโตนิกส์ของ Marvell เข้ากับแพลตฟอร์มของ Penguin มุ่งปลดล็อกคอขวดด้านหน่วยความจำสำหรับการรัน AI Inference ขนาดใหญ่ในดาต้าเซ็นเตอร์"
+                      "title_en":  "TSMC approves $40.93 billion for manufacturing, packaging and research",
+                      "title_th":  "TSMC อนุมัติวงเงิน 40.93 พันล้านดอลลาร์สำหรับการผลิต แพ็กเกจชิป และงานวิจัย",
+                      "why_en":  "The authorization covers advanced chipmaking, packaging upgrades and fab construction, supporting demand for lithography, deposition and inspection tools as well as fab materials.",
+                      "why_th":  "วงเงินนี้ครอบคลุมทั้งสายการผลิตชิปขั้นสูง การยกระดับงานแพ็กเกจชิป และการสร้างโรงงาน จึงหนุนความต้องการเครื่องพิมพ์ลายวงจร เครื่องเคลือบฟิล์ม เครื่องตรวจสอบ และวัสดุที่ใช้ในโรงงาน"
                   },
                   {
                       "date":  "2026-11-23",
+                      "publisher":  "NVIDIA",
+                      "url":  "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx",
+                      "tickers":  [
+                                      "NVDA"
+                                  ],
+                      "impact":  "mixed",
+                      "title_en":  "NVIDIA reinstates Jensen Huang as CEO while independent inquiry continues",
+                      "title_th":  "Jensen Huang กลับเป็น CEO ของ NVIDIA ขณะกรรมการอิสระเดินหน้าสอบสวน",
+                      "why_en":  "Huang’s return ends the interim leadership period during the Vera Rubin rollout, while independent directors continue investigating reports that he was targeted by a foreign intelligence effort.",
+                      "why_th":  "การกลับมาของ Huang ทำให้ NVIDIA มีผู้นำถาวรอีกครั้งในช่วงส่งมอบ Vera Rubin ขณะที่กรรมการอิสระยังสอบสวนรายงานที่ว่าเขาตกเป็นเป้าของหน่วยข่าวกรองต่างชาติ"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "publisher":  "Applied Materials",
+                      "url":  "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-fourth-quarter-and-fiscal-year-2026",
+                      "tickers":  [
+                                      "AMAT"
+                                  ],
                       "impact":  "positive",
-                      "publisher":  "GlobeNewswire",
-                      "tickers":  ["ASML"],
-                      "title_en":  "ASML repurchases 445,000 shares for €557 million during chip pullback",
-                      "title_th":  "ASML เร่งซื้อหุ้นคืน 445,000 หุ้นมูลค่า €557 ล้าน ช่วงหุ้นกลุ่มชิปปรับฐาน",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/23/3408663/0/en/ASML-reports-transactions-under-its-current-share-buyback-program.html",
-                      "why_en":  "Accelerating weekly buybacks to €557 million between Nov 16 and Nov 20 underscores balance-sheet strength and management confidence in long-term EUV lithography demand despite sector volatility.",
-                      "why_th":  "การเร่งซื้อหุ้นคืนมูลค่าถึง 557 ล้านยูโรภายในสัปดาห์เดียวระหว่างวันที่ 16–20 พฤศจิกายน สะท้อนฐานะการเงินที่แข็งแกร่งและความมั่นใจของผู้บริหารต่อความต้องการเครื่อง EUV ระยะยาวท่ามกลางความผันผวนของกลุ่มชิป"
+                      "title_en":  "Applied Materials revenue rises 53% as chipmakers expand production",
+                      "title_th":  "รายได้ Applied Materials โต 53% ตามการขยายกำลังผลิตชิป",
+                      "why_en":  "Fiscal fourth-quarter revenue reached $10.41 billion, and management forecast $11.1 billion, plus or minus $500 million, for the next quarter.",
+                      "why_th":  "รายได้ไตรมาส 4 ตามปีบัญชีอยู่ที่ 10.41 พันล้านดอลลาร์ และบริษัทคาดว่าไตรมาสถัดไปจะเพิ่มเป็น 11.1 พันล้านดอลลาร์ บวกลบ 500 ล้านดอลลาร์"
+                  },
+                  {
+                      "date":  "2026-11-18",
+                      "publisher":  "Intel",
+                      "url":  "https://www.intel.com/content/www/us/en/newsroom/news/corporate/microsoft-azure-infrastructure-collaboration.html",
+                      "tickers":  [
+                                      "INTC"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "Microsoft secures multiyear Xeon supply and selects Intel packaging for Azure chips",
+                      "title_th":  "Microsoft จองกำลังผลิต Xeon หลายปี และเลือก Intel แพ็กชิปที่ออกแบบเองสำหรับ Azure",
+                      "why_en":  "The agreement covers next-generation Diamond Rapids CPUs and makes Microsoft the first customer to publicly confirm it will use Intel Foundry’s EMIB packaging for its own chips.",
+                      "why_th":  "ข้อตกลงครอบคลุมซีพียู Diamond Rapids รุ่นถัดไป และทำให้ Microsoft เป็นลูกค้ารายแรกที่เปิดเผยว่าจะใช้เทคโนโลยีแพ็กเกจ EMIB ของ Intel Foundry กับชิปที่ออกแบบเอง"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "publisher":  "Cerebras Systems (SEC filing)",
+                      "url":  "https://www.sec.gov/Archives/edgar/data/2021728/000162828026073366/cbrsannouncesfinancialresu.htm",
+                      "tickers":  [
+                                      "CBRS"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "Cerebras revenue grows 55% as its inference cloud expands",
+                      "title_th":  "รายได้ Cerebras โต 55% ตามการขยายตัวของคลาวด์สำหรับประมวลผลโมเดล AI",
+                      "why_en":  "Quarterly GAAP revenue reached $210.8 million, with cloud and other services up 265% year over year to $141.9 million and remaining performance obligations at $26.1 billion.",
+                      "why_th":  "รายได้ตาม GAAP อยู่ที่ 210.8 ล้านดอลลาร์ โดยรายได้คลาวด์และบริการอื่นโต 265% จากปีก่อนเป็น 141.9 ล้านดอลลาร์ และมูลค่างานตามสัญญาที่ยังต้องส่งมอบอยู่ที่ 26.1 พันล้านดอลลาร์"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "publisher":  "TSMC (SEC filing)",
+                      "url":  "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000796/tsm-revenue20261110.htm",
+                      "tickers":  [
+                                      "TSM"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "TSMC October revenue rises nearly 60% year over year",
+                      "title_th":  "รายได้เดือนตุลาคมของ TSMC โตเกือบ 60% จากปีก่อน",
+                      "why_en":  "Revenue reached NT$586.89 billion, up 59.7% year over year and 14.7% from September, giving TSMC a strong start to the fourth quarter.",
+                      "why_th":  "TSMC เริ่มไตรมาส 4 ด้วยรายได้เดือนตุลาคม 586.89 พันล้านดอลลาร์ไต้หวัน เพิ่มขึ้น 59.7% จากปีก่อนและ 14.7% จากเดือนกันยายน"
+                  },
+                  {
+                      "date":  "2026-11-13",
+                      "publisher":  "GlobalFoundries",
+                      "url":  "https://investors.gf.com/news-releases/news-release-details/globalfoundries-breaks-ground-first-new-semiconductor-fab-under",
+                      "tickers":  [
+                                      "GFS"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "GlobalFoundries begins construction on $10 billion New York fab",
+                      "title_th":  "GlobalFoundries เริ่มสร้างโรงงานชิปมูลค่าราว 10 พันล้านดอลลาร์ในรัฐนิวยอร์ก",
+                      "why_en":  "The Japan-backed fab is expected to open in 2029 and add capacity for about 900,000 300mm wafers annually at full production, serving automotive, industrial and infrastructure customers.",
+                      "why_th":  "โรงงานที่ได้ทุนสนับสนุนจากญี่ปุ่นคาดว่าจะเปิดในปี 2029 และเมื่อเดินเครื่องเต็มที่จะเพิ่มกำลังผลิตเวเฟอร์ขนาด 300 มม. ได้ราว 900,000 แผ่นต่อปี สำหรับลูกค้ายานยนต์ อุตสาหกรรม และโครงสร้างพื้นฐาน"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "publisher":  "AMD",
+                      "url":  "https://ir.amd.com/news-events/press-releases/detail/1305/amd-showcases-6th-gen-amd-epyc-processors-to-lead-next-era-of-ai-and-enterprise-computing",
+                      "tickers":  [
+                                      "AMD"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "AMD begins shipping sixth-generation EPYC server processors",
+                      "title_th":  "AMD เริ่มส่งมอบซีพียูเซิร์ฟเวอร์ EPYC รุ่นที่ 6",
+                      "why_en":  "Server vendors are shipping systems with the new Zen 6 CPUs, and planned Microsoft Azure and Oracle Cloud instances give AMD two more channels to reach data-center customers.",
+                      "why_th":  "ผู้ผลิตเซิร์ฟเวอร์เริ่มส่งมอบเครื่องที่ใช้ซีพียู Zen 6 แล้ว ส่วน Microsoft Azure และ Oracle Cloud เตรียมเปิดบริการที่ใช้ชิปรุ่นนี้ เพิ่มช่องทางให้ AMD เข้าถึงลูกค้าศูนย์ข้อมูล"
+                  },
+                  {
+                      "date":  "2026-11-18",
+                      "publisher":  "Tom\u0027s Hardware",
+                      "url":  "https://www.tomshardware.com/pc-components/ssds/ssds-laptops-and-phones-may-get-cheaper-as-consumer-nand-spot-pricing-drops-20-percent-bank-of-america-expects-contract-price-drops-report-cites-oversupply-in-consumer-market-amid-declining-demand-and-growing-chinese-competition",
+                      "tickers":  [
+                                      "SNDK",
+                                      "MU",
+                                      "SKHY"
+                                  ],
+                      "impact":  "negative",
+                      "title_en":  "Consumer NAND spot prices fall 20% in a month",
+                      "title_th":  "ราคา NAND ตลาดจรสำหรับสินค้าอุปโภคบริโภคลดลง 20% ในหนึ่งเดือน",
+                      "why_en":  "Bank of America expects first-quarter 2027 contract prices for PC and smartphone NAND to fall 5–10%, pressuring suppliers’ consumer sales, while enterprise NAND contract prices are expected to hold roughly steady.",
+                      "why_th":  "Bank of America คาดว่าราคา NAND ตามสัญญาสำหรับพีซีและสมาร์ตโฟนจะลดลง 5–10% ในไตรมาส 1 ปี 2027 กดดันยอดขายฝั่งผู้บริโภค ส่วนราคาตามสัญญาฝั่งองค์กรคาดว่าจะใกล้เคียงเดิม"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "publisher":  "Arm",
+                      "url":  "https://newsroom.arm.com/news/arm-microsoft-azure-cobalt-200",
+                      "tickers":  [
+                                      "ARM"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "Microsoft opens Arm-based Cobalt 200 virtual machines to Azure customers",
+                      "title_th":  "Microsoft เปิดให้ลูกค้า Azure ใช้เครื่องเสมือน Cobalt 200 ที่ใช้เทคโนโลยี Arm",
+                      "why_en":  "Microsoft expects Cobalt 200, built on Arm Neoverse CSS V3, to account for a significant share of new Azure compute capacity from 2027, expanding the opportunity for Arm royalties.",
+                      "why_th":  "Microsoft คาดว่า Cobalt 200 ซึ่งใช้ Arm Neoverse CSS V3 จะเป็นสัดส่วนสำคัญของกำลังประมวลผลใหม่บน Azure ตั้งแต่ปี 2027 จึงเพิ่มโอกาสที่ Arm จะได้ค่าลิขสิทธิ์จากชิปเซิร์ฟเวอร์"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "publisher":  "Forbes",
+                      "url":  "https://www.forbes.com/sites/tomcoughlin/2026/11/10/third-quarter-2026-hard-disk-drive-industry-update/",
+                      "tickers":  [
+                                      "WDC",
+                                      "STX"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "Hard-drive industry revenue grows faster than shipped capacity",
+                      "title_th":  "รายได้อุตสาหกรรมฮาร์ดดิสก์โตเร็วกว่าความจุที่ส่งมอบ",
+                      "why_en":  "Estimated third-quarter industry revenue rose 16.7% sequentially as shipped capacity grew 4.7%, with nearline drives accounting for about 90% of the capacity shipped by both Western Digital and Seagate.",
+                      "why_th":  "รายได้อุตสาหกรรมไตรมาส 3 เพิ่มขึ้นราว 16.7% จากไตรมาสก่อน ขณะที่ความจุรวมที่ส่งมอบโต 4.7% โดยฮาร์ดดิสก์แบบ nearline สำหรับศูนย์ข้อมูลคิดเป็นราว 90% ของความจุที่ Western Digital และ Seagate ส่งมอบในแต่ละบริษัท"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "publisher":  "Marvell Technology",
+                      "url":  "https://www.marvell.com/company/newsroom/marvell-penguin-solutions-data-center-ai-memory-inference.html",
+                      "tickers":  [
+                                      "MRVL"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "Penguin Solutions selects Marvell controllers for AI server memory expansion",
+                      "title_th":  "Penguin Solutions เลือกชิปควบคุมของ Marvell เพื่อเพิ่มหน่วยความจำให้เซิร์ฟเวอร์ AI",
+                      "why_en":  "Penguin expects cards using Marvell’s Structera X controllers to be available by year-end 2026, allowing data centers to reuse DDR4 memory from retired servers.",
+                      "why_th":  "Penguin คาดว่าการ์ดที่ใช้ชิปควบคุม Structera X ของ Marvell จะพร้อมให้ลูกค้าใช้ภายในสิ้นปี 2026 ช่วยให้ศูนย์ข้อมูลนำหน่วยความจำ DDR4 จากเซิร์ฟเวอร์ที่ปลดระวางแล้วกลับมาใช้ได้"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "publisher":  "Cadence Design Systems",
+                      "url":  "https://newsroom.cadence.com/press-releases/press-release-details/2026/Cadence-OrCAD-Xplore-Design-Platform-Unifies-Design-Component-Intelligence-and-Procurement-to-Accelerate-Electronics-System-Development/default.aspx",
+                      "tickers":  [
+                                      "CDNS"
+                                  ],
+                      "impact":  "positive",
+                      "title_en":  "Cadence launches OrCAD Xplore for electronics design and component sourcing",
+                      "title_th":  "Cadence เปิดตัว OrCAD Xplore สำหรับออกแบบวงจรและจัดหาชิ้นส่วน",
+                      "why_en":  "Combining component selection, design and procurement gives individual engineers and small teams an entry point into Cadence’s broader electronics design software.",
+                      "why_th":  "การรวมงานเลือกชิ้นส่วน ออกแบบวงจร และจัดซื้อไว้ในเครื่องมือเดียว ช่วยให้ Cadence เข้าถึงวิศวกรอิสระและทีมออกแบบขนาดเล็กที่อาจขยับไปใช้ซอฟต์แวร์อื่นของบริษัท"
                   }
               ]
 }

@@ -102,7 +102,7 @@ function Handle-Update($ctx) {
   $account = [string]$b.account; $model = [string]$b.model
   if ($account -and -not @($acc.profiles | Where-Object { $_.id -eq $account }).Count) { Send-Json $ctx @{ error = 'Unknown account' } 400; return }
   $opts = @(); if ($account) { $opts += @('-Account', $account) }; if ($model) { if ($model -notmatch '^[\w.\-:/]{1,80}$') { Send-Json $ctx @{ error = 'Bad model' } 400; return }; $opts += @('-Model', $model) }
-  $queued = @()
+  $queued = @(); $script:AuthSince = Get-Date   # a new request: give signed-out accounts another chance (you may have signed in again)
   if ($parts -contains 'figures' -and $tick.Count) {
     $p = $Jobs['FUND']
     if (-not ($p -and -not $p.HasExited)) {
@@ -113,17 +113,18 @@ function Handle-Update($ctx) {
     }
   }
   $keys = @(); if ($parts -contains 'news') { $keys += @($lays | ForEach-Object { "L$_" }) }; if ($parts -contains 'analysis') { $keys += $tick }
+  $judgeOpts = @{}
   if ($parts -contains 'judge' -and $tick.Count) {
     # judging panel: one job per (sector, signed-in judge); a stock scope re-scores only those stocks
     $lm = Get-LensMap; $lenses = @($tick | ForEach-Object { $lm[$_] } | Where-Object { $_ } | Select-Object -Unique)
     foreach ($l in $lenses) { foreach ($jd in (Get-ActiveJudgesCached)) { $k = "J-$l-$($jd.profile)"; $keys += $k
-      $JobOpts[$k] = @('-Sector', $l, '-Judge', $jd.profile) + $(if ($scope -eq 'stock') { @('-Ticker', ($tick -join ',')) } else { @() }) } }
+      $judgeOpts[$k] = @('-Sector', $l, '-Judge', $jd.profile) + $(if ($scope -eq 'stock') { @('-Ticker', ($tick -join ',')) } else { @() }) } }
   }
   foreach ($k in $keys) {
     $p = $Jobs[$k]
-    if (($p -and -not $p.HasExited) -or $Queue.Contains($k)) { continue }
+    if (($p -and -not $p.HasExited) -or $Queue.Contains($k)) { continue }   # already running or queued: keep its own options
     $who = if ($k -match '^J-') { $null } else { try { Resolve-AiChoice $(if ($k -match '^L[1-7]$') { 'news' } else { 'analysis' }) $account $model } catch { $null } }
-    if ($k -notmatch '^J-') { $JobOpts[$k] = $opts }; $Queue.Add($k); Write-JobStatus $k 'queued' $(if ($who) { "Queued: $($who.profile.label) $($who.model)" } else { 'Waiting for a free slot' }); $queued += $k
+    $JobOpts[$k] = if ($k -match '^J-') { $judgeOpts[$k] } else { $opts }; $Queue.Add($k); Write-JobStatus $k 'queued' $(if ($who) { "Queued: $($who.profile.label) $($who.model)" } else { 'Waiting for a free slot' }); $queued += $k
   }
   Start-QueuedJobs
   Send-Json $ctx @{ started = $true; queued = $queued }
@@ -181,12 +182,23 @@ function Handle-Accounts($ctx) {
 }
 # Start queued AI jobs while fewer than $MaxParallel are running (also called every 2 s by the main loop).
 # Keys: L1..L7 = layer news (news.ps1), anything else = a stock's analysis (analyze.ps1).
+$AuthSince = Get-Date   # sign-in failures after this time make the server skip that account's queued jobs
+function Get-OptAccount([string]$k) { $o = @($JobOpts[$k]); $i = [array]::IndexOf($o, '-Account'); if ($i -ge 0 -and $i + 1 -lt $o.Count) { [string]$o[$i + 1] } else { '' } }
 function Start-QueuedJobs {
   if ($Queue.Count -eq 0) { return }
   # Count from the status files (PID-checked), so jobs started before a server restart are included.
-  $running = @((Get-JobsState).Values | Where-Object { $_.ticker -ne 'FUND' -and $_.state -eq 'running' }).Count
+  # GetEnumerator, not .Values/.Keys: job keys are tickers, and a ticker could shadow those properties.
+  $state = @((Get-JobsState).GetEnumerator() | ForEach-Object { $_.Value })
+  $running = @($state | Where-Object { $_.ticker -ne 'FUND' -and $_.state -eq 'running' }).Count
+  $dead = @{}
+  foreach ($j in $state) {
+    if ($j.state -eq 'error' -and (Test-AuthError ([string]$j.message)) -and $j.at -and ([datetime]$j.at).ToUniversalTime() -gt $AuthSince.ToUniversalTime()) {
+      $p = Get-JobProvider $j.ticker (Get-OptAccount $j.ticker) ''; if ($p) { $dead[$p] = $true } }
+  }
   while ($Queue.Count -gt 0 -and $running -lt $MaxParallel) {
     $t = $Queue[0]; $Queue.RemoveAt(0)
+    $p = Get-JobProvider $t (Get-OptAccount $t) ''
+    if ($p -and $dead.ContainsKey($p)) { Write-JobStatus $t 'error' "$($SignInHint[$p]) sign-in expired: open AI accounts, $($SignInHint[$p]), Sign in. Then update again."; continue }
     Write-JobStatus $t 'running' 'Starting'
     if ($t -match '^J-') { $script = Join-Path $AiRoot 'tools\judge.ps1'; $jobArgs = @() }
     elseif ($t -match '^L([1-7])$') { $script = Join-Path $AiRoot 'tools\news.ps1'; $jobArgs = @('-Layer', $Matches[1]) }
@@ -320,7 +332,7 @@ try {
           'GET /api/status' {
             $a = Get-ClaudeAuth; $acc = Get-Accounts
             $lbl = { param($t) $c = $acc.tasks.$t; $pr = @($acc.profiles | Where-Object { $_.id -eq $c.profile })[0]; (@($pr.label, $c.model) | Where-Object { $_ }) -join ' - ' }
-            Send-Json $ctx @{ ok = $true; claudeFound = $a.found; loggedIn = $(if ((Resolve-AiChoice 'chat' '' '').profile.provider -eq 'claude') { $a.loggedIn } else { $true }); chatModel = (& $lbl 'chat'); chatProvider = (Resolve-AiChoice 'chat' '' '').profile.provider; analysisModel = (& $lbl 'analysis'); newsModel = (& $lbl 'news'); jobs = (Get-JobsState) }
+            Send-Json $ctx @{ ok = $true; claudeFound = $a.found; loggedIn = $(if ((Resolve-AiChoice 'chat' '' '').profile.provider -eq 'claude') { $a.loggedIn } else { $true }); chatModel = (& $lbl 'chat'); chatProvider = (Resolve-AiChoice 'chat' '' '').profile.provider; analysisModel = (& $lbl 'analysis'); newsModel = (& $lbl 'news'); jobs = (Get-JobsState); tickers = @(Get-AllTickers) }
           }
           'GET /api/jobs' { Start-QueuedJobs; Send-Json $ctx (Get-JobsState) }
           'POST /api/update' { Handle-Update $ctx }

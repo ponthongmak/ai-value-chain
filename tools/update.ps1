@@ -52,10 +52,20 @@ $done = @(); $failed = @(); $stopped = ''
 function Get-Status([string]$key) { $f = Join-Path $AiJobs "$key.json"; if (Test-Path $f) { try { return [IO.File]::ReadAllText($f, $Utf8) | ConvertFrom-Json } catch {} }; return $null }
 function Start-Tool([string]$script, [string[]]$a) { Start-Process powershell -PassThru -WindowStyle Hidden -ArgumentList (@('-NoProfile', '-ExecutionPolicy', 'Bypass', '-File', "`"$(Join-Path $PSScriptRoot $script)`"") + $a) }
 # Run jobs (key, script, args) $Parallel at a time; stop at the first usage-limit error.
+$authDead = @{}   # provider -> sign-in error; that provider's remaining jobs are skipped
 function Invoke-Jobs($jobs) {
   $q = [System.Collections.Generic.Queue[object]]::new(); $jobs | ForEach-Object { $q.Enqueue($_) }
   while ($q.Count -and -not $script:stopped) {
-    $batch = @(); while ($q.Count -and $batch.Count -lt $Parallel) { $batch += $q.Dequeue() }
+    $batch = @()
+    while ($q.Count -and $batch.Count -lt $Parallel) {
+      $j = $q.Dequeue(); $prov = Get-JobProvider $j.key $Account $Model
+      if ($prov -and $authDead.ContainsKey($prov)) {
+        $m = "$($SignInHint[$prov]) sign-in expired: open AI accounts, $($SignInHint[$prov]), Sign in. Then update again."
+        Write-JobStatus $j.key 'error' $m; $script:failed += $j.key; continue
+      }
+      $j.prov = $prov; $batch += $j
+    }
+    if (-not $batch.Count) { break }
     Write-Host "$(Get-Date -Format HH:mm) running: $($batch.key -join ', ')  ($($q.Count) waiting)"
     $procs = @($batch | ForEach-Object { Write-JobStatus $_.key 'queued' 'Starting'; Start-Tool $_.script $_.args })
     $procs | ForEach-Object { $_.WaitForExit() }
@@ -63,7 +73,9 @@ function Invoke-Jobs($jobs) {
       $s = Get-Status $j.key
       if ($s -and $s.state -eq 'done') { $script:done += $j.key }
       else { $msg = if ($s) { [string]$s.message } else { 'no status' }; $script:failed += $j.key; Write-Warning "$($j.key): $msg"
-        if (Test-LimitError $msg) { $script:stopped = "usage limit at $($j.key): $msg" } }
+        if (Test-LimitError $msg) { $script:stopped = "usage limit at $($j.key): $msg" }
+        elseif ($j.prov -and (Test-AuthError $msg) -and -not $authDead.ContainsKey($j.prov)) {
+          $authDead[$j.prov] = $msg; Write-Warning "$($SignInHint[$j.prov]) sign-in failed; skipping its other jobs. Sign in again under AI accounts." } }
     }
   }
   return @($q.ToArray() | ForEach-Object { $_.key })
@@ -83,4 +95,5 @@ Write-Host "`n=== done: $($done.Count) | failed: $($failed.Count) ==="
 if ($done) { Write-Host "Updated: $($done -join ', ')" }
 if ($failed) { Write-Host "Failed: $($failed -join ', ')" -ForegroundColor Yellow }
 if ($stopped) { Write-Host "STOPPED ($stopped). Not reached: $($left -join ', ')" -ForegroundColor Yellow }
+foreach ($p in $authDead.Keys) { Write-Host "SIGN IN AGAIN: $($SignInHint[$p]) (AI accounts, $($SignInHint[$p]), Sign in). Its jobs were skipped." -ForegroundColor Yellow }
 Stop-Transcript | Out-Null
