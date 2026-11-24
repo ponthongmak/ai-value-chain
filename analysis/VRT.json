@@ -6,7 +6,7 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T05:58:25Z",
+    "generatedAt":  "2026-11-24T03:51:46Z",
     "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
@@ -14,37 +14,33 @@
                        "symbol":  "NYSE:VRT",
                        "yahoo":  "VRT",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-23T05:53:40Z",
-                       "price":  166.24,
-                       "open":  181,
-                       "high":  181.92,
-                       "low":  163.57,
-                       "volume":  11988400,
-                       "avgVolume20":  8667060,
-                       "changePct":  -10.14,
-                       "historyDays":  501,
-                       "ema50":  220.64,
-                       "ema100":  240.27,
-                       "ema200":  242.97,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:47:39Z",
+                       "price":  186.35,
+                       "open":  199.35,
+                       "high":  199.35,
+                       "low":  182.95,
+                       "volume":  9701600,
+                       "avgVolume20":  8877190,
+                       "changePct":  12.1,
+                       "historyDays":  500,
+                       "ema50":  219.3,
+                       "ema100":  239.2,
+                       "ema200":  242.38,
                        "bb":  {
-                                  "upper":  247.51,
-                                  "middle":  204.64,
-                                  "lower":  161.76
+                                  "upper":  247.53,
+                                  "middle":  203.96,
+                                  "lower":  160.39
                               },
                        "macd":  {
-                                    "macd":  -11.93,
-                                    "signal":  -9.99,
-                                    "hist":  -1.94
+                                    "macd":  -11.59,
+                                    "signal":  -10.31,
+                                    "hist":  -1.28
                                 },
-                       "rsi14":  35.14,
+                       "rsi14":  43.65,
                        "high52w":  379.93,
                        "low52w":  147.82,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         331.44
-                                     ],
                                      [
                                          "2026-06-04",
                                          323.92
@@ -520,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          166.24
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         186.35
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          311.1,
                                           311.6,
                                           311.16,
                                           310.75,
@@ -642,103 +641,94 @@
                                           225.63,
                                           224.41,
                                           222.86,
-                                          220.64
+                                          220.64,
+                                          219.3
                                       ]
                    },
     "en":  {
-               "caution":  "Falling knives in high-beta AI infrastructure stocks can overshoot fundamentals sharply. With VRT down 10.14% on 38% above-average volume on Nov 20 and MACD still expanding negatively, institutional de-risking has not clearly ended. A break below the $161.76 lower Bollinger Band would expose the $147.82 52-week low. Fundamentally, watch hyperscaler 2027 CapEx commentary, U.S. data center grid-permitting headlines after the midterms, and cash execution on UtilityInnovation Group\u0027s up-to-$2.6 billion total deal value.",
+               "caution":  "Long-term holders still face meaningful near-term drawdown risk despite strong earnings. Monday’s fade from $199.35 to $186.35 on modest volume shows overhead supply remains heavy between $199 and the EMA 50 at $219.30. Because Vertiv is a high-beta pure play on physical data-center construction, renewed hyperscaler capex doubts, local U.S. zoning or power-permitting pushback, or further partner headlines can trigger double-digit swings. Moreover, without quarterly dollar backlog and book-to-bill disclosures, investors have less granular proof if order growth cools from 2026’s triple-digit pace.",
                "cons":  [
-                            "Shares sit in a severe downtrend at $166.24—56% below the $379.93 52-week high and far under the 50-, 100-, and 200-day EMAs—on heavy selling volume.",
-                            "Sector-wide fears over hyperscaler AI CapEx sustainability, neocloud financing costs, and post-midterm data center permitting scrutiny have triggered sharp multiple compression.",
-                            "Closing UtilityInnovation Group commits $1.45 billion in upfront cash plus up to $1.15 billion in contingent EBITDA earnouts, adding integration and execution risk.",
-                            "Wall Street caution has picked up after the 2026 rally, with JPMorgan reinstating coverage at Neutral on Nov 11 and GLJ Research reiterating Sell on Nov 2."
+                            "Shares at $186.35 remain 15%–23% below their 50-, 100-, and 200-day EMAs in bearish order, roughly 51% off the $379.93 52-week high.",
+                            "Baird downgraded VRT to Neutral on November 23, 2026, slashing its target from $320 to $200 on fears of an investor buyers\u0027 strike over AI concentration.",
+                            "Mid-November volatility tied to Nvidia leadership turbulence and post-midterm local data-center permitting pushback highlights acute sensitivity to external AI sentiment.",
+                            "Vertiv stopped reporting absolute quarterly backlog dollars and book-to-bill ratios in 2026, reducing order-book visibility during market pullbacks."
                         ],
-               "fundamental":  "Vertiv occupies a critical physical bottleneck in the AI value chain, delivering integrated power (UPS, switchgear, busway) and thermal management—including liquid cooling—backed by a global service network. Its Oct 28 Q3 2026 report confirmed accelerating momentum: net sales jumped 61% YoY to $4.31 billion (55% organic), organic orders more than doubled, adjusted operating margin expanded 290 bps to 25.2%, and adjusted diluted EPS climbed 78% to $2.21. Management raised FY2026 guidance to $14.65 billion in sales, over $3.5 billion in adjusted operating profit, $7.15 in adjusted EPS, and $2.7 billion in adjusted free cash flow, with Q4 sales guided to $4.4 billion. Closing UtilityInnovation Group (Oct 27) and King Environmental Services (Oct 26), plus November deals with Infineon and Solenis, strengthens its grid-to-chip moat—indicating the sell-off is valuation and macro noise rather than thesis breakdown.",
-               "headline":  "Vertiv Plunges on AI Sector Sell-Off Despite Blowout Q3 Growth",
+               "fundamental":  "Vertiv’s operating execution in the AI infrastructure value chain continues to accelerate. Third-quarter 2026 revenue climbed 61% year-over-year (55% organic) to $4.313 billion as organic orders grew over 100%, lifting adjusted diluted EPS 78% to $2.21 and adjusted free cash flow 50% to $652 million. Management raised full-year 2026 sales guidance to $14.45–$14.85 billion and adjusted free cash flow to $2.6–$2.8 billion, while boosting the annual dividend 60% to $0.40 on November 13. Strategically, November launches of the outdoor PowerNexus MV UPS, campus-to-rack 800 VDC architectures for 350–400 kW+ racks, and the Solenis liquid-cooling fluid partnership deepen Vertiv’s integrated power-cooling-service moat. Balance-sheet deferred revenue of $4.12 billion confirms hyperscalers are prepaying for capacity, showing recent share-price weakness reflects external sentiment rather than operational erosion.",
+               "headline":  "Vertiv’s AI Orders Boom While Sentiment Shocks Keep Shares Deeply Bearish",
                "news":  [
-                            "2026-10-28 — Blowout Q3 2026 results and guidance raise: Vertiv reported $4.31 billion in net sales (+61% YoY), organic order growth over 100%, 25.2% adjusted operating margin, and $2.21 adjusted EPS, raising FY2026 sales guidance by $650 million to $14.65 billion.",
-                            "2026-10-27 \u0026 2026-10-26 — Strategic acquisitions closed: Vertiv completed its $1.45 billion upfront acquisition of UtilityInnovation Group (plus up to $1.15 billion in EBITDA earnouts) for behind-the-meter microgrid systems, and closed the King Environmental Services deal to expand EMEA liquid-cooling fluid services.",
-                            "2026-11-04 — Infineon supply agreement: Vertiv signed a three-year strategic agreement with Infineon Technologies to secure silicon and silicon-carbide power semiconductors for AI and next-generation 800 VDC power platforms.",
-                            "2026-11-11 — Analyst caution emerges: JPMorgan reinstated coverage on VRT at Neutral with a $240 price target, following GLJ Research\u0027s reiterated Sell rating ($187 target) on Nov 2 amid scrutiny of electrical-equipment valuations.",
-                            "2026-11-13 — 60% dividend increase: Vertiv raised its regular annual cash dividend from $0.25 to $0.40 per share ($0.10 quarterly; ex-dividend Nov 24, payable Dec 17), backed by its ~$2.7 billion FY2026 free cash flow outlook.",
-                            "2026-11-17 to 2026-11-20 — Next-gen AI launches meet sector rout: Vertiv expanded its 800 VDC power architectures (Nov 17), unveiled the outdoor PowerNexus MV UPS, and partnered with Solenis on liquid-cooling water management (Nov 19), yet shares sank 10.14% on Nov 20 during an AI-infrastructure sell-off amplified by Nvidia\u0027s Nov 12 CEO exit."
+                            "October 28, 2026: Vertiv beat Q3 2026 estimates with $4.313 billion in sales (+61% YoY), \u003e100% organic order growth, and $2.21 adjusted EPS (+78% YoY), raising full-year 2026 revenue guidance to $14.45–$14.85 billion.",
+                            "November 12, 2026: Vertiv introduced the outdoor PowerNexus MV UPS (up to 98.5% peak efficiency, mid-2027 shipments) to accelerate utility grid interconnection and free indoor space for AI compute.",
+                            "November 13, 2026: The board hiked Vertiv’s annual cash dividend 60% from $0.25 to $0.40 per share ($0.10 quarterly, ex-dividend November 24, 2026), backed by surging free cash flow.",
+                            "November 17, 2026: At SC26, Vertiv expanded its 800 VDC power portfolio across rack, pod, and data-hall tiers, highlighted by the 5 MW PowerNexus MV solid-state transformer for high-density AI factories.",
+                            "November 19, 2026: Vertiv partnered with Solenis to integrate fluid-chemistry and water/glycol monitoring into its liquid-cooling lifecycle services for high-heat AI clusters.",
+                            "November 23, 2026: Robert W. Baird downgraded VRT to Neutral and cut its price target from $320 to $200 citing an AI buyers\u0027 strike, yet shares rallied 12.1% to $186.35 after key partner Nvidia reinstated CEO Jensen Huang following a mid-November sell-off."
                         ],
-               "opportunity":  "The stark gap between a 56% drawdown from $379.93 and accelerating earnings has compressed Vertiv\u0027s valuation to roughly 23x its raised FY2026 adjusted EPS guidance of $7.15—far below earlier 2026 peaks. For long-term AI-infrastructure investors, Vertiv is expanding dollar content per megawatt from grid interconnection (UtilityInnovation Group) through 800 VDC power trains to liquid-cooling chemistry (Solenis, KES), while triple-digit order growth supports visibility into 2027. Monitoring for price stabilization near $147.82–$161.76 support and a curling MACD can help gauge when forced selling subsides.",
-               "opportunityCheck":  "The page\u0027s strong marks for AI revenue exposure, market growth, and competitive position align well with Q3 2026\u0027s 61% sales jump, triple-digit organic order growth, and 25.2% adjusted operating margin. However, optionality looks too conservative and merits an upward revision: closing the UtilityInnovation Group deal on Oct 27 moves Vertiv upstream into behind-the-meter microgrids and grid-interconnection orchestration, while the Nov 17 800 VDC architecture rollout and Nov 19 Solenis fluid-chemistry partnership create new recurring revenue streams. Bottleneck and pricing power looks appropriate, as positive net price-cost realization balances active semiconductor supply management.",
+               "opportunity":  "The stark disconnect between Vertiv’s surging fundamentals and its 51% drawdown from $379.93 points to a sentiment reset rather than a broken business. With 2026 adjusted EPS guided to $7.10–$7.20 and adjusted free cash flow to $2.6–$2.8 billion, valuation has compressed meaningfully while AI rack densities push past 350–400 kW, making liquid cooling and 800 VDC power increasingly essential. For patient AI-infrastructure investors, watching whether shares build a durable base above $160.39–$182.95 support and reclaim the $203.96 Bollinger midline may help distinguish noise from lasting trend repair.",
+               "opportunityCheck":  "The page’s AI-opportunity profile is largely well calibrated, reflecting Vertiv’s heavy data-center revenue concentration, rapid market expansion, and leading grid-to-chip position. However, two sub-scores look slightly conservative after October–November developments. Bottleneck and pricing power deserves a modest upward revision given Q3’s 290-basis-point margin expansion to 25.2% and $4.12 billion in customer advance payments. Optionality could also tick higher as November’s PowerNexus MV UPS, 800 VDC solid-state transformer rollout, and Solenis fluid-management partnership expand Vertiv from indoor power and cooling into outdoor grid interconnection and recurring chemical lifecycle services.",
                "pros":  [
-                            "Q3 2026 net sales jumped 61% YoY to $4.31 billion with organic orders up over 100%, lifting full-year 2026 sales guidance by $650 million to $14.65 billion.",
-                            "Adjusted operating margin expanded 290 bps YoY to 25.2% in Q3 2026, supporting raised full-year guidance of $7.15 adjusted EPS (+70%) and $2.7 billion in free cash flow.",
-                            "Closing UtilityInnovation Group (Oct 27) and King Environmental Services (Oct 26) extends Vertiv\u0027s moat upstream into microgrids and EMEA liquid-cooling services.",
-                            "Vertiv hiked its annual dividend 60% to $0.40 per share on Nov 13 and locked in three-year Infineon silicon-carbide supply for 800 VDC AI power systems."
+                            "Q3 2026 net sales surged 61% year-over-year to $4.31 billion, while organic orders more than doubled and full-year adjusted EPS guidance rose to $7.10–$7.20.",
+                            "Adjusted operating margin expanded 290 basis points to 25.2% in Q3 2026, with customer advance payments climbing to $4.12 billion from $1.81 billion at year-end 2025.",
+                            "November 2026 launches of 800 VDC power architectures, the PowerNexus MV UPS, and a Solenis liquid-cooling partnership widen Vertiv\u0027s grid-to-chip moat.",
+                            "Management raised the annual dividend 60% to $0.40 per share on November 13, 2026, backed by projected full-year adjusted free cash flow of $2.6–$2.8 billion."
                         ],
                "risks":  [
-                             "A slowdown in hyperscaler AI CapEx or tighter financing for neocloud operators could cool order growth heading into 2027.",
-                             "Post-midterm U.S. regulatory scrutiny over grid capacity and data center permitting could delay project installations and revenue recognition.",
-                             "Integration and earnout execution risks from the UtilityInnovation Group ($1.45 billion upfront plus up to $1.15 billion contingent) and King Environmental Services deals.",
-                             "Manufacturing ramp complexity and tariff or commodity inflation as Vertiv scales prefabricated modular and 800 VDC power systems."
+                             "Heavy reliance on hyperscaler AI data-center capex cycles and Nvidia-led cluster roadmaps.",
+                             "Local U.S. political, zoning, and utility-grid permitting pushback delaying physical data-center builds.",
+                             "Lower order-book visibility after management stopped disclosing quarterly dollar backlog and book-to-bill ratios.",
+                             "Bearish technical structure with heavy overhead resistance from $199 to $242 and elevated daily volatility.",
+                             "Intensifying competition in liquid cooling and high-voltage DC power from global electrical majors."
                          ],
-               "summary":  "Vertiv (VRT) tumbled 10.14% to $166.24 on Nov 20, 2026, extending a 56% slide from its $379.93 52-week high despite accelerating fundamentals. On Oct 28, Vertiv delivered Q3 net sales of $4.31 billion (+61% YoY), organic order growth above 100%, and raised full-year 2026 sales guidance to $14.65 billion. The rout stems from AI-infrastructure valuation compression, hyperscaler CapEx jitters, and Nvidia\u0027s Nov 12 CEO resignation rather than company-specific weakness. Technically, the chart is decisively bearish, while Vertiv\u0027s integrated power, cooling, and service moat remains intact.",
-               "technical":  "As of Nov 20, 2026 (501 trading days of history), Vertiv\u0027s technical posture is decisively bearish. Shares dropped 10.14% to $166.24 (intraday range $163.57–$181.92), sitting well below all three exponential moving averages (EMAs — trend lines weighting recent prices), which form a full bearish stack: EMA 50 at $220.64, EMA 100 at $240.27, and EMA 200 at $242.97. Momentum confirms selling pressure: MACD (12/26/9 — a trend-following momentum gauge) is at -11.93 below its -9.99 signal line, producing a widening -1.94 histogram, while RSI 14 (a 0–100 momentum gauge; under 30 is oversold) sits at 35.14—weak, though not yet oversold. Price hugs the lower Bollinger Band (a 20-day volatility envelope) at $161.76 and trades just 8% above the bottom of its $147.82–$379.93 52-week range. Volume jumped to 11.99 million shares, 38% above the 8.67 million 20-day average, confirming institutional distribution. Key support sits at $161.76 and the $147.82 52-week low, with resistance near the $204.64 middle band and $220.64 EMA 50."
+               "summary":  "Vertiv’s business is accelerating even as its stock sits 51% below its $379.93 52-week high. On October 28, 2026, Q3 sales jumped 61% year-over-year to $4.31 billion with organic orders up over 100% and full-year guidance raised to $14.45–$14.85 billion. Yet U.S. midterm permitting worries, Nvidia’s brief mid-November CEO turmoil, and Baird’s November 23 downgrade to Neutral ($200 target) drove heavy selling. Monday’s 12.1% rebound to $186.35 after Jensen Huang’s reinstatement shows relief, but bearish technicals keep near-term momentum fragile while the long-term moat stays intact.",
+               "technical":  "As of November 23, 2026, Vertiv’s chart remains firmly bearish despite a sharp 12.1% daily bounce to $186.35. Price sits well beneath all three exponential moving averages (EMAs, which track average price trends with extra weight on recent sessions): 15.0% below the EMA 50 ($219.30), 22.1% below the EMA 100 ($239.20), and 23.1% below the EMA 200 ($242.38). Those averages sit in bearish order (50 \u003c 100 \u003c 200), confirming an entrenched downtrend. Momentum stays negative: MACD (Moving Average Convergence Divergence, a trend-momentum gauge) reads -11.59, below its -10.31 signal line with a -1.28 histogram. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) recovered to 43.65, exiting oversold territory but staying under the neutral 50 mark. Within the Bollinger Bands (a 20-day volatility channel), shares sit in the lower half between the $160.39 lower band and $203.96 midline, and in the bottom 17% of the $147.82–$379.93 52-week range. Crucially, Monday’s gap-up open at $199.35 faded to $186.35 on 9.70 million shares—only 9% above the 8.88 million 20-day average—flagging resistance near $199–$204 and support at $182.95, $160.39, and $147.82."
            },
     "th":  {
-               "caution":  "หุ้นโครงสร้างพื้นฐาน AI ที่มีค่าเบต้าสูงมักร่วงลึกเกินปัจจัยพื้นฐานเมื่อเกิดแรงเทขายของตลาด การที่ VRT ดิ่งลง 10.14% ในวันที่ 20 พ.ย. พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย 38% และ MACD ยังติดลบกว้างขึ้น บ่งชี้ว่าแรงลดความเสี่ยงของสถาบันยังไม่ชัดว่าจบลงแล้ว หากหลุดกรอบล่าง Bollinger Band ที่ $161.76 อาจลงไปทดสอบจุดต่ำสุด 52 สัปดาห์ที่ $147.82 ด้านพื้นฐานต้องติดตามงบ CapEx ปี 2027 ของ Hyperscaler กฎระเบียบขออนุญาตเชื่อมสายส่งไฟฟ้าในสหรัฐฯ และการผสานธุรกิจ UtilityInnovation Group มูลค่ารวมสูงสุด $2.6 พันล้าน",
+               "caution":  "แม้กำไรจะแข็งแกร่ง แต่นักลงทุนระยะยาวยังต้องเผชิญความเสี่ยงขาลงในระยะสั้น การที่ราคาวันจันทร์อ่อนตัวจาก $199.35 ลงมาปิด $186.35 ด้วยปริมาณซื้อขายที่สูงกว่าค่าเฉลี่ยไม่มาก สะท้อนว่ายังมีแรงขายรออยู่หนาแน่นช่วง $199 ถึง EMA 50 ที่ $219.30 เนื่องจาก VRT ผูกติดโดยตรงกับการก่อสร้างดาต้าเซ็นเตอร์ หากเกิดความกังวลรอบใหม่เรื่องงบลงทุนไฮเปอร์สเกลเลอร์ แรงต้านใบอนุญาตท้องถิ่นสหรัฐฯ หรือข่าวพันธมิตร หุ้นอาจเหวี่ยงแรงระดับสองหลักได้อีก ขณะที่การไม่เปิดเผยยอด backlog รายไตรมาสทำให้นักลงทุนประเมินการชะลอตัวของคำสั่งซื้อได้ยากขึ้น",
                "cons":  [
-                            "ราคาหุ้นอยู่ในขาลงชัดเจนที่ $166.24 ต่ำกว่าจุดสูงสุด 52 สัปดาห์ $379.93 ถึง 56% และอยู่ใต้เส้น EMA 50, 100 และ 200 วันทั้งหมดพร้อมวอลุ่มขายหนาแน่น",
-                            "ความกังวลต่อความยั่งยืนของงบลงทุน AI ของ Hyperscaler ต้นทุนกู้ยืมของกลุ่ม Neocloud และแรงกดดันด้านกฎระเบียบสายส่งไฟฟ้าหลังเลือกตั้งกลางเทอม กดดันให้ตลาดปรับลดมูลค่าหุ้นยกกลุ่ม",
-                            "ดีลซื้อ UtilityInnovation Group ใช้เงินสดตั้งต้นถึง $1.45 พันล้าน และอาจมีเงินจ่ายเพิ่มตามเป้า EBITDA อีกสูงสุด $1.15 พันล้าน ทำให้มีความเสี่ยงด้านการควบรวมและบริหารเงินสด",
-                            "นักวิเคราะห์เริ่มระมัดระวังขึ้นหลังหุ้นพุ่งแรงต้นปี 2026 โดย JPMorgan กลับมาให้เรตติ้ง Neutral เมื่อ 11 พ.ย. และ GLJ Research คงคำแนะนำ Sell เมื่อ 2 พ.ย."
+                            "ราคา $186.35 ยังต่ำกว่าเส้น EMA 50, 100 และ 200 ถึง 15%–23% ในโครงสร้างขาลง และร่วงลงราว 51% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $379.93",
+                            "Baird ปรับลดคำแนะนำ VRT เป็น Neutral วันที่ 23 พ.ย. 2026 และหั่นราคาเป้าหมายจาก $320 เหลือ $200 จากความกังวลภาวะนักลงทุนชะลอเข้าซื้อหุ้นกระจุกตัวด้าน AI",
+                            "ความผันผวนกลาง พ.ย. จากประเด็นผู้บริหาร Nvidia และแรงต้านใบอนุญาตดาต้าเซ็นเตอร์หลังเลือกตั้งกลางเทอมสหรัฐฯ ชี้ว่าหุ้นอ่อนไหวสูงต่อกระแสข่าวภายนอก",
+                            "Vertiv หยุดเปิดเผยตัวเลข backlog เป็นดอลลาร์และอัตราส่วน book-to-bill รายไตรมาสในปี 2026 ทำให้ความชัดเจนของคำสั่งซื้อลดลงยามตลาดผันผวน"
                         ],
-               "fundamental":  "Vertiv ครองจุดคอขวดสำคัญในห่วงโซ่โครงสร้างพื้นฐาน AI ด้วยระบบไฟฟ้า (UPS, สวิตช์เกียร์, บัสเวย์) และระบบระบายความร้อนรวมถึง Liquid Cooling พร้อมเครือข่ายบริการทั่วโลก งบไตรมาส 3 ปี 2026 เมื่อ 28 ต.ค. ยืนยันการเร่งตัวของธุรกิจ โดยรายได้พุ่ง 61% YoY เป็น $4.31 พันล้าน (โตออร์แกนิก 55%) คำสั่งซื้อออร์แกนิกโตกว่า 100% อัตรากำไรจากการดำเนินงานปรับปรุงเพิ่ม 290 bps เป็น 25.2% และ EPS ปรับปรุงโต 78% เป็น $2.21 ผู้บริหารปรับเพิ่มเป้ารายได้ทั้งปี 2026 เป็น $14.65 พันล้าน กำไรจากการดำเนินงานเกิน $3.5 พันล้าน EPS ปรับปรุง $7.15 และ FCF $2.7 พันล้าน พร้อมคาดการณ์รายได้ไตรมาส 4 ที่ $4.4 พันล้าน การปิดดีล UtilityInnovation Group (27 ต.ค.) และ King Environmental Services (26 ต.ค.) รวมถึงดีลกับ Infineon และ Solenis ในเดือน พ.ย. ยิ่งเสริมคูเมืองตั้งแต่สายส่งไฟฟ้าถึงชิป ชี้ว่าราคาที่ร่วงแรงเป็นเรื่อง Valuation และอารมณ์ตลาด ไม่ใช่พื้นฐานเสื่อมถอย",
-               "headline":  "VRT ดิ่งแรงตามแรงเทขายกลุ่ม AI แม้กำไรและคำสั่งซื้อ Q3 โตทะลุเป้า",
+               "fundamental":  "ผลการดำเนินงานของ Vertiv ในห่วงโซ่โครงสร้างพื้นฐาน AI ยังเร่งตัวแรง รายได้ Q3 2026 พุ่ง 61% YoY (โตแบบออร์แกนิก 55%) สู่ $4.313 พันล้าน จากคำสั่งซื้อออร์แกนิกที่โตเกิน 100% ดัน Adjusted EPS โต 78% เป็น $2.21 และกระแสเงินสดอิสระปรับปรุงแล้วโต 50% แตะ $652 ล้าน ผู้บริหารปรับเพิ่มเป้ารายได้ทั้งปี 2026 เป็น $14.45–$14.85 พันล้าน และกระแสเงินสดอิสระเป็น $2.6–$2.8 พันล้าน พร้อมขึ้นเงินปันผลรายปี 60% เป็น $0.40 วันที่ 13 พ.ย. ด้านกลยุทธ์ การเปิดตัว PowerNexus MV UPS ระบบไฟ 800 VDC สำหรับแร็คระดับ 350–400 kW+ และความร่วมมือดูแลของเหลว liquid cooling กับ Solenis ในเดือน พ.ย. ยิ่งเสริมความแกร่งของคูเมืองด้านระบบไฟ-ความเย็น-บริการครบวงจร โดยรายได้รอรับรู้ $4.12 พันล้านยืนยันว่าลูกค้ายอมจ่ายล่วงหน้าเพื่อจองกำลังผลิต สะท้อนว่าการร่วงของหุ้นเกิดจากอารมณ์ตลาดมากกว่าพื้นฐานถดถอย",
+               "headline":  "ออเดอร์ AI ของ Vertiv พุ่งแรง แต่แรงกดดันตลาดยังฉุดกราฟเป็นขาลง",
                "news":  [
-                            "2026-10-28 — งบ Q3 2026 โตแรงและปรับเพิ่มเป้าทั้งปี: Vertiv ทำรายได้ $4.31 พันล้าน (+61% YoY) คำสั่งซื้อออร์แกนิกโตเกิน 100% มาร์จิ้นจากการดำเนินงานปรับปรุง 25.2% และ EPS ปรับปรุง $2.21 พร้อมปรับเพิ่มเป้ารายได้ปี 2026 ขึ้นอีก $650 ล้านเป็น $14.65 พันล้าน",
-                            "2026-10-27 และ 2026-10-26 — ปิดสองดีลควบรวมเชิงกลยุทธ์: ปิดดีลซื้อ UtilityInnovation Group มูลค่าเงินสดตั้งต้น $1.45 พันล้าน (บวกส่วนเพิ่มตามผลประกอบการสูงสุด $1.15 พันล้าน) เพื่อรุกตลาดไมโครกริดหลังมิเตอร์ และปิดดีล King Environmental Services ขยายบริการของเหลวสำหรับ Liquid Cooling ในยุโรปและตะวันออกกลาง",
-                            "2026-11-04 — เซ็นสัญญาจัดหาชิปกับ Infineon: Vertiv ทำข้อตกลงระยะ 3 ปีกับ Infineon Technologies เพื่อล็อกอุปทานเซมิคอนดักเตอร์กำลังไฟแบบซิลิคอนและซิลิคอนคาร์ไบด์ รองรับระบบไฟ AI และสถาปัตยกรรม 800 VDC รุ่นใหม่",
-                            "2026-11-11 — นักวิเคราะห์เริ่มระมัดระวัง: JPMorgan กลับมาออกบทวิเคราะห์ VRT ด้วยเรตติ้ง Neutral และราคาเป้าหมาย $240 ต่อเนื่องจาก GLJ Research ที่คงคำแนะนำ Sell (เป้า $187) เมื่อ 2 พ.ย. ท่ามกลางแรงกดดันด้านมูลค่าของกลุ่มอุปกรณ์ไฟฟ้า",
-                            "2026-11-13 — เพิ่มเงินปันผล 60%: บอร์ด Vertiv ประกาศปรับขึ้นเงินปันผลประจำปีจาก $0.25 เป็น $0.40 ต่อหุ้น (จ่ายรายไตรมาส $0.10 ขึ้นเครื่องหมาย XD วันที่ 24 พ.ย. และจ่าย 17 ธ.ค.) สะท้อนความมั่นใจในกระแสเงินสดอิสระปี 2026 ราว $2.7 พันล้าน",
-                            "2026-11-17 ถึง 2026-11-20 — เปิดตัวผลิตภัณฑ์ใหม่สวนทางแรงเทขายทั้งกลุ่ม: Vertiv ขยายพอร์ตระบบไฟ 800 VDC (17 พ.ย.) เปิดตัว PowerNexus MV UPS แบบกลางแจ้ง และจับมือ Solenis ด้านเคมีบำบัดน้ำสำหรับ Liquid Cooling (19 พ.ย.) แต่ราคาหุ้นยังร่วง 10.14% ในวันที่ 20 พ.ย. ตามแรงเทขายกลุ่ม AI ที่ซ้ำเติมจากข่าวซีอีโอ Nvidia ลาออกเมื่อ 12 พ.ย."
+                            "28 ต.ค. 2026: Vertiv รายงานงบ Q3 2026 ดีกว่าคาดด้วยรายได้ $4.313 พันล้าน (+61% YoY) ออเดอร์ออร์แกนิกโตเกิน 100% และ Adjusted EPS ที่ $2.21 (+78% YoY) พร้อมปรับเพิ่มเป้ารายได้ปี 2026 เป็น $14.45–$14.85 พันล้าน",
+                            "12 พ.ย. 2026: เปิดตัวระบบไฟแรงดันกลางกลางแจ้ง PowerNexus MV UPS (ประสิทธิภาพสูงสุด 98.5% เริ่มส่งมอบกลางปี 2027) ช่วยเชื่อมต่อโครงข่ายไฟฟ้าเร็วขึ้นและเหลือพื้นที่ในอาคารสำหรับวางเครื่องประมวลผล AI",
+                            "13 พ.ย. 2026: บอร์ดอนุมัติเพิ่มเงินปันผลรายปี 60% จาก $0.25 เป็น $0.40 ต่อหุ้น (จ่ายรายไตรมาส $0.10 ขึ้นเครื่องหมาย XD วันที่ 24 พ.ย. 2026) ตามกระแสเงินสดอิสระที่แข็งแกร่ง",
+                            "17 พ.ย. 2026: ในงาน SC26 Vertiv ขยายกลุ่มผลิตภัณฑ์ไฟฟ้า 800 VDC ครบตั้งแต่ระดับแร็ค พ็อด ไปจนถึงอาคารดาต้าเซ็นเตอร์ นำโดยหม้อแปลงโซลิดสเตต PowerNexus MV SST ขนาด 5 MW สำหรับโรงงาน AI ความหนาแน่นสูง",
+                            "19 พ.ย. 2026: จับมือ Solenis ผสานระบบบำรุงรักษาและฮาร์ดแวร์ liquid cooling เข้ากับเทคโนโลยีตรวจสอบคุณภาพเคมีของน้ำและของเหลว เพื่อยกระดับเสถียรภาพคลัสเตอร์ AI ความร้อนสูง",
+                            "23 พ.ย. 2026: Robert W. Baird ปรับลดคำแนะนำ VRT เป็น Neutral พร้อมลดเป้าจาก $320 เหลือ $200 จากความกังวลภาวะชะลอซื้อหุ้น AI แต่ราคาหุ้นกลับดีดตัว 12.1% ปิด $186.35 หลัง Nvidia พันธมิตรหลักมีมติคืนตำแหน่งซีอีโอให้ Jensen Huang ภายหลังแรงเทขายหนักกลาง พ.ย."
                         ],
-               "opportunity":  "ช่องว่างที่กว้างระหว่างราคาหุ้นที่ร่วงลง 56% จากจุดสูงสุด $379.93 กับกำไรที่ยังเร่งตัว ทำให้มูลค่าหุ้น VRT ลดลงมาอยู่ราว 23 เท่าของเป้า EPS ปรับปรุงปี 2026 ที่ $7.15 ซึ่งต่ำกว่าช่วงต้นปีมาก สำหรับนักลงทุนโครงสร้างพื้นฐาน AI ระยะยาว Vertiv กำลังขยายมูลค่าต่อเมกะวัตต์ตั้งแต่จุดเชื่อมต่อสายส่งไฟฟ้า (UtilityInnovation Group) ระบบไฟ 800 VDC ไปจนถึงบริการจัดการน้ำหล่อเย็น (Solenis, KES) ขณะที่คำสั่งซื้อที่โตกว่าเท่าตัวช่วยหนุนรายได้ต่อเนื่องถึงปี 2027 การจับตาการทรงตัวแถวแนวรับ $147.82–$161.76 และการพลิกตัวของ MACD จะช่วยประเมินจังหวะที่แรงขายเริ่มซาลง",
-               "opportunityCheck":  "คะแนนระดับสูงในหน้าเว็บด้านสัดส่วนรายได้ AI การเติบโตของตลาด และตำแหน่งทางการแข่งขันสอดคล้องกับงบไตรมาส 3 ปี 2026 ที่รายได้โต 61% คำสั่งซื้อออร์แกนิกพุ่งกว่า 100% และมาร์จิ้นจากการดำเนินงานแตะ 25.2% อย่างไรก็ตาม คะแนนด้านโอกาสต่อยอด (optionality) ดูอนุรักษนิยมเกินไปและควรปรับเพิ่มขึ้น เพราะการปิดดีล UtilityInnovation Group เมื่อ 27 ต.ค. พา Vertiv ขยายขึ้นต้นน้ำสู่ระบบไมโครกริดและบริหารจุดเชื่อมสายส่งไฟฟ้า ขณะที่พอร์ต 800 VDC (17 พ.ย.) และพันธมิตร Solenis (19 พ.ย.) สร้างรายได้บริการประจำใหม่ ส่วนคะแนนด้านคอขวดและอำนาจตั้งราคาถือว่าเหมาะสมแล้ว เพราะอำนาจขึ้นราคาสุทธิยังเป็นบวกแม้ต้องบริหารซัพพลายชิปใกล้ชิด",
+               "opportunity":  "ช่องว่างขนาดใหญ่ระหว่างพื้นฐานที่เร่งตัวกับราคาหุ้นที่ร่วงลง 51% จาก $379.93 สะท้อนการปรับลดความคาดหวังของตลาดมากกว่าความเสียหายทางธุรกิจ เมื่อผู้บริหารคาด Adjusted EPS ปี 2026 ที่ $7.10–$7.20 และกระแสเงินสดอิสระ $2.6–$2.8 พันล้าน ระดับมูลค่าหุ้นจึงถูกบีบลงมาอย่างมีนัยสำคัญ ขณะที่ความหนาแน่นพลังงานต่อแร็ค AI ทะลุ 350–400 kW ทำให้ liquid cooling และไฟ 800 VDC กลายเป็นสิ่งจำเป็น สำหรับนักลงทุนระยะยาว การติดตามว่าราคาจะสร้างฐานเหนือแนวรับ $160.39–$182.95 และกลับขึ้นเหนือเส้นกลาง Bollinger Band ที่ $203.96 ได้หรือไม่ จะช่วยแยกแยะระหว่างความผันผวนชั่วคราวกับการฟื้นตัวของแนวโน้มจริง",
+               "opportunityCheck":  "คะแนนโอกาส AI บนหน้าเว็บโดยรวมถือว่าสมเหตุสมผลแล้ว สะท้อนสัดส่วนรายได้ที่ผูกกับดาต้าเซ็นเตอร์ AI สูง การขยายตัวเร็วของตลาด และความเป็นผู้นำด้านระบบไฟ-ความเย็นครบวงจร อย่างไรก็ดี หลังข่าวเดือน ต.ค.–พ.ย. มีสองด้านที่อาจประเมินต่ำไปเล็กน้อย ได้แก่ อำนาจการตั้งราคาและจุดคอขวดที่ควรขยับขึ้นเล็กน้อย จากมาร์จิ้น Q3 ที่ขยายตัว 290 bps สู่ 25.2% และเงินรับล่วงหน้าลูกค้าที่พุ่งเป็น $4.12 พันล้าน รวมถึงโอกาสต่อยอดธุรกิจ (optionality) ที่ขยายออกไปนอกอาคารสู่ระบบเชื่อมต่อกริดอย่าง PowerNexus MV UPS ระบบ 800 VDC และบริการดูแลของเหลวต่อเนื่องร่วมกับ Solenis",
                "pros":  [
-                            "รายได้ Q3 2026 พุ่ง 61% YoY แตะ $4.31 พันล้าน พร้อมคำสั่งซื้อออร์แกนิกโตเกิน 100% หนุนผู้บริหารปรับเพิ่มเป้ารายได้ทั้งปี 2026 ขึ้น $650 ล้านเป็น $14.65 พันล้าน",
-                            "อัตรากำไรจากการดำเนินงานปรับปรุงใน Q3 ขยายตัว 290 bps เป็น 25.2% หนุนเป้า EPS ปรับปรุงทั้งปีที่ $7.15 (+70%) และ FCF $2.7 พันล้าน",
-                            "การปิดดีล UtilityInnovation Group (27 ต.ค.) และ King Environmental Services (26 ต.ค.) ขยายคูเมืองสู่ระบบไมโครกริดและบริการ Liquid Cooling ในภูมิภาค EMEA",
-                            "บริษัทปรับเพิ่มปันผลประจำปี 60% เป็น $0.40 ต่อหุ้นเมื่อ 13 พ.ย. พร้อมล็อกสัญญาจัดหาชิปซิลิคอนคาร์ไบด์ 3 ปีกับ Infineon รองรับระบบไฟ 800 VDC"
+                            "ยอดขาย Q3 2026 พุ่ง 61% YoY แตะ $4.31 พันล้าน ขณะที่ออเดอร์ออร์แกนิกโตเกินเท่าตัว และปรับเพิ่มเป้า Adjusted EPS ทั้งปี 2026 เป็น $7.10–$7.20",
+                            "อัตรากำไรจากการดำเนินงานปรับปรุงแล้ว Q3 2026 ขยายตัว 290 bps สู่ 25.2% พร้อมเงินรับล่วงหน้าลูกค้าพุ่งเป็น $4.12 พันล้าน จาก $1.81 พันล้านสิ้นปี 2025",
+                            "การเปิดตัวระบบไฟ 800 VDC, PowerNexus MV UPS และความร่วมมือ liquid cooling กับ Solenis ในเดือน พ.ย. 2026 ยิ่งขยายความได้เปรียบตั้งแต่โครงข่ายไฟถึงชิป",
+                            "บริษัทปรับเพิ่มเงินปันผลรายปี 60% เป็น $0.40 ต่อหุ้นวันที่ 13 พ.ย. 2026 หนุนด้วยคาดการณ์กระแสเงินสดอิสระทั้งปี $2.6–$2.8 พันล้าน"
                         ],
                "risks":  [
-                             "หาก Hyperscaler ชะลองบลงทุน AI หรือกลุ่ม Neocloud เผชิญต้นทุนการเงินตึงตัว อาจกดดันการเติบโตของคำสั่งซื้อตั้งแต่ปี 2027 เป็นต้นไป",
-                             "แรงกดดันด้านกฎระเบียบและใบอนุญาตเชื่อมสายส่งไฟฟ้าสำหรับดาต้าเซ็นเตอร์ในสหรัฐฯ หลังเลือกตั้งกลางเทอมอาจทำให้การส่งมอบโครงการล่าช้า",
-                             "ความเสี่ยงในการผสานธุรกิจและเงื่อนไขจ่ายเงินเพิ่ม (Earnout) จากดีล UtilityInnovation Group ($1.45 พันล้านตั้งต้น บวกสูงสุด $1.15 พันล้าน) และ King Environmental Services",
-                             "ความซับซ้อนในการเร่งกำลังผลิตแบบ Modular และแรงกดดันจากภาษีศุลกากรหรือต้นทุนวัตถุดิบระหว่างขยายไลน์ระบบไฟ 800 VDC"
+                             "พึ่งพาวงจรการลงทุนดาต้าเซ็นเตอร์ AI ของไฮเปอร์สเกลเลอร์และแผนพัฒนาคลัสเตอร์ของ Nvidia สูง",
+                             "แรงต้านด้านการเมืองท้องถิ่น ผังเมือง และใบอนุญาตเชื่อมต่อไฟฟ้าในสหรัฐฯ ที่อาจทำให้โครงการก่อสร้างล่าช้า",
+                             "ความโปร่งใสด้านคำสั่งซื้อลดลงหลังผู้บริหารหยุดเปิดเผยยอด backlog รายไตรมาสและอัตราส่วน book-to-bill",
+                             "โครงสร้างเทคนิคยังเป็นขาลง มีแนวต้านหนาแน่นช่วง $199–$242 และความผันผวนรายวันสูง",
+                             "การแข่งขันที่รุนแรงขึ้นในตลาด liquid cooling และระบบไฟฟ้าแรงดันสูงจากผู้ผลิตอุปกรณ์ไฟฟ้ารายใหญ่ระดับโลก"
                          ],
-               "summary":  "หุ้น Vertiv (VRT) ร่วงแรง 10.14% มาปิดที่ $166.24 เมื่อ 20 พ.ย. 2026 ขยายการปรับฐานลง 56% จากจุดสูงสุด 52 สัปดาห์ที่ $379.93 ทั้งที่ธุรกิจยังเร่งตัว โดยเมื่อ 28 ต.ค. บริษัทเผยรายได้ Q3 แตะ $4.31 พันล้าน (+61% YoY) คำสั่งซื้อออร์แกนิกโตเกิน 100% และปรับเพิ่มเป้ารายได้ทั้งปี 2026 เป็น $14.65 พันล้าน แรงเทขายเกิดจากการปรับลดมูลค่ากลุ่มโครงสร้างพื้นฐาน AI ความกังวลต่องบ CapEx ของ Hyperscaler และแรงสั่นสะเทือนหลังซีอีโอ Nvidia ลาออกเมื่อ 12 พ.ย. มากกว่าปัญหาภายใน ด้านเทคนิคยังเป็นขาลงชัดเจน แต่คูเมืองด้านระบบไฟฟ้า-ความเย็นและเครือข่ายบริการยังคงแข็งแกร่ง",
-               "technical":  "ณ วันที่ 20 พ.ย. 2026 (มีข้อมูลย้อนหลัง 501 วันทำการ) ภาพเทคนิคของ VRT เป็นขาลงอย่างชัดเจน ราคาหุ้นดิ่ง 10.14% ปิดที่ $166.24 (กรอบระหว่างวัน $163.57–$181.92) ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โพเนนเชียล (EMA — เส้นแนวโน้มที่ให้น้ำหนักราคาล่าสุด) ทั้งสามเส้นซึ่งเรียงตัวแบบขาลงสมบูรณ์ ได้แก่ EMA 50 ที่ $220.64, EMA 100 ที่ $240.27 และ EMA 200 ที่ $242.97 ด้านโมเมนตัมยังยืนยันแรงขาย โดย MACD (12/26/9 — ตัวชี้วัดแรงส่งของแนวโน้ม) อยู่ที่ -11.93 ต่ำกว่าเส้นสัญญาณ -9.99 ทำให้ค่าฮิสโตแกรมติดลบกว้างขึ้นเป็น -1.94 ส่วน RSI 14 (มาตรวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 35.14 อ่อนแรงแต่ยังไม่ถึงเขตขายมากเกินไป ราคาหุ้นลงมาชิดกรอบล่างของ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ที่ $161.76 และอยู่สูงกว่าจุดต่ำสุดเพียง 8% ในกรอบ 52 สัปดาห์ ($147.82–$379.93) ปริมาณซื้อขายพุ่งเป็น 11.99 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 8.67 ล้านหุ้นถึง 38% ยืนยันแรงขายของสถาบัน โดยมีแนวรับสำคัญที่ $161.76 และจุดต่ำสุด $147.82 ส่วนแนวต้านอยู่แถวเส้นกลาง $204.64 และ EMA 50 ที่ $220.64"
+               "summary":  "ธุรกิจของ Vertiv ยังเร่งตัวแรงแม้ราคาหุ้นจะร่วงลง 51% จากจุดสูงสุดรอบปีที่ $379.93 โดยงบ Q3 วันที่ 28 ต.ค. 2026 มียอดขายโต 61% YoY แตะ $4.31 พันล้าน ออเดอร์ออร์แกนิกโตเกิน 100% และปรับเพิ่มเป้ารายได้ทั้งปีเป็น $14.45–$14.85 พันล้าน ทว่าความกังวลใบอนุญาตดาต้าเซ็นเตอร์หลังเลือกตั้งกลางเทอมสหรัฐฯ ความปั่นป่วนผู้บริหาร Nvidia กลาง พ.ย. และการลดคำแนะนำของ Baird เป็น Neutral (เป้า $200) วันที่ 23 พ.ย. กดดันหุ้นหนัก แม้วันจันทร์หุ้นจะรีบาวด์ 12.1% สู่ $186.35 หลัง Jensen Huang กลับมารับตำแหน่ง แต่กราฟยังเป็นขาลงขณะที่ความได้เปรียบระยะยาวยังคงเดิม",
+               "technical":  "ณ วันที่ 23 พ.ย. 2026 ภาพรวมเทคนิคของ VRT ยังเป็นขาลงชัดเจนแม้ดีดตัวแรง 12.1% มาปิดที่ $186.35 ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA ซึ่งให้น้ำหนักราคาล่าสุดมากกว่าเพื่อดูแนวโน้ม) ทั้งสามเส้น คือต่ำกว่า EMA 50 ($219.30) ราว 15.0%, EMA 100 ($239.20) ราว 22.1% และ EMA 200 ($242.38) ราว 23.1% โดยเรียงตัวแบบขาลงเต็มรูปแบบ (50 \u003c 100 \u003c 200) ด้านโมเมนตัมยังติดลบ MACD (ตัววัดทิศทางและแรงส่งแนวโน้ม) อยู่ที่ -11.59 ต่ำกว่าเส้น signal ที่ -10.31 พร้อม histogram ที่ -1.28 ส่วน RSI 14 (มาตรวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นขึ้นมาที่ 43.65 พ้นเขต oversold แต่ยังต่ำกว่าระดับกลาง 50 ด้าน Bollinger Bands (กรอบความผันผวน 20 วัน) ราคาอยู่ครึ่งล่างระหว่างกรอบล่าง $160.39 กับเส้นกลาง $203.96 และอยู่โซนล่าง 17% ของกรอบ 52 สัปดาห์ ($147.82–$379.93) ที่สำคัญ วันจันทร์หุ้นเปิดกระโดดถึง $199.35 แต่ถูกขายย่อลงปิด $186.35 ด้วยวอลุ่ม 9.70 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (8.88 ล้านหุ้น) เพียง 9% บ่งชี้แนวต้านสำคัญแถว $199–$204 และแนวรับที่ $182.95, $160.39 และ $147.82"
            },
     "sources":  [
                     {
                         "date":  "2026-10-28",
                         "publisher":  "Vertiv Investor Relations",
-                        "title":  "Vertiv Reports Strong Third Quarter 2026 with Net Sales Growth of 61%, Organic Orders Growth over 100% and Diluted EPS Growth of 91% (Adjusted Diluted EPS Growth of 78%); Raises Full Year 2026 Guidance Across All Key Metrics",
+                        "title":  "Vertiv Reports Strong Third Quarter 2026 with Net Sales Growth of 61%, Organic Orders Growth over 100%, and Diluted EPS Growth of 91%, Adjusted Diluted EPS Growth of 78%; Raises Full-Year 2026 Guidance Across All Key Metrics",
                         "url":  "https://investors.vertiv.com/news/news-details/2026/Vertiv-Reports-Strong-Third-Quarter-2026-with-Net-Sales-Growth-of-61-Organic-Orders-Growth-over-100-and-Diluted-EPS-Growth-of-91-Adjusted-Diluted-EPS-Growth-of-78-Raises-Full-Year-2026-Guidance-Across-All-Key-Metrics/default.aspx"
                     },
                     {
-                        "date":  "2026-10-27",
-                        "publisher":  "Vertiv",
-                        "title":  "Vertiv Completes Acquisition of UtilityInnovation Group",
-                        "url":  "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-completes-acquisition-of-utilityinnovation-group/"
-                    },
-                    {
-                        "date":  "2026-11-04",
-                        "publisher":  "Vertiv",
-                        "title":  "Vertiv and Infineon Deepen Strategic Partnership for Critical Power Infrastructure",
-                        "url":  "https://www.vertiv.com/en-us/about/news-and-insights/news-releases/2026/vertiv-and-infineon-deepen-strategic-partnership-for-critical-power-infrastructure/"
-                    },
-                    {
-                        "date":  "2026-11-11",
-                        "publisher":  "GuruFocus",
-                        "title":  "JPMorgan Restarts Coverage on Vertiv (VRT) with Neutral Rating and $240 Price Target",
-                        "url":  "https://www.gurufocus.com/news/3055450/jpmorgan-restarts-coverage-on-vertiv-vrt-with-neutral-rating-and-240-price-target"
+                        "date":  "2026-11-12",
+                        "publisher":  "PR Newswire",
+                        "title":  "Vertiv Introduces Medium-Voltage Power System to Help AI Data Centers Connect to the Grid Faster and Free Indoor Space for Compute",
+                        "url":  "https://www.prnewswire.com/news-releases/vertiv-introduces-medium-voltage-power-system-to-help-ai-data-centers-connect-to-the-grid-faster-and-free-indoor-space-for-compute-302937910.html"
                     },
                     {
                         "date":  "2026-11-13",
@@ -750,13 +740,25 @@
                         "date":  "2026-11-17",
                         "publisher":  "Vertiv",
                         "title":  "Vertiv Advances 800 VDC Power Architectures to Support Growing AI Data Center Demands",
-                        "url":  "https://www.vertiv.com/en-us/about/news-and-events/news-releases/2026/vertiv-advances-800-vdc-power-architectures-to-support-growing-ai-data-center-demands/"
+                        "url":  "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-advances-800-vdc-power-architectures-to-support-growing-ai-data-center-demands/"
                     },
                     {
                         "date":  "2026-11-19",
-                        "publisher":  "Solenis",
+                        "publisher":  "PR Newswire",
                         "title":  "Solenis and Vertiv Partner to Advance Liquid Cooling Management for AI Data Centers",
-                        "url":  "https://www.solenis.com/en/resources/news-releases/2026/solenis-and-vertiv-partner-to-advance-liquid-cooling-management-for-ai-data-centers/"
+                        "url":  "https://www.prnewswire.com/news-releases/solenis-and-vertiv-partner-to-advance-liquid-cooling-management-for-ai-data-centers-302945426.html"
+                    },
+                    {
+                        "date":  "2026-11-23",
+                        "publisher":  "TipRanks / The Fly",
+                        "title":  "Vertiv downgraded to Neutral from Outperform at Baird",
+                        "url":  "https://www.tipranks.com/news/the-fly/vertiv-downgraded-to-neutral-from-outperform-at-baird"
+                    },
+                    {
+                        "date":  "2026-11-23",
+                        "publisher":  "CNN",
+                        "title":  "Nvidia reinstates Jensen Huang as CEO",
+                        "url":  "https://www.cnn.com/2026/11/23/tech/nvidia-jensen-huang-ceo-reinstated/index.html"
                     }
                 ]
 }

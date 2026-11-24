@@ -168,7 +168,9 @@ function Handle-Accounts($ctx) {
       $exe = Find-AiExe $prof.provider
       if (-not $exe) { Send-Json $ctx @{ error = "$($prof.provider) is not installed" } 400; return }
       # Opens a visible window: the provider's own sign-in (in your browser). This app never sees a password.
-      $sub = @{ claude = @{ login = 'auth login'; logout = 'auth logout' }; codex = @{ login = 'login'; logout = 'logout' }; antigravity = @{ login = ''; logout = '' } }[$prof.provider][$b.action]
+      # Codex uses --device-auth (a link + one-time code): its default sign-in needs local port 1455,
+      # which Windows often reserves (Hyper-V / WSL / Docker), giving "os error 10013".
+      $sub = @{ claude = @{ login = 'auth login'; logout = 'auth logout' }; codex = @{ login = 'login --device-auth'; logout = 'logout' }; antigravity = @{ login = ''; logout = '' } }[$prof.provider][$b.action]
       if ($prof.provider -eq 'antigravity' -and $b.action -eq 'logout') { Send-Json $ctx @{ error = 'Sign out of Google inside the Antigravity app.' } 400; return }
       $set = (Get-ProfileEnv $prof).GetEnumerator() | ForEach-Object { "set `"$($_.Key)=$($_.Value)`" && " }
       Start-Process cmd -ArgumentList '/k', "title $($prof.label) $($b.action) && $($set -join '')`"$exe`" $sub"

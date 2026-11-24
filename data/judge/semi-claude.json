@@ -5,44 +5,44 @@
     "model":  "claude-opus-5-5",
     "effort":  "max",
     "account":  "Claude",
-    "generatedAt":  "2026-11-23T05:04:40Z",
-    "costUsd":  1.9140848,
+    "generatedAt":  "2026-11-24T04:58:08Z",
+    "costUsd":  1.9574873000000004,
     "stocks":  {
                    "AMBQ":  {
                                 "m":  [
-                                          13,
-                                          8,
-                                          3,
+                                          12,
+                                          9,
+                                          5,
                                           3,
                                           2
                                       ],
                                 "o":  [
-                                          6,
+                                          7,
+                                          13,
                                           12,
-                                          9,
-                                          3,
-                                          9
+                                          4,
+                                          11
                                       ],
-                                "why_en":  "Unique subthreshold SPOT IP gives real tech edge, but tiny scale, losses and wearable-MCU revenue with modest true AI exposure keep both moat and AI opportunity low.",
-                                "why_th":  "เทคโนโลยี SPOT แบบ subthreshold มีความได้เปรียบจริง แต่บริษัทยังเล็ก ขาดทุน และรายได้ส่วนใหญ่มาจากชิป MCU สำหรับอุปกรณ์สวมใส่ที่พึ่งพา AI จริงไม่มาก ทั้งคูเมืองและโอกาสด้าน AI จึงอยู่ในระดับต่ำ"
+                                "why_en":  "Unique subthreshold SPOT IP and 110% growth in wearables, but tiny scale, ongoing losses and wearable-driven demand limit both moat durability and direct AI upside.",
+                                "why_th":  "เทคโนโลยี SPOT แบบ subthreshold มีเอกลักษณ์และรายได้โต 110% จากอุปกรณ์สวมใส่ แต่ธุรกิจยังเล็ก ยังขาดทุน และความต้องการมาจากอุปกรณ์สวมใส่มากกว่า AI โดยตรง จึงจำกัดทั้งคูเมืองและโอกาสจาก AI"
                             },
                    "AMD":  {
                                "m":  [
                                          16,
-                                         11,
-                                         10,
+                                         12,
+                                         13,
                                          14,
                                          10
                                      ],
                                "o":  [
-                                         16,
+                                         14,
                                          17,
-                                         15,
-                                         10,
-                                         14
+                                         14,
+                                         12,
+                                         15
                                      ],
-                               "why_en":  "Strong CPU/GPU design and x86 position, but weaker software lock-in and patchy historical returns; MI450 ramp and OpenAI deal make it the leading merchant GPU alternative.",
-                               "why_th":  "การออกแบบ CPU และ GPU แข็งแกร่งและมีสถานะในตลาด x86 แต่ซอฟต์แวร์ผูกลูกค้าได้น้อยกว่า CUDA และผลตอบแทนในอดีตไม่สม่ำเสมอ ขณะที่การเร่งผลิต MI450 และดีลกับ OpenAI ทำให้เป็นทางเลือกหลักแทน NVIDIA"
+                               "why_en":  "x86 duopoly, chiplet expertise and the number-two AI GPU with MI450/Helios ramping at OpenAI, Meta and Oracle; weaker CUDA-style lock-in and thin historical margins cap the moat.",
+                               "why_th":  "ได้เปรียบจากตลาด x86 ที่มีผู้เล่นหลักสองราย ความเชี่ยวชาญด้านชิปเล็ต และเป็นอันดับสองด้าน GPU สำหรับ AI โดย MI450/Helios กำลังส่งมอบให้ OpenAI, Meta และ Oracle แต่การผูกลูกค้าด้วยซอฟต์แวร์ยังสู้ CUDA ไม่ได้และอัตรากำไรในอดีตต่ำ"
                            },
                    "AVGO":  {
                                 "m":  [
@@ -53,39 +53,39 @@
                                           17
                                       ],
                                 "o":  [
-                                          17,
+                                          16,
                                           18,
                                           18,
-                                          15,
-                                          16
+                                          16,
+                                          15
                                       ],
-                                "why_en":  "World-class SerDes, custom-ASIC and Ethernet switching IP with sticky hyperscaler and VMware relationships; AI revenue scaling toward a majority with leading custom-accelerator share.",
-                                "why_th":  "มี IP ระดับโลกด้าน SerDes ชิปสั่งทำ (ASIC) และสวิตช์ Ethernet พร้อมความสัมพันธ์ที่เหนียวแน่นกับไฮเปอร์สเกลเลอร์และลูกค้า VMware รายได้ AI กำลังขึ้นมาเป็นสัดส่วนหลัก และครองส่วนแบ่งชิปเร่ง AI สั่งทำอันดับหนึ่ง"
+                                "why_en":  "Leading custom-ASIC and Ethernet-switch franchise, with supply secured for about $115B of FY2027 AI revenue, plus sticky VMware software and a long record of high margins.",
+                                "why_th":  "ผู้นำชิป ASIC สั่งทำพิเศษและชิปสวิตช์ Ethernet ที่จัดหากำลังผลิตรองรับรายได้ AI ราว 1.15 แสนล้านดอลลาร์ในปีงบ 2027 แล้ว มีซอฟต์แวร์ VMware ที่ลูกค้าเปลี่ยนยาก และมีประวัติอัตรากำไรสูงยาวนาน"
                             },
                    "CBRS":  {
                                 "m":  [
                                           15,
+                                          9,
+                                          7,
                                           6,
-                                          5,
-                                          5,
-                                          2
+                                          3
                                       ],
                                 "o":  [
-                                          20,
-                                          17,
+                                          19,
+                                          18,
                                           10,
-                                          6,
-                                          13
+                                          8,
+                                          14
                                       ],
-                                "why_en":  "Wafer-scale chips are genuinely hard to copy and revenue is fully AI with a $26B backlog, but scale, customer concentration, losses and low switching costs limit the moat.",
-                                "why_th":  "ชิปขนาดเท่าเวเฟอร์ทั้งแผ่นลอกเลียนได้ยากจริง และรายได้ทั้งหมดมาจาก AI พร้อมงานในมือ 2.6 หมื่นล้านดอลลาร์ แต่ขนาดธุรกิจเล็ก พึ่งพาลูกค้าไม่กี่ราย ยังขาดทุน และลูกค้าเปลี่ยนผู้ให้บริการได้ง่าย คูเมืองจึงจำกัด"
+                                "why_en":  "Hard-to-copy wafer-scale inference tech and a $26B backlog led by OpenAI give pure AI exposure, but losses, customer concentration and tiny share versus GPUs limit the moat.",
+                                "why_th":  "ชิประดับเวเฟอร์ที่ลอกเลียนยากและงานในมือ 2.6 หมื่นล้านดอลลาร์ซึ่งนำโดย OpenAI ทำให้รายได้มาจาก AI ล้วน แต่ยังขาดทุน พึ่งพาลูกค้าไม่กี่ราย และส่วนแบ่งตลาดยังเล็กมากเมื่อเทียบกับ GPU จึงจำกัดคูเมือง"
                             },
                    "IONQ":  {
                                 "m":  [
                                           12,
-                                          4,
-                                          5,
-                                          5,
+                                          7,
+                                          6,
+                                          6,
                                           1
                                       ],
                                 "o":  [
@@ -95,30 +95,30 @@
                                           2,
                                           8
                                       ],
-                                "why_en":  "Trapped-ion technology is credible but pre-commercial with deep losses; revenue is quantum and foundry rather than AI, so both moat and AI opportunity scores stay low.",
-                                "why_th":  "เทคโนโลยี trapped-ion น่าเชื่อถือแต่ยังไม่พร้อมเชิงพาณิชย์และขาดทุนหนัก รายได้มาจากควอนตัมและธุรกิจโรงงานผลิตชิปมากกว่า AI ทั้งคูเมืองและโอกาสด้าน AI จึงต่ำ"
+                                "why_en":  "Trapped-ion quantum technology and a large cash pile, but heavy losses, no proven returns and revenue that is quantum- and foundry-driven rather than AI-driven keep both scores low.",
+                                "why_th":  "มีเทคโนโลยีควอนตัมแบบกักไอออนและเงินสดจำนวนมาก แต่ขาดทุนหนัก ยังไม่พิสูจน์ผลตอบแทน และรายได้มาจากควอนตัมและธุรกิจโรงงานผลิตชิปมากกว่า AI ทำให้คะแนนทั้งสองด้านต่ำ"
                             },
                    "MPWR":  {
                                 "m":  [
-                                          15,
-                                          10,
-                                          5,
+                                          14,
                                           11,
+                                          6,
+                                          10,
                                           16
                                       ],
                                 "o":  [
-                                          14,
+                                          13,
                                           16,
-                                          14,
-                                          10,
+                                          15,
+                                          12,
                                           12
                                       ],
-                                "why_en":  "Proprietary power process and a decade of high, stable returns form a solid moat; AI server power drives ~40% of sales, though rivals limit pricing power.",
-                                "why_th":  "กระบวนการผลิตชิปจัดการพลังงานเฉพาะตัวและผลตอบแทนสูงสม่ำเสมอมานานกว่าทศวรรษเป็นคูเมืองที่มั่นคง ระบบจ่ายไฟให้เซิร์ฟเวอร์ AI สร้างยอดขายราว 40% แต่คู่แข่งหลายรายจำกัดอำนาจการตั้งราคา"
+                                "why_en":  "Two decades of high returns from proprietary power-conversion process, now with enterprise-data sales up 165% as AI processors need denser power modules; multiple-sourcing limits switching costs.",
+                                "why_th":  "สร้างผลตอบแทนสูงต่อเนื่องราว 20 ปีจากเทคโนโลยีแปลงพลังงานเฉพาะตัว และยอดขายกลุ่ม Enterprise Data โต 165% เพราะชิป AI ต้องการโมดูลจ่ายไฟที่หนาแน่นขึ้น แต่ลูกค้าใช้ผู้ขายหลายรายจึงเปลี่ยนได้ไม่ยาก"
                             },
                    "MRVL":  {
                                 "m":  [
-                                          16,
+                                          15,
                                           12,
                                           8,
                                           11,
@@ -126,38 +126,38 @@
                                       ],
                                 "o":  [
                                           16,
-                                          18,
-                                          14,
+                                          17,
+                                          13,
                                           12,
                                           14
                                       ],
-                                "why_en":  "Optical-DSP leadership and custom-silicon know-how give strong AI exposure and growth, but a distant second to Broadcom in ASICs and weak historical returns cap the moat.",
-                                "why_th":  "ความเป็นผู้นำชิป DSP สำหรับออปติคัลและความเชี่ยวชาญชิปสั่งทำทำให้มีรายได้จาก AI สูงและเติบโตเร็ว แต่ยังตามหลัง Broadcom ห่างในตลาด ASIC และผลตอบแทนในอดีตอ่อนแอ จึงจำกัดคูเมือง"
+                                "why_en":  "Optical-DSP leadership and number-two custom-silicon position make most revenue AI-driven in fast-growing markets, but recent GAAP losses and contested sockets weaken durability.",
+                                "why_th":  "เป็นผู้นำชิป DSP สำหรับการเชื่อมต่อออปติคัลและอันดับสองด้านชิปสั่งทำพิเศษ ทำให้รายได้ส่วนใหญ่มาจาก AI ในตลาดที่โตเร็ว แต่เพิ่งขาดทุนทางบัญชีในช่วงไม่กี่ปีก่อนและต้องแย่งงานออกแบบกับคู่แข่ง จึงลดความทนทาน"
                             },
                    "MU":  {
                               "m":  [
                                         15,
-                                        10,
+                                        8,
                                         6,
-                                        14,
-                                        8
+                                        15,
+                                        7
                                     ],
                               "o":  [
                                         17,
-                                        17,
-                                        13,
+                                        16,
+                                        12,
                                         17,
                                         12
                                     ],
-                              "why_en":  "Memory oligopoly and HBM sold out at rising prices give huge AI leverage, but third-place HBM share and deeply cyclical returns keep the moat moderate.",
-                              "why_th":  "ตลาดหน่วยความจำที่มีผู้เล่นน้อยรายและ HBM ที่ขายหมดล่วงหน้าในราคาสูงขึ้นทำให้ได้ประโยชน์จาก AI มาก แต่ส่วนแบ่ง HBM อยู่อันดับสามและผลตอบแทนผันผวนตามวัฏจักร คูเมืองจึงอยู่ระดับปานกลาง"
+                              "why_en":  "Memory oligopoly and HBM shortage drive record margins and heavy AI exposure, but number-three HBM share, commodity switching costs and deep past cyclical losses cap the moat.",
+                              "why_th":  "ตลาดหน่วยความจำที่มีผู้เล่นน้อยรายและการขาดแคลน HBM ทำให้กำไรสูงเป็นประวัติการณ์และพึ่งพา AI มาก แต่ส่วนแบ่ง HBM อยู่อันดับสาม ลูกค้าเปลี่ยนผู้ขายได้ง่าย และเคยขาดทุนหนักตามวัฏจักร จึงจำกัดคูเมือง"
                           },
                    "NVDA":  {
                                 "m":  [
                                           19,
-                                          17,
-                                          19,
                                           18,
+                                          20,
+                                          19,
                                           17
                                       ],
                                 "o":  [
@@ -167,152 +167,152 @@
                                           18,
                                           17
                                       ],
-                                "why_en":  "CUDA ecosystem, full-stack GPU and networking systems, and ~80% accelerator share give an exceptional moat and top AI exposure; custom ASICs and CEO transition are key risks.",
-                                "why_th":  "ระบบนิเวศ CUDA ระบบ GPU และเครือข่ายแบบครบวงจร และส่วนแบ่งตลาดชิปเร่ง AI ราว 80% สร้างคูเมืองที่โดดเด่นและสัดส่วนรายได้ AI สูงสุด ความเสี่ยงหลักคือชิป ASIC สั่งทำและการเปลี่ยนซีอีโอ"
+                                "why_en":  "CUDA ecosystem, full-stack GPU and networking systems and ~93% data-center revenue give a top-tier moat and the strongest AI leverage; custom ASICs and the CEO\u0027s abrupt exit are risks.",
+                                "why_th":  "ระบบนิเวศ CUDA ระบบ GPU และเครือข่ายแบบครบวงจร และรายได้จากศูนย์ข้อมูลราว 93% ทำให้มีคูเมืองระดับสูงสุดและได้ประโยชน์จาก AI มากที่สุด แต่ชิป ASIC สั่งทำพิเศษและการลาออกกะทันหันของซีอีโอเป็นความเสี่ยง"
                             },
                    "NVTS":  {
                                 "m":  [
-                                          10,
+                                          9,
+                                          6,
                                           4,
                                           3,
-                                          2,
                                           1
                                       ],
                                 "o":  [
-                                          8,
-                                          16,
+                                          9,
+                                          15,
                                           6,
-                                          3,
+                                          4,
                                           10
                                       ],
-                                "why_en":  "GaN know-how and NVIDIA 800V partnership offer optionality, but tiny revenue, persistent losses and commoditizing GaN leave almost no moat and little AI revenue before 2027-28.",
-                                "why_th":  "ความเชี่ยวชาญด้าน GaN และความร่วมมือกับ NVIDIA ในระบบไฟ 800V เป็นโอกาสในอนาคต แต่รายได้ยังเล็กมาก ขาดทุนต่อเนื่อง และ GaN กำลังกลายเป็นสินค้าทั่วไป จึงแทบไม่มีคูเมืองและมีรายได้ AI น้อยก่อนปี 2027-28"
+                                "why_en":  "GaN and SiC technology aimed at 800V AI data-center power is promising, but revenue is tiny, losses persist, competition is crowded and native 800V volume only starts around 2027–28.",
+                                "why_th":  "เทคโนโลยี GaN และ SiC สำหรับระบบไฟ 800V ในศูนย์ข้อมูล AI น่าสนใจ แต่รายได้ยังเล็กมาก ขาดทุนต่อเนื่อง คู่แข่งจำนวนมาก และผลิตภัณฑ์ 800V เต็มรูปแบบจะเริ่มผลิตจำนวนมากราวปี 2027–28"
                             },
                    "ON":  {
                               "m":  [
-                                        13,
-                                        11,
-                                        4,
                                         12,
+                                        11,
+                                        6,
+                                        11,
                                         9
                                     ],
                               "o":  [
-                                        7,
-                                        16,
-                                        9,
                                         6,
-                                        12
+                                        15,
+                                        9,
+                                        7,
+                                        11
                                     ],
-                              "why_en":  "Vertically integrated silicon carbide and auto design-ins give a moderate moat, but margins have eroded and AI data-center sales are only ~10% of revenue, though doubling.",
-                              "why_th":  "การผลิตซิลิคอนคาร์ไบด์แบบครบวงจรและการถูกเลือกใช้ในรถยนต์ให้คูเมืองระดับปานกลาง แต่อัตรากำไรลดลง และยอดขายศูนย์ข้อมูล AI มีเพียงราว 10% ของรายได้ แม้จะโตเท่าตัว"
+                              "why_en":  "Vertically integrated silicon carbide and automotive design-ins give a moderate moat, but AI data-center sales are only about 10% of revenue and margins have fallen sharply since 2023.",
+                              "why_th":  "การผลิตซิลิคอนคาร์ไบด์แบบครบวงจรและการถูกเลือกใช้ในรถยนต์ให้คูเมืองระดับปานกลาง แต่ยอดขายศูนย์ข้อมูล AI มีเพียงราว 10% ของรายได้ และอัตรากำไรลดลงมากตั้งแต่ปี 2023"
                           },
                    "OSS":  {
                                "m":  [
-                                         7,
+                                         6,
                                          8,
+                                         4,
                                          2,
-                                         1,
                                          3
                                      ],
                                "o":  [
                                          10,
                                          12,
                                          6,
-                                         2,
+                                         3,
                                          8
                                      ],
-                               "why_en":  "Niche rugged GPU systems with sticky defense programs, but tiny scale and thin profits mean little moat; edge-AI demand helps, yet its market position is small.",
-                               "why_th":  "ระบบ GPU แบบทนทานเฉพาะกลุ่มที่ผูกกับโครงการกลาโหม แต่ขนาดเล็กมากและกำไรบาง คูเมืองจึงน้อย ความต้องการ AI ที่ปลายทาง (edge) ช่วยหนุน แต่สถานะในตลาดยังเล็ก"
+                               "why_en":  "Niche rugged GPU systems for defense edge AI are growing about 40%, but tiny scale, easily replicated technology and thin profits leave little moat or bottleneck power.",
+                               "why_th":  "ระบบ GPU แบบทนทานสำหรับ AI ภาคสนามด้านกลาโหมโตราว 40% แต่ธุรกิจเล็กมาก เทคโนโลยีลอกเลียนได้ง่าย และกำไรบาง จึงแทบไม่มีคูเมืองหรืออำนาจกำหนดราคา"
                            },
                    "QCOM":  {
                                 "m":  [
-                                          17,
+                                          16,
                                           13,
-                                          12,
-                                          15,
-                                          14
+                                          13,
+                                          14,
+                                          13
                                       ],
                                 "o":  [
-                                          7,
+                                          5,
                                           13,
                                           10,
-                                          6,
+                                          5,
                                           15
                                       ],
-                                "why_en":  "Wireless patents, licensing and Snapdragon scale give a durable moat, but AI revenue today is small; data-center chips and edge AI are credible but unproven options.",
-                                "why_th":  "สิทธิบัตรด้านไร้สาย รายได้ค่าลิขสิทธิ์ และขนาดธุรกิจ Snapdragon สร้างคูเมืองที่ยั่งยืน แต่รายได้จาก AI ในปัจจุบันยังน้อย ชิปศูนย์ข้อมูลและ AI บนอุปกรณ์เป็นโอกาสที่น่าเชื่อถือแต่ยังพิสูจน์ไม่ได้"
+                                "why_en":  "World-class wireless IP and licensing support a solid moat despite Apple\u0027s modem exit; AI revenue is minimal, with the Amazon deal and $5B data-center target still unproven.",
+                                "why_th":  "ทรัพย์สินทางปัญญาด้านไร้สายระดับโลกและรายได้ค่าลิขสิทธิ์ช่วยให้คูเมืองแข็งแรงแม้ Apple เลิกใช้โมเด็ม แต่รายได้จาก AI ยังน้อย ส่วนดีลกับ Amazon และเป้ารายได้ศูนย์ข้อมูล 5 พันล้านดอลลาร์ยังต้องพิสูจน์"
                             },
                    "SITM":  {
                                 "m":  [
-                                          15,
-                                          11,
-                                          4,
-                                          9,
+                                          14,
+                                          12,
+                                          6,
+                                          8,
                                           7
                                       ],
                                 "o":  [
-                                          13,
-                                          14,
                                           12,
-                                          8,
-                                          11
+                                          15,
+                                          15,
+                                          11,
+                                          12
                                       ],
-                                "why_en":  "Unique MEMS timing IP gives a niche moat but limited scale and weak GAAP returns; Renesas deal lifts AI data-center exposure in a fast-growing but small market.",
-                                "why_th":  "IP ชิปจับเวลาแบบ MEMS ที่ไม่เหมือนใครสร้างคูเมืองเฉพาะกลุ่ม แต่ขนาดยังจำกัดและผลตอบแทนตามงบการเงินยังอ่อน การซื้อธุรกิจจับเวลาของ Renesas เพิ่มสัดส่วนรายได้จากศูนย์ข้อมูล AI ในตลาดที่โตเร็วแต่ขนาดเล็ก"
+                                "why_en":  "Unique MEMS timing plus Renesas\u0027 clock business make SiTime a leading AI data-center timing supplier with ~70% non-GAAP gross margins, but small scale and past GAAP losses limit durability.",
+                                "why_th":  "เทคโนโลยีจับเวลาแบบ MEMS ที่มีเอกลักษณ์รวมกับธุรกิจสัญญาณนาฬิกาของ Renesas ทำให้เป็นผู้นำชิปจับเวลาในศูนย์ข้อมูล AI ด้วยอัตรากำไรขั้นต้นราว 70% แต่ธุรกิจยังเล็กและเคยขาดทุนทางบัญชี"
                             },
                    "SKH":  {
                                "m":  [
-                                         17,
-                                         11,
+                                         16,
+                                         9,
                                          7,
                                          16,
-                                         9
+                                         8
                                      ],
                                "o":  [
                                          18,
-                                         17,
-                                         17,
+                                         16,
+                                         16,
                                          18,
                                          13
                                      ],
-                               "why_en":  "HBM technology leadership in a three-player memory oligopoly makes it a core AI bottleneck with record ~80% margins, but memory\u0027s cyclical history limits proven durability.",
-                               "why_th":  "ความเป็นผู้นำเทคโนโลยี HBM ในตลาดหน่วยความจำที่มีผู้เล่นเพียงสามราย ทำให้เป็นคอขวดสำคัญของ AI ด้วยอัตรากำไรสูงเป็นประวัติการณ์ราว 80% แต่ประวัติวัฏจักรขึ้นลงของธุรกิจหน่วยความจำจำกัดความยั่งยืนที่พิสูจน์แล้ว"
+                               "why_en":  "Number-one HBM supplier with about 80% operating margins in a memory oligopoly, making profits overwhelmingly AI-driven; Samsung\u0027s HBM4 share gains and memory cyclicality cap moat durability.",
+                               "why_th":  "ผู้นำอันดับหนึ่งด้าน HBM ที่มีอัตรากำไรจากการดำเนินงานราว 80% ในตลาดหน่วยความจำที่มีผู้เล่นน้อยราย ทำให้กำไรเกือบทั้งหมดมาจาก AI แต่ Samsung กำลังแย่งส่วนแบ่ง HBM4 และวัฏจักรหน่วยความจำจำกัดความทนทานของคูเมือง"
                            },
                    "SMSN":  {
                                 "m":  [
                                           16,
+                                          8,
                                           9,
-                                          10,
                                           18,
                                           11
                                       ],
                                 "o":  [
-                                          16,
-                                          17,
+                                          14,
                                           15,
-                                          17,
+                                          15,
+                                          16,
                                           15
                                       ],
-                                "why_en":  "Largest memory scale plus a recovered HBM4 position drives record AI profits, with foundry optionality; cyclical returns and weaker switching costs keep the moat moderate.",
-                                "why_th":  "ขนาดการผลิตหน่วยความจำใหญ่ที่สุดและสถานะ HBM4 ที่ฟื้นตัวผลักดันกำไรจาก AI เป็นประวัติการณ์ พร้อมโอกาสจากธุรกิจรับจ้างผลิตชิป แต่ผลตอบแทนผันผวนตามวัฏจักรและต้นทุนการเปลี่ยนผู้ขายต่ำ คูเมืองจึงปานกลาง"
+                                "why_en":  "Largest memory scale, a regained DRAM lead and rising HBM4 share drive record AI-memory profits, but consumer businesses, a lagging foundry and memory cyclicality dilute the moat.",
+                                "why_th":  "มีกำลังผลิตหน่วยความจำใหญ่ที่สุด กลับมาเป็นผู้นำ DRAM และส่วนแบ่ง HBM4 เพิ่มขึ้น ทำให้กำไรจากหน่วยความจำ AI สูงเป็นประวัติการณ์ แต่ธุรกิจผู้บริโภค โรงงานรับจ้างผลิตชิปที่ตามหลังคู่แข่ง และวัฏจักรหน่วยความจำทำให้คูเมืองอ่อนลง"
                             },
                    "TSM":  {
                                "m":  [
                                          20,
-                                         18,
-                                         17,
                                          19,
+                                         16,
+                                         20,
                                          19
                                      ],
                                "o":  [
+                                         15,
                                          16,
-                                         17,
                                          20,
-                                         19,
-                                         14
+                                         20,
+                                         13
                                      ],
-                               "why_en":  "Unmatched leading-edge process and CoWoS scale with decades of high returns make it the near-sole maker of AI accelerators, a true bottleneck with strong pricing power.",
-                               "why_th":  "เทคโนโลยีการผลิตชั้นนำและกำลังการผลิต CoWoS ที่ไม่มีใครเทียบได้ พร้อมผลตอบแทนสูงต่อเนื่องหลายทศวรรษ ทำให้เป็นผู้ผลิตชิปเร่ง AI แทบรายเดียว เป็นคอขวดตัวจริงที่มีอำนาจตั้งราคาสูง"
+                               "why_en":  "Near-monopoly on leading-edge nodes and CoWoS packaging, the key bottleneck for almost all AI chips, backed by decades of high returns; non-AI chips still dilute exposure.",
+                               "why_th":  "เกือบผูกขาดการผลิตชิปขั้นสูงสุดและบรรจุภัณฑ์ CoWoS ซึ่งเป็นคอขวดสำคัญของชิป AI เกือบทั้งหมด พร้อมผลตอบแทนสูงต่อเนื่องหลายสิบปี แต่ชิปที่ไม่ใช่ AI ยังเป็นสัดส่วนรายได้ที่มาก"
                            }
                }
 }

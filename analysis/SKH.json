@@ -6,45 +6,41 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T06:00:05Z",
+    "generatedAt":  "2026-11-24T03:51:52Z",
     "costUsd":  null,
     "stance":  "bearish",
-    "thesis":  "watch",
+    "thesis":  "intact",
     "indicators":  {
                        "symbol":  "KRX:000660",
                        "yahoo":  "000660.KS",
                        "currency":  "KRW",
-                       "asOf":  "2026-11-23",
-                       "fetchedAt":  "2026-11-23T05:55:19Z",
-                       "price":  1083000,
-                       "open":  0,
-                       "high":  1097000,
-                       "low":  1044000,
-                       "volume":  3106292,
-                       "avgVolume20":  3839212,
-                       "changePct":  -2.7,
-                       "historyDays":  484,
-                       "ema50":  1403220.2,
-                       "ema100":  1512307.16,
-                       "ema200":  1418373.71,
+                       "asOf":  "2026-11-24",
+                       "fetchedAt":  "2026-11-24T03:48:14Z",
+                       "price":  1176000,
+                       "open":  1212000,
+                       "high":  1212000,
+                       "low":  1161000,
+                       "volume":  2168389,
+                       "avgVolume20":  3833255,
+                       "changePct":  8.39,
+                       "historyDays":  485,
+                       "ema50":  1394384.96,
+                       "ema100":  1505686.43,
+                       "ema200":  1415981.73,
                        "bb":  {
-                                  "upper":  1542984.17,
-                                  "middle":  1263500,
-                                  "lower":  984015.83
+                                  "upper":  1534692.28,
+                                  "middle":  1255350,
+                                  "lower":  976007.72
                               },
                        "macd":  {
-                                    "macd":  -96872.73,
-                                    "signal":  -93857.56,
-                                    "hist":  -3015.17
+                                    "macd":  -89815.32,
+                                    "signal":  -93023.58,
+                                    "hist":  3208.26
                                 },
-                       "rsi14":  36.41,
+                       "rsi14":  43.53,
                        "high52w":  2987000,
                        "low52w":  501000,
                        "spark":  [
-                                     [
-                                         "2026-05-29",
-                                         2333000
-                                     ],
                                      [
                                          "2026-06-01",
                                          2363000
@@ -519,11 +515,14 @@
                                      ],
                                      [
                                          "2026-11-23",
-                                         1083000
+                                         1085000
+                                     ],
+                                     [
+                                         "2026-11-24",
+                                         1176000
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          1492137.79,
                                           1526289.25,
                                           1558983.79,
                                           1587964.82,
@@ -642,78 +641,79 @@
                                           1438696.94,
                                           1428669.61,
                                           1416290.41,
-                                          1403220.2
+                                          1403298.63,
+                                          1394384.96
                                       ]
                    },
     "en":  {
-               "caution":  "The divergence between record KRW 83.33 trillion quarterly operating profit and a 63.7% stock drawdown shows the market is pricing in peak margins rather than past results. Investors should watch whether Samsung\u0027s rapid HBM4 ramp erodes SK hynix\u0027s pricing power as industry supply expands alongside higher 2027 CapEx. Meanwhile, U.S. export-license delays affecting Dalian and New York expansion plans, heavy KOSPI foreign selling, and ongoing U.S. DRAM antitrust litigation could keep overhead resistance near KRW 1,263,500–1,403,220 intact.",
+               "caution":  "Near-term price action remains fragile. Nov 24\u0027s 8.39% jump opened at 1,212,000 KRW and faded to 1,176,000 KRW on 43% below-average volume, leaving heavy resistance at the 1,255,350 KRW middle Bollinger Band and 1,394,385 KRW EMA 50. Beyond technicals, memory cyclicality is resurfacing: TrendForce expects Q1 2027 NAND prices to fall, and analysts warn 2027 capacity additions could pressure margins. Meanwhile, the Nov 14 U.S. DRAM antitrust ruling brings discovery and potential legal overhang starting Dec 7, alongside U.S. export-license friction restricting Dalian NAND expansion.",
                "cons":  [
-                            "Bernstein estimated on Oct 26, 2026 that Samsung\u0027s Q3 HBM revenue ($8.7 billion) surpassed SK hynix ($7.6 billion), signaling tighter HBM4 competition.",
-                            "Near-80% operating margins heavily reflect price spikes, fueling investor fears of a memory super-cycle peak heading into 2027.",
-                            "U.S. officials held up equipment export licenses for SK hynix\u0027s Dalian, China fab (reported Nov 3, 2026), complicating Solidigm\u0027s $45 billion-plus New York expansion.",
-                            "Q3 net profit dropped to KRW 39.78 trillion on FX and valuation losses, while a U.S. judge refused to dismiss a DRAM price-fixing lawsuit on Nov 14, 2026."
+                            "Shares trade below all three EMAs after a 60.6% drop from 2,987,000 KRW, with Nov 24\u0027s bounce fading on light volume.",
+                            "On Nov 14, a U.S. federal judge rejected dismissal of a DRAM price-fixing class action against SK hynix, Samsung, and Micron.",
+                            "TrendForce warned on Nov 19 that NAND contract prices will drop in Q1 2027 as Chinese cloud providers cut enterprise SSD orders.",
+                            "SK hynix halted its Solidigm IPO review on Oct 28 amid volatile markets, while U.S. export-license hurdles constrain Dalian NAND expansion."
                         ],
-               "fundamental":  "Fundamentally, SK hynix remains at the center of AI data-center infrastructure as NVIDIA\u0027s core High Bandwidth Memory (HBM) partner for Blackwell and next-generation Vera Rubin platforms. On Oct 28, 2026, Q3 revenue crossed KRW 100 trillion for the first time at KRW 104.62 trillion (+328% YoY, +32% QoQ), while operating profit jumped 632% YoY to KRW 83.33 trillion (79.7% margin) across HBM4, server DDR5, and 321-layer enterprise SSDs. Management expects HBM4 to overtake HBM3E in Q4 2026 as the M15X fab ramps, with over half of 2027–2028 capacity committed under long-term agreements. Still, significant 2027 CapEx expansion for the Yongin cluster, Samsung\u0027s HBM4 catch-up, and paused Solidigm IPO plans make margin durability the central debate.",
-               "headline":  "Record Q3 Profits Collide With Peak-Cycle Fears and Rising HBM4 Rivalry",
+               "fundamental":  "Operationally, SK hynix\u0027s AI memory moat looks stronger than its battered share price implies. On Oct 28, 2026, it became the first memory maker to surpass 100 trillion KRW in quarterly sales, delivering 104.62 trillion KRW in Q3 revenue and 83.33 trillion KRW in operating profit (80% margin). Management reported DRAM and HBM capacity is effectively sold out through 2029 under long-term agreements, reinforced by an estimated 70% initial HBM4 share for Nvidia\u0027s Vera Rubin platform. Nvidia\u0027s Nov 23 reinstatement of CEO Jensen Huang removed an acute customer-governance shock that had amplified the sell-off. Strategic moves continued too: SK hynix moved on Nov 20 to lift its indirect Kioxia stake to roughly 14.1% and showcased memory-centric MARS rack architectures at Supercomputing 2026. Yet peak-cycle fears—highlighted by TrendForce\u0027s Nov 19 Q1 2027 NAND downturn call, BNK Securities\u0027 target cut, and the Nov 14 DRAM antitrust ruling—drove the sharp derating.",
+               "headline":  "Record Q3 Profits and Nvidia Rebound Clash With Bearish Chart and Legal Overhang",
                "news":  [
-                            "Oct 23 \u0026 Oct 28, 2026: SK hynix discontinued its U.S. IPO review for NAND subsidiary Solidigm, citing unfavorable capital market conditions.",
-                            "Oct 26, 2026: A Bernstein analysis reported by The Korea Herald estimated Samsung\u0027s Q3 HBM revenue ($8.7 billion) edged past SK hynix ($7.6 billion) as HBM4 shipments accelerated.",
-                            "Oct 28, 2026: Q3 2026 revenue surged 328% YoY to KRW 104.62 trillion with KRW 83.33 trillion in operating profit (79.7% margin), while management guided HBM4 to surpass HBM3E in Q4 2026.",
-                            "Nov 3, 2026: Reuters reported U.S. officials held up export licenses for American chipmaking tools destined for SK hynix\u0027s Dalian, China fab, snagging Solidigm\u0027s $45 billion-plus New York plant plans.",
-                            "Nov 14 \u0026 Nov 16, 2026: A U.S. judge denied SK hynix, Samsung, and Micron\u0027s motion to dismiss a DRAM price-fixing class-action suit, two days before SK hynix unveiled a KRW 1.4 trillion ($1.05 billion) five-year domestic supplier support fund.",
-                            "Nov 20, 2026: SK hynix filed to convert JPY 129 billion ($810 million) of bonds (closing Dec 4) into a 14.1% indirect stake in Kioxia, becoming the Japanese NAND maker\u0027s largest indirect shareholder."
+                            "Nov 23–24, 2026: Nvidia\u0027s board unanimously reinstated CEO Jensen Huang after an 11-day absence, igniting a 20% surge in SK hynix\u0027s U.S. ADRs on Nov 23 and an 8.39% rally in Seoul shares on Nov 24.",
+                            "Nov 20, 2026: SK hynix filed to convert $810.3 million of SPC2 bonds into common shares, raising its indirect stake in Japanese NAND maker Kioxia to roughly 14.1% to become its top indirect shareholder.",
+                            "Nov 20, 2026: At Supercomputing 2026 in Chicago, SK hynix unveiled its memory-centric AI vision, demonstrating tiered memory pooling and its MARS rack concept designed to relieve AI data bottlenecks.",
+                            "Nov 19–20, 2026: TrendForce cut its Q4 2026 NAND contract price forecast and projected Q1 2027 declines on Chinese cloud order cuts, while BNK Investment \u0026 Securities slashed its SK hynix target from 1,650,000 to 1,050,000 KRW on 2027 oversupply concerns.",
+                            "Nov 14, 2026: U.S. District Judge Noël Wise denied a joint motion by SK hynix, Samsung, and Micron to dismiss a DRAM price-fixing class-action lawsuit, advancing the case to discovery with formal answers due Dec 7, 2026.",
+                            "Oct 28, 2026: SK hynix reported record Q3 2026 revenue of 104.62 trillion KRW and operating profit of 83.33 trillion KRW (80% margin), revealed DRAM and HBM capacity is sold out through 2029, declared a 20,000 KRW dividend, and halted its Solidigm IPO review."
                         ],
-               "opportunity":  "If AI accelerator demand stays durable through NVIDIA\u0027s Vera Rubin transition, SK hynix\u0027s multi-year LTA coverage (over 50% of 2027–2028 capacity) and Q4 2026 HBM4 crossover provide unusually strong revenue visibility compared with prior memory cycles. Near-term technical stabilization near the KRW 984,016 lower Bollinger Band could also be supported by roughly KRW 13.4 trillion ($9.9 billion) in remaining share buybacks once South Korea eases daily buyback limits on Nov 24, 2026, alongside promised special dividends from Kioxia investment gains.",
-               "opportunityCheck":  "The page\u0027s strong marks for AI revenue exposure, market growth, and bottleneck pricing power remain justified by Q3\u0027s KRW 104.62 trillion revenue, 79.7% operating margin, HBM4 crossover, and multi-year capacity lock-in. However, I would trim the market-position score slightly: Bernstein\u0027s Oct 26 analysis indicates Samsung has rapidly closed the HBM revenue gap during the HBM4 ramp, shifting SK hynix from undisputed dominance toward a tight duopoly. Conversely, optionality deserves a modest lift as SK hynix converts Kioxia bonds into a 14.1% indirect NAND stake and expands CXL and memory-pooling solutions.",
+               "opportunity":  "The disconnect between a 60.6% drawdown from 2,987,000 KRW and historic fundamentals is striking. With Q3 operating margins at 80%, DRAM and HBM supply booked through 2029, and a dominant HBM4 role on Nvidia\u0027s upcoming Vera Rubin platform, SK hynix\u0027s core AI-infrastructure franchise remains intact. Nvidia\u0027s Nov 23 leadership resolution removes a major customer overhang, while the expanded 14.1% indirect Kioxia stake and SC26 memory-centric roadmap strengthen long-term positioning. Technically, a sustained reclaim of 1,255,350 KRW on above-average volume—while holding 976,008 KRW lower-band support—would signal that cyclical panic is stabilizing.",
+               "opportunityCheck":  "The sub-scores for AI revenue exposure, market growth, and competitive position look well-grounded given Q3\u0027s 80% operating margin, multi-year HBM/DRAM capacity sellout through 2029, and leading HBM4 allocation for Nvidia\u0027s Vera Rubin platform. However, bottleneck and pricing power warrants a slight downward nudge: TrendForce\u0027s Nov 19 forecast of Q1 2027 NAND price declines highlights uneven pricing power outside HBM, and the Nov 14 U.S. DRAM antitrust ruling places legal scrutiny directly on oligopoly supply discipline. Optionality could edge slightly higher as SK hynix expands its indirect Kioxia stake and pushes memory-centric racks like MARS.",
                "pros":  [
-                            "Q3 2026 revenue reached KRW 104.62 trillion (+328% YoY) with KRW 83.33 trillion in operating profit and a 79.7% margin.",
-                            "Full-scale HBM4 shipments started in Q3 2026 and management guides HBM4 to overtake HBM3E share in Q4 2026.",
-                            "Long-term agreements already lock in over 50% of projected 2027–2028 capacity, giving multi-year earnings visibility.",
-                            "Roughly KRW 13.4 trillion ($9.9 billion) in remaining share buyback capacity aligns with South Korea easing daily buyback caps from Nov 24, 2026."
+                            "Q3 2026 revenue hit a record 104.62 trillion KRW with 83.33 trillion KRW operating profit (80% margin) on Oct 28.",
+                            "Management disclosed HBM and DRAM output is effectively sold out through 2029, supported by roughly 70% initial HBM4 share for Nvidia\u0027s Vera Rubin.",
+                            "Nvidia\u0027s Nov 23 reinstatement of CEO Jensen Huang stabilized SK hynix\u0027s core AI customer and sparked an 8.39% Seoul rebound.",
+                            "SK hynix declared a 20,000 KRW Q3 dividend (half special) and moved on Nov 20 to lift its indirect Kioxia stake to 14.1%."
                         ],
                "risks":  [
-                             "HBM4 market-share erosion as Samsung Electronics narrows the technology and revenue gap.",
-                             "Cyclical memory margin compression if 2027 industry CapEx outpaces hyperscaler AI monetization.",
-                             "U.S.-China semiconductor export controls delaying Dalian fab upgrades and complicating U.S. NAND investments.",
-                             "FX volatility, non-operating valuation swings, and U.S. DRAM antitrust class-action litigation."
+                             "U.S. DRAM antitrust litigation entering discovery after Judge Wise\u0027s Nov 14 ruling, with defendants\u0027 formal response due Dec 7, 2026.",
+                             "Memory cycle downturn risk as TrendForce forecasts Q1 2027 NAND price declines and industry-wide capacity ramps threaten 2027 margins.",
+                             "Customer concentration in Nvidia, evidenced by extreme share volatility around Nvidia\u0027s November leadership turmoil.",
+                             "Geopolitical and export-control friction as U.S. Commerce Department scrutiny constrains equipment approvals for SK hynix\u0027s Dalian NAND fab."
                          ],
-               "summary":  "SK hynix (KRX:000660) delivered historic Q3 2026 results on Oct 28—KRW 104.62 trillion in revenue and KRW 83.33 trillion in operating profit (79.7% margin)—as HBM4 entered full mass production. Yet shares have fallen 63.7% from their KRW 2,987,000 52-week high to KRW 1,083,000 on Nov 23 amid AI-monetization jitters, peak-margin fears, and heavy KOSPI foreign outflows. An Oct 26 Bernstein estimate suggesting Samsung rivaled or topped SK hynix in Q3 HBM revenue, alongside U.S. export-license delays in Dalian (Nov 3), puts the long-term moat thesis on watch.",
-               "technical":  "As of Nov 23, 2026, SK hynix trades at KRW 1,083,000 (-2.7% on the day) in a firmly bearish downtrend across 484 trading days of history. Price sits more than 22% below all three exponential moving averages (EMAs, which smooth price trends): EMA 50 at KRW 1,403,220, EMA 200 at KRW 1,418,374, and EMA 100 at KRW 1,512,307. Notably, EMA 50 has crossed beneath EMA 200—a classic bearish \"death cross.\" Momentum confirms weakness: MACD (a trend-momentum gauge) stands at -96,873 below its -93,858 signal line with a negative -3,015 histogram, while RSI 14 (a 0–100 momentum gauge; under 30 is oversold) sits at 36.41, weak but not yet oversold. Within the Bollinger Bands (a 20-day volatility channel), price lies well under the KRW 1,263,500 middle line (initial resistance) and 9.1% above the KRW 984,016 lower band (near-term support), sitting in the bottom quarter of its KRW 501,000–2,987,000 52-week range (-63.7% from the peak). Daily volume of 3.11 million shares ran 19% below the 3.84 million 20-day average, showing muted panic selling on the latest dip."
+               "summary":  "SK hynix jumped 8.39% to 1,176,000 KRW on Nov 24, 2026 after Nvidia reinstated CEO Jensen Huang, yet shares remain 60.6% below their 2,987,000 KRW 52-week high in a bearish technical trend. Fundamentals stay formidable: on Oct 28, SK hynix posted record Q3 revenue of 104.62 trillion KRW, an 80% operating margin, and HBM/DRAM capacity sold out through 2029. However, a Nov 14 U.S. DRAM antitrust ruling, TrendForce\u0027s Nov 19 warning of Q1 2027 NAND price declines, and weak bounce volume keep near-term pressure elevated.",
+               "technical":  "Despite an 8.39% jump to 1,176,000 KRW on Nov 24, 2026, SK hynix\u0027s chart remains bearish. Price sits well below all three Exponential Moving Averages (EMAs, which track smoothed trend direction): EMA 50 at 1,394,385 KRW, EMA 200 at 1,415,982 KRW, and EMA 100 at 1,505,686 KRW. Because EMA 50 has crossed below EMA 200—a classic \"death cross\"—the broader trend points downward. Volatility bands confirm weakness: within Bollinger Bands (20-day price-volatility envelopes), shares sit in the lower half below the 1,255,350 KRW middle band (immediate resistance), with lower-band support near 976,008 KRW. At 60.6% below its 2,987,000 KRW 52-week high and in the bottom third of its 501,000–2,987,000 KRW range, overhead supply is heavy. Momentum shows early stabilization: MACD (a trend-momentum gauge) stays deeply negative at -89,815 but edged above its -93,024 signal line, turning the histogram slightly positive at +3,208, while RSI 14 (a 0–100 momentum gauge; under 30 is oversold) sits at a muted 43.53. Crucially, shares faded from their 1,212,000 KRW open on volume of 2.17 million—43% below the 3.83 million 20-day average—signaling unconvincing buying conviction."
            },
     "th":  {
-               "caution":  "ความต่างระหว่างกำไรจากการดำเนินงานที่สูงเป็นประวัติการณ์ถึง KRW 83.33 ล้านล้าน กับราคาหุ้นที่ร่วงลง 63.7% สะท้อนว่าตลาดกำลังกังวลว่ามาร์จิ้นอาจผ่านจุดสูงสุดแล้ว นักลงทุนต้องจับตาว่าการเร่งผลิต HBM4 ของ Samsung จะบั่นทอนอำนาจกำหนดราคาของ SK hynix หรือไม่เมื่อกำลังผลิตทั้งอุตสาหกรรมขยายตัวตามงบ CapEx ปี 2027 อีกทั้งความล่าช้าของใบอนุญาตส่งออกสหรัฐฯ สำหรับโรงงานต้าเหลียน-นิวยอร์ก แรงขายต่างชาติใน KOSPI และคดีผูกขาดราคา DRAM ในสหรัฐฯ อาจยังกดดันให้แนวต้าน KRW 1,263,500–1,403,220 ผ่านได้ยากในระยะสั้น",
+               "caution":  "ภาพราคาระยะสั้นยังเปราะบาง แม้ดีดขึ้น 8.39% ในวันที่ 24 พ.ย. แต่ราคาเปิดที่ 1,212,000 KRW แล้วอ่อนตัวลงมาปิดที่ 1,176,000 KRW บนปริมาณซื้อขายที่ต่ำกว่าค่าเฉลี่ย 43% โดยมีแนวต้านสำคัญรออยู่ที่เส้นกลาง Bollinger Bands (1,255,350 KRW) และ EMA 50 (1,394,385 KRW) ด้านปัจจัยพื้นฐาน ความผันผวนของวัฏจักรหน่วยความจำเริ่มกลับมา หลัง TrendForce คาดราคา NAND ไตรมาส 1/2027 จะปรับลง ขณะที่คดีผูกขาด DRAM ในสหรัฐฯ จากคำสั่งศาลวันที่ 14 พ.ย. จะเข้าสู่ชั้นไต่สวนตั้งแต่ 7 ธ.ค. ควบคู่กับข้อจำกัดใบอนุญาตส่งออกสหรัฐฯ ต่อโรงงาน NAND ในต้าเหลียน",
                "cons":  [
-                            "บทวิเคราะห์ของ Bernstein เมื่อ 26 ต.ค. 2026 ประเมินว่ารายได้ HBM ไตรมาส 3 ของ Samsung ($8.7 พันล้าน) แซงหน้า SK hynix ($7.6 พันล้าน) สะท้อนการแข่งขัน HBM4 ที่ดุเดือดขึ้น",
-                            "อัตรากำไรจากการดำเนินงานใกล้ 80% ส่วนใหญ่มาจากราคาชิปที่พุ่งแรง ทำให้ตลาดกังวลว่าวัฏจักรขาขึ้นของหน่วยความจำอาจใกล้จุดสูงสุดก่อนเข้าสู่ปี 2027",
-                            "ทางการสหรัฐฯ ชะลอใบอนุญาตส่งออกเครื่องจักรผลิตชิปไปโรงงานต้าเหลียนในจีน (รายงาน 3 พ.ย. 2026) กระทบแผนขยายโรงงาน Solidigm มูลค่ากว่า $45 พันล้านในนิวยอร์ก",
-                            "กำไรสุทธิ Q3 2026 ลดลงเหลือ KRW 39.78 ล้านล้านจากผลขาดทุนอัตราแลกเปลี่ยนและมูลค่าสินทรัพย์ลงทุน ขณะที่ศาลสหรัฐฯ ปฏิเสธคำร้องยกฟ้องคดีฮั้วราคา DRAM เมื่อ 14 พ.ย. 2026"
+                            "ราคาหุ้นยังอยู่ต่ำกว่าเส้น EMA ทั้ง 3 เส้นหลังร่วงลง 60.6% จากจุดสูงสุด 2,987,000 KRW และการดีดตัววันที่ 24 พ.ย. อ่อนแรงลงบนวอลุ่มเบาบาง",
+                            "เมื่อ 14 พ.ย. ศาลรัฐบาลกลางสหรัฐฯ ปฏิเสธคำร้องยกฟ้องคดีฮั้วราคา DRAM ต่อ SK hynix, Samsung และ Micron ทำให้คดีเดินหน้าต่อสู่ขั้นไต่สวน",
+                            "TrendForce เตือนเมื่อ 19 พ.ย. ว่าราคาสัญญา NAND จะเริ่มปรับลดลงในไตรมาส 1/2027 หลังผู้ให้บริการคลาวด์จีนลดคำสั่งซื้อ enterprise SSD",
+                            "SK hynix ระงับแผน IPO ของ Solidigm เมื่อ 28 ต.ค. ท่ามกลางตลาดผันผวน ขณะที่ข้อจำกัดใบอนุญาตส่งออกสหรัฐฯ กดดันแผนขยายโรงงาน NAND ในต้าเหลียน"
                         ],
-               "fundamental":  "ในเชิงพื้นฐาน SK hynix ยังคงเป็นหัวใจสำคัญของโครงสร้างพื้นฐาน AI ในฐานะซัพพลายเออร์หลักด้าน High Bandwidth Memory (HBM) ให้กับแพลตฟอร์ม Blackwell และ Vera Rubin ของ NVIDIA ผลประกอบการ Q3 2026 เมื่อ 28 ต.ค. 2026 สร้างสถิติรายได้ทะลุร้อยล้านล้านวอนครั้งแรกที่ KRW 104.62 ล้านล้าน (+328% YoY, +32% QoQ) และกำไรจากการดำเนินงานพุ่ง 632% YoY แตะ KRW 83.33 ล้านล้าน (อัตรากำไร 79.7%) จากทั้ง HBM4, server DDR5 และ enterprise SSD 321 ชั้น ผู้บริหารคาดว่า HBM4 จะแซง HBM3E ใน Q4 2026 ตามการเดินเครื่องโรงงาน M15X พร้อมมีสัญญาระยะยาว (LTA) รองรับกำลังผลิตปี 2027–2028 แล้วกว่าครึ่ง อย่างไรก็ดี การเพิ่มงบ CapEx ปี 2027 สำหรับคลัสเตอร์ Yongin การไล่ตามของ Samsung ใน HBM4 และการพับแผน IPO ของ Solidigm ทำให้ความยั่งยืนของอัตรากำไรเป็นโจทย์สำคัญที่สุด",
-               "headline":  "กำไร Q3 ทำสถิติใหม่ แต่หุ้นร่วงรับความกังวลจุดสูงสุดวัฏจักรและคู่แข่ง HBM4",
+               "fundamental":  "ในเชิงธุรกิจ คูเมืองด้านหน่วยความจำ AI ของ SK hynix แข็งแกร่งกว่าที่ราคาหุ้นสะท้อนอยู่มาก วันที่ 28 ต.ค. 2026 บริษัทสร้างสถิติเป็นผู้ผลิตหน่วยความจำรายแรกที่ทำรายได้ไตรมาสทะลุ 100 ล้านล้าน KRW โดยมีรายได้ไตรมาส 3 ที่ 104.62 ล้านล้าน KRW และกำไรจากการดำเนินงาน 83.33 ล้านล้าน KRW (อัตรากำไร 80%) ผู้บริหารระบุว่ากำลังการผลิต DRAM และ HBM ถูกจองเต็มยาวถึงปี 2029 ภายใต้สัญญาระยะยาว พร้อมครองส่วนแบ่ง HBM4 ราว 70% สำหรับแพลตฟอร์ม Vera Rubin ของ Nvidia การที่ Nvidia ดึง Jensen Huang กลับมาเป็นซีอีโอเมื่อ 23 พ.ย. ช่วยคลายความกังวลด้านลูกค้ารายใหญ่ ขณะที่บริษัทเดินหน้าเพิ่มสัดส่วนถือหุ้นทางอ้อมใน Kioxia เป็น 14.1% เมื่อ 20 พ.ย. และโชว์สถาปัตยกรรม MARS ในงาน Supercomputing 2026 แต่ความกลัววัฏจักรขาลงของ NAND จากรายงาน TrendForce การหั่นราคาเป้าหมายของ BNK Securities และคดีผูกขาด DRAM เป็นตัวกดดันราคาหุ้นอย่างหนัก",
+               "headline":  "กำไรไตรมาส 3 ทุบสถิติและแรงหนุน Nvidia ปะทะกราฟขาลงและคดีผูกขาดสหรัฐฯ",
                "news":  [
-                            "23 และ 28 ต.ค. 2026: SK hynix ยุติการพิจารณาแผนนำ Solidigm บริษัทย่อยด้าน NAND เข้าตลาดหุ้นสหรัฐฯ โดยระบุว่าภาวะตลาดทุนยังไม่เอื้ออำนวย",
-                            "26 ต.ค. 2026: บทวิเคราะห์ Bernstein ที่ The Korea Herald รายงานประเมินว่ารายได้ HBM ไตรมาส 3 ของ Samsung ($8.7 พันล้าน) ขยับแซง SK hynix ($7.6 พันล้าน) จากการเร่งส่งมอบ HBM4",
-                            "28 ต.ค. 2026: รายงานงบ Q3 2026 รายได้พุ่ง 328% YoY แตะ KRW 104.62 ล้านล้าน กำไรจากการดำเนินงาน KRW 83.33 ล้านล้าน (มาร์จิ้น 79.7%) พร้อมคาดว่า HBM4 จะแซง HBM3E ใน Q4 2026",
-                            "3 พ.ย. 2026: Reuters รายงานว่าทางการสหรัฐฯ ชะลอใบอนุญาตส่งออกเครื่องจักรชิปสหรัฐฯ ไปโรงงานต้าเหลียนของ SK hynix ในจีน ส่งผลให้แผนสร้างโรงงานมูลค่ากว่า $45 พันล้านของ Solidigm ในนิวยอร์กสะดุด",
-                            "14 และ 16 พ.ย. 2026: ผู้พิพากษาสหรัฐฯ ปฏิเสธคำร้องยกฟ้องคดีกลุ่มผู้บริโภคฟ้องฮั้วราคา DRAM ต่อ SK hynix, Samsung และ Micron ก่อนที่ SK hynix จะประกาศกองทุนสนับสนุนซัพพลายเออร์เกาหลีใต้ KRW 1.4 ล้านล้าน ($1.05 พันล้าน) ระยะ 5 ปี",
-                            "20 พ.ย. 2026: SK hynix ยื่นเอกสารแปลงหุ้นกู้มูลค่า JPY 129 พันล้าน ($810 ล้าน) กำหนดเสร็จสิ้น 4 ธ.ค. เพื่อถือหุ้นทางอ้อม 14.1% ขึ้นเป็นผู้ถือหุ้นทางอ้อมรายใหญ่สุดของ Kioxia"
+                            "23–24 พ.ย. 2026: บอร์ด Nvidia มีมติเอกฉันท์ให้ Jensen Huang กลับมารับตำแหน่งซีอีโอหลังพ้นตำแหน่งไป 11 วัน ดันหุ้น ADR ของ SK hynix ในสหรัฐฯ พุ่ง 20% วันที่ 23 พ.ย. และหุ้นในเกาหลีใต้บวก 8.39% วันที่ 24 พ.ย.",
+                            "20 พ.ย. 2026: SK hynix ยื่นแปลงสภาพหุ้นกู้ SPC2 มูลค่า 810.3 ล้านดอลลาร์เป็นหุ้นสามัญ เพิ่มสัดส่วนถือหุ้นทางอ้อมใน Kioxia ผู้ผลิต NAND ของญี่ปุ่นเป็นราว 14.1% ขึ้นแท่นผู้ถือหุ้นทางอ้อมรายใหญ่สุด",
+                            "20 พ.ย. 2026: ในงาน Supercomputing 2026 ที่ชิคาโก SK hynix เปิดวิสัยทัศน์ระบบนิเวศ AI ที่มีหน่วยความจำเป็นศูนย์กลาง พร้อมสาธิตเทคโนโลยี memory pooling และแนวคิดแร็คเซิร์ฟเวอร์ MARS เพื่อลดคอขวดข้อมูล AI",
+                            "19–20 พ.ย. 2026: TrendForce ปรับลดคาดการณ์ราคาสัญญา NAND ไตรมาส 4/2026 และคาดว่าจะลดลงในไตรมาส 1/2027 จากแรงลดคำสั่งซื้อของคลาวด์จีน ขณะที่ BNK Investment \u0026 Securities หั่นเป้า SK hynix จาก 1,650,000 เหลือ 1,050,000 KRW จากความกังวลอุปทานล้นตลาดปี 2027",
+                            "14 พ.ย. 2026: ผู้พิพากษา Noël Wise แห่งศาลรัฐบาลกลางสหรัฐฯ ปฏิเสธคำร้องยกฟ้องของ SK hynix, Samsung และ Micron ในคดีฟ้องร้องแบบกลุ่มข้อหาฮั้วราคา DRAM ทำให้คดีเข้าสู่ชั้นแสวงหาพยานหลักฐานและต้องยื่นคำให้การภายใน 7 ธ.ค. 2026",
+                            "28 ต.ค. 2026: SK hynix รายงานงบไตรมาส 3/2026 ทุบสถิติด้วยรายได้ 104.62 ล้านล้าน KRW กำไรจากการดำเนินงาน 83.33 ล้านล้าน KRW (มาร์จิ้น 80%) เผยกำลังการผลิต DRAM/HBM ถูกจองเต็มถึงปี 2029 จ่ายปันผล 20,000 KRW ต่อหุ้น และยุติแผนทบทวน IPO ของ Solidigm"
                         ],
-               "opportunity":  "หากความต้องการชิปเร่งประมวลผล AI ยังคงแข็งแกร่งต่อเนื่องในช่วงเปลี่ยนผ่านสู่สถาปัตยกรรม Vera Rubin ของ NVIDIA สัญญาระยะยาว (LTA) ที่ล็อกกำลังผลิตปี 2027–2028 ไว้แล้วกว่า 50% และการที่ HBM4 ขึ้นเป็นสินค้าหลักใน Q4 2026 จะช่วยให้มองเห็นรายได้ชัดเจนกว่าวัฏจักรหน่วยความจำรอบก่อนๆ นอกจากนี้ การที่ทางการเกาหลีใต้ผ่อนคลายเพดานซื้อหุ้นคืนรายวันตั้งแต่ 24 พ.ย. 2026 เปิดโอกาสให้ SK hynix ใช้วงเงินซื้อหุ้นคืนคงเหลือราว KRW 13.4 ล้านล้าน ($9.9 พันล้าน) รวมถึงแผนจ่ายปันผลพิเศษจากกำไรเงินลงทุนใน Kioxia ช่วยพยุงราคาใกล้แนวรับ KRW 984,016",
-               "opportunityCheck":  "คะแนนที่อยู่ในระดับสูงสำหรับสัดส่วนรายได้ AI การเติบโตของตลาด และอำนาจกำหนดราคาในคอขวดยังคงสมเหตุสมผลจากรายได้ Q3 ที่ KRW 104.62 ล้านล้าน อัตรากำไรจากการดำเนินงาน 79.7% การขึ้นแท่นของ HBM4 และสัญญาระยะยาวถึงปี 2028 อย่างไรก็ตาม ควรปรับลดคะแนนด้านสถานะผู้นำตลาดลงเล็กน้อย เนื่องจากบทวิเคราะห์ Bernstein เมื่อ 26 ต.ค. ชี้ว่า Samsung ไล่ตามรายได้ HBM มาติดๆ ในยุค HBM4 ทำให้ความได้เปรียบเปลี่ยนจากผู้นำเดี่ยวเป็นตลาดกึ่งผูกขาดสองราย ในทางกลับกัน คะแนนด้านโอกาสต่อยอด (optionality) ควรปรับขึ้นเล็กน้อยจากการเข้าถือหุ้นทางอ้อม 14.1% ใน Kioxia และการรุกเทคโนโลยี CXL กับ memory pooling",
+               "opportunity":  "ช่องว่างระหว่างราคาหุ้นที่ปรับฐานลง 60.6% จากจุดสูงสุด 2,987,000 KRW กับพื้นฐานที่แข็งแกร่งเป็นประวัติการณ์ถือว่าชัดเจนมาก ด้วยอัตรากำไรจากการดำเนินงานไตรมาส 3 สูงถึง 80% กำลังการผลิต DRAM และ HBM ที่จองเต็มถึงปี 2029 และบทบาทผู้นำ HBM4 บนแพลตฟอร์ม Vera Rubin ของ Nvidia จุดแข็งโครงสร้างพื้นฐาน AI ของบริษัทยังไม่เปลี่ยนแปลง การคลี่คลายปัญหาผู้บริหาร Nvidia เมื่อ 23 พ.ย. รวมถึงการเพิ่มสัดส่วนใน Kioxia เป็น 14.1% และโรดแมปจากงาน SC26 ช่วยหนุนภาพระยะยาว ในทางเทคนิค หากราคายืนเหนือแนวต้าน 1,255,350 KRW ได้บนวอลุ่มที่สูงกว่าค่าเฉลี่ยโดยไม่หลุดแนวรับ 976,008 KRW จะเป็นสัญญาณว่าการเทขายตามความกลัววัฏจักรเริ่มนิ่งขึ้น",
+               "opportunityCheck":  "คะแนนย่อยด้านสัดส่วนรายได้ AI การเติบโตของตลาด และสถานะผู้นำตลาดถือว่าเหมาะสมแล้ว สอดคล้องกับอัตรากำไรจากการดำเนินงาน 80% ในไตรมาส 3 ยอดจอง HBM/DRAM เต็มถึงปี 2029 และส่วนแบ่งหลักใน HBM4 สำหรับ Vera Rubin ของ Nvidia อย่างไรก็ดี คะแนนด้านคอขวดและอำนาจกำหนดราคาควรปรับลดลงเล็กน้อย เพราะรายงาน TrendForce วันที่ 19 พ.ย. ที่คาดราคา NAND ลดลงในไตรมาส 1/2027 ชี้ว่าอำนาจต่อรองราคานอกกลุ่ม HBM ยังไม่สม่ำเสมอ ขณะที่คำสั่งศาลสหรัฐฯ วันที่ 14 พ.ย. เพิ่มแรงกดดันทางกฎหมายต่อวินัยคุมอุปทานของกลุ่มผู้ผลิต ด้านคะแนนโอกาสต่อยอดธุรกิจ (optionality) อาจขยับขึ้นได้เล็กน้อยจากการเพิ่มสัดส่วนใน Kioxia และแนวคิดระบบแร็ค MARS",
                "pros":  [
-                            "รายได้ Q3 2026 แตะ KRW 104.62 ล้านล้าน (+328% YoY) พร้อมกำไรจากการดำเนินงาน KRW 83.33 ล้านล้าน คิดเป็นอัตรากำไร 79.7%",
-                            "เริ่มผลิตและส่งมอบ HBM4 เต็มรูปแบบใน Q3 2026 และผู้บริหารคาดว่าจะแซงสัดส่วน HBM3E ได้ใน Q4 2026",
-                            "สัญญาระยะยาว (LTA) ล็อกกำลังผลิตปี 2027–2028 ไว้แล้วกว่า 50% ช่วยเพิ่มความชัดเจนของรายได้หลายปีข้างหน้า",
-                            "วงเงินซื้อหุ้นคืนคงเหลือราว KRW 13.4 ล้านล้าน ($9.9 พันล้าน) สอดรับการที่เกาหลีใต้ผ่อนคลายเพดานซื้อหุ้นคืนรายวันเริ่ม 24 พ.ย. 2026"
+                            "งบไตรมาส 3/2026 เมื่อ 28 ต.ค. ทำรายได้สูงสุดเป็นประวัติการณ์ 104.62 ล้านล้าน KRW และกำไรจากการดำเนินงาน 83.33 ล้านล้าน KRW (มาร์จิ้น 80%)",
+                            "ผู้บริหารเผยกำลังการผลิต HBM และ DRAM ถูกจองเต็มถึงปี 2029 พร้อมส่วนแบ่ง HBM4 ระยะแรกราว 70% สำหรับแพลตฟอร์ม Vera Rubin ของ Nvidia",
+                            "การที่ Nvidia ดึง Jensen Huang กลับมารับตำแหน่งซีอีโอเมื่อ 23 พ.ย. ช่วยคลายความกังวลด้านลูกค้ารายใหญ่และหนุนหุ้นในเกาหลีใต้ดีดตัว 8.39%",
+                            "บริษัทประกาศจ่ายปันผลไตรมาส 3 ที่ 20,000 KRW ต่อหุ้น (เป็นปันผลพิเศษครึ่งหนึ่ง) และดำเนินการเมื่อ 20 พ.ย. เพื่อเพิ่มสัดส่วนถือหุ้นทางอ้อมใน Kioxia เป็น 14.1%"
                         ],
                "risks":  [
-                             "ส่วนแบ่งตลาด HBM4 อาจถูกบีบลงจากการที่ Samsung Electronics เร่งไล่ตามทั้งเทคโนโลยีและรายได้",
-                             "อัตรากำไรหน่วยความจำเสี่ยงหดตัวตามวัฏจักร หากงบลงทุน CapEx ของอุตสาหกรรมปี 2027 โตเร็วกว่าการสร้างรายได้ AI ของกลุ่ม hyperscaler",
-                             "มาตรการควบคุมการส่งออกชิประหว่างสหรัฐฯ-จีน ที่กระทบการอัปเกรดโรงงานต้าเหลียนและแผนลงทุน NAND ในสหรัฐฯ",
-                             "ความผันผวนของอัตราแลกเปลี่ยน รายการปรับมูลค่าเงินลงทุนนอกการดำเนินงาน และคดีฟ้องร้องผูกขาดราคา DRAM ในสหรัฐฯ"
+                             "คดีฟ้องร้องผูกขาดราคา DRAM ในสหรัฐฯ เข้าสู่กระบวนการไต่สวนหลังคำสั่งศาลวันที่ 14 พ.ย. โดยจำเลยต้องยื่นคำให้การอย่างเป็นทางการภายใน 7 ธ.ค. 2026",
+                             "ความเสี่ยงวัฏจักรขาลงของหน่วยความจำ หลัง TrendForce คาดราคา NAND ไตรมาส 1/2027 จะปรับลง และการขยายกำลังการผลิตของอุตสาหกรรมอาจกดดันมาร์จิ้นปี 2027",
+                             "การพึ่งพิงลูกค้ารายใหญ่อย่าง Nvidia สูง เห็นได้จากความผันผวนรุนแรงของราคาหุ้นตามข่าวผู้บริหาร Nvidia ในเดือนพฤศจิกายน",
+                             "ความเสี่ยงด้านภูมิรัฐศาสตร์และมาตรการคุมส่งออก หลังกระทรวงพาณิชย์สหรัฐฯ เข้มงวดใบอนุญาตนำเข้าเครื่องจักรสำหรับโรงงาน NAND ของบริษัทในต้าเหลียน ประเทศจีน"
                          ],
-               "summary":  "SK hynix (KRX:000660) ประกาศงบ Q3 2026 สูงสุดเป็นประวัติการณ์เมื่อ 28 ต.ค. ด้วยรายได้ KRW 104.62 ล้านล้าน และกำไรจากการดำเนินงาน KRW 83.33 ล้านล้าน (มาร์จิ้น 79.7%) พร้อมเริ่มผลิต HBM4 เต็มรูปแบบ ทว่าราคาหุ้นกลับร่วงลง 63.7% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ KRW 2,987,000 เหลือ KRW 1,083,000 ณ 23 พ.ย. ท่ามกลางความกังวลเรื่องความคุ้มทุน AI มาร์จิ้นที่อาจถึงจุดพีค และแรงขายต่างชาติใน KOSPI ขณะที่รายงาน Bernstein (26 ต.ค.) ชี้ว่า Samsung เร่งแซงรายได้ HBM บวกกับปัญหาใบอนุญาตส่งออกสหรัฐฯ ที่โรงงานต้าเหลียน (3 พ.ย.) ทำให้ต้องจัดสถานะความแข็งแกร่งระยะยาวเป็นเฝ้าระวัง (watch)",
-               "technical":  "ณ วันที่ 23 พ.ย. 2026 หุ้น SK hynix ปิดที่ KRW 1,083,000 (-2.7% ในวันเดียว) อยู่ในแนวโน้มขาลงอย่างชัดเจนจากข้อมูลย้อนหลัง 484 วันทำการ โดยราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA ซึ่งใช้จับแนวโน้มราคา) ทั้งสามเส้นเกิน 22% ได้แก่ EMA 50 ที่ KRW 1,403,220, EMA 200 ที่ KRW 1,418,374 และ EMA 100 ที่ KRW 1,512,307 โดย EMA 50 ตัดลงต่ำกว่า EMA 200 เกิดสัญญาณขาลง \"death cross\" ด้านโมเมนตัมยังอ่อนแรง ค่า MACD (ตัวชี้วัดแรงส่งและแนวโน้ม) อยู่ที่ -96,873 ต่ำกว่าเส้น signal ที่ -93,858 พร้อม histogram ติดลบที่ -3,015 ส่วน RSI 14 (มาตรวัดโมเมนตัมช่วง 0–100 ต่ำกว่า 30 คือเขตขายมากเกินไป) อยู่ที่ 36.41 อ่อนแอแต่ยังไม่เข้าเขต oversold เมื่อเทียบกับ Bollinger Bands (กรอบความผันผวน 20 วัน) ราคาอยู่ต่ำกว่าเส้นกลาง KRW 1,263,500 (แนวต้านแรก) และอยู่เหนือกรอบล่าง KRW 984,016 (แนวรับระยะสั้น) ราว 9.1% โดยอยู่โซนล่างของกรอบ 52 สัปดาห์ที่ KRW 501,000–2,987,000 (-63.7% จากจุดสูงสุด) ปริมาณซื้อขาย 3.11 ล้านหุ้น ต่ำกว่าค่าเฉลี่ย 20 วันที่ 3.84 ล้านหุ้นราว 19% บ่งชี้ว่าแรงเทขายตื่นตระหนกเริ่มเบาลงบ้างในการปรับลงล่าสุด"
+               "summary":  "หุ้น SK hynix ดีดตัว 8.39% มาที่ 1,176,000 KRW ในวันที่ 24 พ.ย. 2026 หลัง Nvidia ดึงซีอีโอ Jensen Huang กลับมาดำรงตำแหน่ง แต่ราคายังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ 2,987,000 KRW ถึง 60.6% และอยู่ในแนวโน้มเทคนิคขาลง ด้านพื้นฐานยังแข็งแกร่งมาก โดยงบไตรมาส 3 เมื่อ 28 ต.ค. ทำรายได้สูงสุดเป็นประวัติการณ์ 104.62 ล้านล้าน KRW อัตรากำไรจากการดำเนินงาน 80% และมีออเดอร์ HBM/DRAM เต็มถึงปี 2029 ทว่าคดีผูกขาด DRAM ในสหรัฐฯ วันที่ 14 พ.ย. คำเตือนราคา NAND ขาลงปี 2027 จาก TrendForce วันที่ 19 พ.ย. และวอลุ่มรีบาวด์ที่เบาบางยังคงกดดันระยะสั้น",
+               "technical":  "แม้ราคาหุ้น SK hynix จะดีดขึ้น 8.39% มาปิดที่ 1,176,000 KRW ในวันที่ 24 พ.ย. 2026 แต่โครงสร้างกราฟยังเป็นขาลง ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA ซึ่งใช้วัดทิศทางแนวโน้ม) ทั้งสามเส้น ได้แก่ EMA 50 ที่ 1,394,385 KRW, EMA 200 ที่ 1,415,982 KRW และ EMA 100 ที่ 1,505,686 KRW โดย EMA 50 ตัดลงต่ำกว่า EMA 200 เกิดสัญญาณ \"death cross\" ยืนยันแรงกดดันขาลง ในกรอบ Bollinger Bands (แถบวัดความผันผวนรอบ 20 วัน) ราคาอยู่โซนครึ่งล่าง ใต้เส้นกลาง 1,255,350 KRW ที่เป็นแนวต้านแรก โดยมีแนวรับแถบล่างแถว 976,008 KRW ราคาที่ต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ (2,987,000 KRW) ถึง 60.6% และอยู่ในโซนล่างของกรอบ 501,000–2,987,000 KRW ทำให้มีแรงขายค้างอยู่ด้านบนมาก ด้านโมเมนตัมเริ่มทรงตัวบ้าง: MACD (ดัชนีวัดโมเมนตัมแนวโน้ม) ยังติดลบหนักที่ -89,815 แต่ขยับเหนือเส้นสัญญาณ -93,024 ดัน histogram พลิกบวกเล็กน้อยที่ +3,208 ขณะที่ RSI 14 (มาตรวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 43.53 ที่สำคัญ ราคาเปิดสูงสุดของวันที่ 1,212,000 KRW แล้วค่อยๆ อ่อนลงบนปริมาณซื้อขายเพียง 2.17 ล้านหุ้น ต่ำกว่าค่าเฉลี่ย 20 วันที่ 3.83 ล้านหุ้นถึง 43% สะท้อนแรงซื้อยังไม่แน่นพอ"
            },
     "sources":  [
                     {
@@ -723,34 +723,34 @@
                         "url":  "https://news.skhynix.com/sk-hynix-announces-3q26-financial-results/"
                     },
                     {
-                        "date":  "2026-10-26",
-                        "publisher":  "The Korea Herald",
-                        "title":  "Samsung may have overtaken SK hynix in HBM revenue, analysis suggests",
-                        "url":  "https://www.koreaherald.com/view.php?ud=20261026050630"
-                    },
-                    {
-                        "date":  "2026-11-03",
-                        "publisher":  "Reuters",
-                        "title":  "SK Hynix\u0027s New York chip plans hit snag over US restrictions on China, sources say",
-                        "url":  "https://www.reuters.com/technology/sk-hynixs-new-york-chip-plans-hit-snag-over-us-restrictions-china-sources-say-2026-11-03/"
-                    },
-                    {
                         "date":  "2026-11-16",
-                        "publisher":  "Reuters",
-                        "title":  "SK Hynix to spend $1 billion over five years to support chip suppliers",
-                        "url":  "https://www.reuters.com/world/asia-pacific/sk-hynix-spend-1-billion-over-five-years-support-chip-suppliers-2026-11-16/"
+                        "publisher":  "TrendForce",
+                        "title":  "[News] U.S. Judge Rejects Samsung, SK hynix, Micron’s DRAM Price-Fixing Dismissal Bid, Citing Plausible Collusion",
+                        "url":  "https://www.trendforce.com/news/2026/11/16/news-u-s-judge-rejects-samsung-sk-hynix-microns-dram-price-fixing-dismissal-bid-citing-plausible-collusion/"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "TrendForce",
+                        "title":  "NAND Flash Prices Set to Decline in 2027 as Chinese CSP Order Cuts Outweigh North American Demand Growth, Says TrendForce",
+                        "url":  "https://www.trendforce.com/presscenter/news/20261119-13619.html"
                     },
                     {
                         "date":  "2026-11-20",
                         "publisher":  "Korea JoongAng Daily",
-                        "title":  "SK hynix to convert Kioxia bonds to become Japanese NAND firm\u0027s largest indirect shareholder",
-                        "url":  "https://koreajoongangdaily.joins.com/news/2026-11-20/business/industry/SK-hynix-to-convert-Kioxia-bonds-to-become-Japanese-NAND-firms-largest-indirect-shareholder/21965706"
+                        "title":  "SK hynix to convert Kioxia bonds to become Japanese NAND firm’s largest indirect shareholder",
+                        "url":  "https://www.koreajoongangdaily.com/economy/tech/2026-11-20/sk-hynix-to-convert-kioxia-bonds-to-become-japanese-nand-firms-largest-indirect-shareholder/12965706"
                     },
                     {
-                        "date":  "",
+                        "date":  "2026-11-20",
                         "publisher":  "SK hynix Newsroom",
-                        "title":  "“Building the Future AI Ecosystem Around Memory”: SK hynix Presents Its Technology Vision at Supercomputing 2026",
+                        "title":  "Building the Future AI Ecosystem Around Memory: SK hynix Presents Its Technology Vision at Supercomputing 2026",
                         "url":  "https://news.skhynix.com/building-the-future-ai-ecosystem-around-memory-sk-hynix-presents-its-technology-vision-at-supercomputing-2026/"
+                    },
+                    {
+                        "date":  "2026-11-24",
+                        "publisher":  "Korea JoongAng Daily",
+                        "title":  "SK hynix ADRs soar on Huang\u0027s return",
+                        "url":  "https://koreajoongangdaily.joins.com/news/2026-11-24/business/industry/SK-hynix-ADRs-soar-on-Huangs-return/12821060"
                     }
                 ]
 }

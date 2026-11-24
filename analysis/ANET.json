@@ -2,46 +2,45 @@
     "ticker":  "ANET",
     "name":  "Arista Networks",
     "symbol":  "NYSE:ANET",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:03:53Z",
-    "costUsd":  0.7322027999999999,
-    "stance":  "bearish",
+    "generatedAt":  "2026-11-24T03:56:19Z",
+    "costUsd":  null,
+    "stance":  "neutral",
     "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NYSE:ANET",
                        "yahoo":  "ANET",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:00:50Z",
-                       "price":  167.62,
-                       "open":  185.09,
-                       "high":  185.82,
-                       "low":  165.41,
-                       "volume":  13831800,
-                       "avgVolume20":  9115910,
-                       "changePct":  -11.59,
-                       "ema50":  187.49,
-                       "ema100":  184.06,
-                       "ema200":  171.67,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:52:05Z",
+                       "price":  178.31,
+                       "open":  186.23,
+                       "high":  187.48,
+                       "low":  177.01,
+                       "volume":  9791000,
+                       "avgVolume20":  9393770,
+                       "changePct":  6.38,
+                       "historyDays":  500,
+                       "ema50":  187.13,
+                       "ema100":  183.95,
+                       "ema200":  171.72,
                        "bb":  {
-                                  "upper":  206.25,
-                                  "middle":  182.15,
-                                  "lower":  158.04
+                                  "upper":  206.27,
+                                  "middle":  182.2,
+                                  "lower":  158.13
                               },
                        "macd":  {
-                                    "macd":  -0.92,
-                                    "signal":  -1.19,
-                                    "hist":  0.26
+                                    "macd":  -1.38,
+                                    "signal":  -1.22,
+                                    "hist":  -0.16
                                 },
-                       "rsi14":  41.47,
+                       "rsi14":  46.77,
                        "high52w":  217.41,
                        "low52w":  114.52,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         174.37
-                                     ],
                                      [
                                          "2026-06-04",
                                          166.01
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          167.62
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         178.31
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          152,
                                           152.55,
                                           152.62,
                                           152.77,
@@ -639,95 +641,114 @@
                                           188.02,
                                           188.25,
                                           188.31,
-                                          187.49
+                                          187.49,
+                                          187.13
                                       ]
                    },
     "en":  {
-               "headline":  "Strong Q3 overshadowed as AI sell-off drags ANET below its 200-day EMA",
-               "technical":  "On 20 Nov 2026 ANET opened near $185.09 and closed at $167.62 (−11.59%) on 13.83M shares, about 1.5× its 20-day average of 9.12M. That much volume means the selling was real. Trend: price is now below all three EMAs (exponential moving averages, which are smoothed trend lines): EMA50 $187.49, EMA100 $184.06 and EMA200 $171.67. The EMAs are still in bullish order (50 \u003e 100 \u003e 200), so the longer uptrend is bent but not broken. Still, closing below the EMA200 is a clear warning. Momentum: MACD (a trend-momentum gauge) is −0.92, slightly above its signal line at −1.19, with a small positive histogram of +0.26. Momentum was flat before the drop and has not yet turned clearly negative. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 41.47: weak but not oversold. Price sits in the bottom fifth of the Bollinger Bands (a 20-day volatility band: lower $158.04, middle $182.15, upper $206.25). It is 22.9% below the 52-week high of $217.41 and about halfway between that high and the $114.52 low. Nearby support is around $158. Resistance is first at $171.67, then the $182–187 zone.",
-               "fundamental":  "Arista sells high-speed switches, but its real edge is EOS, the software that runs AI and cloud data-center networks. Q3 2026, reported on 3 Nov, was its fastest growth since its IPO. Revenue was $3.66B, up 58.5% year on year and about 10% above its own $3.3B guidance. Non-GAAP gross margin was 64.0% and operating margin 49.1%. Q4 guidance is $3.9–4.0B, with non-GAAP EPS of $1.26–1.30. Management raised its 2026 revenue forecast to about $13.3B (+48%). It also gave a first 2027 view of about $18.5B (+38–40%), with AI-fabric revenue roughly doubling to about $7B, and said it has more than 100 Etherlink customers. Gross margin is guided at 62–64% while revenue scales, which suggests EOS still commands software-like pricing. That pricing power is the core of the moat. Watch points: inventory rose to $3.2B and purchase commitments to $11.4B as Arista locks in memory and optics supply.",
-               "news":  [
-                            "3 Nov 2026: Q3 revenue was $3.66B (+58.5% YoY), with non-GAAP EPS of $1.20, gross margin of 64.0% and operating margin of 49.1%. Q4 guidance is $3.9–4.0B revenue and EPS of $1.26–1.30.",
-                            "On the Q3 call, management raised its 2026 revenue forecast to about $13.3B (+48%) and gave an initial 2027 outlook of about $18.5B (+38–40%), with AI fabrics expected to reach about $7B. It also flagged supply constraints and rising memory costs, and purchase commitments grew to $11.4B.",
-                            "Also in the Q3 release, Arista announced open, standards-based rack-scale AI networking designs with AMD, Arm, Broadcom, Meta, Microsoft and Qualcomm. Its Etherlink SU-144 design connects up to 144 accelerators per rack in a single hop.",
-                            "Analysts stayed positive after the results. JPMorgan raised its target to $270 from $250 on 4 Nov, and Evercore ISI kept an Outperform rating with a $250 target on 19 Nov. MarketBeat\u0027s consensus target across 25 firms was about $240 as of 19 Nov.",
-                            "20 Nov 2026: ANET fell 11.59% in a broad AI sell-off. The Nasdaq dropped 5.28%, Nvidia fell 14.01%, and the S\u0026P 500 entered correction territory. The sources reviewed named no Arista-specific news; the backdrop included Nvidia\u0027s CEO change (reported by AP on 17 Nov) and Anthropic\u0027s weak second trading day."
+               "caution":  "The November 20 single-day drop of 11.6% highlights how quickly sentiment can swing when investors question hyperscaler AI spending returns or interest-rate paths—even weeks after a record earnings beat. Technically, fading from $187.48 back to $178.31 on November 23 shows resistance around EMA 100 ($183.95) and EMA 50 ($187.13) has not cleared. Meanwhile, deferred revenue ticked slightly lower to $6.8 billion from $6.9 billion, gross margin is guided at 62%–64%, and competition from Nvidia\u0027s bundled Spectrum-X plus white-box switches requires close monitoring.",
+               "cons":  [
+                            "Shares remain 18.0% below their $217.41 52-week high after plunging 11.6% on November 20, showing high sensitivity to AI capex sentiment and rate jitters.",
+                            "Price at $178.31 sits below EMA 50 ($187.13) and EMA 100 ($183.95) with negative MACD (-1.38), confirming short-term technical resistance overhead.",
+                            "Gross margin eased to 64.0% in Q3 2026 (from 65.2% a year earlier) and is guided at 62%–64% for Q4 as hardware mix grows.",
+                            "Heavy reliance on hyperscale cloud buyers (such as Meta and Microsoft) and intense competition from Nvidia\u0027s Spectrum-X and Broadcom-based white-box switches threaten pricing power."
                         ],
-               "caution":  "The 20 Nov drop was a market-wide event, but it exposes real risks. ANET trades at a premium, around 50× earnings according to TradingKey, so any sign of cloud companies cutting spending can shrink that multiple quickly. Microsoft and Meta reportedly make up about 42% of revenue. The $11.4B in purchase commitments, plus rising memory costs, could squeeze margins if demand cools. Nvidia\u0027s Spectrum-X Ethernet competes directly with Arista. On the chart, a close below the $158 lower Bollinger Band would point to further weakness, and the wider market correction may not be over.",
-               "opportunity":  "Nothing in the business broke on 20 Nov. There was no guidance cut and no customer loss, and analysts still held positive views as late as 19 Nov (Evercore, Outperform). Management has already guided 2027 to about $18.5B, with AI-fabric revenue roughly doubling. Arista also has growing open-Ethernet partnerships with AMD, Broadcom, Meta and Microsoft. For long-term holders, a market-driven drop in a company with 49% operating margins can be a time to review the position against the thesis. Watch whether price can climb back above $171.67 (EMA200).",
+               "fundamental":  "Arista\u0027s fundamentals accelerated sharply in Q3 2026 (reported November 3), validating its role as the leading open-Ethernet networking partner for AI data centers. Revenue climbed 58.5% YoY and 20.5% sequentially to $3.66 billion, beating $3.3 billion guidance, while non-GAAP EPS hit $1.20 (GAAP $1.22) on a 49.1% non-GAAP operating margin and 64.0% gross margin. Management guided Q4 2026 revenue to $3.9–$4.0 billion, lifted full-year 2026 sales to ~$13.3 billion, and unveiled an initial FY2027 outlook of ~$18.5 billion (+38%–40%), fueled by AI fabrics doubling to ~$7 billion across 100+ Etherlink customers and 10+ gigawatts of planned multi-accelerator deployments. Inventory rose to $3.2 billion and purchase commitments to $11.4 billion alongside $14.4 billion in cash and zero debt, underscoring visibility while keeping EOS software integration central to its moat.",
+               "headline":  "Record Q3 AI growth meets sector sell-off; technicals pause below key EMAs",
+               "news":  [
+                            "November 3, 2026 — Q3 2026 Earnings Beat \u0026 FY2027 Outlook: Revenue surged 58.5% YoY to $3.66 billion with non-GAAP EPS of $1.20, while Q4 revenue guidance reached $3.9–$4.0 billion. Management also projected ~$18.5 billion in FY2027 revenue, including AI networking doubling to ~$7 billion.",
+                            "November 4 \u0026 20, 2026 — Wall Street Target Revisions: Following Q3 results, UBS raised its price target to $291, JPMorgan to $270, Piper Sandler to $261, and Morningstar lifted its fair value estimate to $270, while Goldman Sachs raised its target to $240 on November 20. Barclays ($236) and Wells Fargo ($245) trimmed targets slightly on valuation multiples while keeping Overweight ratings.",
+                            "November 17, 2026 — Etherlink R4 Launch for Distributed AI Inferencing: Arista unveiled 5nm R4 routing platforms (7020R4, 7020HR4, 7282R4, 7280R4) and a 25.6 Tbps pluggable optical line system running EOS with up to 60% lower power draw. The lineup targets low-latency agentic AI and geographically distributed inference workloads.",
+                            "November 20, 2026 — Sector-Wide Tech Sell-Off: ANET slid roughly 11.6% in a broad AI and networking hardware rout triggered by hyperscaler capex ROI scrutiny, macro rate caution, and post-IPO AI valuation jitters, with no adverse company-specific news. Shares partially rebounded 6.38% on November 23.",
+                            "October 7, 2026 — Open Rack-Scale AI Fabrics: Arista introduced open standards-based rack-scale architectures (including Etherlink SU-144) built on Ethernet for Scale-Up Networks (ESUN) alongside Meta, Microsoft, AMD, Arm, Broadcom, d-Matrix, and Qualcomm. The initiative extends Arista\u0027s EOS ecosystem into high-density scale-up clusters."
+                        ],
+               "opportunity":  "Because the late-November pullback was macro-driven rather than fundamental, the gap between ANET\u0027s share price ($178.31, 18.0% off its $217.41 high) and its accelerating business trajectory stands out. Arista\u0027s ~$18.5 billion FY2027 revenue outlook and 10+ gigawatt multi-accelerator deployment roadmap point to multi-year demand beyond a single chip vendor. Expanding EOS into scale-up racks (ESUN/SU-144) and edge distributed inference (Etherlink R4) strengthens customer stickiness, while EMA 200 at $171.72 offers a clearly defined long-term technical reference level for patient investors watching stabilization.",
+               "opportunityCheck":  "The page\u0027s overall AI-opportunity profile looks mostly sensible, especially keeping bottleneck and pricing power as the lowest dimension because Arista relies on merchant silicon and faces Nvidia Spectrum-X and white-box alternatives. High marks for AI exposure, market growth, and competitive position are well supported by Q3\u0027s 58.5% growth and FY2027\u0027s projected $7 billion AI fabric revenue. However, I would raise the optionality score: the October 7 open Ethernet scale-up rack architecture and November 17 Etherlink R4 distributed-inferencing launch meaningfully expand Arista\u0027s reach beyond centralized AI training clusters into rack-level fabrics and edge inference.",
+               "pros":  [
+                            "Q3 2026 revenue jumped 58.5% YoY to $3.66 billion on November 3—Arista\u0027s fastest post-IPO growth—with non-GAAP EPS of $1.20 and a 49.1% operating margin.",
+                            "Management lifted FY2026 revenue guidance to ~$13.3 billion and projected ~$18.5 billion in FY2027, with AI network fabrics doubling to ~$7 billion across 100+ Etherlink customers.",
+                            "New EOS-powered launches—Etherlink SU-144 scale-up rack architectures (October 7) and 5nm Etherlink R4 distributed-inference routers (November 17)—expand Arista\u0027s addressable AI market beyond core training clusters.",
+                            "A debt-free balance sheet holding $14.4 billion in cash and marketable securities plus $11.4 billion in purchase commitments supports rapid supply-chain scaling."
+                        ],
                "risks":  [
-                             "Cloud-company spending pauses or cuts (Microsoft and Meta reportedly ~42% of revenue)",
-                             "Valuation shrinking further if the AI market correction continues",
-                             "Competition from Nvidia\u0027s Spectrum-X Ethernet in AI networks",
-                             "$11.4B in purchase commitments and rising memory costs squeezing margins",
-                             "A close below the $158 lower Bollinger Band pointing to a deeper pullback"
+                             "Customer concentration \u0026 capex digestion: A pause or shift in AI data-center spending by top hyperscalers like Meta or Microsoft would directly slow growth.",
+                             "Competitive pressure from Nvidia \u0026 white-box switches: Bundled Nvidia Spectrum-X/InfiniBand fabrics and lower-cost Broadcom-based white-box hardware could cap market share or compress margins.",
+                             "Hardware mix \u0026 supply-chain costs: Rising hardware share (gross margin guided 62%–64%), $11.4 billion in purchase commitments, and potential tariffs or U.S. AI export rules create execution risk.",
+                             "Valuation \u0026 volatility: After a strong 2026 rally, elevated multiples leave ANET vulnerable to sharp macro-driven drawdowns if interest rates stay restrictive."
                          ],
-               "summary":  "ANET fell 11.59% to $167.62 on 20 Nov 2026 in a broad AI sell-off (Nasdaq −5.28%, Nvidia −14%), with no Arista-specific news behind it. The chart has turned weak: price is below all three EMAs on 1.5× normal volume and RSI is 41.47. However, the EMAs are still in bullish order and MACD has not yet turned down. The business looks strong: Q3 revenue rose 58.5%, Q4 guidance is $3.9–4.0B, and the 2027 outlook is about $18.5B. The EOS software moat is intact. The near-term risk is valuation and sentiment about AI spending, not Arista\u0027s execution. Support is near $158; resistance is at $171.67, then $182–187."
+               "summary":  "Arista Networks (ANET) closed at $178.31 on November 23, 2026, rebounding 6.38% after an 11.6% sector-wide tech sell-off on November 20 despite no negative company news. Fundamentals remain strong: Q3 2026 revenue surged 58.5% year-over-year to $3.66 billion on November 3, and management projected FY2027 revenue near $18.5 billion with AI fabrics doubling to $7 billion. Technically, the stock is in a neutral pullback—holding above its 200-day moving average ($171.72) but capped below its 50- and 100-day averages ($187.13 and $183.95). The long-term EOS software moat remains intact.",
+               "technical":  "As of November 23, 2026, ANET trades at $178.31 (+6.38%), putting its technical posture at neutral within a broader uptrend. The Exponential Moving Averages (EMAs—weighted trend averages) remain bullishly ordered, with EMA 50 ($187.13) above EMA 100 ($183.95) and EMA 200 ($171.72), but price sits below both shorter averages while holding 3.8% above EMA 200 support. Notably, on November 23 shares opened at $186.23 and touched $187.48—stalling right at EMA 50—before fading near the $177.01 session low, signaling overhead supply. Momentum is soft: MACD (12/26/9—a trend-momentum gauge comparing fast and slow averages) sits at -1.38 below its -1.22 signal line (histogram -0.16), while RSI 14 (a 0–100 momentum scale; under 30 is oversold, over 70 overbought) sits neutral at 46.77. Price lies in the lower half of its Bollinger Bands (20/2—a volatility envelope around the 20-day average) below the $182.20 midline (upper $206.27, lower $158.13), and at the 62nd percentile of its $114.52–$217.41 52-week range. Volume of 9.79 million was 4.2% above the 9.39 million 20-day average—active rebound participation, though not yet a decisive breakout above $183.95–$187.13 resistance."
            },
     "th":  {
-               "headline":  "งบ Q3 แกร่ง แต่แรงเทขายหุ้น AI ฉุด ANET หลุด EMA200",
-               "technical":  "วันที่ 20 พ.ย. 2026 ANET เปิดราว $185.09 ก่อนร่วงไปปิดที่ $167.62 (−11.59%) วอลุ่ม 13.83 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (9.12 ล้านหุ้น) ราว 1.5 เท่า แปลว่าแรงขายรอบนี้มีน้ำหนักจริง ด้านแนวโน้ม ราคาหลุดลงไปอยู่ใต้ EMA ทั้งสามเส้น (เส้นค่าเฉลี่ยเคลื่อนที่ ใช้ดูทิศทางราคา) คือ EMA50 $187.49, EMA100 $184.06 และ EMA200 $171.67 แม้เส้นยังเรียงตัวแบบขาขึ้น (50 \u003e 100 \u003e 200) แต่การปิดใต้ EMA200 ถือเป็นสัญญาณเตือนที่ชัดเจน ด้านโมเมนตัม MACD (ตัววัดแรงส่งของเทรนด์) อยู่ที่ −0.92 ยังสูงกว่าเส้น signal ที่ −1.19 เล็กน้อย และ histogram เป็นบวก +0.26 แปลว่าโมเมนตัมยังไม่พลิกเป็นขาลงชัดเจน RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 41.47 อ่อนแรงแต่ยังไม่ oversold ราคาอยู่ช่วงล่างสุดราว 20% ของ Bollinger Bands (กรอบความผันผวน 20 วัน: ล่าง $158.04 กลาง $182.15 บน $206.25) และต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ $217.41 อยู่ 22.9% โดยยืนอยู่ราวกึ่งกลางระหว่างจุดสูงสุดกับจุดต่ำสุด $114.52 แนวรับใกล้อยู่แถว $158 ส่วนแนวต้านแรกคือ $171.67 ถัดไปคือโซน $182–187",
-               "fundamental":  "Arista ขายสวิตช์ความเร็วสูง แต่จุดแข็งจริงคือ EOS ซอฟต์แวร์ที่ใช้ควบคุมเครือข่ายดาต้าเซ็นเตอร์ AI และคลาวด์ งบ Q3 2026 ที่ประกาศเมื่อ 3 พ.ย. เติบโตเร็วที่สุดนับตั้งแต่ IPO รายได้ $3.66B เพิ่มขึ้น 58.5% YoY และสูงกว่าเป้าของบริษัทเอง ($3.3B) ราว 10% gross margin แบบ non-GAAP อยู่ที่ 64.0% และ operating margin 49.1% เป้า Q4 คือรายได้ $3.9–4.0B และ EPS non-GAAP $1.26–1.30 ผู้บริหารปรับเป้ารายได้ปี 2026 ขึ้นเป็นราว $13.3B (+48%) และให้ภาพปี 2027 เป็นครั้งแรกที่ราว $18.5B (+38–40%) โดยคาดว่ารายได้ AI fabric จะเพิ่มเกือบเท่าตัวเป็นราว $7B และมีลูกค้า Etherlink แล้วกว่า 100 ราย การคง margin ไว้ที่ 62–64% ได้ทั้งที่ธุรกิจโตเร็ว สะท้อนว่า EOS ยังตั้งราคาได้แบบธุรกิจซอฟต์แวร์ ซึ่งอำนาจตั้งราคานี้คือแก่นของ moat จุดที่ต้องจับตาคือสินค้าคงคลังเพิ่มเป็น $3.2B และภาระสั่งซื้อล่วงหน้าเพิ่มเป็น $11.4B เพื่อล็อกซัพพลายหน่วยความจำและออปติก",
-               "news":  [
-                            "3 พ.ย. 2026: รายได้ Q3 อยู่ที่ $3.66B (+58.5% YoY) EPS non-GAAP $1.20 gross margin 64.0% และ operating margin 49.1% เป้า Q4 คือรายได้ $3.9–4.0B และ EPS $1.26–1.30",
-                            "ใน conference call ของ Q3 ผู้บริหารปรับเป้ารายได้ปี 2026 ขึ้นเป็นราว $13.3B (+48%) และให้ภาพปี 2027 ครั้งแรกที่ราว $18.5B (+38–40%) โดยคาด AI fabric อยู่ที่ราว $7B พร้อมเตือนเรื่องซัพพลายตึงตัวและต้นทุนหน่วยความจำที่สูงขึ้น ส่วนภาระสั่งซื้อล่วงหน้าเพิ่มเป็น $11.4B",
-                            "ในประกาศงบ Q3 เดียวกัน Arista เปิดตัวสถาปัตยกรรมเครือข่าย AI ระดับแร็กแบบเปิดตามมาตรฐาน ร่วมกับ AMD, Arm, Broadcom, Meta, Microsoft และ Qualcomm โดย Etherlink SU-144 เชื่อมตัวเร่งประมวลผลได้สูงสุด 144 ตัวต่อแร็กในระยะ hop เดียว",
-                            "นักวิเคราะห์ยังมองบวกหลังประกาศงบ JPMorgan ปรับราคาเป้าหมายจาก $250 เป็น $270 เมื่อ 4 พ.ย. และ Evercore ISI คงคำแนะนำ Outperform พร้อมเป้า $250 เมื่อ 19 พ.ย. ส่วนราคาเป้าหมายเฉลี่ยจาก 25 สำนักที่ MarketBeat รวบรวม ณ 19 พ.ย. อยู่ราว $240",
-                            "20 พ.ย. 2026: ANET ร่วง 11.59% ท่ามกลางแรงเทขายหุ้น AI ทั้งตลาด Nasdaq ลบ 5.28% Nvidia ลบ 14.01% และ S\u0026P 500 เข้าสู่ภาวะ correction แหล่งข่าวที่ตรวจสอบไม่ได้ระบุข่าวเฉพาะของ Arista ส่วนบรรยากาศตลาดมีทั้งการเปลี่ยน CEO ของ Nvidia (AP รายงานเมื่อ 17 พ.ย.) และหุ้น Anthropic ที่ร่วงในวันเทรดที่สอง"
+               "caution":  "การร่วงแรง 11.6% ในวันเดียวเมื่อ 20 พ.ย. 2026 สะท้อนว่าบรรยากาศตลาดเปลี่ยนทิศได้เร็วเมื่อนักลงทุนตั้งคำถามต่อความคุ้มค่าของงบลงทุน AI และทิศทางดอกเบี้ย แม้เพิ่งประกาศงบสูงสุดเป็นประวัติการณ์ไม่กี่สัปดาห์ก่อน ด้านเทคนิคการอ่อนตัวจาก $187.48 ลงมาปิด $178.31 เมื่อ 23 พ.ย. ชี้ว่าแนวต้านบริเวณ EMA 100 ($183.95) และ EMA 50 ($187.13) ยังไม่ถูกผ่าน ขณะที่ Deferred Revenue ขยับลดเล็กน้อยจาก $6.9 พันล้านเหลือ $6.8 พันล้าน อัตรากำไรขั้นต้นคาดการณ์ไว้ที่ 62%–64% และการแข่งขันจาก Nvidia Spectrum-X กับสวิตช์แบบ white-box ยังต้องติดตามใกล้ชิด",
+               "cons":  [
+                            "ราคาหุ้นยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($217.41) อยู่ 18.0% หลังร่วง 11.6% เมื่อ 20 พ.ย. สะท้อนความอ่อนไหวสูงต่อกระแสกังวลเรื่องงบลงทุน AI และดอกเบี้ย",
+                            "ราคาปิด $178.31 อยู่ต่ำกว่า EMA 50 ($187.13) และ EMA 100 ($183.95) พร้อม MACD ติดลบที่ -1.38 ยืนยันแรงต้านระยะสั้นด้านบน",
+                            "อัตรากำไรขั้นต้นไตรมาส 3 ปี 2026 ชะลอลงมาอยู่ที่ 64.0% (จาก 65.2% ปีก่อน) และคาดการณ์ไตรมาส 4 อยู่ที่ 62%–64% ตามสัดส่วนยอดขายฮาร์ดแวร์ที่เพิ่มขึ้น",
+                            "การพึ่งพาลูกค้า Hyperscaler รายใหญ่อย่าง Meta และ Microsoft รวมถึงการแข่งขันเข้มข้นจาก Nvidia Spectrum-X และสวิตช์ white-box ที่ใช้ชิป Broadcom อาจกดดันอำนาจตั้งราคา"
                         ],
-               "caution":  "การร่วงเมื่อ 20 พ.ย. มาจากภาวะตลาดโดยรวม แต่ก็สะท้อนความเสี่ยงจริงหลายข้อ ANET ซื้อขายที่ระดับ valuation สูง ราว 50 เท่าของกำไรตามข้อมูลจาก TradingKey ถ้ามีสัญญาณว่าบริษัทคลาวด์ลดการลงทุน multiple อาจหดตัวลงเร็ว มีรายงานว่า Microsoft กับ Meta รวมกันคิดเป็นราว 42% ของรายได้ ภาระสั่งซื้อล่วงหน้า $11.4B บวกต้นทุนหน่วยความจำที่สูงขึ้นอาจกด margin ถ้าดีมานด์ชะลอ และ Spectrum-X Ethernet ของ Nvidia เป็นคู่แข่งโดยตรง ทางเทคนิค หากปิดต่ำกว่า $158 (เส้นล่างของ Bollinger Bands) อาจเปิดทางให้ราคาอ่อนตัวต่อ และการปรับฐานของตลาดก็อาจยังไม่จบ",
-               "opportunity":  "ธุรกิจของ Arista ไม่ได้มีอะไรเสียหายในวันที่ 20 พ.ย. ไม่มีการลดเป้า ไม่มีการเสียลูกค้า และนักวิเคราะห์ยังมองบวกจนถึง 19 พ.ย. (Evercore คง Outperform) ผู้บริหารให้ภาพปี 2027 ไว้แล้วที่ราว $18.5B โดยรายได้ AI fabric จะโตเกือบเท่าตัว และยังขยายพันธมิตร Ethernet แบบเปิดกับ AMD, Broadcom, Meta และ Microsoft สำหรับนักลงทุนระยะยาว การร่วงเพราะตลาดในบริษัทที่มี operating margin 49% อาจเป็นจังหวะทบทวนสถานะการลงทุนเทียบกับ thesis เดิม โดยติดตามว่าราคาจะกลับขึ้นไปยืนเหนือ $171.67 (EMA200) ได้หรือไม่",
+               "fundamental":  "พื้นฐานของ Arista เร่งตัวชัดเจนในงบไตรมาส 3 ปี 2026 (ประกาศ 3 พ.ย.) ตอกย้ำบทบาทผู้นำเครือข่าย Ethernet แบบเปิดสำหรับศูนย์ข้อมูล AI รายได้โต 58.5% YoY และ 20.5% QoQ สู่ $3.66 พันล้าน สูงกว่าคาดการณ์เดิมที่ $3.3 พันล้าน ขณะที่ Non-GAAP EPS อยู่ที่ $1.20 (GAAP $1.22) ด้วยอัตรากำไรจากการดำเนินงาน Non-GAAP สูงถึง 49.1% และอัตรากำไรขั้นต้น 64.0% ผู้บริหารคาดรายได้ไตรมาส 4 ที่ $3.9–$4.0 พันล้าน ปรับเพิ่มเป้ารายได้ทั้งปี 2026 สู่ราว $13.3 พันล้าน และให้ภาพรวมปี 2027 เบื้องต้นที่ราว $18.5 พันล้าน (โต 38%–40%) หนุนจากรายได้ AI Fabrics ที่คาดเพิ่มเป็นเท่าตัวสู่ ~$7 พันล้าน ผ่านฐานลูกค้า Etherlink กว่า 100 ราย และแผนรองรับการติดตั้งโครงสร้าง AI กว่า 10 กิกะวัตต์บนชิปเร่งความเร็วหลากหลายค่าย ด้านงบดุลมีสินค้าคงคลัง $3.2 พันล้าน และภาระสั่งซื้อชิ้นส่วน $11.4 พันล้าน ควบคู่เงินสด $14.4 พันล้านโดยไม่มีหนี้สิน สะท้อนความชัดเจนของอุปสงค์โดยมีซอฟต์แวร์ EOS เป็นแกนหลักของคูเมืองธุรกิจ",
+               "headline":  "งบ AI ไตรมาส 3 โตสูงสุดเป็นประวัติการณ์ แต่แรงขายทั้งกลุ่มกดกราฟพักตัวใต้ EMA ระยะกลาง",
+               "news":  [
+                            "3 พ.ย. 2026 — งบไตรมาส 3 ปี 2026 ดีกว่าคาดพร้อมมุมมองปี 2027 แข็งแกร่ง: รายได้พุ่ง 58.5% YoY แตะ $3.66 พันล้าน Non-GAAP EPS อยู่ที่ $1.20 และคาดรายได้ไตรมาส 4 ที่ $3.9–$4.0 พันล้าน พร้อมประเมินรายได้ปี 2027 ราว $18.5 พันล้าน โดยกลุ่มเครือข่าย AI คาดโตเท่าตัวเป็น ~$7 พันล้าน",
+                            "4 และ 20 พ.ย. 2026 — นักวิเคราะห์วอลล์สตรีทปรับมุมมองหลังงบ: UBS ปรับราคาเป้าหมายขึ้นเป็น $291, JPMorgan เป็น $270, Piper Sandler เป็น $261 และ Morningstar ปรับมูลค่าเหมาะสมขึ้นเป็น $270 ขณะที่ Goldman Sachs ปรับเป้าเป็น $240 เมื่อ 20 พ.ย. ส่วน Barclays ($236) และ Wells Fargo ($245) ปรับเป้าลงเล็กน้อยตามระดับ Valuation แต่ยังคงคำแนะนำ Overweight",
+                            "17 พ.ย. 2026 — เปิดตัว Etherlink R4 สำหรับ Distributed AI Inferencing: Arista เปิดตัวเราเตอร์ตระกูล R4 สถาปัตยกรรม 5nm (7020R4, 7020HR4, 7282R4, 7280R4) และระบบส่งสัญญาณแสงแบบเสียบขนาด 25.6 Tbps ที่รันบน EOS ลดการใช้พลังงานลงสูงสุด 60% เพื่อรองรับ Agentic AI และการประมวลผล Inference แบบกระจายตัวที่มีความหน่วงต่ำ",
+                            "20 พ.ย. 2026 — แรงเทขายหุ้นเทคและโครงสร้างพื้นฐาน AI ทั้งกลุ่ม: ANET ร่วงราว 11.6% ท่ามกลางแรงขายกลุ่มฮาร์ดแวร์เครือข่ายและ AI จากความกังวลต่อผลตอบแทนงบลงทุนของ Hyperscaler ท่าทีระมัดระวังเรื่องดอกเบี้ย และความผันผวนของมูลค่าหุ้น AI หลัง IPO โดยไม่มีข่าวลบเฉพาะตัวบริษัท ก่อนฟื้นตัว 6.38% ในวันที่ 23 พ.ย.",
+                            "7 ต.ค. 2026 — เปิดตัวสถาปัตยกรรม Rack-Scale AI Fabrics แบบเปิด: Arista ประกาศกลุ่มผลิตภัณฑ์ Etherlink SU-144 บนมาตรฐานเปิด Ethernet for Scale-Up Networks (ESUN) ร่วมกับ Meta, Microsoft, AMD, Arm, Broadcom, d-Matrix และ Qualcomm เพื่อขยายระบบนิเวศ EOS สู่การเชื่อมต่อระดับแร็กความหนาแน่นสูง"
+                        ],
+               "opportunity":  "เนื่องจากแรงขายปลายเดือนพฤศจิกายนเกิดจากปัจจัยมหภาคและบรรยากาศตลาดมากกว่าพื้นฐานบริษัท ช่องว่างระหว่างราคาหุ้นที่ $178.31 (ต่ำกว่าจุดสูงสุด $217.41 อยู่ 18.0%) กับทิศทางธุรกิจที่ยังเร่งตัวจึงน่าสนใจ เป้ารายได้ปี 2027 ราว $18.5 พันล้านและแผนรองรับกำลังไฟฟ้า AI กว่า 10 กิกะวัตต์บนชิปหลายค่ายสะท้อนอุปสงค์ระยะยาวที่ไม่ผูกติดผู้ผลิตชิปรายเดียว การขยายระบบ EOS สู่ระดับแร็ก (ESUN/SU-144) และการประมวลผล Inference ที่ปลายทาง (Etherlink R4) ยิ่งเพิ่มความเหนียวแน่นของลูกค้า โดยมี EMA 200 ที่ $171.72 เป็นแนวรับอ้างอิงระยะยาวที่ชัดเจนสำหรับการติดตามการตั้งฐานราคา",
+               "opportunityCheck":  "โครงสร้างคะแนนโอกาส AI บนหน้านี้โดยรวมถือว่าสมเหตุสมผล โดยเฉพาะการให้คะแนนด้านคอขวดและอำนาจตั้งราคาต่ำที่สุด เพราะ Arista ต้องพึ่งพาชิปจากผู้ผลิตภายนอกและเผชิญการแข่งขันจาก Nvidia Spectrum-X รวมถึงสวิตช์ white-box ส่วนคะแนนสูงในด้านสัดส่วนรายได้ AI การเติบโตของตลาด และตำแหน่งการแข่งขันสอดคล้องกับยอดขายไตรมาส 3 ที่โต 58.5% และคาดการณ์รายได้ AI Fabrics ปี 2027 ที่ ~$7 พันล้าน อย่างไรก็ตาม ผมจะปรับคะแนนด้านทางเลือกต่อยอด (Optionality) เพิ่มขึ้น เนื่องจากการเปิดตัวสถาปัตยกรรม Scale-Up ระดับแร็กเมื่อ 7 ต.ค. และเราเตอร์ Etherlink R4 สำหรับ Distributed Inferencing เมื่อ 17 พ.ย. ช่วยขยายตลาดออกไปไกลกว่าคลัสเตอร์ฝึกสอน AI ส่วนกลางอย่างมีนัยสำคัญ",
+               "pros":  [
+                            "รายได้ไตรมาส 3 ปี 2026 (ประกาศ 3 พ.ย.) พุ่ง 58.5% YoY แตะ $3.66 พันล้าน โตเร็วที่สุดตั้งแต่เข้าตลาด พร้อม Non-GAAP EPS $1.20 และอัตรากำไรจากการดำเนินงาน 49.1%",
+                            "ผู้บริหารปรับเป้ารายได้ปี 2026 ขึ้นสู่ ~$13.3 พันล้าน และคาดปี 2027 แตะ ~$18.5 พันล้าน โดยกลุ่ม AI Network Fabrics คาดโตเท่าตัวสู่ ~$7 พันล้าน จากลูกค้า Etherlink กว่า 100 ราย",
+                            "การเปิดตัวสถาปัตยกรรม Etherlink SU-144 แบบเปิด (7 ต.ค.) และเราเตอร์ 5nm Etherlink R4 สำหรับ Distributed Inferencing (17 พ.ย.) บนระบบ EOS ช่วยขยายตลาด AI ออกนอกคลัสเตอร์เทรนนิ่งหลัก",
+                            "งบดุลแข็งแกร่งไร้หนี้สิน มีเงินสดและหลักทรัพย์ในความต้องการของตลาด $14.4 พันล้าน พร้อมภาระสั่งซื้อชิ้นส่วนล่วงหน้า $11.4 พันล้าน รองรับการขยายกำลังส่งมอบ"
+                        ],
                "risks":  [
-                             "บริษัทคลาวด์ชะลอหรือลดการลงทุน (มีรายงานว่า Microsoft และ Meta รวมกันราว 42% ของรายได้)",
-                             "valuation หดตัวต่อหากการปรับฐานของหุ้น AI ยังไม่จบ",
-                             "การแข่งขันจาก Spectrum-X Ethernet ของ Nvidia ในเครือข่าย AI",
-                             "ภาระสั่งซื้อล่วงหน้า $11.4B และต้นทุนหน่วยความจำที่สูงขึ้นอาจกด margin",
-                             "หากปิดต่ำกว่า $158 (เส้นล่างของ Bollinger Bands) อาจเป็นสัญญาณของการปรับฐานที่ลึกขึ้น"
+                             "การกระจุกตัวของลูกค้าและรอบการชะลอลงทุน: หากลูกค้า Hyperscaler รายใหญ่อย่าง Meta หรือ Microsoft ชะลอหรือปรับแผนงบลงทุนศูนย์ข้อมูล AI การเติบโตจะได้รับผลกระทบโดยตรง",
+                             "แรงกดดันจาก Nvidia และสวิตช์ white-box: โซลูชันแบบครบชุดของ Nvidia Spectrum-X/InfiniBand และฮาร์ดแวร์ white-box ที่ใช้ชิป Broadcom อาจจำกัดส่วนแบ่งตลาดหรือกดดันมาร์จิ้น",
+                             "สัดส่วนฮาร์ดแวร์และต้นทุนซัพพลายเชน: สัดส่วนฮาร์ดแวร์ที่สูงขึ้น (คาดการณ์ Gross Margin 62%–64%) ภาระสั่งซื้อ $11.4 พันล้าน รวมถึงความเสี่ยงด้านภาษีนำเข้าและมาตรการควบคุมส่งออกชิป AI ของสหรัฐฯ",
+                             "มูลค่าหุ้นและความผันผวน: หลังราคาปรับขึ้นแรงตลอดปี 2026 ระดับ Valuation ที่สูงทำให้ ANET อ่อนไหวต่อการปรับฐานรุนแรงจากปัจจัยมหภาคหากอัตราดอกเบี้ยทรงตัวสูงนานกว่าคาด"
                          ],
-               "summary":  "ANET ร่วง 11.59% ไปปิดที่ $167.62 เมื่อ 20 พ.ย. 2026 จากแรงเทขายหุ้น AI ทั้งตลาด (Nasdaq −5.28%, Nvidia −14%) ไม่ใช่จากข่าวของบริษัทเอง กราฟเปลี่ยนเป็นอ่อนแอ ราคาหลุดใต้ EMA ทั้งสามเส้นด้วยวอลุ่ม 1.5 เท่าของค่าเฉลี่ย และ RSI อยู่ที่ 41.47 แต่ EMA ยังเรียงตัวขาขึ้นและ MACD ยังไม่พลิกลง ด้านพื้นฐานยังแข็งแรง รายได้ Q3 โต 58.5% เป้า Q4 อยู่ที่ $3.9–4.0B และภาพปี 2027 ราว $18.5B moat ด้านซอฟต์แวร์ EOS ยังอยู่ครบ ความเสี่ยงระยะสั้นคือ valuation และความกังวลเรื่องการลงทุนด้าน AI ไม่ใช่การบริหารงานของ Arista แนวรับอยู่แถว $158 แนวต้านอยู่ที่ $171.67 และ $182–187"
+               "summary":  "Arista Networks (ANET) ปิดที่ $178.31 เมื่อวันที่ 23 พ.ย. 2026 ฟื้นตัว 6.38% หลังร่วงแรง 11.6% ตามแรงเทขายกลุ่มเทคเมื่อ 20 พ.ย. ทั้งที่ไม่มีข่าวลบเฉพาะตัวบริษัท พื้นฐานยังแข็งแกร่งมาก โดยงบไตรมาส 3 (ประกาศ 3 พ.ย.) รายได้โต 58.5% YoY แตะ $3.66 พันล้าน และผู้บริหารคาดรายได้ปี 2027 ราว $18.5 พันล้าน พร้อมรายได้เครือข่าย AI โตเท่าตัวสู่ $7 พันล้าน ด้านกราฟเทคนิคอยู่ในภาวะเป็นกลางแบบพักตัว—ยังยืนเหนือค่าเฉลี่ยระยะยาว 200 วัน ($171.72) แต่ติดแนวต้านใต้เส้น 50 และ 100 วัน ($187.13 และ $183.95) ขณะที่คูเมืองธุรกิจด้านซอฟต์แวร์ EOS ยังแข็งแกร่งเหมือนเดิม",
+               "technical":  "ณ วันที่ 23 พ.ย. 2026 ราคา ANET ปิดที่ $178.31 (+6.38%) ภาพรวมทางเทคนิคอยู่ในโซนเป็นกลางภายใต้แนวโน้มขาขึ้นระยะยาว เส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนัก Exponential Moving Averages (EMA—ตัวชี้วัดแนวโน้มราคา) ยังเรียงตัวเชิงบวกโดย EMA 50 ($187.13) อยู่เหนือ EMA 100 ($183.95) และ EMA 200 ($171.72) แต่ราคาปัจจุบันหลุดต่ำกว่าเส้นระยะสั้นและกลางทั้งสองเส้น ขณะที่ยังยืนเหนือแนวรับ EMA 200 อยู่ 3.8% ที่น่าสังเกตคือวันที่ 23 พ.ย. ราคาเปิดที่ $186.23 และขึ้นทดสอบ $187.48 ชนแนว EMA 50 พอดีก่อนอ่อนตัวลงมาปิดใกล้จุดต่ำสุดของวันที่ $177.01 สะท้อนแรงขายด้านบน ด้านโมเมนตัมยังอ่อนแรง โดย MACD (12/26/9—ตัววัดแรงส่งเทียบค่าเฉลี่ยเร็วและช้า) อยู่ที่ -1.38 ต่ำกว่าเส้น Signal ที่ -1.22 (Histogram -0.16) ส่วน RSI 14 (มาตรวัดโมเมนตัม 0–100; ต่ำกว่า 30 คือขายมากเกินไป เกิน 70 คือซื้อมากเกินไป) อยู่ที่ระดับกลาง 46.77 ราคาเคลื่อนไหวในครึ่งล่างของกรอบ Bollinger Bands (20/2—แถบวัดความผันผวนรอบค่าเฉลี่ย 20 วัน) ต่ำกว่าเส้นกลาง $182.20 (กรอบบน $206.27 กรอบล่าง $158.13) และอยู่ราวเปอร์เซ็นไทล์ที่ 62 ของกรอบรอบ 52 สัปดาห์ ($114.52–$217.41) ปริมาณซื้อขาย 9.79 ล้านหุ้นสูงกว่าค่าเฉลี่ย 20 วัน (9.39 ล้านหุ้น) เล็กน้อยราว 4.2% แสดงถึงแรงซื้อเก็งกำไรกลับเข้ามา แต่ยังไม่ยืนยันการทะลุแนวต้าน $183.95–$187.13"
            },
     "sources":  [
                     {
-                        "title":  "Arista Networks, Inc. Reports Third Quarter 2026 Financial Results (Form 8-K Ex. 99.1)",
-                        "publisher":  "SEC EDGAR / Arista Networks",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001596532/000159653226000252/ex991q326-earningsrelease.htm",
-                        "date":  "2026-11-03"
+                        "date":  "2026-11-03",
+                        "publisher":  "Arista Networks, Inc.",
+                        "title":  "Arista Networks, Inc. Reports Third Quarter 2026 Financial Results",
+                        "url":  "https://investors.arista.com/press-releases/press-release-details/2026/Arista-Networks-Inc.-Reports-Third-Quarter-2026-Financial-Results/default.aspx"
                     },
                     {
-                        "title":  "[Arista Networks Q3 2026 Earnings Call] Arista revenue jumps 58.5% to $3.66 billion; 2027 sales guided to ~$18.5 billion as AI fabrics double",
-                        "publisher":  "BigGo Finance",
-                        "url":  "https://finance.biggo.com/news/US_ANET_2026-11-03",
-                        "date":  "2026-11-03"
+                        "date":  "2026-11-17",
+                        "publisher":  "Arista Networks, Inc.",
+                        "title":  "Arista Announces New Etherlink Offerings for Distributed Inferencing",
+                        "url":  "https://investors.arista.com/press-releases/press-release-details/2026/Arista-Announces-New-Etherlink-Offerings-for-Distributed-Inferencing/default.aspx"
                     },
                     {
-                        "title":  "Arista Networks (NYSE:ANET) Price Target Raised to $270.00",
-                        "publisher":  "MarketBeat",
-                        "url":  "https://www.marketbeat.com/instant-alerts/analyst-arista-networks-nyse-anet-price-target-raised-to-27000-2026-11-04/",
-                        "date":  "2026-11-04"
+                        "date":  "2026-10-07",
+                        "publisher":  "Arista Networks, Inc.",
+                        "title":  "Arista Announces Rack-Scale Architectures for Scale-Up and Scale-Out AI Fabrics",
+                        "url":  "https://investors.arista.com/press-releases/press-release-details/2026/Arista-Announces-Rack-Scale-Architectures-for-Scale-Up-and-Scale-Out-AI-Fabrics/default.aspx"
                     },
                     {
-                        "title":  "Arista Networks, Inc. (NYSE:ANET) Stock Has Consensus Price Target of $240.24 According to Brokerages",
-                        "publisher":  "MarketBeat",
-                        "url":  "https://www.marketbeat.com/instant-alerts/consensus-arista-networks-inc-nyse-anet-stock-has-consensus-price-target-of-24024-according-to-brokerages-2026-11-19/",
-                        "date":  "2026-11-19"
+                        "date":  "2026-11-04",
+                        "publisher":  "Morningstar",
+                        "title":  "Arista Earnings: Long Live High-Speed Networking Growth",
+                        "url":  "https://www.morningstar.com/stocks/arista-earnings-long-live-high-speed-networking-growth"
                     },
                     {
-                        "title":  "Arista Networks Inc Stock (ANET) Moved Down by 11.72% on Nov 20: Facts Behind the Movement",
-                        "publisher":  "TradingKey",
-                        "url":  "https://www.tradingkey.com/news/market-movers/262315976-market-movers-anet-20261120",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-17",
+                        "publisher":  "Network World",
+                        "title":  "Arista expands its routing options to support secure AI inferencing",
+                        "url":  "https://www.networkworld.com/article/3831804/arista-expands-its-routing-options-to-support-secure-ai-inferencing.html"
                     },
                     {
-                        "title":  "Stock market slide wipes out Nasdaq gains for the year on AI rout; correction on",
-                        "publisher":  "Fox Business",
-                        "url":  "https://www.foxbusiness.com/markets/wall-street-suffers-historic-losses-dow-sp-500-plunge-correction-territory",
-                        "date":  "2026-11-20"
-                    },
-                    {
-                        "title":  "Another wipeout hits Wall Street as Nvidia, other jittery AI stocks swing lower",
-                        "publisher":  "Associated Press via Atlanta News First",
-                        "url":  "https://www.atlantanewsfirst.com/2026/11/17/another-wipeout-hits-wall-street-nvidia-other-jittery-ai-stocks-swing-lower/?outputType=amp",
-                        "date":  "2026-11-17"
+                        "date":  "2026-11-20",
+                        "publisher":  "Stock Analysis",
+                        "title":  "Arista Networks (ANET) Stock Forecast \u0026 Analyst Price Targets",
+                        "url":  "https://stockanalysis.com/stocks/anet/forecast/"
                     }
                 ]
 }

@@ -6,7 +6,7 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T05:50:37Z",
+    "generatedAt":  "2026-11-24T03:46:33Z",
     "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
@@ -14,37 +14,33 @@
                        "symbol":  "NASDAQ:AMAT",
                        "yahoo":  "AMAT",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-23T05:46:11Z",
-                       "price":  302.63,
-                       "open":  329.03,
-                       "high":  330.5,
-                       "low":  300.62,
-                       "volume":  14169700,
-                       "avgVolume20":  8521665,
-                       "changePct":  -10.71,
-                       "historyDays":  501,
-                       "ema50":  411.43,
-                       "ema100":  437.66,
-                       "ema200":  421.44,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:42:34Z",
+                       "price":  346.87,
+                       "open":  351.92,
+                       "high":  352.91,
+                       "low":  335.46,
+                       "volume":  12428500,
+                       "avgVolume20":  8840445,
+                       "changePct":  14.62,
+                       "historyDays":  500,
+                       "ema50":  408.9,
+                       "ema100":  435.87,
+                       "ema200":  420.69,
                        "bb":  {
-                                  "upper":  428.02,
-                                  "middle":  368.6,
-                                  "lower":  309.18
+                                  "upper":  426.04,
+                                  "middle":  366.57,
+                                  "lower":  307.1
                               },
                        "macd":  {
-                                    "macd":  -26.12,
-                                    "signal":  -24.15,
-                                    "hist":  -1.97
+                                    "macd":  -24.72,
+                                    "signal":  -24.26,
+                                    "hist":  -0.46
                                 },
-                       "rsi14":  30.83,
+                       "rsi14":  43.09,
                        "high52w":  739.67,
                        "low52w":  215.5,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         500.77
-                                     ],
                                      [
                                          "2026-06-04",
                                          501.7
@@ -520,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          302.63
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         346.87
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          411.55,
                                           415.09,
                                           416.58,
                                           419.54,
@@ -642,113 +641,114 @@
                                           421.74,
                                           419.01,
                                           415.87,
-                                          411.43
+                                          411.43,
+                                          408.9
                                       ]
                    },
     "en":  {
-               "caution":  "The steep disconnect between booming earnings and a 59% drawdown from the $739.67 high warns against dismissing macro and cycle risks. Equipment makers are historically cyclical, and heavy distribution volume on November 20 shows institutional de-risking across AI hardware is still underway. Near-term shipments face physical ceilings from customer cleanroom availability and supply lead times, while U.S. export restrictions continue shrinking China below 25% of revenue and aiding non-U.S. toolmakers. Until price reclaims key moving averages, catching a falling knife carries elevated volatility.",
+               "caution":  "High-beta AI sentiment can overpower strong earnings in the short run, as November 20\u0027s 10.7% drop and the 53% slide from $739.67 demonstrate. Near-term shipments are capped by customer cleanroom availability and supply-chain bottlenecks, leaving little room for execution slips against elevated expectations. Meanwhile, U.S. export rules have reduced China to 25.4% of revenue and opened space for Japanese and Dutch peers in mature-node tools, while the Besi stake increase still requires antitrust clearance.",
                "cons":  [
-                            "Shares plunged 10.71% to $302.63 on November 20 and sit 59% below their $739.67 52-week high amid severe AI-sector multiple compression.",
-                            "Management flagged customer cleanroom space and component lead times as near-term gating factors capping how quickly AMAT can ship tools.",
-                            "China\u0027s share fell to 25% of Q4 sales and is guided below 25% in FY2027 as U.S. export curbs shift some mature-node share to non-U.S. rivals.",
-                            "Summit Insights downgraded AMAT to Hold on November 13, and at least 10 brokerages—including JPMorgan (cutting its target to $500)—trimmed price targets."
+                            "Even after a 14.62% bounce on November 23, AMAT sits 53% below its $739.67 52-week high and well beneath its 50-, 100-, and 200-day EMAs.",
+                            "Q1 FY2027 revenue guidance of $11.10 billion missed lofty $11.41 billion consensus because customer cleanroom space and supply-chain pinch points cap near-term deliveries.",
+                            "Summit Insights downgraded AMAT to Hold on November 13, while roughly a dozen brokers trimmed price targets amid valuation and capacity concerns.",
+                            "U.S. export controls narrowed China to 25.4% of Q4 revenue and allow Japanese and Dutch rivals to capture restricted mature-node and memory spending."
                         ],
-               "fundamental":  "Fundamentally, AMAT\u0027s AI-infrastructure engine is accelerating even as its stock sells off. On November 12, 2026, AMAT reported record Q4 FY2026 revenue of $10.41 billion (+53% YoY) and full-year revenue of $34.45 billion (+21%), marking seven straight years of growth. Non-GAAP gross margin reached 50.6% (+250 bps YoY) and operating margin hit a record 35.3%, proving strong execution across deposition, etch, and advanced packaging for AI logic and HBM DRAM. Applied Global Services grew 26% to $1.90 billion, reinforcing sticky installed-base cash flows that funded $4.75 billion in FY2026 buybacks and dividends. With Q1 FY2027 revenue guided to $11.10 billion and calendar 2027 WFE demand projected up \u003e30%, the moat thesis remains intact despite cleanroom constraints and China tapering below 25% of sales.",
-               "headline":  "Record AI-driven Q4 results overshadowed by 10.7% chip selloff and bearish trend",
+               "fundamental":  "Applied Materials sits at the heart of the AI semiconductor value chain as the broadest supplier of wafer-fab deposition, etch, inspection, and packaging tools. Its November 12, 2026 Q4 FY2026 report confirmed accelerating demand: quarterly revenue rose 53% year-over-year to $10.41 billion, non-GAAP EPS jumped 92% to $4.16, and full-year FY2026 revenue reached $34.45 billion (+21%) with $6.20 billion in free cash flow and $4.75 billion returned via buybacks and dividends. Semiconductor Systems surged 64% to $8.00 billion (55.2% non-GAAP gross margin) on gate-all-around logic, high-bandwidth memory DRAM (33% of systems sales), and advanced packaging, while Applied Global Services hit a record $1.90 billion (+26%). Although China export curbs pushed China down to 25.4% of revenue and cleanroom constraints tempered Q1 FY2027 guidance ($11.10 billion), the broad portfolio and installed-base moat remain firmly intact.",
+               "headline":  "Record $10.41B AI Quarter Collides With Bearish Chart After 53% Drop",
                "news":  [
-                            "Nov 20, 2026: AMAT fell 10.71% to $302.63 on 1.66x normal volume during a broad semiconductor rout alongside double-digit declines in Lam Research, KLA, and Micron, driven by AI-spending ROI fears and multiple compression rather than AMAT-specific news.",
-                            "Nov 13, 2026: Summit Insights downgraded AMAT from Buy to Hold citing valuation and cleanroom limits, while at least 10 Wall Street firms cut price targets (including JPMorgan lowering its target from $660 to $500) even as Morningstar raised fair value from $520 to $570.",
-                            "Nov 12, 2026: Applied Materials posted record Q4 FY2026 revenue of $10.41 billion (+53% YoY) and non-GAAP EPS of $4.16 (+92% YoY), beating consensus on 64% growth in Semiconductor Systems.",
-                            "Nov 12, 2026: Management guided Q1 FY2027 revenue to $11.10 billion (±$500 million) and non-GAAP EPS to $4.35 (±$0.20), projecting \u003e30% calendar 2027 WFE growth while flagging customer cleanroom space and component lead times as shipment bottlenecks.",
-                            "Nov 12, 2026: China declined to 25% of Q4 revenue ($2.64 billion) and was guided below 25% for FY2027 under ongoing U.S. export restrictions, while the newly unveiled $5 billion Silicon Valley EPIC Center reached 15 R\u0026D partner engagements."
+                            "November 23, 2026: AMAT surged 14.62% to $346.87 on 1.41x average volume as semiconductor stocks staged a relief rally following Nvidia\u0027s reinstatement of Jensen Huang as CEO, recovering from a 10.7% sector-driven drop on November 20.",
+                            "November 13, 2026: Summit Insights downgraded AMAT to Hold citing valuation and near-term capacity constraints, while roughly a dozen brokers trimmed price targets into the $430–$640 range despite mostly keeping Buy ratings.",
+                            "November 12, 2026: AMAT reported record Q4 FY2026 revenue of $10.41 billion (+53% year-over-year) and non-GAAP EPS of $4.16, beating estimates, with non-GAAP gross margin reaching 50.6%.",
+                            "November 12, 2026: Management guided Q1 FY2027 revenue to $11.10 billion (+/- $500 million) and non-GAAP EPS to $4.35 (+/- $0.20), slightly below $11.41 billion consensus due to cleanroom and supply-chain limits, while projecting \u003e30% calendar 2027 WFE growth.",
+                            "October 26, 2026: Applied Materials agreed to raise its strategic stake in BE Semiconductor Industries (Besi) to roughly 20%, pending U.S. antitrust review, deepening hybrid-bonding co-innovation after unveiling its $5 billion Silicon Valley EPIC Center on October 12."
                         ],
-               "opportunity":  "For long-term AI infrastructure holders, the November 20 selloff is resetting valuation while business momentum strengthens. AMAT is scaling to double systems output from Q4 FY2026 levels by 2028 to meet \u003e30% projected 2027 WFE growth across leading-edge logic, DRAM, and HBM packaging. Its expanding 15-partner EPIC Center locks in early co-development with top foundries and memory makers, while growing Applied Global Services ($1.90 billion quarterly) cushions cyclicality. With RSI 14 near oversold (30.83) and shares near $300 support, patient investors can watch for technical stabilization.",
-               "opportunityCheck":  "The page\u0027s sub-scores are mostly sensible, especially the strong mark for market position and moderate marks for bottleneck power and optionality. However, AI revenue exposure should be raised: Q4 FY2026 revenue surged 53% YoY to $10.41 billion with Semiconductor Systems up 64% on leading-edge AI logic, DRAM, and HBM packaging, showing AI now drives the core growth engine as China fades below 25%. Market growth also looks slightly conservative against management\u0027s \u003e30% 2027 WFE forecast, while bottleneck power rightly stays moderate because cleanroom limits and export curbs cap near-term pricing leverage.",
+               "opportunity":  "For long-term AI infrastructure holders, the gap between a 53% stock drawdown and accelerating earnings is notable. Applied Materials is benefiting from multi-year transitions to gate-all-around logic, high-bandwidth memory, and 3D advanced packaging, with management expecting \u003e30% wafer-fab equipment growth in calendar 2027 and targeting ~54% gross margin by 2030. The $5 billion EPIC Center and expanded 20% Besi stake deepen customer lock-in on hybrid bonding, while recurring AGS services ($1.90 billion in Q4) cushion cyclicality.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity sub-scores look broadly sensible on market position and pricing power, but AI revenue exposure and market growth now appear understated. On November 12, 2026, Semiconductor Systems jumped 64% year-over-year to $8.00 billion on leading-edge logic, DRAM, and advanced packaging demand, while management forecast over 30% wafer-fab equipment growth in calendar 2027 and China fell to 25.4% of sales. I would raise AI revenue exposure and market growth, and nudge optionality higher for the Besi hybrid-bonding stake and $5 billion EPIC Center, while keeping bottleneck steady due to cleanroom and export limits.",
                "pros":  [
-                            "Record Q4 FY2026 revenue jumped 53% YoY to $10.41 billion on November 12, led by a 64% surge in Semiconductor Systems ($8.00 billion).",
-                            "Q1 FY2027 guidance of $11.10 billion in revenue and $4.35 non-GAAP EPS beat consensus, alongside a forecast for over 30% wafer-fab equipment growth in 2027.",
-                            "Non-GAAP gross margin expanded 250 basis points YoY to 50.6%, while recurring-leaning Applied Global Services grew 26% to $1.90 billion.",
-                            "The $5 billion Silicon Valley EPIC Center reached 15 announced R\u0026D engagements, deepening co-development ties with TSMC, Intel, KIOXIA, and Besi."
+                            "Q4 FY2026 revenue surged 53% year-over-year to a record $10.41 billion on November 12, with non-GAAP gross margin expanding for the 14th straight quarter to 50.6%.",
+                            "Management guided Q1 FY2027 revenue to $11.10 billion (+58% year-over-year at midpoint) and projected calendar 2027 wafer-fab equipment growth above 30%.",
+                            "Applied Global Services reached a record $1.90 billion (+26% year-over-year), underscoring recurring cash flow from its vast installed equipment base.",
+                            "Raising its Besi stake toward 20% (announced October 26) and unveiling the $5 billion EPIC Center (October 12) strengthen AMAT\u0027s lead in AI hybrid bonding and 3D packaging."
                         ],
                "risks":  [
-                             "Customer cleanroom shortages and component supply lead times could delay tool shipments and defer revenue recognition in FY2027.",
-                             "Tighter U.S.–China export controls and a mature-node spending plateau in China could further erode regional market share to Japanese and European rivals.",
-                             "A slowdown in hyperscaler AI data-center capex or memory-cycle pullback would hit high-beta wafer-fab equipment orders disproportionately.",
-                             "Persistent risk-off tech sentiment and bearish technical momentum below all major EMAs could extend valuation compression toward the $215.50 52-week low."
+                             "Customer cleanroom shortages and component supply-chain bottlenecks could delay tool deliveries and cap near-term revenue upside.",
+                             "Further tightening of U.S. export controls on China (25.4% of Q4 revenue) could cede additional share to Japanese and Dutch rivals.",
+                             "High-beta AI sector rotations and multiple compression can trigger sharp double-digit pullbacks even after strong quarterly beats.",
+                             "Any slowdown in hyperscaler AI capex or antitrust delays on the 20% Besi stake expansion could weigh on 2027 growth expectations."
                          ],
-               "summary":  "Applied Materials (AMAT) dropped 10.71% to $302.63 on November 20, 2026, dragged down by a sweeping semiconductor selloff despite posting record Q4 FY2026 results on November 12. Quarterly revenue surged 53% year-over-year to $10.41 billion with non-GAAP EPS of $4.16, and Q1 FY2027 guidance of $11.10 billion topped consensus. Management projects over 30% wafer-fab equipment growth in 2027, keeping the long-term moat intact. Near term, however, technicals are decisively bearish, with cleanroom bottlenecks, China\u0027s shrinking share below 25%, and broad valuation compression weighing on the stock.",
-               "technical":  "AMAT\u0027s chart as of November 20, 2026 is firmly bearish across trend, momentum, and volume. At $302.63 (down 10.71% on the day), price sits far below its three exponential moving averages (EMAs—weighted trendlines tracking average price): EMA 50 ($411.43), EMA 200 ($421.44), and EMA 100 ($437.66). Because EMA 50 has fallen beneath EMA 200 and EMA 100, the trend structure is negative with heavy overhead resistance across $411–$438. Momentum confirms selling pressure: MACD 12/26/9 (a trend-momentum gauge) stands at -26.12 below its -24.15 signal line, with a negative -1.97 histogram showing downward acceleration. Meanwhile, RSI 14 (a 0–100 momentum gauge where under 30 is oversold) sits at 30.83, right at oversold territory. Volatility has stretched to an extreme: price closed below the lower Bollinger Band (a 20-day volatility envelope spanning $309.18 to $428.02, midpoint $368.60) and sits in the bottom 17% of its $215.50–$739.67 52-week range. Volume of 14.17 million shares—1.66x the 20-day average of 8.52 million—confirms institutional distribution. Immediate psychological support lies near $300 (intraday low $300.62) and then toward $215.50, while $309.18 and $368.60 act as initial resistance."
+               "summary":  "Applied Materials (AMAT) jumped 14.62% to $346.87 on November 23, 2026, rebounding from a sector-wide chip sell-off, yet remains 53% below its $739.67 52-week high and under all major moving averages. Fundamentals tell a much stronger story: on November 12, AMAT posted record Q4 FY2026 revenue of $10.41 billion (+53% year-over-year) and non-GAAP EPS of $4.16, while guiding Q1 FY2027 to $11.10 billion. The disconnect stems from sector multiple compression and cleanroom supply bottlenecks rather than weak demand, leaving the long-term moat intact despite a bearish chart.",
+               "technical":  "AMAT\u0027s technical posture remains bearish despite a sharp single-day rally. On November 23, 2026, shares surged 14.62% to $346.87 on 12.43 million shares—1.41 times the 20-day average volume of 8.84 million—confirming strong buyer interest off the prior session\u0027s washout, though closing below the $351.92 open showed intraday supply near $352.91. Trend structure is still damaged: price trades 15% to 20% below its exponential moving averages (EMAs, trendlines that weight recent prices more heavily), with EMA 50 ($408.90) already below EMA 200 ($420.69) and EMA 100 ($435.87) overhead. Momentum is stabilizing rather than bullish. MACD (a trend-momentum gauge comparing two moving averages) remains deeply negative at -24.72 and slightly below its -24.26 signal line, though the -0.46 histogram is nearly flat. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) sits at 43.09—out of oversold territory but still below the 50 midpoint. Within Bollinger Bands (a volatility envelope around a 20-day average), price rebounded off the $307.10 lower band—key nearby support above the $215.50 52-week low—yet remains in the lower quartile of its $215.50–$739.67 52-week range. Initial resistance lies at the $366.57 middle band, then $408.90–$426.04."
            },
     "th":  {
-               "caution":  "ภาพที่งบการเงินโตแรงแต่ราคาหุ้นร่วงลงถึง 59% จากจุดสูงสุด $739.67 เป็นสัญญาณเตือนไม่ให้มองข้ามความเสี่ยงมหภาคและวัฏจักร ธุรกิจเครื่องจักรผลิตชิปมีความผันผวนตามรอบการลงทุนสูง และวอลุ่มขายที่พุ่งแรงวันที่ 20 พ.ย. บ่งชี้ว่าสถาบันยังลดความเสี่ยงในหุ้นฮาร์ดแวร์ AI ต่อเนื่อง ระยะสั้นการส่งมอบยังติดเพดานจากพื้นที่คลีนรูมลูกค้าและชิ้นส่วนขาดแคลน ขณะที่มาตรการคุมส่งออกสหรัฐฯ กดสัดส่วนจีนลงต่ำกว่า 25% และเอื้อคู่แข่งนอกสหรัฐฯ ตราบใดที่ราคายังไม่กลับมายืนเหนือเส้นค่าเฉลี่ยสำคัญ ความผันผวนฝั่งขาลงยังคงสูง",
+               "caution":  "ความผันผวนสูงของหุ้นกลุ่ม AI สามารถกลบงบการเงินที่แข็งแกร่งได้ในระยะสั้น สะท้อนจากวันที่ 20 พ.ย. ที่หุ้นร่วง 10.7% และการปรับฐาน 53% จากจุดสูงสุด $739.67 ขณะเดียวกัน ยอดส่งมอบระยะสั้นยังถูกจำกัดด้วยพื้นที่คลีนรูมของลูกค้าและคอขวดซัพพลายเชน ทำให้พลาดเป้าได้ยากท่ามกลางความคาดหวังสูง ด้านมาตรการคุมส่งออกสหรัฐฯ กดสัดส่วนจีนลงเหลือ 25.4% และเปิดช่องให้คู่แข่งญี่ปุ่นกับดัตช์เข้ามาชิงส่วนแบ่ง ส่วนการเพิ่มสัดส่วนหุ้น Besi ยังต้องรอไฟเขียวด้านกฎหมายการแข่งขัน",
                "cons":  [
-                            "หุ้นดิ่งลง 10.71% เหลือ $302.63 ในวันที่ 20 พ.ย. และปรับตัวลงถึง 59% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $739.67 ท่ามกลางแรงกดดันด้าน Valuation ของกลุ่ม AI",
-                            "ผู้บริหารเตือนว่าข้อจำกัดด้านพื้นที่คลีนรูมของลูกค้าและระยะเวลารอชิ้นส่วนยังเป็นคอขวดจำกัดความเร็วในการส่งมอบเครื่องจักรระยะสั้น",
-                            "สัดส่วนยอดขายจากจีนลดลงเหลือ 25% ใน Q4 และคาดจะต่ำกว่า 25% ในปี FY2027 จากมาตรการคุมส่งออกของสหรัฐฯ ที่เปิดทางให้คู่แข่งนอกสหรัฐฯ ชิงส่วนแบ่ง",
-                            "Summit Insights ปรับลดคำแนะนำเป็น Hold เมื่อ 13 พ.ย. และโบรกเกอร์อย่างน้อย 10 แห่งปรับลดราคาเป้าหมาย รวมถึง JPMorgan ที่ลดเป้าลงเหลือ $500"
+                            "แม้ดีดกลับ 14.62% วันที่ 23 พ.ย. แต่ราคายังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $739.67 ถึง 53% และอยู่ใต้เส้น EMA 50, 100 และ 200 วันทั้งหมด",
+                            "คาดการณ์รายได้ Q1 FY2027 ที่ $11.10 พันล้าน ต่ำกว่าคาดการณ์ตลาดที่ $11.41 พันล้าน เพราะพื้นที่คลีนรูมลูกค้าและคอขวดซัพพลายเชนจำกัดการส่งมอบระยะสั้น",
+                            "Summit Insights ปรับลดคำแนะนำเป็น Hold วันที่ 13 พ.ย. และโบรกเกอร์ราวสิบแห่งปรับลดเป้าราคาลงจากประเด็นมูลค่าหุ้นและข้อจำกัดด้านกำลังส่งมอบ",
+                            "มาตรการคุมส่งออกสหรัฐฯ ทำให้สัดส่วนรายได้จากจีนลดเหลือ 25.4% ในไตรมาส 4 และเปิดโอกาสให้คู่แข่งญี่ปุ่นกับดัตช์ชิงตลาดเครื่องจักรชิปรุ่นเก่าและหน่วยความจำในจีน"
                         ],
-               "fundamental":  "ในเชิงพื้นฐาน เครื่องยนต์เติบโตจากโครงสร้างพื้นฐาน AI ของ AMAT ยังเร่งตัวสวนทางราคาหุ้น วันที่ 12 พ.ย. 2026 บริษัทรายงานรายได้ Q4 FY2026 ทำสถิติใหม่ที่ $10.41 พันล้าน (+53% YoY) และรายได้ทั้งปี FY2026 ที่ $34.45 พันล้าน (+21%) เติบโตต่อเนื่องเป็นปีที่ 7 อัตรากำไรขั้นต้น Non-GAAP แตะ 50.6% (+250 bps YoY) และอัตรากำไรจากการดำเนินงานทำสถิติ 35.3% สะท้อนความแข็งแกร่งในเครื่องมือเคลือบผิว กัดลาย และแพ็กเกจจิ้งขั้นสูงสำหรับชิป AI และ HBM DRAM ด้านธุรกิจบริการ Applied Global Services โต 26% สู่ $1.90 พันล้าน ช่วยสร้างกระแสเงินสดสม่ำเสมอจนจ่ายคืนผู้ถือหุ้น $4.75 พันล้านในปี FY2026 (ซื้อหุ้นคืนและปันผล) เมื่อรวมกับเป้ารายได้ Q1 FY2027 ที่ $11.10 พันล้านและคาดการณ์ WFE ปี 2027 โตเกิน 30% ความได้เปรียบระยะยาวยังไม่เปลี่ยนแม้เผชิญข้อจำกัดคลีนรูมและการปรับฐานยอดขายจีนต่ำกว่า 25%",
-               "headline":  "งบ Q4 ทำสถิติสูงสุดจากแรงหนุน AI แต่หุ้นร่วง 10.7% ตามแรงเทขายกลุ่มชิปและกราฟขาลง",
+               "fundamental":  "Applied Materials อยู่ใจกลางห่วงโซ่คุณค่าชิป AI ในฐานะผู้ผลิตเครื่องจักรผลิตเวเฟอร์ที่ครอบคลุมที่สุดทั้งงานเคลือบ กัดลาย ตรวจสอบ และแพ็กเกจจิ้ง ผลประกอบการ Q4 FY2026 วันที่ 12 พ.ย. 2026 ตอกย้ำอุปสงค์ที่เร่งตัว โดยรายได้พุ่ง 53% YoY สู่ $10.41 พันล้าน กำไรต่อหุ้น non-GAAP โต 92% แตะ $4.16 และรายได้ทั้งปี FY2026 ทำสถิติ $34.45 พันล้าน (+21%) สร้างกระแสเงินสดอิสระ $6.20 พันล้าน พร้อมคืนเงินผู้ถือหุ้น $4.75 พันล้านผ่านการซื้อหุ้นคืนและปันผล กลุ่ม Semiconductor Systems โตแรง 64% แตะ $8.00 พันล้าน (อัตรากำไรขั้นต้น non-GAAP 55.2%) จากชิปตรรกะแบบ GAA, DRAM สำหรับ HBM (33% ของยอดขายระบบ) และแพ็กเกจจิ้งขั้นสูง ส่วนธุรกิจบริการ AGS ทำสถิติ $1.90 พันล้าน (+26%) แม้สัดส่วนจีนลดลงเหลือ 25.4% และคอขวดคลีนรูมกดคาดการณ์ Q1 FY2027 เหลือ $11.10 พันล้าน แต่ความได้เปรียบจากพอร์ตเครื่องจักรครบวงจรและฐานติดตั้งยังแข็งแกร่งไม่เปลี่ยน",
+               "headline":  "งบ Q4 ทุบสถิติ $10.41 พันล้าน แต่กราฟยังขาลงหลังร่วงจากจุดสูงสุด 53%",
                "news":  [
-                            "20 พ.ย. 2026: หุ้น AMAT ร่วง 10.71% ปิดที่ $302.63 ด้วยวอลุ่มสูงกว่าปกติ 1.66 เท่าตามแรงเทขายหุ้นชิปทั้งตลาดพร้อม Lam Research, KLA และ Micron จากความกังวลเรื่องความคุ้มค่าการลงทุน AI และแรงหดตัวของ Valuation มากกว่าข่าวลบเฉพาะตัว",
-                            "13 พ.ย. 2026: Summit Insights ปรับลดคำแนะนำ AMAT จาก Buy เป็น Hold จากประเด็นมูลค่าหุ้นและข้อจำกัดคลีนรูม พร้อมโบรกเกอร์อย่างน้อย 10 แห่งหั่นราคาเป้าหมาย (เช่น JPMorgan ลดจาก $660 เหลือ $500) สวนทาง Morningstar ที่ปรับเพิ่มมูลค่ายุติธรรมจาก $520 เป็น $570",
-                            "12 พ.ย. 2026: Applied Materials ประกาศรายได้ Q4 FY2026 ทำสถิติสูงสุด $10.41 พันล้าน (+53% YoY) และ Non-GAAP EPS $4.16 (+92% YoY) ดีกว่าคาด จากแรงส่งกลุ่ม Semiconductor Systems ที่โตถึง 64%",
-                            "12 พ.ย. 2026: บริษัทคาดการณ์รายได้ Q1 FY2027 ที่ $11.10 พันล้าน (±$500 ล้าน) และ Non-GAAP EPS $4.35 (±$0.20) พร้อมประเมินตลาด WFE ปี 2027 โตเกิน 30% แต่ระบุว่าพื้นที่คลีนรูมของลูกค้าและระยะเวลารอชิ้นส่วนยังจำกัดอัตราการส่งมอบ",
-                            "12 พ.ย. 2026: สัดส่วนยอดขายจากจีนลดลงเหลือ 25% ($2.64 พันล้าน) และคาดจะต่ำกว่า 25% ในปี FY2027 ภายใต้กฎคุมส่งออกของสหรัฐฯ ขณะที่ศูนย์วิจัย EPIC Center มูลค่า $5 พันล้านมีพันธมิตรร่วมพัฒนาครบ 15 รายแล้ว"
+                            "23 พ.ย. 2026: หุ้น AMAT พุ่ง 14.62% ปิด $346.87 ด้วยวอลุ่ม 1.41 เท่าของค่าเฉลี่ย หลังกลุ่มเซมิคอนดักเตอร์รีบาวด์รับข่าว Nvidia แต่งตั้ง Jensen Huang กลับมานั่งซีอีโอ ฟื้นจากที่ร่วง 10.7% ตามกลุ่มชิปเมื่อวันที่ 20 พ.ย.",
+                            "13 พ.ย. 2026: Summit Insights ปรับลดคำแนะนำ AMAT ลงเป็น Hold จากประเด็นมูลค่าและข้อจำกัดด้านกำลังส่งมอบระยะสั้น ขณะที่โบรกเกอร์ราวสิบแห่งปรับเป้าราคามาอยู่ในกรอบ $430–$640 แม้ส่วนใหญ่ยังคงมุมมองเชิงบวก",
+                            "12 พ.ย. 2026: AMAT รายงานงบ Q4 FY2026 สูงสุดเป็นประวัติการณ์ด้วยรายได้ $10.41 พันล้าน (+53% YoY) และกำไรต่อหุ้น non-GAAP $4.16 สูงกว่าตลาดคาด พร้อมอัตรากำไรขั้นต้น non-GAAP ที่ 50.6%",
+                            "12 พ.ย. 2026: ผู้บริหารประเมินรายได้ Q1 FY2027 ที่ $11.10 พันล้าน (+/- $500 ล้าน) และกำไรต่อหุ้น non-GAAP $4.35 (+/- $0.20) ต่ำกว่าตลาดคาดที่ $11.41 พันล้านเล็กน้อยจากข้อจำกัดคลีนรูมและซัพพลายเชน แต่คาดตลาดเครื่องจักร WFE ปีปฏิทิน 2027 โตเกิน 30%",
+                            "26 ต.ค. 2026: Applied Materials ตกลงเพิ่มสัดส่วนถือหุ้นใน BE Semiconductor Industries (Besi) สู่ราว 20% (รอการอนุมัติกฎหมายแข่งขันสหรัฐฯ) เพื่อต่อยอดเทคโนโลยี hybrid bonding หลังเปิดตัวศูนย์วิจัย EPIC Center มูลค่า $5 พันล้านในซิลิคอนแวลลีย์เมื่อ 12 ต.ค."
                         ],
-               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI แรงเทขายวันที่ 20 พ.ย. ช่วยปรับลดมูลค่าหุ้นลงในจังหวะที่พื้นฐานยังเร่งตัว AMAT กำลังขยายกำลังผลิตเครื่องจักรให้เพิ่มขึ้นเป็นสองเท่าจากระดับ Q4 FY2026 ภายในปี 2028 เพื่อรองรับตลาด WFE ปี 2027 ที่คาดโตเกิน 30% ในกลุ่มชิปลอจิกขั้นสูง, DRAM และ HBM ศูนย์ EPIC Center ที่มีพันธมิตร 15 รายช่วยล็อกความร่วมมือกับผู้ผลิตชิปชั้นนำตั้งแต่ต้นน้ำ ขณะที่รายได้บริการ $1.90 พันล้านต่อไตรมาสช่วยลดความผันผวน เมื่อ RSI 14 เข้าใกล้เขต Oversold (30.83) แถวแนวรับ $300 นักลงทุนระยะยาวสามารถเฝ้าดูสัญญาณการสร้างฐานของกราฟ",
-               "opportunityCheck":  "คะแนนโอกาสด้าน AI บนหน้าเว็บส่วนใหญ่สมเหตุสมผล โดยเฉพาะจุดแข็งด้านตำแหน่งผู้นำตลาด รวมถึงคะแนนระดับกลางสำหรับอำนาจคอขวดและโอกาสต่อยอดใหม่ อย่างไรก็ตาม คะแนนสัดส่วนรายได้จาก AI ควรถูกปรับเพิ่มขึ้น เพราะรายได้ Q4 FY2026 พุ่งขึ้น 53% YoY สู่ $10.41 พันล้าน โดยกลุ่ม Semiconductor Systems โตถึง 64% จากชิปลอจิก AI, DRAM และแพ็กเกจจิ้ง HBM แสดงให้เห็นว่า AI คือเครื่องยนต์หลักแล้วขณะที่สัดส่วนจีนลดต่ำกว่า 25% ส่วนคะแนนการเติบโตของตลาดก็ดูอนุรักษนิยมเล็กน้อยเมื่อเทียบกับคาดการณ์ WFE ปี 2027 ที่โตเกิน 30% แต่คะแนนอำนาจต่อรองราคาระดับกลางถือว่าเหมาะสมเพราะข้อจำกัดคลีนรูมและกฎคุมส่งออกยังจำกัดความได้เปรียบระยะสั้น",
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI ช่องว่างระหว่างราคาหุ้นที่ปรับฐาน 53% กับกำไรที่เร่งตัวถือเป็นประเด็นที่น่าจับตา AMAT ได้อานิสงส์ตรงจากการเปลี่ยนผ่านสู่ชิป GAA, หน่วยความจำ HBM และแพ็กเกจจิ้ง 3 มิติ โดยผู้บริหารคาดตลาด WFE ปีปฏิทิน 2027 โตเกิน 30% และตั้งเป้าอัตรากำไรขั้นต้นราว 54% ภายในปี 2030 ศูนย์ EPIC Center มูลค่า $5 พันล้านและการถือหุ้น Besi เพิ่มเป็น 20% ยิ่งเสริมความเหนียวแน่นกับลูกค้า ขณะที่ธุรกิจบริการ AGS ($1.90 พันล้านใน Q4) ช่วยพยุงกระแสเงินสดยามวัฏจักรผันผวน",
+               "opportunityCheck":  "คะแนนโอกาส AI ของหน้าเว็บดูเหมาะสมในด้านตำแหน่งผู้นำตลาดและอำนาจตั้งราคา แต่ด้านสัดส่วนรายได้ AI และการเติบโตของตลาดดูประเมินต่ำเกินไป หลังงบวันที่ 12 พ.ย. 2026 เผยว่ากลุ่ม Semiconductor Systems โตถึง 64% YoY แตะ $8.00 พันล้านจากแรงหนุนชิปตรรกะขั้นสูง DRAM และแพ็กเกจจิ้งขั้นสูง ขณะที่ผู้บริหารคาดตลาด WFE ปีปฏิทิน 2027 โตเกิน 30% และสัดส่วนจีนลดลงเหลือ 25.4% ควรขยับคะแนนสัดส่วนรายได้ AI กับการเติบโตของตลาดขึ้น และเพิ่มคะแนนทางเลือกการเติบโตจากดีล Besi กับศูนย์ EPIC Center แต่คงคะแนนคอขวดไว้เพราะยังมีข้อจำกัดคลีนรูมและการคุมส่งออก",
                "pros":  [
-                            "งบ Q4 FY2026 เมื่อ 12 พ.ย. ทำรายได้สถิติใหม่ $10.41 พันล้าน (+53% YoY) นำโดยกลุ่ม Semiconductor Systems ที่พุ่งขึ้น 64% แตะ $8.00 พันล้าน",
-                            "แนวโน้ม Q1 FY2027 สูงกว่าตลาดคาดที่รายได้ $11.10 พันล้าน และ Non-GAAP EPS $4.35 พร้อมคาดการณ์ตลาด WFE ปี 2027 โตเกิน 30%",
-                            "อัตรากำไรขั้นต้น Non-GAAP ขยายตัว 250 bps YoY สู่ 50.6% ขณะที่ธุรกิจบริการ Applied Global Services เติบโต 26% แตะ $1.90 พันล้านช่วยสร้างรายได้ต่อเนื่อง",
-                            "ศูนย์วิจัย EPIC Center มูลค่า $5 พันล้านในซิลิคอนแวลลีย์มีพันธมิตรร่วมพัฒนาแล้ว 15 ราย รวมถึง TSMC, Intel, KIOXIA และ Besi"
+                            "รายได้ Q4 FY2026 วันที่ 12 พ.ย. พุ่ง 53% YoY ทำสถิติ $10.41 พันล้าน พร้อมอัตรากำไรขั้นต้น non-GAAP ที่ 50.6% ขยายตัวต่อเนื่องเป็นไตรมาสที่ 14",
+                            "ผู้บริหารประเมินรายได้ Q1 FY2027 ที่ $11.10 พันล้าน (+58% YoY ณ ค่ากลาง) และคาดตลาดเครื่องจักร WFE ปีปฏิทิน 2027 โตเกิน 30%",
+                            "ธุรกิจบริการหลังการขาย AGS ทำสถิติใหม่ $1.90 พันล้าน (+26% YoY) สะท้อนกระแสเงินสดต่อเนื่องจากฐานเครื่องจักรที่ติดตั้งทั่วโลก",
+                            "การเพิ่มสัดส่วนหุ้น Besi สู่ 20% (26 ต.ค.) และเปิดตัวศูนย์ EPIC Center มูลค่า $5 พันล้าน (12 ต.ค.) เสริมความเป็นผู้นำด้าน hybrid bonding และแพ็กเกจจิ้ง 3 มิติสำหรับชิป AI"
                         ],
                "risks":  [
-                             "ปัญหาขาดแคลนพื้นที่คลีนรูมของลูกค้าและระยะเวลารอชิ้นส่วนอาจทำให้การส่งมอบเครื่องจักรและการรับรู้รายได้ในปี FY2027 ล่าช้ากว่าคาด",
-                             "มาตรการควบคุมการส่งออกระหว่างสหรัฐฯ–จีนที่เข้มงวดขึ้นและการชะลอตัวของการลงทุนชิปรุ่นเก่าในจีน อาจทำให้เสียส่วนแบ่งตลาดให้คู่แข่งจากญี่ปุ่นและยุโรปมากขึ้น",
-                             "หากกลุ่มไฮเปอร์สเกลเลอร์ชะลอการลงทุนดาต้าเซ็นเตอร์ AI หรือตลาดหน่วยความจำเข้าสู่รอบพักฐาน คำสั่งซื้อเครื่องจักรผลิตชิปจะได้รับผลกระทบในระดับสูง",
-                             "แรงเทขายกลุ่มเทคโนโลยีและโมเมนตัมขาลงที่ยังอยู่ต่ำกว่าเส้น EMA หลักทุกเส้นอาจกดดันให้ Valuation หดตัวลงต่อใกล้แนวรับรอบ 52 สัปดาห์ที่ $215.50"
+                             "ปัญหาพื้นที่คลีนรูมของลูกค้าและคอขวดซัพพลายเชนชิ้นส่วนอาจทำให้ส่งมอบเครื่องจักรล่าช้าและจำกัดการเติบโตของรายได้ระยะสั้น",
+                             "หากสหรัฐฯ เข้มงวดมาตรการคุมส่งออกไปจีนเพิ่มเติม (25.4% ของรายได้ Q4) อาจเสียส่วนแบ่งตลาดให้คู่แข่งญี่ปุ่นและดัตช์มากขึ้น",
+                             "แรงหมุนกลุ่มลงทุนในหุ้น AI ที่ค่าเบต้าสูงและการหดตัวของ P/E สามารถกดราคาหุ้นร่วงเลขสองหลักได้แม้ผลประกอบการออกมาดี",
+                             "การชะลอตัวของงบลงทุน AI จากกลุ่มคลาวด์รายใหญ่ หรือความล่าช้าด้านกฎหมายแข่งขันต่อดีลเพิ่มหุ้น Besi 20% อาจกระทบคาดการณ์การเติบโตปี 2027"
                          ],
-               "summary":  "Applied Materials (AMAT) ร่วงหนัก 10.71% ปิดที่ $302.63 เมื่อวันที่ 20 พ.ย. 2026 จากแรงเทขายหุ้นเซมิคอนดักเตอร์ทั้งกลุ่ม แม้เพิ่งประกาศงบ Q4 FY2026 ทำสถิติสูงสุดเมื่อ 12 พ.ย. โดยมีรายได้ $10.41 พันล้าน (+53% YoY) กำไรต่อหุ้น Non-GAAP $4.16 และให้แนวโน้มรายได้ Q1 FY2027 ที่ $11.10 พันล้านสูงกว่าตลาดคาด ผู้บริหารยังคาดตลาดเครื่องจักรผลิตชิป (WFE) ปี 2027 โตเกิน 30% สะท้อนว่าความได้เปรียบระยะยาวยังแข็งแกร่ง แต่ระยะสั้นกราฟเทคนิคเป็นขาลงชัดเจน ท่ามกลางข้อจำกัดพื้นที่คลีนรูม สัดส่วนยอดขายจีนที่ลดต่ำกว่า 25% และแรงกดดันด้านมูลค่าหุ้น",
-               "technical":  "ภาพเทคนิคของ AMAT ณ วันที่ 20 พ.ย. 2026 อยู่ในภาวะขาลงเต็มตัวทั้งแนวโน้ม โมเมนตัม และวอลุ่ม ราคาปิดที่ $302.63 (-10.71%) อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — เส้นแนวโน้มถ่วงน้ำหนักราคาล่าสุด) ทั้งสามเส้นอย่างมาก ได้แก่ EMA 50 ($411.43), EMA 200 ($421.44) และ EMA 100 ($437.66) โดย EMA 50 ตัดลงต่ำกว่าทั้ง EMA 200 และ EMA 100 สะท้อนโครงสร้างขาลงชัดเจนและสร้างแนวต้านหนาแน่นช่วง $411–$438 ด้านโมเมนตัม MACD 12/26/9 (ตัววัดแรงส่งแนวโน้ม) อยู่ที่ -26.12 ต่ำกว่าเส้น Signal (-24.15) พร้อมค่า Histogram ติดลบ -1.97 ยืนยันแรงขายที่ยังเร่งตัว ขณะที่ RSI 14 (ตัววัดแรงแกว่งตัวระดับ 0–100 หากต่ำกว่า 30 คือเขตขายมากเกินไป) อยู่ที่ 30.83 จ่อเข้าเขต Oversold ราคาปิดหลุดกรอบล่างของ Bollinger Bands (กรอบความผันผวน 20 วันช่วง $309.18–$428.02 ค่ากลาง $368.60) และลงมาอยู่โซนล่างสุด 17% ของกรอบ 52 สัปดาห์ ($215.50–$739.67) โดยมีปริมาณซื้อขาย 14.17 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (8.52 ล้านหุ้น) ถึง 1.66 เท่า ยืนยันแรงขายจากสถาบัน แนวรับจิตวิทยาใกล้สุดอยู่แถว $300 (จุดต่ำสุดระหว่างวัน $300.62) และถัดไปใกล้ $215.50 ส่วนแนวต้านระยะสั้นอยู่ที่ $309.18 และ $368.60"
+               "summary":  "หุ้น Applied Materials (AMAT) พุ่งขึ้น 14.62% มาปิดที่ $346.87 เมื่อวันที่ 23 พ.ย. 2026 ตามแรงรีบาวด์ของกลุ่มชิป แต่ราคายังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $739.67 ถึง 53% และอยู่ใต้เส้นค่าเฉลี่ยหลักทั้งหมด สวนทางกับพื้นฐานที่แข็งแกร่ง โดยวันที่ 12 พ.ย. บริษัททำรายได้ Q4 FY2026 สูงสุดเป็นประวัติการณ์ที่ $10.41 พันล้าน (+53% YoY) กำไรต่อหุ้น non-GAAP $4.16 และให้เป้า Q1 FY2027 ที่ $11.10 พันล้าน ความต่างนี้เกิดจากการลดมูลค่าหุ้นกลุ่ม AI และคอขวดคลีนรูม ไม่ใช่อุปสงค์ที่อ่อนแอ ป้อมปราการธุรกิจระยะยาวยังสมบูรณ์แม้กราฟเป็นขาลง",
+               "technical":  "โครงสร้างทางเทคนิคของ AMAT ยังอยู่ในฝั่งขาลงแม้เพิ่งดีดแรงในวันเดียว วันที่ 23 พ.ย. 2026 ราคาพุ่ง 14.62% แตะ $346.87 ด้วยวอลุ่ม 12.43 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (8.84 ล้านหุ้น) ถึง 1.41 เท่า สะท้อนแรงซื้อคืนชัดเจนหลังถูกเทขายวันก่อนหน้า แต่การปิดต่ำกว่าราคาเปิดที่ $351.92 บ่งชี้แรงขายระหว่างวันแถว $352.91 ด้านแนวโน้มยังเสียหาย ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA ซึ่งให้น้ำหนักราคาล่าสุดมากกว่า) ทุกเส้นราว 15%–20% โดย EMA 50 ($408.90) ตัดลงต่ำกว่า EMA 200 ($420.69) แล้ว และมี EMA 100 ($435.87) กดอยู่ด้านบน ด้านโมเมนตัมเริ่มชะลอแรงลงแต่ยังไม่กลับเป็นขาขึ้น ค่า MACD (ตัวชี้วัดโมเมนตัมแนวโน้มจากเส้นค่าเฉลี่ยสองเส้น) ยังติดลบหนักที่ -24.72 และต่ำกว่าเส้น Signal (-24.26) เล็กน้อย โดยแท่ง Histogram ที่ -0.46 ใกล้เป็นศูนย์ ส่วน RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 43.09 พ้นเขตขายมากเกินไปแต่ยังต่ำกว่ากึ่งกลาง 50 เมื่อดู Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาดีดจากกรอบล่าง $307.10 ซึ่งเป็นแนวรับใกล้ตัวเหนือจุดต่ำสุดรอบปี $215.50 แต่ยังอยู่โซนล่างของกรอบ 52 สัปดาห์ ($215.50–$739.67) โดยมีแนวต้านแรกที่เส้นกลาง $366.57 ถัดไปคือโซน $408.90–$426.04"
            },
     "sources":  [
                     {
                         "date":  "2026-11-12",
-                        "publisher":  "Applied Materials Investor Relations",
+                        "publisher":  "GlobeNewswire",
                         "title":  "Applied Materials Announces Fourth Quarter and Fiscal Year 2026 Results",
-                        "url":  "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-fourth-quarter-and-fiscal-year-2026"
+                        "url":  "https://www.globenewswire.com/news-release/2026/11/12/3091490/0/en/Applied-Materials-Announces-Fourth-Quarter-and-Fiscal-Year-2026-Results.html"
                     },
                     {
-                        "date":  "2026-11-12",
-                        "publisher":  "U.S. Securities and Exchange Commission (EDGAR)",
-                        "title":  "Form 8-K: Applied Materials, Inc. Q4 and Fiscal Year 2026 Financial Results",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/6951/000162828026073360/amat-20261112.htm"
+                        "date":  "2026-10-26",
+                        "publisher":  "Applied Materials",
+                        "title":  "Applied Materials to Increase Its Strategic Investment in BE Semiconductor Industries",
+                        "url":  "https://www.appliedmaterials.com/en/news/press-releases/applied-materials-to-increase-its-strategic-investment-in-be-semiconductor-industries"
                     },
                     {
-                        "date":  "2026-11-12",
-                        "publisher":  "Investing.com",
-                        "title":  "Applied Materials shares gain on Q4 beat",
-                        "url":  "https://www.investing.com/news/stock-market-news/applied-materials-shares-gain-on-q4-beat-938CH-3129849"
+                        "date":  "2026-10-27",
+                        "publisher":  "TrendForce",
+                        "title":  "Applied Materials to Double Besi Stake to 20% on Hybrid Bonding Demand, Pending U.S. Antitrust Review",
+                        "url":  "https://www.trendforce.com/news/2026/10/27/news-applied-materials-to-double-besi-stake-to-20-on-hybrid-bonding-demand-pending-u-s-antitrust-review/"
                     },
                     {
-                        "date":  "2026-11-13",
-                        "publisher":  "TipRanks / The Fly",
-                        "title":  "Applied Materials downgraded to Hold from Buy at Summit Insights",
-                        "url":  "https://www.tipranks.com/news/the-fly/applied-materials-downgraded-to-hold-from-buy-at-summit-insights"
+                        "date":  "2026-10-12",
+                        "publisher":  "GlobeNewswire",
+                        "title":  "Applied Materials Unveils $5 Billion EPIC Center in Silicon Valley to Accelerate Semiconductor Innovation for the AI Era",
+                        "url":  "https://www.globenewswire.com/news-release/2026/10/12/3068228/0/en/Applied-Materials-Unveils-5-Billion-EPIC-Center-in-Silicon-Valley-to-Accelerate-Semiconductor-Innovation-for-the-AI-Era.html"
                     },
                     {
-                        "date":  "2026-11-13",
-                        "publisher":  "Benzinga",
-                        "title":  "JPMorgan Lowers Applied Materials Price Target to $500",
-                        "url":  "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/48854498/jpmorgan-lowers-applied-materials-price-target-to-500"
+                        "date":  "",
+                        "publisher":  "TIKR",
+                        "title":  "Applied Materials Is 47% Off Its High — Summit Insights Downgraded It, and It\u0027s Not About Demand",
+                        "url":  "https://tikr.com/applied-materials-is-47-off-its-high-summit-insights-downgraded-it-and-its-not-about-demand/"
                     },
                     {
-                        "date":  "2026-11-20",
-                        "publisher":  "Seeking Alpha",
-                        "title":  "Applied Materials slides 10% amid tech sector selloff",
-                        "url":  "https://seekingalpha.com/news/7440058-applied-materials-slides-10-amid-tech-sector-selloff"
+                        "date":  "",
+                        "publisher":  "Trefis",
+                        "title":  "What Triggered the Fall in Applied Materials Stock?",
+                        "url":  "https://www.trefis.com/companies/AMAT/no-access-required/what-triggered-the-fall-in-applied-materials-stock"
                     }
                 ]
 }

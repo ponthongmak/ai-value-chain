@@ -6,7 +6,7 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T05:41:33Z",
+    "generatedAt":  "2026-11-24T03:36:59Z",
     "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
@@ -14,37 +14,33 @@
                        "symbol":  "NASDAQ:NVDA",
                        "yahoo":  "NVDA",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-23T05:37:25Z",
-                       "price":  125.53,
-                       "open":  143.52,
-                       "high":  143.73,
-                       "low":  124.5,
-                       "volume":  626373200,
-                       "avgVolume20":  287291305,
-                       "changePct":  -14.01,
-                       "historyDays":  501,
-                       "ema50":  195.87,
-                       "ema100":  203.44,
-                       "ema200":  200.41,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:32:50Z",
+                       "price":  165.05,
+                       "open":  167.04,
+                       "high":  171.5,
+                       "low":  156.93,
+                       "volume":  779184200,
+                       "avgVolume20":  322061310,
+                       "changePct":  31.48,
+                       "historyDays":  500,
+                       "ema50":  194.66,
+                       "ema100":  202.68,
+                       "ema200":  200.03,
                        "bb":  {
-                                  "upper":  234.61,
-                                  "middle":  181.46,
-                                  "lower":  128.31
+                                  "upper":  230.04,
+                                  "middle":  178.91,
+                                  "lower":  127.78
                               },
                        "macd":  {
-                                    "macd":  -19.83,
-                                    "signal":  -15.2,
-                                    "hist":  -4.63
+                                    "macd":  -18.08,
+                                    "signal":  -15.78,
+                                    "hist":  -2.3
                                 },
-                       "rsi14":  15.05,
+                       "rsi14":  42.87,
                        "high52w":  243.37,
                        "low52w":  124.5,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         214.75
-                                     ],
                                      [
                                          "2026-06-04",
                                          218.66
@@ -520,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          125.53
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         165.05
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          206.46,
                                           206.93,
                                           206.86,
                                           206.93,
@@ -642,80 +641,77 @@
                                           202.93,
                                           200.9,
                                           198.74,
-                                          195.87
+                                          195.87,
+                                          194.66
                                       ]
                    },
     "en":  {
-               "caution":  "Headline-driven selling is directly tied to fundamental trust risks, not mere market noise. Until NVIDIA files its delayed Q3 FY27 Form 10-Q and clarifies the scope of the SEC accounting investigation, investors cannot fully verify the quality of rapidly growing receivables ($81.03 billion) and revenue recognition. Simultaneously, losing founder-CEO Jensen Huang without a permanent successor creates real leadership and customer-relationship risk, while stricter U.S. export enforcement across China and Southeast Asia narrows international flexibility. Extreme oversold readings do not prevent further downside if formal SEC findings or restatements emerge.",
+               "caution":  "The Nov 23, 2026 rally relieves leadership panic but does not erase unresolved regulatory and governance risks. Reuters\u0027 Nov 20 report of an SEC accounting probe—paired with a delayed Form 10-Q and a Dec 3 Senate export-control hearing—could trigger fresh volatility if adverse findings emerge. Technically, NVDA closed below its $167.04 open on Nov 23 and still faces thick overhead supply between $178.91 and $202.68. Until the 10-Q is filed cleanly and Q4 margins stabilize near 71%–72%, headline-driven swings remain high.",
                "cons":  [
-                            "Reuters reported on November 20, 2026 that the SEC is examining potential accounting practices at NVIDIA, sparking a 14.01% single-day sell-off.",
-                            "Co-founder and 33-year CEO Jensen Huang abruptly resigned on November 12, 2026, and the board stated it does not intend to reinstate him.",
-                            "NVIDIA broke precedent by delaying its Q3 FY27 Form 10-Q filing while reviewing disclosures around active regulatory and board inquiries.",
-                            "Accounts receivable climbed to $81.03 billion and inventories to $39.72 billion, while top-three direct customers still represent 36% of revenue.",
-                            "NVIDIA halted licensed Hopper chip shipments to China and faces tighter U.S. export rules on Southeast Asian cloud centers plus Q4 gross margin moderation to 71.0%–72.0%."
+                            "Reuters reported on Nov 20, 2026 that U.S. SEC enforcement staff are investigating NVIDIA\u0027s accounting practices while its quarterly Form 10-Q remains delayed.",
+                            "The Nov 12–23 CEO resignation-and-reinstatement saga exposed acute key-person reliance and corporate governance fragility, ahead of a Dec 3 Senate hearing.",
+                            "Q4 FY27 gross margin guidance fell to 71.0%–72.0% from 74.9% non-GAAP in Q3 due to Vera Rubin ramp and component costs.",
+                            "Technical structure stays bearish at $165.05, trading well below the EMA 50 ($194.66), EMA 100 ($202.68), and EMA 200 ($200.03) with negative MACD."
                         ],
-               "fundamental":  "Operationally, NVIDIA\u0027s AI infrastructure franchise remains unmatched. In Q3 FY27 (ended October 25, 2026), revenue doubled YoY to $115.8 billion, GAAP net income rose 105% to $65.3 billion ($2.70 diluted EPS), and Data Center reached $107.6 billion (+110% YoY). Full-rack Vera Rubin NVL72 systems contributed roughly $20 billion in their initial quarter alongside Spectrum-X networking across hyperscalers like Microsoft Azure, Google Cloud, Meta, and Oracle, underscoring sticky CUDA-to-rack integration. Management guided Q4 FY27 revenue to $130.0 billion (+/-3%)—including an extra reporting week and zero China Data Center compute—with gross margins easing from 74.8% to 71.0%–72.0%. Still, investors are questioning earnings quality until the delayed Form 10-Q clarifies rising accounts receivable ($81.03 billion), inventory ($39.72 billion), 36% top-three direct customer concentration, and SEC inquiry disclosures.",
-               "headline":  "Record Q3 Results Overshadowed by CEO Exit and SEC Accounting Probe",
+               "fundamental":  "NVIDIA\u0027s Q3 FY27 report on Nov 17, 2026 confirmed that its core AI compute moat—combining GPUs, networking, and CUDA software—remains dominant. Revenue doubled year-over-year to $115.8 billion (up 20% sequentially), powered by $107.6 billion in Data Center sales and $106.0 billion in Compute \u0026 Networking. Non-GAAP gross margin held at 74.9%, with diluted non-GAAP EPS of $2.68 and $28.1 billion returned to shareholders. Next-generation Vera Rubin NVL72 systems generated nearly $20 billion in their first shipping quarter across Microsoft, Google, AWS, and Oracle\u0027s multi-gigawatt OCI superclusters. Q4 revenue guidance of $130.0 billion (±3%, including an extra week) excludes all China Data Center compute sales after NVIDIA halted Hopper H200 shipments. However, Q4 gross margins are guided to trough at 71.0%–72.0%, while the Nov 20 SEC accounting probe, delayed Form 10-Q, and leadership turmoil put the broader investment thesis on watch.",
+               "headline":  "Jensen Huang Returns After Record Q3, Yet Chart and SEC Probe Remain Overhangs",
                "news":  [
-                            "Nov 20, 2026: Reuters reported that U.S. SEC enforcement staff are examining potential accounting practices at NVIDIA, following a November 17 Wall Street Journal report of an active SEC civil probe. Shares fell 14.01% to $125.53 on 626.37 million volume, though an SEC inquiry does not establish wrongdoing.",
-                            "Nov 17, 2026: NVIDIA posted record Q3 FY27 revenue of $115.8 billion (+103% YoY) and guided Q4 to $130.0 billion, propelled by Vera Rubin NVL72\u0027s ~$20 billion debut. However, management broke precedent by delaying its Form 10-Q filing to review legal and risk-factor disclosures.",
-                            "Nov 17–18, 2026: Interim CEO Colette Kress confirmed NVIDIA halted licensed Hopper (H200) Data Center shipments to China after booking $2.4 billion in Q3, zeroing China compute out of Q4 guidance. Tighter U.S. export rules also targeted Southeast Asian cloud data centers, prompting server partners to restrict regional shipments.",
-                            "Nov 12, 2026: Co-founder and CEO Jensen Huang abruptly resigned from the company and board effective immediately following conduct disclosures, with CFO Colette Kress named interim CEO and Harvey Jones appointed board chair. On the November 17 earnings call, Jones confirmed the board does not intend to reinstate Huang.",
-                            "Nov 13–18, 2026: Wall Street analysts at Truist, Craig-Hallum, William Blair, and Melius Research downgraded NVDA to Hold or Market Perform, citing heightened governance, culture, and execution risk despite blockbuster financial results."
+                            "Nov 23, 2026: NVIDIA\u0027s board unanimously reinstated co-founder Jensen Huang as President, CEO, and director following White House backing, with CFO Colette Kress stepping back from interim CEO. Shares jumped 31.48% to $165.05 on 779.2 million volume, while Bernstein upgraded NVDA to Outperform.",
+                            "Nov 20, 2026: Reuters reported that U.S. SEC enforcement staff are focusing an active investigation on NVIDIA\u0027s accounting practices, while the company\u0027s quarterly Form 10-Q filing remained delayed. Shares sank 14.01% that session to $125.53, touching a 52-week low of $124.50.",
+                            "Nov 17, 2026: NVIDIA posted Q3 FY27 revenue of $115.8 billion (+103% YoY), Data Center revenue of $107.6 billion, and nearly $20 billion from debut Vera Rubin NVL72 shipments. Management guided Q4 revenue to $130.0 billion (±3%) but warned gross margins would dip to 71.0%–72.0% and confirmed zero China compute sales.",
+                            "Nov 16, 2026: The U.S. Commerce Department issued interim export rules blocking advanced AI chips in overseas data centers from remotely serving Chinese customers. NVIDIA simultaneously established a board-level National Security and Export Controls Oversight Committee and faces a Dec 3 Senate Banking Committee hearing.",
+                            "Nov 12, 2026: Jensen Huang abruptly resigned as CEO and director following a board personal-conduct probe, prompting William Blair and KeyBanc downgrades and accelerating a multi-week sell-off from October highs near $243.37."
                         ],
-               "opportunity":  "For long-term AI infrastructure holders, the operational engine underneath the governance storm remains intact. A $130.0 billion Q4 revenue trajectory, $20 billion initial Vera Rubin NVL72 ramp, and deep hyperscaler dependence on CUDA and Spectrum-X networking show competitors have not cracked NVIDIA\u0027s core moat. After a 48.4% drawdown from October\u0027s $243.37 peak and an RSI 14 of 15.05, sentiment already prices in substantial crisis risk. Key milestones to watch—rather than short-term price swings—are a clean Q3 Form 10-Q filing, clarity on the SEC inquiry, stable Q4 gross margins near 71%–72%, and appointment of a credible permanent CEO.",
-               "opportunityCheck":  "Most AI-opportunity sub-scores remain well grounded: Data Center generates 93% of revenue, top-line growth exceeds 100% YoY, and Vera Rubin NVL72\u0027s $20 billion debut confirms market leadership. However, the optionality score looks too high and should be lowered meaningfully. With founder-CEO Jensen Huang gone, interim leadership managing a CEO search, an active SEC accounting probe, and China compute sales zeroed out, management\u0027s bandwidth for new verticals and ecosystem deals is constrained. Bottleneck and pricing power also warrants monitoring as Q4 gross margins moderate to 71.0%–72.0% under tighter export oversight.",
+               "opportunity":  "The Oct–Nov 2026 48% peak-to-trough drawdown was driven primarily by governance and regulatory shocks rather than weakening AI demand. With Q3 FY27 revenue reaching $115.8 billion, Vera Rubin scaling faster than any prior architecture across hyperscalers, and Jensen Huang back as CEO, NVIDIA\u0027s hardware-plus-CUDA dominance remains unmatched. Management projects gross margins will trough in Q4 at 71%–72% and rebound to 72%–73% in FY28. For long-term holders, clean Form 10-Q filing, regulatory clarity, and price reclaiming the $178.91–$202.68 resistance band would signal structural trend repair.",
+               "opportunityCheck":  "The page\u0027s top marks for AI revenue exposure, market growth, and competitive position remain well earned after Q3 FY27 Data Center sales surged 110% year-over-year to $107.6 billion and Vera Rubin hit nearly $20 billion in its debut quarter. However, the bottleneck and pricing power sub-score should be trimmed slightly. Q4 gross margin guidance stepped down to 71%–72% from 74.9% in Q3 on early Rubin ramp and memory costs, while U.S. export rules on Nov 16 shut off China compute and remote-access demand. Optionality stays solid as standalone Vera CPUs gain traction in agentic workloads.",
                "pros":  [
-                            "Q3 FY27 revenue surged 103% YoY to $115.8 billion (Data Center $107.6 billion, +110% YoY) with GAAP gross margin at 74.8%.",
-                            "Next-generation Vera Rubin NVL72 racks debuted with roughly $20 billion in Q3 revenue, the fastest product ramp in company history.",
-                            "Q4 FY27 revenue guidance of $130.0 billion (+/-3%) beats prior expectations despite assuming zero Data Center compute revenue from China.",
-                            "NVIDIA returned $28.1 billion to shareholders in Q3 FY27 and holds roughly $227.3 billion in remaining buyback authorization."
+                            "Q3 FY27 revenue jumped 103% year-over-year to $115.8 billion on Nov 17, 2026, with Data Center sales hitting $107.6 billion.",
+                            "The next-generation Vera Rubin NVL72 platform generated nearly $20 billion in its first shipping quarter, the fastest ramp in NVIDIA\u0027s history.",
+                            "Jensen Huang\u0027s Nov 23, 2026 reinstatement as CEO removes the immediate leadership vacuum and triggered a 31.48% rebound on 2.42x average volume.",
+                            "Q4 FY27 revenue guidance reached $130.0 billion (±3%), demonstrating hyperscaler demand easily absorbs zero China Data Center compute sales."
                         ],
                "risks":  [
-                             "SEC accounting investigation escalating into enforcement actions, fines, or financial restatements.",
-                             "Delayed Q3 FY27 Form 10-Q revealing adverse legal proceedings, internal-control weaknesses, or revenue-recognition issues.",
-                             "Leadership vacuum and potential talent or strategic execution drift after founder-CEO Jensen Huang\u0027s exit.",
-                             "High customer concentration (36% from top three direct buyers) combined with elevated $81.03 billion accounts receivable and $39.72 billion inventory.",
-                             "Tightening U.S. export controls curbing AI server deployments across China and Southeast Asian cloud hubs."
+                             "Adverse findings or restatements from the SEC accounting probe and delayed Form 10-Q filing.",
+                             "Further U.S. export-control enforcement, fines, or statutory chip restrictions following the Dec 3, 2026 Senate hearing.",
+                             "Persistent corporate governance and key-person risk around CEO Jensen Huang and CFO Colette Kress.",
+                             "Deeper gross margin compression below 71% if Vera Rubin production or memory costs stay elevated."
                          ],
-               "summary":  "NVIDIA faces a stark divide between record operations and severe governance shock. On November 17, 2026, Q3 FY27 revenue jumped 103% YoY to $115.8 billion as Vera Rubin NVL72 began shipping, with $130.0 billion guided for Q4. Yet shares fell 14.01% on November 20 to $125.53—down 48.4% from October\u0027s $243.37 high—following founder-CEO Jensen Huang\u0027s November 12 resignation, a delayed Form 10-Q, halted China Hopper sales, and a November 20 Reuters report of an SEC accounting probe. The AI compute moat remains strong, but governance risks put the thesis on watch.",
-               "technical":  "NVIDIA\u0027s technical posture is decisively bearish as of November 20, 2026, based on 501 trading days of data. Shares closed at $125.53 (-14.01%), far below the 50-day, 100-day, and 200-day exponential moving averages (EMAs, which track smoothed price trends) at $195.87, $203.44, and $200.41. The EMA 50 has already dropped below both longer-term EMAs, confirming a steep structural breakdown. Momentum is severely negative: MACD 12/26/9 (a trend-momentum gauge) sits at -19.83 below its -15.20 signal line, with a negative -4.63 histogram showing accelerating downward pressure. Meanwhile, RSI 14 (a 0–100 momentum gauge where readings under 30 indicate oversold conditions) has plunged to an extreme 15.05. Volatility and range positioning confirm capitulation: price closed beneath the lower Bollinger Band (a volatility envelope around the 20-day average) at $128.31 and sits just above its 52-week low of $124.50, 48.4% off October\u0027s $243.37 peak. Volume reached 626.37 million shares—2.18 times the 20-day average of 287.29 million—validating heavy institutional distribution. Immediate support rests at $124.50, with resistance at $128.31, $143.73, and the $181.46 middle band."
+               "summary":  "NVIDIA closed at $165.05 on Nov 23, 2026, surging 31.48% after the board unanimously reinstated co-founder Jensen Huang as CEO, reversing his Nov 12 resignation following a personal-conduct probe. Operationally, Q3 FY27 results on Nov 17 were exceptional: revenue doubled year-over-year to $115.8 billion and next-gen Vera Rubin generated nearly $20 billion in its first shipping quarter. Yet shares remain 32% below their $243.37 52-week high amid an active SEC accounting probe, a delayed Form 10-Q, tighter U.S. China chip curbs, and Q4 gross margin guidance dipping to 71%–72%.",
+               "technical":  "Despite surging 31.48% to $165.05 on Nov 23, 2026, NVDA\u0027s broader chart remains bearish across 500 trading days of history. Price still sits well below all three exponential moving averages (EMA — trend lines tracking average prices): EMA 50 ($194.66), EMA 200 ($200.03), and EMA 100 ($202.68). Because EMA 50 sits under EMA 200, medium-term trend remains damaged, making $194.66–$202.68 heavy overhead resistance. Momentum has not flipped bullish yet: MACD (a gauge comparing short- and long-term trend averages) reads -18.08 below its -15.78 signal line, leaving a negative -2.30 histogram. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) recovered to 42.87, still below the neutral 50 mark. Within Bollinger Bands (a volatility channel around the 20-day average) spanning $127.78 to $230.04, NVDA bounced off the lower band but stays below the $178.91 midline and sits in the bottom 34% of its $124.50–$243.37 52-week range. Massive volume of 779.2 million shares—2.42x the 322.1 million 20-day average—confirms strong institutional buying, though closing below the $167.04 open leaves $171.50–$178.91 as immediate resistance and $156.93, then $124.50–$127.78, as key support."
            },
     "th":  {
-               "caution":  "แรงขายรอบนี้ไม่ได้เกิดจากอารมณ์ตลาดเพียงอย่างเดียว แต่สะท้อนความเสี่ยงด้านความเชื่อมั่นอย่างแท้จริง ตราบใดที่ NVIDIA ยังไม่ยื่นรายงาน Form 10-Q ไตรมาส Q3 FY27 และยังไม่ชัดเจนว่า SEC กำลังตรวจสอบประเด็นบัญชีส่วนใด นักลงทุนย่อมกังวลต่อคุณภาพรายได้และลูกหนี้การค้าที่พุ่งสูงถึง $81.03 พันล้าน ขณะเดียวกัน การขาดซีอีโอผู้ก่อตั้งอย่าง Jensen Huang ในช่วงที่ยังหาตัวแทนถาวรไม่ได้ รวมถึงมาตรการคุมส่งออกสหรัฐฯ ในจีนและเอเชียตะวันออกเฉียงใต้ที่เข้มข้นขึ้น ล้วนเป็นแรงกดดันที่ภาวะ oversold รุนแรงยังไม่สามารถรับประกันจุดต่ำสุดได้หากมีข้อสรุปเชิงลบจาก SEC ตามมา",
+               "caution":  "แม้การดีดตัวเมื่อ 23 พ.ย. 2026 จะช่วยคลายความกังวลเรื่องสุญญากาศผู้บริหาร แต่ความเสี่ยงด้านกฎระเบียบและธรรมาภิบาลยังไม่คลี่คลาย ข่าวจาก Reuters เมื่อ 20 พ.ย. เรื่องการสอบสวนด้านบัญชีของ SEC ควบคู่กับการส่งงบ Form 10-Q ที่ยังล่าช้า และการชี้แจงต่อวุฒิสภาสหรัฐฯ วันที่ 3 ธ.ค. อาจจุดชนวนความผันผวนรอบใหม่ได้ทุกเมื่อ ด้านกราฟ NVDA ปิดต่ำกว่าราคาเปิด $167.04 และยังติดแนวต้านหนาแน่นช่วง $178.91–$202.68 จนกว่างบ 10-Q จะยื่นได้เรียบร้อยและมาร์จิ้นไตรมาส 4 ยืนแถว 71%–72% ความผันผวนตามข่าวจะยังสูงต่อเนื่อง",
                "cons":  [
-                            "Reuters รายงานวันที่ 20 พ.ย. 2026 ว่า SEC กำลังตรวจสอบแนวปฏิบัติทางบัญชีของ NVIDIA จนกดดันให้หุ้นร่วงหนัก 14.01% ในวันเดียว",
-                            "Jensen Huang ผู้ร่วมก่อตั้งและซีอีโอมากว่า 33 ปี ลาออกกะทันหันวันที่ 12 พ.ย. 2026 โดยบอร์ดยืนยันว่าจะไม่เชิญกลับมาดำรงตำแหน่งอีก",
-                            "NVIDIA เลื่อนการยื่นรายงาน Form 10-Q ไตรมาส Q3 FY27 ออกไปจากกำหนดปกติเพื่อทบทวนถ้อยคำด้านความเสี่ยงและคดีความจากการสอบสวนที่กำลังดำเนินอยู่",
-                            "ลูกหนี้การค้าพุ่งขึ้นเป็น $81.03 พันล้าน และสินค้าคงคลังอยู่ที่ $39.72 พันล้าน ขณะที่ลูกค้ารายใหญ่ 3 อันดับแรกยังคิดเป็นถึง 36% ของรายได้รวม",
-                            "NVIDIA หยุดส่งออกชิป Hopper ไปจีนและเผชิญเกณฑ์คุมส่งออกสหรัฐฯ ในเอเชียตะวันออกเฉียงใต้ที่เข้มงวดขึ้น พร้อมคาดอัตรากำไรขั้นต้น Q4 ลดลงสู่ 71.0%–72.0%"
+                            "Reuters รายงานเมื่อ 20 พ.ย. 2026 ว่า SEC สหรัฐฯ กำลังสอบสวนแนวปฏิบัติทางบัญชีของ NVIDIA ขณะที่บริษัทชะลอการยื่นงบ Form 10-Q ออกไปก่อน",
+                            "เหตุการณ์ลาออกและกลับมาเป็น CEO ช่วง 12–23 พ.ย. สะท้อนการพึ่งพาตัวบุคคลสูงและความเปราะบางด้านธรรมาภิบาล ก่อนการไต่สวนของวุฒิสภาวันที่ 3 ธ.ค.",
+                            "คาดการณ์อัตรากำไรขั้นต้น Q4 FY27 ลดลงเหลือ 71.0%–72.0% จาก 74.9% ใน Q3 จากต้นทุนช่วงเริ่มผลิต Vera Rubin และชิ้นส่วนหน่วยความจำที่สูงขึ้น",
+                            "กราฟเทคนิคยังเป็นขาลงที่ $165.05 โดยราคาต่ำกว่า EMA 50 ($194.66), EMA 100 ($202.68) และ EMA 200 ($200.03) ขณะที่ MACD ยังติดลบ"
                         ],
-               "fundamental":  "ในแง่ธุรกิจหลัก NVIDIA ยังครองห่วงโซ่มูลค่า AI ได้อย่างโดดเด่น โดยงบ Q3 FY27 (สิ้นสุด 25 ต.ค. 2026) มีรายได้ $115.8 พันล้าน (+103% YoY) กำไรสุทธิ GAAP $65.3 พันล้าน (+105% YoY หรือ EPS $2.70) และกลุ่ม Data Center แตะ $107.6 พันล้าน (+110% YoY) การส่งมอบแร็ค Vera Rubin NVL72 เริ่มต้นด้วยรายได้ราว $20 พันล้านในไตรมาสแรกควบคู่ระบบเครือข่าย Spectrum-X ให้ลูกค้ารายใหญ่เช่น Microsoft Azure, Google Cloud, Meta และ Oracle สะท้อนแรงยึดเหนี่ยวของระบบนิเวศ CUDA ผู้บริหารคาดรายได้ Q4 FY27 ที่ $130.0 พันล้าน (+/-3%) แม้ตัดรายได้คอมพิวต์จากจีนเป็นศูนย์ (และมีสัปดาห์บัญชีเพิ่ม 1 สัปดาห์) โดยอัตรากำไรขั้นต้นชะลอจาก 74.8% สู่ 71.0%–72.0% อย่างไรก็ดี ตลาดยังคงตั้งคำถามต่อคุณภาพกำไรจนกว่า Form 10-Q จะอธิบายตัวเลขลูกหนี้ $81.03 พันล้าน สินค้าคงคลัง $39.72 พันล้าน การกระจุกตัวของลูกค้ารายใหญ่ 3 ราย (36%) และรายละเอียดการสอบสวนของ SEC",
-               "headline":  "งบ Q3 ทุบสถิติ แต่หุ้นดิ่งหนักจากซีอีโอลาออกและข่าว SEC สอบบัญชี",
+               "fundamental":  "งบ Q3 FY27 เมื่อ 17 พ.ย. 2026 ยืนยันว่าป้อมปราการด้าน AI compute ของ NVIDIA ทั้งชิป GPU ระบบเครือข่าย และซอฟต์แวร์ CUDA ยังแข็งแกร่งเหนือคู่แข่ง รายได้รวมโต 103% YoY สู่ $115.8 พันล้าน (+20% QoQ) นำโดยธุรกิจ Data Center ที่ $107.6 พันล้าน และกลุ่ม Compute \u0026 Networking $106.0 พันล้าน อัตรากำไรขั้นต้นแบบ Non-GAAP อยู่ที่ 74.9% กำไรต่อหุ้น Non-GAAP $2.68 และคืนเงินให้ผู้ถือหุ้น $28.1 พันล้าน แพลตฟอร์มรุ่นใหม่ Vera Rubin NVL72 ทำรายได้เกือบ $20 พันล้านตั้งแต่ไตรมาสแรกที่ส่งมอบ ให้ลูกค้าระดับไฮเปอร์สเกลอย่าง Microsoft, Google, AWS และซูเปอร์คลัสเตอร์ระดับหลายกิกะวัตต์ของ Oracle เป้ารายได้ Q4 ที่ $130.0 พันล้าน (±3% รวมสัปดาห์พิเศษ) สะท้อนดีมานด์นอกจีนที่แกร่งแม้หยุดส่งออก Hopper H200 ไปจีนแล้ว อย่างไรก็ตาม มาร์จิ้น Q4 ที่ชะลอลงสู่ 71.0%–72.0% ผนวกการสอบสวนบัญชีของ SEC งบ 10-Q ที่เลื่อนยื่น และความปั่นป่วนระดับผู้บริหาร ทำให้ต้องจัดสถานะสมมติฐานการลงทุนระยะยาวไว้ในโหมดเฝ้าระวัง",
+               "headline":  "Jensen Huang คัมแบ็กหลังงบ Q3 ทำสถิติ แต่กราฟและคดีสอบบัญชี SEC ยังกดดัน",
                "news":  [
-                            "20 พ.ย. 2026: Reuters รายงานว่าเจ้าหน้าที่ SEC ของสหรัฐฯ กำลังตรวจสอบประเด็นทางบัญชีของ NVIDIA ต่อเนื่องจากรายงานของ Wall Street Journal วันที่ 17 พ.ย. เรื่องการสอบสวนทางแพ่ง ส่งผลให้หุ้นร่วง 14.01% ปิดที่ $125.53 ด้วยวอลุ่ม 626.37 ล้านหุ้น ทั้งนี้การสอบสวนยังไม่ถือเป็นการยืนยันความผิด",
-                            "17 พ.ย. 2026: NVIDIA รายงานรายได้ Q3 FY27 ทำสถิติใหม่ที่ $115.8 พันล้าน (+103% YoY) และคาดรายได้ Q4 ที่ $130.0 พันล้าน จากแรงหนุนของ Vera Rubin NVL72 ที่ทำรายได้เปิดตัวราว $20 พันล้าน แต่บริษัทผิดธรรมเนียมเดิมด้วยการเลื่อนยื่น Form 10-Q เพื่อทบทวนข้อมูลความเสี่ยงด้านกฎหมายและการสอบสวน",
-                            "17–18 พ.ย. 2026: Colette Kress รักษาการซีอีโอยืนยันว่า NVIDIA หยุดส่งออกชิป Hopper (H200) ที่มีใบอนุญาตไปจีนแล้ว หลังรับรู้รายได้ส่วนนี้ $2.4 พันล้านใน Q3 และตั้งสมมติฐานรายได้คอมพิวต์จากจีนเป็นศูนย์ใน Q4 ขณะที่สหรัฐฯ ออกกฎคุมศูนย์ข้อมูลคลาวด์ในเอเชียตะวันออกเฉียงใต้เข้มงวดขึ้นจนพันธมิตรเซิร์ฟเวอร์ต้องจำกัดการส่งมอบ",
-                            "12 พ.ย. 2026: Jensen Huang ผู้ร่วมก่อตั้งและซีอีโอลาออกจากทุกตำแหน่งและบอร์ดทันทีหลังมีประเด็นด้านพฤติกรรมส่วนบุคคล โดยบอร์ดแต่งตั้ง CFO Colette Kress เป็นรักษาการซีอีโอ และ Harvey Jones เป็นประธานบอร์ด ซึ่ง Jones ย้ำในวันแถลงงบ 17 พ.ย. ว่าจะไม่นำ Huang กลับมาเป็นซีอีโอ",
-                            "13–18 พ.ย. 2026: โบรกเกอร์ชั้นนำอย่าง Truist, Craig-Hallum, William Blair และ Melius Research ทยอยลดคำแนะนำหุ้น NVDA ลงสู่ Hold หรือ Market Perform โดยชี้ว่าความเสี่ยงด้านธรรมาภิบาล วัฒนธรรมองค์กร และการดำเนินงานมีน้ำหนักมากกว่างบการเงินที่แข็งแกร่ง"
+                            "23 พ.ย. 2026: บอร์ด NVIDIA มีมติเอกฉันท์คืนตำแหน่งประธานและ CEO ให้ Jensen Huang หลังได้รับการสนับสนุนจากทำเนียบขาว ส่วน CFO Colette Kress กลับไปดูแลงานการเงินเต็มตัว หุ้นดีดตัว 31.48% ปิด $165.05 ด้วยวอลุ่ม 779.2 ล้านหุ้น ขณะที่ Bernstein ปรับคำแนะนำขึ้นเป็น Outperform",
+                            "20 พ.ย. 2026: Reuters รายงานว่าเจ้าหน้าที่ SEC สหรัฐฯ มุ่งสอบสวนแนวปฏิบัติทางบัญชีของ NVIDIA ระหว่างที่บริษัทยังเลื่อนส่งงบรายไตรมาส Form 10-Q ส่งผลให้หุ้นร่วง 14.01% ปิด $125.53 และลงไปแตะจุดต่ำสุดรอบ 52 สัปดาห์ที่ $124.50",
+                            "17 พ.ย. 2026: NVIDIA เผยรายได้ Q3 FY27 ที่ $115.8 พันล้าน (+103% YoY) โดย Data Center ทำได้ $107.6 พันล้าน และ Vera Rubin NVL72 ทำยอดเกือบ $20 พันล้านในไตรมาสแรก ผู้บริหารคาดรายได้ Q4 ที่ $130.0 พันล้าน (±3%) โดยไม่รวมยอดขายชิปประมวลผลในจีน แต่เตือนอัตรากำไรขั้นต้นจะชะลอลงเหลือ 71.0%–72.0%",
+                            "16 พ.ย. 2026: กระทรวงพาณิชย์สหรัฐฯ ออกกฎควบคุมส่งออกชั่วคราวห้ามนำชิป AI ขั้นสูงในดาต้าเซ็นเตอร์ต่างประเทศมาให้บริการลูกค้าจีนจากระยะไกล ด้าน NVIDIA ตั้งคณะกรรมการบอร์ดดูแลความมั่นคงแห่งชาติและการควบคุมส่งออก พร้อมเตรียมเข้าชี้แจงต่อคณะกรรมาธิการธนาคารวุฒิสภาวันที่ 3 ธ.ค.",
+                            "12 พ.ย. 2026: Jensen Huang ลาออกจากตำแหน่ง CEO และกรรมการกะทันหันหลังบอร์ดสอบสวนเรื่องพฤติกรรมส่วนตัว ทำให้ William Blair และ KeyBanc ปรับลดคำแนะนำ และเร่งแรงขายต่อเนื่องจากจุดสูงสุดเดือน ต.ค. แถว $243.37"
                         ],
-               "opportunity":  "สำหรับผู้ถือหุ้นโครงสร้างพื้นฐาน AI ระยะยาว เครื่องจักรธุรกิจเบื้องหลังพายุข่าวร้ายยังไม่เสียหาย แนวโน้มรายได้ Q4 ระดับ $130.0 พันล้าน การเปิดตัว Vera Rubin NVL72 มูลค่าราว $20 พันล้าน และการพึ่งพาระบบ CUDA กับ Spectrum-X ของไฮเปอร์สเกลเลอร์ชี้ว่าคู่แข่งยังเจาะคูเมืองหลักไม่ได้ หลังราคาปรับฐานถึง 48.4% จากจุดสูงสุดเดือน ต.ค. ที่ $243.37 พร้อม RSI 14 ที่ 15.05 ตลาดได้ซึมซับความกังวลไปมากแล้ว หมุดหมายสำคัญที่ควรติดตามแทนการเก็งจังหวะระยะสั้นคือการยื่น Form 10-Q ที่โปร่งใส ความชัดเจนจากการสอบสวนของ SEC การรักษากำไรขั้นต้นใกล้ 71%–72% และการสรรหาซีอีโอถาวรที่น่าเชื่อถือ",
-               "opportunityCheck":  "คะแนนโอกาสด้าน AI ส่วนใหญ่ยังสอดคล้องกับข้อเท็จจริง เพราะธุรกิจ Data Center คิดเป็นถึง 93% ของรายได้ การเติบโตยังเกิน 100% YoY และการเปิดตัว Vera Rubin NVL72 มูลค่าราว $20 พันล้านยืนยันความเป็นผู้นำตลาดชัดเจน อย่างไรก็ตาม คะแนนด้าน optionality (โอกาสต่อยอดธุรกิจใหม่) ดูสูงเกินไปและควรปรับลดลงอย่างมีนัยสำคัญ เนื่องจากการขาดซีอีโอผู้ก่อตั้ง การบริหารช่วงเปลี่ยนผ่าน คดีสอบบัญชีของ SEC และการสูญเสียตลาดคอมพิวต์จีนจำกัดความคล่องตัวในการขยายดีลใหม่ นอกจากนี้ควรจับตาด้าน bottleneck \u0026 pricing power เพิ่มเติมหลังอัตรากำไรขั้นต้น Q4 มีแนวโน้มชะลอสู่ 71.0%–72.0% ภายใต้เกณฑ์ส่งออกที่เข้มงวดขึ้น",
+               "opportunity":  "การปรับฐานแรงถึง 48% จากจุดสูงสุดในเดือน ต.ค.–พ.ย. 2026 มีสาเหตุหลักจากข่าวธรรมาภิบาลและกฎระเบียบ ไม่ใช่เพราะความต้องการชิป AI แผ่วลง รายได้ Q3 FY27 ที่ $115.8 พันล้าน การขยายตัวเร็วเป็นประวัติการณ์ของ Vera Rubin ในกลุ่มไฮเปอร์สเกล และการกลับมาของ Jensen Huang สะท้อนว่าความได้เปรียบด้านฮาร์ดแวร์และ CUDA ยังยากจะถูกแทนที่ ผู้บริหารคาดมาร์จิ้นจะต่ำสุดใน Q4 ที่ 71%–72% ก่อนฟื้นสู่ 72%–73% ในปี FY28 สำหรับนักลงทุนระยะยาว การยื่น Form 10-Q อย่างโปร่งใส ความชัดเจนจาก SEC และการกลับมายืนเหนือแนวต้าน $178.91–$202.68 จะเป็นสัญญาณฟื้นตัวของโครงสร้างราคา",
+               "opportunityCheck":  "คะแนนระดับสูงในหมวดสัดส่วนรายได้ AI การเติบโตของตลาด และความเป็นผู้นำยังสอดคล้องกับความจริง หลังรายได้ Data Center ไตรมาส 3 โต 110% YoY แตะ $107.6 พันล้าน และ Vera Rubin ทำยอดเกือบ $20 พันล้านในไตรมาสแรก อย่างไรก็ตาม ควรปรับลดคะแนนด้านคอขวดและอำนาจกำหนดราคาลงเล็กน้อย เพราะแนวโน้มอัตรากำไรขั้นต้น Q4 ชะลอลงสู่ 71%–72% จาก 74.9% ใน Q3 จากต้นทุนเร่งผลิตและหน่วยความจำ ขณะที่กฎควบคุมส่งออกวันที่ 16 พ.ย. ปิดช่องตลาดจีนและการเช่าใช้ระยะไกล ด้านทางเลือกเติบโตใหม่ยังดูดีจากการที่ Vera CPU เริ่มถูกใช้ในงาน AI เชิงเอเจนต์",
                "pros":  [
-                            "รายได้ Q3 FY27 พุ่ง 103% YoY แตะ $115.8 พันล้าน (Data Center $107.6 พันล้าน โต 110% YoY) พร้อมอัตรากำไรขั้นต้น GAAP สูงถึง 74.8%",
-                            "แร็คประมวลผลรุ่นใหม่ Vera Rubin NVL72 เปิดตัวทำรายได้ราว $20 พันล้านในไตรมาสแรก นับเป็นการขยายกำลังผลิตที่เร็วที่สุดในประวัติศาสตร์บริษัท",
-                            "คาดการณ์รายได้ Q4 FY27 ที่ $130.0 พันล้าน (+/-3%) สูงกว่าที่ตลาดเคยคาด แม้ตั้งสมมติฐานรายได้คอมพิวต์ Data Center จากจีนเป็นศูนย์",
-                            "NVIDIA คืนทุนให้ผู้ถือหุ้น $28.1 พันล้านใน Q3 FY27 และยังมีวงเงินซื้อหุ้นคืนคงเหลืออีกราว $227.3 พันล้าน"
+                            "รายได้ Q3 FY27 เมื่อ 17 พ.ย. 2026 พุ่ง 103% YoY แตะ $115.8 พันล้าน โดย Data Center ทำสถิติ $107.6 พันล้าน",
+                            "แพลตฟอร์มรุ่นใหม่ Vera Rubin NVL72 ทำยอดขายเกือบ $20 พันล้านในไตรมาสแรกที่ส่งมอบ ถือเป็นการขยายกำลังผลิตที่เร็วที่สุดของบริษัท",
+                            "การคืนตำแหน่ง CEO ให้ Jensen Huang เมื่อ 23 พ.ย. 2026 ปิดความเสี่ยงสุญญากาศผู้นำ และหนุนราคาดีดขึ้น 31.48% พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย 2.42 เท่า",
+                            "เป้ารายได้ Q4 FY27 สูงถึง $130.0 พันล้าน (±3%) แสดงให้เห็นว่าดีมานด์จากไฮเปอร์สเกลชดเชยยอดขายชิปจีนที่เป็นศูนย์ได้สบาย"
                         ],
                "risks":  [
-                             "การสอบสวนด้านบัญชีของ SEC อาจลุกลามสู่มาตรการบังคับใช้กฎหมาย ค่าปรับ หรือการปรับงบการเงินย้อนหลัง",
-                             "รายงาน Form 10-Q ไตรมาส Q3 FY27 ที่เลื่อนออกไปอาจเปิดเผยข้อพิพาททางกฎหมาย จุดอ่อนการควบคุมภายใน หรือประเด็นรับรู้รายได้เพิ่มเติม",
-                             "ภาวะสุญญากาศผู้นำและความเสี่ยงด้านการรักษาบุคลากรหรือทิศทางกลยุทธ์หลัง Jensen Huang ลาออก",
-                             "การกระจุกตัวของลูกค้าสูง (ลูกค้ารายใหญ่ 3 รายคิดเป็น 36%) ควบคู่ลูกหนี้การค้าที่พุ่งเป็น $81.03 พันล้าน และสินค้าคงคลัง $39.72 พันล้าน",
-                             "มาตรการควบคุมส่งออกของสหรัฐฯ ที่เข้มงวดขึ้นอาจชะลอการติดตั้งเซิร์ฟเวอร์ AI ทั้งในจีนและศูนย์ข้อมูลคลาวด์ในเอเชียตะวันออกเฉียงใต้"
+                             "ผลสอบสวนทางบัญชีของ SEC ที่อาจนำไปสู่การปรับแก้ตัวเลขงบการเงิน หรือความล่าช้าเพิ่มเติมของ Form 10-Q",
+                             "มาตรการควบคุมการส่งออก บทลงโทษ หรือกฎหมายคุมชิปเพิ่มเติมหลังการไต่สวนของวุฒิสภาสหรัฐฯ วันที่ 3 ธ.ค. 2026",
+                             "ความเสี่ยงด้านธรรมาภิบาลและการพึ่งพาผู้บริหารหลักอย่าง CEO Jensen Huang และ CFO Colette Kress",
+                             "อัตรากำไรขั้นต้นอาจถูกกดดันต่ำกว่า 71% หากต้นทุนการผลิต Vera Rubin หรือหน่วยความจำยืดเยื้อกว่าคาด"
                          ],
-               "summary":  "NVIDIA กำลังเผชิญภาพที่สวนทางกันอย่างรุนแรงระหว่างงบการเงินระดับสถิติกับวิกฤตธรรมาภิบาล วันที่ 17 พ.ย. 2026 บริษัทเผยรายได้ Q3 FY27 โต 103% YoY แตะ $115.8 พันล้านจากแรงหนุน Vera Rubin NVL72 และคาด Q4 พุ่งสู่ $130.0 พันล้าน ทว่าหุ้นกลับดิ่ง 14.01% ในวันที่ 20 พ.ย. ปิดที่ $125.53 ลดลง 48.4% จากจุดสูงสุด $243.37 ในเดือน ต.ค. หลัง Jensen Huang ลาออกกะทันหันวันที่ 12 พ.ย. การเลื่อนส่ง Form 10-Q การหยุดขายชิป Hopper ในจีน และข่าว Reuters วันที่ 20 พ.ย. ว่า SEC สอบสวนประเด็นบัญชี คูเมืองด้านชิป AI ยังแกร่ง แต่ความเสี่ยงธรรมาภิบาลทำให้ต้องเฝ้าระวังสมมติฐานการลงทุน",
-               "technical":  "ภาพเทคนิคของ NVDA ณ วันที่ 20 พ.ย. 2026 อยู่ในภาวะขาลงชัดเจนจากข้อมูลย้อนหลัง 501 วันทำการ ราคาปิดที่ $125.53 (-14.01%) อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่ EMA (เส้นค่าเฉลี่ยถ่วงน้ำหนักเพื่อดูแนวโน้มราคา) ทั้ง 3 เส้นมาก ได้แก่ EMA 50 ที่ $195.87, EMA 100 ที่ $203.44 และ EMA 200 ที่ $200.41 โดย EMA 50 ตัดลงต่ำกว่าเส้นระยะยาวทั้งสองแล้วยืนยันการหลุดแนวโน้มขาขึ้น ด้านโมเมนตัมอ่อนแรงหนัก ค่า MACD 12/26/9 (เครื่องมือวัดแรงส่งของแนวโน้ม) อยู่ที่ -19.83 ต่ำกว่าเส้นสัญญาณ -15.20 พร้อมฮิสโตแกรมติดลบ -4.63 สะท้อนแรงขายที่ยังเร่งตัว ขณะที่ RSI 14 (มาตรวัดโมเมนตัม 0–100 หากต่ำกว่า 30 คือภาวะขายมากเกินไป) ดิ่งลงสู่ระดับสุดโต่งที่ 15.05 ด้านความผันผวน ราคาปิดหลุดกรอบล่างของ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ที่ $128.31 และอยู่เหนือจุดต่ำสุดรอบ 52 สัปดาห์ที่ $124.50 เพียงเล็กน้อย ห่างจากจุดสูงสุด $243.37 ถึง 48.4% โดยมีปริมาณซื้อขาย 626.37 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 287.29 ล้านหุ้นถึง 2.18 เท่า ยืนยันแรงเทขายของสถาบัน แนวรับสำคัญอยู่ที่ $124.50 ส่วนแนวต้านอยู่ที่ $128.31, $143.73 และเส้นกลาง $181.46"
+               "summary":  "NVDA ปิดที่ $165.05 เมื่อ 23 พ.ย. 2026 พุ่งขึ้น 31.48% หลังบอร์ดมีมติเอกฉันท์คืนตำแหน่ง CEO ให้ Jensen Huang พลิกคำประกาศลาออกเมื่อ 12 พ.ย. จากกรณีสอบสวนเรื่องส่วนตัว ด้านพื้นฐานงบ Q3 FY27 เมื่อ 17 พ.ย. ออกมาแข็งแกร่งมาก รายได้โตเท่าตัว YoY สู่ $115.8 พันล้าน และ Vera Rubin ทำยอดเกือบ $20 พันล้านตั้งแต่ไตรมาสแรกที่ส่งมอบ อย่างไรก็ดี ราคาหุ้นยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $243.37 ราว 32% ท่ามกลางแรงกดดันจากการสอบสวนด้านบัญชีของ SEC งบ Form 10-Q ที่เลื่อนยื่น กฎคุมส่งออกจีนที่เข้มขึ้น และมาร์จิ้น Q4 ที่ลดลงสู่ 71%–72%",
+               "technical":  "แม้ NVDA จะพุ่งแรง 31.48% สู่ $165.05 เมื่อ 23 พ.ย. 2026 แต่ภาพรวมกราฟจากข้อมูล 500 วันทำการยังอยู่ในโครงสร้างขาลง ราคายังต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — เส้นบอกทิศทางแนวโน้มราคา) ทั้งสามเส้น ได้แก่ EMA 50 ($194.66), EMA 200 ($200.03) และ EMA 100 ($202.68) โดยที่ EMA 50 ตัดลงต่ำกว่า EMA 200 สะท้อนแนวโน้มระยะกลางที่เสียหายและทำให้โซน $194.66–$202.68 เป็นแนวต้านหนาแน่น ด้านโมเมนตัมยังไม่กลับเป็นบวก โดย MACD (เครื่องมือวัดแรงส่งจากการเทียบค่าเฉลี่ยระยะสั้นและยาว) อยู่ที่ -18.08 ต่ำกว่าเส้น Signal ที่ -15.78 ทำให้ฮิสโตแกรมยังติดลบ -2.30 ส่วน RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นมาที่ 42.87 แต่ยังต่ำกว่าระดับกลาง 50 ด้านความผันผวนในกรอบ Bollinger Bands (กรอบวัดความผันผวนรอบค่าเฉลี่ย 20 วัน) ช่วง $127.78–$230.04 ราคาดีดพ้นขอบล่างแต่ยังต่ำกว่าเส้นกลาง $178.91 และอยู่ราว 34% ล่างของกรอบ 52 สัปดาห์ ($124.50–$243.37) วอลุ่ม 779.2 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (322.1 ล้านหุ้น) ถึง 2.42 เท่า ยืนยันแรงซื้อสถาบัน แต่การปิดต่ำกว่าราคาเปิด $167.04 ทำให้มีแนวต้านระยะสั้นที่ $171.50–$178.91 และแนวรับที่ $156.93 ถัดลงไปคือ $124.50–$127.78"
            },
     "sources":  [
                     {
@@ -723,6 +719,12 @@
                         "publisher":  "NVIDIA Newsroom",
                         "title":  "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
                         "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
+                    },
+                    {
+                        "date":  "2026-11-23",
+                        "publisher":  "NVIDIA Newsroom",
+                        "title":  "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
                     },
                     {
                         "date":  "2026-11-12",
@@ -734,25 +736,25 @@
                         "date":  "2026-11-20",
                         "publisher":  "Reuters",
                         "title":  "Nvidia\u0027s accounting is a focus of US SEC investigation, sources say",
-                        "url":  "https://www.reuters.com/world/us-secs-nvidia-probe-is-examining-potential-accounting-issues-sources-say-2026-11-20/"
+                        "url":  "https://www.reuters.com/world/us/nvidias-accounting-is-focus-us-sec-investigation-sources-say-2026-11-20/"
                     },
                     {
-                        "date":  "2026-11-17",
-                        "publisher":  "The Wall Street Journal",
-                        "title":  "SEC Is Probing Nvidia Amid Departure of CEO Jensen Huang",
-                        "url":  "https://www.wsj.com/business/sec-is-probing-nvidia-amid-departure-of-ceo-jensen-huang-ee7643f8"
+                        "date":  "2026-11-16",
+                        "publisher":  "TechCrunch",
+                        "title":  "US tightens AI chip export controls to deter Chinese companies from accessing compute remotely",
+                        "url":  "https://techcrunch.com/2026/11/16/us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-compute-remotely/"
                     },
                     {
-                        "date":  "2026-11-18",
-                        "publisher":  "CBS News",
-                        "title":  "Nvidia says it will stop selling some AI data center chips to China",
-                        "url":  "https://www.cbsnews.com/news/nvidia-stops-selling-ai-data-center-chips-china-hopper-h200/"
+                        "date":  "2026-11-23",
+                        "publisher":  "The Guardian",
+                        "title":  "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+                        "url":  "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-nvidia-ceo-trump-intervenes"
                     },
                     {
-                        "date":  "2026-11-17",
-                        "publisher":  "Forbes",
-                        "title":  "Nvidia Reports Strong $115.8 Billion Quarterly Revenue In First Earnings Post-Jensen Huang",
-                        "url":  "https://www.forbes.com/sites/fionariley/2026/11/17/nvidia-reports-strong-1158-billion-quarterly-revenue-in-first-earnings-post-jensen-huang/"
+                        "date":  "2026-11-23",
+                        "publisher":  "CNN Business",
+                        "title":  "Nvidia shares soar more than 30% after Huang reinstated as CEO",
+                        "url":  "https://www.cnn.com/2026/11/23/investing/nvidia-shares-surge-huang-ceo-reinstated/index.html"
                     }
                 ]
 }

@@ -2,47 +2,45 @@
     "ticker":  "MRVL",
     "name":  "Marvell Technology",
     "symbol":  "NASDAQ:MRVL",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-22T15:43:18Z",
-    "costUsd":  0.7872479,
+    "generatedAt":  "2026-11-24T04:34:59Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NASDAQ:MRVL",
                        "yahoo":  "MRVL",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-22T15:40:17Z",
-                       "price":  122.28,
-                       "open":  132.89,
-                       "high":  134.18,
-                       "low":  120.56,
-                       "volume":  40302600,
-                       "avgVolume20":  32868125,
-                       "changePct":  -11.69,
-                       "historyDays":  501,
-                       "ema50":  199.66,
-                       "ema100":  207.39,
-                       "ema200":  189.36,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:31:21Z",
+                       "price":  144.74,
+                       "open":  145.97,
+                       "high":  149.98,
+                       "low":  139.26,
+                       "volume":  36775000,
+                       "avgVolume20":  33988735,
+                       "changePct":  18.37,
+                       "historyDays":  500,
+                       "ema50":  197.51,
+                       "ema100":  206.15,
+                       "ema200":  188.92,
                        "bb":  {
-                                  "upper":  244.6,
-                                  "middle":  171.05,
-                                  "lower":  97.51
+                                  "upper":  235.02,
+                                  "middle":  166.6,
+                                  "lower":  98.18
                               },
                        "macd":  {
-                                    "macd":  -25.23,
-                                    "signal":  -23.66,
-                                    "hist":  -1.57
+                                    "macd":  -24,
+                                    "signal":  -23.73,
+                                    "hist":  -0.27
                                 },
-                       "rsi14":  27.9,
+                       "rsi14":  38.57,
                        "high52w":  329.88,
                        "low52w":  70.69,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         301.65
-                                     ],
                                      [
                                          "2026-06-04",
                                          316.43
@@ -518,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          122.28
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         144.74
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          167.47,
                                           173.31,
                                           176.85,
                                           181.24,
@@ -640,133 +641,116 @@
                                           207.89,
                                           205.45,
                                           202.82,
-                                          199.66
+                                          199.66,
+                                          197.51
                                       ]
                    },
     "en":  {
-               "headline":  "Lumentum deal and AI-chip rout cut MRVL to $122; Q3 results due about 1 Dec",
-               "summary":  "MRVL closed at $122.28 on 20 Nov 2026. That is 11.69% down on the day and about 29% below its 2 Nov close of $171.41. Two things caused the drop. On 2 Nov Marvell agreed to buy Lumentum for stock only (4.5 MRVL shares per Lumentum share, about $115B enterprise value), and BofA and TD Cowen downgraded the stock soon after. At the same time AI-chip stocks sold off across the sector. The business itself still looks healthy: Q3 revenue guidance of $3.15B was confirmed and the range narrowed, with results expected around 1 Dec.",
-               "pros":  [
-                            "Q2 FY27 revenue was $2.739B (+37% YoY). Data center revenue was $2.17B (+46%), or 79% of sales.",
-                            "On 2 Nov Marvell confirmed Q3 guidance of $3.15B and narrowed the range to ±2%, so no sign of weaker demand.",
-                            "Lumentum adds in-house lasers and optical modules. Marvell projects more than $1B in yearly cost savings and higher EPS in the first year after closing.",
-                            "RSI 14 is 27.9, which counts as oversold. Price is still above the lower Bollinger Band at $97.51.",
-                            "Stifel ($280), UBS ($350) and Needham ($300) all kept Buy ratings after the deal."
-                        ],
+               "caution":  "The Nov 23 bounce was driven by an external Nvidia headline rather than resolution of Marvell\u0027s core overhang. Giving away roughly one-third of the company in an all-stock $115 billion deal exposes long-term holders to immediate dilution and a lengthy antitrust gauntlet—particularly with China\u0027s SAMR scrutinizing DSP-plus-laser bundling—backed by a $3.2 billion regulatory break fee. Meanwhile, rapid custom-silicon growth is modestly pressuring gross margins, and Dec 1 Q3 FY27 earnings could trigger further volatility if Q4 guidance disappoints.",
                "cons":  [
-                            "Paying only in stock gives Lumentum holders about 33% of the combined company, and the deal is not expected to close until the first half of 2028.",
-                            "BofA cut MRVL to Neutral (target $400→$225) and TD Cowen cut it to Hold ($350→$175) after the deal.",
-                            "Stifel warned that slower cloud capex growth in 2028–29 could delay ramps of Marvell\u0027s custom and interconnect chips.",
-                            "Price sits below all three EMAs, MACD is below its signal line, and the 20 Nov drop came on 1.23x average volume.",
-                            "Even after the fall, the stock still trades at about 13–14x trailing sales."
+                            "The $115 billion all-stock Lumentum deal hands roughly 33% of the combined company to Lumentum holders, creating heavy equity dilution.",
+                            "Closing is targeted for 1H 2028 and faces stiff antitrust scrutiny, notably from China\u0027s SAMR, with a $3.2 billion regulatory break fee.",
+                            "TD Cowen (Hold, $175 target) and Bank of America (Neutral, $225 target) downgraded MRVL on Nov 3 over dilution and integration risk.",
+                            "Q3 FY27 non-GAAP gross margin guidance of 57.5%–58.5% dips from Q2\u0027s 58.9% as lower-margin custom silicon scales faster."
                         ],
-               "opportunityCheck":  "Most sub-scores look reasonable. I would raise AI revenue exposure by 1–2 points: data center was 79% of Q2 FY27 revenue and grew 46%, which is more than a 15 suggests. I would leave bottleneck \u0026 pricing power at 11 for now. Lumentum\u0027s lasers are a real supply chokepoint, but the deal does not close until the first half of 2028 and could still fail on shareholder or regulatory votes. Market growth at 17 deserves a closer look if Stifel\u0027s 2028–29 capex-slowdown view gains support.",
-               "technical":  "MRVL closed at $122.28 on 20 Nov. It opened at $132.89 and finished near the day\u0027s low of $120.56, which is a weak close. Trend: price is far below the EMA 50 ($199.66), EMA 100 ($207.39) and EMA 200 ($189.36). EMAs are moving averages that weight recent prices more. The EMA 50 has dropped below the EMA 100, an early sign the medium-term trend has turned down. Momentum: MACD (a trend-momentum gauge) is -25.23, below its signal line at -23.66, and the histogram is negative (-1.57), so selling pressure is still building. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 27.9. That means the selling is stretched, but it is not a reversal signal by itself. Volatility: the Bollinger Bands (a range of about two standard deviations around the 20-day average) run from $97.51 to $244.60, very wide after weeks of big swings. Price is in the lower half, below the $171.05 middle line. In the 52-week range of $70.69–$329.88, price sits near the bottom fifth, about 63% below the high. Volume of 40.3M was about 1.23x the 20-day average, so heavy trading backed the drop. Support levels are $120.56 and then $97.51. Resistance levels are about $133.55 (the 5 Nov close) and $138.47 (the 19 Nov close).",
-               "fundamental":  "Marvell sits at two choke points in AI data centers: custom accelerators (XPUs) for cloud companies, and the optical DSPs that link AI servers. Q2 FY27 (quarter ended 1 Aug 2026): revenue was $2.739B, up 37% YoY. Data center revenue was $2.17B, up 46%. Non-GAAP gross margin was 58.9%. Q3 guidance is $3.15B (±2% after the 2 Nov update) with non-GAAP EPS of $1.10 ±$0.05. Management expects about $12B for FY27, and Stifel cites a roughly $20B outlook for FY28. Buying Lumentum would add lasers, transceivers and optical manufacturing, moving Marvell from chips into full optical modules, a market the companies size at $550B. That fits the optical-DSP moat. The cost is roughly 50% more shares, a close not expected until the first half of 2028, and integration risk.",
+               "fundamental":  "Marvell occupies two vital AI infrastructure layers: co-designing custom accelerators (such as AWS Trainium and Microsoft Maia) and supplying high-speed optical DSPs that move data between AI servers. In Q2 FY27 (reported Aug 27, 2026), net revenue rose 37% YoY to a record $2.739 billion, with Data Center revenue jumping 46% to $2.172 billion (79% of total) and non-GAAP EPS hitting $0.94 on a 58.9% non-GAAP gross margin. Preliminary Q3 FY27 revenue tracks the $3.15 billion midpoint (±2%), though non-GAAP gross margin guidance dips to 57.5%–58.5% as lower-margin custom silicon scales. Strategically, the Nov 2 $115 billion Lumentum agreement seeks to unite DSPs and optical lasers into a rack-scale connectivity platform—strengthening the technology stack, but introducing major equity dilution and multi-year execution risk.",
+               "headline":  "Marvell jumps 18% on AI rebound, but $115B Lumentum deal overhangs trend",
                "news":  [
-                            "2 Nov 2026: Marvell agreed to buy Lumentum for stock only. Lumentum holders get 4.5 MRVL shares per share (about $115B EV, a 23.9% premium) and Marvell holders keep about 67%. Closing is expected in the first half of 2028. MRVL fell 12.7% that day, after a 13.2% drop on 29 Oct when Bloomberg reported the talks.",
-                            "2 Nov 2026: In the same release, Marvell said preliminary fiscal Q3 revenue matched guidance. It kept the $3.15B midpoint and narrowed the range to ±2% from ±5%.",
-                            "Early Nov 2026: BofA downgraded MRVL to Neutral and cut its target to $225 from $400. TD Cowen downgraded to Hold with a $175 target, and KeyBanc moved to Sector Weight. All cited dilution and deal timing.",
-                            "5 Nov 2026: MRVL fell 16.4% with no company news, as the Nasdaq dropped 5.5% in an AI selloff. Some reports linked the selloff to newly elected governors promising to pause data-center construction.",
-                            "16 Nov 2026: MRVL fell 7.3% as 33 of 34 large chip stocks declined ahead of Nvidia\u0027s earnings report.",
-                            "20 Nov 2026: Stifel kept its Buy rating but cut its target to $280 from $370, citing slower 2028–29 capex and lower peer valuations. MRVL fell 11.69% in a broad tech selloff. Q3 FY27 results are expected around 1 Dec 2026."
+                            "Nov 2, 2026: Marvell agreed to acquire Lumentum in an all-stock deal valued at $115 billion in enterprise value (4.500 MRVL shares per LITE share), leaving Marvell holders with ~67% of the combined firm. Targeted to close in 1H 2028, the merger aims for over $1 billion in annual cost synergies but sparked a 12.7% same-day drop on dilution and antitrust worries.",
+                            "Nov 2, 2026: Alongside the merger release, Marvell confirmed preliminary Q3 FY27 revenue is tracking its $3.15 billion midpoint while narrowing guidance to ±2% from ±5%. Full Q3 FY27 results are scheduled for Dec 1, 2026 after market close.",
+                            "Nov 3, 2026: TD Cowen downgraded MRVL from Buy to Hold (cutting its target from $350 to $175) and Bank of America moved from Buy to Neutral ($400 to $225). Both banks flagged heavy share dilution, integration complexity, and the extended 2028 closing window.",
+                            "Nov 13, 2026: Ahead of Supercomputing 2026 (SC26), Marvell showcased Photonic Fabric memory modules, Structera CXL memory-expansion cards, and next-generation interconnects designed to relieve AI cluster memory and bandwidth bottlenecks.",
+                            "Nov 23, 2026: MRVL jumped 18.37% to $144.74 during an AI-sector relief rally after Nvidia\u0027s board unanimously reinstated CEO Jensen Huang following his Nov 12 resignation. Nvidia\u0027s $2 billion strategic stake in Marvell (March 31, 2026) tightly links MRVL sentiment to Nvidia\u0027s ecosystem."
                         ],
-               "caution":  "Momentum is still pointing down. Price is about $67 below the EMA 50, MACD is still falling, and the bands are so wide that 10% daily moves have been common. Oversold readings can last for weeks in a selloff. The Lumentum deal also changes what an MRVL share represents: the share count rises by roughly half, and the uncertainty runs until the first half of 2028. Shareholder votes, antitrust reviews (China included) and Lumentum\u0027s own results could all weigh on the stock. If the 1 Dec results or FY28 commentary disappoint, the $97.51 lower band and the February area near $70–74 are the next reference levels.",
-               "opportunity":  "The selloff looks driven more by deal worries and sector sentiment than by any break in demand. On 2 Nov Marvell narrowed its Q3 range around $3.15B, and Q2 data center revenue grew 46%. RSI at 27.9 shows the selling is stretched. Most covering analysts kept Buy ratings even after cutting targets. If the deal closes, Marvell would own both the DSP and the laser inside AI optical links, which would deepen its optics moat. The 1 Dec report and the FY28 outlook are the next clear tests of whether the fundamentals still support that view.",
+               "opportunity":  "Beneath the M\u0026A turmoil, Marvell\u0027s standalone AI engine is accelerating fast, with Data Center sales up 46% YoY in Q2 FY27 and Q3 revenue tracking ~52% YoY growth near $3.15 billion. If regulators approve the Lumentum merger and management executes on $1 billion-plus in cost synergies, combining Marvell\u0027s optical DSPs and custom XPUs with Lumentum\u0027s lasers could create a vertically integrated AI connectivity powerhouse across 1.6T/3.2T optics and Photonic Fabric—addressing one of AI scaling\u0027s sharpest long-term bottlenecks.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile looks broadly sensible, but two sub-scores merit adjustment. AI revenue exposure could move slightly higher: Q2 FY27 data center revenue reached 79% of total sales (+46% YoY) and Q3 guidance points to another sharp step-up from custom XPUs and optical DSPs. Conversely, bottleneck and pricing power should stay conservative or edge lower near term, because Q3 non-GAAP gross margin guidance (57.5%–58.5%) reflects custom-silicon mix pressure, while any vertical pricing leverage from the Lumentum laser merger remains unproven and gated by regulatory approval until at least 2028.",
+               "pros":  [
+                            "Q2 FY27 data center revenue surged 46% YoY to $2.172 billion, reaching 79% of total sales on custom AI chip and optical DSP ramps.",
+                            "On Nov 2, 2026, management reaffirmed preliminary Q3 FY27 revenue tracking the $3.15 billion midpoint (narrowed to ±2%), implying ~52% YoY growth.",
+                            "Combining Lumentum\u0027s lasers with Marvell\u0027s DSPs targets $1 billion-plus in annual run-rate cost synergies and Year-1 post-close non-GAAP EPS accretion.",
+                            "Marvell deepened its AI ecosystem via Nvidia\u0027s $2 billion NVLink Fusion partnership (March 2026) and new Photonic Fabric and Structera CXL demos at SC26 on Nov 13."
+                        ],
                "risks":  [
-                             "The Lumentum deal could fail shareholder or regulatory approval, or run into integration problems before the first half of 2028.",
-                             "Dilution: the share count rises about 50% for a business bought at a high price.",
-                             "Cloud-capex slowdown in 2028–29 could delay custom XPU and interconnect ramps.",
-                             "Political pushback against data-center construction in some US states.",
-                             "Losing or delaying custom-chip programs at large cloud customers.",
-                             "High valuation and very high volatility (21 daily drops of 7%+ in the past year)."
-                         ]
+                             "Substantial equity dilution (~33% ownership shift) and integration risk from the $115 billion all-stock Lumentum acquisition.",
+                             "Multi-jurisdictional antitrust rejection or behavioral remedies—especially from China\u0027s SAMR—potentially triggering a $3.2 billion regulatory break fee.",
+                             "Gross margin compression as lower-margin custom AI silicon scales faster than higher-margin electro-optics and networking.",
+                             "High customer concentration among a handful of hyperscalers (AWS, Microsoft) whose capex cycles or in-house chip designs can shift abruptly.",
+                             "Elevated share-price volatility and correlation with Nvidia sentiment ahead of Q3 FY27 earnings on Dec 1, 2026."
+                         ],
+               "summary":  "Marvell Technology (MRVL) surged 18.37% to $144.74 on Nov 23, 2026 in a sector-wide rebound after Nvidia reinstated CEO Jensen Huang, yet shares remain 56% below their $329.88 52-week high. The sell-off followed Marvell\u0027s Nov 2 announcement of a $115 billion all-stock acquisition of optical supplier Lumentum, triggering equity-dilution fears, downgrades from TD Cowen and Bank of America, and antitrust concerns. Core AI demand remains robust—Q2 FY27 data center revenue jumped 46% YoY to $2.172 billion and Q3 guidance tracks $3.15 billion—keeping the long-term thesis on watch ahead of Dec 1 earnings.",
+               "technical":  "Despite surging 18.37% to $144.74 on Nov 23, 2026, MRVL remains in a clear technical downtrend. Price sits well below all three exponential moving averages (EMAs — trend lines tracking average price): 23% below the 200-day EMA ($188.92), 27% below the 50-day EMA ($197.51), and 30% below the 100-day EMA ($206.15), with the 50-day already crossing under the 100-day. Momentum is stabilizing but still negative: MACD (a trend-momentum gauge) stands at -24.00 versus its -23.73 signal line, leaving a slight -0.27 histogram, while RSI 14 (a 0–100 momentum gauge; under 30 is oversold) recovered to 38.57, still below the neutral 50 mark. Within its Bollinger Bands (volatility channels around a 20-day average), MRVL trades in the lower half—above the $98.18 lower band but below the $166.60 middle band—and sits in the bottom third of its $70.69–$329.88 52-week range. Volume of 36.78 million shares topped the 33.99 million 20-day average by just 8%, and closing below the $145.97 open signals overhead supply. Key resistance sits near $166.60 and $188.92–$206.15; support rests near $139.26 and $98.18."
            },
     "th":  {
-               "headline":  "ดีล Lumentum บวกแรงเทขายหุ้นชิป AI กด MRVL ลงมาที่ $122 รอดูงบ Q3 ราว 1 ธ.ค.",
-               "summary":  "MRVL ปิดที่ $122.28 เมื่อ 20 พ.ย. 2026 ลดลง 11.69% ในวันเดียว และต่ำกว่าราคาปิด 2 พ.ย. ที่ $171.41 ราว 29% สาเหตุหลักมีสองเรื่อง เรื่องแรก เมื่อ 2 พ.ย. Marvell ตกลงซื้อ Lumentum โดยจ่ายเป็นหุ้นทั้งหมด (4.5 หุ้น MRVL ต่อ 1 หุ้น Lumentum มูลค่ากิจการราว $115B) จากนั้น BofA และ TD Cowen ก็ลดคำแนะนำ เรื่องที่สอง หุ้นชิป AI ถูกเทขายทั้งกลุ่ม ส่วนตัวธุรกิจยังดูดี บริษัทยืนยันเป้ารายได้ Q3 ที่ $3.15B และบีบกรอบให้แคบลง งบจะออกราว 1 ธ.ค.",
-               "pros":  [
-                            "รายได้ Q2 FY27 อยู่ที่ $2.739B (+37% YoY) ส่วนรายได้ data center $2.17B (+46%) คิดเป็น 79% ของยอดขาย",
-                            "วันที่ 2 พ.ย. บริษัทยืนยันเป้ารายได้ Q3 ที่ $3.15B และบีบกรอบเหลือ ±2% แปลว่ายังไม่เห็นสัญญาณดีมานด์อ่อนลง",
-                            "Lumentum ทำให้ได้เลเซอร์และโมดูลออปติคัลมาไว้ในมือ บริษัทคาดว่าจะประหยัดต้นทุนได้เกิน $1B ต่อปี และ EPS จะเพิ่มขึ้นตั้งแต่ปีแรกหลังปิดดีล",
-                            "RSI 14 อยู่ที่ 27.9 ซึ่งเข้าโซน oversold และราคายังอยู่เหนือ Bollinger Band ล่างที่ $97.51",
-                            "หลังประกาศดีล Stifel ($280), UBS ($350) และ Needham ($300) ยังคงคำแนะนำ Buy"
-                        ],
+               "caution":  "การรีบาวด์เมื่อ 23 พ.ย. มาจากข่าวบวกภายนอกของ Nvidia มากกว่าการคลี่คลายปัจจัยกดดันหลักของ Marvell การออกหุ้นใหม่ซื้อ Lumentum มูลค่า $115 พันล้าน ทำให้ผู้ถือหุ้นเดิมถูกลดสัดส่วนราวหนึ่งในสาม และต้องเผชิญด่านตรวจสอบผูกขาดที่ยาวนาน โดยเฉพาะจาก SAMR ของจีนซึ่งอาจกังวลเรื่องการพ่วงขาย DSP กับเลเซอร์ พร้อมความเสี่ยงค่าปรับยกเลิกดีลด้านกฎระเบียบสูงถึง $3.2 พันล้าน นอกจากนี้ สัดส่วนชิปสั่งทำที่โตเร็วเริ่มกดดันอัตรากำไรขั้นต้น และงบ Q3 FY27 วันที่ 1 ธ.ค. อาจเพิ่มความผันผวนหากแนวโน้ม Q4 ต่ำกว่าคาด",
                "cons":  [
-                            "การจ่ายด้วยหุ้นล้วนทำให้ผู้ถือหุ้น Lumentum ได้ส่วนในบริษัทรวมราว 33% และกว่าจะปิดดีลก็ครึ่งแรกปี 2028",
-                            "หลังดีล BofA ลดเป็น Neutral (เป้า $400→$225) และ TD Cowen ลดเป็น Hold ($350→$175)",
-                            "Stifel เตือนว่าถ้า capex ของคลาวด์โตช้าลงในปี 2028–29 การเร่งผลิตชิป custom และ interconnect อาจล่าช้า",
-                            "ราคาอยู่ใต้ EMA ทั้งสามเส้น MACD อยู่ใต้ signal และวันที่ 20 พ.ย. ร่วงพร้อมวอลุ่ม 1.23 เท่าของค่าเฉลี่ย",
-                            "แม้ร่วงมาแล้ว หุ้นยังซื้อขายที่ราว 13–14 เท่าของยอดขายย้อนหลัง"
+                            "ดีลแลกหุ้นซื้อ Lumentum มูลค่า $115 พันล้าน ทำให้ผู้ถือหุ้น Lumentum ได้สัดส่วนราว 33% ของบริษัทใหม่ กดดันผู้ถือหุ้นเดิมด้วย dilution หนัก",
+                            "กำหนดปิดดีลยาวถึงครึ่งแรกปี 2028 และเสี่ยงถูกตรวจสอบผูกขาดเข้มงวด โดยเฉพาะจาก SAMR ของจีน โดยมีค่าปรับกรณีไม่ผ่านกฎระเบียบสูงถึง $3.2 พันล้าน",
+                            "TD Cowen (ลดเป็น Hold เป้า $175) และ Bank of America (ลดเป็น Neutral เป้า $225) ปรับลดคำแนะนำเมื่อ 3 พ.ย. จากกังวล dilution และความเสี่ยงควบรวม",
+                            "คาดการณ์อัตรากำไรขั้นต้น non-GAAP ไตรมาส Q3 FY27 ที่ 57.5%–58.5% อ่อนลงจาก 58.9% ใน Q2 ตามสัดส่วนชิปสั่งทำที่มาร์จินต่ำกว่า"
                         ],
-               "opportunityCheck":  "คะแนนย่อยส่วนใหญ่ดูสมเหตุสมผล ข้อที่ควรขยับคือ AI revenue exposure ซึ่งน่าจะเพิ่มได้ 1–2 แต้ม เพราะ data center คิดเป็น 79% ของรายได้ Q2 FY27 และโต 46% ซึ่งมากกว่าที่ระดับ 15 สะท้อน ส่วน bottleneck \u0026 pricing power ควรคงไว้ที่ 11 ก่อน แม้เลเซอร์ของ Lumentum จะเป็นคอขวดของซัพพลายจริง แต่ดีลยังไม่ปิดจนถึงครึ่งแรกปี 2028 และยังอาจไม่ผ่านการโหวตผู้ถือหุ้นหรือหน่วยงานกำกับ ส่วน market growth ที่ 17 ควรจับตาถ้ามุมมองของ Stifel ว่า capex จะชะลอในปี 2028–29 เริ่มมีหลักฐานมากขึ้น",
-               "technical":  "MRVL ปิดที่ $122.28 เมื่อ 20 พ.ย. เปิดที่ $132.89 แล้วปิดใกล้จุดต่ำสุดของวันที่ $120.56 ถือว่าปิดอ่อนแอ ด้านแนวโน้ม ราคาอยู่ต่ำกว่า EMA 50 ($199.66), EMA 100 ($207.39) และ EMA 200 ($189.36) มาก (EMA คือเส้นค่าเฉลี่ยที่ให้น้ำหนักราคาล่าสุดมากกว่า) และ EMA 50 หลุดลงใต้ EMA 100 แล้ว เป็นสัญญาณแรกว่าแนวโน้มระยะกลางเริ่มกลับเป็นขาลง ด้านโมเมนตัม MACD (ตัววัดแรงส่งของเทรนด์) อยู่ที่ -25.23 ต่ำกว่าเส้น signal ที่ -23.66 และ histogram ติดลบ (-1.57) แปลว่าแรงขายยังเพิ่มขึ้น RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 คือ oversold) อยู่ที่ 27.9 หมายถึงขายกันมากเกินไปแล้ว แต่ตัวมันเองยังไม่ใช่สัญญาณกลับตัว ด้านความผันผวน Bollinger Bands (กรอบราวสองส่วนเบี่ยงเบนมาตรฐานรอบค่าเฉลี่ย 20 วัน) กว้างมากที่ $97.51–$244.60 หลังจากราคาแกว่งแรงหลายสัปดาห์ ราคาอยู่ครึ่งล่าง ต่ำกว่าเส้นกลาง $171.05 ในกรอบ 52 สัปดาห์ $70.69–$329.88 ราคาอยู่แถวหนึ่งในห้าล่างสุด ต่ำกว่าจุดสูงสุดราว 63% วอลุ่ม 40.3M สูงกว่าค่าเฉลี่ย 20 วันราว 1.23 เท่า ยืนยันว่าการร่วงมีแรงขายจริง แนวรับอยู่ที่ $120.56 และถัดไป $97.51 แนวต้านอยู่ราว $133.55 (ราคาปิด 5 พ.ย.) และ $138.47 (ราคาปิด 19 พ.ย.)",
-               "fundamental":  "Marvell อยู่ตรงจุดคอขวดสองจุดในศูนย์ข้อมูล AI คือชิปเร่งความเร็วแบบสั่งทำ (XPU) ให้บริษัทคลาวด์ และชิป DSP ออปติคัลที่เชื่อมเซิร์ฟเวอร์ AI เข้าด้วยกัน งบ Q2 FY27 (ไตรมาสสิ้นสุด 1 ส.ค. 2026) รายได้ $2.739B โต 37% YoY รายได้ data center $2.17B โต 46% และ non-GAAP gross margin 58.9% เป้า Q3 อยู่ที่ $3.15B (±2% หลังอัปเดตเมื่อ 2 พ.ย.) และ non-GAAP EPS $1.10 ±$0.05 ผู้บริหารคาดรายได้ FY27 ราว $12B ส่วน Stifel อ้างถึงกรอบ FY28 ราว $20B การซื้อ Lumentum จะเพิ่มเลเซอร์ ทรานซีฟเวอร์ และการผลิตออปติคัลเข้ามา ทำให้ Marvell ขยับจากการขายชิปไปสู่โมดูลออปติคัลครบชุด ซึ่งทั้งสองบริษัทประเมินตลาดรวมไว้ที่ $550B ภาพนี้สอดคล้องกับ moat ด้าน optical DSP แต่ต้องแลกกับจำนวนหุ้นที่เพิ่มขึ้นราว 50% การปิดดีลที่ยังอีกไกลถึงครึ่งแรกปี 2028 และความเสี่ยงในการรวมกิจการ",
+               "fundamental":  "Marvell ยืนอยู่ใน 2 จุดสำคัญของโครงสร้างพื้นฐาน AI คือการร่วมออกแบบชิปประมวลผลสั่งทำพิเศษให้คลาวด์ยักษ์ใหญ่ (เช่น AWS Trainium และ Microsoft Maia) และชิป optical DSP ความเร็วสูงสำหรับเชื่อมเซิร์ฟเวอร์ AI งบ Q2 FY27 (ประกาศ 27 ส.ค. 2026) ทำรายได้รวมสูงสุดเป็นประวัติการณ์ $2.739 พันล้าน (+37% YoY) โดยรายได้ Data Center พุ่ง 46% สู่ $2.172 พันล้าน คิดเป็น 79% ของทั้งหมด และมี non-GAAP EPS $0.94 บนอัตรากำไรขั้นต้น non-GAAP 58.9% ขณะที่รายได้เบื้องต้น Q3 FY27 เดินตามเป้ากึ่งกลาง $3.15 พันล้าน (±2%) แต่อัตรากำไรขั้นต้นคาดลดลงเล็กน้อยเป็น 57.5%–58.5% จากสัดส่วนชิปสั่งทำที่เร่งตัว ด้านกลยุทธ์ ดีลซื้อ Lumentum มูลค่า $115 พันล้าน เมื่อ 2 พ.ย. มุ่งรวม DSP เข้ากับเลเซอร์ออปติคัลเป็นแพลตฟอร์มเชื่อมโยงระดับแร็ก ซึ่งช่วยเสริมเทคโนโลยีระยะยาว แต่แลกมาด้วย dilution สูงและความเสี่ยงดำเนินงานหลายปี",
+               "headline":  "MRVL ดีดแรง 18% ตามกระแส AI แต่ดีล Lumentum $115 พันล้านยังกดดันแนวโน้ม",
                "news":  [
-                            "2 พ.ย. 2026: Marvell ตกลงซื้อ Lumentum โดยจ่ายเป็นหุ้นทั้งหมด ผู้ถือหุ้น Lumentum ได้ 4.5 หุ้น MRVL ต่อหุ้น (EV ราว $115B พรีเมียม 23.9%) และผู้ถือหุ้น Marvell เดิมคงสัดส่วนราว 67% คาดปิดดีลครึ่งแรกปี 2028 วันนั้นหุ้นร่วง 12.7% ต่อจากที่ร่วง 13.2% เมื่อ 29 ต.ค. ตอน Bloomberg รายงานข่าวการเจรจา",
-                            "2 พ.ย. 2026: ในประกาศเดียวกัน Marvell แจ้งว่ารายได้เบื้องต้นของไตรมาส 3 เป็นไปตามเป้า คงจุดกึ่งกลางที่ $3.15B และบีบกรอบจาก ±5% เหลือ ±2%",
-                            "ต้นเดือน พ.ย. 2026: BofA ลดคำแนะนำเป็น Neutral และหั่นเป้าจาก $400 เหลือ $225 TD Cowen ลดเป็น Hold ด้วยเป้า $175 และ KeyBanc ปรับเป็น Sector Weight ทั้งหมดอ้างเรื่องการ dilution และระยะเวลาของดีล",
-                            "5 พ.ย. 2026: MRVL ร่วง 16.4% โดยไม่มีข่าวจากบริษัท ขณะที่ Nasdaq ลดลง 5.5% จากแรงเทขายหุ้น AI บางรายงานโยงกับการที่ผู้ว่าการรัฐที่เพิ่งชนะเลือกตั้งบางคนประกาศจะชะลอการสร้าง data center",
-                            "16 พ.ย. 2026: MRVL ลดลง 7.3% เมื่อหุ้นชิปขนาดใหญ่ 33 จาก 34 ตัวปรับลงก่อนงบของ Nvidia",
-                            "20 พ.ย. 2026: Stifel คงคำแนะนำ Buy แต่ลดเป้าจาก $370 เหลือ $280 โดยอ้าง capex ที่อาจชะลอในปี 2028–29 และมูลค่าหุ้นกลุ่มเดียวกันที่ลดลง วันนั้น MRVL ร่วง 11.69% ท่ามกลางการเทขายหุ้นเทคทั้งตลาด งบ Q3 FY27 คาดว่าจะออกราว 1 ธ.ค. 2026"
+                            "2 พ.ย. 2026: Marvell ตกลงเข้าซื้อ Lumentum แบบแลกหุ้นทั้งหมด มูลค่ากิจการ $115 พันล้าน (อัตรา 4.500 หุ้น MRVL ต่อ 1 หุ้น LITE) ทำให้ผู้ถือหุ้น Marvell เหลือสัดส่วนราว 67% ดีลคาดปิดครึ่งแรกปี 2028 และตั้งเป้าประหยัดต้นทุนกว่า $1 พันล้านต่อปี แต่หุ้นร่วงทันที 12.7% จากกังวล dilution และกฎหมายผูกขาด",
+                            "2 พ.ย. 2026: พร้อมข่าวควบรวม Marvell ยืนยันว่ารายได้เบื้องต้น Q3 FY27 เป็นไปตามเป้ากึ่งกลาง $3.15 พันล้าน โดยบีบกรอบคาดการณ์แคบลงเป็น ±2% จาก ±5% ก่อนประกาศงบเต็มวันที่ 1 ธ.ค. 2026 หลังตลาดปิด",
+                            "3 พ.ย. 2026: TD Cowen ปรับลดคำแนะนำ MRVL จาก Buy เป็น Hold (ลดเป้าจาก $350 เหลือ $175) และ Bank of America ลดเป็น Neutral (จาก $400 เหลือ $225) โดยชี้ความเสี่ยงจาก dilution การควบรวม และระยะเวลาปิดดีลที่ยาวถึงปี 2028",
+                            "13 พ.ย. 2026: ก่อนงาน Supercomputing 2026 (SC26) Marvell เปิดตัวโมดูลหน่วยความจำ Photonic Fabric การ์ดขยายหน่วยความจำ Structera CXL และชิปเชื่อมโยงรุ่นใหม่เพื่อแก้คอขวดแบนด์วิดท์ในคลัสเตอร์ AI",
+                            "23 พ.ย. 2026: หุ้น MRVL พุ่ง 18.37% ปิดที่ $144.74 ตามแรงรีบาวด์ทั้งกลุ่ม AI หลังบอร์ด Nvidia มีมติเอกฉันท์ดึง Jensen Huang กลับเป็น CEO หลังลาออกเมื่อ 12 พ.ย. ทั้งนี้ Nvidia ถือหุ้นเชิงกลยุทธ์ใน Marvell มูลค่า $2 พันล้านตั้งแต่ 31 มี.ค. 2026 ทำให้ราคาหุ้นผูกกับความเชื่อมั่นต่อระบบนิเวศ Nvidia สูง"
                         ],
-               "caution":  "โมเมนตัมยังชี้ลง ราคาต่ำกว่า EMA 50 ราว $67 MACD ยังลดลงต่อ และกรอบ Bollinger กว้างจนการขยับวันละ 10% กลายเป็นเรื่องปกติ สภาวะ oversold ในช่วงตลาดขาลงอาจลากยาวได้หลายสัปดาห์ นอกจากนี้ดีล Lumentum ยังเปลี่ยนสิ่งที่หุ้น MRVL หนึ่งหุ้นเป็นตัวแทน เพราะจำนวนหุ้นจะเพิ่มขึ้นราวครึ่งหนึ่ง และความไม่แน่นอนจะอยู่ไปจนถึงครึ่งแรกปี 2028 ทั้งการโหวตของผู้ถือหุ้น การพิจารณาด้านการแข่งขัน (รวมถึงจีน) และผลประกอบการของ Lumentum เองล้วนกดดันหุ้นได้ ถ้างบวันที่ 1 ธ.ค. หรือมุมมอง FY28 น่าผิดหวัง ระดับอ้างอิงถัดไปคือ band ล่าง $97.51 และโซนเดือน ก.พ. แถว $70–74",
-               "opportunity":  "แรงขายรอบนี้ดูมาจากความกังวลเรื่องดีลและบรรยากาศทั้งกลุ่ม มากกว่าการที่ดีมานด์สะดุด เมื่อ 2 พ.ย. Marvell บีบกรอบรายได้ Q3 ให้แคบลงรอบ $3.15B และรายได้ data center ใน Q2 โต 46% RSI ที่ 27.9 บอกว่าแรงขายตึงมากแล้ว นักวิเคราะห์ส่วนใหญ่ยังคง Buy แม้จะลดเป้าลง ถ้าดีลปิดได้ Marvell จะมีทั้ง DSP และเลเซอร์ที่อยู่ในลิงก์ออปติคัลของ AI ซึ่งจะทำให้ moat ด้านออปติคัลลึกขึ้น งบวันที่ 1 ธ.ค. และแนวโน้ม FY28 คือบททดสอบถัดไปว่าพื้นฐานยังรองรับมุมมองนี้หรือไม่",
+               "opportunity":  "ภายใต้ความปั่นป่วนจากดีลควบรวม ธุรกิจหลักด้าน AI ของ Marvell ยังเร่งตัวแข็งแกร่ง โดยรายได้ Data Center โต 46% YoY ใน Q2 FY27 และรายได้ Q3 เดินหน้าโตเกือบ 52% YoY แตะราว $3.15 พันล้าน หากดีล Lumentum ผ่านด่านกำกับดูแลและทำ synergy ต้นทุนได้กว่า $1 พันล้านต่อปี การผสาน optical DSP และชิปสั่งทำของ Marvell เข้ากับเลเซอร์ของ Lumentum จะสร้างผู้เล่นครบวงจรด้านการเชื่อมต่อ 1.6T/3.2T และ Photonic Fabric เพื่อปลดล็อกคอขวดสำคัญของศูนย์ข้อมูล AI ระยะยาว",
+               "opportunityCheck":  "โครงสร้างคะแนนโอกาส AI บนหน้าเว็บดูสมเหตุสมผลในภาพรวม แต่มี 2 มิติที่ควรขยับ คะแนนสัดส่วนรายได้ AI (exposure) มีเหตุผลให้ขยับขึ้นเล็กน้อย เพราะรายได้ Data Center ไตรมาส Q2 FY27 แตะ 79% ของยอดขายรวม (+46% YoY) และแนวโน้ม Q3 ยังเร่งตัวจากชิป XPU และ optical DSP ในทางกลับกัน คะแนนคอขวดและอำนาจกำหนดราคา (bottleneck) ควรคงความระมัดระวังหรือลดลงเล็กน้อยในระยะสั้น เนื่องจากอัตรากำไรขั้นต้น Q3 ที่ 57.5%–58.5% สะท้อนแรงกดดันจากสัดส่วนชิปสั่งทำ ส่วนอำนาจต่อรองจากการรวมเลเซอร์ Lumentum ยังไม่เกิดขึ้นจริงจนกว่าจะผ่านด่านอนุมัติราวปี 2028",
+               "pros":  [
+                            "รายได้ Data Center ไตรมาส Q2 FY27 พุ่ง 46% YoY แตะ $2.172 พันล้าน คิดเป็น 79% ของรายได้รวม จากการเร่งส่งมอบชิป AI สั่งทำและ optical DSP",
+                            "เมื่อ 2 พ.ย. 2026 ผู้บริหารยืนยันรายได้เบื้องต้น Q3 FY27 ตามเป้ากึ่งกลาง $3.15 พันล้าน (กรอบ ±2%) สะท้อนการเติบโตราว 52% YoY",
+                            "การผสานเลเซอร์ของ Lumentum เข้ากับ DSP ของ Marvell ตั้งเป้าลดต้นทุนกว่า $1 พันล้านต่อปี และหนุนกำไรต่อหุ้น non-GAAP ในปีแรกหลังปิดดีล",
+                            "Marvell ขยายระบบนิเวศ AI ผ่านการลงทุน $2 พันล้านจาก Nvidia ในแพลตฟอร์ม NVLink Fusion (มี.ค. 2026) และเปิดตัวเทคโนโลยี Photonic Fabric กับ Structera CXL ที่งาน SC26 เมื่อ 13 พ.ย."
+                        ],
                "risks":  [
-                             "ดีล Lumentum อาจไม่ผ่านการอนุมัติของผู้ถือหุ้นหรือหน่วยงานกำกับ หรือเจอปัญหาการรวมกิจการก่อนครึ่งแรกปี 2028",
-                             "การ dilution: จำนวนหุ้นเพิ่มราว 50% เพื่อซื้อกิจการในราคาสูง",
-                             "capex ของคลาวด์ที่อาจชะลอในปี 2028–29 จะทำให้การเร่งผลิต XPU และ interconnect ล่าช้า",
-                             "กระแสต่อต้านการสร้าง data center ในบางรัฐของสหรัฐฯ",
-                             "ความเสี่ยงเสียหรือเลื่อนโปรเจกต์ชิป custom กับลูกค้าคลาวด์รายใหญ่",
-                             "มูลค่าหุ้นยังสูงและผันผวนมาก (ในรอบปีมีวันที่ร่วง 7% ขึ้นไปถึง 21 ครั้ง)"
-                         ]
+                             "การลดสัดส่วนผู้ถือหุ้นเดิมราว 33% และความเสี่ยงในการผสานองค์กรจากดีลแลกหุ้นซื้อ Lumentum มูลค่า $115 พันล้าน",
+                             "ความเสี่ยงด้านกฎหมายผูกขาดจากหลายประเทศ โดยเฉพาะ SAMR ของจีน ซึ่งอาจปฏิเสธดีลหรือกำหนดเงื่อนไข พร้อมค่าปรับด้านกฎระเบียบ $3.2 พันล้าน",
+                             "แรงกดดันต่ออัตรากำไรขั้นต้นเมื่อรายได้ชิป AI สั่งทำ (มาร์จินต่ำกว่า) เติบโตเร็วกว่ากลุ่มออปติคัลและเครือข่าย",
+                             "การพึ่งพาลูกค้าคลาวด์รายใหญ่เพียงไม่กี่ราย (AWS, Microsoft) ซึ่งอาจปรับงบลงทุนหรือหันไปออกแบบชิปเองมากขึ้น",
+                             "ความผันผวนสูงและความอ่อนไหวต่อข่าว Nvidia ก่อนการประกาศงบ Q3 FY27 วันที่ 1 ธ.ค. 2026"
+                         ],
+               "summary":  "หุ้น Marvell Technology (MRVL) พุ่งแรง 18.37% มาที่ $144.74 เมื่อ 23 พ.ย. 2026 ตามแรงรีบาวด์กลุ่มชิป AI หลัง Nvidia ดึงซีอีโอ Jensen Huang กลับมารับตำแหน่ง แต่ราคายังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($329.88) ถึง 56% แรงขายหนักก่อนหน้านี้เกิดจากข่าว 2 พ.ย. ที่ Marvell ประกาศแลกหุ้นซื้อ Lumentum มูลค่ากิจการ $115 พันล้าน จนเกิดความกังวลเรื่อง dilution การปรับลดคำแนะนำจาก TD Cowen และ Bank of America และด่านกฎหมายผูกขาด แม้ธุรกิจหลักยังโตเด่น—รายได้ Data Center ไตรมาส Q2 FY27 พุ่ง 46% YoY แตะ $2.172 พันล้าน และ Q3 ตามเป้า $3.15 พันล้าน—แต่ภาพระยะยาวยังต้องจับตาใกล้ชิดก่อนงบ 1 ธ.ค.",
+               "technical":  "แม้ราคาจะดีดขึ้น 18.37% ปิดที่ $144.74 เมื่อ 23 พ.ย. 2026 แต่โครงสร้างเทคนิคของ MRVL ยังอยู่ในขาลงชัดเจน ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่ EMA (เส้นค่าเฉลี่ยถ่วงน้ำหนักที่สะท้อนแนวโน้มราคา) ทั้ง 3 เส้น คือต่ำกว่า EMA 200 วัน ($188.92) ราว 23% ต่ำกว่า EMA 50 วัน ($197.51) 27% และต่ำกว่า EMA 100 วัน ($206.15) 30% โดย EMA 50 ตัดลงต่ำกว่า EMA 100 แล้ว ด้านโมเมนตัมเริ่มชะลอแรงลงแต่ยังเป็นลบ ค่า MACD (ดัชนีวัดแรงส่งของแนวโน้ม) อยู่ที่ -24.00 ต่ำกว่าเส้น signal (-23.73) เล็กน้อยด้วย histogram -0.27 ส่วน RSI 14 (มาตรวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นมาที่ 38.57 แต่ยังต่ำกว่าระดับกลาง 50 ด้านความผันผวน ราคาอยู่ในครึ่งล่างของ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) เหนือกรอบล่าง $98.18 แต่ยังต่ำกว่าเส้นกลาง $166.60 และอยู่โซนล่างของกรอบ 52 สัปดาห์ ($70.69–$329.88) ปริมาณซื้อขาย 36.78 ล้านหุ้นสูงกว่าค่าเฉลี่ย 20 วัน (33.99 ล้านหุ้น) เพียง 8% และปิดต่ำกว่าราคาเปิด $145.97 สะท้อนแรงขายทำกำไร แนวต้านสำคัญอยู่แถว $166.60 และโซน $188.92–$206.15 ส่วนแนวรับอยู่ที่ $139.26 และ $98.18"
            },
     "sources":  [
                     {
+                        "date":  "2026-11-02",
+                        "publisher":  "Marvell Technology",
                         "title":  "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
-                        "publisher":  "Marvell Technology (press release)",
-                        "url":  "https://investor.marvell.com/news-events/press-releases/detail/1040/marvell-and-lumentum-to-combine-creating-a-category-leader-in-ai-connectivity",
-                        "date":  "2026-11-02"
+                        "url":  "https://investor.marvell.com/news-and-events/press-releases/press-release-details/2026/Marvell-and-Lumentum-to-Combine-Creating-a-Category-Leader-in-AI-Connectivity/default.aspx"
                     },
                     {
-                        "title":  "What Just Happened To Marvell Stock?",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/mrvl/articles/622181/what-just-happened-to-marvell-stock-2/2026-11-03",
-                        "date":  "2026-11-03"
+                        "date":  "2026-11-02",
+                        "publisher":  "Reuters via BNN Bloomberg",
+                        "title":  "Marvell to buy Lumentum in US$115 billion deal in AI data-center bet",
+                        "url":  "https://www.bnnbloomberg.ca/investing/2026/11/02/marvell-to-buy-lumentum-in-us115-billion-deal-in-ai-data-center-bet/"
                     },
                     {
-                        "title":  "What Is Behind The Move In Marvell Stock?",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/mrvl/articles/623351/what-is-behind-the-move-in-marvell-stock/2026-11-06",
-                        "date":  "2026-11-06"
+                        "date":  "2026-11-06",
+                        "publisher":  "Marvell Technology",
+                        "title":  "Marvell Technology, Inc. Announces Conference Call to Review Third Quarter of Fiscal Year 2027 Financial Results",
+                        "url":  "https://investor.marvell.com/news-and-events/press-releases/press-release-details/2026/Marvell-Technology-Inc.-Announces-Conference-Call-to-Review-Third-Quarter-of-Fiscal-Year-2027-Financial-Results/default.aspx"
                     },
                     {
-                        "title":  "What Sent Marvell Stock Down Over 7%?",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/mrvl/articles/625792/why-did-marvell-stock-fall-over-7/2026-11-17",
-                        "date":  "2026-11-17"
+                        "date":  "2026-11-13",
+                        "publisher":  "Marvell Technology",
+                        "title":  "Marvell Scales Connectivity to Address AI Infrastructure\u0027s Next Bottleneck at Supercomputing 2026",
+                        "url":  "https://www.marvell.com/company/newsroom/marvell-scales-connectivity-to-address-ai-infrastructures-next-bottleneck-at-supercomputing-2026.html"
                     },
                     {
-                        "title":  "Stifel cuts Marvell stock price target on deal concerns to $280",
-                        "publisher":  "Investing.com",
-                        "url":  "https://www.investing.com/news/analyst-ratings/stifel-cuts-marvell-stock-price-target-on-deal-concerns-to-280-93CH-5041981",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-23",
+                        "publisher":  "The Motley Fool",
+                        "title":  "Why Marvell Technology Stock Crushed it Today",
+                        "url":  "https://www.fool.com/investing/2026/11/23/why-marvell-technology-stock-crushed-it-today/"
                     },
                     {
-                        "title":  "AI data center revenue hits $2.17B at Marvell (NASDAQ: MRVL) as it sets new Q3 earnings target",
-                        "publisher":  "StockTitan (8-K summary)",
-                        "url":  "https://www.stocktitan.net/sec-filings/MRVL/8-k-marvell-technology-inc-reports-material-event-e969d3608687.html",
-                        "date":  "2026-08-27"
-                    },
-                    {
-                        "title":  "Marvell Technology Aktie: TD Cowen und Bank of America stufen nach Lumentum-Deal ab",
-                        "publisher":  "Goldesel",
-                        "url":  "https://goldesel.de/aktien/news/marvell-technology-aktie-td-cowen-und-bank-of-america-stufen-nach-lumentum-deal-ab"
-                    },
-                    {
-                        "title":  "Marvell Technology (MRVL) Q3 2027 Earnings Date, Time \u0026 Estimates",
-                        "publisher":  "MarketBeat",
-                        "url":  "https://www.marketbeat.com/earnings/reports/2026-12-1-marvell-technology-group-ltd-stock/"
+                        "date":  "2026-08-27",
+                        "publisher":  "Marvell Technology",
+                        "title":  "Marvell Technology, Inc. Reports Second Quarter of Fiscal Year 2027 Financial Results",
+                        "url":  "https://investor.marvell.com/news-and-events/press-releases/press-release-details/2026/Marvell-Technology-Inc.-Reports-Second-Quarter-of-Fiscal-Year-2027-Financial-Results/default.aspx"
                     }
                 ]
 }

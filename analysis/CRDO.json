@@ -2,46 +2,45 @@
     "ticker":  "CRDO",
     "name":  "Credo Technology",
     "symbol":  "NASDAQ:CRDO",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:04:12Z",
-    "costUsd":  0.6641077000000001,
+    "generatedAt":  "2026-11-24T04:09:55Z",
+    "costUsd":  null,
     "stance":  "bearish",
-    "thesis":  "watch",
+    "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:CRDO",
                        "yahoo":  "CRDO",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:01:39Z",
-                       "price":  99.86,
-                       "open":  114.01,
-                       "high":  114.18,
-                       "low":  97.92,
-                       "volume":  13112200,
-                       "avgVolume20":  8239505,
-                       "changePct":  -15.2,
-                       "ema50":  161.04,
-                       "ema100":  177.6,
-                       "ema200":  175.86,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:06:03Z",
+                       "price":  122.46,
+                       "open":  126.12,
+                       "high":  126.72,
+                       "low":  118,
+                       "volume":  10646400,
+                       "avgVolume20":  8409740,
+                       "changePct":  22.63,
+                       "historyDays":  500,
+                       "ema50":  159.53,
+                       "ema100":  176.51,
+                       "ema200":  175.3,
                        "bb":  {
-                                  "upper":  174.04,
-                                  "middle":  136.47,
-                                  "lower":  98.91
+                                  "upper":  172.44,
+                                  "middle":  135.04,
+                                  "lower":  97.63
                               },
                        "macd":  {
-                                    "macd":  -16.22,
-                                    "signal":  -15,
-                                    "hist":  -1.22
+                                    "macd":  -15.31,
+                                    "signal":  -15.06,
+                                    "hist":  -0.25
                                 },
-                       "rsi14":  31.61,
+                       "rsi14":  42.6,
                        "high52w":  308.67,
                        "low52w":  86.49,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         214.6
-                                     ],
                                      [
                                          "2026-06-04",
                                          217.5
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          99.86
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         122.46
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          177.41,
                                           178.98,
                                           180.07,
                                           181.73,
@@ -639,97 +641,114 @@
                                           167.14,
                                           165.41,
                                           163.54,
-                                          161.04
+                                          161.04,
+                                          159.53
                                       ]
                    },
     "en":  {
-               "headline":  "CRDO drops 15% to $99.86 in AI-chip sell-off ahead of Dec 1 earnings",
-               "technical":  "The trend is clearly down. At $99.86, CRDO is far below its EMA50 ($161.04), EMA100 ($177.60) and EMA200 ($175.86). These are exponential moving averages, which weight recent days more heavily. The EMA50 has fallen below both longer averages, and the EMA100 has edged under the EMA200 line, so the longer-term trend is also turning lower. MACD, a trend-momentum gauge, is −16.22, below its signal line at −15.00. The histogram is −1.22, which means selling momentum picked up again instead of fading. RSI 14 (a 0–100 momentum gauge where under 30 means oversold) is 31.61, so the stock is close to oversold but not there yet. Price is pressing the lower Bollinger Band at $98.91 (bands sit 2 standard deviations around the 20-day average), and the intraday low of $97.92 dipped below it. The band runs from $98.91 to $174.04, a very wide range that shows extreme volatility. Volume was 13.1M shares, about 1.6× the 20-day average, so heavy trading backed the selling. The stock opened at $114.01 and closed near the day\u0027s low. Support is $97.92–98.91, then the 52-week low of $86.49. Resistance is $114–117.76, then the band midline at $136.47. The stock is 68% below its 52-week high of $308.67.",
-               "fundamental":  "The business is still growing fast. Fiscal Q1 2027 (quarter ended August 1, 2026) revenue was $479M, up 115% year on year, with record optical DSP and retimer sales. Guidance for fiscal Q2 is $525–535M at a 67–69% non-GAAP gross margin. There are also warning signs. Operating margin fell to 25.2% from 35.7% the quarter before, and inventory rose $62.2M to $313.1M. The top four customers made up 84% of revenue, and the largest alone was 33%. In the AI value chain, Credo sells the short copper and optical links that connect GPUs, switches and racks. Its edge is SerDes chip design, and it holds an estimated 93–99% share of active electrical cables (AECs). At the November 20 price, the stock trades at about 15× forward earnings, against a 3-year average of 61×. The market is pricing in lower share or growth, not a broken business.",
-               "news":  [
-                            "Nov 20, 2026: CRDO fell 15.2% to $99.86 in a broad tech sell-off. XLK, the tech-sector ETF, fell about 6%. The trigger was California\u0027s attorney general subpoenaing Nvidia after the Nov 19 close over whether its chips or confidential information reached China. No Credo-specific news came out that day.",
-                            "Nov 20, 2026: Stifel cut its price target to $250 from $310 but kept a Buy rating, and said it still expects Credo to beat and raise guidance on Dec 1.",
-                            "Nov 17, 2026: Credo and Marvell settled their AEC patent dispute, which also ended Marvell\u0027s challenges to Credo patents at the USPTO. Terms are confidential. Shares rose about 6% premarket on Nov 18.",
-                            "Nov 11, 2026: Credo said it will report fiscal Q2 2027 results (quarter ended Oct 31) after the close on Dec 1, 2026, with a call at 2:00 p.m. PT.",
-                            "Oct–Nov 2026: Competition fears weighed on the stock. Reports said Cisco is seeking quotes for its own proprietary 1.6T cable program. MaxLinear\u0027s CEO said the company is targeting 20–30% of the 1.6T AEC market, and Edgewater Research saw little sign of near-term 1.6T AEC deployments.",
-                            "Oct 12, 2026: At the OCP Global Summit, Credo launched the 1.6T ZeroFlap Active Light Cable. It is an optical cable for runs up to 50 m that draws 12 W per end, and shipping is planned for 2027."
+               "caution":  "Volatility is extreme, and one 22.63% relief rally does not reverse a steep downtrend where overhead resistance sits at $135.04 and $159.53. With Q2 FY2027 earnings landing on December 1, 2026, expectations are elevated around $525M–$535M revenue and 67%–69% non-GAAP gross margins; any hint of hyperscaler order digestion, slower AEC demand, or margin dilution from DustPhotonics integration could trigger another sharp drop. Heavy top-four customer concentration (84%) and October insider sales under 10b5-1 plans warrant disciplined risk management.",
+               "cons":  [
+                            "Remains in a bearish downtrend at $122.46, trading well below its EMA 50 ($159.53) and EMA 200 ($175.30).",
+                            "Top four hyperscaler customers represented 84% of Q1 FY2027 revenue (33%, 28%, 13%, 10%), creating heavy concentration risk.",
+                            "High-beta swings erased roughly 60% from its $308.67 52-week high, with Stifel trimming its target to $250 on November 20, 2026.",
+                            "Top executives sold tens of millions in shares during October 2026, mostly under pre-planned 10b5-1 schedules, adding sentiment drag."
                         ],
-               "caution":  "Both trend and momentum still point down, and the MACD histogram turned more negative on November 20 on heavy volume. If the $97.92 low gives way, the next clear reference is the 52-week low of $86.49. Results on December 1 are a two-way risk for a stock with a five-year beta of about 3.3. Investors will check whether the 84% customer concentration and rising inventory signal slower orders, and whether Cisco or MaxLinear are winning 1.6T designs. Comments on 1.6T timing will matter as much as the headline numbers.",
-               "opportunity":  "The November 20 drop was driven by Nvidia news and a sector-wide sell-off, not by anything Credo reported. Meanwhile, the Marvell settlement on November 17 removed a legal overhang from the AEC franchise. RSI at 31.61 and price at the lower Bollinger Band show the stock is stretched to the downside. At about 15× forward earnings, expectations are low compared with revenue growth above 100%. If Q2 lands at or above the $525–535M guide and the optical push, including the Active Light Cable, gains traction, the valuation gap could narrow.",
+               "fundamental":  "Credo supplies essential high-speed copper and optical plumbing linking GPUs and switches inside AI clusters—spanning Active Electrical Cables (AECs), SerDes chips, and optical DSPs. Execution has been exceptional: in Q1 FY2027 (ended August 1, 2026), revenue surged 114.7% YoY to $479.0M with 68.0% non-GAAP gross margin and $236.3M non-GAAP net income ($1.20 diluted EPS). Management guided Q2 FY2027 (due December 1, 2026) to $525M–$535M and full-year FY2027 growth above 85%, including over $600M from optics as May 2026\u0027s DustPhotonics acquisition adds in-house silicon photonics PICs. Recent developments reinforce rather than weaken the moat: the November 17 Marvell settlement clears AEC patent challenges, while November 4 OCP approval of ZeroFlap optical telemetry with Oracle strengthens system-level lock-in. The stock\u0027s drawdown reflects sector multiple compression rather than business deterioration, though 84% revenue concentration in four hyperscalers remains a structural vulnerability.",
+               "headline":  "CRDO rebounds 22.6% off oversold lows, but trend stays bearish before Dec 1 earnings",
+               "news":  [
+                            "Nov 23, 2026: CRDO surged 22.63% to $122.46 on 10.65M shares during a broad AI semiconductor relief rally and pre-earnings dip buying, partially reversing a steep mid-November selloff.",
+                            "Nov 20, 2026: Stifel maintained its Buy rating on CRDO but cut its price target from $310 to $250 amid AI infrastructure valuation pressure as shares fell roughly 14%–15% alongside networking peers.",
+                            "Nov 17, 2026: Credo and Marvell Technology announced a confidential settlement resolving their Active Electrical Cable (AEC) patent disputes, terminating Marvell\u0027s pending USPTO challenges against Credo\u0027s patents.",
+                            "Nov 11, 2026: Credo scheduled its Q2 FY2027 financial results and conference call for December 1, 2026 after market close, with prior revenue guidance set at $525M–$535M.",
+                            "Nov 4, 2026: Credo and Oracle announced Open Compute Project (OCP) approval of two optical transceiver telemetry specifications based on Credo\u0027s ZeroFlap framework for 400G, 800G, and 1.6T links."
+                        ],
+               "opportunity":  "For long-term AI infrastructure investors, the disconnect between a 60% drawdown from the $308.67 high and strengthening fundamentals stands out. Clearing Marvell\u0027s AEC patent challenges on November 17 removes a key legal overhang, while Oracle and OCP\u0027s November 4 adoption of ZeroFlap optical telemetry validates Credo\u0027s push from copper cables into vertically integrated optical systems. If December 1 results confirm $525M+ quarterly revenue, resilient high-60% margins, and steady optical momentum toward $600M+ in FY2027, holding above the $97.63 lower band could support longer-term base-building.",
+               "opportunityCheck":  "The current sub-scores largely fit Credo\u0027s high AI revenue exposure and fast market growth, backed by triple-digit revenue expansion. However, optionality looks slightly understated and warrants moving higher: integrating DustPhotonics\u0027 silicon photonics (first revenue booked in Q1 FY2027), targeting over $600M in FY2027 optical sales, and gaining November 4 Oracle/OCP approval for ZeroFlap telemetry show a credible second engine beyond copper AECs. Keeping market position and bottleneck moderate still makes sense—the November 17 Marvell settlement eases IP risk, yet fierce rivals and 84% top-four customer concentration cap unilateral pricing power.",
+               "pros":  [
+                            "Settled its AEC patent dispute with Marvell on November 17, 2026, ending pending USPTO patent challenges.",
+                            "Posted $479.0M Q1 FY2027 revenue (+114.7% YoY) with 68.0% non-GAAP gross margin and guided Q2 to $525M–$535M.",
+                            "Won OCP approval on November 4, 2026 alongside Oracle for two optical telemetry standards built on Credo\u0027s ZeroFlap framework.",
+                            "Expanded into silicon photonics via the May 2026 DustPhotonics deal, targeting over $600M in FY2027 optical revenue."
+                        ],
                "risks":  [
-                             "Customer concentration: the top four customers were 84% of fiscal Q1 revenue, with no long-term purchase commitments",
-                             "Competition in 1.6T AECs from MaxLinear (targeting 20–30% share) and a possible proprietary Cisco cable program",
-                             "Margin and inventory pressure: operating margin fell to 25.2%, and inventory rose to $313.1M",
-                             "High beta (about 3.3) makes the stock very sensitive to Nvidia news, AI-capex worries and data-center policy",
-                             "Earnings event risk on Dec 1, 2026, at a time when the technical trend is weak"
+                             "Extreme customer concentration: top four hyperscalers generated 84% of Q1 FY2027 revenue (33%, 28%, 13%, 10%).",
+                             "Intensifying interconnect competition from Broadcom, Marvell, and Astera Labs as copper and optical links scale toward 1.6T.",
+                             "Execution and margin risk integrating DustPhotonics\u0027 silicon photonics operations while scaling ZeroFlap optical systems.",
+                             "High-beta valuation sensitivity to AI capex-cycle jitters, underscored by the 60% pullback from the $308.67 52-week high."
                          ],
-               "summary":  "The technical posture is bearish. CRDO trades well below all three EMAs, MACD is negative and widening, and the November 20 drop of 15.2% came on about 1.6× normal volume. Price now sits at the lower Bollinger Band, with RSI near oversold. The latest leg down came from Nvidia-related sector selling, not from company news, and the Marvell patent settlement is a real positive. However, competition in 1.6T cables and heavy customer concentration are open questions. Until the December 1 results answer them, the moat thesis is on watch, not broken."
+               "summary":  "Credo Technology (NASDAQ:CRDO) jumped 22.63% to $122.46 on November 23, 2026, snapping back from a sector-wide AI chip selloff, yet it remains 60% below its $308.67 52-week high and in a bearish trend below all key moving averages. Fundamentally, the long-term moat stays intact: on November 17 Credo settled its AEC patent dispute with Marvell, and on November 4 Oracle and the OCP approved Credo\u0027s ZeroFlap optical telemetry standards. Investors now watch December 1 Q2 FY2027 results against $525M–$535M guidance and 84% top-four customer concentration.",
+               "technical":  "Despite surging 22.63% to $122.46 on November 23, 2026, CRDO\u0027s technical posture remains bearish. Price sits far below its three exponential moving averages (EMAs—weighted trend averages): EMA 50 ($159.53), EMA 200 ($175.30), and EMA 100 ($176.51). With EMA 50 well under EMA 200 (a bearish death cross) and EMA 100 converging toward EMA 200, the multi-month trend points down. Momentum is stabilizing but still negative: MACD (12/26/9, a trend-momentum gauge) reads -15.31 versus its -15.06 signal line, though the narrow -0.25 histogram hints selling pressure is easing. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) recovered to 42.6, exiting oversold territory yet staying under the neutral 50 mark. On volatility, CRDO bounced cleanly off its lower Bollinger Band ($97.63—two standard deviations below the 20-day average) but stays beneath the $135.04 middle band and 60.3% below its $308.67 52-week high (versus $86.49 low). Volume of 10.65M shares ran 27% above the 8.41M 20-day average, confirming bounce interest, though closing below the $126.12 open shows supply. Key support sits at $118.00, $97.63, and $86.49; resistance stands at $135.04 and $159.53."
            },
     "th":  {
-               "headline":  "CRDO ร่วง 15% เหลือ $99.86 จากแรงเทขายหุ้นชิป AI ก่อนงบ 1 ธ.ค.",
-               "technical":  "แนวโน้มยังเป็นขาลงชัดเจน ราคา $99.86 อยู่ต่ำกว่า EMA50 ($161.04), EMA100 ($177.60) และ EMA200 ($175.86) ไปไกลมาก EMA คือเส้นค่าเฉลี่ยที่ให้น้ำหนักกับราคาวันล่าสุดมากกว่า ตอนนี้ EMA50 หลุดลงไปอยู่ใต้ทั้งสองเส้นแล้ว และ EMA100 ก็เริ่มลงมาแตะใต้ EMA200 แปลว่าแนวโน้มระยะยาวกำลังเริ่มกลับเป็นขาลงด้วย MACD (ตัวชี้วัดแรงส่งของแนวโน้ม) อยู่ที่ −16.22 ต่ำกว่าเส้นสัญญาณที่ −15.00 และ histogram ติดลบ −1.22 แสดงว่าแรงขายกลับมาเร่งตัวอีกรอบแทนที่จะอ่อนลง RSI 14 (มาตรวัดแรงส่ง 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 31.61 ใกล้โซน oversold แต่ยังไม่ถึง ราคากำลังกดลงมาที่ขอบล่างของ Bollinger Band ($98.91) และระหว่างวันหลุดลงไปถึง $97.92 กรอบ Bollinger กว้างมากตั้งแต่ $98.91 ถึง $174.04 สะท้อนความผันผวนที่สูงผิดปกติ วันนั้นมีการซื้อขาย 13.1 ล้านหุ้น ราว 1.6 เท่าของค่าเฉลี่ย 20 วัน ยืนยันว่าแรงขายมีน้ำหนักจริง หุ้นเปิดที่ $114.01 แล้วปิดใกล้จุดต่ำสุดของวัน แนวรับอยู่ที่ $97.92–98.91 ถัดไปคือจุดต่ำสุดรอบ 52 สัปดาห์ $86.49 แนวต้านอยู่ที่ $114–117.76 และเส้นกลางของ Bollinger ที่ $136.47 ราคาตอนนี้ต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($308.67) ถึง 68%",
-               "fundamental":  "ธุรกิจยังโตเร็วมาก ไตรมาส 1 ปีงบ 2027 (สิ้นสุด 1 ส.ค. 2026) มีรายได้ $479M โต 115% จากปีก่อน และยอดขาย optical DSP กับ retimer ทำสถิติสูงสุดใหม่ บริษัทให้แนวทางรายได้ไตรมาส 2 ที่ $525–535M อัตรากำไรขั้นต้น non-GAAP 67–69% แต่ก็มีสัญญาณที่ต้องระวัง อัตรากำไรจากการดำเนินงานลดลงเหลือ 25.2% จาก 35.7% ในไตรมาสก่อน และสินค้าคงคลังเพิ่มขึ้น $62.2M เป็น $313.1M ลูกค้า 4 รายใหญ่คิดเป็น 84% ของรายได้ โดยรายใหญ่สุดรายเดียวคิดเป็น 33% ใน value chain ของ AI บริษัทขายสายและชิปเชื่อมต่อระยะสั้นทั้งแบบทองแดงและออปติคัล ที่เชื่อม GPU สวิตช์ และแร็คเข้าด้วยกัน จุดแข็งคือการออกแบบชิป SerDes และครองส่วนแบ่งตลาดสาย AEC ราว 93–99% ที่ราคาวันที่ 20 พ.ย. หุ้นซื้อขายที่ราว 15 เท่าของกำไรล่วงหน้า เทียบกับค่าเฉลี่ย 3 ปีที่ 61 เท่า ตลาดกำลังสะท้อนความกังวลว่าส่วนแบ่งหรือการเติบโตจะลดลง ไม่ใช่มองว่าธุรกิจพังแล้ว",
-               "news":  [
-                            "20 พ.ย. 2026: CRDO ร่วง 15.2% ปิดที่ $99.86 ตามแรงเทขายหุ้นเทคทั้งกลุ่ม โดย XLK (ETF หุ้นกลุ่มเทค) ลดลงราว 6% ชนวนคืออัยการสูงสุดรัฐแคลิฟอร์เนียออกหมายเรียก Nvidia หลังตลาดปิดวันที่ 19 พ.ย. เพื่อสอบว่าชิปหรือข้อมูลลับหลุดไปจีนหรือไม่ วันนั้นไม่มีข่าวเฉพาะของ Credo",
-                            "20 พ.ย. 2026: Stifel ลดราคาเป้าหมายจาก $310 เหลือ $250 แต่ยังคงคำแนะนำ Buy และยังคาดว่า Credo จะประกาศงบดีกว่าคาดและปรับแนวทางขึ้นในวันที่ 1 ธ.ค.",
-                            "17 พ.ย. 2026: Credo และ Marvell ยุติข้อพิพาทสิทธิบัตรเรื่องสาย AEC ซึ่งรวมถึงการถอนคำร้องที่ Marvell ยื่นคัดค้านสิทธิบัตรของ Credo ต่อ USPTO ด้วย เงื่อนไขเป็นความลับ หุ้นขึ้นราว 6% ก่อนตลาดเปิดวันที่ 18 พ.ย.",
-                            "11 พ.ย. 2026: Credo แจ้งว่าจะประกาศงบไตรมาส 2 ปีงบ 2027 (สิ้นสุด 31 ต.ค.) หลังตลาดปิดวันที่ 1 ธ.ค. 2026 และจัด conference call เวลา 14:00 น. ตามเวลาแปซิฟิก",
-                            "ต.ค.–พ.ย. 2026: ความกังวลเรื่องคู่แข่งกดดันราคาหุ้น มีรายงานว่า Cisco กำลังขอใบเสนอราคาสำหรับโครงการสาย 1.6T ที่ออกแบบเอง CEO ของ MaxLinear ระบุว่าตั้งเป้าส่วนแบ่ง 20–30% ในตลาดสาย AEC 1.6T และ Edgewater Research ยังไม่พบสัญญาณการติดตั้งสาย AEC 1.6T ในระยะใกล้มากนัก",
-                            "12 ต.ค. 2026: ที่งาน OCP Global Summit Credo เปิดตัว 1.6T ZeroFlap Active Light Cable ซึ่งเป็นสายออปติคัลสำหรับระยะไม่เกิน 50 ม. ใช้ไฟ 12 W ต่อปลาย และมีแผนเริ่มส่งมอบในปี 2027"
+               "caution":  "ความผันผวนของหุ้นอยู่ในระดับสูงมาก และการดีดตัวแรง 22.63% เพียงวันเดียวยังไม่สามารถกลับทิศแนวโน้มขาลงที่มีแนวต้านหนาแน่นรออยู่ที่ $135.04 และ $159.53 ได้ ทั้งนี้งบ Q2 FY2027 จะประกาศวันที่ 1 ธ.ค. 2026 ท่ามกลางความคาดหวังสูงที่รายได้ $525M–$535M และอัตรากำไรขั้นต้น non-GAAP 67%–69% หากมีสัญญาณชะลอคำสั่งซื้อจาก Hyperscaler ความต้องการ AEC แผ่วลง หรืออัตรากำไรถูกกดดันจากการควบรวม DustPhotonics หุ้นอาจปรับฐานแรงซ้ำได้ ประกอบกับการพึ่งพาลูกค้า 4 รายแรกถึง 84% และแรงขายผู้บริหารตามแผน 10b5-1 ในเดือน ต.ค. จึงต้องบริหารความเสี่ยงอย่างรัดกุม",
+               "cons":  [
+                            "โครงสร้างเทคนิคยังเป็นขาลงที่ $122.46 โดยต่ำกว่าทั้ง EMA 50 ($159.53) และ EMA 200 ($175.30) อย่างชัดเจน",
+                            "รายได้กระจุกตัวสูง โดยลูกค้า Hyperscaler 4 รายแรกคิดเป็น 84% ของรายได้ Q1 FY2027 (33%, 28%, 13% และ 10%)",
+                            "ความผันผวนสูงทำให้หุ้นร่วงราว 60% จากจุดสูงสุด 52 สัปดาห์ที่ $308.67 ขณะที่ Stifel หั่นเป้าหมายลงเหลือ $250 เมื่อวันที่ 20 พ.ย. 2026",
+                            "ผู้บริหารระดับสูงขายหุ้นรวมหลายสิบล้านดอลลาร์ในเดือน ต.ค. 2026 แม้ส่วนใหญ่เป็นแผนขายล่วงหน้า 10b5-1 แต่ยังกดดันจิตวิทยาตลาด"
                         ],
-               "caution":  "ทั้งแนวโน้มและแรงส่งยังชี้ลง และ histogram ของ MACD ติดลบลึกขึ้นในวันที่ 20 พ.ย. พร้อมวอลุ่มที่หนาแน่น หากราคาหลุด $97.92 จุดอ้างอิงถัดไปคือจุดต่ำสุดรอบ 52 สัปดาห์ที่ $86.49 งบวันที่ 1 ธ.ค. อาจพาราคาแกว่งแรงได้ทั้งขึ้นและลง เพราะหุ้นตัวนี้มี beta 5 ปีราว 3.3 นักลงทุนจะจับตาว่าการพึ่งลูกค้ารายใหญ่ถึง 84% และสินค้าคงคลังที่เพิ่มขึ้นเป็นสัญญาณว่าคำสั่งซื้อชะลอหรือไม่ และ Cisco หรือ MaxLinear เริ่มได้งานออกแบบสาย 1.6T ไปแล้วหรือยัง คำอธิบายเรื่องจังหวะเวลาของสาย 1.6T จะสำคัญไม่แพ้ตัวเลขรายได้",
-               "opportunity":  "การร่วงวันที่ 20 พ.ย. มาจากข่าว Nvidia และแรงขายทั้งกลุ่ม ไม่ได้มาจากสิ่งที่ Credo รายงานเอง ขณะเดียวกัน ข้อตกลงกับ Marvell เมื่อ 17 พ.ย. ก็ปลดความเสี่ยงด้านกฎหมายออกจากธุรกิจ AEC ไปแล้ว RSI ที่ 31.61 และราคาที่อยู่ขอบล่างของ Bollinger Band แสดงว่าหุ้นถูกขายลงมาตึงมาก ที่ราว 15 เท่าของกำไรล่วงหน้า ความคาดหวังของตลาดถือว่าต่ำเมื่อเทียบกับรายได้ที่โตเกิน 100% หากรายได้ไตรมาส 2 ออกมาตามหรือดีกว่ากรอบ $525–535M และธุรกิจออปติคัล รวมถึง Active Light Cable เริ่มมีแรงส่ง ช่องว่างด้าน valuation อาจแคบลงได้",
+               "fundamental":  "Credo เป็นผู้ผลิตโครงสร้างการเชื่อมต่อความเร็วสูงทั้งสายทองแดงและออปติคัลสำหรับเชื่อม GPU กับสวิตช์ในดาต้าเซ็นเตอร์ AI ครอบคลุม Active Electrical Cables (AEC), ชิป SerDes และ optical DSP ผลงานล่าสุดโดดเด่นมาก โดยงบ Q1 FY2027 (สิ้นสุด 1 ส.ค. 2026) มีรายได้ $479.0M โต 114.7% YoY อัตรากำไรขั้นต้น non-GAAP สูงถึง 68.0% และกำไรสุทธิ non-GAAP ที่ $236.3M ($1.20 ต่อหุ้น) บริษัทคาดการณ์รายได้ Q2 FY2027 (ประกาศ 1 ธ.ค. 2026) ที่ $525M–$535M และรายได้ทั้งปี FY2027 โตเกิน 85% โดยมีรายได้ฝั่งออปติคัลเกิน $600M หลังปิดดีลซื้อ DustPhotonics ในเดือน พ.ค. 2026 ช่วยเสริมเทคโนโลยี silicon photonics PIC ข่าวล่าสุดยิ่งตอกย้ำจุดแข็งเชิงโครงสร้าง ทั้งการยุติข้อพิพาทสิทธิบัตร AEC กับ Marvell (17 พ.ย.) และการที่ OCP กับ Oracle รับรองมาตรฐาน ZeroFlap (4 พ.ย.) การปรับฐานของหุ้นจึงสะท้อนการปรับลดมูลค่าทั้งกลุ่มมากกว่าพื้นฐานที่อ่อนแอ แม้ความเสี่ยงลูกค้ากระจุกตัว 84% จะยังต้องจับตาใกล้ชิดก็ตาม",
+               "headline":  "CRDO ดีดแรง 22.6% จากโซนขายมากเกินไป แต่เทรนด์ยังเป็นขาลงก่อนงบ 1 ธ.ค.",
+               "news":  [
+                            "23 พ.ย. 2026: หุ้น CRDO พุ่งขึ้น 22.63% ปิดที่ $122.46 ด้วยวอลุ่ม 10.65 ล้านหุ้น ตามแรงฟื้นตัวของกลุ่มชิป AI และแรงซื้อดักงบ หลังถูกเทขายหนักช่วงกลางเดือน พ.ย.",
+                            "20 พ.ย. 2026: Stifel คงคำแนะนำ Buy แต่ปรับลดราคาเป้าหมาย CRDO จาก $310 เหลือ $250 ท่ามกลางแรงกดดันด้านมูลค่าหุ้นกลุ่มโครงสร้างพื้นฐาน AI โดยหุ้นร่วงราว 14%–15% ตามกลุ่มเดียวกัน",
+                            "17 พ.ย. 2026: Credo และ Marvell Technology บรรลุข้อตกลงยุติข้อพิพาทสิทธิบัตรสาย AEC แบบไม่เปิดเผยเงื่อนไข พร้อมยุติคำร้องคัดค้านสิทธิบัตรของ Credo ที่ค้างอยู่ในสำนักงานสิทธิบัตรสหรัฐฯ (USPTO)",
+                            "11 พ.ย. 2026: Credo กำหนดวันประกาศผลประกอบการ Q2 FY2027 หลังปิดตลาดวันที่ 1 ธ.ค. 2026 โดยก่อนหน้านี้บริษัทให้กรอบคาดการณ์รายได้ไว้ที่ $525M–$535M",
+                            "4 พ.ย. 2026: Credo และ Oracle ประกาศว่า Open Compute Project (OCP) อนุมัติมาตรฐาน telemetry สำหรับตัวรับส่งสัญญาณออปติคัล 2 ฉบับ บนพื้นฐานเทคโนโลยี ZeroFlap ของ Credo รองรับความเร็ว 400G, 800G และ 1.6T"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนโครงสร้างพื้นฐาน AI ระยะยาว ช่องว่างระหว่างราคาหุ้นที่ย่อลง 60% จากจุดสูงสุด $308.67 กับพื้นฐานที่แข็งแกร่งขึ้นถือว่าน่าจับตา การยุติข้อพิพาทสิทธิบัตร AEC กับ Marvell เมื่อวันที่ 17 พ.ย. ช่วยปลดล็อกความกังวลด้านกฎหมาย ขณะที่การที่ Oracle และ OCP รับรองมาตรฐาน ZeroFlap เมื่อวันที่ 4 พ.ย. ยืนยันการต่อยอดจากสายทองแดงสู่ระบบออปติคัลครบวงจร หากงบวันที่ 1 ธ.ค. ยืนยันรายได้เกิน $525M รักษาอัตรากำไรระดับสูงราว 60% ปลายๆ และดันยอดขายออปติคัลสู่เป้า $600M+ ในปี FY2027 ได้ การยืนเหนือแนวรับกรอบล่างที่ $97.63 อาจเป็นจุดเริ่มต้นของการสร้างฐานระยะยาว",
+               "opportunityCheck":  "คะแนนย่อยบนหน้าเว็บสอดคล้องกับภาพรวมของ Credo เป็นส่วนใหญ่ โดยเฉพาะสัดส่วนรายได้จาก AI และอัตราเติบโตของตลาดที่รองรับด้วยรายได้โตระดับสามหลัก อย่างไรก็ดี คะแนนด้าน optionality (โอกาสต่อยอดธุรกิจใหม่) ดูต่ำไปเล็กน้อยและควรขยับขึ้น จากการเริ่มรับรู้รายได้ silicon photonics ของ DustPhotonics ใน Q1 FY2027 เป้ายอดขายออปติคัลเกิน $600M ใน FY2027 และการที่ OCP กับ Oracle รับรองมาตรฐาน ZeroFlap เมื่อวันที่ 4 พ.ย. ซึ่งพิสูจน์เครื่องยนต์เติบโตตัวที่สองนอกเหนือจากสาย AEC ส่วนคะแนนตำแหน่งทางการตลาดและอำนาจต่อรองควรคงไว้ระดับกลางต่อไป เพราะแม้ดีลยุติคดีกับ Marvell จะช่วยลดความเสี่ยงด้านสิทธิบัตร แต่การแข่งขันกับ Broadcom, Marvell และ Astera Labs รวมถึงลูกค้า 4 รายแรกที่ครองสัดส่วน 84% ยังจำกัดอำนาจตั้งราคา",
+               "pros":  [
+                            "ยุติข้อพิพาทสิทธิบัตรสาย AEC กับ Marvell เมื่อวันที่ 17 พ.ย. 2026 ช่วยปลดล็อกคำร้องคัดค้านสิทธิบัตรที่ USPTO",
+                            "รายได้ Q1 FY2027 พุ่งแตะ $479.0M (+114.7% YoY) อัตรากำไรขั้นต้น non-GAAP สูง 68.0% พร้อมคาด Q2 แตะ $525M–$535M",
+                            "ร่วมกับ Oracle ผลักดันมาตรฐาน optical telemetry บนพื้นฐาน ZeroFlap จนได้รับอนุมัติจาก OCP เมื่อวันที่ 4 พ.ย. 2026",
+                            "ต่อยอดสู่ silicon photonics หลังซื้อกิจการ DustPhotonics ในเดือน พ.ค. 2026 ตั้งเป้ารายได้กลุ่มออปติคัลเกิน $600M ในปี FY2027"
+                        ],
                "risks":  [
-                             "พึ่งพาลูกค้ากระจุกตัว: ลูกค้า 4 รายใหญ่คิดเป็น 84% ของรายได้ไตรมาส 1 และไม่มีสัญญาซื้อระยะยาว",
-                             "การแข่งขันในสาย AEC 1.6T จาก MaxLinear (ตั้งเป้าส่วนแบ่ง 20–30%) และโครงการสายที่ Cisco อาจออกแบบเอง",
-                             "แรงกดดันด้านมาร์จินและสต็อก: อัตรากำไรจากการดำเนินงานลดเหลือ 25.2% และสินค้าคงคลังเพิ่มเป็น $313.1M",
-                             "beta สูง (ราว 3.3) ทำให้หุ้นอ่อนไหวมากต่อข่าว Nvidia ความกังวลเรื่องงบลงทุน AI และนโยบายดาต้าเซ็นเตอร์",
-                             "ความเสี่ยงจากงบวันที่ 1 ธ.ค. 2026 ในช่วงที่แนวโน้มทางเทคนิคยังอ่อนแอ"
+                             "ความเสี่ยงลูกค้ากระจุกตัวสูง โดย Hyperscaler 4 รายแรกสร้างรายได้ถึง 84% ของ Q1 FY2027 (33%, 28%, 13%, 10%)",
+                             "การแข่งขันรุนแรงขึ้นจาก Broadcom, Marvell และ Astera Labs ในช่วงเปลี่ยนผ่านความเร็วเชื่อมต่อสู่ระดับ 1.6T",
+                             "ความเสี่ยงด้านการดำเนินงานและอัตรากำไรจากการผสานธุรกิจ silicon photonics ของ DustPhotonics ควบคู่การขยายระบบ ZeroFlap Optics",
+                             "ความผันผวนสูงตามรอบการลงทุน AI capex และแรงปรับลดมูลค่า ดังที่เห็นจากการร่วงถึง 60% จากจุดสูงสุด 52 สัปดาห์ที่ $308.67"
                          ],
-               "summary":  "ภาพเทคนิคเป็นขาลง CRDO อยู่ต่ำกว่า EMA ทั้งสามเส้นไปมาก MACD ติดลบและห่างจากเส้นสัญญาณมากขึ้น และการร่วง 15.2% เมื่อ 20 พ.ย. มาพร้อมวอลุ่มราว 1.6 เท่าของปกติ ตอนนี้ราคาอยู่ที่ขอบล่างของ Bollinger Band และ RSI ใกล้โซน oversold แรงขายรอบล่าสุดมาจากข่าว Nvidia ที่ลากทั้งกลุ่มลง ไม่ใช่ข่าวของบริษัทเอง และข้อตกลงสิทธิบัตรกับ Marvell ถือเป็นข่าวดีจริง แต่การแข่งขันในสาย 1.6T และการพึ่งลูกค้ารายใหญ่ยังเป็นคำถามค้างอยู่ จนกว่างบวันที่ 1 ธ.ค. จะให้คำตอบ ทฤษฎีเรื่องคูเมืองของบริษัทจึงอยู่ในสถานะต้องจับตา ยังไม่ถึงขั้นเสียหาย"
+               "summary":  "Credo Technology (NASDAQ:CRDO) ดีดตัวแรง 22.63% ปิดที่ $122.46 เมื่อวันที่ 23 พ.ย. 2026 หลังกลุ่มชิป AI ฟื้นตัว แต่ราคายังต่ำกว่าจุดสูงสุด 52 สัปดาห์ ($308.67) ราว 60% และยังอยู่ในแนวโน้มขาลงใต้เส้นค่าเฉลี่ยหลักทั้งหมด ด้านพื้นฐานจุดแข็งระยะยาวยังไม่เปลี่ยน ทั้งการยุติคดีสิทธิบัตร AEC กับ Marvell วันที่ 17 พ.ย. และมาตรฐาน ZeroFlap ที่ได้รับอนุมัติจาก OCP ร่วมกับ Oracle วันที่ 4 พ.ย. โดยจุดชี้วัดถัดไปคืองบ Q2 FY2027 วันที่ 1 ธ.ค. เทียบเป้ารายได้ $525M–$535M ท่ามกลางความเสี่ยงลูกค้า 4 รายแรก 84%",
+               "technical":  "แม้หุ้น CRDO จะพุ่งแรง 22.63% มาปิดที่ $122.46 เมื่อวันที่ 23 พ.ย. 2026 แต่โครงสร้างทางเทคนิคโดยรวมยังเป็นขาลง ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนัก (EMA — ตัววัดแนวโน้มราคา) ทั้งสามเส้น ได้แก่ EMA 50 ($159.53), EMA 200 ($175.30) และ EMA 100 ($176.51) โดย EMA 50 ตัดลงต่ำกว่า EMA 200 แล้ว (สัญญาณ death cross) สะท้อนแนวโน้มหลักที่ยังกดลง ด้านโมเมนตัมเริ่มชะลอแรงขายแต่ยังติดลบ โดย MACD (12/26/9 — ตัววัดแรงส่งแนวโน้ม) อยู่ที่ -15.31 ต่ำกว่าเส้น signal ที่ -15.06 แต่ค่า histogram ที่แคบลงเหลือ -0.25 ชี้ว่าแรงกดดันเริ่มแผ่ว ขณะที่ RSI 14 (มาตรวัดโมเมนตัม 0–100; ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นขึ้นมาที่ 42.6 พ้นเขต oversold แล้วแต่ยังต่ำกว่าระดับกลาง 50 ด้านความผันผวน ราคาดีดกลับจากกรอบล่าง Bollinger Bands ($97.63 — กรอบความผันผวน 2 เท่าจากค่าเฉลี่ย 20 วัน) แต่ยังต่ำกว่าเส้นกลาง $135.04 และร่วงลง 60.3% จากจุดสูงสุด 52 สัปดาห์ที่ $308.67 (ต่ำสุด $86.49) ปริมาณซื้อขาย 10.65 ล้านหุ้นสูงกว่าค่าเฉลี่ย 20 วัน (8.41 ล้านหุ้น) ราว 27% ยืนยันแรงซื้อรีบาวด์ แต่การปิดต่ำกว่าราคาเปิด $126.12 สะท้อนแรงขายทำกำไรระหว่างวัน แนวรับสำคัญอยู่ที่ $118.00, $97.63 และ $86.49 ส่วนแนวต้านอยู่ที่ $135.04 และ $159.53"
            },
     "sources":  [
                     {
-                        "title":  "Credo Sinks 6%, Marvell Down 5% as Cramer Says Nvidia Woes Are \"Overwhelming the Good News\"",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/markets/stocks/articles/credo-sinks-6-marvell-down-143904477.html",
-                        "date":  "2026-11-20"
-                    },
-                    {
-                        "title":  "Tech slump pushes Credo Technology down 14%",
-                        "publisher":  "Seeking Alpha",
-                        "url":  "https://seekingalpha.com/news/4675303-tech-slump-pushes-credo-technology-down-14",
-                        "date":  "2026-11-20"
-                    },
-                    {
+                        "date":  "2026-11-17",
+                        "publisher":  "Business Wire (Credo Technology)",
                         "title":  "Credo Reaches Settlement in Patent Dispute",
-                        "publisher":  "Credo Technology (Investor Relations)",
-                        "url":  "https://investors.credosemi.com/news-events/news/news-details/2026/Credo-Reaches-Settlement-in-Patent-Dispute/default.aspx",
-                        "date":  "2026-11-17"
+                        "url":  "https://www.businesswire.com/news/home/20261117966700/en/"
                     },
                     {
+                        "date":  "2026-11-11",
+                        "publisher":  "Business Wire (Credo Technology)",
                         "title":  "Credo Schedules Second Quarter Fiscal Year 2027 Financial Results Conference Call",
-                        "publisher":  "Credo Technology",
-                        "url":  "https://s205.q4cdn.com/511065572/files/doc_news/Credo-Schedules-Second-Quarter-Fiscal-Year-2027-Financial-Results-Conference-Call-2026.pdf",
-                        "date":  "2026-11-11"
+                        "url":  "https://www.businesswire.com/news/home/20261111758581/en/"
                     },
                     {
-                        "title":  "Credo Technology owns 93% of its AI cable niche—so why did it plunge 30%?",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/technology/ai/articles/credo-technology-owns-93-ai-124230415.html",
-                        "date":  "2026-11-13"
+                        "date":  "2026-11-04",
+                        "publisher":  "Business Wire (Credo Technology)",
+                        "title":  "Credo and Oracle Advance Optical Transceiver Telemetry Standardization with OCP Community",
+                        "url":  "https://www.businesswire.com/news/home/20261104860010/en/Credo-and-Oracle-Advance-Optical-Transceiver-Telemetry-Standardization-with-OCP-Community"
                     },
                     {
-                        "title":  "What Just Happened To Credo Stock?",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/crdo/articles/622653/what-just-happened-to-credo-stock/2026-11-04",
-                        "date":  "2026-11-04"
+                        "date":  "2026-09-01",
+                        "publisher":  "Business Wire (Credo Technology)",
+                        "title":  "Credo Technology Group Holding Ltd Reports First Quarter of Fiscal Year 2027 Financial Results",
+                        "url":  "https://www.businesswire.com/news/home/20260901579549/en/Credo-Technology-Group-Holding-Ltd-Reports-First-Quarter-of-Fiscal-Year-2027-Financial-Results"
                     },
                     {
-                        "title":  "Credo Technology Group unveils 1.6-terabit optical cable, targets AI market",
-                        "publisher":  "Crypto Briefing",
-                        "url":  "https://cryptobriefing.com/credo-1-6t-active-light-cable-ai/",
-                        "date":  "2026-10-23"
+                        "date":  "2026-11-20",
+                        "publisher":  "TradingView (Benzinga)",
+                        "title":  "Stifel maintains Credo Technology Group at Buy, lowers price target to $250 from $310",
+                        "url":  "https://www.tradingview.com/news/benzinga:4349377:0-stifel-maintains-credo-technology-group-at-buy-lowers-price-target-to-250-from-310/"
+                    },
+                    {
+                        "date":  "2026-11-23",
+                        "publisher":  "MarketBeat",
+                        "title":  "Credo Technology Group (NASDAQ:CRDO) Shares Up 22.6% - Time to Buy?",
+                        "url":  "https://www.marketbeat.com/instant-alerts/nasdaq-crdo-shares-up-226-2026-11-23/"
                     }
                 ]
 }

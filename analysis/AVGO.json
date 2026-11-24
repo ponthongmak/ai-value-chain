@@ -6,7 +6,7 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T05:47:51Z",
+    "generatedAt":  "2026-11-24T03:43:17Z",
     "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
@@ -14,37 +14,33 @@
                        "symbol":  "NASDAQ:AVGO",
                        "yahoo":  "AVGO",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-23T05:42:39Z",
-                       "price":  304.41,
-                       "open":  343.01,
-                       "high":  343.01,
-                       "low":  301.02,
-                       "volume":  59562800,
-                       "avgVolume20":  30370420,
-                       "changePct":  -12.19,
-                       "historyDays":  501,
-                       "ema50":  343.8,
-                       "ema100":  355.2,
-                       "ema200":  355.72,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:39:11Z",
+                       "price":  313.55,
+                       "open":  320.86,
+                       "high":  324.46,
+                       "low":  304.56,
+                       "volume":  41009300,
+                       "avgVolume20":  31516040,
+                       "changePct":  3,
+                       "historyDays":  500,
+                       "ema50":  342.61,
+                       "ema100":  354.38,
+                       "ema200":  355.28,
                        "bb":  {
-                                  "upper":  370.09,
-                                  "middle":  332.38,
-                                  "lower":  294.67
+                                  "upper":  370.18,
+                                  "middle":  331.6,
+                                  "lower":  293.01
                               },
                        "macd":  {
-                                    "macd":  -2.1,
-                                    "signal":  -2.76,
-                                    "hist":  0.66
+                                    "macd":  -3.6,
+                                    "signal":  -2.93,
+                                    "hist":  -0.67
                                 },
-                       "rsi14":  40.84,
+                       "rsi14":  43.76,
                        "high52w":  495,
                        "low52w":  289.77,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         479.23
-                                     ],
                                      [
                                          "2026-06-04",
                                          418.91
@@ -520,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          304.41
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         313.55
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          404.7,
                                           405.25,
                                           404.49,
                                           404.18,
@@ -642,119 +641,122 @@
                                           345,
                                           345.36,
                                           345.41,
-                                          343.8
+                                          343.8,
+                                          342.61
                                       ]
                    },
     "en":  {
-               "caution":  "The November 20 selloff is not mere market noise: it directly challenges two pillars of Broadcom\u0027s bull case—Google exclusivity and earnings quality. Even if Ming-Chi Kuo\u0027s unconfirmed 20% TPU 8i cut proves overstated, MediaTek\u0027s growing role on TPU 8t signals hyperscalers will dual-source custom silicon when power and pricing tighten. Meanwhile, providing residual-value support on a $63 billion Anthropic SPV introduces balance-sheet and counterparty risk if frontier-lab monetization lags. Technically, RSI 14 at 40.84 is not yet oversold, leaving the $289.77 52-week low vulnerable ahead of December 9 earnings.",
+               "caution":  "The November slide reflects real business questions, not just market noise. If Google truly reallocates part of its 2027 TPU roadmap toward MediaTek, Broadcom\u0027s pricing leverage at its largest custom-silicon partner could soften. Meanwhile, providing residual-value backstops on a $63 billion SPV for Anthropic links Broadcom\u0027s balance sheet to an AI lab that still depends on external capital. Add U.S. BIS remote-access export rules issued November 16 and an unbroken technical downtrend ahead of December 9 earnings, and near-term volatility remains elevated.",
                "cons":  [
-                            "Ming-Chi Kuo\u0027s November 20 report of a ~1 million unit (20%) cut to 2027 Google TPU 8i orders—hitting high-end Whalefish—shows hyperscaler dual-sourcing toward MediaTek.",
-                            "Broadcom\u0027s residual-value support in the October 26 $63 billion Anthropic SPV (plus its $42 billion convertible-note facility) triggered Rothschild \u0026 Co Redburn\u0027s November 13 downgrade to Neutral.",
-                            "Heavy custom ASIC and HBM-rich system mix dilutes gross margins compared with legacy networking silicon and raises customer-concentration risk.",
-                            "November 19 U.S. BIS export rules restricting remote AI chip access in Southeast Asia and Brazil, plus a critical VMware vCenter zero-day (CVE-2026-123890), add compliance and execution overhangs."
+                            "Analyst Ming-Chi Kuo reported on November 20 that Google cut 2027 Broadcom TPU 8i orders by roughly 1 million units (~20%) while shifting TPU 8t volume to MediaTek.",
+                            "Broadcom\u0027s residual-value backstop on Anthropic\u0027s $63 billion SPV triggered Rothschild \u0026 Co Redburn\u0027s November 13 downgrade to Neutral over circular AI financing risk.",
+                            "Tighter U.S. BIS remote-access semiconductor export rules issued November 16 add licensing friction across Southeast Asia and Latin America.",
+                            "Shares sit in a full bearish technical breakdown below the EMA 50 ($342.61), EMA 100 ($354.38), and EMA 200 ($355.28), just 8.2% above the 52-week low."
                         ],
-               "fundamental":  "Broadcom anchors the custom-silicon and open Ethernet networking layers of AI infrastructure, turning hyperscaler model architectures into production ASICs (XPUs) alongside Tomahawk switches and VMware infrastructure software. In Q3 FY2026 (reported September 2, 2026), revenue jumped 86% year-over-year to $29.6 billion, led by $16.7 billion in AI semiconductors (+221% YoY), with a 67.9% non-GAAP operating margin ($20.1 billion) and $13.7 billion in free cash flow. Management guided Q4 FY2026 revenue to $34.8 billion ($21.7 billion AI), raised FY2026 AI revenue to $58 billion, and projected AI scaling toward ~$115 billion in FY2027 and ~$230 billion in FY2028. However, achieving those targets now faces scrutiny over Google\u0027s 2027 TPU allocation, HBM-driven margin mix, and credit backstops tied to frontier-lab financing. Q4 FY2026 earnings on December 9, 2026 will be the key fundamental test.",
-               "headline":  "Google TPU cut rumors and AI financing scrutiny sink Broadcom 12.2%",
+               "fundamental":  "Broadcom sits at the center of custom AI infrastructure, co-designing application-specific accelerators (XPUs) and high-speed Ethernet switches for hyperscalers while generating recurring cash flow from VMware enterprise software. In Q3 FY2026 (reported September 2, 2026), consolidated revenue jumped 86% YoY to $29.6 billion and non-GAAP diluted EPS rose 96% to $3.32. Semiconductor solutions reached $20.8 billion (+127% YoY), propelled by $16.7 billion in AI chip revenue (+221% YoY), while infrastructure software delivered $8.8 billion (+29% YoY). Management guided Q4 FY2026 revenue to $34.8 billion (+93% YoY), including $21.7 billion from AI semiconductors, alongside a ~66% non-GAAP operating margin. Long-term demand spans Google TPUs, Meta\u0027s MTIA, OpenAI\u0027s Jalapeño, and Anthropic. However, recent financing backstops and Google dual-sourcing reports mean Q4 results on December 9, 2026 will test whether Broadcom\u0027s custom-silicon moat retains high margins and credit discipline.",
+               "headline":  "AVGO Slides 37% Off Highs on Google TPU Cut Reports and AI Financing Risks",
                "news":  [
-                            "Nov 20, 2026: Supply-chain analyst Ming-Chi Kuo reported Google trimmed 2027 shipments of Broadcom-designed TPU 8i chips by roughly 1 million units (~20%, centered on the higher-priced 8i Max \"Whalefish\") while increasing MediaTek TPU 8t orders due to power constraints. Neither company confirmed the report, yet AVGO tumbled 12.19% on nearly double average volume.",
-                            "Nov 19, 2026: The U.S. Bureau of Industry and Security (BIS) enacted an interim final rule requiring export licenses for advanced AI chips shipped to Thailand, Malaysia, Singapore, Indonesia, and Brazil, plus overseas data centers renting large compute pools remotely to China. On the same day, Broadcom issued emergency advisory VMSA-2026-0009 patching an actively exploited VMware vCenter zero-day (CVE-2026-123890).",
-                            "Nov 18, 2026: Goldman Sachs analyst James Schneider cut Broadcom\u0027s price target from $540 to $460 while keeping a Buy rating, citing sector-wide multiple compression from 30x to 25x earnings and competition from MediaTek.",
-                            "Nov 13, 2026: Rothschild \u0026 Co Redburn downgraded Broadcom from Buy to Neutral and slashed its price target from $595 to $398, flagging credit-backed AI deals and questioning how quickly OpenAI and Anthropic can become self-financing.",
-                            "Oct 26, 2026: Bank of America, Blackstone, Citi, and Morgan Stanley unveiled a $63 billion SPV financing structure—backed by Broadcom residual-value support—to buy Broadcom XPUs and networking gear for Anthropic starting in 2027, adding to Broadcom\u0027s previously disclosed $42 billion convertible-note facility."
+                            "2026-11-20: Supply-chain analyst Ming-Chi Kuo reported that Google cut 2027 orders for Broadcom-designed TPU 8i chips (notably high-priced 8i Max \"Whalefish\" units) by roughly 1 million units (~20%) while raising orders for MediaTek\u0027s TPU 8t. Neither company confirmed the report, but AVGO plunged roughly 12% that session to around $304.41.",
+                            "2026-11-18: Goldman Sachs analyst James Schneider lowered his AVGO price target from $540 to $460 while maintaining a Buy rating, following broader Wall Street target trims in mid-November.",
+                            "2026-11-16: The U.S. Commerce Department\u0027s BIS issued an interim final rule (published in the Federal Register on November 19) tightening export licensing on remote access to advanced computing chips across parts of Southeast Asia and Latin America. Broadcom shares fell nearly 4% during the resulting chip-sector sell-off.",
+                            "2026-11-13: Rothschild \u0026 Co Redburn analyst Mike Harrison downgraded Broadcom from Buy to Neutral and cut his target from $595 to $398. He cited credit and timing risks around \"circular\" AI vendor backstops tied to frontier labs such as Anthropic and OpenAI.",
+                            "2026-10-26: Bank of America, Citi, Morgan Stanley, and Blackstone announced a $63 billion special purpose vehicle (SPV) to buy Broadcom XPU accelerators and networking gear for leasing to Anthropic starting in 2027, with Broadcom providing residual-value support matching the first-lien debt. Earlier, on October 19, Broadcom also signed a 10-year VMware Cloud Foundation deal with Japan\u0027s NTT DOCOMO."
                         ],
-               "opportunity":  "With AVGO down 38.5% from its $495.00 peak to $304.41, expectations have reset sharply heading into Q4 FY2026 results on December 9, 2026. Broadcom\u0027s custom-silicon business is no longer a single-customer story: Meta\u0027s 2nm MTIA roadmap, OpenAI\u0027s custom processor, and Anthropic\u0027s multi-gigawatt clusters diversify growth alongside Google, while open Ethernet switching (Tomahawk 6, Thor Ultra 800G) captures cluster buildouts regardless of accelerator mix. If CEO Hock Tan reaffirms the $115 billion FY2027 AI trajectory and clarifies financing safeguards, technical support near $294.67–$289.77 could become a closely watched stabilization zone.",
-               "opportunityCheck":  "Broadcom\u0027s AI-opportunity profile mostly holds up, though two sub-scores warrant adjustment after recent developments. AI revenue exposure deserves a nudge higher: AI semiconductors reached $16.7 billion—56% of Q3 FY2026 revenue—and are guided to $58 billion for FY2026, making AI the clear core of the company. Conversely, market position and bottleneck pricing power should edge down slightly. Ming-Chi Kuo\u0027s November 20 report that Google is shifting some 2027 TPU volume toward MediaTek proves even Broadcom\u0027s anchor partner can dual-source, while HBM-heavy custom ASICs and $63 billion vendor-financing backstops temper pure pricing leverage. Market growth and optionality still look reasonable.",
+               "opportunity":  "If management addresses the Google order rumors and clarifies SPV credit protections on December 9, 2026, Broadcom\u0027s underlying scale remains unmatched in custom AI silicon. AI semiconductor revenue is guided to $21.7 billion in Q4 FY2026 alone—up 236% YoY—backed by multi-year programs across Google, Meta, OpenAI, and Anthropic, plus Ethernet switching demand for massive AI clusters. Meanwhile, VMware Cloud Foundation\u0027s recurring enterprise software cash flows ($8.8 billion in Q3, +29% YoY) cushion hardware cyclicality, leaving AVGO 36.7% below its 52-week high if fundamentals hold.",
+               "opportunityCheck":  "Most of the page\u0027s AI-opportunity sub-scores fit Broadcom\u0027s custom-silicon franchise, but two merit adjustment after recent events. AI revenue exposure should move higher: AI semiconductors already produced $16.7 billion in Q3 FY2026 (56% of revenue) and are guided to $21.7 billion in Q4 (about 62%). Conversely, bottleneck and pricing power should edge lower. Reports on November 20 that Google shifted some 2027 TPU volume toward MediaTek, alongside Broadcom backstopping a $63 billion Anthropic financing vehicle on October 26, show hyperscalers retain dual-sourcing leverage and Broadcom must absorb financial risk to lock in multi-year volume.",
                "pros":  [
-                            "Q3 FY2026 AI semiconductor revenue jumped 221% year-over-year to $16.7 billion, with Q4 guided to $21.7 billion and full-year FY2026 to $58 billion.",
-                            "Multi-year custom-silicon ramps span Google, Meta, OpenAI, and Anthropic, backed by management\u0027s FY2027–FY2028 AI revenue targets of ~$115 billion and ~$230 billion.",
-                            "Profitability remains elite, with Q3 FY2026 non-GAAP operating margin hitting 67.9% ($20.1 billion) and free cash flow reaching $13.7 billion.",
-                            "Open Ethernet AI networking products—Tomahawk 6 switches, Thor Ultra 800G NICs, and co-packaged optics—extend Broadcom\u0027s grip beyond compute dies."
+                            "Q3 FY2026 AI semiconductor revenue jumped 221% YoY to $16.7 billion, with Q4 AI revenue guided to $21.7 billion (+236% YoY).",
+                            "An October 26 $63 billion SPV arranged by Bank of America, Citi, Morgan Stanley, and Blackstone funds 2027 Broadcom XPU deployments for Anthropic.",
+                            "Broadcom anchors custom silicon across multiple hyperscalers, spanning Google TPUs, Meta\u0027s MTIA accelerators, and OpenAI\u0027s Jalapeño inference chip.",
+                            "Infrastructure software hit $8.8 billion (+29% YoY) in Q3 FY2026, bolstered by NTT DOCOMO\u0027s October 19 10-year VMware Cloud Foundation agreement."
                         ],
                "risks":  [
-                             "Dual-sourcing and customer concentration: Google shifting 2027 TPU volume toward MediaTek could pressure unit share and high-margin custom-chip ASPs.",
-                             "Vendor-financing exposure: Residual-value support on the $63 billion Anthropic SPV and $42 billion convertible-note facility tie Broadcom\u0027s balance sheet to frontier-lab credit health.",
-                             "Gross-margin dilution: Scaling HBM-heavy custom AI systems carries lower gross margins than Broadcom\u0027s legacy networking silicon and VMware software.",
-                             "Regulatory and security friction: The November 19 U.S. BIS remote-access export rule covering Southeast Asia and Brazil, plus critical VMware vulnerabilities (CVE-2026-123890), raise compliance and operational risks."
+                             "Customer concentration and dual-sourcing: Potential Google TPU order shifts toward MediaTek could pressure high-ASP custom silicon margins.",
+                             "Vendor-financing exposure: Residual-value backstops on the $63 billion Anthropic SPV expose Broadcom if frontier AI labs face funding stress.",
+                             "Export controls: U.S. BIS remote-access chip rules (November 16, 2026) may complicate hyperscaler and sovereign AI deployments across Southeast Asia and Latin America.",
+                             "Earnings expectation risk: With Q4 FY2026 AI revenue guided to $21.7 billion (+236% YoY), any guidance slowdown on December 9 could trigger a retest of the $289.77 52-week low.",
+                             "VMware integration and leverage: Enterprise pushback against VMware licensing changes and post-acquisition debt limit financial flexibility during heavy AI capex cycles."
                          ],
-               "summary":  "Broadcom (AVGO) plunged 12.19% on November 20, 2026 to $304.41 on nearly double normal volume after analyst Ming-Chi Kuo reported Google cut 2027 orders for Broadcom-designed TPU 8i chips by roughly one million units while adding MediaTek TPU 8t orders. The drop capped a bruising month marked by Rothschild \u0026 Co Redburn\u0027s November 13 downgrade over Broadcom\u0027s $63 billion Anthropic compute-financing backstop and new November 19 U.S. remote-access export controls. While Q3 FY2026 AI semiconductor revenue surged 221% to $16.7 billion, dual-sourcing and credit risks put the moat thesis on watch ahead of December 9 earnings.",
-               "technical":  "AVGO\u0027s chart as of November 20, 2026 is decisively bearish. At $304.41 (down 12.19%), shares trade well below all three exponential moving averages (EMAs—weighted trend averages) in bearish order: EMA 50 ($343.80) sits below EMA 100 ($355.20) and EMA 200 ($355.72). Friday\u0027s session opened and peaked at $343.01, rejecting right at EMA 50 before closing near its $301.02 low. Heavy volume of 59.56 million shares—nearly double the 20-day average of 30.37 million—confirms institutional distribution. Within Bollinger Bands (a 20-day volatility channel), price broke cleanly below the $332.38 midline toward the $294.67 lower band, sitting just 7% above its 52-week low of $289.77 and 38.5% below its $495.00 high. Momentum gauges reflect damage without capitulation: MACD (a trend-momentum indicator) sits negative at -2.10, though slightly above its -2.76 signal line (+0.66 histogram) due to lagging pre-drop rebounds, while RSI 14 (a 0–100 momentum gauge; under 30 is oversold) reads 40.84, leaving room for further downside. Immediate support sits at $294.67 and $289.77; resistance stands at $332.38, $343.80, and $355.20–$355.72."
+               "summary":  "Broadcom (AVGO) closed at $313.55 on November 23, 2026, down 36.7% from its $495.00 52-week high despite a +3% rebound on heavy volume. Two catalysts drove the November sell-off: Rothschild \u0026 Co Redburn\u0027s November 13 downgrade over Broadcom\u0027s residual-value backstops on a $63 billion Anthropic financing vehicle announced October 26, and a November 20 Ming-Chi Kuo report that Google trimmed 2027 Broadcom TPU 8i orders by 1 million units toward MediaTek. While Q3 FY2026 AI chip sales surged 221% to $16.7 billion, Q4 earnings on December 9 are pivotal for validating moat durability.",
+               "technical":  "AVGO\u0027s chart shows a clear bearish trend as of November 23, 2026. At $313.55, price trades below all three Exponential Moving Averages (EMAs — trend lines weighting recent prices), stacked bearishly with EMA 50 ($342.61) below EMA 100 ($354.38) and EMA 200 ($355.28). Momentum confirms the pressure: MACD (12/26/9 — a trend-momentum gauge) sits negative at -3.60 below its -2.93 signal line, leaving a -0.67 histogram. RSI 14 (a 0–100 momentum gauge where under 30 is oversold) reads 43.76, signaling weak buying interest without reaching oversold extremes. Within Bollinger Bands (20/2 — a volatility channel around the 20-day average), AVGO sits in the lower half between the $331.60 midline and $293.01 lower band, 36.7% beneath its $495.00 52-week high and near its $289.77 low. Although shares bounced +3% on November 23 on heavy volume of 41.0 million (1.3x the 31.5 million 20-day average), closing well below the $320.86 open and $324.46 intraday high shows sellers still defending rallies. Nearby support lies at $304.56, $293.01, and $289.77; resistance stands at $331.60, $342.61, and $354.38–$355.28."
            },
     "th":  {
-               "caution":  "แรงขายเมื่อวันที่ 20 พ.ย. ไม่ใช่แค่ความผันผวนตามตลาด แต่กระทบแกนหลักของความเชื่อมั่นใน Broadcom สองเรื่องพร้อมกัน คือความผูกขาดกับ Google และคุณภาพกำไร แม้ว่ารายงานของ Ming-Chi Kuo เรื่องลดคำสั่งซื้อ TPU 8i ลง 20% จะยังไม่ได้รับการยืนยัน แต่บทบาทที่เพิ่มขึ้นของ MediaTek ใน TPU 8t สะท้อนว่าลูกค้ารายใหญ่พร้อมแบ่งซัพพลายเออร์เมื่อข้อจำกัดด้านไฟฟ้าและราคาตึงตัว ขณะเดียวกันการค้ำประกันมูลค่าคงเหลือใน SPV $63 พันล้านของ Anthropic เพิ่มความเสี่ยงงบดุลหากการทำกำไรของค่าย AI ล่าช้า ด้านเทคนิค RSI 14 ที่ 40.84 ยังไม่เข้าเขตขายมากเกินไป ทำให้แนวรับโลว์รอบ 52 สัปดาห์ที่ $289.77 ยังเปราะบางก่อนงบวันที่ 9 ธ.ค.",
+               "caution":  "การปรับลงในเดือนพฤศจิกายนสะท้อนคำถามเชิงธุรกิจที่จับต้องได้ ไม่ใช่แค่ความผันผวนของตลาด หาก Google โยกแผนผลิต TPU ปี 2027 บางส่วนไปให้ MediaTek จริง อำนาจต่อรองราคาของ Broadcom กับลูกค้ารายใหญ่สุดอาจลดลง ขณะเดียวกัน การค้ำประกันมูลค่าซากให้กองทุน SPV มูลค่า $63 พันล้านของ Anthropic ทำให้งบดุลบริษัทผูกติดกับสตาร์ทอัพ AI ที่ยังพึ่งเงินทุนภายนอก บวกกับกฎคุมส่งออกของ BIS เมื่อ 16 พฤศจิกายน และกราฟที่ยังเป็นขาลง ความผันผวนก่อนงบวันที่ 9 ธันวาคมจึงยังสูงมาก",
                "cons":  [
-                            "รายงานของ Ming-Chi Kuo วันที่ 20 พ.ย. ระบุว่า Google ลดคำสั่งซื้อ TPU 8i ปี 2027 ราว 1 ล้านชิป (20%) โดยเฉพาะรุ่น Whalefish ราคาสูง และหันไปเพิ่มคำสั่งซื้อ TPU 8t กับ MediaTek",
-                            "ภาระค้ำประกันมูลค่าคงเหลือในดีล SPV $63 พันล้านของ Anthropic (วันที่ 26 ต.ค.) บวกวงเงินหุ้นกู้แปลงสภาพ $42 พันล้าน ทำให้ Rothschild \u0026 Co Redburn ปรับลดคำแนะนำเป็น Neutral เมื่อ 13 พ.ย.",
-                            "สัดส่วนชิป ASIC และระบบที่พ่วงหน่วยความจำ HBM ต้นทุนสูงกดดันอัตรากำไรขั้นต้นเมื่อเทียบกับชิปเครือข่ายดั้งเดิม และเพิ่มความเสี่ยงการกระจุกตัวของลูกค้า",
-                            "กฎควบคุมส่งออกใหม่ของสหรัฐฯ (BIS) วันที่ 19 พ.ย. ที่คุมการเช่าใช้ชิป AI นอกประเทศรวมถึงไทยและอาเซียน ตลอดจนช่องโหว่ร้ายแรงใน VMware vCenter (CVE-2026-123890) เพิ่มแรงกดดันด้านกฎระเบียบและการดำเนินงาน"
+                            "นักวิเคราะห์ Ming-Chi Kuo รายงานเมื่อ 20 พฤศจิกายน 2026 ว่า Google อาจลดคำสั่งซื้อ TPU 8i จาก Broadcom ปี 2027 ลงราว 1 ล้านชิ้น (~20%) และเพิ่มสัดส่วน TPU 8t ให้ MediaTek",
+                            "การที่ Broadcom ค้ำประกันมูลค่าซากในดีล SPV $63 พันล้านให้ Anthropic ทำให้ Rothschild \u0026 Co Redburn ปรับลดคำแนะนำเป็น Neutral เมื่อ 13 พฤศจิกายน จากความเสี่ยงไฟแนนซ์แบบวนรอบ",
+                            "กฎควบคุมการเข้าถึงชิปขั้นสูงระยะไกลของ BIS สหรัฐฯ เมื่อ 16 พฤศจิกายน เพิ่มข้อจำกัดด้านใบอนุญาตในภูมิภาคเอเชียตะวันออกเฉียงใต้และละตินอเมริกา",
+                            "กราฟราคาเข้าสู่แนวโน้มขาลงเต็มตัว โดยอยู่ต่ำกว่าทั้ง EMA 50 ($342.61), EMA 100 ($354.38) และ EMA 200 ($355.28) และอยู่เหนือจุดต่ำสุดรอบ 52 สัปดาห์เพียง 8.2%"
                         ],
-               "fundamental":  "Broadcom คือผู้เล่นหลักในชั้น custom silicon และเครือข่าย open Ethernet ของโครงสร้างพื้นฐาน AI โดยรับออกแบบชิปเฉพาะทาง ASIC (XPU) ให้ยักษ์ใหญ่คลาวด์ควบคู่กับสวิตช์ตระกูล Tomahawk และซอฟต์แวร์ VMware ในไตรมาส 3 ปีงบ 2026 (ประกาศ 2 ก.ย. 2026) รายได้รวมพุ่ง 86% YoY สู่ $29.6 พันล้าน นำโดยชิป AI $16.7 พันล้าน (+221% YoY) พร้อมอัตรากำไรจากการดำเนินงาน non-GAAP สูงถึง 67.9% ($20.1 พันล้าน) และกระแสเงินสดอิสระ $13.7 พันล้าน ผู้บริหารคาดรายได้ Q4 FY2026 ที่ $34.8 พันล้าน (ชิป AI $21.7 พันล้าน) ปรับเป้ารายได้ AI ทั้งปีงบ 2026 เป็น $58 พันล้าน และวางภาพระยะยาวปีงบ 2027–2028 ที่ราว $115 พันล้าน และ $230 พันล้าน อย่างไรก็ดี เป้าหมายเหล่านี้กำลังถูกตลาดตั้งคำถามเรื่องสัดส่วนคำสั่งซื้อ Google TPU ในปี 2027 แรงกดดันอัตรากำไรจาก HBM และโครงสร้างสินเชื่อลูกค้า งบ Q4 วันที่ 9 ธ.ค. 2026 จึงเป็นบทพิสูจน์สำคัญ",
-               "headline":  "ข่าวลือ Google ลดคำสั่งซื้อ TPU และความกังวลดีลสินเชื่อ AI กด AVGO ร่วง 12.2%",
+               "fundamental":  "Broadcom เป็นแกนหลักของโครงสร้างพื้นฐาน AI แบบสั่งทำพิเศษ ทั้งการร่วมออกแบบชิปเร่งความเร็ว AI (XPUs) และชิปสวิตช์เครือข่าย Ethernet ความเร็วสูงให้กลุ่มไฮเปอร์สเกลเลอร์ ควบคู่กับกระแสเงินสดประจำจากซอฟต์แวร์องค์กร VMware งบไตรมาส 3 ปีบัญชี 2026 (ประกาศ 2 กันยายน 2026) มีรายได้รวม $29.6 พันล้าน (+86% YoY) และกำไรต่อหุ้นแบบ Non-GAAP $3.32 (+96% YoY) โดยธุรกิจชิปแตะ $20.8 พันล้าน (+127% YoY) นำโดยรายได้ชิป AI ที่ $16.7 พันล้าน (+221% YoY) ส่วนซอฟต์แวร์ทำได้ $8.8 พันล้าน (+29% YoY) บริษัทคาดรายได้ไตรมาส 4 ที่ $34.8 พันล้าน (+93% YoY) โดยมีชิป AI ถึง $21.7 พันล้าน และอัตรากำไรจากการดำเนินงานราว 66% แม้ฐานลูกค้าจะครอบคลุม Google, Meta, OpenAI และ Anthropic แต่งบวันที่ 9 ธันวาคม 2026 จะเป็นบทพิสูจน์ว่าป้อมปราการด้านมาร์จิ้นและวินัยความเสี่ยงสินเชื่อยังแข็งแกร่งเพียงใด",
+               "headline":  "AVGO ร่วง 37% จากจุดสูงสุด กังวลข่าวลดออเดอร์ Google TPU และความเสี่ยงไฟแนนซ์ AI",
                "news":  [
-                            "20 พ.ย. 2026: นักวิเคราะห์ห่วงโซ่อุปทาน Ming-Chi Kuo รายงานว่า Google ปรับลดแผนส่งมอบชิป TPU 8i ที่ออกแบบร่วมกับ Broadcom ในปี 2027 ลงราว 1 ล้านชิป (ประมาณ 20% โดยเน้นรุ่นราคาสูง 8i Max โค้ดเนม \"Whalefish\") และหันไปเพิ่มคำสั่งซื้อ TPU 8t จาก MediaTek ภายใต้ข้อจำกัดด้านไฟฟ้าดาต้าเซ็นเตอร์ แม้ทั้งสองบริษัทจะยังไม่ยืนยัน แต่ราคาหุ้น AVGO ดิ่งลง 12.19% ด้วยวอลุ่มเกือบสองเท่าของค่าเฉลี่ย",
-                            "19 พ.ย. 2026: สำนักงาน BIS กระทรวงพาณิชย์สหรัฐฯ บังคับใช้กฎควบคุมการส่งออกฉบับใหม่ที่กำหนดให้ต้องขอใบอนุญาตส่งออกชิป AI ขั้นสูงมายังไทย มาเลเซีย สิงคโปร์ อินโดนีเซีย และบราซิล รวมถึงคุมดาต้าเซ็นเตอร์ต่างประเทศที่ให้บริษัทจีนเช่าใช้กำลังประมวลผลทางไกล วันเดียวกัน Broadcom ออกประกาศฉุกเฉิน VMSA-2026-0009 เพื่ออุดช่องโหว่ zero-day ร้ายแรงใน VMware vCenter (CVE-2026-123890) ที่ถูกโจมตีจริงแล้ว",
-                            "18 พ.ย. 2026: James Schneider นักวิเคราะห์จาก Goldman Sachs ปรับลดราคาเป้าหมายของ Broadcom จาก $540 เหลือ $460 แต่ยังคงคำแนะนำ Buy โดยอ้างการลดระดับ P/E ของกลุ่มเซมิคอนดักเตอร์จาก 30 เท่าลงสู่ 25 เท่า และการแข่งขันจาก MediaTek",
-                            "13 พ.ย. 2026: Rothschild \u0026 Co Redburn ปรับลดคำแนะนำ AVGO จาก Buy เป็น Neutral และหั่นราคาเป้าหมายจาก $595 เหลือ $398 โดยชี้ความเสี่ยงจากดีลโครงสร้างพื้นฐาน AI ที่อาศัยสินเชื่อและตั้งคำถามว่า OpenAI กับ Anthropic จะพึ่งพาตนเองทางการเงินได้เร็วแค่ไหน",
-                            "26 ต.ค. 2026: Bank of America, Blackstone, Citi และ Morgan Stanley เปิดตัวโครงสร้างสินเชื่อ SPV มูลค่า $63 พันล้านโดยมี Broadcom ค้ำประกันมูลค่าคงเหลือ เพื่อจัดซื้อชิป XPU และอุปกรณ์เครือข่าย Broadcom ให้ Anthropic ตั้งแต่ปี 2027 เพิ่มเติมจากวงเงินหุ้นกู้แปลงสภาพ $42 พันล้านที่เปิดเผยก่อนหน้า"
+                            "2026-11-20: นักวิเคราะห์ซัพพลายเชน Ming-Chi Kuo รายงานว่า Google ปรับลดแผนสั่งซื้อชิป TPU 8i ที่ออกแบบโดย Broadcom สำหรับปี 2027 (โดยเฉพาะรุ่นราคาสูง 8i Max \"Whalefish\") ลงราว 1 ล้านชิ้น (~20%) และเพิ่มคำสั่งซื้อ TPU 8t จาก MediaTek แม้ทั้งสองบริษัทไม่ได้ยืนยัน แต่หุ้น AVGO ร่วงหนักราว 12% ในวันเดียวมาปิดแถว $304.41",
+                            "2026-11-18: นักวิเคราะห์ James Schneider จาก Goldman Sachs ปรับลดราคาเป้าหมาย AVGO จาก $540 เหลือ $460 แต่ยังคงคำแนะนำ Buy สอดคล้องกับการปรับลดเป้าหมายของหลายโบรกเกอร์ในช่วงกลางเดือนพฤศจิกายน",
+                            "2026-11-16: สำนักงานอุตสาหกรรมและความมั่นคงสหรัฐฯ (BIS) ออกกฎชั่วคราว (ประกาศใน Federal Register วันที่ 19 พฤศจิกายน) คุมเข้มการขอใบอนุญาตเข้าถึงชิปคำนวณขั้นสูงระยะไกลในหลายประเทศแถบเอเชียตะวันออกเฉียงใต้และละตินอเมริกา กดดันหุ้นกลุ่มชิปโดย AVGO ปรับลงเกือบ 4%",
+                            "2026-11-13: Rothschild \u0026 Co Redburn (นักวิเคราะห์ Mike Harrison) ปรับลดคำแนะนำ AVGO จาก Buy เป็น Neutral และหั่นเป้าหมายจาก $595 เหลือ $398 โดยชี้ถึงความเสี่ยงด้านเครดิตและจังหวะเวลาจากการค้ำประกันทางการเงินแบบวนรอบให้ห้องแล็บ AI อย่าง Anthropic และ OpenAI",
+                            "2026-10-26: Bank of America, Citi, Morgan Stanley และ Blackstone ประกาศจัดตั้งกองทุนเฉพาะกิจ (SPV) มูลค่า $63 พันล้าน เพื่อจัดซื้อชิป XPU และอุปกรณ์เครือข่ายของ Broadcom ให้ Anthropic เช่าใช้ตั้งแต่ปี 2027 โดย Broadcom ให้การค้ำประกันมูลค่าซากเทียบเท่าหนี้บุริมสิทธิ ขณะที่ก่อนหน้านั้นเมื่อ 19 ตุลาคม Broadcom เพิ่งเซ็นสัญญา VMware Cloud Foundation ระยะ 10 ปีกับ NTT DOCOMO ของญี่ปุ่น"
                         ],
-               "opportunity":  "การที่ราคาหุ้น AVGO ปรับฐานลง 38.5% จากจุดสูงสุด $495.00 มาอยู่ที่ $304.41 ช่วยลดความคาดหวังของตลาดลงมากก่อนประกาศงบ Q4 FY2026 วันที่ 9 ธ.ค. 2026 ธุรกิจ custom silicon ของ Broadcom ไม่ได้พึ่งพา Google รายเดียวอีกต่อไป โดยมีแผนชิป 2nm MTIA ของ Meta ชิปเฉพาะทางของ OpenAI และคลัสเตอร์ขนาดหลายกิกะวัตต์ของ Anthropic ช่วยกระจายการเติบโต ขณะที่สวิตช์ open Ethernet (Tomahawk 6, Thor Ultra 800G) ได้ประโยชน์จากการขยายคลัสเตอร์ไม่ว่าลูกค้าจะเลือกใช้ชิปคำนวณค่ายใด หากซีอีโอ Hock Tan ยืนยันเป้ารายได้ AI ปีงบ 2027 ที่ $115 พันล้านและชี้แจงเกราะป้องกันความเสี่ยงสินเชื่อได้ชัดเจน โซนแนวรับ $294.67–$289.77 จะเป็นจุดที่ตลาดจับตาการตั้งฐานอย่างใกล้ชิด",
-               "opportunityCheck":  "ภาพรวมคะแนนโอกาส AI ของ Broadcom ส่วนใหญ่ยังสมเหตุสมผล แต่เหตุการณ์ล่าสุดทำให้ควรปรับสองด้าน ด้านสัดส่วนรายได้จาก AI ควรถูกขยับขึ้น เพราะรายได้ชิป AI พุ่งแตะ $16.7 พันล้านหรือ 56% ของรายได้รวมไตรมาส 3 ปีงบ 2026 และคาดทั้งปีงบ 2026 ถึง $58 พันล้าน กลายเป็นแกนหลักของธุรกิจชัดเจน ในทางกลับกัน คะแนนด้านตำแหน่งทางการตลาดและอำนาจการตั้งราคาจากคอขวดควรถูกปรับลดลงเล็กน้อย รายงานวันที่ 20 พ.ย. ของ Ming-Chi Kuo ที่ Google แบ่งคำสั่งซื้อ TPU ปี 2027 บางส่วนไปให้ MediaTek ชี้ว่าแม้แต่ลูกค้ารายใหญ่ที่สุดก็พร้อมใช้ซัพพลายเออร์สองราย ขณะที่ชิป ASIC ที่พ่วง HBM และดีลค้ำประกันสินเชื่อ $63 พันล้านช่วยจำกัดอำนาจตั้งราคา ส่วนการเติบโตของตลาดและทางเลือกต่อยอดยังดูเหมาะสม",
+               "opportunity":  "หากผู้บริหารชี้แจงประเด็นข่าวลือออเดอร์ Google และอธิบายโครงสร้างป้องกันความเสี่ยงของกองทุน SPV ได้ชัดเจนในวันประกาศงบ 9 ธันวาคม 2026 ขนาดธุรกิจชิป AI สั่งทำพิเศษของ Broadcom ยังคงไร้คู่แข่งโดยตรง รายได้ชิป AI ไตรมาส 4 ปีบัญชี 2026 ถูกคาดการณ์สูงถึง $21.7 พันล้าน (+236% YoY) หนุนด้วยสัญญาระยะยาวกับ Google, Meta, OpenAI และ Anthropic รวมถึงความต้องการสวิตช์ Ethernet ในคลัสเตอร์ AI ขณะที่กระแสเงินสดสม่ำเสมอจาก VMware ($8.8 พันล้านใน Q3, +29% YoY) ช่วยพยุงธุรกิจท่ามกลางราคาหุ้นที่ปรับฐานลงมา 36.7% จากจุดสูงสุดรอบปี",
+               "opportunityCheck":  "คะแนนโอกาส AI บนหน้าเว็บส่วนใหญ่สอดคล้องกับจุดแข็งด้านชิปสั่งทำพิเศษของ Broadcom แต่มีสองด้านที่ควรปรับตามข้อมูลล่าสุด ด้านสัดส่วนรายได้จาก AI ควรปรับขึ้น เพราะชิป AI สร้างรายได้ $16.7 พันล้านใน Q3 ปีบัญชี 2026 (56% ของรายได้รวม) และคาดว่าจะขึ้นเป็น $21.7 พันล้านใน Q4 (ราว 62%) ในทางกลับกัน ด้านคอขวดและอำนาจตั้งราคาควรปรับลดลงเล็กน้อย เนื่องจากข่าวเมื่อ 20 พฤศจิกายนว่า Google โยกออเดอร์ TPU ปี 2027 บางส่วนไปให้ MediaTek และดีลค้ำประกัน SPV มูลค่า $63 พันล้านให้ Anthropic เมื่อ 26 ตุลาคม สะท้อนว่าลูกค้าไฮเปอร์สเกลเลอร์มีทางเลือกมากขึ้นและ Broadcom ต้องรับความเสี่ยงทางการเงินเพิ่มเพื่อรักษาปริมาณงานระยะยาว",
                "pros":  [
-                            "รายได้ชิป AI ไตรมาส 3 ปีงบ 2026 พุ่ง 221% YoY สู่ $16.7 พันล้าน โดยคาดไตรมาส 4 แตะ $21.7 พันล้าน และทั้งปีงบ 2026 ที่ $58 พันล้าน",
-                            "ฐานลูกค้า custom silicon ระยะยาวครอบคลุมทั้ง Google, Meta, OpenAI และ Anthropic หนุนเป้ารายได้ AI ปีงบ 2027–2028 ที่ราว $115 พันล้าน และ $230 พันล้าน",
-                            "ความสามารถทำกำไรยังแข็งแกร่งมาก ด้วยอัตรากำไรจากการดำเนินงาน non-GAAP ไตรมาส 3 ที่ 67.9% ($20.1 พันล้าน) และกระแสเงินสดอิสระ $13.7 พันล้าน",
-                            "ผลิตภัณฑ์เครือข่าย open Ethernet สำหรับ AI เช่น สวิตช์ Tomahawk 6, การ์ด Thor Ultra 800G และ co-packaged optics ช่วยขยายความได้เปรียบนอกเหนือจากชิปประมวลผล"
+                            "รายได้ชิป AI ไตรมาส 3 ปีบัญชี 2026 พุ่ง 221% YoY แตะ $16.7 พันล้าน และบริษัทคาดว่าจะโตต่อเป็น $21.7 พันล้าน (+236% YoY) ในไตรมาส 4",
+                            "กองทุน SPV มูลค่า $63 พันล้านเมื่อ 26 ตุลาคม ที่จัดตั้งโดย Bank of America, Citi, Morgan Stanley และ Blackstone รองรับการส่งมอบชิป Broadcom XPU ให้ Anthropic ตั้งแต่ปี 2027",
+                            "Broadcom ครองฐานลูกค้าชิปสั่งทำพิเศษระดับไฮเปอร์สเกลเลอร์หลายราย ทั้ง Google TPU, ชิป MTIA ของ Meta และชิป Jalapeño ของ OpenAI",
+                            "รายได้ซอฟต์แวร์โครงสร้างพื้นฐานไตรมาส 3 ปีบัญชี 2026 แตะ $8.8 พันล้าน (+29% YoY) เสริมด้วยสัญญา VMware Cloud Foundation 10 ปีกับ NTT DOCOMO เมื่อ 19 ตุลาคม"
                         ],
                "risks":  [
-                             "การแบ่งซัพพลายเออร์และการกระจุกตัวของลูกค้า: หาก Google โอนสัดส่วนคำสั่งซื้อ TPU ปี 2027 ไปให้ MediaTek มากขึ้น อาจกดดันทั้งส่วนแบ่งปริมาณและราคาขายเฉลี่ยชิปรุ่นบน",
-                             "ความเสี่ยงจากการช่วยจัดหาเงินทุนให้ลูกค้า: ภาระค้ำประกันมูลค่าคงเหลือใน SPV $63 พันล้านของ Anthropic และวงเงินหุ้นกู้แปลงสภาพ $42 พันล้านผูกงบดุล Broadcom เข้ากับความแข็งแกร่งทางการเงินของค่าย AI",
-                             "แรงกดดันต่ออัตรากำไรขั้นต้น: การเร่งส่งมอบระบบ ASIC ที่ใช้หน่วยความจำ HBM ต้นทุนสูงมีอัตรากำไรขั้นต้นต่ำกว่าธุรกิจชิปเครือข่ายดั้งเดิมและซอฟต์แวร์ VMware",
-                             "ความเสี่ยงด้านกฎระเบียบและความปลอดภัยไซเบอร์: กฎ BIS วันที่ 19 พ.ย. ที่คุมการเข้าถึงชิป AI ทางไกลในอาเซียนและบราซิล รวมถึงช่องโหว่ร้ายแรงใน VMware (CVE-2026-123890) เพิ่มต้นทุนการปฏิบัติตามกฎและความเสี่ยงด้านชื่อเสียง"
+                             "การพึ่งพิงลูกค้ารายใหญ่และระบบซัพพลายเออร์สองราย: หาก Google โยกออเดอร์ TPU ไปให้ MediaTek จริง อาจกดดันมาร์จิ้นของชิปสั่งทำพิเศษรุ่นราคาสูง",
+                             "ความเสี่ยงจากการค้ำประกันการเงินให้ลูกค้า: การรองรับมูลค่าซากในกองทุน SPV $63 พันล้านของ Anthropic อาจกระทบงบดุลหากสตาร์ทอัพ AI เผชิญภาวะตึงตัวด้านเงินทุน",
+                             "กฎควบคุมการส่งออก: กฎของ BIS สหรัฐฯ เมื่อ 16 พฤศจิกายน 2026 เรื่องการเข้าถึงชิประยะไกล อาจเพิ่มความยุ่งยากต่อการขยายดาต้าเซ็นเตอร์ในเอเชียตะวันออกเฉียงใต้และละตินอเมริกา",
+                             "ความคาดหวังสูงก่อนประกาศงบ: เมื่อคาดการณ์รายได้ชิป AI ไตรมาส 4 สูงถึง $21.7 พันล้าน (+236% YoY) หากงบวันที่ 9 ธันวาคมชะลอตัวลง หุ้นอาจลงมาทดสอบจุดต่ำสุดเดิมที่ $289.77",
+                             "ภาระหนี้และการบูรณาการ VMware: แรงต้านจากลูกค้าองค์กรต่อการปรับโมเดลไลเซนส์และหนี้สินหลังดีลซื้อกิจการจำกัดความยืดหยุ่นทางการเงินในช่วงเร่งลงทุน AI"
                          ],
-               "summary":  "หุ้น Broadcom (AVGO) ร่วงแรง 12.19% เมื่อวันที่ 20 พ.ย. 2026 ปิดที่ $304.41 ด้วยปริมาณซื้อขายเกือบสองเท่าของค่าเฉลี่ย หลังนักวิเคราะห์ Ming-Chi Kuo รายงานว่า Google ลดคำสั่งซื้อชิป TPU 8i ปี 2027 ที่ออกแบบกับ Broadcom ราว 1 ล้านชิป พร้อมหันไปเพิ่มคำสั่งซื้อ TPU 8t จาก MediaTek แรงขายนี้ซ้ำเติมเดือนที่ผันผวนหลัง Rothschild \u0026 Co Redburn ลดคำแนะนำเมื่อ 13 พ.ย. จากความกังวลดีลค้ำประกันสินเชื่อ $63 พันล้านให้ Anthropic และกฎคุมส่งออกชิป AI ใหม่ของสหรัฐฯ วันที่ 19 พ.ย. แม้งบ AI ไตรมาส 3 ปีงบ 2026 จะโต 221% สู่ $16.7 พันล้าน แต่ความเสี่ยงเรื่องแบ่งซัพพลายเออร์และเครดิตทำให้ต้องปรับสถานะคูเมืองเป็นเฝ้าระวังก่อนงบวันที่ 9 ธ.ค.",
-               "technical":  "ภาพเทคนิคของ AVGO ณ วันที่ 20 พ.ย. 2026 เป็นขาลงชัดเจน ราคาปิด $304.41 (-12.19%) อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนัก (EMA—เส้นวัดแนวโน้มราคา) ทั้งสามเส้นแบบเรียงตัวขาลงสมบูรณ์ โดย EMA 50 ($343.80) อยู่ต่ำกว่า EMA 100 ($355.20) และ EMA 200 ($355.72) แท่งเทียนวันศุกร์เปิดและทำจุดสูงสุดที่ $343.01 ชนแนวต้าน EMA 50 แล้วถูกเทขายปิดใกล้จุดต่ำสุดของวันที่ $301.02 พร้อมปริมาณซื้อขาย 59.56 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (30.37 ล้านหุ้น) เกือบเท่าตัว ยืนยันแรงขายจากสถาบัน ในกรอบ Bollinger Bands (แถบวัดความผันผวนรอบ 20 วัน) ราคาหลุดเส้นกลาง $332.38 ลงมาจ่อขอบล่างที่ $294.67 และอยู่เหนือจุดต่ำสุดรอบ 52 สัปดาห์ ($289.77) เพียง 7% ของกรอบทั้งปี หรือต่ำกว่าจุดสูงสุด $495.00 ถึง 38.5% ด้านโมเมนตัม MACD (ตัวชี้วัดแนวโน้มและแรงเหวี่ยง) ติดลบที่ -2.10 แม้ยังสูงกว่าเส้น signal (-2.76) เล็กน้อย (histogram +0.66) จากการรีบาวด์ก่อนร่วง ส่วน RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 40.84 ยังมีพื้นที่ลงต่อได้ แนวรับสำคัญอยู่ที่ $294.67 และ $289.77 ส่วนแนวต้านอยู่ที่ $332.38, $343.80 และโซน $355.20–$355.72"
+               "summary":  "Broadcom (AVGO) ปิดที่ $313.55 เมื่อวันที่ 23 พฤศจิกายน 2026 ร่วงลง 36.7% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $495.00 แม้จะรีบาวด์ +3% ด้วยวอลุ่มหนาแน่น แรงขายเดือนพฤศจิกายนมาจาก 2 ปัจจัยหลัก ได้แก่ การที่ Rothschild \u0026 Co Redburn ลดคำแนะนำเมื่อ 13 พฤศจิกายน จากความกังวลเรื่องการค้ำประกันมูลค่าซากในดีล SPV $63 พันล้านของ Anthropic (ประกาศ 26 ตุลาคม) และรายงานของ Ming-Chi Kuo เมื่อ 20 พฤศจิกายน ว่า Google อาจลดออเดอร์ Broadcom TPU 8i ปี 2027 ลง 1 ล้านชิ้นเพื่อโยกไป MediaTek แม้งบ Q3 ชิป AI จะโต 221% แตะ $16.7 พันล้าน แต่งบ Q4 วันที่ 9 ธันวาคมคือจุดชี้วัดความแข็งแกร่งของคูเมืองธุรกิจ",
+               "technical":  "กราฟของ AVGO ณ วันที่ 23 พฤศจิกายน 2026 อยู่ในแนวโน้มขาลงอย่างชัดเจน ราคาปิด $313.55 อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอกซ์โพเนนเชียลทั้ง 3 เส้น (EMA — เส้นแนวโน้มที่ให้น้ำหนักราคาล่าสุด) โดยเรียงตัวเป็นขาลงเต็มรูปแบบที่ EMA 50 ($342.61) ต่ำกว่า EMA 100 ($354.38) และ EMA 200 ($355.28) ด้านโมเมนตัม MACD (12/26/9 — ตัววัดแรงส่งของแนวโน้ม) ติดลบที่ -3.60 ต่ำกว่าเส้น Signal ที่ -2.93 ทำให้ Histogram ติดลบ -0.67 ขณะที่ RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 หากต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 43.76 สะท้อนแรงซื้อที่อ่อนแรงแต่ยังไม่ถึงเขตขายมากเกินไป ในกรอบ Bollinger Bands (20/2 — ช่องความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาอยู่ครึ่งล่างระหว่างเส้นกลาง $331.60 และกรอบล่าง $293.01 โดยต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($495.00) ถึง 36.7% และอยู่ใกล้จุดต่ำสุด $289.77 แม้หุ้นจะดีดตัว +3% ในวันที่ 23 พฤศจิกายน พร้อมวอลุ่ม 41.0 ล้านหุ้น (1.3 เท่าของค่าเฉลี่ย 20 วันที่ 31.5 ล้านหุ้น) แต่การปิดต่ำกว่าราคาเปิด $320.86 และจุดสูงสุดระหว่างวัน $324.46 ชี้ว่าแรงขายยังกดดันเมื่อเด้งขึ้น แนวรับสำคัญอยู่ที่ $304.56, $293.01 และ $289.77 ส่วนแนวต้านอยู่ที่ $331.60, $342.61 และโซน $354.38–$355.28"
            },
     "sources":  [
                     {
-                        "date":  "2026-11-20",
-                        "publisher":  "Investing.com",
-                        "title":  "Google reportedly cuts Broadcom-designed TPU plans, eyes more MediaTek chips",
-                        "url":  "https://www.investing.com/news/stock-market-news/google-reportedly-cuts-broadcomdesigned-tpu-plans-eyes-more-mediatek-chips-432SI-3765415"
-                    },
-                    {
-                        "date":  "2026-11-13",
-                        "publisher":  "Investing.com",
-                        "title":  "Rothschild downgrades Broadcom stock rating on AI financing concerns",
-                        "url":  "https://www.investing.com/news/stock-market-news/rothschild-downgrades-broadcom-stock-rating-on-ai-financing-concerns-932CH-3932782"
-                    },
-                    {
-                        "date":  "2026-11-20",
-                        "publisher":  "24/7 Wall St.",
-                        "title":  "Broadcom Plunges 11% as Google Reportedly Shifts TPU Orders to MediaTek, Overshadowing Goldman\u0027s $460 Target",
-                        "url":  "https://247wallst.com/services/broadcom-plunges-11-as-google-reportedly-shifts-tpu-orders-to-mediatek-overshadowing-goldmans-460-target/"
-                    },
-                    {
                         "date":  "2026-10-26",
-                        "publisher":  "PR Newswire",
-                        "title":  "Bank of America, Blackstone, Citi and Morgan Stanley Announce Landmark $63 Billion Financing Structure to Enable AI Compute Capacity in Partnership with Broadcom",
-                        "url":  "https://www.prnewswire.com/news-releases/bank-of-america-blackstone-citi-and-morgan-stanley-announce-landmark-63-billion-financing-structure-to-enable-ai-compute-capacity-in-partnership-with-broadcom-302938831.html"
-                    },
-                    {
-                        "date":  "2026-11-19",
-                        "publisher":  "Federal Register (U.S. Bureau of Industry and Security)",
-                        "title":  "Addressing Remote Access to Advanced Semiconductors",
-                        "url":  "https://www.federalregister.gov/d/2026-23529"
-                    },
-                    {
-                        "date":  "2026-11-19",
-                        "publisher":  "Broadcom Support",
-                        "title":  "VMSA-2026-0009: VMware vCenter Server, Cloud Foundation, and vSphere Foundation updates address multiple vulnerabilities",
-                        "url":  "https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/25501"
+                        "publisher":  "Blackstone",
+                        "title":  "Bank of America, Blackstone, Citi and Morgan Stanley Announce Landmark $63 Billion Financing Structure to Enable AI Compute",
+                        "url":  "https://www.blackstone.com/news/press/bank-of-america-blackstone-citi-and-morgan-stanley-announce-landmark-63-billion-financing-structure-to-enable-ai-compute/"
                     },
                     {
                         "date":  "2026-09-02",
-                        "publisher":  "Broadcom Inc.",
-                        "title":  "Broadcom Inc. Investor Relations — Q3 FY2026 Financial Results and Q4 FY2026 Earnings Schedule",
-                        "url":  "https://investors.broadcom.com/"
+                        "publisher":  "Broadcom",
+                        "title":  "Broadcom Inc. Announces Third Quarter Fiscal Year 2026 Financial Results and Quarterly Dividend",
+                        "url":  "https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial"
+                    },
+                    {
+                        "date":  "2026-11-20",
+                        "publisher":  "Seeking Alpha",
+                        "title":  "Google shifts some \u002727 high-end AI chip orders from Broadcom to MediaTek, Ming-Chi Kuo says",
+                        "url":  "https://seekingalpha.com/news/4429074-google-shifts-some-27-high-end-ai-ship-orders-from-broadcom-to-mediatek-ming-chi-kuo-says"
+                    },
+                    {
+                        "date":  "2026-11-13",
+                        "publisher":  "TipRanks",
+                        "title":  "Broadcom downgraded to Neutral from Buy at Rothschild \u0026 Co Redburn",
+                        "url":  "https://www.tipranks.com/news/thefly/broadcom-downgraded-to-neutral-from-buy-at-rothschild-co-redburn-2"
+                    },
+                    {
+                        "date":  "2026-11-18",
+                        "publisher":  "TipRanks",
+                        "title":  "Broadcom price target lowered to $460 from $540 at Goldman Sachs",
+                        "url":  "https://www.tipranks.com/news/the-fly/broadcom-price-target-lowered-to-460-from-540-at-goldman-sachs"
+                    },
+                    {
+                        "date":  "2026-11-19",
+                        "publisher":  "Federal Register (U.S. BIS)",
+                        "title":  "Addressing Remote Access to Advanced Semiconductors",
+                        "url":  "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+                    },
+                    {
+                        "date":  "2026-10-19",
+                        "publisher":  "GlobeNewswire",
+                        "title":  "Broadcom to Advance NTT DOCOMO\u0027s Private Cloud with VMware Cloud Foundation",
+                        "url":  "https://www.globenewswire.com/news-release/2026/10/19/3372220/0/en/Broadcom-to-Advance-NTT-DOCOMO-s-Private-Cloud-with-VMware-Cloud-Foundation.html"
                     }
                 ]
 }

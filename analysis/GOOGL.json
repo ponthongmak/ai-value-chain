@@ -6,45 +6,41 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T05:46:26Z",
+    "generatedAt":  "2026-11-24T03:43:38Z",
     "costUsd":  null,
     "stance":  "bearish",
-    "thesis":  "watch",
+    "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:GOOGL",
                        "yahoo":  "GOOGL",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-23T05:42:32Z",
-                       "price":  265.29,
-                       "open":  274.5,
-                       "high":  283.15,
-                       "low":  264.22,
-                       "volume":  57302800,
-                       "avgVolume20":  45232640,
-                       "changePct":  -2.7,
-                       "historyDays":  501,
-                       "ema50":  312.78,
-                       "ema100":  325.97,
-                       "ema200":  323.34,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:38:46Z",
+                       "price":  282.1,
+                       "open":  284.28,
+                       "high":  285.14,
+                       "low":  275.36,
+                       "volume":  44255200,
+                       "avgVolume20":  46297200,
+                       "changePct":  6.34,
+                       "historyDays":  500,
+                       "ema50":  311.57,
+                       "ema100":  325.11,
+                       "ema200":  322.9,
                        "bb":  {
-                                  "upper":  319.6,
-                                  "middle":  289.45,
-                                  "lower":  259.3
+                                  "upper":  315.25,
+                                  "middle":  287.71,
+                                  "lower":  260.18
                               },
                        "macd":  {
-                                    "macd":  -13.59,
-                                    "signal":  -13.06,
-                                    "hist":  -0.53
+                                    "macd":  -12.74,
+                                    "signal":  -13,
+                                    "hist":  0.25
                                 },
-                       "rsi14":  27.78,
+                       "rsi14":  41.04,
                        "high52w":  408.61,
                        "low52w":  264.22,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         358.99
-                                     ],
                                      [
                                          "2026-06-04",
                                          372.19
@@ -520,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          265.29
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         282.1
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          360.44,
                                           360.91,
                                           361.2,
                                           361.29,
@@ -642,117 +641,126 @@
                                           317.82,
                                           316.43,
                                           314.72,
-                                          312.78
+                                          312.78,
+                                          311.57
                                       ]
                    },
     "en":  {
-               "caution":  "Near-term cash generation and chart structure both call for discipline. Management reaffirmed $195B–$205B in 2026 capex and signaled elevated 2027 spending, meaning negative or depressed free cash flow could persist while depreciation climbs. Simultaneously, Search\u0027s deceleration to 12% under AI Mode shows Alphabet must prove generative answers can match classic keyword ad yields. With GOOGL closing near $264.22 support on 26.7% above-average volume and MACD still negative, an oversold RSI of 27.78 alone does not guarantee a durable floor.",
+               "caution":  "The stock\u0027s sharp rebound on November 23 came on below-average volume (44.26M vs 46.30M) and was driven by Nvidia-linked sector sentiment rather than an Alphabet-specific turnaround. With FY2026 capex guided at $195B–$205B and set to rise further in 2027, negative free cash flow and rising debt ($125.1B plus C$6B in new bonds) leave little room for execution stumbles. Until AI Mode search monetization catches up to legacy ads and price reclaims its $287.71–$311.57 resistance zone, downside retests near $260–$264 remain possible.",
                "cons":  [
-                            "Q3 2026 capex doubled to $51.4 billion within a $195B–$205B full-year plan, turning free cash flow negative at -$9.1 billion for a second straight quarter.",
-                            "Core Google Search revenue ($63.35 billion) decelerated from 17% to 12% growth as AI Mode queries initially carried fewer ads than classic search.",
-                            "GAAP diluted EPS dropped to $2.12 in Q3 2026 after an $8.2 billion unrealized equity markdown tied to SpaceX, triggering a historic ~12%–13% one-day drop on October 29.",
-                            "Technical trend is firmly broken below all major moving averages, with heavy 57.3 million share volume on November 20 confirming ongoing distribution."
+                            "Q3 capital expenditures surged to $51.4B, driving negative $9.1B free cash flow with FY2026 capex guided at $195B–$205B and rising in 2027.",
+                            "Management noted AI Mode search queries currently monetize below traditional search, prompting Citizens\u0027 downgrade and broad Wall Street target cuts.",
+                            "Alphabet tapped debt markets for C$6B (~US$4.19B) on November 19, adding to $125.1B in long-term debt as cash burn persists.",
+                            "Technicals remain bearish below all major moving averages, while DOJ antitrust appeals and a December 1 securities class-action deadline linger."
                         ],
-               "fundamental":  "The selloff directly reflects Wall Street repricing Alphabet from a high-FCF ad cash cow into a capital-intensive AI hyperscaler. On October 28, 2026, Alphabet posted 25% Q3 revenue growth to $127.6 billion and 30% operating income growth to $40.6 billion (31.8% margin), yet lost nearly $500 billion in market value on October 29. The tension is stark: Google Cloud doubled to $30.7 billion at a 36.2% margin on enterprise AI and external TPU sales, backed by a $560.8 billion backlog and Anthropic\u0027s $121.3 billion floor, proving the TPU–Cloud–Gemini stack is winning. Conversely, $51.4 billion in quarterly capex drove -$9.1 billion free cash flow, while Search slowed to 12% ($63.35 billion) on AI Mode ad dilution. Alphabet\u0027s integrated moat is not broken, but return on AI capex and Search monetization keep the thesis on watch.",
-               "headline":  "Alphabet Hits 52-Week Low as $51.4B CapEx Overshadows Cloud Surge",
+               "fundamental":  "Alphabet\u0027s Q3 2026 report on October 28 showed an AI-infrastructure powerhouse absorbing an unprecedented investment bill. Consolidated revenue rose 25% YoY to $127.6B and operating income climbed 30% to $40.6B (31.8% margin), though EPS fell to $2.12 partly from non-operating equity markdowns tied to holdings including SpaceX. The standout was Google Cloud, doubling 103% YoY to $30.7B with a 36.2% operating margin and $561B backlog as enterprise AI and external TPU sales scaled. Yet $51.4B in quarterly capex drove -$9.1B free cash flow (following -$5.9B in Q2), prompting a C$6B bond issue on November 19 alongside $125.1B in long-term debt. Coupled with lower near-term monetization in AI Mode search, the stock sold off sharply—reflecting capital-intensity and ROI timing fears rather than damage to its vertically integrated Search, Cloud, TPU, and Gemini moat.",
+               "headline":  "Cloud Doubling Collides With $200B AI Capex Shock and Negative Cash Flow",
                "news":  [
-                            "October 28–29, 2026: Alphabet reported Q3 revenue up 25% to $127.6 billion and Google Cloud up 103% to $30.7 billion, but $51.4 billion in capex, -$9.1 billion free cash flow, 12% Search growth, and an $8.2 billion SpaceX equity markdown (GAAP EPS $2.12) triggered a record ~12%–13% drop.",
-                            "November 9, 2026: Google expanded its eighth-generation custom AI silicon with TPU 8tx (paired with 5th-gen AMD EPYC for confidential computing) and dual-die TPU 8i Max (384 GB HBM) for regulated enterprises and long-context agentic workloads.",
-                            "November 17, 2026: At Brussels\u0027 Sovereign AI Summit, Google Cloud announced plans to deploy Gemini models on partner-operated Google Cloud Dedicated infrastructure across Europe with strict local data residency and key controls.",
-                            "November 19, 2026: Anthropic debuted on Nasdaq at $83 per share, valuing Alphabet\u0027s ~13.4% stake near $147 billion while filings revealed Anthropic\u0027s $121.3 billion minimum Google Cloud compute floor through July 2033; GOOGL still fell amid broader tech risk-off selling."
+                            "Oct 28–29, 2026: Alphabet reported Q3 revenue of $127.6B (+25% YoY) and Google Cloud growth of 103% to $30.7B, but $51.4B in capex and -$9.1B free cash flow sparked a ~12.6% single-day plunge and widespread Wall Street price-target cuts.",
+                            "Oct 27, 2026: The Information reported that OpenAI plans to purchase Google\u0027s custom TPU chips directly, signaling expanding external silicon demand alongside Anthropic\u0027s multi-gigawatt TPU partnership.",
+                            "Nov 9 \u0026 Nov 18, 2026: Google launched its TPU 8tx (confidential AI training) and dual-chip TPU 8i Max systems, and released Gemini 4 Neon as the consumer Gemini app surpassed 1 billion users.",
+                            "Nov 19, 2026: Alphabet priced a four-tranche C$6B (~US$4.19B) Canadian-dollar senior bond offering maturing between 2029 and 2066 (4.1%–6.0% coupons) to support general corporate needs amid surging AI infrastructure outlays.",
+                            "Nov 17 \u0026 Nov 23, 2026: Investors faced a December 1 lead-plaintiff deadline in a securities class action (Stewart v. Alphabet) over AI rollout and capex disclosures, before GOOGL jumped 6.34% on November 23 in a sector-wide AI rally sparked by Nvidia reinstating Jensen Huang as CEO."
                         ],
-               "opportunity":  "For long-term AI infrastructure holders, the 35% drawdown contrasts sharply with Alphabet\u0027s accelerating Cloud and silicon execution. Google Cloud\u0027s 103% growth to $30.7 billion with 36.2% operating margins, a $560.8 billion backlog, and Anthropic\u0027s $121.3 billion multi-year compute floor provide rare multi-year revenue visibility. External TPU demand—bolstered by November 9\u0027s TPU 8tx and 8i Max launches—plus a ~$147 billion public Anthropic stake offer meaningful fundamental cushioning once investors see capex intensity stabilize or AI Mode ad monetization improve.",
-               "opportunityCheck":  "The page\u0027s sub-scores look broadly reasonable but slightly dated on AI revenue exposure and bottleneck power. With Google Cloud doubling to $30.7 billion—nearly a quarter of Q3 2026 revenue—on AI infrastructure and external TPU sales, plus a $560.8 billion backlog, I would raise AI revenue exposure. Bottleneck and pricing power also deserves a modest upward look given 36.2% Cloud margins and custom TPU 8tx/8i Max differentiation, though lower initial AI Mode ad monetization and $195B–$205B annual capex prevent a big upgrade. Market growth, position, and optionality still fit well.",
+               "opportunity":  "For long-term AI infrastructure holders, the ~31% pullback from $408.61 decouples share price from rapid operational progress in Alphabet\u0027s core AI stack. Google Cloud\u0027s 103% revenue surge to $30.7B, 36.2% operating margin, and $561B backlog show massive contracted enterprise demand, while external TPU adoption (TPU 8tx/8i Max, Anthropic, and reported OpenAI interest) turns internal silicon into a scalable profit engine. Avoiding structural breakups in both DOJ antitrust remedies also preserves platform integration if capex converts into durable cash flow.",
+               "opportunityCheck":  "Overall, the page\u0027s AI-opportunity profile is directionally right, but two sub-scores look understated after October–November developments. AI revenue exposure deserves an upward revision: Google Cloud\u0027s 103% surge to $30.7B now represents nearly a quarter of revenue, backed by a $561B AI-heavy backlog. Bottleneck and pricing power should also move slightly higher, as November 9\u0027s TPU 8tx/8i Max launch and reported OpenAI chip interest confirm real custom-silicon leverage beyond internal use. Market growth, market position, and optionality look appropriately strong, though heavy capital intensity still caps pure-play bottleneck pricing power.",
                "pros":  [
-                            "Google Cloud revenue surged 103% year-over-year to $30.7 billion in Q3 2026, with operating income tripling to $11.12 billion (36.2% margin).",
-                            "Google Cloud backlog reached $560.8 billion in Q3 2026, reinforced by Anthropic\u0027s $121.3 billion minimum compute commitment running through July 2033.",
-                            "Custom silicon leadership expanded on November 9, 2026 with TPU 8tx for confidential AI and dual-die TPU 8i Max alongside rising external TPU sales.",
-                            "Anthropic\u0027s November 19 Nasdaq IPO valued Alphabet\u0027s ~13.4% stake at roughly $147 billion, adding substantial balance-sheet asset value."
+                            "Google Cloud revenue doubled (+103% YoY) to $30.7B in Q3 2026, expanding operating margins to 36.2% on a $561B backlog.",
+                            "External TPU adoption widened with November 9 launches of TPU 8tx and 8i Max plus October 27 reports that OpenAI plans to buy TPUs.",
+                            "Gemini 4 rolled out through November 18 (Neon) as the Gemini consumer app topped 1 billion users and API traffic quadrupled.",
+                            "Core Google Search still grew 12% YoY to $63.35B, backed by $265.1B in cash and marketable securities."
                         ],
                "risks":  [
-                             "Sustained $195B–$205B+ annual AI capex extending into 2027 could keep free cash flow negative and pressure margins as depreciation rises.",
-                             "Prolonged lower ad load in Search AI Mode could structurally cap growth in Alphabet\u0027s largest profit pool ($63.35B Q3 Search revenue).",
-                             "Ongoing DOJ behavioral remedies in Search (including GenAI distribution rules) and Ad Tech (interoperability mandates) add compliance and competitive friction.",
-                             "Heavy concentration of Cloud growth in major AI labs like Anthropic exposes revenue trajectory if external AI funding or model demand cools."
+                             "Prolonged negative free cash flow and rising leverage if $195B–$205B+ annual AI capex fails to generate timely returns.",
+                             "Core Search margin dilution if AI Mode queries scale faster than ad monetization formats catch up.",
+                             "Ongoing D.C. Circuit appeals in the DOJ Search antitrust case and strict behavioral oversight in Ad Tech.",
+                             "Customer concentration and execution risk across hyperscale Cloud/TPU deployments and securities litigation (Stewart v. Alphabet)."
                          ],
-               "summary":  "Alphabet (GOOGL) closed at $265.29 on November 20, 2026, barely above its $264.22 52-week low and 35% off its $408.61 peak. The slide accelerated after October 28 Q3 2026 results showed $51.4 billion in quarterly capex—driving -$9.1 billion free cash flow—and Search growth slowing from 17% to 12% on lower AI Mode monetization. Those pressures overshadowed Google Cloud\u0027s 103% jump to $30.7 billion and Anthropic\u0027s $121.3 billion Cloud commitment disclosed November 19. Technicals remain bearish despite oversold signals, keeping the long-term moat on watch.",
-               "technical":  "GOOGL is in a steep downtrend as of November 20, 2026, closing down 2.7% at $265.29—just above its $264.22 52-week low and 35.1% below its $408.61 52-week high. Price trades well below all three exponential moving averages (EMAs—weighted trend averages): EMA 50 ($312.78), EMA 200 ($323.34), and EMA 100 ($325.97). EMA 50 has crossed below EMA 200, confirming bearish trend structure. Momentum indicators echo the weakness: MACD (12/26/9—a trend-momentum gauge) sits at -13.59 below its -13.06 signal line with a -0.53 histogram, showing downward pressure persists. However, RSI 14 (a 0–100 momentum gauge; under 30 is oversold) reads 27.78, flagging stretched short-term selling. Within Bollinger Bands (20/2—a volatility channel around the 20-day average), price hovers near the $259.30 lower band and far below the $289.45 midline. Volume hit 57.30 million shares versus the 45.23 million 20-day average (+26.7%), confirming heavy selling after an intraday fade from $283.15. Key support sits at $264.22 and $259.30; resistance lies at $289.45 and the $312.78–$325.97 EMA zone."
+               "summary":  "Alphabet (GOOGL) closed at $282.10 on November 23, 2026—up 6.34% in a broad AI relief rally, yet still 31% below its $408.61 52-week high. Shares plunged roughly 12.6% after October 28 Q3 results revealed $51.4B in quarterly capital spending and -$9.1B in free cash flow, alongside a C$6B bond sale priced November 19. Operationally, Google Cloud surged 103% year-over-year to $30.7B with a $561B backlog, while new TPU 8tx/8i Max chips and Gemini 4 reinforced the long-term platform moat. Technically, the trend stays bearish pending a reclaim of key moving averages.",
+               "technical":  "GOOGL\u0027s technical posture remains bearish despite its 6.34% bounce to $282.10 on November 23, 2026. Price sits well below all three exponential moving averages (EMAs—smoothed trend lines weighted toward recent prices): EMA 50 at $311.57, EMA 200 at $322.90, and EMA 100 at $325.11. With price trailing EMA 50 and EMA 50 sitting beneath EMA 200, the intermediate trend points firmly downward. Momentum is trying to stabilize but lacks confirmation: MACD (a 12/26/9 trend-momentum gauge) stays deeply negative at -12.74, though just above its -13.00 signal line for a slight +0.25 positive histogram, while RSI 14 (a 0–100 momentum gauge; under 30 is oversold) recovered only to a weak 41.04. Within the Bollinger Bands (20-day volatility channels around a $287.71 midpoint), GOOGL trades in the lower half between $260.18 lower-band support and $287.71 immediate resistance, just 6.8% above its $264.22 52-week low and 31% under its $408.61 high. Crucially, November 23 volume of 44.26M trailed the 20-day average of 46.30M and closed below the $284.28 open, signaling a sector-led relief rally rather than confirmed accumulation. Nearby support stands at $260–$264, with layered resistance at $287.71 and $311.57–$315.25."
            },
     "th":  {
-               "caution":  "ทั้งกระแสเงินสดระยะสั้นและโครงสร้างกราฟยังต้องใช้ความระมัดระวัง ผู้บริหารยืนยันงบลงทุนปี 2026 ที่ $195B–$205B และส่งสัญญาณลงทุนสูงต่อในปี 2027 ทำให้กระแสเงินสดอิสระอาจติดลบหรือถูกกดดันต่อขณะค่าเสื่อมราคาพุ่งขึ้น ขณะเดียวกัน การที่ Search ชะลอเหลือ 12% ภายใต้ AI Mode สะท้อนว่า Alphabet ต้องพิสูจน์ให้ได้ว่าคำตอบแบบ AI สร้างรายได้โฆษณาเทียบเท่าการค้นหาแบบเดิม ด้านกราฟ GOOGL ปิดใกล้แนวรับ $264.22 ด้วยวอลุ่มสูงกว่าค่าเฉลี่ย 26.7% และ MACD ยังติดลบ ดังนั้น RSI 27.78 ที่เข้าเขต oversold เพียงอย่างเดียวยังไม่การันตีจุดต่ำสุด",
+               "caution":  "การดีดตัวแรงเมื่อ 23 พ.ย. เกิดขึ้นพร้อมวอลุ่มต่ำกว่าค่าเฉลี่ย (44.26M เทียบ 46.30M) และขับเคลื่อนด้วยบรรยากาศกลุ่ม AI จากข่าว Nvidia มากกว่าปัจจัยบวกเฉพาะตัวของ Alphabet ขณะที่แผน Capex ปี 2026 ที่ $195B–$205B และจะเพิ่มต่อในปี 2027 ทำให้กระแสเงินสดอิสระติดลบและหนี้ระยะยาวขยับขึ้น ($125.1B บวกหุ้นกู้ใหม่ C$6B) จนแทบไม่เหลือช่องว่างให้พลาดเป้า หากการสร้างรายได้จาก AI Mode ยังไล่ไม่ทันโฆษณา Search เดิมและราคายังไม่ผ่านแนวต้าน $287.71–$311.57 โอกาสลงทดสอบแนวรับ $260–$264 ยังเปิดอยู่",
                "cons":  [
-                            "งบลงทุน (CapEx) Q3 2026 พุ่งเท่าตัวเป็น $51.4B ภายใต้งบทั้งปี $195B–$205B กดกระแสเงินสดอิสระติดลบ -$9.1B ต่อเนื่องเป็นไตรมาสที่สอง",
-                            "รายได้หลัก Google Search ($63.35B) ชะลอจาก 17% เหลือ 12% เพราะการค้นหาผ่าน AI Mode ในระยะเริ่มต้นมีโฆษณาน้อยกว่าหน้าค้นหาแบบเดิม",
-                            "กำไรต่อหุ้น (GAAP EPS) Q3 2026 ลดเหลือ $2.12 จากการบันทึกขาดทุนทางบัญชีหุ้น SpaceX ราว $8.2B ส่งผลให้หุ้นร่วงหนักเป็นประวัติการณ์ ~12%–13% ในวันที่ 29 ต.ค.",
-                            "โครงสร้างทางเทคนิคเสียทรงชัดเจนใต้เส้นค่าเฉลี่ยหลักทั้งหมด โดยวอลุ่มวันที่ 20 พ.ย. สูงถึง 57.3 ล้านหุ้น ยืนยันแรงขายต่อเนื่อง"
+                            "งบลงทุน Q3 พุ่งแตะ $51.4B กดกระแสเงินสดอิสระติดลบ $9.1B โดยทั้งปี 2026 คาดไว้ $195B–$205B และมีแนวโน้มเพิ่มอีกในปี 2027",
+                            "ผู้บริหารเผยคำค้นหาใน AI Mode ยังทำเงินต่อครั้งต่ำกว่า Search แบบเดิม ส่งผลให้ Citizens ปรับลดคำแนะนำและหลายโบรกเกอร์หั่นเป้าลง",
+                            "Alphabet ออกหุ้นกู้สกุลเงินแคนาดาวงเงิน C$6B (~US$4.19B) เมื่อ 19 พ.ย. เพิ่มภาระบนฐานหนี้ระยะยาว $125.1B ท่ามกลางเงินสดที่ไหลออก",
+                            "กราฟยังเป็นขาลงต่ำกว่าเส้นค่าเฉลี่ยหลักทั้งหมด ขณะที่คดีอุทธรณ์ผูกขาด DOJ และเดดไลน์คดีฟ้องกลุ่มนักลงทุน 1 ธ.ค. ยังกดดันจิตวิทยาตลาด"
                         ],
-               "fundamental":  "การร่วงลงของราคาหุ้นสะท้อนการที่ตลาดกำลังประเมิน Alphabet ใหม่ จากเครื่องจักรผลิตเงินสดจากโฆษณา มาเป็นยักษ์ใหญ่โครงสร้างพื้นฐาน AI ที่ต้องใช้เงินลงทุนมหาศาล แม้ผลประกอบการ Q3 2026 เมื่อวันที่ 28 ต.ค. จะโชว์รายได้รวมโต 25% แตะ $127.6B และกำไรจากการดำเนินงานโต 30% เป็น $40.6B (มาร์จิ้น 31.8%) แต่มูลค่าตลาดกลับหายไปเกือบ $500B ในวันที่ 29 ต.ค. ภาพความต่างชัดเจนมาก: Google Cloud โตเท่าตัวเป็น $30.7B ด้วยมาร์จิ้นสูง 36.2% จากความต้องการโครงสร้างพื้นฐาน AI และการขายชิป TPU ภายนอก หนุนด้วย backlog $560.8B และสัญญาขั้นต่ำจาก Anthropic $121.3B พิสูจน์ว่าแพลตฟอร์ม TPU–Cloud–Gemini กำลังชนะ แต่ด้านกลับ CapEx $51.4B ทำให้กระแสเงินสดอิสระติดลบ -$9.1B ส่วน Search ชะลอเหลือ 12% ($63.35B) จากผลกระทบ AI Mode คูเมืองทางธุรกิจยังไม่พัง แต่ความคุ้มค่าของงบลงทุนและการทำเงินจาก Search ทำให้ต้องจัดสถานะเป็นเฝ้าระวัง",
-               "headline":  "Alphabet แตะจุดต่ำสุดรอบ 52 สัปดาห์ เมื่อ CapEx $51.4B กลบกระแส Cloud พุ่งแรง",
+               "fundamental":  "งบ Q3 2026 เมื่อ 28 ต.ค. สะท้อนภาพยักษ์ใหญ่โครงสร้างพื้นฐาน AI ที่กำลังแบกรับรอบการลงทุนสูงเป็นประวัติการณ์ รายได้รวมโต 25% YoY แตะ $127.6B และกำไรจากการดำเนินงานพุ่ง 30% สู่ $40.6B (อัตรากำไร 31.8%) แม้ EPS ลดเหลือ $2.12 ส่วนหนึ่งจากผลขาดทุนทางบัญชีของเงินลงทุนหุ้นรวมถึง SpaceX จุดเด่นคือ Google Cloud ที่โต 103% YoY สู่ $30.7B พร้อมอัตรากำไร 36.2% และ Backlog $561B จากแรงหนุน AI องค์กรและยอดขาย TPU ภายนอก อย่างไรก็ดี Capex ไตรมาสเดียว $51.4B ทำให้กระแสเงินสดอิสระติดลบ $9.1B (ต่อจากติดลบ $5.9B ใน Q2) จนต้องออกหุ้นกู้ C$6B เมื่อ 19 พ.ย. บนฐานหนี้ระยะยาว $125.1B ผสมความกังวลรายได้ AI Mode ที่ยังต่ำกว่า Search เดิม แรงเทขายจึงสะท้อนความกังวลเรื่องจังหวะคืนทุน มากกว่าความเสียหายต่อปราการแพลตฟอร์มครบวงจร (Search, Cloud, TPU, Gemini)",
+               "headline":  "Cloud โตเท่าตัวปะทะช็อกงบ AI $200B และกระแสเงินสดติดลบ",
                "news":  [
-                            "28–29 ต.ค. 2026: Alphabet รายงานรายได้ Q3 โต 25% เป็น $127.6B และ Google Cloud พุ่ง 103% เป็น $30.7B แต่ CapEx ที่ $51.4B กระแสเงินสดอิสระติดลบ -$9.1B การเติบโตของ Search เหลือ 12% และขาดทุนทางบัญชี SpaceX $8.2B (GAAP EPS $2.12) กดหุ้นร่วงหนักเป็นประวัติการณ์ราว 12%–13%",
-                            "9 พ.ย. 2026: Google เปิดตัวชิป AI รุ่นที่ 8 เพิ่มเติม ได้แก่ TPU 8tx (ทำงานร่วมกับ AMD EPYC เจน 5 สำหรับการประมวลผลแบบเข้ารหัสปลอดภัยสูง) และ TPU 8i Max แบบ dual-die (HBM 384 GB) เจาะกลุ่มองค์กรภายใต้การกำกับและงาน agentic AI ขนาดใหญ่",
-                            "17 พ.ย. 2026: ในงาน Sovereign AI Summit ที่บรัสเซลส์ Google Cloud ประกาศเตรียมนำโมเดล Gemini ไปให้บริการบน Google Cloud Dedicated ร่วมกับพันธมิตรในยุโรป ภายใต้กฎการเก็บข้อมูลและกุญแจเข้ารหัสในประเทศอย่างเข้มงวด",
-                            "19 พ.ย. 2026: Anthropic เข้าซื้อขาย IPO ในตลาด Nasdaq ที่ราคา $83 ต่อหุ้น ดันมูลค่าสัดส่วนการถือหุ้น ~13.4% ของ Alphabet แตะราว $147B พร้อมเปิดเผยสัญญาขั้นต่ำใช้ Google Cloud มูลค่า $121.3B ถึง ก.ค. 2033 แต่หุ้น GOOGL ยังปรับลงตามแรงขายหุ้นเทคในตลาดรวม"
+                            "28–29 ต.ค. 2026: Alphabet รายงานรายได้ Q3 ที่ $127.6B (+25% YoY) และ Google Cloud พุ่ง 103% สู่ $30.7B แต่งบ Capex $51.4B และกระแสเงินสดอิสระติดลบ $9.1B ฉุดหุ้นดิ่งราว 12.6% ในวันเดียว พร้อมถูกโบรกเกอร์หลายแห่งปรับลดราคาเป้าหมาย",
+                            "27 ต.ค. 2026: สื่อ The Information รายงานว่า OpenAI มีแผนซื้อชิป TPU ของ Google โดยตรง สะท้อนดีมานด์ชิปภายนอกที่ขยายตัวต่อเนื่องจากดีลระดับหลายกิกะวัตต์กับ Anthropic",
+                            "9 และ 18 พ.ย. 2026: Google เปิดตัวชิป TPU 8tx (รองรับการเทรน AI แบบเข้ารหัส) และ TPU 8i Max แบบดูอัลชิป พร้อมปล่อย Gemini 4 Neon ขณะที่แอป Gemini มียอดผู้ใช้ทะลุ 1 พันล้านราย",
+                            "19 พ.ย. 2026: Alphabet กำหนดราคาขายหุ้นกู้ไม่ด้อยสิทธิสกุลเงินดอลลาร์แคนาดา 4 ชุด วงเงิน C$6B (~US$4.19B) ครบกำหนดปี 2029–2066 ดอกเบี้ย 4.1%–6.0% เพื่อรองรับความต้องการเงินทุนท่ามกลางงบลงทุน AI ที่พุ่งสูง",
+                            "17 และ 23 พ.ย. 2026: มีประกาศเดดไลน์ 1 ธ.ค. สำหรับโจทก์นำในคดีฟ้องกลุ่มนักลงทุน (Stewart v. Alphabet) เรื่องการเปิดเผยข้อมูล AI และ Capex ก่อนที่หุ้น GOOGL จะเด้ง 6.34% เมื่อ 23 พ.ย. ตามแรงฟื้นตัวทั้งกลุ่ม AI หลังบอร์ด Nvidia ดึง Jensen Huang กลับมาเป็นซีอีโอ"
                         ],
-               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI การที่ราคาหุ้นปรับลง 35% จากจุดสูงสุดสวนทางอย่างชัดเจนกับผลงานฝั่ง Cloud และชิปที่เร่งตัวขึ้น Google Cloud ที่โต 103% แตะ $30.7B พร้อมมาร์จิ้น 36.2% backlog มูลค่า $560.8B และสัญญาขั้นต่ำ $121.3B จาก Anthropic มอบความชัดเจนของรายได้ระยะยาวที่หาได้ยาก ขณะที่ดีมานด์ TPU ภายนอกซึ่งได้แรงเสริมจาก TPU 8tx และ 8i Max เมื่อ 9 พ.ย. รวมถึงมูลค่าหุ้น Anthropic ราว $147B ช่วยเป็นกันชนพื้นฐานที่ดี หากงบลงทุนเริ่มนิ่งหรือการสร้างรายได้จาก AI Mode ฟื้นตัว",
-               "opportunityCheck":  "คะแนนย่อยบนหน้าเว็บส่วนใหญ่สมเหตุสมผล แต่ประเมินสัดส่วนรายได้จาก AI และอำนาจคอขวดต่ำไปเล็กน้อย เมื่อ Google Cloud โตเท่าตัวเป็น $30.7B หรือเกือบหนึ่งในสี่ของรายได้ Q3 2026 จากโครงสร้างพื้นฐาน AI และการขายชิป TPU ภายนอก พร้อม backlog $560.8B ควรปรับคะแนนด้านสัดส่วนรายได้ AI ขึ้น ด้านคอขวดและอำนาจตั้งราคาก็มีเหตุผลให้มองบวกขึ้นเล็กน้อยจากมาร์จิ้น Cloud ที่ 36.2% และความต่างของชิป TPU 8tx/8i Max แต่ถูกจำกัดด้วยรายได้โฆษณา AI Mode ที่ยังต่ำกว่าปกติและ CapEx ปีละ $195B–$205B ส่วนคะแนนตลาด ตำแหน่งผู้นำ และโอกาสต่อยอดเหมาะสมแล้ว",
+               "opportunity":  "สำหรับนักลงทุนสายโครงสร้างพื้นฐาน AI ระยะยาว การย่อตัวราว 31% จากจุดสูงสุด $408.61 ทำให้ราคาหุ้นสวนทางกับพัฒนาการเชิงธุรกิจของ AI Stack โดย Google Cloud ที่โต 103% แตะ $30.7B อัตรากำไร 36.2% และ Backlog $561B ยืนยันดีมานด์องค์กรขนาดใหญ่ ขณะที่การเปิดขาย TPU สู่ภายนอก (TPU 8tx/8i Max, Anthropic และรายงานความสนใจจาก OpenAI) กำลังเปลี่ยนชิปภายในให้เป็นเครื่องจักรทำกำไรใหม่ และการรอดพ้นคำสั่งแยกกิจการจากทั้งสองคดีผูกขาด DOJ ยังช่วยรักษาจุดแข็งของแพลตฟอร์มครบวงจรไว้ได้หากงบลงทุนทยอยสร้างกระแสเงินสดคืนมา",
+               "opportunityCheck":  "ภาพรวมคะแนนโอกาส AI บนหน้าเว็บถือว่าตรงทิศทาง แต่มีสองมิติที่ดูต่ำเกินจริงหลังเหตุการณ์เดือน ต.ค.–พ.ย. ด้านสัดส่วนรายได้ AI ควรถูกปรับขึ้น เพราะ Google Cloud ที่โต 103% แตะ $30.7B คิดเป็นเกือบหนึ่งในสี่ของรายได้รวมแล้ว พร้อม Backlog AI สูงถึง $561B ด้านคอขวดและอำนาจกำหนดราคาก็ควรขยับขึ้นเล็กน้อย หลังการเปิดตัว TPU 8tx/8i Max เมื่อ 9 พ.ย. และข่าว OpenAI สนใจซื้อชิปพิสูจน์ว่าซิลิคอนของ Google สร้างอำนาจต่อรองนอกบ้านได้จริง ส่วนการเติบโตตลาด ตำแหน่งผู้นำ และโอกาสต่อยอดอยู่ในระดับแข็งแกร่งเหมาะสมแล้ว แม้ภาระงบลงทุนมหาศาลจะยังจำกัดอำนาจตั้งราคาเมื่อเทียบกับผู้ผลิตชิปเฉพาะทาง",
                "pros":  [
-                            "รายได้ Google Cloud ไตรมาส 3 ปี 2026 พุ่ง 103% จากปีก่อนเป็น $30.7B ขณะที่กำไรจากการดำเนินงานโตสามเท่าเป็น $11.12B (มาร์จิ้น 36.2%)",
-                            "ยอดงานรอรับรู้รายได้ (backlog) ของ Google Cloud แตะ $560.8B ใน Q3 2026 และได้แรงหนุนจากสัญญาขั้นต่ำของ Anthropic มูลค่า $121.3B ยาวถึง ก.ค. 2033",
-                            "ความแข็งแกร่งด้านชิปของตนเองขยายตัวต่อในวันที่ 9 พ.ย. 2026 ด้วยการเปิดตัว TPU 8tx และ TPU 8i Max ควบคู่ยอดขายระบบ TPU ภายนอกที่เติบโตเด่น",
-                            "การ IPO ของ Anthropic ในตลาด Nasdaq วันที่ 19 พ.ย. ทำให้สัดส่วนถือหุ้น ~13.4% ของ Alphabet มีมูลค่าตลาดราว $147B เสริมความแกร่งงบดุลชัดเจน"
+                            "รายได้ Google Cloud โตเท่าตัว (+103% YoY) แตะ $30.7B ใน Q3 2026 อัตรากำไรจากการดำเนินงานขยายสู่ 36.2% พร้อม Backlog สูงถึง $561B",
+                            "การใช้งานชิป TPU ภายนอกขยายวงกว้างหลังเปิดตัว TPU 8tx และ 8i Max เมื่อ 9 พ.ย. บวกข่าว 27 ต.ค. ว่า OpenAI มีแผนซื้อ TPU โดยตรง",
+                            "ตระกูล Gemini 4 ทยอยปล่อยครบถึงรุ่น Neon เมื่อ 18 พ.ย. ดันผู้ใช้แอป Gemini ทะลุ 1 พันล้านราย และปริมาณเรียกใช้ API พุ่ง 4 เท่า",
+                            "ธุรกิจหลัก Google Search ยังเติบโต 12% YoY แตะ $63.35B โดยมีเงินสดและหลักทรัพย์ในความต้องการของตลาดรองรับสูงถึง $265.1B"
                         ],
                "risks":  [
-                             "งบลงทุน AI ระดับ $195B–$205B ต่อปีที่ลากยาวถึงปี 2027 อาจทำให้กระแสเงินสดอิสระติดลบต่อเนื่องและกดดันมาร์จิ้นจากค่าเสื่อมราคาที่เพิ่มขึ้น",
-                             "หากการแสดงโฆษณาใน Search AI Mode ยังสร้างรายได้ต่ำกว่าปกติเป็นเวลานาน อาจจำกัดการเติบโตของแหล่งกำไรหลัก ($63.35B ใน Q3) เชิงโครงสร้าง",
-                             "มาตรการแก้ไขเชิงพฤติกรรมจากคดีผูกขาดของ DOJ ทั้งฝั่ง Search (ครอบคลุมการกระจาย GenAI) และ Ad Tech เพิ่มต้นทุนการปฏิบัติตามกฎและแรงแข่งขัน",
-                             "การที่การเติบโตของ Cloud พึ่งพาลูกค้าห้องแล็บ AI รายใหญ่เช่น Anthropic สูง ทำให้มีความเสี่ยงหากการระดมทุนหรือความต้องการประมวลผลของลูกค้าชะลอตัว"
+                             "กระแสเงินสดอิสระติดลบยืดเยื้อและหนี้สินเพิ่มสูงขึ้น หากงบลงทุน AI ระดับ $195B–$205B+ ต่อปีสร้างผลตอบแทนช้ากว่าคาด",
+                             "อัตรากำไรธุรกิจ Search ถูกกดดัน หากผู้ใช้ย้ายไปใช้ AI Mode เร็วกว่าการพัฒนาโมเดลโฆษณาให้ทำเงินเทียบเท่าแบบเดิม",
+                             "ความเสี่ยงด้านกฎหมายจากการอุทธรณ์คดีผูกขาด Search ในศาลอุทธรณ์ D.C. Circuit และกรอบกำกับดูแลเข้มงวดในธุรกิจ Ad Tech",
+                             "ความเสี่ยงจากการพึ่งพาลูกค้ารายใหญ่และการส่งมอบระบบ Cloud/TPU รวมถึงคดีฟ้องร้องกลุ่มนักลงทุน Stewart v. Alphabet"
                          ],
-               "summary":  "Alphabet (GOOGL) ปิดที่ $265.29 เมื่อวันที่ 20 พ.ย. 2026 เหนือจุดต่ำสุดรอบ 52 สัปดาห์ที่ $264.22 เพียงเล็กน้อย และร่วงลง 35% จากจุดสูงสุด $408.61 แรงขายเร่งตัวหลังงบ Q3 2026 วันที่ 28 ต.ค. เผยงบลงทุน (CapEx) พุ่งเป็น $51.4B จนกระแสเงินสดอิสระติดลบ -$9.1B ขณะที่ Search ชะลอจาก 17% เหลือ 12% จากรายได้โฆษณา AI Mode ที่ยังต่ำ ปัจจัยเหล่านี้กลบข่าวดีทั้ง Google Cloud ที่โต 103% แตะ $30.7B และสัญญา Cloud $121.3B จาก Anthropic เมื่อ 19 พ.ย. ด้านกราฟยังเป็นขาลงแม้เข้าเขตขายมากเกินไป ทำให้ต้องเฝ้าระวังคูเมืองธุรกิจระยะยาวอย่างใกล้ชิด",
-               "technical":  "ข้อมูล ณ วันที่ 20 พ.ย. 2026 ชี้ว่า GOOGL อยู่ในแนวโน้มขาลงชัดเจน โดยปิดลบ 2.7% ที่ $265.29 จ่อจุดต่ำสุดรอบ 52 สัปดาห์ ($264.22) และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($408.61) ถึง 35.1% ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนัก (EMA — เส้นวัดแนวโน้มราคา) ทั้งสามเส้น ได้แก่ EMA 50 ($312.78), EMA 200 ($323.34) และ EMA 100 ($325.97) โดย EMA 50 ตัดลงใต้ EMA 200 ยืนยันโครงสร้างขาลง สัญญาณโมเมนตัมยังอ่อนแอ: MACD (12/26/9 — ตัวชี้วัดทิศทางและแรงส่ง) อยู่ที่ -13.59 ต่ำกว่าเส้น signal ที่ -13.06 และมี histogram ติดลบ -0.53 สะท้อนแรงกดดันด้านลงยังไม่หมด อย่างไรก็ดี RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือเขตขายมากเกินไป หรือ oversold) ลดลงมาที่ 27.78 บ่งชี้แรงขายระยะสั้นที่ตึงตัว ด้านกรอบความผันผวน Bollinger Bands (20/2 — กรอบราคาเทียบค่าเฉลี่ย 20 วัน) ราคาเกาะใกล้ขอบล่าง $259.30 และห่างจากเส้นกลาง $289.45 วอลุ่มซื้อขายพุ่งเป็น 57.30 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 45.23 ล้านหุ้นถึง 26.7% ยืนยันแรงขายจริงหลังราคาวกกลับจากจุดสูงสุดระหว่างวัน $283.15 โดยมีแนวรับสำคัญที่ $264.22 และ $259.30 ส่วนแนวต้านอยู่ที่ $289.45 และโซน EMA $312.78–$325.97"
+               "summary":  "หุ้น Alphabet (GOOGL) ปิดที่ $282.10 เมื่อ 23 พ.ย. 2026 พุ่งขึ้น 6.34% ตามแรงรีบาวด์หุ้น AI ทั้งกลุ่ม แต่ยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($408.61) ถึง 31% ราคาหุ้นร่วงหนักราว 12.6% หลังงบ Q3 วันที่ 28 ต.ค. เผยงบลงทุน Capex สูงถึง $51.4B จนกระแสเงินสดอิสระติดลบ $9.1B ตามด้วยการออกหุ้นกู้ C$6B เมื่อ 19 พ.ย. ด้านธุรกิจ Google Cloud โตแรง 103% YoY แตะ $30.7B พร้อม Backlog $561B เสริมด้วยชิป TPU 8tx/8i Max และ Gemini 4 ที่ช่วยคงความแกร่งของปราการระยะยาว แต่ภาพเทคนิคยังเป็นขาลงจนกว่าจะกลับไปยืนเหนือเส้นค่าเฉลี่ยหลักได้",
+               "technical":  "ภาพรวมเทคนิคของ GOOGL ยังอยู่ในโหมดขาลงแม้ดีดตัวแรง 6.34% มาปิดที่ $282.10 เมื่อ 23 พ.ย. 2026 ราคาซื้อขายต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA—เส้นแนวโน้มที่ให้น้ำหนักราคาล่าสุดมากกว่า) ทั้งสามเส้น ได้แก่ EMA 50 ที่ $311.57, EMA 200 ที่ $322.90 และ EMA 100 ที่ $325.11 โดยที่ EMA 50 ตัดลงต่ำกว่า EMA 200 สะท้อนแนวโน้มระยะกลางที่เป็นลบชัดเจน ด้านโมเมนตัมเริ่มชะลอแรงลงแต่ยังไม่ยืนยันการกลับตัว โดย MACD (ตัววัดแรงส่งแนวโน้ม 12/26/9) ยังติดลบลึกที่ -12.74 แม้เพิ่งขยับเหนือเส้น Signal (-13.00) จน Histogram เป็นบวกเล็กน้อยที่ +0.25 ขณะที่ RSI 14 (มาตรวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือเขตขายมากเกินไป) ฟื้นขึ้นมาเพียงโซนอ่อนแรงที่ 41.04 เมื่อเทียบกับ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วันที่ $287.71) ราคาอยู่ครึ่งล่างระหว่างแนวรับกรอบล่าง $260.18 กับแนวต้านกึ่งกลาง $287.71 และอยู่เหนือจุดต่ำสุดรอบ 52 สัปดาห์ ($264.22) เพียง 6.8% ที่สำคัญ วอลุ่มวันที่ 23 พ.ย. อยู่ที่ 44.26M ต่ำกว่าค่าเฉลี่ย 20 วันที่ 46.30M และปิดต่ำกว่าราคาเปิด $284.28 บ่งชี้แรงรีบาวด์ตามกลุ่มมากกว่าการสะสมหุ้นจริงจัง โดยมีแนวรับสำคัญที่ $260–$264 และแนวต้านซ้อนกันที่ $287.71 และ $311.57–$315.25"
            },
     "sources":  [
                     {
+                        "date":  "2026-10-29",
+                        "publisher":  "SEC EDGAR (Alphabet Inc.)",
+                        "title":  "Form 10-Q for the Quarterly Period Ended September 30, 2026",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/goog-20260930.htm"
+                    },
+                    {
                         "date":  "2026-10-28",
-                        "publisher":  "Alphabet Inc.",
+                        "publisher":  "Alphabet Investor Relations",
                         "title":  "Alphabet Announces Third Quarter 2026 Results",
-                        "url":  "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf"
+                        "url":  "https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026-q3-alphabet-earnings-release.pdf"
                     },
                     {
-                        "date":  "2026-10-29",
-                        "publisher":  "The Guardian",
-                        "title":  "Google owner Alphabet loses $500bn in market value after profit disappoints Wall Street",
-                        "url":  "https://www.theguardian.com/technology/2026/oct/29/google-owner-alphabet-loses-500bn-market-value-profit-disappoints-wall-street"
+                        "date":  "2026-10-28",
+                        "publisher":  "CNBC",
+                        "title":  "Alphabet (GOOGL) Q3 2026 earnings",
+                        "url":  "https://www.cnbc.com/2026/10/28/alphabet-googl-earnings-q3-2026.html"
                     },
                     {
-                        "date":  "2026-10-29",
-                        "publisher":  "Forbes",
-                        "title":  "Google Parent\u0027s Stock Tank Erases Nearly $500 Billion In Second-Biggest Daily Market Cap Loss Ever",
-                        "url":  "https://www.forbes.com/sites/fionariley/2026/10/29/google-parents-stock-tank-erases-nearly-500-billion-in-second-biggest-daily-market-cap-loss-ever/"
+                        "date":  "2026-10-27",
+                        "publisher":  "The Information",
+                        "title":  "OpenAI, a Longtime Nvidia Customer, Plans to Buy Google\u0027s AI Chips",
+                        "url":  "https://www.theinformation.com/articles/openai-a-longtime-nvidia-customer-plans-to-buy-googles-ai-chips"
                     },
                     {
                         "date":  "2026-11-09",
                         "publisher":  "Google Blog",
                         "title":  "Our newest TPUs: 8tx and 8i Max, built for the agentic era",
-                        "url":  "https://blog.google/technology/developers/our-newest-tpus-8tx-and-8i-max-built-for-the-agentic-era/"
+                        "url":  "https://blog.google/technology/google-cloud/our-newest-tpus-8tx-and-8i-max-built-for-the-agentic-era/"
                     },
                     {
-                        "date":  "2026-11-17",
-                        "publisher":  "Google Cloud Blog",
-                        "title":  "Sovereign AI on your terms, made with Europe",
-                        "url":  "https://cloud.google.com/blog/products/identity-security/sovereign-ai-on-your-terms-made-with-europe"
+                        "date":  "2026-11-18",
+                        "publisher":  "Google Blog",
+                        "title":  "Introducing Gemini 4 Neon",
+                        "url":  "https://blog.google/technology/developers/introducing-gemini-4-neon"
                     },
                     {
-                        "date":  "2026-11-19",
+                        "date":  "2026-11-20",
+                        "publisher":  "CTV News",
+                        "title":  "Alphabet raises $6 billion in Canadian bond offering",
+                        "url":  "https://www.ctvnews.ca/business/alphabet-raises-6-billion-in-canadian-bond-offering-1.7118129"
+                    },
+                    {
+                        "date":  "2026-11-23",
                         "publisher":  "The Motley Fool",
-                        "title":  "Stock Market Today, Nov. 19: Alphabet Shares Fall as Anthropic Nasdaq Debut Puts Fresh Value on Google\u0027s Stake",
-                        "url":  "https://www.fool.com/investing/2026/11/19/stock-market-today-111926-alphabet-shares-fall-anth/"
-                    },
-                    {
-                        "date":  "2026-11-19",
-                        "publisher":  "FourWeekMBA",
-                        "title":  "Anthropic Raises Its Google Spending Floor to $121.3B",
-                        "url":  "https://fourweekmba.com/anthropic-raises-its-google-spending-floor-to-121-3b/"
+                        "title":  "Why Alphabet Stock Popped Today",
+                        "url":  "https://www.fool.com/investing/2026/11/23/why-alphabet-stock-popped-today/"
                     }
                 ]
 }

@@ -2,46 +2,45 @@
     "ticker":  "NVTS",
     "name":  "Navitas Semiconductor",
     "symbol":  "NASDAQ:NVTS",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:08:44Z",
-    "costUsd":  0.7573218,
+    "generatedAt":  "2026-11-24T04:25:14Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NASDAQ:NVTS",
                        "yahoo":  "NVTS",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:05:56Z",
-                       "price":  6.08,
-                       "open":  6.91,
-                       "high":  6.95,
-                       "low":  6.03,
-                       "volume":  18163000,
-                       "avgVolume20":  14419680,
-                       "changePct":  -15.2,
-                       "ema50":  9.69,
-                       "ema100":  11.17,
-                       "ema200":  11.71,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:21:29Z",
+                       "price":  7.33,
+                       "open":  7.34,
+                       "high":  7.71,
+                       "low":  7.18,
+                       "volume":  17297400,
+                       "avgVolume20":  14820105,
+                       "changePct":  20.56,
+                       "historyDays":  500,
+                       "ema50":  9.6,
+                       "ema100":  11.1,
+                       "ema200":  11.66,
                        "bb":  {
-                                  "upper":  10.5,
-                                  "middle":  8.53,
-                                  "lower":  6.56
+                                  "upper":  10.52,
+                                  "middle":  8.48,
+                                  "lower":  6.44
                               },
                        "macd":  {
                                     "macd":  -0.72,
-                                    "signal":  -0.53,
-                                    "hist":  -0.19
+                                    "signal":  -0.57,
+                                    "hist":  -0.15
                                 },
-                       "rsi14":  31.82,
+                       "rsi14":  41.75,
                        "high52w":  34.17,
                        "low52w":  6.03,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         30.84
-                                     ],
                                      [
                                          "2026-06-04",
                                          30.67
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          6.08
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         7.33
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          18.89,
                                           19.35,
                                           19.58,
                                           19.77,
@@ -639,101 +641,108 @@
                                           10.06,
                                           9.95,
                                           9.84,
-                                          9.69
+                                          9.69,
+                                          9.6
                                       ]
                    },
     "en":  {
-               "headline":  "New 52-week low in a chip selloff, despite a quarter that beat and raised",
-               "technical":  "NVTS closed at $6.08 on 20 Nov 2026. It fell 15.2% that day and finished just above its new 52-week low of $6.03, 82% below the 52-week high of $34.17. Trend: price is far below all three EMAs (exponential moving averages, which smooth out the price trend): EMA50 $9.69, EMA100 $11.17 and EMA200 $11.71. The stacking 50 \u003c 100 \u003c 200 is a classic downtrend, and price is about 37% below the EMA50. Momentum: MACD (a trend-momentum gauge) is at -0.72, below its signal line at -0.53, and the histogram is negative at -0.19. That means selling pressure is still growing, not fading. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 31.82, near oversold but not there yet. Volatility: price closed below the lower Bollinger Band at $6.56 (the bands are a 20-day average ± 2 standard deviations). That marks a stretched, extreme move. Such closes often lead to short bounces, but strong downtrends can keep going. Volume of 18.2M shares was about 1.26× the 20-day average of 14.4M, so the selling was real. Nearest support is the $6.03 low. The first resistance is near $6.56, then $8.53 (the band\u0027s middle line).",
-               "fundamental":  "The business is improving even as the share price collapses. Q3 2026 revenue (reported 3 Nov) was $14.0M, up 33% from Q2 and 38% from a year earlier, at the top of guidance. Non-GAAP gross margin rose to 40.0%. Q4 guidance is $16.0M ±$0.5M, about 14% growth over Q3. Navitas has mostly exited low-end mobile chips. It expects AI data-center and grid/energy products to pass 40% of sales by year-end, and AI revenue to roughly triple in 2027. On 6 Oct it closed the roughly $126M purchase of Claros (vertical power delivery). It also pointed to an 800V-to-12V board built with Nvidia and an 800V reference design with Microchip. Scale is still tiny: the Q3 GAAP net loss was $37.1M, and Q4 non-GAAP opex of about $25M is more than revenue. Cash of $531.5M and no debt give a long runway.",
-               "news":  [
-                            "3 Nov 2026: Q3 revenue of $14.0M (+38% year on year) beat the roughly $13.5M consensus, and Q4 was guided to $16.0M ±$0.5M. Management cited a 1-million-unit GaN order for an 800V power brick and a book-to-bill near 2.0 (orders about twice shipments). Shares rose 7.9% to $8.56 that day.",
-                            "4 Nov 2026: Rosenblatt upgraded NVTS from Neutral to Buy with a $13 target. Separately, Needham reportedly kept its Buy rating but cut its target from $21 to $15.",
-                            "12 Nov 2026: Navitas filed a second patent suit against Renesas in East Texas (six counts), aimed at Renesas\u0027s newly launched 650V SuperGaN part. It adds to an August suit, while trade-secret and patent claims that Renesas and Wolfspeed filed against Navitas in July are still pending.",
-                            "12 Nov 2026: Nvidia announced that CEO Jensen Huang had resigned, with CFO Colette Kress as interim CEO. Nvidia is Navitas\u0027s flagship 800V partner, so AI-power stocks were hit; NVTS fell about 12% to $7.88 on 16 Nov.",
-                            "20 Nov 2026: NVTS fell 15.2% to $6.08, a new 52-week low, during a broad chip selloff. I found no negative news specific to Navitas. Management is due to speak at a UBS investor conference on 1 Dec."
+               "caution":  "Sharp single-day rallies inside a deep downtrend often fail at overhead resistance unless followed by sustained volume and higher lows. Beyond chart risk, Navitas still generates only $14–$16 million per quarter while guiding Q4 non-GAAP operating expenses to $24–$26 million, meaning meaningful cash burn continues. Meanwhile, share count has swelled to 261.5 million, valuation remains rich relative to current sales, and aggressive GaN launches from rivals like Renesas could squeeze margins before 800V AI rack adoption scales into volume production.",
+               "cons":  [
+                            "Commercial scale remains tiny relative to a roughly $1.9 billion market value, while Q3 GAAP net loss widened to $37.1 million.",
+                            "Non-GAAP operating expenses are guided to jump to $24.0–$26.0 million in Q4, far exceeding quarterly gross profit.",
+                            "Filing a second patent lawsuit against Renesas on Nov 12 highlights intensifying GaN competition from larger semiconductor incumbents.",
+                            "Heavy equity issuance—including ~6.9 million shares for Claros—pushed weighted-average shares to 261.5 million alongside a steep chart downtrend."
                         ],
-               "caution":  "The chart is in a confirmed downtrend with no sign of turning. Price is below every EMA and the MACD gap is still widening. A close below the lower band at a fresh 52-week low can mark capitulation (a final wave of panic selling), but nothing confirms that yet. On fundamentals, about $16M of quarterly revenue against roughly $25M of opex means losses will continue. The stock\u0027s beta near 4 also means it tends to move about four times as much as the market. Patent fights with Renesas and Wolfspeed carry legal costs and uncertain outcomes, and Nvidia\u0027s leadership change could slow its decisions on the 800V roadmap.",
-               "opportunity":  "The selloff appears driven by sector sentiment (Nvidia\u0027s CEO exit and a chip-wide selloff), not by Navitas\u0027s own results, which beat estimates and guided higher. RSI near 31 and a close below the lower Bollinger Band show the stock is stretched. Readings like these often come before relief bounces, though the timing is unpredictable. For long-term holders, the key points to check at the 1 Dec UBS conference are: $531.5M of cash (roughly a third of the market value), book-to-bill near 2.0, the 1-million-unit 800V GaN order, and the goal of tripling AI revenue in 2027.",
+               "fundamental":  "Navitas designs gallium-nitride (GaN) and silicon-carbide power chips aimed at replacing legacy silicon inside 800-volt DC AI server racks. Its Nov 3, 2026 Q3 report showed the \"Navitas 2.0\" pivot gaining traction: revenue reached $14.0 million (+33% QoQ, +38% YoY—its first annual growth since 2024), while non-GAAP gross margin improved to 40.0% and GAAP gross margin reached 21.5%. Management guided Q4 revenue to $15.5–$16.5 million (+119% YoY at the midpoint). Strategically, closing the up-to-$232.8 million Claros buyout on Oct 6 adds integrated voltage regulators, complementing NVIDIA 800V-to-12V board work and US-fabbed Gen 5 GaN from GlobalFoundries. However, Q3 GAAP net loss widened to $37.1 million (non-GAAP loss $6.9 million), and Q4 non-GAAP OpEx of $24–$26 million shows profitability remains distant despite roughly $405 million in post-deal debt-free cash.",
+               "headline":  "Oversold 20.6% Rally Meets Early AI Inflection and Heavy Losses",
+               "news":  [
+                            "Nov 23, 2026: NVTS jumped 20.56% to $7.33 on 17.30 million shares, staging a sharp technical rebound from its $6.03 52-week low amid a broad AI and semiconductor rally rather than new company-specific announcements.",
+                            "Nov 12, 2026: Navitas filed a second U.S. patent infringement lawsuit in Texas against Renesas Electronics with six counts targeting Renesas\u0027s new 650V SuperGaN and 100V REXGaN chips, expanding its August 2026 litigation.",
+                            "Nov 4, 2026: Following Q3 earnings, Rosenblatt Securities and Craig-Hallum both upgraded NVTS to Buy with $13 price targets citing the high-power AI inflection, while Needham kept Buy but trimmed its target from $21 to $15.",
+                            "Nov 3, 2026: Navitas reported Q3 2026 revenue of $14.0 million (+38% YoY) with 40.0% non-GAAP gross margin and a $37.1 million GAAP net loss, guiding Q4 revenue to $15.5–$16.5 million and non-GAAP OpEx to $24.0–$26.0 million.",
+                            "Oct 6–12, 2026: Navitas closed its up-to-$232.8 million Claros acquisition for integrated voltage regulators and unveiled a 24 kW 800V-to-12V GaNFast power delivery board developed with NVIDIA for MGX AI racks."
+                        ],
+               "opportunity":  "For long-term AI-infrastructure investors, Navitas offers pure-play exposure to the shift from legacy 48V/54V power shelves toward megawatt-scale 800V DC racks. Collaborating with NVIDIA on 800V-to-12V boards, partnering with Microchip on 800V reference designs, and adding Claros\u0027s integrated voltage regulators gives Navitas a broader grid-to-processor footprint. With roughly $405 million in debt-free cash after the Claros closing and US-based Gen 5 GaN production ramping at GlobalFoundries, the company has multi-year runway to convert design wins into volume revenue.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile is broadly sensible, though AI revenue exposure warrants a modest upward adjustment. Navitas is actively exiting low-end mobile chargers, and high-power AI data-center and grid sales grew over 50% sequentially in Q3 2026, heading past 40% of revenue by year-end. Conversely, market position and bottleneck pricing power should stay restrained: while the NVIDIA 800V board and Claros voltage-regulator buyout strengthen optionality, Navitas\u0027s second patent suit against Renesas proves larger rivals are encroaching on data-center GaN, limiting near-term pricing power.",
+               "pros":  [
+                            "Q3 2026 revenue grew 33% sequentially and 38% year-over-year to $14.0 million, with Q4 guided to $15.5–$16.5 million.",
+                            "High-power AI and grid markets grew over 50% sequentially and are tracking past 40% of total sales by year-end.",
+                            "Non-GAAP gross margin expanded for a third straight quarter to 40.0%, backed by roughly $405 million in post-Claros debt-free cash.",
+                            "Oct 2026 milestones—an NVIDIA 800V-to-12V power board, GlobalFoundries US GaN shipments, and the Claros IVR acquisition—deepen its AI data-center stack."
+                        ],
                "risks":  [
-                             "Nvidia\u0027s leadership uncertainty could delay or reshape the 800V data-center power roadmap that Navitas is betting on.",
-                             "Pending patent and trade-secret lawsuits involving Renesas and Wolfspeed could bring costs or limits on products.",
-                             "Losses continue: Q4 opex of about $25M against about $16M of revenue could eventually require raising money by issuing new shares.",
-                             "Worries about slower AI data-center spending (higher borrowing costs, permit delays) hit high-beta suppliers hardest.",
-                             "Larger rivals such as Renesas are launching competing 650V GaN products despite the lawsuits."
+                             "Continued heavy GAAP losses ($37.1 million in Q3) and elevated Q4 OpEx ($24–$26 million) extending the timeline to cash-flow breakeven.",
+                             "Direct GaN competition and prolonged legal costs against larger power-semiconductor rivals such as Renesas.",
+                             "Slower-than-expected commercial ramp of 800V DC AI data-center power architectures or delayed customer qualification.",
+                             "Further shareholder dilution from stock-based compensation, acquisition earnouts, and potential equity issuance on top of 261.5 million shares."
                          ],
-               "summary":  "Technically, NVTS is bearish. At $6.08 it sits at a 52-week low, below all three EMAs and the lower Bollinger Band, with MACD negative and RSI at 31.82, near oversold. The slide from $10.07 on 11 Nov came from shocks across the sector, mainly Nvidia\u0027s CEO resignation and a chip selloff, not from Navitas\u0027s own numbers, which beat and raised guidance. The GaN/SiC AI-power thesis is still early and unproven at scale. I mark it \u0027watch\u0027 because of uncertainty over Nvidia\u0027s roadmap, ongoing litigation and continued heavy losses."
+               "summary":  "Navitas Semiconductor (NVTS) jumped 20.56% to $7.33 on Nov 23, 2026, rebounding from its $6.03 52-week low amid a broad AI-chip rally rather than fresh company news. Technically, the stock remains in a steep downtrend—78.5% below its $34.17 high and well under all key moving averages. Fundamentally, Q3 2026 results on Nov 3 showed a real pivot: revenue rose 38% year-over-year to $14.0 million as AI data-center demand accelerated. Still, a $37.1 million GAAP net loss, rising expenses, and a new patent battle with Renesas keep the long-term moat under watch.",
+               "technical":  "Despite surging 20.56% to $7.33 on Nov 23, 2026, NVTS remains in a confirmed bearish trend. The stock trades far beneath its exponential moving averages (EMAs, which smooth trend direction): EMA 50 sits at $9.60, EMA 100 at $11.10, and EMA 200 at $11.66, stacked in bearish order with shorter averages below longer ones. Momentum is still negative. MACD (a trend-momentum gauge comparing two moving averages) reads -0.72 below its -0.57 signal line, keeping the histogram negative at -0.15. RSI 14 (a 0–100 momentum gauge where under 30 is oversold) bounced to 41.75—no longer oversold, yet still below the 50 midpoint. Within Bollinger Bands (a 20-day volatility channel), price rebounded off the $6.44 lower band but remains beneath the $8.48 middle band and $10.52 upper band, sitting just above its $6.03 52-week low and 78.5% under its $34.17 high. Volume reached 17.30 million shares versus the 14.82 million 20-day average—modestly elevated relief buying, not a breakout. Key support lies at $6.44 and $6.03; overhead resistance stands at $8.48 and $9.60."
            },
     "th":  {
-               "headline":  "หุ้นทำจุดต่ำสุดรอบ 52 สัปดาห์ใหม่จากแรงขายหุ้นชิป ทั้งที่งบดีกว่าคาด",
-               "technical":  "NVTS ปิดที่ $6.08 เมื่อ 20 พ.ย. 2026 ร่วง 15.2% ในวันเดียว ปิดเหนือจุดต่ำสุดรอบ 52 สัปดาห์ใหม่ที่ $6.03 เพียงเล็กน้อย และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ $34.17 ราว 82% ด้านแนวโน้ม ราคาอยู่ต่ำกว่า EMA ทั้งสามเส้นมาก (EMA คือเส้นค่าเฉลี่ยราคาที่ให้น้ำหนักกับราคาล่าสุดมากกว่า ใช้ดูทิศทาง) ได้แก่ EMA50 $9.69, EMA100 $11.17 และ EMA200 $11.71 การเรียงตัว 50 \u003c 100 \u003c 200 คือรูปแบบขาลงชัดเจน และราคาต่ำกว่า EMA50 ราว 37% ด้านโมเมนตัม MACD (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ -0.72 ต่ำกว่าเส้นสัญญาณ -0.53 ฮิสโตแกรมติดลบ -0.19 แปลว่าแรงขายยังเพิ่มขึ้น ไม่ได้อ่อนลง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 31.82 ใกล้เขต oversold แต่ยังไม่เข้า ด้านความผันผวน ราคาปิดหลุดกรอบล่าง Bollinger Band ที่ $6.56 (กรอบที่สร้างจากค่าเฉลี่ย 20 วัน ± 2 ส่วนเบี่ยงเบนมาตรฐาน) แสดงว่าราคาลงแรงผิดปกติ ภาวะแบบนี้มักตามด้วยการเด้งระยะสั้น แต่ในขาลงแรงก็อาจไหลลงต่อได้ วอลุ่ม 18.2 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (14.4 ล้านหุ้น) ราว 1.26 เท่า ยืนยันว่าเป็นแรงขายจริง แนวรับใกล้สุดคือ $6.03 แนวต้านแรกราว $6.56 และถัดไปที่ $8.53 (เส้นกลางกรอบ)",
-               "fundamental":  "ธุรกิจดีขึ้นสวนทางกับราคาหุ้นที่ดิ่งลง รายได้ไตรมาส 3/2026 (ประกาศ 3 พ.ย.) อยู่ที่ $14.0M โต 33% จากไตรมาสก่อน และ 38% จากปีก่อน อยู่ที่ขอบบนของประมาณการ อัตรากำไรขั้นต้น non-GAAP ขยับขึ้นเป็น 40.0% ส่วนแนวทางไตรมาส 4 อยู่ที่ $16.0M ±$0.5M (โตราว 14% จาก Q3) บริษัทถอนตัวจากชิปมือถือระดับล่างเกือบหมดแล้ว และคาดว่ากลุ่ม AI data center รวมกับโครงข่ายไฟฟ้า/พลังงานจะเกิน 40% ของยอดขายภายในสิ้นปี โดยรายได้ AI น่าจะโตราว 3 เท่าในปี 2027 บริษัทปิดดีลซื้อ Claros (เทคโนโลยีจ่ายไฟแนวตั้ง มูลค่าราว $126M) เมื่อ 6 ต.ค. และมีบอร์ด 800V-to-12V ที่พัฒนาร่วมกับ Nvidia กับแบบอ้างอิง 800V ร่วมกับ Microchip แต่ขนาดธุรกิจยังเล็กมาก Q3 ขาดทุนสุทธิ GAAP $37.1M และค่าใช้จ่ายดำเนินงาน non-GAAP ไตรมาส 4 ราว $25M ยังสูงกว่ารายได้ ข้อดีคือมีเงินสด $531.5M และไม่มีหนี้ จึงอยู่รอดได้อีกนาน",
-               "news":  [
-                            "3 พ.ย. 2026: รายได้ Q3 $14.0M (+38% จากปีก่อน) ดีกว่าที่ตลาดคาดราว $13.5M และให้แนวทาง Q4 ที่ $16.0M ±$0.5M ผู้บริหารเผยว่าได้ออร์เดอร์ GaN สำหรับโมดูลจ่ายไฟ 800V จำนวน 1 ล้านชิ้น และ book-to-bill (ยอดสั่งซื้อเทียบยอดส่งมอบ) ราว 2.0 วันนั้นหุ้นขึ้น 7.9% ไปปิดที่ $8.56",
-                            "4 พ.ย. 2026: Rosenblatt ปรับคำแนะนำ NVTS จาก Neutral เป็น Buy พร้อมราคาเป้าหมาย $13 อีกด้านมีรายงานว่า Needham ยังคง Buy แต่ลดราคาเป้าหมายจาก $21 เหลือ $15",
-                            "12 พ.ย. 2026: Navitas ยื่นฟ้อง Renesas ข้อหาละเมิดสิทธิบัตรเป็นคดีที่สองที่ศาลรัฐเท็กซัสตะวันออก (6 ข้อกล่าวหา) มุ่งเป้าชิป 650V SuperGaN ตัวใหม่ของ Renesas ต่อจากคดีแรกเมื่อเดือน ส.ค. ขณะที่คดีความลับทางการค้าและสิทธิบัตรที่ Renesas และ Wolfspeed ฟ้อง Navitas ไว้ตั้งแต่ ก.ค. ยังไม่สิ้นสุด",
-                            "12 พ.ย. 2026: Nvidia ประกาศว่า Jensen Huang ลาออกจากตำแหน่ง CEO และให้ Colette Kress (CFO) รักษาการ CEO เนื่องจาก Nvidia เป็นพันธมิตรหลักด้าน 800V ของ Navitas หุ้นกลุ่มพลังงานไฟฟ้าสำหรับ AI จึงโดนแรงขาย NVTS ร่วงราว 12% ไปปิดที่ $7.88 เมื่อ 16 พ.ย.",
-                            "20 พ.ย. 2026: NVTS ร่วง 15.2% ไปปิดที่ $6.08 ซึ่งเป็นจุดต่ำสุดรอบ 52 สัปดาห์ใหม่ ท่ามกลางแรงขายหุ้นชิปทั้งกลุ่ม โดยไม่พบข่าวร้ายเฉพาะของบริษัท ผู้บริหารมีกำหนดขึ้นเวทีงานสัมมนานักลงทุนของ UBS วันที่ 1 ธ.ค."
+               "caution":  "การดีดตัวแรงในวันเดียวท่ามกลางขาลงลึกมักเผชิญแรงขายเมื่อชนแนวต้าน หากไม่มีวอลุ่มหนุนต่อเนื่องและไม่ยกฐานราคาขึ้น นอกจากนี้ Navitas ยังมีรายได้เพียง $14–$16 ล้านต่อไตรมาส สวนทางกับค่าใช้จ่ายดำเนินงาน Non-GAAP ไตรมาส 4 ที่คาดว่าจะสูงถึง $24–$26 ล้าน ทำให้อัตราเผาผลาญเงินสดยังน่าจับตา ขณะเดียวกันจำนวนหุ้นที่ขยายเป็น 261.5 ล้านหุ้น มูลค่าหุ้นที่ยังสูงเมื่อเทียบกับยอดขายปัจจุบัน และการรุกตลาด GaN ของคู่แข่งรายใหญ่อย่าง Renesas อาจกดดันอัตรากำไรก่อนที่ระบบไฟ 800V จะเข้าสู่การผลิตจำนวนมาก",
+               "cons":  [
+                            "ขนาดรายได้ยังเล็กมากเทียบกับมูลค่าตลาดราว $1.9 พันล้าน ขณะที่ขาดทุนสุทธิ GAAP ใน Q3 กว้างขึ้นเป็น $37.1 ล้าน",
+                            "บริษัทคาดค่าใช้จ่ายดำเนินงาน Non-GAAP ไตรมาส 4 พุ่งขึ้นเป็น $24.0–$26.0 ล้าน ซึ่งยังสูงกว่ากำไรขั้นต้นรายไตรมาสมาก",
+                            "การยื่นฟ้องสิทธิบัตร Renesas รอบสองเมื่อ 12 พ.ย. สะท้อนการแข่งขันชิป GaN ที่รุนแรงขึ้นจากผู้ผลิตชิปรายใหญ่",
+                            "การออกหุ้นเพิ่มทุนต่อเนื่อง รวมถึงราว 6.9 ล้านหุ้นสำหรับดีล Claros ดันจำนวนหุ้นถัวเฉลี่ยแตะ 261.5 ล้านหุ้น ท่ามกลางกราฟขาลงลึก"
                         ],
-               "caution":  "กราฟอยู่ในขาลงชัดเจนและยังไม่มีสัญญาณกลับตัว ราคาอยู่ใต้ EMA ทุกเส้น และ MACD ยังติดลบห่างออกไปเรื่อยๆ การปิดหลุดกรอบล่างพร้อมทำจุดต่ำสุดใหม่อาจเป็นช่วง capitulation (คลื่นขายตื่นตระหนกระลอกสุดท้าย) ก็จริง แต่ยังไม่มีอะไรยืนยัน ด้านพื้นฐาน รายได้ไตรมาสละราว $16M เทียบกับค่าใช้จ่ายราว $25M แปลว่ายังขาดทุนต่อ ค่า beta ใกล้ 4 หมายความว่าหุ้นมักแกว่งแรงกว่าตลาดราว 4 เท่า นอกจากนี้คดีสิทธิบัตรกับ Renesas และ Wolfspeed มีทั้งค่าใช้จ่ายและผลที่ยังไม่แน่นอน ส่วนการเปลี่ยนผู้นำของ Nvidia อาจทำให้การตัดสินใจเรื่องโรดแมป 800V ช้าลง",
-               "opportunity":  "แรงขายรอบนี้ดูมาจากบรรยากาศทั้งกลุ่ม (CEO ของ Nvidia ลาออก และหุ้นชิปถูกเทขาย) มากกว่าผลงานของ Navitas เอง ซึ่งงบออกมาดีกว่าคาดและให้แนวทางที่สูงขึ้น RSI ราว 31 และการปิดหลุดกรอบล่าง Bollinger Band บอกว่าหุ้นลงมาไกลเกินปกติ สภาวะแบบนี้มักเกิดก่อนการเด้งกลับ แต่จังหวะเวลาคาดเดาไม่ได้ สำหรับนักลงทุนระยะยาว ประเด็นที่ควรติดตามในงาน UBS วันที่ 1 ธ.ค. คือ เงินสด $531.5M (ราวหนึ่งในสามของมูลค่าบริษัท), book-to-bill ราว 2.0, ออร์เดอร์ GaN 800V จำนวน 1 ล้านชิ้น และเป้ารายได้ AI โต 3 เท่าในปี 2027",
+               "fundamental":  "Navitas ออกแบบชิปพลังงานแกลเลียมไนไตรด์ (GaN) และซิลิคอนคาร์ไบด์ (SiC) เพื่อทดแทนซิลิคอนแบบเดิมในแร็คเซิร์ฟเวอร์ AI แรงดันสูง 800 โวลต์ DC ผลประกอบการ Q3 2026 (3 พ.ย.) ยืนยันว่าแผนปรับโฉม \"Navitas 2.0\" เริ่มเห็นผล รายได้แตะ $14.0 ล้าน (+33% QoQ, +38% YoY เป็นการเติบโตเทียบปีแรกตั้งแต่ปี 2024) อัตรากำไรขั้นต้น Non-GAAP เพิ่มเป็น 40.0% (GAAP 21.5%) และผู้บริหารคาดรายได้ Q4 ที่ $15.5–$16.5 ล้าน (+119% YoY ณ ค่ากลาง) เชิงกลยุทธ์ การปิดดีลซื้อ Claros มูลค่าสูงสุด $232.8 ล้าน (6 ต.ค.) เพิ่มเทคโนโลยีวงจรคุมแรงดันแบบบูรณาการ (IVR) เสริมทัพความร่วมมือบอร์ด 800V-to-12V กับ NVIDIA และการเริ่มส่งมอบชิป Gen 5 GaN ที่ผลิตในสหรัฐฯ ผ่าน GlobalFoundries อย่างไรก็ดี ขาดทุนสุทธิ GAAP ยังกว้างขึ้นเป็น $37.1 ล้าน (Non-GAAP ขาดทุน $6.9 ล้าน) และค่าใช้จ่ายดำเนินงาน Q4 ที่ $24–$26 ล้านชี้ว่าจุดคุ้มทุนยังอยู่อีกไกล แม้จะมีเงินสดปลอดหนี้ราว $405 ล้านรองรับ",
+               "headline":  "เด้งแรง 20.6% จากจุดต่ำสุด แต่ยังอยู่ขาลง ขาดทุนหนักและคู่แข่งรุกคืบ",
+               "news":  [
+                            "23 พ.ย. 2026: หุ้น NVTS พุ่งขึ้น 20.56% ปิดที่ $7.33 ด้วยวอลุ่ม 17.30 ล้านหุ้น ดีดตัวจากจุดต่ำสุดรอบ 52 สัปดาห์ที่ $6.03 ตามแรงซื้อกลับในกลุ่มชิป AI และเซมิคอนดักเตอร์โดยรวม โดยไม่มีประกาศข่าวใหม่จากบริษัท",
+                            "12 พ.ย. 2026: Navitas ยื่นฟ้องละเมิดสิทธิบัตรรอบสองต่อ Renesas Electronics ในศาลสหรัฐฯ รัฐเท็กซัส รวม 6 ข้อหา พุ่งเป้าไปที่ชิป 650V SuperGaN และ 100V REXGaN รุ่นใหม่ ต่อเนื่องจากคดีแรกเมื่อ ส.ค. 2026",
+                            "4 พ.ย. 2026: หลังงบ Q3 Rosenblatt Securities และ Craig-Hallum ต่างปรับเพิ่มคำแนะนำ NVTS เป็น Buy ที่ราคาเป้าหมาย $13 จากจุดเปลี่ยนตลาด AI พลังงานสูง ส่วน Needham คงคำแนะนำ Buy แต่ลดเป้าหมายจาก $21 เหลือ $15",
+                            "3 พ.ย. 2026: Navitas รายงานรายได้ Q3 2026 ที่ $14.0 ล้าน (+38% YoY) อัตรากำไรขั้นต้น Non-GAAP 40.0% แต่ขาดทุน GAAP $37.1 ล้าน พร้อมคาดรายได้ Q4 ที่ $15.5–$16.5 ล้าน และค่าใช้จ่าย Non-GAAP ที่ $24.0–$26.0 ล้าน",
+                            "6–12 ต.ค. 2026: Navitas ปิดดีลซื้อกิจการ Claros มูลค่าสูงสุด $232.8 ล้านเพื่อเสริมเทคโนโลยี IVR และเปิดตัวบอร์ดจ่ายไฟ GaNFast ขนาด 24 kW แบบ 800V-to-12V ที่พัฒนาร่วมกับ NVIDIA สำหรับระบบแร็ค AI MGX"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI หุ้น Navitas ให้โอกาสเข้าถึงกระแสเปลี่ยนผ่านจากระบบไฟเซิร์ฟเวอร์ 48V/54V เดิม สู่สถาปัตยกรรม 800V DC ระดับเมกะวัตต์โดยตรง ความร่วมมือกับ NVIDIA ในบอร์ด 800V-to-12V งานออกแบบอ้างอิง 800V ร่วมกับ Microchip และการได้เทคโนโลยี IVR จาก Claros ช่วยขยายพอร์ตครอบคลุมตั้งแต่โครงข่ายไฟฟ้าไปจนถึงชิปประมวลผล ด้วยเงินสดปลอดหนี้ราว $405 ล้านหลังปิดดีลและสายการผลิต Gen 5 GaN ในสหรัฐฯ กับ GlobalFoundries บริษัทจึงมีเวลาหลายปีในการเปลี่ยนงานออกแบบให้เป็นรายได้จริง",
+               "opportunityCheck":  "โครงสร้างคะแนนโอกาสด้าน AI บนหน้าเว็บถือว่าสมเหตุสมผลโดยรวม แต่ควรขยับคะแนนสัดส่วนรายได้ AI ขึ้นเล็กน้อย เพราะ Navitas กำลังถอนตัวจากตลาดชาร์จมือถือมาร์จิ้นต่ำอย่างจริงจัง ขณะที่กลุ่มพลังงานสูงสำหรับดาต้าเซ็นเตอร์ AI และโครงข่ายไฟฟ้าโตเกิน 50% QoQ ใน Q3 2026 และกำลังขยับเกิน 40% ของรายได้รวม ส่วนคะแนนตำแหน่งในตลาดและอำนาจตั้งราคายังควรประเมินอย่างระมัดระวัง แม้บอร์ด 800V ร่วมกับ NVIDIA และดีล Claros จะเพิ่มโอกาสต่อยอดในอนาคต แต่การฟ้อง Renesas รอบสองชี้ว่าคู่แข่งรายใหญ่กำลังรุกเข้าตลาด GaN ซึ่งจำกัดอำนาจตั้งราคาในระยะใกล้",
+               "pros":  [
+                            "รายได้ Q3 2026 โต 33% QoQ และ 38% YoY แตะ $14.0 ล้าน พร้อมคาดการณ์ Q4 ที่ $15.5–$16.5 ล้าน",
+                            "ยอดขายกลุ่มพลังงานสูง (AI Data Center และโครงข่ายไฟฟ้า) โตเกิน 50% QoQ และกำลังทะลุ 40% ของรายได้รวมสิ้นปีนี้",
+                            "อัตรากำไรขั้นต้น Non-GAAP ขยายตัวเป็นไตรมาสที่ 3 ติดต่อกันสู่ระดับ 40.0% พร้อมเงินสดปลอดหนี้ราว $405 ล้านหลังปิดดีล Claros",
+                            "ความคืบหน้าช่วง ต.ค. 2026 ทั้งบอร์ดจ่ายไฟ 800V-to-12V ร่วมกับ NVIDIA ชิป GaN ผลิตในสหรัฐฯ กับ GlobalFoundries และการเข้าซื้อ Claros ช่วยเติมเต็มพอร์ต AI"
+                        ],
                "risks":  [
-                             "ความไม่แน่นอนเรื่องผู้นำของ Nvidia อาจทำให้โรดแมประบบไฟ 800V สำหรับ data center ที่ Navitas เดิมพันไว้ล่าช้าหรือเปลี่ยนทิศ",
-                             "คดีสิทธิบัตรและความลับทางการค้ากับ Renesas และ Wolfspeed ยังไม่สิ้นสุด อาจมีค่าใช้จ่ายหรือข้อจำกัดด้านผลิตภัณฑ์",
-                             "ยังขาดทุนต่อเนื่อง ค่าใช้จ่าย Q4 ราว $25M เทียบรายได้ราว $16M อาจต้องเพิ่มทุนด้วยการออกหุ้นใหม่ในอนาคต ซึ่งทำให้สัดส่วนผู้ถือหุ้นเดิมลดลง",
-                             "ความกังวลว่าการลงทุน AI data center จะชะลอตัว (ต้นทุนกู้ยืมสูง ใบอนุญาตก่อสร้างล่าช้า) กระทบหุ้นซัพพลายเออร์ที่ beta สูงหนักที่สุด",
-                             "คู่แข่งรายใหญ่อย่าง Renesas ยังเปิดตัวชิป GaN 650V มาแข่งต่อเนื่อง แม้จะถูกฟ้อง"
+                             "ผลขาดทุน GAAP ที่ยังสูง ($37.1 ล้านใน Q3) และค่าใช้จ่ายดำเนินงาน Q4 ที่เพิ่มขึ้น ($24–$26 ล้าน) ยืดระยะเวลาสู่จุดคุ้มทุนกระแสเงินสด",
+                             "การแข่งขันโดยตรงในตลาดชิป GaN และต้นทุนคดีความยืดเยื้อกับคู่แข่งเซมิคอนดักเตอร์ขนาดใหญ่อย่าง Renesas",
+                             "ความเสี่ยงที่การนำระบบไฟ 800V DC ในดาต้าเซ็นเตอร์ AI มาใช้จริงหรือการผ่านรับรองจากลูกค้าจะช้ากว่าคาด",
+                             "ภาวะหุ้นไดลูทเพิ่มเติมจากหุ้นตอบแทนพนักงาน เงื่อนไขจ่ายเพิ่มหลังซื้อกิจการ และการระดมทุนในอนาคต จากฐานหุ้นเดิมที่ 261.5 ล้านหุ้นแล้ว"
                          ],
-               "summary":  "ภาพเทคนิคของ NVTS เป็นขาลง ราคา $6.08 อยู่ที่จุดต่ำสุดรอบ 52 สัปดาห์ ต่ำกว่า EMA ทั้งสามเส้นและกรอบล่าง Bollinger Band ขณะที่ MACD ติดลบ และ RSI 31.82 ใกล้เขต oversold การร่วงจาก $10.07 เมื่อ 11 พ.ย. มาจากปัจจัยกระทบทั้งกลุ่ม หลักๆ คือ CEO ของ Nvidia ลาออกและหุ้นชิปถูกเทขาย ไม่ได้มาจากตัวเลขของ Navitas ซึ่งดีกว่าคาดและปรับแนวทางขึ้น ธีสิสพลังงาน AI จาก GaN/SiC ยังอยู่ช่วงเริ่มต้นและยังพิสูจน์ไม่ได้ในระดับใหญ่ จึงให้สถานะ \u0027watch\u0027 จากความไม่แน่นอนของโรดแมป Nvidia คดีความที่ยังค้าง และผลขาดทุนที่ยังหนัก"
+               "summary":  "หุ้น Navitas Semiconductor (NVTS) พุ่งขึ้น 20.56% ปิดที่ $7.33 เมื่อ 23 พ.ย. 2026 เป็นการดีดกลับทางเทคนิคจากจุดต่ำสุดรอบ 52 สัปดาห์ที่ $6.03 ตามแรงฟื้นตัวของกลุ่มชิป AI โดยไม่มีข่าวใหม่เฉพาะตัว ภาพรวมทางเทคนิคยังเป็นขาลงชัดเจน ราคาต่ำกว่าจุดสูงสุด $34.17 ถึง 78.5% และอยู่ใต้เส้นค่าเฉลี่ยหลักทุกเส้น ด้านพื้นฐาน งบ Q3 2026 (3 พ.ย.) ส่งสัญญาณฟื้นตัวจริง รายได้โต 38% YoY แตะ $14.0 ล้าน จากตลาดดาต้าเซ็นเตอร์ AI แต่ขาดทุนสุทธิ GAAP ขยายเป็น $37.1 ล้าน ค่าใช้จ่ายพุ่ง และคดีสิทธิบัตรกับ Renesas ทำให้ยังต้องเฝ้าติดตามความแข็งแกร่งของคูเมืองระยะยาว",
+               "technical":  "แม้ NVTS จะดีดตัวแรง 20.56% สู่ $7.33 เมื่อ 23 พ.ย. 2026 แต่โครงสร้างทางเทคนิคยังคงเป็นขาลงเต็มรูปแบบ ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA ซึ่งเป็นเส้นบอกทิศทางแนวโน้ม) ครบทั้งสามเส้น ได้แก่ EMA 50 ที่ $9.60, EMA 100 ที่ $11.10 และ EMA 200 ที่ $11.66 โดยเรียงตัวในลักษณะขาลงชัดเจน ด้านโมเมนตัมยังติดลบ ค่า MACD (ตัวชี้วัดโมเมนตัมจากส่วนต่างเส้นค่าเฉลี่ยสองเส้น) อยู่ที่ -0.72 ต่ำกว่าเส้น Signal ที่ -0.57 ส่งผลให้ Histogram ติดลบที่ -0.15 ขณะที่ RSI 14 (มาตรวัดแรงซื้อขาย 0–100 หากต่ำกว่า 30 คือเขตขายมากเกินไป) ฟื้นขึ้นมาที่ 41.75 พ้นเขตขายมากเกินไปแล้วแต่ยังอยู่ต่ำกว่าระดับกลาง 50 เมื่อดู Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาดีดพ้นขอบล่างที่ $6.44 แต่ยังติดใต้เส้นกลาง $8.48 และห่างจากขอบบน $10.52 โดยอยู่เหนือจุดต่ำสุดรอบ 52 สัปดาห์ ($6.03) เพียงเล็กน้อย และต่ำกว่าจุดสูงสุด $34.17 ถึง 78.5% ปริมาณซื้อขายอยู่ที่ 17.30 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 14.82 ล้านหุ้นเพียงเล็กน้อย สะท้อนแรงซื้อเก็งกำไรฟื้นตัวมากกว่าการกลับตัวขาขึ้น แนวรับสำคัญอยู่ที่ $6.44 และ $6.03 ส่วนแนวต้านอยู่ที่ $8.48 และ $9.60"
            },
     "sources":  [
                     {
-                        "title":  "Navitas Semiconductor Q3 2026 results press release (Form 8-K Exhibit 99.1)",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001821769/000162828026069489/exhibit991-navitassemicond.htm",
-                        "date":  "2026-11-03"
+                        "date":  "2026-11-03",
+                        "publisher":  "GlobeNewswire / Navitas Semiconductor",
+                        "title":  "Navitas Semiconductor Announces Third Quarter 2026 Financial Results",
+                        "url":  "https://www.globenewswire.com/news-release/2026/11/03/3187895/0/en/Navitas-Semiconductor-Announces-Third-Quarter-2026-Financial-Results.html"
                     },
                     {
-                        "title":  "Earnings call transcript: Navitas Semiconductor Q3 2026 revenue rises, shares gain",
-                        "publisher":  "Investing.com",
-                        "url":  "https://uk.investing.com/news/stock-market-news/earnings-call-transcript-navitas-semiconductor-q3-2026-revenue-rises-shares-gain-93CH-4954262",
-                        "date":  "2026-11-03"
+                        "date":  "2026-11-12",
+                        "publisher":  "Navitas Semiconductor",
+                        "title":  "Navitas Files Patent Infringement Lawsuit Against Newly Announced Renesas GaN Products",
+                        "url":  "https://navitassemi.com/navitas-files-patent-infringement-lawsuit-against-newly-announced-renesas-gan-products/"
                     },
                     {
-                        "title":  "Could Navitas Semiconductor Actually Climb 52%? Or Is Rosenblatt Totally Wrong?",
-                        "publisher":  "TIKR",
-                        "url":  "https://www.tikr.com/blog/could-navitas-semiconductor-actually-climb-52-or-is-rosenblatt-totally-wrong",
-                        "date":  "2026-11"
+                        "date":  "2026-10-12",
+                        "publisher":  "Navitas Semiconductor",
+                        "title":  "Navitas Collaborates with NVIDIA on 800 V-to-12 V Power Delivery Board for Next-Generation AI Infrastructure",
+                        "url":  "https://navitassemi.com/navitas-collaborates-with-nvidia-on-800-v-to-12-v-power-delivery-board-for-next-generation-ai-infrastructure/"
                     },
                     {
-                        "title":  "Navitas files second patent lawsuit against Renesas",
-                        "publisher":  "Semiconductor Today",
-                        "url":  "https://semiconductor-today.com/news_items/2026/nov/navitas-renesas-131126.shtml",
-                        "date":  "2026-11-13"
+                        "date":  "2026-11-04",
+                        "publisher":  "MarketBeat",
+                        "title":  "Navitas Semiconductor (NASDAQ:NVTS) Raised to Buy at Craig Hallum",
+                        "url":  "https://www.marketbeat.com/instant-alerts/analyst-upgrades-and-downgrades/navitas-semiconductor-nasdaqnvts-raised-to-buy-at-craig-hallum-2026-11-04/"
                     },
                     {
-                        "title":  "Jensen Huang resigns as Nvidia CEO after 33 years, effective immediately",
-                        "publisher":  "The Next Web",
-                        "url":  "https://thenextweb.com/news/jensen-huang-resigns-as-nvidia-ceo-after-33-years-effective-immediately",
-                        "date":  "2026-11-12"
-                    },
-                    {
-                        "title":  "Why Navitas Semiconductor Stock Sank by 12% on Monday",
-                        "publisher":  "The Motley Fool",
-                        "url":  "https://www.fool.com/investing/2026/11/16/why-navitas-semiconductor-stock-sank-by-12-on-monday/",
-                        "date":  "2026-11-16"
-                    },
-                    {
-                        "title":  "Investors Are Fleeing Navitas Semiconductor (NVTS). Here\u0027s Why",
-                        "publisher":  "Yahoo Finance (Insider Monkey)",
-                        "url":  "https://finance.yahoo.com/markets/stocks/articles/investors-fleeing-navitas-semiconductor-nvts-015221715.html",
-                        "date":  "2026-11-17"
-                    },
-                    {
-                        "title":  "Navitas Semiconductor Falls 4% As Chip Stocks Sell Off",
-                        "publisher":  "StocksToTrade",
-                        "url":  "https://stockstotrade.com/news/navitas-semiconductor-corporation-nvts-news-2026-11-20/",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-23",
+                        "publisher":  "Seeking Alpha",
+                        "title":  "Navitas Semiconductor rallies 20% amid broad market advance",
+                        "url":  "https://seekingalpha.com/news/4675790-navitas-semiconductor-rallies-20-percent-amid-broad-market-advance"
                     }
                 ]
 }

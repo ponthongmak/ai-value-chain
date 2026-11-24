@@ -2,47 +2,45 @@
     "ticker":  "VST",
     "name":  "Vistra",
     "symbol":  "NYSE:VST",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-22T15:52:30Z",
-    "costUsd":  0.9274344,
+    "generatedAt":  "2026-11-24T04:45:46Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NYSE:VST",
                        "yahoo":  "VST",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-22T15:48:40Z",
-                       "price":  115.25,
-                       "open":  121.72,
-                       "high":  123.61,
-                       "low":  114.85,
-                       "volume":  8334000,
-                       "avgVolume20":  6600130,
-                       "changePct":  -7.17,
-                       "historyDays":  501,
-                       "ema50":  138.25,
-                       "ema100":  143.5,
-                       "ema200":  149.86,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:41:15Z",
+                       "price":  123.87,
+                       "open":  123.54,
+                       "high":  125.85,
+                       "low":  121.28,
+                       "volume":  5664100,
+                       "avgVolume20":  6668965,
+                       "changePct":  7.48,
+                       "historyDays":  500,
+                       "ema50":  137.68,
+                       "ema100":  143.12,
+                       "ema200":  149.58,
                        "bb":  {
-                                  "upper":  149.35,
-                                  "middle":  131.55,
-                                  "lower":  113.75
+                                  "upper":  148.11,
+                                  "middle":  130.66,
+                                  "lower":  113.2
                               },
                        "macd":  {
-                                    "macd":  -5.64,
-                                    "signal":  -4.71,
-                                    "hist":  -0.93
+                                    "macd":  -5.53,
+                                    "signal":  -4.88,
+                                    "hist":  -0.66
                                 },
-                       "rsi14":  34.44,
-                       "high52w":  189.29,
+                       "rsi14":  42.78,
+                       "high52w":  182.56,
                        "low52w":  110.89,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         153.8
-                                     ],
                                      [
                                          "2026-06-04",
                                          153.7
@@ -518,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          115.25
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         123.87
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          155.26,
                                           155.2,
                                           154.94,
                                           154.63,
@@ -640,133 +641,116 @@
                                           140.38,
                                           139.8,
                                           139.19,
-                                          138.25
+                                          138.25,
+                                          137.68
                                       ]
                    },
     "en":  {
-               "headline":  "Strong Q3 and 2027 guide can\u0027t offset Texas policy risk; VST near 52-week low",
-               "summary":  "Vistra\u0027s Q3 numbers were strong. Adjusted EBITDA was a record $2.38B, up from $1.58B, and on 6 Nov 2026 the company set 2027 guidance at $7.7–8.5B. The stock still fell. Gina Hinojosa won the Texas governor\u0027s race on 3 Nov after campaigning to pause new data centers, KeyBanc downgraded VST the next day, and the stock dropped 13.8%. It then slid again in the November AI sell-off and closed at $115.25 on 20 Nov, down 7.17% that day. That is about 4% above the 52-week low, and price sits below all three EMAs. The earnings outlook improved, but the political risk to Texas data-center demand is new.",
-               "pros":  [
-                            "Q3 adjusted EBITDA hit a record $2.38B, up more than 50% year on year, and the 2026 guidance midpoint was raised to $7.1–7.5B.",
-                            "About 98% of expected 2027 output is already hedged, so the new $7.7–8.5B 2027 EBITDA range is largely locked in.",
-                            "The board added $1.5B to the buyback, leaving about $2.5B to use by end-2028, with about 339M shares outstanding.",
-                            "The Cogentrix deal closed in October and added about 5,500 MW of gas plants, only about 11% of it in Texas, which reduces dependence on ERCOT.",
-                            "At about 13–14x forward earnings, the stock trades below its five-year average of about 15x."
-                        ],
+               "caution":  "The November 23 jump looks like a low-volume relief bounce rather than a confirmed trend reversal, with stacked resistance from $130.66 to $149.58 overhead. Fundamentally, Texas policy risk is not settled: Governor-elect Gina Hinojosa takes office with a mandate to tighten data-center oversight, and ERCOT\u0027s December 10 impact audit plus the 2027 legislative session could slow new Texas power contracts or pressure 2028 forward pricing, where Vistra is only 78% hedged. Leverage also rose after the $4.0 billion Cogentrix closing.",
                "cons":  [
-                            "Texas governor-elect Hinojosa wants to extend the pause on new data centers, a direct threat to Vistra\u0027s largest market.",
-                            "Texas wholesale power has averaged only about $30/MWh in 2026, and only about 78% of 2028 output is hedged.",
-                            "The 1,200 MW at Comanche Peak nuclear plant still has no long-term data-center buyer.",
-                            "Q-Generation Holdings registered up to 5M VST shares for resale, and its lock-up ends on 30 Jan 2027.",
-                            "Price is below the EMA 50, 100 and 200, and the 7.17% drop on 20 Nov came on volume 26% above average."
+                            "Texas governor-elect Gina Hinojosa\u0027s November 3 upset raised moratorium risks for new ERCOT data centers, prompting KeyBanc\u0027s November 4 downgrade to Sector Weight.",
+                            "Technical structure stays bearish at $123.87—below the 50-, 100-, and 200-day EMAs—and the November 23 rally occurred on 15% below-average volume.",
+                            "Forward ERCOT power prices softened ahead of Q3 earnings amid Texas permitting pauses, leaving Vistra more exposed as 2028 hedges drop to 78%.",
+                            "Integrating Cogentrix adds roughly $1.5 billion in assumed debt alongside $2.3 billion in cash outlay, raising execution and leverage sensitivity."
                         ],
-               "opportunityCheck":  "Exposure, market growth and position look reasonable. Vistra does sell power to hyperscalers (Meta, AWS, Microsoft solar), but most of its revenue is still general wholesale and retail power. I would lower the bottleneck and pricing-power score. Power is scarce in theory, but ERCOT prices near $30/MWh, a Texas data-center pause and regulators pushing back on who pays for data-center power all limit how much Vistra can charge. The Comanche Peak deal that hasn\u0027t been signed yet still supports the optionality score.",
-               "technical":  "Trend: VST closed at $115.25 on 20 Nov 2026, below its EMA 50 ($138.25), EMA 100 ($143.50) and EMA 200 ($149.86). EMAs are smoothed average prices. With the short average under the long ones in that order, the stock is in a clear downtrend. Momentum: MACD (a trend-momentum gauge built from two EMAs) is −5.64, below its signal line at −4.71, and the histogram is −0.93. Downside momentum is still building, not fading. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 34.44, which is weak and close to oversold but not there yet. Position: price is just above the lower Bollinger Band at $113.75. The bands sit about two standard deviations either side of the 20-day average of $131.55. Price is only about 4% above the 52-week low of $110.89, and well below the 52-week high of $189.29. Volume: 8.33M shares traded on the 7.17% drop, about 26% above the 20-day average of 6.60M, and the close was near the day\u0027s low of $114.85, so sellers were in control. Support is around $110.89–113.75; resistance is the $131.55 mid-band, then the EMA 50 near $138.",
-               "fundamental":  "Vistra sells AI-era electricity from a large gas and nuclear fleet. It has signed power contracts with Meta and AWS that pay for nuclear uprates, a Microsoft-contracted 405 MW Pulaski solar plant is now running, and in Q3 it signed a 20-year, 207 MW contract with New Era Energy and Digital at its Odessa gas plant in Texas. Q3 2026 net income was $1.14B, including a $559M unrealized hedge gain. Adjusted EBITDA rose to $2.38B. In October the DOE offered a conditional loan of up to $4.2B for nuclear upgrades in Pennsylvania and Ohio. The weak spots are Texas, about 40% of capacity, where prices are low and data-center policy is uncertain, and 2028, which is only 78% hedged. Pro-forma liquidity is about $5.4B after the Cogentrix purchase and the redemption of preferred shares.",
+               "fundamental":  "Vistra sits at the power bottleneck of AI infrastructure, pairing nuclear baseload plants with dispatchable gas generation and a retail electricity arm across PJM and ERCOT. Q3 2026 results on November 6 underscored this earnings power: Ongoing Operations Adjusted EBITDA surged over 50% year-on-year to $2,378 million on $6.35 billion in revenue, with GAAP net income of $1,140 million. Management lifted its 2026 EBITDA midpoint to $7.1–$7.5 billion and initiated 2027 EBITDA guidance at $7.7–$8.5 billion (free cash flow before growth of $4.3–$5.1 billion), underpinned by ~98% 2027 hedging and the October 30 Cogentrix closing (~5,500 MW). Long-term AI demand is anchored by over 4 GW of PPAs—highlighted by Meta\u0027s 2,609 MW PJM nuclear contract—plus October 5\u0027s $4.2 billion DOE nuclear-uprate loan commitment, though Texas\u0027s political shift keeps the ERCOT moat on watch.",
+               "headline":  "Record Q3 earnings clash with Texas policy shock as shares bounce off lows",
                "news":  [
-                            "3–5 Nov 2026: Gina Hinojosa won the Texas governor\u0027s race on a platform that included pausing new data centers. On 4 Nov KeyBanc cut VST to Sector Weight from Overweight, and the stock fell about 13.8% to a closing low of $112.89 on 5 Nov.",
-                            "6 Nov 2026: Q3 adjusted EBITDA was a record $2,378M, up from $1,581M. Vistra narrowed 2026 guidance to $7.1–7.5B and set 2027 guidance at $7.7–8.5B, and the stock jumped about 10.6% to $124.80.",
-                            "6 Nov 2026: The board added $1.5B to the buyback, leaving about $2.5B to use by end-2028. Vistra also confirmed that the roughly $2.2B Cogentrix acquisition, about 5,500 MW of gas plants, closed in October.",
-                            "9 Nov 2026: Vistra filed a resale prospectus for up to 5M shares held by Q-Generation Holdings, the seller in an acquisition. Vistra gets no proceeds, and the shares are locked up until 30 Jan 2027.",
-                            "17 Nov 2026: BMO raised its target to $196 from $188 after cutting it on 5 Nov, and Bernstein moved its target to $182 from $181. Both kept Outperform ratings.",
-                            "19–20 Nov 2026: VST fell 6.27% to $120.27, then 7.17% to $115.25, during a broad sell-off in AI-linked stocks. I found no company-specific news behind these two days."
+                            "Oct 30, 2026: Vistra closed its $4.0 billion net acquisition of Cogentrix Energy, adding 10 natural gas plants (~5,500 MW) and lifting total generation capacity near 50 GW.",
+                            "Nov 3–4, 2026: Following Democrat Gina Hinojosa\u0027s surprise Texas gubernatorial win on a platform favoring a data-center moratorium, KeyBanc downgraded VST from Overweight to Sector Weight and removed its price target.",
+                            "Nov 6, 2026: Vistra posted Q3 2026 Ongoing Operations Adjusted EBITDA of $2,378 million (up over 50% YoY), raised its 2026 EBITDA midpoint to $7.1–$7.5 billion, initiated 2027 EBITDA guidance of $7.7–$8.5 billion, and added $1.5 billion in share buybacks.",
+                            "Nov 9–17, 2026: Wall Street delivered mixed target revisions after earnings—Scotiabank cut its target to $169 on November 9, while BMO Capital raised its target from $188 to $196 and Bernstein edged up to $182 on November 17.",
+                            "Nov 19, 2026: Texas environmental regulators (TCEQ) lifted a two-month pause and resumed processing data-center environmental permits ahead of ERCOT\u0027s December 10 impact audit, easing immediate permitting fears.",
+                            "Nov 23, 2026: VST shares rebounded 7.48% to $123.87 in a relief rally after a multi-week sell-off, though trading volume of 5.66 million shares remained below its 20-day average."
                         ],
-               "caution":  "Most of Vistra\u0027s earnings risk is now political, not operational. A new Texas governor who favors a data-center pause could slow the large-load contracts that justified the stock\u0027s 2025 rally. Low ERCOT prices hurt the roughly 22% of 2028 output that is not yet hedged. Up to 5M resale shares could come to market after 30 Jan 2027. The chart is in a full downtrend, with falling MACD and selling on above-average volume. A break below the $110.89 low would leave no recent support level.",
-               "opportunity":  "The business is earning more even as the share price falls. EBITDA guidance rises from $7.1–7.5B in 2026 to $7.7–8.5B in 2027, and 2027 is about 98% hedged. Steady buybacks are shrinking the share count. Management expects adjusted free cash flow before growth per share to grow about 70% from 2027 to 2030 even without higher power prices. Signing a buyer for Comanche Peak\u0027s 1,200 MW, or more uprate deals with hyperscalers outside Texas, would lower the Texas risk. With RSI near 34 and price at the lower Bollinger Band, the stock is stretched to the downside.",
+               "opportunity":  "The gap between Vistra\u0027s 32% drawdown from its $182.56 high and its expanding cash flow creates a compelling setup to monitor once technicals stabilize. With 98% of 2027 generation hedged, $4.3–$5.1 billion in projected 2027 free cash flow before growth, and $1.5 billion in fresh buyback authorization, near-term earnings are well insulated from Texas headlines. Meanwhile, PJM assets—backed by Meta\u0027s 2,609 MW nuclear PPA and the $4.2 billion DOE uprate loan commitment—provide multi-decade AI power growth outside Texas.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile is broadly balanced, though two sub-scores warrant adjustment after recent events. Market position looks slightly conservative and deserves an upward move: closing the 5,500 MW Cogentrix gas acquisition on October 30, surpassing 4 GW in signed nuclear and gas PPAs including Meta\u0027s PJM deal, and winning a $4.2 billion DOE nuclear-uprate loan commitment strengthen Vistra\u0027s competitive standing. Conversely, bottleneck and pricing power should be trimmed slightly because Texas\u0027s November 3 gubernatorial shift shows political backlash can delay large-load approvals and cap ERCOT pricing power.",
+               "pros":  [
+                            "Q3 2026 Ongoing Operations Adjusted EBITDA jumped over 50% year-on-year to $2.38 billion on November 6, supporting 2027 guidance of $7.7–$8.5 billion.",
+                            "Closing the $4.0 billion Cogentrix deal on October 30 added 5,500 MW of modern gas plants, lifting Vistra\u0027s fleet near 50 GW.",
+                            "Roughly 98% of 2027 generation is already hedged, while over 4 GW of signed PPAs—led by Meta\u0027s 2,609 MW PJM nuclear deal—anchor long-term cash flow.",
+                            "Management added $1.5 billion in share buybacks through 2028 on November 6 and secured a $4.2 billion DOE conditional nuclear-uprate loan commitment on October 5."
+                        ],
                "risks":  [
-                             "Texas data-center moratorium extended under the incoming governor",
-                             "ERCOT wholesale prices staying near $30/MWh into 2028",
-                             "Regulators blocking or repricing power deals between plants and data centers",
-                             "Resale of up to 5M shares after the 30 Jan 2027 lock-up ends",
-                             "A broader AI-capex sell-off pulling down all independent power producers"
-                         ]
+                             "Texas regulatory risk: Governor-elect Hinojosa\u0027s push for a data-center moratorium or stricter ERCOT grid and water rules could curb post-2027 load growth.",
+                             "ERCOT price exposure: Forward Texas power prices have softened, and Vistra\u0027s hedge coverage drops from 98% in 2027 to 78% in 2028.",
+                             "PJM co-location rules: Ongoing FERC and PJM tariff disputes over behind-the-meter data-center connections could delay new nuclear or gas deals.",
+                             "Integration and debt load: Closing the $4.0 billion Cogentrix deal added $1.5 billion in assumed debt and $2.3 billion in cash outlay, raising execution stakes."
+                         ],
+               "summary":  "Vistra shares surged 7.48% to $123.87 on November 23, 2026, yet remain 32.1% below their $182.56 52-week high. Operational momentum is strong: Vistra closed its $4.0 billion Cogentrix gas acquisition on October 30 and posted Q3 2026 Ongoing Operations Adjusted EBITDA of $2.38 billion on November 6, up over 50% year-on-year, alongside 2027 EBITDA guidance of $7.7–$8.5 billion. However, Texas\u0027s November 3 gubernatorial upset—electing Gina Hinojosa, who backed a data-center moratorium—sparked KeyBanc\u0027s November 4 downgrade and left the technical chart firmly bearish.",
+               "technical":  "Vistra\u0027s technical posture remains bearish despite the November 23 relief bounce of 7.48% to $123.87. The trend is clearly downward: price sits below all three Exponential Moving Averages (EMAs—smoothed trend averages weighted toward recent prices), which are stacked in bearish order with EMA 50 at $137.68, EMA 100 at $143.12, and EMA 200 at $149.58—creating layered overhead resistance. Momentum confirms weakness. MACD 12/26/9 (a trend-momentum gauge comparing short and long moving averages) stays negative at -5.53 below its -4.88 signal line, keeping the histogram negative at -0.66. RSI 14 (a 0–100 momentum gauge where under 30 is oversold) recovered to 42.78, out of oversold territory but still below the neutral 50 mark. Within Bollinger Bands 20/2 (a volatility envelope around the 20-day average), price holds in the lower half between the $113.20 lower band and $130.66 middle band, sitting in the bottom 18% of its $110.89–$182.56 52-week range. Crucially, November 23 volume was 5.66 million shares—15% below the 6.67 million 20-day average—showing limited institutional confirmation. Key support sits at $113.20 and $110.89; reclaiming $130.66 and $137.68 on stronger volume is needed to shift the trend."
            },
     "th":  {
-               "headline":  "ผลงาน Q3 และไกด์ปี 2027 แข็งแรง แต่ยังสู้ความเสี่ยงการเมืองเท็กซัสไม่ได้ ราคาใกล้จุดต่ำสุด 52 สัปดาห์",
-               "summary":  "ผลประกอบการ Q3 ของ Vistra ออกมาดี Adjusted EBITDA ทำสถิติใหม่ที่ $2.38B (ปีก่อน $1.58B) และวันที่ 6 พ.ย. 2026 บริษัทให้ไกด์ปี 2027 ไว้ที่ $7.7–8.5B แต่หุ้นกลับลง วันที่ 3 พ.ย. Gina Hinojosa ชนะเลือกตั้งผู้ว่าฯ เท็กซัสด้วยนโยบายพักการสร้างดาต้าเซ็นเตอร์ใหม่ วันถัดมา KeyBanc ลดอันดับหุ้น ราคาร่วง 13.8% จากนั้นโดนแรงขายหุ้น AI อีกระลอก ปิดวันที่ 20 พ.ย. ที่ $115.25 ลดลง 7.17% ในวันเดียว ราคาเหนือจุดต่ำสุด 52 สัปดาห์เพียงราว 4% และอยู่ใต้ EMA ทั้งสามเส้น ภาพกำไรดีขึ้นจริง แต่ความเสี่ยงทางการเมืองต่อดีมานด์ดาต้าเซ็นเตอร์ในเท็กซัสเป็นเรื่องใหม่",
-               "pros":  [
-                            "Adjusted EBITDA ไตรมาส 3 ทำสถิติ $2.38B โตกว่า 50% และขยับกึ่งกลางไกด์ปี 2026 ขึ้นเป็น $7.1–7.5B",
-                            "ไฟฟ้าที่คาดว่าจะผลิตในปี 2027 ทำสัญญาล็อกราคาไว้แล้วราว 98% กรอบ EBITDA ใหม่ $7.7–8.5B จึงค่อนข้างแน่นอน",
-                            "บอร์ดเพิ่มวงเงินซื้อหุ้นคืนอีก $1.5B เหลือใช้ราว $2.5B ภายในสิ้นปี 2028 ขณะที่มีหุ้นอยู่ราว 339 ล้านหุ้น",
-                            "ดีล Cogentrix ปิดในเดือน ต.ค. ได้โรงไฟฟ้าก๊าซเพิ่มราว 5,500 MW และมีเพียง ~11% อยู่ในเท็กซัส ช่วยลดการพึ่งพา ERCOT",
-                            "P/E ล่วงหน้าราว 13–14 เท่า ต่ำกว่าค่าเฉลี่ย 5 ปีที่ราว 15 เท่า"
-                        ],
+               "caution":  "การเด้งแรงวันที่ 23 พ.ย. ด้วยวอลุ่มต่ำกว่าค่าเฉลี่ยยังดูเหมือนการรีบาวด์ระยะสั้นมากกว่าการกลับตัวเต็มรูปแบบ โดยมีแนวต้านซ้อนทับตั้งแต่ $130.66 ถึง $149.58 ด้านปัจจัยพื้นฐาน ความเสี่ยงนโยบายในเท็กซัสยังไม่จบ เพราะว่าที่ผู้ว่าฯ Gina Hinojosa เตรียมคุมเข้มศูนย์ข้อมูล ซึ่งรายงานผลกระทบของ ERCOT วันที่ 10 ธ.ค. และการประชุมสภาเท็กซัสปี 2027 อาจชะลอสัญญาไฟใหม่และกดดันราคาไฟปี 2028 ที่บริษัทเฮดจ์ไว้เพียง 78% อีกทั้งภาระหนี้ยังเพิ่มขึ้นหลังปิดดีล Cogentrix มูลค่า $4.0 พันล้าน",
                "cons":  [
-                            "ว่าที่ผู้ว่าฯ เท็กซัส Hinojosa ต้องการขยายการพักสร้างดาต้าเซ็นเตอร์ใหม่ ซึ่งกระทบตลาดใหญ่ที่สุดของ Vistra โดยตรง",
-                            "ราคาไฟฟ้าขายส่งในเท็กซัสปี 2026 เฉลี่ยเพียง ~$30/MWh และไฟฟ้าปี 2028 ล็อกราคาไว้แค่ ~78%",
-                            "กำลังผลิต 1,200 MW ที่โรงไฟฟ้านิวเคลียร์ Comanche Peak ยังไม่มีลูกค้าดาต้าเซ็นเตอร์ระยะยาว",
-                            "Q-Generation Holdings จดทะเบียนขายหุ้น VST ได้สูงสุด 5 ล้านหุ้น และช่วงห้ามขายสิ้นสุด 30 ม.ค. 2027",
-                            "ราคาอยู่ใต้ EMA 50/100/200 และวันที่ราคาลง 7.17% (20 พ.ย.) มีวอลุ่มสูงกว่าค่าเฉลี่ย 26%"
+                            "การที่ Gina Hinojosa ชนะเลือกตั้งผู้ว่าฯ เท็กซัส (3 พ.ย.) พร้อมนโยบายชะลอศูนย์ข้อมูล สร้างความเสี่ยงต่อตลาด ERCOT จน KeyBanc หั่นเรตติ้งเป็น Sector Weight (4 พ.ย.)",
+                            "ภาพเทคนิคยังเป็นขาลง ราคา $123.87 ต่ำกว่า EMA 50/100/200 และแรงเด้งวันที่ 23 พ.ย. มีวอลุ่มต่ำกว่าค่าเฉลี่ย 20 วันถึง 15%",
+                            "ราคาไฟล่วงหน้าใน ERCOT อ่อนตัวลงจากช่วงพักใบอนุญาตศูนย์ข้อมูล ขณะที่สัดส่วนการเฮดจ์ปี 2028 ลดลงเหลือ 78%",
+                            "ดีล Cogentrix เพิ่มหนี้สินที่รับโอนมาราว $1.5 พันล้านควบคู่การจ่ายเงินสด $2.3 พันล้าน เพิ่มภาระการผสานธุรกิจและงบดุล"
                         ],
-               "opportunityCheck":  "คะแนนด้านสัดส่วนรายได้จาก AI การเติบโตของตลาด และสถานะในตลาด ดูสมเหตุสมผล Vistra ขายไฟให้ไฮเปอร์สเกลเลอร์จริง (Meta, AWS และโซลาร์ของ Microsoft) แต่รายได้ส่วนใหญ่ยังมาจากการขายไฟขายส่งและค้าปลีกทั่วไป คะแนนที่ควรปรับลงคือด้านคอขวดและอำนาจตั้งราคา แม้ไฟฟ้าจะขาดแคลนในทางทฤษฎี แต่ราคา ERCOT ที่ราว $30/MWh นโยบายพักดาต้าเซ็นเตอร์ในเท็กซัส และการที่หน่วยงานกำกับฯ ตั้งคำถามว่าใครควรจ่ายค่าไฟให้ดาต้าเซ็นเตอร์ ล้วนจำกัดการขึ้นราคา ส่วนดีล Comanche Peak ที่ยังไม่ได้เซ็นยังทำให้คะแนนด้านโอกาสต่อยอดสมเหตุสมผล",
-               "technical":  "แนวโน้ม: VST ปิดวันที่ 20 พ.ย. 2026 ที่ $115.25 ต่ำกว่า EMA 50 ($138.25), EMA 100 ($143.50) และ EMA 200 ($149.86) EMA คือเส้นค่าเฉลี่ยราคาแบบถ่วงน้ำหนัก เมื่อเส้นระยะสั้นอยู่ใต้เส้นระยะยาวเรียงกันแบบนี้ แสดงว่าหุ้นอยู่ในขาลงชัดเจน โมเมนตัม: MACD (ตัววัดแรงส่งของแนวโน้มที่คำนวณจาก EMA สองเส้น) อยู่ที่ −5.64 ต่ำกว่าเส้นสัญญาณ −4.71 และฮิสโตแกรมติดลบ −0.93 แปลว่าแรงขายยังเพิ่มขึ้น ไม่ได้อ่อนลง RSI 14 (มาตรวัดแรงส่ง 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 34.44 อ่อนแอและใกล้โซน oversold แต่ยังไม่ถึง ตำแหน่งราคา: ราคาอยู่เหนือขอบล่าง Bollinger Band ที่ $113.75 เล็กน้อย กรอบนี้ห่างจากค่าเฉลี่ย 20 วัน ($131.55) ราว 2 ส่วนเบี่ยงเบนมาตรฐาน ราคาสูงกว่าจุดต่ำสุด 52 สัปดาห์ ($110.89) แค่ราว 4% และห่างจากจุดสูงสุด $189.29 มาก วอลุ่ม: วันที่ราคาลง 7.17% มีการซื้อขาย 8.33 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (6.60 ล้าน) ราว 26% และปิดใกล้จุดต่ำสุดของวันที่ $114.85 แสดงว่าฝั่งขายคุมตลาด แนวรับอยู่ที่ $110.89–113.75 แนวต้านคือเส้นกลาง $131.55 และ EMA 50 แถว $138",
-               "fundamental":  "Vistra ขายไฟฟ้ายุค AI จากโรงไฟฟ้าก๊าซและนิวเคลียร์ขนาดใหญ่ บริษัทมีสัญญาขายไฟกับ Meta และ AWS ซึ่งช่วยจ่ายค่าเพิ่มกำลังผลิตโรงนิวเคลียร์ โรงโซลาร์ Pulaski ขนาด 405 MW ที่ขายไฟให้ Microsoft เริ่มเดินเครื่องแล้ว และใน Q3 ยังเซ็นสัญญา 20 ปี ขนาด 207 MW กับ New Era Energy and Digital ที่โรงไฟฟ้าก๊าซ Odessa ในเท็กซัส กำไรสุทธิ Q3 2026 อยู่ที่ $1.14B ซึ่งรวมกำไรทางบัญชีจากสัญญาป้องกันความเสี่ยงที่ยังไม่เกิดขึ้นจริง $559M Adjusted EBITDA เพิ่มเป็น $2.38B ในเดือน ต.ค. กระทรวงพลังงานสหรัฐฯ (DOE) ให้คำมั่นเงินกู้แบบมีเงื่อนไขสูงสุด $4.2B สำหรับอัปเกรดโรงนิวเคลียร์ในเพนซิลเวเนียและโอไฮโอ จุดอ่อนคือเท็กซัส ซึ่งเป็นราว 40% ของกำลังผลิต ทั้งราคาไฟต่ำและนโยบายดาต้าเซ็นเตอร์ไม่แน่นอน อีกจุดคือปี 2028 ที่ล็อกราคาไว้แค่ 78% สภาพคล่องหลังรวมดีล Cogentrix และการไถ่ถอนหุ้นบุริมสิทธิอยู่ที่ราว $5.4B",
+               "fundamental":  "Vistra ยืนอยู่ในจุดคอขวดด้านพลังงานของห่วงโซ่โครงสร้างพื้นฐาน AI ด้วยพอร์ตโรงไฟฟ้านิวเคลียร์และก๊าซธรรมชาติที่สั่งเดินเครื่องได้ทันที ควบคู่ธุรกิจขายไฟปลีกในตลาดหลักอย่าง PJM และ ERCOT งบ Q3 2026 วันที่ 6 พ.ย. ตอกย้ำศักยภาพทำกำไรชัดเจน โดย Ongoing Operations Adjusted EBITDA พุ่งกว่า 50% YoY สู่ $2,378 ล้าน บนรายได้ $6.35 พันล้าน และกำไรสุทธิ GAAP $1,140 ล้าน ผู้บริหารปรับเพิ่มค่ากลาง EBITDA ปี 2026 เป็น $7.1–$7.5 พันล้าน และเปิดเป้าปี 2027 ที่ $7.7–$8.5 พันล้าน (กระแสเงินสดอิสระก่อนงบเติบโต $4.3–$5.1 พันล้าน) โดยมีเกราะเฮดจ์ปี 2027 สูงถึง 98% และกำลังผลิตใหม่ 5,500 MW จากดีล Cogentrix (30 ต.ค.) ส่วนดีมานด์ AI ระยะยาวมี PPA กว่า 4 GW นำโดยสัญญา Meta 2,609 MW ใน PJM และเงินกู้ DOE $4.2 พันล้าน (5 ต.ค.) ช่วยหนุน แม้ความเสี่ยงการเมืองเท็กซัสทำให้ต้องเฝ้าติดตามคูเมืองใน ERCOT อย่างใกล้ชิด",
+               "headline":  "งบ Q3 แกร่งสวนกระแสการเมืองเท็กซัส หุ้นเด้งแรงแต่เทคนิคยังเป็นขาลง",
                "news":  [
-                            "3–5 พ.ย. 2026: Gina Hinojosa ชนะเลือกตั้งผู้ว่าฯ เท็กซัสด้วยนโยบายที่รวมการพักสร้างดาต้าเซ็นเตอร์ใหม่ วันที่ 4 พ.ย. KeyBanc ลดอันดับ VST จาก Overweight เป็น Sector Weight หุ้นร่วงราว 13.8% และปิดต่ำสุดที่ $112.89 ในวันที่ 5 พ.ย.",
-                            "6 พ.ย. 2026: Adjusted EBITDA ไตรมาส 3 ทำสถิติ $2,378M (ปีก่อน $1,581M) บริษัทแคบกรอบไกด์ปี 2026 เป็น $7.1–7.5B และให้ไกด์ปี 2027 ที่ $7.7–8.5B หุ้นเด้งราว 10.6% ไปที่ $124.80",
-                            "6 พ.ย. 2026: บอร์ดเพิ่มวงเงินซื้อหุ้นคืน $1.5B เหลือใช้ราว $2.5B ภายในสิ้นปี 2028 และยืนยันว่าดีลซื้อ Cogentrix มูลค่าราว $2.2B (โรงไฟฟ้าก๊าซราว 5,500 MW) ปิดแล้วในเดือน ต.ค.",
-                            "9 พ.ย. 2026: Vistra ยื่นหนังสือชี้ชวนให้ Q-Generation Holdings ผู้ขายกิจการให้ Vistra ขายต่อหุ้นได้สูงสุด 5 ล้านหุ้น บริษัทไม่ได้รับเงิน และหุ้นถูกห้ามขายถึง 30 ม.ค. 2027",
-                            "17 พ.ย. 2026: BMO ปรับราคาเป้าหมายขึ้นเป็น $196 จาก $188 หลังเพิ่งลดไปเมื่อ 5 พ.ย. ส่วน Bernstein ปรับเป็น $182 จาก $181 ทั้งสองยังให้ Outperform",
-                            "19–20 พ.ย. 2026: VST ลง 6.27% เหลือ $120.27 แล้วลงต่อ 7.17% ปิดที่ $115.25 ท่ามกลางแรงขายหุ้นกลุ่ม AI ทั้งตลาด ไม่พบข่าวเฉพาะของบริษัทที่เป็นสาเหตุในสองวันนี้"
+                            "30 ต.ค. 2026: Vistra ปิดดีลเข้าซื้อ Cogentrix Energy มูลค่าสุทธิ $4.0 พันล้าน เพิ่มโรงไฟฟ้าก๊าซธรรมชาติ 10 แห่ง (~5,500 MW) ดันกำลังผลิตรวมใกล้แตะ 50 GW",
+                            "3–4 พ.ย. 2026: หลัง Gina Hinojosa จากพรรคเดโมแครตพลิกล็อกชนะเลือกตั้งผู้ว่าฯ เท็กซัสพร้อมนโยบายชะลอศูนย์ข้อมูล KeyBanc ปรับลดคำแนะนำ VST จาก Overweight เป็น Sector Weight และถอดราคาเป้าหมายออก",
+                            "6 พ.ย. 2026: Vistra รายงานงบ Q3 2026 ด้วย Ongoing Operations Adjusted EBITDA $2,378 ล้าน (+50% YoY) ขยับค่ากลางเป้าปี 2026 เป็น $7.1–$7.5 พันล้าน เปิดเป้าปี 2027 ที่ $7.7–$8.5 พันล้าน และเพิ่มวงเงินซื้อหุ้นคืนอีก $1.5 พันล้าน",
+                            "9–17 พ.ย. 2026: นักวิเคราะห์ปรับมุมมองคละกันหลังงบออก โดย Scotiabank หั่นเป้าเหลือ $169 (9 พ.ย.) ขณะที่ BMO Capital ปรับขึ้นจาก $188 เป็น $196 และ Bernstein ขยับเป็น $182 (17 พ.ย.)",
+                            "19 พ.ย. 2026: หน่วยงานสิ่งแวดล้อมเท็กซัส (TCEQ) ยกเลิกการพักพิจารณานาน 2 เดือนและกลับมาตรวจใบอนุญาตศูนย์ข้อมูลอีกครั้งก่อนรายงานผลกระทบของ ERCOT วันที่ 10 ธ.ค. ช่วยคลายความกังวลระยะสั้น",
+                            "23 พ.ย. 2026: หุ้น VST รีบาวด์ +7.48% มาปิดที่ $123.87 หลังร่วงหนักหลายสัปดาห์ แต่ปริมาณซื้อขาย 5.66 ล้านหุ้นยังต่ำกว่าค่าเฉลี่ย 20 วัน"
                         ],
-               "caution":  "ความเสี่ยงต่อกำไรของ Vistra ตอนนี้มาจากการเมืองมากกว่าการดำเนินงาน ผู้ว่าฯ เท็กซัสคนใหม่ที่สนับสนุนการพักดาต้าเซ็นเตอร์อาจทำให้สัญญากับลูกค้าใช้ไฟรายใหญ่ ซึ่งเป็นเหตุผลที่หุ้นพุ่งในปี 2025 เดินช้าลง ราคา ERCOT ที่ต่ำกระทบไฟฟ้าปี 2028 ราว 22% ที่ยังไม่ล็อกราคา หลัง 30 ม.ค. 2027 อาจมีหุ้นถูกขายออกมาสูงสุด 5 ล้านหุ้น กราฟเป็นขาลงเต็มรูปแบบ MACD ยังลง และมีแรงขายพร้อมวอลุ่มสูงกว่าค่าเฉลี่ย ถ้าราคาหลุด $110.89 จะไม่มีแนวรับในช่วงหลังให้อ้างอิง",
-               "opportunity":  "ธุรกิจทำเงินได้มากขึ้นแม้ราคาหุ้นจะลง ไกด์ EBITDA เพิ่มจาก $7.1–7.5B ในปี 2026 เป็น $7.7–8.5B ในปี 2027 และปี 2027 ล็อกราคาไว้แล้ว ~98% การซื้อหุ้นคืนต่อเนื่องทำให้จำนวนหุ้นลดลง ผู้บริหารคาดว่ากระแสเงินสดอิสระก่อนลงทุนเพื่อการเติบโตต่อหุ้นจะโตราว 70% ระหว่างปี 2027–2030 แม้ราคาไฟจะไม่ฟื้น หากได้ลูกค้าสำหรับ 1,200 MW ที่ Comanche Peak หรือได้ดีลเพิ่มกำลังผลิตกับไฮเปอร์สเกลเลอร์นอกเท็กซัส จะช่วยลดความเสี่ยงเท็กซัส ตอนนี้ RSI ราว 34 และราคาอยู่ที่ขอบล่าง Bollinger Band แสดงว่าหุ้นถูกขายลงมาค่อนข้างแรงแล้ว",
+               "opportunity":  "ช่องว่างระหว่างราคาหุ้นที่ปรับฐานลงกว่า 32% จากจุดสูงสุด $182.56 กับกระแสเงินสดที่ขยายตัวต่อเนื่อง ถือเป็นจุดน่าติดตามหากโครงสร้างเทคนิคเริ่มนิ่ง ด้วยสัดส่วนการเฮดจ์ปี 2027 สูงถึง 98% กระแสเงินสดอิสระก่อนงบเติบโตที่คาด $4.3–$5.1 พันล้าน และวงเงินซื้อหุ้นคืนใหม่ $1.5 พันล้าน กำไรระยะใกล้จึงได้รับผลกระทบจำกัดจากข่าวการเมืองเท็กซัส ขณะเดียวกันพอร์ตในตลาด PJM ที่มีสัญญาไฟนิวเคลียร์กับ Meta 2,609 MW และเงินกู้ DOE $4.2 พันล้านยังเป็นฐานเติบโตพลังงาน AI ระยะยาวนอกเท็กซัส",
+               "opportunityCheck":  "คะแนนโอกาส AI บนหน้าเว็บโดยรวมถือว่าสมเหตุสมผล แต่ควรปรับสองหมวดตามข้อมูลล่าสุด หมวดตำแหน่งทางการตลาด (position) ดูต่ำไปเล็กน้อยและควรขยับขึ้น เพราะการปิดดีลโรงไฟฟ้าก๊าซ Cogentrix 5,500 MW เมื่อ 30 ต.ค. สัญญา PPA กว่า 4 GW รวมถึงดีลนิวเคลียร์กับ Meta ใน PJM และเงินกู้ DOE $4.2 พันล้านช่วยตอกย้ำความเป็นผู้นำอย่างชัดเจน ตรงกันข้าม หมวดคอขวดและอำนาจตั้งราคา (bottleneck \u0026 pricing power) ควรลดลงเล็กน้อย เนื่องจากผลเลือกตั้งผู้ว่าฯ เท็กซัสวันที่ 3 พ.ย. สะท้อนว่าแรงต้านทางการเมืองสามารถชะลอการอนุมัติศูนย์ข้อมูลและจำกัดอำนาจตั้งราคาไฟใน ERCOT ได้",
+               "pros":  [
+                            "งบ Q3 2026 (6 พ.ย.) ทำ Ongoing Operations Adjusted EBITDA $2.38 พันล้าน โตกว่า 50% YoY พร้อมตั้งเป้าปี 2027 สูงถึง $7.7–$8.5 พันล้าน",
+                            "ปิดดีลซื้อ Cogentrix มูลค่า $4.0 พันล้าน (30 ต.ค.) เพิ่มโรงไฟฟ้าก๊าซสมัยใหม่ 5,500 MW ดันกำลังผลิตใกล้ 50 GW",
+                            "ทำประกันความเสี่ยงราคาไฟปี 2027 แล้วราว 98% และมีสัญญาขายไฟ (PPA) กว่า 4 GW นำโดยดีลนิวเคลียร์กับ Meta 2,609 MW ในตลาด PJM",
+                            "บอร์ดอนุมัติวงเงินซื้อหุ้นคืนเพิ่ม $1.5 พันล้านถึงปี 2028 (6 พ.ย.) และได้รับอนุมัติเงินกู้แบบมีเงื่อนไขจาก DOE $4.2 พันล้านเพื่อขยายกำลังไฟนิวเคลียร์ (5 ต.ค.)"
+                        ],
                "risks":  [
-                             "รัฐบาลเท็กซัสชุดใหม่ขยายการพักสร้างดาต้าเซ็นเตอร์",
-                             "ราคาไฟขายส่ง ERCOT ยังอยู่แถว $30/MWh ไปถึงปี 2028",
-                             "หน่วยงานกำกับฯ ขัดขวางหรือกดราคาดีลขายไฟระหว่างโรงไฟฟ้ากับดาต้าเซ็นเตอร์",
-                             "หุ้นสูงสุด 5 ล้านหุ้นอาจถูกขายหลังพ้นช่วงห้ามขายวันที่ 30 ม.ค. 2027",
-                             "แรงขายหุ้นที่ผูกกับการลงทุน AI ลากผู้ผลิตไฟฟ้าอิสระทั้งกลุ่มลง"
-                         ]
+                             "นโยบายรัฐเท็กซัส: การผลักดันมาตรการชะลอศูนย์ข้อมูลหรือคุมเข้มการใช้ไฟและน้ำของว่าที่ผู้ว่าฯ Hinojosa อาจจำกัดการเติบโตของดีมานด์ใน ERCOT หลังปี 2027",
+                             "ความผันผวนราคาไฟ ERCOT: ราคาไฟล่วงหน้าในเท็กซัสเริ่มอ่อนตัว ขณะที่สัดส่วนการทำเฮดจ์ของ Vistra ลดจาก 98% ในปี 2027 เหลือ 78% ในปี 2028",
+                             "กฎเกณฑ์ Co-location ใน PJM: ข้อพิพาทเรื่องอัตราค่าส่งไฟระหว่าง FERC กับ PJM สำหรับศูนย์ข้อมูลที่ต่อไฟตรงจากโรงไฟฟ้า อาจทำให้การปิดดีลใหม่ล่าช้า",
+                             "ภาระหนี้และการผสานกิจการ: การปิดดีล Cogentrix มูลค่า $4.0 พันล้านเพิ่มหนี้รับโอน $1.5 พันล้านและใช้เงินสด $2.3 พันล้าน เพิ่มแรงกดดันด้านการบริหารต้นทุน"
+                         ],
+               "summary":  "หุ้น VST ดีดตัว +7.48% ปิดที่ $123.87 เมื่อวันที่ 23 พ.ย. 2026 แต่ยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($182.56) ถึง 32.1% ด้านพื้นฐานยังแข็งแกร่งมาก โดยบริษัทปิดดีลซื้อโรงไฟฟ้าก๊าซ Cogentrix มูลค่า $4.0 พันล้านเมื่อ 30 ต.ค. และรายงานงบ Q3 2026 เมื่อ 6 พ.ย. ด้วย Ongoing Operations Adjusted EBITDA $2.38 พันล้าน โตกว่า 50% YoY พร้อมตั้งเป้าปี 2027 ที่ $7.7–$8.5 พันล้าน ทว่าชัยชนะพลิกล็อกของ Gina Hinojosa ในศึกเลือกตั้งผู้ว่าฯ เท็กซัสเมื่อ 3 พ.ย. ซึ่งชูนโยบายชะลอศูนย์ข้อมูล ทำให้ KeyBanc ปรับลดคำแนะนำเมื่อ 4 พ.ย. และกดภาพเทคนิคให้อยู่ในฝั่งขาลง",
+               "technical":  "ภาพรวมเทคนิคของ VST ยังอยู่ในโทนขาลง แม้ราคาจะรีบาวด์แรง +7.48% สู่ $123.87 เมื่อวันที่ 23 พ.ย. 2026 แนวโน้มหลักยังกดตัวลงชัดเจน เพราะราคาอยู่ต่ำกว่าเส้น EMA (ค่าเฉลี่ยเคลื่อนที่ที่ให้น้ำหนักราคาล่าสุดเพื่อดูแนวโน้ม) ทั้งสามเส้นซึ่งเรียงตัวแบบขาลง ได้แก่ EMA 50 ($137.68), EMA 100 ($143.12) และ EMA 200 ($149.58) กลายเป็นแนวต้านซ้อนทับด้านบน ด้านโมเมนตัมยังอ่อนแรง โดย MACD 12/26/9 (เครื่องมือวัดแรงส่งแนวโน้มจากส่วนต่างค่าเฉลี่ยสั้น-ยาว) ติดลบที่ -5.53 ต่ำกว่าเส้น Signal (-4.88) ทำให้ Histogram ติดลบ -0.66 ขณะที่ RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 หากต่ำกว่า 30 คือขายมากเกินไป) ฟื้นตัวมาที่ 42.78 พ้นเขตขายมากเกินไปแต่ยังต่ำกว่าระดับกลาง 50 ด้านความผันผวนในกรอบ Bollinger Bands 20/2 (แถบกรอบราคาตามค่าเฉลี่ย 20 วัน) ราคาอยู่ครึ่งล่างระหว่างขอบล่าง $113.20 กับเส้นกลาง $130.66 และอยู่โซนล่าง 18% ของกรอบ 52 สัปดาห์ ($110.89–$182.56) ที่สำคัญ วอลุ่มวันที่ 23 พ.ย. อยู่ที่ 5.66 ล้านหุ้น ต่ำกว่าค่าเฉลี่ย 20 วันที่ 6.67 ล้านหุ้นราว 15% สะท้อนว่าแรงซื้อสถาบันยังไม่ยืนยัน แนวรับหลักอยู่ที่ $113.20 และ $110.89 ส่วนการกลับตัวต้องลุ้นยืนเหนือ $130.66 และ $137.68 พร้อมวอลุ่มที่หนาแน่นขึ้น"
            },
     "sources":  [
                     {
-                        "title":  "Vistra Reports Third Quarter 2026 Results (Form 8-K, Exhibit 99.1)",
-                        "publisher":  "SEC EDGAR / Vistra Corp.",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001692819/000169281926000023/vistra-20260930xearningsre.htm",
-                        "date":  "2026-11-06"
+                        "date":  "2026-11-06",
+                        "publisher":  "PR Newswire",
+                        "title":  "Vistra Reports Third Quarter 2026 Results",
+                        "url":  "https://www.prnewswire.com/news-releases/vistra-reports-third-quarter-2026-results-302986423.html"
                     },
                     {
-                        "title":  "Vistra Corp. Form 424B7 resale prospectus supplement (Q-Generation Holdings)",
-                        "publisher":  "SEC EDGAR / Vistra Corp.",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001692819/000114036126042789/ny20084968x1_424b7.htm",
-                        "date":  "2026-11-09"
+                        "date":  "2026-10-30",
+                        "publisher":  "PR Newswire",
+                        "title":  "Vistra Completes Acquisition of Cogentrix Energy, Expanding Diverse Generation Fleet",
+                        "url":  "https://www.prnewswire.com/news-releases/vistra-completes-acquisition-of-cogentrix-energy-expanding-diverse-generation-fleet-302925088.html"
                     },
                     {
-                        "title":  "Vistra Is Still Down 17% This Year: Did Earnings Just Mark the Bottom?",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/markets/stocks/articles/vistra-still-down-17-did-130040456.html",
-                        "date":  "2026-11-12"
+                        "date":  "2026-11-04",
+                        "publisher":  "Investing.com",
+                        "title":  "KeyBanc downgrades Vistra Energy stock rating on Texas election",
+                        "url":  "https://www.investing.com/news/analyst-ratings/keybanc-downgrades-vistra-energy-stock-rating-on-texas-election-93CH-3129599"
                     },
                     {
-                        "title":  "Vistra Corp (VST) Shares Plunge 13.5% Amid Regulatory Concerns Post-Texas Midterms",
-                        "publisher":  "GuruFocus",
-                        "url":  "https://www.gurufocus.com/news/9170427/vistra-corp-vst-shares-plunge-135-amid-regulatory-concerns-posttexas-midterms",
-                        "date":  "2026-11-04"
+                        "date":  "2026-11-19",
+                        "publisher":  "Insurance Journal",
+                        "title":  "Texas Resumes Data Center Environmental Permits After Pause",
+                        "url":  "https://www.insurancejournal.com/news/southcentral/2026/11/19/803875.htm"
                     },
                     {
-                        "title":  "Only 11% of the Power Plants Vistra Just Bought Are in Texas. Here\u0027s Why That Matters After the Election.",
-                        "publisher":  "The Motley Fool",
-                        "url":  "https://www.fool.com/investing/2026/11/17/only-11-of-the-power-plants-vistra-just-bought-are/",
-                        "date":  "2026-11-17"
+                        "date":  "2026-10-05",
+                        "publisher":  "U.S. Department of Energy",
+                        "title":  "Energy Department Announces $4.2 Billion Investment to Boost Nuclear Power and Help Lower Energy Costs",
+                        "url":  "https://www.energy.gov/articles/energy-department-announces-42-billion-investment-boost-nuclear-power-and-help-lower-energy"
                     },
                     {
-                        "title":  "1 Compelling Reason to Buy Vistra Stock Before November Ends",
-                        "publisher":  "The Motley Fool",
-                        "url":  "https://www.fool.com/investing/2026/11/21/1-compelling-reason-to-buy-vistra-stock-before-november-ends/",
-                        "date":  "2026-11-21"
-                    },
-                    {
-                        "title":  "Vistra Keeps Sliding: Why BMO Sees 51% Upside",
-                        "publisher":  "TIKR",
-                        "url":  "https://www.tikr.com/blog/vistra-keeps-sliding-why-bmo-sees-51-upside",
-                        "date":  "2026-11-17"
-                    },
-                    {
-                        "title":  "Vistra Shares Fall 6.27% to $120.27 as Moving Averages Decline",
-                        "publisher":  "TokenPost",
-                        "url":  "https://www.tokenpost.com/news/investing/61932",
-                        "date":  "2026-11-20"
+                        "date":  "2026-10-06",
+                        "publisher":  "Utility Dive",
+                        "title":  "DOE intends to loan Vistra $4.2B for nuclear fleet improvements",
+                        "url":  "https://www.utilitydive.com/news/doe-intends-to-loan-vistra-42b-nuclear-fleet-improvements/762589/"
                     }
                 ]
 }

@@ -2,46 +2,45 @@
     "ticker":  "OSS",
     "name":  "One Stop Systems",
     "symbol":  "NASDAQ:OSS",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:04:43Z",
-    "costUsd":  0.7012146,
+    "generatedAt":  "2026-11-24T04:29:49Z",
+    "costUsd":  null,
     "stance":  "bearish",
-    "thesis":  "watch",
+    "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:OSS",
                        "yahoo":  "OSS",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:02:08Z",
-                       "price":  4.01,
-                       "open":  4.23,
-                       "high":  4.27,
-                       "low":  3.88,
-                       "volume":  1606800,
-                       "avgVolume20":  1597770,
-                       "changePct":  -7.82,
-                       "ema50":  6.61,
-                       "ema100":  8.47,
-                       "ema200":  9.28,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:25:20Z",
+                       "price":  4.32,
+                       "open":  4.44,
+                       "high":  4.63,
+                       "low":  4.24,
+                       "volume":  1620300,
+                       "avgVolume20":  1643555,
+                       "changePct":  7.73,
+                       "historyDays":  500,
+                       "ema50":  6.52,
+                       "ema100":  8.39,
+                       "ema200":  9.23,
                        "bb":  {
-                                  "upper":  6.38,
-                                  "middle":  4.89,
-                                  "lower":  3.39
+                                  "upper":  6.23,
+                                  "middle":  4.8,
+                                  "lower":  3.38
                               },
                        "macd":  {
-                                    "macd":  -0.73,
-                                    "signal":  -0.8,
-                                    "hist":  0.07
+                                    "macd":  -0.7,
+                                    "signal":  -0.78,
+                                    "hist":  0.08
                                 },
-                       "rsi14":  31.94,
+                       "rsi14":  37.24,
                        "high52w":  20.88,
                        "low52w":  3.88,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         19.02
-                                     ],
                                      [
                                          "2026-06-04",
                                          18.9
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          4.01
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         4.32
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          13.56,
                                           13.77,
                                           13.89,
                                           13.99,
@@ -639,106 +641,118 @@
                                           6.91,
                                           6.81,
                                           6.72,
-                                          6.61
+                                          6.61,
+                                          6.52
                                       ]
                    },
     "en":  {
-               "headline":  "Orders and growth hold up, but a $50M share-sale plan sinks OSS to 52-week low",
-               "technical":  "OSS closed at 4.01 USD on 2026-11-20, down 7.82% on the day. The session low of 3.88 is now the 52-week low. The trend is clearly down. Price sits far below the EMA 50 (6.61), EMA 100 (8.47) and EMA 200 (9.28). EMAs are moving averages that weight recent prices more heavily and track the short-, medium- and long-term trend. All three are stacked in bearish order (50 \u003c 100 \u003c 200). Momentum is weak but the decline is slowing. MACD (12/26/9, a trend-momentum gauge) is -0.73, slightly above its signal line at -0.80, so the histogram is a small +0.07. That means selling pressure is fading, which is not the same as a reversal. RSI 14 is a 0–100 momentum gauge where readings under 30 count as oversold. It stands at 31.94, just above that zone. Price is in the lower half of the Bollinger Bands (20-day, 2 standard deviations: 3.39–6.38, middle 4.89) but still above the lower band. Volume was 1.61M shares, in line with the 20-day average of 1.60M, so the drop was not a high-volume capitulation. Support sits at 3.88, then 3.39. Resistance sits at 4.89, then 6.38.",
-               "fundamental":  "OSS builds rugged GPU servers and PCIe expansion systems that put data-centre-class AI compute into aircraft, ships and ground vehicles. Its Q3 2026 results (reported 2026-10-28) showed strong demand. Continuing-operations revenue rose 35.9% to 12.6M USD, nine-month revenue rose 48.3% to 30.0M, and the year-to-date book-to-bill was 1.46 (orders divided by shipments). Full-year growth guidance went up to about 40% from 25–30%, which implies roughly 15M USD of Q4 revenue. The weak spots were profit quality and funding. Gross margin slipped to 42.6% from 45.6% and the GAAP net loss was 0.6M. Adjusted EBITDA was only 0.3M after a 0.5M bad-debt charge and 0.4M of legal fees. Nine-month operating cash burn was 12.4M, leaving 18.9M of cash and short-term investments. On the same day, OSS set up a 50M USD at-the-market (ATM) share-sale program.",
-               "news":  [
-                            "2026-10-26: OSS said its Gen5 4UP-MAX expansion system was qualified with an unnamed Tier 1 global enterprise computing platform provider. The system lets customers add up to eight AI accelerators to existing servers, though management called the opportunity early-stage.",
-                            "2026-10-28: Q3 revenue grew 35.9% to 12.6M USD and FY2026 growth guidance was raised to about 40%. The stock still fell about 7.5% that day on lower gross margin, a bad-debt charge from a bankrupt former customer, and legal costs.",
-                            "2026-10-28: OSS signed an equity distribution agreement with Piper Sandler to sell up to 50M USD of stock at market prices. The CFO said the company is not required to issue shares and that any money raised would fund organic investment and possible acquisitions.",
-                            "2026-11-05: According to price-data sites, shares fell about 15.9% to close at 3.92 USD on above-average volume, and I found no company release that explains the move. After the results, Roth Capital cut its price target to 15 from 18 USD and kept its Buy rating.",
-                            "2026-11-09: OSS won a 2.75M USD U.S. Army contract to develop a SOSA-aligned compute appliance for tactical ground vehicles, with working systems due in H2 2027. The stock rose about 17% that day.",
-                            "2026-11-12: OSS received its 10th order since May 2025 from a leading defense and intelligence contractor, with possible further production orders in 2027–2028.",
-                            "2026-11-20: The 7.82% drop to 4.01 USD came on average volume, and I found no company-specific news to explain it."
+               "caution":  "The sharpest near-term hazard is equity dilution: OSS\u0027s October 28 $50 million ATM facility equals nearly half its ~$108 million market cap, meaning active share issuance around USD 4.32 could cap rallies. Full-year 2026 operating cash flow is guided slightly negative after $12.4 million in nine-month cash burn, and Q4 product mix is expected to pressure gross margins. As a micro-cap reliant on lumpy defense appropriations and contract timing, OSS also faces sharp volatility if expected Q4 multi-million-dollar orders slip into 2027.",
+               "cons":  [
+                            "On October 28, OSS filed a $50 million at-the-market (ATM) equity offering with Piper Sandler—nearly half its ~$108 million market cap—creating heavy dilution overhang.",
+                            "Cash and short-term investments fell from $31.2 million at year-end 2025 to $18.9 million after $12.4 million in nine-month operating cash burn from a $6.25 million legal settlement and $7.8 million inventory build.",
+                            "Q3 gross margin contracted 300 bps YoY to 42.6% while GAAP continuing-operations net loss was $0.6 million, with management flagging further Q4 mix pressure.",
+                            "Covering analysts at Lake Street, Roth Capital, and Alliance Global Partners cut price targets from $18–$21 down to $15–$16 on October 28–29 despite keeping Buy ratings."
                         ],
-               "caution":  "The 50M USD ATM program is the biggest overhang. It is large next to 18.9M USD of cash, and selling shares near a 52-week low would dilute existing holders heavily. That supply can also cap rallies. Management expects lower Q4 gross margin because of the production mix and more customer-funded development work, and full-year adjusted EBITDA is guided at only 0.5–1.0M USD. Individual contracts are small (1–3M USD) and lumpy. About 5.6M USD of milestone collections slipped from Q3 into October. A bad-debt charge and a 6.25M USD legal settlement show how much damage single customers can do. Price remains below all three EMAs.",
-               "opportunity":  "Revenue is growing about 40% a year, and a 1.46 book-to-bill means orders are arriving faster than shipments. Management expects several multimillion-dollar orders to close in Q4. It also pointed to larger programs, not included in guidance, that could be worth 100M USD or more over 3–4 years if they move into funded production. The Army ground-vehicle development win and repeat orders from a defense-intelligence contractor support the niche rugged-compute moat. The Tier 1 qualification opens an enterprise sales channel. RSI near 30 and a MACD histogram that has turned positive suggest selling may be wearing out. A close back above 4.89 would be a first sign of repair.",
+               "fundamental":  "Following its December 2025 divestiture of German distributor Bressner for $22.4 million, OSS operates as a pure-play rugged edge-AI hardware specialist serving defense, aerospace, healthcare, and specialized data centers. Operationally, demand is accelerating: Q3 2026 continuing-operations revenue jumped 35.9% YoY to $12.6 million, nine-month bookings reached $43.6 million (1.46x book-to-bill), and management lifted FY 2026 revenue growth guidance to ~40% (~$45 million) with zero bank debt. Recent Tier 1 enterprise qualification of Gen5 4UP-MAX and repeat U.S. Army and GNSS defense awards validate the niche moat. However, scale remains tiny (~$45 million annual sales), Q3 gross margin fell to 42.6% from 45.6%, GAAP continuing-operations net loss was $0.6 million (adjusted EBITDA $0.3 million), and cash declined to $18.9 million from $31.2 million due to a $6.25 million legal settlement and $7.8 million inventory build—explaining why the October 28 $50 million ATM filing triggered heavy repricing.",
+               "headline":  "Strong Q3 Growth and Defense Wins Collide With $50M Dilution Overhang",
+               "news":  [
+                            "Oct 28, 2026: OSS reported Q3 2026 continuing-operations revenue of $12.6 million (+35.9% YoY) with 42.6% gross margin, a $0.6 million GAAP net loss ($0.02/share), and $0.3 million adjusted EBITDA, while raising FY 2026 revenue growth guidance from 25%–30% to ~40% (~$45 million) on a 1.46x YTD book-to-bill ratio.",
+                            "Oct 28, 2026: Concurrent with Q3 earnings, OSS filed a Form 424B5 prospectus supplement with the SEC to establish an at-the-market (ATM) equity offering of up to $50 million through Piper Sandler under its $100 million S-3 shelf, weighing heavily on the share price.",
+                            "Oct 26, 2026: OSS announced its flagship Gen5 4UP-MAX PCIe expansion system—supporting up to eight 675W AI accelerators—achieved qualification with a Tier 1 global enterprise computing platform provider, expanding its commercial data-center reach.",
+                            "Oct 28–29, 2026: Following Q3 results and the ATM filing, covering analysts at Lake Street ($21 to $15), Roth Capital ($18 to $15), and Alliance Global Partners ($18 to $16) lowered their price targets while maintaining Buy ratings.",
+                            "Nov 9, 2026: The U.S. Army awarded OSS a $2.75 million contract to develop a next-generation SOSA-aligned compute appliance for tactical ground vehicles, with initial deliveries slated for late 2027.",
+                            "Nov 12, 2026: OSS received a $1 million follow-on production order for Gen 5 PCIe 4U short-depth servers supporting a defense GNSS electronic-warfare simulation platform—its 10th order from this contractor since May 2025, bringing cumulative program orders to ~$6 million."
+                        ],
+               "opportunity":  "For long-term AI-infrastructure investors, OSS offers pure-play exposure to ruggedized AI at the edge—bringing data-center-class GPUs to military vehicles, aircraft, and constrained commercial sites. All ~40% guided FY 2026 revenue growth is backed by existing backlog, supported by a 1.46x book-to-bill ratio and 14 active multi-year programs. The October 26 Tier 1 enterprise qualification for Gen5 4UP-MAX could broaden higher-volume commercial data-center sales, while November\u0027s U.S. Army SOSA vehicle award and cumulative $6 million GNSS orders reinforce sticky defense platforms if management converts growth into positive free cash flow.",
+               "opportunityCheck":  "The page\u0027s cautious view of OSS\u0027s bottleneck and pricing power still looks right: Q3 gross margin slipped 300 bps YoY to 42.6% with further Q4 mix pressure, confirming OSS is a specialized rugged-systems integrator rather than a high-margin bottleneck. AI revenue exposure and market growth also fit well after the Bressner divestiture left a pure-play edge-AI core growing ~40%. However, I would nudge optionality modestly higher: the October 26 Tier 1 enterprise qualification for Gen5 4UP-MAX opens commercial data-center upgrades alongside defense, while the November 9 U.S. Army SOSA award expands multi-year tactical vehicle demand.",
+               "pros":  [
+                            "Q3 2026 revenue grew 35.9% YoY to $12.6 million, prompting management on October 28 to raise FY 2026 growth guidance from 25%–30% to ~40% (~$45 million), fully backed by backlog.",
+                            "Year-to-date bookings exceeded $43.6 million with a 1.46x book-to-bill ratio across 14 active multi-year defense and commercial programs.",
+                            "On October 26, OSS\u0027s flagship Gen5 4UP-MAX AI accelerator expansion system earned qualification with a Tier 1 global enterprise computing provider.",
+                            "Repeat defense traction continued in November with a $2.75 million U.S. Army tactical vehicle contract (Nov 9) and a 10th GNSS simulation order lifting program orders to ~$6 million (Nov 12)."
+                        ],
                "risks":  [
-                             "Shareholder dilution if OSS sells stock through the 50M USD ATM at depressed prices",
-                             "Lower gross margin in Q4 2026 and only break-even-level adjusted EBITDA",
-                             "Lumpy, small defense contracts. Development awards may not turn into production orders",
-                             "Customer concentration and credit risk (a customer bankruptcy and a 6.25M USD settlement in 2026)",
-                             "Defense budget timing delays that push orders and collections into later quarters",
-                             "High small-cap volatility: the stock is about 81% below its 52-week high of 20.88"
+                             "Substantial shareholder dilution risk from the October 28 $50 million ATM equity offering relative to OSS\u0027s ~$108 million market capitalization.",
+                             "Continued negative operating cash flow and declining liquidity (cash fell from $31.2 million to $18.9 million across 9M 2026) amid heavy GPU and component inventory commitments.",
+                             "Gross margin compression (42.6% in Q3 vs 45.6% YoY; FY 2026 guided 40%–42%) driven by lower-margin customer-funded development work and product-mix shifts.",
+                             "Micro-cap revenue lumpiness, high customer concentration, and U.S. defense budget or procurement delays that can push multi-million-dollar orders between quarters.",
+                             "Competitive pressure from larger defense prime contractors and commercial server OEMs expanding into ruggedized edge-AI hardware."
                          ],
-               "summary":  "OSS is in a firm downtrend. It closed at 4.01 USD, below all three EMAs and right at its 52-week low, with RSI near oversold and MACD only hinting that losses are slowing. The business news is mixed rather than broken. Revenue grew 36%, guidance was raised, book-to-bill is 1.46, and new Army and defense-contractor orders arrived. However, thin margins, cash burn and the 50M USD ATM program have shifted the market\u0027s focus to dilution. The niche rugged-AI moat looks intact. The things to watch are Q4 order closings, margins and how much of the ATM gets used."
+               "summary":  "One Stop Systems (OSS) delivered strong operational momentum in late October and November 2026—posting 35.9% Q3 revenue growth to $12.6 million, raising full-year 2026 revenue growth guidance to ~40%, and winning both a $2.75 million U.S. Army contract and a Tier 1 enterprise Gen5 4UP-MAX qualification. Yet the stock trades at USD 4.32, down 79.3% from its USD 20.88 52-week high. The sell-off reflects capital-structure pressure after OSS filed a $50 million at-the-market (ATM) equity offering on October 28 alongside $12.4 million in nine-month operating cash burn and tighter gross margins.",
+               "technical":  "As of November 23, 2026, OSS remains in a steep downtrend at USD 4.32, down 79.3% from its USD 20.88 52-week high and just 11.3% above its USD 3.88 52-week low. Price sits far below all three exponential moving averages (EMA — weighted trend averages) in full bearish order: EMA 50 at USD 6.52, EMA 100 at USD 8.39, and EMA 200 at USD 9.23. Inside Bollinger Bands (20/2 — a volatility envelope around the 20-day average), price holds in the lower half below the USD 4.80 midline; immediate support lies at USD 3.88 and the USD 3.38 lower band, with resistance at USD 4.80 and USD 6.23. Momentum signals slowing downside rather than a trend turn: MACD (12/26/9 — a momentum gauge) is deeply negative at -0.70 versus its -0.78 signal line, though a +0.08 histogram shows easing selling pressure, while RSI 14 (a 0–100 gauge; under 30 is oversold) sits weak at 37.24. November 23\u0027s 7.73% bounce faded from a USD 4.63 high on slightly below-average volume (1.62M vs 1.64M), lacking strong confirmation."
            },
     "th":  {
-               "headline":  "ยอดขายและคำสั่งซื้อยังโต แต่แผนขายหุ้น 50M ทุบ OSS ลงจุดต่ำสุด 52 สัปดาห์",
-               "technical":  "OSS ปิดที่ 4.01 USD เมื่อ 2026-11-20 ร่วง 7.82% ในวันเดียว และจุดต่ำสุดระหว่างวันที่ 3.88 กลายเป็นจุดต่ำสุดรอบ 52 สัปดาห์ แนวโน้มเป็นขาลงชัดเจน ราคาอยู่ต่ำกว่า EMA 50 (6.61), EMA 100 (8.47) และ EMA 200 (9.28) อยู่มาก EMA คือเส้นค่าเฉลี่ยเคลื่อนที่ที่ให้น้ำหนักราคาล่าสุดมากกว่า ใช้ดูแนวโน้มระยะสั้น กลาง และยาว ตอนนี้ทั้งสามเส้นเรียงตัวแบบขาลง (50 \u003c 100 \u003c 200) โมเมนตัมยังอ่อน แต่แรงลงเริ่มชะลอ MACD (12/26/9 ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ -0.73 สูงกว่าเส้น signal ที่ -0.80 เล็กน้อย ฮิสโตแกรมจึงเป็นบวก +0.07 แปลว่าแรงขายเบาลง แต่ยังไม่ใช่สัญญาณกลับตัว RSI 14 เป็นมาตรวัดโมเมนตัม 0–100 ถ้าต่ำกว่า 30 ถือว่า oversold ตอนนี้อยู่ที่ 31.94 เกือบถึงโซนนั้นแล้ว ราคาอยู่ครึ่งล่างของ Bollinger Bands (20 วัน, 2 ส่วนเบี่ยงเบนมาตรฐาน: 3.39–6.38 เส้นกลาง 4.89) แต่ยังไม่หลุดขอบล่าง วอลุ่ม 1.61 ล้านหุ้น ใกล้ค่าเฉลี่ย 20 วันที่ 1.60 ล้าน การร่วงครั้งนี้จึงไม่ใช่การเทขายแบบตื่นตระหนก แนวรับอยู่ที่ 3.88 และ 3.39 ส่วนแนวต้านอยู่ที่ 4.89 และ 6.38",
-               "fundamental":  "OSS ผลิตเซิร์ฟเวอร์ GPU แบบทนทาน (rugged) และระบบขยาย PCIe ที่ยกพลังประมวลผล AI ระดับดาต้าเซ็นเตอร์ไปไว้บนเครื่องบิน เรือ และยานรบภาคพื้น งบ Q3 2026 (ประกาศ 2026-10-28) สะท้อนดีมานด์ที่แข็งแรง รายได้จากธุรกิจต่อเนื่องโต 35.9% เป็น 12.6 ล้าน USD รายได้ 9 เดือนโต 48.3% เป็น 30.0 ล้าน และ book-to-bill (คำสั่งซื้อเทียบกับยอดส่งมอบ) สะสมทั้งปีอยู่ที่ 1.46 บริษัทปรับเป้าการเติบโตทั้งปีขึ้นเป็นราว 40% จากเดิม 25–30% เท่ากับคาดรายได้ Q4 ราว 15 ล้าน USD จุดอ่อนอยู่ที่คุณภาพกำไรและเงินทุน gross margin ลดลงเป็น 42.6% จาก 45.6% และขาดทุนสุทธิ GAAP 0.6 ล้าน adjusted EBITDA เหลือเพียง 0.3 ล้าน หลังตั้งหนี้สูญ 0.5 ล้านและจ่ายค่าทนาย 0.4 ล้าน เงินสดจากการดำเนินงาน 9 เดือนติดลบ 12.4 ล้าน เหลือเงินสดและเงินลงทุนระยะสั้น 18.9 ล้าน ในวันเดียวกัน บริษัทยังตั้งโครงการขายหุ้นแบบ at-the-market (ATM) สูงสุด 50 ล้าน USD",
-               "news":  [
-                            "2026-10-26: OSS ประกาศว่าระบบขยาย Gen5 4UP-MAX ผ่านการรับรองกับผู้ให้บริการแพลตฟอร์มคอมพิวเตอร์ระดับ Tier 1 รายใหญ่ระดับโลก (ไม่เปิดเผยชื่อ) ลูกค้าเพิ่มตัวเร่ง AI ได้สูงสุด 8 ตัวให้เซิร์ฟเวอร์เดิม แต่ผู้บริหารบอกว่ายังเป็นโอกาสระยะเริ่มต้น",
-                            "2026-10-28: รายได้ Q3 โต 35.9% เป็น 12.6 ล้าน USD และบริษัทปรับเป้าการเติบโตปี 2026 ขึ้นเป็นราว 40% แต่หุ้นก็ยังลงราว 7.5% ในวันนั้น เพราะ margin ลดลง ต้องตั้งหนี้สูญจากอดีตลูกค้าที่ล้มละลาย และมีค่าใช้จ่ายทางกฎหมาย",
-                            "2026-10-28: OSS ทำสัญญากับ Piper Sandler เพื่อขายหุ้นใหม่ที่ราคาตลาดได้สูงสุด 50 ล้าน USD CFO ระบุว่าบริษัทไม่จำเป็นต้องออกหุ้น และถ้าระดมทุนได้ก็จะใช้ลงทุนขยายธุรกิจและอาจใช้ซื้อกิจการ",
-                            "2026-11-05: ข้อมูลจากเว็บรวบรวมราคาระบุว่าหุ้นร่วงราว 15.9% ปิดที่ 3.92 USD ด้วยวอลุ่มสูงกว่าค่าเฉลี่ย และไม่พบประกาศของบริษัทที่อธิบายการร่วงครั้งนี้ หลังงบออก Roth Capital ลดราคาเป้าหมายจาก 18 เหลือ 15 USD แต่ยังคงคำแนะนำ Buy",
-                            "2026-11-09: OSS ได้สัญญา 2.75 ล้าน USD จากกองทัพบกสหรัฐฯ เพื่อพัฒนาคอมพิวเตอร์มาตรฐาน SOSA สำหรับยานรบภาคพื้น และจะส่งมอบระบบที่ใช้งานได้ในครึ่งหลังปี 2027 หุ้นพุ่งราว 17% ในวันนั้น",
-                            "2026-11-12: OSS ได้คำสั่งซื้อครั้งที่ 10 นับตั้งแต่พฤษภาคม 2025 จากผู้รับเหมาด้านกลาโหมและข่าวกรองรายใหญ่ และอาจมีคำสั่งผลิตเพิ่มในปี 2027–2028",
-                            "2026-11-20: หุ้นร่วง 7.82% มาอยู่ที่ 4.01 USD ด้วยวอลุ่มระดับปกติ และไม่พบข่าวเฉพาะของบริษัทที่อธิบายการร่วงครั้งนี้"
+               "caution":  "ความเสี่ยงเฉพาะหน้าที่มีน้ำหนักมากที่สุดคือการลดสัดส่วนผู้ถือหุ้น (dilution) เพราะวงเงินขายหุ้นเพิ่มทุนแบบ ATM มูลค่า USD 50 ล้านที่ยื่นเมื่อวันที่ 28 ต.ค. คิดเป็นเกือบครึ่งหนึ่งของมูลค่าตลาดราว USD 108 ล้าน ซึ่งอาจกดดันการรีบาวด์หากมีการทยอยขายหุ้นแถวระดับ USD 4.32 นอกจากนี้กระแสเงินสดจากการดำเนินงานทั้งปี 2026 ยังคาดว่าจะติดลบเล็กน้อยหลัง 9 เดือนแรกใช้เงินสดไป USD 12.4 ล้าน ขณะที่สัดส่วนสินค้าใน Q4 อาจกดอัตรากำไรขั้นต้น และด้วยขนาดหุ้น micro-cap หากคำสั่งซื้อก้อนใหญ่ใน Q4 เลื่อนไปปี 2027 ราคาจะยิ่งผันผวนแรง",
+               "cons":  [
+                            "วันที่ 28 ต.ค. OSS ยื่นโครงการขายหุ้นเพิ่มทุนแบบ ATM วงเงินสูงสุด USD 50 ล้านผ่าน Piper Sandler คิดเป็นเกือบครึ่งของมูลค่าตลาดราว USD 108 ล้าน กดดันเรื่อง dilution หนัก",
+                            "เงินสดและเงินลงทุนระยะสั้นลดจาก USD 31.2 ล้านปลายปี 2025 เหลือ USD 18.9 ล้าน หลังใช้กระแสเงินสดดำเนินงาน 9 เดือนไป USD 12.4 ล้านจากค่ายอมความคดี USD 6.25 ล้านและตุนสินค้าคงคลัง USD 7.8 ล้าน",
+                            "อัตรากำไรขั้นต้น Q3 ลดลง 300 bps YoY เหลือ 42.6% และยังมีขาดทุนสุทธิตาม GAAP จากธุรกิจต่อเนื่อง USD 0.6 ล้าน โดยผู้บริหารเตือนแรงกดดันจากสัดส่วนสินค้าต่อใน Q4",
+                            "นักวิเคราะห์จาก Lake Street, Roth Capital และ Alliance Global Partners ต่างหั่นราคาเป้าหมายลงจาก USD 18–21 เหลือ USD 15–16 เมื่อวันที่ 28–29 ต.ค. แม้ยังคงคำแนะนำ Buy"
                         ],
-               "caution":  "ตัวกดดันใหญ่ที่สุดคือโครงการ ATM 50 ล้าน USD ซึ่งใหญ่มากเมื่อเทียบกับเงินสด 18.9 ล้าน ถ้าบริษัทขายหุ้นช่วงที่ราคาอยู่แถวจุดต่ำสุด 52 สัปดาห์ ผู้ถือหุ้นเดิมจะถูก dilute หนัก และหุ้นที่อาจถูกขายออกมาก็อาจกดไม่ให้ราคาเด้งได้ไกล ผู้บริหารคาดว่า margin ใน Q4 จะต่ำลงเพราะสัดส่วนงานผลิตและงานพัฒนาที่ลูกค้าจ่ายเงินให้เพิ่มขึ้น และเป้า adjusted EBITDA ทั้งปีอยู่แค่ 0.5–1.0 ล้าน USD สัญญาแต่ละชิ้นมีขนาดเล็ก (1–3 ล้าน USD) และรายได้เข้ามาไม่สม่ำเสมอ เงินรับตาม milestone ราว 5.6 ล้าน USD เลื่อนจาก Q3 ไปเดือนตุลาคม ส่วนหนี้สูญและค่าชดเชยคดี 6.25 ล้าน USD ชี้ว่าลูกค้ารายเดียวก็สร้างความเสียหายได้มาก ราคายังอยู่ใต้ EMA ทั้งสามเส้น",
-               "opportunity":  "รายได้โตราว 40% ต่อปี และ book-to-bill 1.46 แปลว่าคำสั่งซื้อเข้ามาเร็วกว่ายอดส่งมอบ ผู้บริหารคาดว่าจะปิดดีลมูลค่าหลายล้านดอลลาร์ได้หลายดีลใน Q4 นอกจากนี้ยังมีโครงการขนาดใหญ่ที่ยังไม่รวมในเป้า ซึ่งอาจมีมูลค่า 100 ล้าน USD ขึ้นไปใน 3–4 ปี หากได้รับงบเข้าสู่การผลิตจริง สัญญาพัฒนากับกองทัพบกและคำสั่งซื้อซ้ำจากผู้รับเหมากลาโหมช่วยยืนยัน moat ด้านระบบ rugged เฉพาะทาง ส่วนการผ่านการรับรองกับผู้ให้บริการ Tier 1 ก็เปิดช่องทางขายในตลาดองค์กร ด้านเทคนิค RSI ที่ใกล้ 30 และฮิสโตแกรม MACD ที่กลับเป็นบวกบ่งว่าแรงขายอาจเริ่มหมด หากราคาปิดกลับเหนือ 4.89 ได้ จะเป็นสัญญาณแรกของการฟื้นตัว",
+               "fundamental":  "หลังขายบริษัทลูกในเยอรมนีอย่าง Bressner ออกไปในเดือน ธ.ค. 2025 มูลค่า USD 22.4 ล้าน ปัจจุบัน OSS กลายเป็นผู้เล่นสายตรงด้านฮาร์ดแวร์ rugged edge-AI สำหรับงานกลาโหม อากาศยาน การแพทย์ และศูนย์ข้อมูลเฉพาะทาง ในเชิงธุรกิจความต้องการเร่งตัวชัด รายได้ Q3 2026 จากธุรกิจต่อเนื่องโต 35.9% YoY สู่ USD 12.6 ล้าน ยอดจอง 9 เดือนแตะ USD 43.6 ล้าน (book-to-bill 1.46x) และปรับเป้ารายได้ทั้งปี 2026 โต ~40% (~USD 45 ล้าน) โดยไม่มีหนี้ธนาคาร การที่ Gen5 4UP-MAX ผ่านรับรองจากผู้ให้บริการแพลตฟอร์มองค์กรระดับ Tier 1 รวมถึงคำสั่งซื้อต่อเนื่องจากกองทัพบกสหรัฐฯ และระบบจำลอง GNSS ยืนยันจุดแข็งเฉพาะกลุ่มได้ดี แต่ฐานรายได้ยังเล็กมาก (~USD 45 ล้านต่อปี) อัตรากำไรขั้นต้น Q3 อ่อนลงจาก 45.6% เหลือ 42.6% ขาดทุนสุทธิ GAAP USD 0.6 ล้าน (Adjusted EBITDA USD 0.3 ล้าน) และเงินสดลดลงเหลือ USD 18.9 ล้านจากค่ายอมความคดี USD 6.25 ล้านกับการตุนสต็อก USD 7.8 ล้าน จึงทำให้ตลาดตอบรับเชิงลบต่อแผน ATM USD 50 ล้านอย่างรุนแรง",
+               "headline":  "งบ Q3 และดีลกลาโหมโตแกร่ง แต่ถูกกดดันหนักจากแผนเพิ่มทุน ATM USD 50 ล้าน",
+               "news":  [
+                            "28 ต.ค. 2026: OSS รายงานรายได้ Q3 2026 จากธุรกิจต่อเนื่องที่ USD 12.6 ล้าน (+35.9% YoY) อัตรากำไรขั้นต้น 42.6% ขาดทุนสุทธิ GAAP USD 0.6 ล้าน (USD 0.02/หุ้น) และ Adjusted EBITDA USD 0.3 ล้าน พร้อมปรับเป้าการเติบโตของรายได้ปี 2026 จาก 25%–30% เป็น ~40% (~USD 45 ล้าน) หนุนด้วย book-to-bill 1.46x",
+                            "28 ต.ค. 2026: วันเดียวกับประกาศงบ Q3 บริษัทได้ยื่นแบบ Form 424B5 ต่อ SEC เพื่อเปิดโครงการขายหุ้นเพิ่มทุนในตลาด (ATM) มูลค่าสูงสุด USD 50 ล้านผ่าน Piper Sandler ภายใต้วงเงิน S-3 shelf USD 100 ล้าน ซึ่งเป็นตัวแปรหลักที่กดดันราคาหุ้น",
+                            "26 ต.ค. 2026: ระบบขยายการ์ดประมวลผลเรือธง Gen5 4UP-MAX ซึ่งรองรับ AI accelerator ขนาด 675W ได้สูงสุด 8 ตัว ผ่านการรับรองใช้งานจากผู้ให้บริการแพลตฟอร์มคอมพิวติ้งองค์กรระดับ Tier 1 ของโลก ช่วยเปิดตลาดศูนย์ข้อมูลเชิงพาณิชย์กว้างขึ้น",
+                            "28–29 ต.ค. 2026: หลังงบ Q3 และแผนเพิ่มทุน ATM นักวิเคราะห์ที่ติดตามหุ้นได้ปรับลดราคาเป้าหมายลง ได้แก่ Lake Street (USD 21 เหลือ USD 15), Roth Capital (USD 18 เหลือ USD 15) และ Alliance Global Partners (USD 18 เหลือ USD 16) แต่ทั้งหมดยังคงคำแนะนำ Buy",
+                            "9 พ.ย. 2026: กองทัพบกสหรัฐฯ มอบสัญญา USD 2.75 ล้านให้ OSS พัฒนาอุปกรณ์ประมวลผลมาตรฐาน SOSA รุ่นถัดไปสำหรับยานเกราะทางยุทธวิธี โดยมีกำหนดเริ่มส่งมอบช่วงปลายปี 2027",
+                            "12 พ.ย. 2026: OSS ได้รับคำสั่งซื้อต่อเนื่องมูลค่า USD 1 ล้านสำหรับเซิร์ฟเวอร์ Gen 5 PCIe 4U เพื่อระบบจำลองสงครามอิเล็กทรอนิกส์ GNSS นับเป็นคำสั่งซื้อครั้งที่ 10 จากผู้รับเหมากลาโหมรายนี้ตั้งแต่ พ.ค. 2025 ดันยอดสะสมแตะ ~USD 6 ล้าน"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนโครงสร้างพื้นฐาน AI ระยะยาว OSS เป็นหุ้นสายตรงในธีม rugged edge-AI ที่นำพลังประมวลผล GPU ระดับศูนย์ข้อมูลไปติดตั้งในยานพาหนะทหาร อากาศยาน และภาคอุตสาหกรรมที่มีข้อจำกัดสูง เป้าเติบโต ~40% ของปี 2026 มี backlog รองรับครบแล้ว พร้อม book-to-bill 1.46x จาก 14 โครงการระยะยาว หากการผ่านรับรอง Gen5 4UP-MAX กับค่ายองค์กรระดับ Tier 1 เมื่อ 26 ต.ค. ต่อยอดเป็นคำสั่งซื้อศูนย์ข้อมูลเชิงพาณิชย์ ควบคู่กับงานกองทัพบกสหรัฐฯ มาตรฐาน SOSA และดีล GNSS สะสม USD 6 ล้าน บริษัทมีโอกาสสร้างฐานรายได้ที่ยั่งยืนหากพลิกกระแสเงินสดอิสระเป็นบวกได้",
+               "opportunityCheck":  "มุมมองที่ระมัดระวังของหน้านี้ต่อความสามารถในการเป็นคอขวดและอำนาจตั้งราคาถือว่าตรงจุดแล้ว เพราะอัตรากำไรขั้นต้น Q3 ลดลง 300 bps YoY เหลือ 42.6% และยังมีแรงกดดันจากสัดส่วนสินค้าใน Q4 สะท้อนว่า OSS เป็นผู้ประกอบระบบเฉพาะทางมากกว่าผู้คุมคอขวดมาร์จิ้นสูง ส่วนสัดส่วนรายได้ AI และการเติบโตของตลาดก็สอดคล้องดีหลังขาย Bressner ออกไปเหลือธุรกิจ edge-AI สายตรงที่โต ~40% อย่างไรก็ดี ควรขยับคะแนนด้าน optionality ขึ้นเล็กน้อย เพราะการที่ Gen5 4UP-MAX ผ่านรับรองจากผู้เล่นองค์กรระดับ Tier 1 เมื่อ 26 ต.ค. ช่วยเปิดทางสู่ตลาดอัปเกรดศูนย์ข้อมูลเชิงพาณิชย์ควบคู่กับสัญญายานเกราะ SOSA ของกองทัพบกสหรัฐฯ เมื่อ 9 พ.ย.",
+               "pros":  [
+                            "รายได้ Q3 2026 โต 35.9% YoY แตะ USD 12.6 ล้าน จนผู้บริหารปรับเป้าโตทั้งปี 2026 จาก 25%–30% เป็น ~40% (~USD 45 ล้าน) เมื่อ 28 ต.ค. โดยมี backlog รองรับทั้งหมดแล้ว",
+                            "ยอดจองสะสม 9 เดือนทะลุ USD 43.6 ล้าน คิดเป็นอัตราส่วน book-to-bill สูงถึง 1.46x จาก 14 โครงการระยะยาวทั้งฝั่งกลาโหมและพาณิชย์",
+                            "เมื่อ 26 ต.ค. ระบบขยายการ์ด AI เรือธง Gen5 4UP-MAX ผ่านการรับรองจากผู้ให้บริการแพลตฟอร์มคอมพิวติ้งองค์กรระดับ Tier 1 ช่วยขยายตลาดศูนย์ข้อมูลเชิงพาณิชย์",
+                            "งานกลาโหมเดินหน้าต่อเนื่องในเดือน พ.ย. ทั้งสัญญากองทัพบกสหรัฐฯ USD 2.75 ล้าน (9 พ.ย.) และคำสั่งซื้อ GNSS รอบที่ 10 ดันยอดรวมโครงการแตะ ~USD 6 ล้าน (12 พ.ย.)"
+                        ],
                "risks":  [
-                             "ผู้ถือหุ้นเดิมถูก dilute หากบริษัทขายหุ้นผ่าน ATM 50 ล้าน USD ในช่วงที่ราคาตกต่ำ",
-                             "gross margin ใน Q4 2026 ลดลง และ adjusted EBITDA อยู่แค่ระดับคุ้มทุน",
-                             "สัญญากลาโหมมีขนาดเล็กและไม่สม่ำเสมอ งานพัฒนาอาจไม่ต่อยอดเป็นคำสั่งผลิตจริง",
-                             "ความเสี่ยงจากการพึ่งพาลูกค้าน้อยรายและความเสี่ยงด้านเครดิต (ปี 2026 มีลูกค้าล้มละลาย และต้องจ่ายค่าชดเชยคดี 6.25 ล้าน USD)",
-                             "จังหวะงบประมาณกลาโหมที่ล่าช้าอาจทำให้คำสั่งซื้อและการรับเงินเลื่อนออกไป",
-                             "หุ้นเล็กผันผวนสูง ราคาปัจจุบันต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ 20.88 ราว 81%"
+                             "ความเสี่ยง dilution สูงจากโครงการขายหุ้นเพิ่มทุนแบบ ATM วงเงิน USD 50 ล้านเมื่อ 28 ต.ค. เมื่อเทียบกับมูลค่าตลาดราว USD 108 ล้าน",
+                             "กระแสเงินสดจากการดำเนินงานยังติดลบและสภาพคล่องลดลง (เงินสดลดจาก USD 31.2 ล้านเหลือ USD 18.9 ล้านใน 9 เดือนปี 2026) จากภาระตุนสต็อก GPU และชิ้นส่วนสำคัญ",
+                             "อัตรากำไรขั้นต้นหดตัว (Q3 อยู่ที่ 42.6% เทียบ 45.6% ปีก่อน และทั้งปี 2026 คาด 40%–42%) จากสัดส่วนงานพัฒนาที่ลูกค้าออกทุนและการเปลี่ยนส่วนผสมสินค้า",
+                             "รายได้ผันผวนตามรอบคำสั่งซื้อแบบหุ้น micro-cap การพึ่งพาลูกค้ารายใหญ่ และความล่าช้าของงบประมาณจัดซื้อกลาโหมสหรัฐฯ ที่อาจเลื่อนคำสั่งซื้อข้ามไตรมาส",
+                             "แรงแข่งขันจากผู้รับเหมาหลักด้านกลาโหมและผู้ผลิตเซิร์ฟเวอร์เชิงพาณิชย์รายใหญ่ที่ขยายเข้าสู่ฮาร์ดแวร์ edge-AI แบบทนทาน"
                          ],
-               "summary":  "OSS อยู่ในขาลงชัดเจน ราคาปิด 4.01 USD ต่ำกว่า EMA ทั้งสามเส้นและอยู่ตรงจุดต่ำสุดรอบ 52 สัปดาห์ RSI ใกล้ oversold และ MACD เพียงส่งสัญญาณว่าแรงลงเริ่มชะลอ ข่าวด้านธุรกิจมีทั้งบวกและลบแต่พื้นฐานไม่ได้พัง รายได้โต 36% บริษัทปรับเป้าขึ้น book-to-bill อยู่ที่ 1.46 และได้คำสั่งซื้อใหม่จากกองทัพบกและผู้รับเหมากลาโหม อย่างไรก็ตาม margin ที่บาง การเผาเงินสด และโครงการ ATM 50 ล้าน USD ทำให้ตลาดหันไปกังวลเรื่อง dilution แทน moat ด้าน rugged AI เฉพาะทางยังดูไม่เสียหาย สิ่งที่ต้องติดตามคือการปิดดีลใน Q4 ทิศทาง margin และสัดส่วนที่บริษัทใช้ ATM จริง"
+               "summary":  "One Stop Systems (OSS) โชว์ผลงานเชิงธุรกิจเด่นในช่วงปลาย ต.ค.–พ.ย. 2026 ทั้งรายได้ Q3 โต 35.9% สู่ USD 12.6 ล้าน ปรับเป้ารายได้ทั้งปี 2026 โต ~40% คว้าสัญญากองทัพบกสหรัฐฯ USD 2.75 ล้าน และ Gen5 4UP-MAX ผ่านรับรองจากค่ายองค์กรระดับ Tier 1 แต่ราคาหุ้นกลับร่วงลงมาอยู่ที่ USD 4.32 หรือต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ USD 20.88 ถึง 79.3% แรงขายหลักมาจากความกังวลด้านโครงสร้างเงินทุน หลัง OSS ยื่นแผนขายหุ้นเพิ่มทุนแบบ ATM วงเงิน USD 50 ล้านเมื่อ 28 ต.ค. ท่ามกลางการใช้กระแสเงินสดดำเนินงาน 9 เดือน USD 12.4 ล้านและมาร์จิ้นที่แคบลง",
+               "technical":  "ณ วันที่ 23 พ.ย. 2026 หุ้น OSS ยังอยู่ในแนวโน้มขาลงเต็มตัวที่ USD 4.32 ร่วงลง 79.3% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ USD 20.88 และอยู่สูงกว่าจุดต่ำสุดรอบ 52 สัปดาห์ที่ USD 3.88 เพียง 11.3% ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — ค่าเฉลี่ยราคาที่ให้น้ำหนักวันล่าสุดเพื่อบอกแนวโน้ม) ครบทั้ง 3 เส้นและเรียงตัวขาลงสมบูรณ์ ได้แก่ EMA 50 ที่ USD 6.52, EMA 100 ที่ USD 8.39 และ EMA 200 ที่ USD 9.23 เมื่อดู Bollinger Bands (20/2 — กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาอยู่ครึ่งล่างใต้เส้นกลาง USD 4.80 โดยมีแนวรับระยะสั้นที่ USD 3.88 และกรอบล่าง USD 3.38 ส่วนแนวต้านอยู่ที่ USD 4.80 และกรอบบน USD 6.23 ด้านโมเมนตัมเริ่มชะลอแรงลงแต่ยังไม่กลับตัว โดย MACD (12/26/9 — ตัววัดแรงส่งของแนวโน้ม) ยังติดลบหนักที่ -0.70 เทียบ signal -0.78 แม้ฮิสโทแกรม +0.08 บ่งชี้แรงขายเริ่มแผ่ว ขณะที่ RSI 14 (ดัชนีวัดโมเมนตัม 0–100 ต่ำกว่า 30 คือขายมากเกินไป) อ่อนแออยู่ที่ 37.24 การดีดตัว +7.73% วันที่ 23 พ.ย. ย่อลงจากจุดสูงสุดระหว่างวัน USD 4.63 ด้วยวอลุ่มต่ำกว่าค่าเฉลี่ย 20 วันเล็กน้อย (1.62 ล้าน เทียบ 1.64 ล้านหุ้น) จึงยังขาดแรงยืนยันขาขึ้น"
            },
     "sources":  [
                     {
-                        "title":  "One Stop Systems Reports Q3 2026 Results (Form 8-K Exhibit 99.1)",
+                        "date":  "2026-10-28",
+                        "publisher":  "GlobeNewswire",
+                        "title":  "One Stop Systems Reports Q3 2026 Results",
+                        "url":  "https://www.globenewswire.com/news-release/2026/10/28/3081190/0/en/One-Stop-Systems-Reports-Q3-2026-Results.html"
+                    },
+                    {
+                        "date":  "2026-10-28",
                         "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001394056/000119312526435175/oss-ex99_1.htm",
-                        "date":  "2026-10-28"
+                        "title":  "Form 424B5 Prospectus Supplement ($50M At-the-Market Equity Offering)",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1394056/000119312526435254/oss-20261028.htm"
                     },
                     {
-                        "title":  "One Stop Systems, Inc. Form 8-K – Equity Distribution Agreement with Piper Sandler",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001394056/000119312526435262/oss-20261028.htm",
-                        "date":  "2026-10-28"
-                    },
-                    {
-                        "title":  "What One Stop Systems (OSS) Said on Its Q3 Earnings Call",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/technology/ai/articles/one-stop-systems-oss-said-220419768.html",
-                        "date":  "2026-10-29"
-                    },
-                    {
-                        "title":  "One Stop Systems (OSS) Stock Slides As Q3 Results Deepen Loss Concerns",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/markets/stocks/articles/one-stop-systems-oss-stock-030911518.html",
-                        "date":  "2026-10-28"
-                    },
-                    {
-                        "title":  "OSS Awarded $2.75 Million Contract by U.S. Army to Develop Next-Generation Compute Appliance for Tactical Ground Vehicles",
-                        "publisher":  "Finviz (press release)",
-                        "url":  "https://finviz.com/news/419029/oss-awarded-275-million-contract-by-us-army-to-develop-next-generation-compute-appliance-for-tactical-ground-vehicles",
-                        "date":  "2026-11-09"
-                    },
-                    {
+                        "date":  "2026-10-26",
+                        "publisher":  "GlobeNewswire",
                         "title":  "One Stop Systems Expands Enterprise AI Market Opportunity with Qualification for Tier 1 Global Computing Platform Provider",
-                        "publisher":  "Finviz (press release)",
-                        "url":  "https://finviz.com/news/407948/one-stop-systems-expands-enterprise-ai-market-opportunity-with-qualification-for-tier-1-global-computing-platform-provider",
-                        "date":  "2026-10-26"
+                        "url":  "https://www.globenewswire.com/news-release/2026/10/26/3382701/0/en/One-Stop-Systems-Expands-Enterprise-AI-Market-Opportunity-with-Qualification-for-Tier-1-Global-Computing-Platform-Provider.html"
                     },
                     {
-                        "title":  "OSS Stock Price, News \u0026 Analysis",
+                        "date":  "2026-11-09",
                         "publisher":  "Stock Titan",
-                        "url":  "https://www.stocktitan.net/overview/OSS/",
-                        "date":  "2026-11-13"
+                        "title":  "OSS Awarded $2.75 Million Contract by U.S. Army to Develop Next-Generation Compute Appliance for Tactical Ground Vehicles",
+                        "url":  "https://www.stocktitan.net/news/OSS/oss-awarded-2-75-million-contract-by-u-s-army-to-develop-next-gm6a0l9o5Vl6.html"
                     },
                     {
-                        "title":  "One Stop Systems (OSS) Stock Price \u0026 Overview",
+                        "date":  "2026-11-12",
+                        "publisher":  "GlobeNewswire",
+                        "title":  "OSS Receives 10th Order Since May 2025 from Leading Defense And Intelligence Contractor",
+                        "url":  "https://www.globenewswire.com/news-release/2026/11/12/3295822/0/en/OSS-Receives-10th-Order-Since-May-2025-from-Leading-Defense-And-Intelligence-Contractor.html"
+                    },
+                    {
+                        "date":  "2026-10-29",
                         "publisher":  "StockAnalysis",
-                        "url":  "https://stockanalysis.com/stocks/oss/"
+                        "title":  "One Stop Systems (OSS) Stock Forecast \u0026 Analyst Ratings",
+                        "url":  "https://stockanalysis.com/stocks/oss/forecast/"
                     }
                 ]
 }

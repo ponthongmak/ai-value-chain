@@ -1,0 +1,138 @@
+{
+    "sector":  "power",
+    "judge":  "codex",
+    "provider":  "codex",
+    "model":  "gpt-6.2-sol",
+    "effort":  "high",
+    "account":  "Codex (ChatGPT)",
+    "generatedAt":  "2026-11-24T05:03:46Z",
+    "costUsd":  null,
+    "stocks":  {
+                   "CEG":  {
+                               "m":  [
+                                         15,
+                                         12,
+                                         6,
+                                         18,
+                                         11
+                                     ],
+                               "o":  [
+                                         8,
+                                         16,
+                                         18,
+                                         19,
+                                         14
+                                     ],
+                               "why_en":  "The largest U.S. nuclear fleet is hard to replicate, and long-term contracts with Amazon and Google show demand for its scarce round-the-clock power. [Q3 results](https://investors.constellationenergy.com/news-releases/news-release-details/constellation-reports-third-quarter-2026-results)",
+                               "why_th":  "กลุ่มโรงไฟฟ้านิวเคลียร์ที่ใหญ่ที่สุดในสหรัฐฯ สร้างทดแทนได้ยาก และสัญญาระยะยาวกับ Amazon และ Google สะท้อนความต้องการไฟฟ้าที่จ่ายได้ตลอด 24 ชั่วโมงและมีจำกัด"
+                           },
+                   "ETN":  {
+                               "m":  [
+                                         14,
+                                         15,
+                                         12,
+                                         17,
+                                         16
+                                     ],
+                               "o":  [
+                                         11,
+                                         17,
+                                         16,
+                                         14,
+                                         15
+                                     ],
+                               "why_en":  "Eaton’s installed electrical equipment and distribution network support margins, while switchgear demand and Boyd Thermal expand its AI data-center opportunity. [Q3 results](https://www.eaton.com/us/en-us/company/news-insights/news-releases/2026/eaton-reports-record-third-quarter-2026-results.html)",
+                               "why_th":  "ฐานอุปกรณ์ไฟฟ้าที่ติดตั้งแล้วและเครือข่ายจัดจำหน่ายช่วยรักษาอัตรากำไรของ Eaton ขณะที่ความต้องการสวิตช์เกียร์และการซื้อ Boyd Thermal เพิ่มโอกาสในตลาดศูนย์ข้อมูล AI"
+                           },
+                   "FPS":  {
+                               "m":  [
+                                         11,
+                                         10,
+                                         6,
+                                         9,
+                                         7
+                                     ],
+                               "o":  [
+                                         14,
+                                         17,
+                                         11,
+                                         12,
+                                         10
+                                     ],
+                               "why_en":  "Custom power equipment helps Forgent win repeat orders, and data centers accounted for 59% of fiscal 2026 sales, though its financial track record is short. [Annual report](https://ir.forgentpower.com/sec-filings/all-sec-filings/content/0002080126-26-000035/fps-20260630.htm)",
+                               "why_th":  "อุปกรณ์ไฟฟ้าที่ออกแบบตามความต้องการช่วยให้ Forgent ได้คำสั่งซื้อซ้ำ และศูนย์ข้อมูลคิดเป็น 59% ของยอดขายปีงบประมาณ 2026 แม้บริษัทยังมีประวัติผลประกอบการค่อนข้างสั้น"
+                           },
+                   "GEV":  {
+                               "m":  [
+                                         18,
+                                         16,
+                                         10,
+                                         17,
+                                         8
+                                     ],
+                               "o":  [
+                                         9,
+                                         16,
+                                         17,
+                                         18,
+                                         15
+                                     ],
+                               "why_en":  "Proprietary turbines and long-term service contracts provide defenses despite uneven margins, while scarce turbine production slots and grid equipment give GE Vernova leverage as AI power demand grows. [Q3 results](https://www.gevernova.com/news/articles/ge-vernova-releases-third-quarter-2026-financial-results-announces-agreement-acquire)",
+                               "why_th":  "เทคโนโลยีกังหันของบริษัทและสัญญาบริการระยะยาวช่วยปกป้องความได้เปรียบแม้อัตรากำไรผันผวน ขณะที่คิวผลิตกังหันและอุปกรณ์โครงข่ายไฟฟ้าที่มีจำกัดช่วยเพิ่มอำนาจต่อรองเมื่อ AI ต้องการไฟฟ้ามากขึ้น"
+                           },
+                   "SU":  {
+                              "m":  [
+                                        15,
+                                        16,
+                                        14,
+                                        18,
+                                        17
+                                    ],
+                              "o":  [
+                                        12,
+                                        17,
+                                        18,
+                                        15,
+                                        16
+                                    ],
+                              "why_en":  "Schneider’s installed electrical and automation systems are costly to replace, and its power distribution and liquid cooling products position it to benefit from AI data-center growth. [Q3 results](https://www.se.com/ww/en/about-us/investor-relations/financial-results/)",
+                              "why_th":  "ระบบไฟฟ้าและระบบอัตโนมัติของ Schneider ที่ติดตั้งแล้วมีค่าใช้จ่ายสูงในการเปลี่ยน ส่วนอุปกรณ์จ่ายไฟและระบบระบายความร้อนด้วยของเหลวช่วยให้บริษัทได้ประโยชน์จากการเติบโตของศูนย์ข้อมูล AI"
+                          },
+                   "VRT":  {
+                               "m":  [
+                                         16,
+                                         15,
+                                         13,
+                                         14,
+                                         12
+                                     ],
+                               "o":  [
+                                         17,
+                                         19,
+                                         18,
+                                         15,
+                                         16
+                                     ],
+                               "why_en":  "Integrated power, cooling, and field service make Vertiv harder to replace, while denser AI racks increase demand for its liquid cooling and power systems. [AI infrastructure](https://www.vertiv.com/en-us/solutions/ai-hub/)",
+                               "why_th":  "การรวมระบบจ่ายไฟ ระบบระบายความร้อน และบริการหน้างานทำให้เปลี่ยนจาก Vertiv ได้ยากขึ้น ขณะที่แร็ก AI ที่หนาแน่นขึ้นเพิ่มความต้องการระบบระบายความร้อนด้วยของเหลวและระบบจ่ายไฟของบริษัท"
+                           },
+                   "VST":  {
+                               "m":  [
+                                         11,
+                                         8,
+                                         5,
+                                         16,
+                                         9
+                                     ],
+                               "o":  [
+                                         7,
+                                         16,
+                                         15,
+                                         17,
+                                         13
+                                     ],
+                               "why_en":  "Vistra’s large gas and nuclear fleet provides dependable power despite volatile margins, and long-term contracts with Meta and AWS turn scarce nuclear capacity into contracted sales. [Q3 presentation](https://filecache.investorroom.com/mr5ir_vistracorp_ir/349/Q3_2026_Results_Presentation_vFINAL.pdf)",
+                               "why_th":  "กลุ่มโรงไฟฟ้าก๊าซและนิวเคลียร์ขนาดใหญ่ของ Vistra จ่ายไฟได้สม่ำเสมอแม้อัตรากำไรผันผวน และสัญญาระยะยาวกับ Meta และ AWS ช่วยให้บริษัทมีรายได้ตามสัญญาจากกำลังผลิตไฟฟ้านิวเคลียร์ที่มีจำกัด"
+                           }
+               }
+}

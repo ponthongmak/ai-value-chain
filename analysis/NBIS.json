@@ -2,46 +2,45 @@
     "ticker":  "NBIS",
     "name":  "Nebius Group",
     "symbol":  "NASDAQ:NBIS",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:08:38Z",
-    "costUsd":  0.7290273000000002,
+    "generatedAt":  "2026-11-24T04:22:28Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NASDAQ:NBIS",
                        "yahoo":  "NBIS",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:05:52Z",
-                       "price":  81.31,
-                       "open":  93.69,
-                       "high":  94.04,
-                       "low":  80.67,
-                       "volume":  49539900,
-                       "avgVolume20":  31199275,
-                       "changePct":  -16.11,
-                       "ema50":  164.9,
-                       "ema100":  181.1,
-                       "ema200":  172.04,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:19:05Z",
+                       "price":  97.8,
+                       "open":  110,
+                       "high":  110.05,
+                       "low":  95.73,
+                       "volume":  51687500,
+                       "avgVolume20":  32262395,
+                       "changePct":  20.28,
+                       "historyDays":  500,
+                       "ema50":  162.27,
+                       "ema100":  179.45,
+                       "ema200":  171.28,
                        "bb":  {
-                                  "upper":  186.9,
-                                  "middle":  134.48,
-                                  "lower":  82.06
+                                  "upper":  185.7,
+                                  "middle":  131.71,
+                                  "lower":  77.71
                               },
                        "macd":  {
-                                    "macd":  -24.08,
-                                    "signal":  -21.03,
-                                    "hist":  -3.05
+                                    "macd":  -23.78,
+                                    "signal":  -21.58,
+                                    "hist":  -2.21
                                 },
-                       "rsi14":  28.51,
+                       "rsi14":  36,
                        "high52w":  299.86,
                        "low52w":  73.52,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         251.68
-                                     ],
                                      [
                                          "2026-06-04",
                                          259.67
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          81.31
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         97.8
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          178.47,
                                           181.66,
                                           183.47,
                                           184.82,
@@ -639,98 +641,120 @@
                                           173.85,
                                           171.23,
                                           168.31,
-                                          164.9
+                                          164.9,
+                                          162.27
                                       ]
                    },
     "en":  {
-               "headline":  "Nebius down 47% since Q3: delays and capex costs outweigh strong demand",
-               "technical":  "NBIS closed at $81.31 on 2026-11-20, down 16.11% in one session. It opened at $93.69 and finished near the day\u0027s low of $80.67. The trend is clearly down. EMAs (exponential moving averages that track short-, medium- and long-term trend) sit far above the price: the EMA50 at $164.9 is about 51% higher, and the EMA100 ($181.1) and EMA200 ($172.04) are higher still. The EMA50 has already fallen below both longer averages, a classic sign that the earlier uptrend has broken. Momentum is negative. MACD (a trend-momentum gauge) is -24.08, below its signal line at -21.03, and the histogram is -3.05, so selling pressure is still building. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 28.51, so the stock is stretched to the downside. Price closed just under the lower Bollinger Band at $82.06 (the bands are a 20-day average ±2 standard deviations). The bands are very wide, with the upper band at $186.9, which signals extreme volatility. Volume was 49.5M, about 1.6x the 20-day average of 31.2M, which confirms the selling. The 52-week low of $73.52 is the nearest support, and the $93–94 zone from Friday\u0027s open and high is nearby resistance.",
-               "fundamental":  "Nebius rents out GPU computing power and AI software tools, sitting between Nvidia\u0027s chips and the companies that build AI models. In Q3 2026 (reported 2026-11-12), revenue was $980.8M, up 571% year on year, though about $325M of that was one-time. Adjusted EBITDA was $465.8M, and contracted backlog (RPO) reached $38.7B. Nebius has signed more than $12B of contracts since the start of Q3, with customers including Microsoft, Meta, Databricks and Palantir. Demand is not the problem; delivery and funding are. Third-party data-center capacity slipped into 1H 2027. As a result, 2026 revenue is guided to the low end of $3.0–3.4B, and the target of more than $7B ARR (annualized revenue run rate) moved from December to February. Capex rises to about $27B in 2026 and $40–45B in 2027. Against that, Nebius has $7.4B in cash and $14.2B in debt, and it does not expect pre-tax breakeven until Q4 2027.",
-               "news":  [
-                            "2026-11-12: Q3 revenue of $980.8M (+571% YoY) and adjusted EBITDA of $465.8M beat estimates. However, Nebius guided 2026 revenue to the low end of $3.0–3.4B and pushed its \u003e$7B ARR goal from December to February. The stock fell 16.35% that day to $129.40.",
-                            "2026-11-12: Nebius raised 2026 capex guidance to about $27B from $20–25B. Its first 2027 outlook calls for $12–13B in revenue and $40–45B in capex, with 75–85% to be covered by customer prepayments and asset-backed financing.",
-                            "CEO Arkady Volozh wrote that \u0027where we rely on third parties, there have been delays.\u0027 The remaining Microsoft-contracted tranches at the New Jersey colocation site move to Q2 2027 while that site switches power to Bloom Energy fuel cells. He said Nebius-owned sites are on time or ahead of schedule.",
-                            "The Q3 shareholder letter describes $5.75B of convertible notes issued in August, about $1.0B raised through at-the-market share sales in Q3, and a $3.5B senior secured facility with Citi in October. These show how heavily the build-out relies on outside capital.",
-                            "Supply chain: on 2026-11-12, Nvidia announced that Jensen Huang had resigned as CEO, effective immediately, and named CFO Colette Kress interim CEO. Leadership uncertainty at Nebius\u0027s key GPU supplier weighed on AI infrastructure stocks going into Nvidia\u0027s earnings the following week.",
-                            "2026-11-20: the neocloud selloff deepened as the rally around Anthropic\u0027s IPO faded and the Nasdaq fell 1.8%. Michael Burry, who had disclosed short positions in Nebius, publicly claimed vindication. Bernstein and Evercore ISI said capacity and financing, not customer demand, are the sector\u0027s binding constraints."
+               "caution":  "Long-term investors should be cautious about two converging pressures: execution slippage and balance-sheet leverage. The Vineland, New Jersey delay demonstrates that third-party power and permitting bottlenecks can defer revenue even when demand is fully contracted. Meanwhile, scaling CapEx to $40 billion–$45 billion in 2027 while carrying $14.19 billion in debt leaves little margin for error if hyperscaler timelines slip, credit markets tighten, or equity-linked financing resumes and dilutes existing shareholders. Monday’s sharp intraday fade from $110.05 to $97.80 also shows that relief rallies still face heavy overhead selling.",
+               "cons":  [
+                            "Power-transition delays at DataOne’s Vineland, New Jersey site pushed remaining Microsoft capacity to Q2 2027 and trimmed 2026 revenue guidance.",
+                            "Capital spending is surging to roughly $27 billion in 2026 and $40 billion–$45 billion in 2027, creating steep execution and funding risk.",
+                            "Total carrying debt reached $14.19 billion ($16.48 billion principal) on September 30, 2026, alongside a new $3.5 billion Citi credit facility.",
+                            "Q3 revenue included $325.1 million in non-recurring strategic partnership revenue, and Wall Street banks cut price targets broadly after November 12 earnings."
                         ],
-               "caution":  "The bear case is about money and timing. Nebius must fund about $27B of capex this year and $40–45B next year. Meanwhile, Q3 operating cash flow was -$273M and debt is already $14.2B. More convertible notes or share sales would dilute existing holders, and tighter credit would raise funding costs. Delivery also depends partly on third-party data centers that have already slipped. On the chart there is no sign of a bottom yet: MACD is still widening lower, and a break below $73.52 would mean new 52-week lows.",
-               "opportunity":  "The bull case is that demand looks real. Nebius has $38.7B of contracted backlog, signed more than $12B of contracts in about four months, has blue-chip customers such as Microsoft and Meta, and kept its ~40% adjusted EBITDA margin guidance. Management says the delays are about timing, not cancellations, and its own sites are on schedule. If the delayed capacity arrives in 1H 2027, the $12–13B revenue outlook for 2027 would be roughly 4x 2026. With RSI at 28.51 and the price below the lower band, the stock is deeply oversold, which can come before sharp relief rallies. However, oversold stocks can also keep falling.",
+               "fundamental":  "Nebius operates in the fast-growing \u0027neocloud\u0027 layer of the AI value chain, deploying dedicated NVIDIA GPU clusters and full-stack cloud software for hyperscalers and AI labs. On November 12, 2026, Q3 results showed rapid scaling: revenue jumped 571% year-over-year to $980.8 million ($973.8 million from Nebius AI Cloud, though $325.1 million was non-recurring partnership revenue), Adjusted EBITDA reached $465.8 million (47.5% margin), and annualized run-rate revenue hit $6.4 billion. However, power-transition delays at a third-party Vineland, New Jersey data center serving Microsoft narrowed FY 2026 revenue guidance toward the low end of $3.0 billion–$3.4 billion while lifting 2026 CapEx to roughly $27 billion. Initial FY 2027 guidance targets $12 billion–$13 billion in revenue and Q4 pre-tax breakeven, but requires $40 billion–$45 billion in CapEx funded via prepayments and asset-backed debt atop $7.43 billion cash and $14.19 billion carrying debt.",
+               "headline":  "Nebius Rebounds 20% on Nvidia Catalyst, Yet Execution Delays Weigh on Trend",
+               "news":  [
+                            "November 23, 2026: NBIS surged 20.28% to $97.80 after NVIDIA’s board reinstated Jensen Huang as CEO following his November 12 resignation, sparking a sector-wide relief rally across NVIDIA-dependent AI clouds.",
+                            "November 13–16, 2026: Several Wall Street analysts trimmed NBIS price targets after Q3 guidance adjustments, including Citigroup ($265 to $215, Buy), Truist ($355 to $245, Buy), Baird ($340 to $200, Outperform), and DA Davidson ($250 to $125, Neutral).",
+                            "November 12, 2026: Nebius reported Q3 2026 revenue of $980.8 million (+571% YoY) and Adjusted EBITDA of $465.8 million, while issuing an initial 2027 forecast of $12 billion–$13 billion in revenue and $40 billion–$45 billion in CapEx.",
+                            "November 12, 2026: Management disclosed third-party power-transition delays at DataOne’s Vineland, New Jersey site serving Microsoft, pushing remaining tranches into Q2 2027 and narrowing FY 2026 revenue guidance to the low end of $3.0 billion–$3.4 billion.",
+                            "October 22, 2026: Nebius secured a $3.5 billion 364-day senior secured financing facility with Citi to back GPU cluster expansion, following October 16 NVIDIA Exemplar Cloud certification on HGX B300 systems."
+                        ],
+               "opportunity":  "If Nebius delivers its 2027 capacity expansion on schedule, the operating leverage is substantial. Management projects revenue to roughly quadruple from $3.0 billion–$3.2 billion in 2026 to $12 billion–$13 billion in 2027 while reaching pre-tax breakeven by Q4 2027, supported by $38.7 billion in contracted Remaining Performance Obligations. Crucially, advance customer prepayments now cover over 100% of new contracted capacity CapEx ($17 billion–$20 billion expected in 2027), easing balance-sheet strain relative to purely debt-funded neocloud peers and reinforcing Nebius’s tier-one standing with Microsoft, Meta, and NVIDIA.",
+               "opportunityCheck":  "The page’s AI-opportunity framework is broadly reasonable on pure-play AI exposure and market growth, but two sub-scores merit adjustment. Market position should move higher: securing a $38.7 billion backlog with Microsoft and Meta, earning NVIDIA Exemplar Cloud status on HGX B300, and reaching $6.4 billion in annualized run-rate revenue show Nebius has graduated beyond a tiny early-stage entrant. Conversely, bottleneck and pricing power should edge lower or remain capped; strong customer prepayments help, yet Vineland’s third-party power delays expose real dependence on external colocation operators and NVIDIA hardware supply.",
+               "pros":  [
+                            "Q3 2026 revenue surged 571% year-over-year to $980.8 million, lifting Adjusted EBITDA to $465.8 million (47.5% margin).",
+                            "Contracted backlog reached $38.7 billion in Remaining Performance Obligations on September 30, 2026, anchored by Microsoft and Meta deals.",
+                            "Customer advance prepayments cover over 100% of new contracted capacity CapEx, with $17 billion–$20 billion expected in 2027.",
+                            "Nebius earned NVIDIA Exemplar Cloud status on HGX B300 systems on October 16, 2026, strengthening ties with strategic investor NVIDIA."
+                        ],
                "risks":  [
-                             "Financing risk: $40–45B of 2027 capex depends on customer prepayments, asset-backed loans and capital markets staying open.",
-                             "Dilution from further convertible notes or at-the-market share sales.",
-                             "Further delays at third-party colocation sites, including the Microsoft New Jersey tranches, could push revenue later again.",
-                             "Customer concentration in a few hyperscalers (Microsoft, Meta).",
-                             "Nvidia leadership uncertainty and the broader AI-infrastructure sentiment shift, including prominent short-sellers targeting neoclouds.",
-                             "Earnings quality: about $325M of Q3 revenue was non-recurring, and management changed its key metric away from ARR."
+                             "Third-party data-center and power-grid bottlenecks (as seen at Vineland, NJ) delaying revenue recognition and straining hyperscaler relationships.",
+                             "Extreme capital intensity ($40B–$45B 2027 CapEx) requiring uninterrupted customer prepayments, asset-backed financing, and stable credit markets.",
+                             "Ongoing shareholder dilution risk from convertible notes ($5.75B issued in August 2026) and At-The-Market equity sales funding growth.",
+                             "High customer and supplier concentration around Microsoft, Meta, and NVIDIA, amplifying volatility around partner spending or governance shocks."
                          ],
-               "summary":  "NBIS has fallen from $154.69 before its 2026-11-12 earnings report to $81.31 on 2026-11-20, a drop of about 47%, and now trades only about 11% above its 52-week low. Q3 beat estimates, but delayed third-party capacity, a pushed-back ARR target and a much bigger capex bill shifted the debate from growth to whether Nebius can fund and deliver it. Nvidia\u0027s surprise CEO exit and a sector-wide neocloud selloff added pressure. The technicals are firmly bearish, though oversold. Demand looks intact, but the thesis is on watch for execution and financing."
+               "summary":  "Nebius Group (NBIS) surged 20.28% to $97.80 on November 23, 2026 after NVIDIA reinstated CEO Jensen Huang, sparking a relief rally across AI cloud stocks. Even so, NBIS remains in a steep downtrend—67% below its $299.86 52-week high—following its November 12 Q3 report. While Q3 revenue jumped 571% year-over-year to $980.8 million and backlog hit $38.7 billion, Vineland, New Jersey data-center delays trimmed 2026 revenue guidance and a massive $40 billion–$45 billion 2027 capital-spending plan rattled investors. Long-term demand holds, but execution and financing require close watch.",
+               "technical":  "NBIS remains in a firm bearish trend despite rallying 20.28% to $97.80 on November 23, 2026. Price sits far below its 50-, 100-, and 200-day exponential moving averages (EMAs, which track average trend prices) at $162.27, $179.45, and $171.28, with the EMA 50 already below the EMA 200—a classic bearish structure. Momentum stays weak: RSI 14 (a 0–100 momentum gauge; under 30 is oversold) bounced only to 36, while MACD (12/26/9, a trend-momentum oscillator) sits at -23.78 below its -21.58 signal line, keeping the histogram negative at -2.21. Volatility is extreme, with Bollinger Bands (20/2, a volatility channel around the 20-day average) stretching from $77.71 to $185.70 and price stuck in the lower half, 67% below the $299.86 52-week high. Volume on November 23 hit 51.69 million shares—1.60 times the 20-day average of 32.26 million—yet price faded from its $110.05 intraday peak to close near the $95.73 session low, signaling heavy overhead supply. Key support sits at $77.71 and the $73.52 52-week low, while $110.05 and the $131.71 Bollinger middle band form initial resistance."
            },
     "th":  {
-               "headline":  "Nebius ร่วง 47% หลังงบ Q3 เพราะส่งมอบล่าช้าและต้องลงทุนหนัก แม้ดีมานด์ยังแข็ง",
-               "technical":  "NBIS ปิดที่ $81.31 ในวันที่ 2026-11-20 ลดลง 16.11% ในวันเดียว เปิดตลาดที่ $93.69 แล้วปิดใกล้จุดต่ำสุดของวันที่ $80.67 แนวโน้มเป็นขาลงชัดเจน ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยทุกเส้นมาก EMA (เส้นค่าเฉลี่ยเคลื่อนที่ที่ใช้ดูแนวโน้มระยะสั้น กลาง และยาว) เส้น EMA50 อยู่ที่ $164.9 สูงกว่าราคาราว 51% ส่วน EMA100 ($181.1) และ EMA200 ($172.04) อยู่สูงกว่านั้นอีก EMA50 หลุดลงมาอยู่ใต้สองเส้นยาวแล้ว ซึ่งเป็นสัญญาณคลาสสิกว่าขาขึ้นเดิมจบลง โมเมนตัมเป็นลบ MACD (ตัววัดแรงส่งของเทรนด์) อยู่ที่ -24.08 ต่ำกว่าเส้นสัญญาณที่ -21.03 และฮิสโตแกรมอยู่ที่ -3.05 แปลว่าแรงขายยังเพิ่มขึ้นอยู่ RSI 14 (มาตรวัดโมเมนตัม 0–100 ถ้าต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 28.51 ราคาปิดหลุดขอบล่างของ Bollinger Band ($82.06) เล็กน้อย (Bollinger Band คือกรอบค่าเฉลี่ย 20 วัน ±2 ส่วนเบี่ยงเบนมาตรฐาน) กรอบกว้างมาก ขอบบนอยู่ที่ $186.9 สะท้อนความผันผวนสูงสุดขีด วอลุ่ม 49.5 ล้านหุ้น สูงราว 1.6 เท่าของค่าเฉลี่ย 20 วัน (31.2 ล้าน) ยืนยันแรงขาย แนวรับถัดไปคือจุดต่ำสุด 52 สัปดาห์ที่ $73.52 ส่วนแนวต้านใกล้ ๆ อยู่ที่โซน $93–94 ซึ่งเป็นราคาเปิดและราคาสูงสุดของวันศุกร์",
-               "fundamental":  "Nebius ให้เช่ากำลังประมวลผล GPU และเครื่องมือ AI ทำหน้าที่เป็นตัวกลางระหว่างชิปของ Nvidia กับบริษัทที่สร้างโมเดล AI งบ Q3 2026 (ประกาศ 2026-11-12) มีรายได้ $980.8M โต 571% จากปีก่อน แต่ราว $325M เป็นรายได้ครั้งเดียว Adjusted EBITDA อยู่ที่ $465.8M และงานในมือตามสัญญา (RPO) อยู่ที่ $38.7B ตั้งแต่ต้น Q3 บริษัทเซ็นสัญญาใหม่ไปแล้วกว่า $12B ลูกค้ามีทั้ง Microsoft, Meta, Databricks และ Palantir ปัญหาจึงไม่ได้อยู่ที่ดีมานด์ แต่อยู่ที่การส่งมอบและเงินทุน กำลังการผลิตจากดาต้าเซ็นเตอร์ของบุคคลที่สามเลื่อนไปครึ่งแรกปี 2027 ทำให้ไกด์รายได้ปี 2026 ลดลงไปอยู่ที่ขอบล่างของช่วง $3.0–3.4B และเป้า ARR (รายได้ต่อปีตามอัตราปัจจุบัน) เกิน $7B เลื่อนจากธันวาคมไปกุมภาพันธ์ Capex เพิ่มเป็นราว $27B ในปี 2026 และ $40–45B ในปี 2027 ขณะที่มีเงินสด $7.4B หนี้ $14.2B และคาดว่าจะถึงจุดคุ้มทุนก่อนภาษีใน Q4 2027",
-               "news":  [
-                            "2026-11-12: งบ Q3 รายได้ $980.8M (+571% YoY) และ Adjusted EBITDA $465.8M ดีกว่าคาด แต่บริษัทไกด์รายได้ปี 2026 ไว้ที่ขอบล่างของช่วง $3.0–3.4B และเลื่อนเป้า ARR เกิน $7B จากธันวาคมไปกุมภาพันธ์ หุ้นร่วง 16.35% ในวันนั้นมาปิดที่ $129.40",
-                            "2026-11-12: ปรับไกด์ capex ปี 2026 ขึ้นเป็นราว $27B จากเดิม $20–25B ไกด์ปี 2027 ฉบับแรกตั้งรายได้ไว้ $12–13B และ capex $40–45B โดยคาดว่า 75–85% จะได้จากเงินจ่ายล่วงหน้าของลูกค้าและสินเชื่อที่มีสินทรัพย์ค้ำประกัน",
-                            "CEO Arkady Volozh ยอมรับว่า \u0027ส่วนที่พึ่งบุคคลที่สามมีความล่าช้า\u0027 งวดที่เหลือของสัญญา Microsoft ที่ไซต์ colocation ในนิวเจอร์ซีย์เลื่อนไป Q2 2027 ระหว่างที่ไซต์เปลี่ยนแหล่งไฟฟ้าไปใช้เซลล์เชื้อเพลิงของ Bloom Energy ส่วนไซต์ที่บริษัทเป็นเจ้าของเองยังตรงหรือเร็วกว่ากำหนด",
-                            "จดหมายถึงผู้ถือหุ้นไตรมาส 3 ระบุว่าบริษัทออกหุ้นกู้แปลงสภาพ $5.75B ในเดือนสิงหาคม ขายหุ้นผ่านโปรแกรม ATM ได้ราว $1.0B ใน Q3 และได้วงเงินกู้มีหลักประกัน $3.5B จาก Citi ในเดือนตุลาคม สะท้อนว่าการขยายกิจการพึ่งเงินทุนภายนอกสูงมาก",
-                            "ซัพพลายเชน: 2026-11-12 Nvidia ประกาศว่า Jensen Huang ลาออกจากตำแหน่ง CEO มีผลทันที และแต่งตั้ง CFO Colette Kress เป็น CEO ชั่วคราว ความไม่แน่นอนของผู้นำซัพพลายเออร์ GPU รายหลักกดดันหุ้นโครงสร้างพื้นฐาน AI ช่วงก่อน Nvidia ประกาศงบในสัปดาห์ถัดมา",
-                            "2026-11-20: แรงขายหุ้นกลุ่ม neocloud หนักขึ้นเมื่อกระแสจาก IPO ของ Anthropic จางลง และ Nasdaq ลบ 1.8% Michael Burry ซึ่งเคยเปิดเผยว่าชอร์ต Nebius ออกมาประกาศว่าตัวเองคาดถูก ด้าน Bernstein และ Evercore ISI มองว่าข้อจำกัดหลักของกลุ่มคือกำลังการผลิตและเงินทุน ไม่ใช่ดีมานด์ลูกค้า"
+               "caution":  "นักลงทุนระยะยาวควรระมัดระวังสองแรงกดดันสำคัญคือความล่าช้าในการส่งมอบโครงการและภาระหนี้ที่สูงขึ้น เหตุการณ์ที่ Vineland รัฐนิวเจอร์ซีย์สะท้อนว่าคอขวดด้านไฟฟ้าและผู้รับเหมาภายนอกสามารถเลื่อนการรับรู้รายได้แม้จะมีสัญญารองรับเต็มแล้วก็ตาม ขณะที่แผนลงทุน CapEx สูงถึง $40–$45 พันล้านในปี 2027 ท่ามกลางหนี้สินตามบัญชี $14.19 พันล้าน ทำให้บริษัทมีพื้นที่ผิดพลาดน้อยมากหากตลาดสินเชื่อตึงตัวหรือจำเป็นต้องเพิ่มทุนจนกระทบสัดส่วนผู้ถือหุ้นเดิม นอกจากนี้ การที่ราคาวันที่ 23 พ.ย. ถูกขายกดลงมาจาก $110.05 ปิดที่ $97.80 ยังเตือนว่าแรงขายด้านบนยังหนาแน่น",
+               "cons":  [
+                            "ความล่าช้าในการปรับระบบไฟฟ้าที่ศูนย์ข้อมูล Vineland ของพันธมิตร DataOne ทำให้ต้องเลื่อนส่งมอบกำลังให้ Microsoft บางส่วนไป Q2 2027 และหั่นกรอบเป้ารายได้ปี 2026 ลง",
+                            "งบลงทุน CapEx พุ่งสูงราว $27 พันล้านในปี 2026 และ $40–$45 พันล้านในปี 2027 เพิ่มความเสี่ยงด้านการก่อสร้างและการจัดหาเงินทุนอย่างมาก",
+                            "หนี้สินตามบัญชี ณ 30 ก.ย. 2026 อยู่ที่ $14.19 พันล้าน (เงินต้น $16.48 พันล้าน) และเพิ่งกู้วงเงินสินเชื่อใหม่ $3.5 พันล้านจาก Citi เมื่อ 22 ต.ค. 2026",
+                            "รายได้ Q3 มีรายได้พิเศษครั้งเดียวจากพันธมิตรรวมอยู่ $325.1 ล้าน และนักวิเคราะห์หลายค่ายปรับลดราคาเป้าหมายลงพร้อมกันหลังงบ 12 พ.ย. 2026"
                         ],
-               "caution":  "มุมมองขาลงอยู่ที่เรื่องเงินและเวลา ปีนี้ Nebius ต้องหาเงินมาลงทุนราว $27B และปีหน้าอีก $40–45B ขณะที่กระแสเงินสดจากการดำเนินงาน Q3 ติดลบ $273M และหนี้สูงถึง $14.2B แล้ว ถ้าต้องออกหุ้นกู้แปลงสภาพหรือขายหุ้นเพิ่ม ผู้ถือหุ้นเดิมจะถูกลดสัดส่วน และถ้าสินเชื่อตึงตัว ต้นทุนเงินจะสูงขึ้น การส่งมอบยังพึ่งดาต้าเซ็นเตอร์ของคนอื่นซึ่งเลื่อนมาแล้วรอบหนึ่ง ด้านกราฟยังไม่มีสัญญาณว่าถึงจุดต่ำสุด MACD ยังถ่างลงต่อ และถ้าหลุด $73.52 จะเป็นจุดต่ำสุดใหม่ในรอบ 52 สัปดาห์",
-               "opportunity":  "มุมมองขาขึ้นคือดีมานด์ดูเป็นของจริง Nebius มีงานในมือตามสัญญา $38.7B เซ็นสัญญาใหม่กว่า $12B ในเวลาราวสี่เดือน มีลูกค้าระดับ Microsoft และ Meta และยังคงไกด์ Adjusted EBITDA margin ราว 40% ไว้ ผู้บริหารยืนยันว่าเป็นแค่การเลื่อนเวลา ไม่ใช่การยกเลิกสัญญา และไซต์ของบริษัทเองยังตรงตามกำหนด ถ้ากำลังการผลิตที่เลื่อนไปเข้ามาได้ในครึ่งแรกปี 2027 ไกด์รายได้ปี 2027 ที่ $12–13B จะสูงราว 4 เท่าของปี 2026 ส่วน RSI ที่ 28.51 และราคาที่หลุดขอบล่างของกรอบแสดงว่าหุ้นถูกขายมากเกินไป ซึ่งบางครั้งตามมาด้วยการเด้งแรง แต่หุ้นที่ขายมากเกินไปก็ลงต่อได้เช่นกัน",
+               "fundamental":  "Nebius อยู่ในชั้น \u0027neocloud\u0027 ของห่วงโซ่มูลค่า AI โดยให้บริการคลัสเตอร์ NVIDIA GPU และซอฟต์แวร์ AI Cloud แบบครบวงจรแก่กลุ่ม Hyperscaler และบริษัท AI ผลประกอบการ Q3 เมื่อ 12 พ.ย. 2026 แสดงการขยายตัวก้าวกระโดด รายได้โต 571% YoY แตะ $980.8 ล้าน (เป็นรายได้ Nebius AI Cloud $973.8 ล้าน แต่รวมรายได้ครั้งเดียว $325.1 ล้าน) Adjusted EBITDA พลิกบวก $465.8 ล้าน (มาร์จิ้น 47.5%) และ ARR แตะ $6.4 พันล้าน อย่างไรก็ตาม ความล่าช้าด้านระบบไฟฟ้าที่ศูนย์ข้อมูลพันธมิตรใน Vineland เพื่อรองรับสัญญา Microsoft ทำให้บริษัทปรับกรอบเป้ารายได้ปี 2026 ลงสู่ขอบล่างของ $3.0–$3.4 พันล้าน ขณะที่เพิ่มงบลงทุนปี 2026 เป็นราว $27 พันล้าน สำหรับปี 2027 บริษัทตั้งเป้ารายได้ $12–$13 พันล้านและคุ้มทุนก่อนภาษีใน Q4 2027 แต่ต้องใช้ CapEx ถึง $40–$45 พันล้าน ผ่านเงินจ่ายล่วงหน้าและหนี้ค้ำประกันสินทรัพย์ บนฐานเงินสด $7.43 พันล้านและหนี้ตามบัญชี $14.19 พันล้าน",
+               "headline":  "NBIS ดีด 20% รับข่าวซีอีโอ Nvidia คืนตำแหน่ง แต่เทรนด์ยังเปราะจากปมส่งมอบล่าช้า",
+               "news":  [
+                            "23 พ.ย. 2026: หุ้น NBIS พุ่ง 20.28% ปิดที่ $97.80 หลังบอร์ด NVIDIA มีมติแต่งตั้ง Jensen Huang กลับมารับตำแหน่ง CEO จากที่เพิ่งลาออกไปเมื่อ 12 พ.ย. ช่วยคลายความกังวลในกลุ่ม AI Cloud ที่พึ่งพาชิป NVIDIA",
+                            "13–16 พ.ย. 2026: วาณิชธนกิจหลายแห่งปรับลดราคาเป้าหมาย NBIS หลังปรับคาดการณ์รายได้ ได้แก่ Citigroup ($265 เหลือ $215, Buy), Truist ($355 เหลือ $245, Buy), Baird ($340 เหลือ $200, Outperform) และ DA Davidson ($250 เหลือ $125, Neutral)",
+                            "12 พ.ย. 2026: Nebius รายงานรายได้ Q3 2026 ที่ $980.8 ล้าน (+571% YoY) และ Adjusted EBITDA $465.8 ล้าน พร้อมเปิดคาดการณ์ปี 2027 ตั้งเป้ารายได้ $12–$13 พันล้าน ควบคู่แผน CapEx มหาศาล $40–$45 พันล้าน",
+                            "12 พ.ย. 2026: ผู้บริหารเปิดเผยความล่าช้าในการเปลี่ยนผ่านระบบไฟฟ้าที่ศูนย์ข้อมูล Vineland ของ DataOne ซึ่งรองรับสัญญา Microsoft ทำให้ส่วนที่เหลือเลื่อนส่งมอบไป Q2 2027 และดึงเป้ารายได้ปี 2026 ลงสู่กรอบล่างของ $3.0–$3.4 พันล้าน",
+                            "22 ต.ค. 2026: Nebius ปิดดีลวงเงินสินเชื่อมีหลักประกันอายุ 364 วัน มูลค่า $3.5 พันล้านกับ Citi เพื่อรองรับการขยายคลัสเตอร์ GPU ต่อเนื่องจากข่าวได้รับสถานะ NVIDIA Exemplar Cloud บนระบบ HGX B300 เมื่อ 16 ต.ค. 2026"
+                        ],
+               "opportunity":  "หาก Nebius ส่งมอบกำลังการผลิตปี 2027 ได้ตามแผน พลังการเติบโตเชิงขนาดจะโดดเด่นมาก โดยผู้บริหารคาดว่ารายได้จะขยายตัวราวสี่เท่าจาก $3.0–$3.2 พันล้านในปี 2026 สู่ $12–$13 พันล้านในปี 2027 และเข้าสู่จุดคุ้มทุนก่อนภาษีใน Q4 2027 โดยมีงานในมือ RPO รองรับถึง $38.7 พันล้าน จุดแข็งสำคัญคือเงินจ่ายล่วงหน้าจากลูกค้าครอบคลุมงบลงทุน CapEx ของกำลังการผลิตสัญญาใหม่เกิน 100% (คาดรับ $17–$20 พันล้านในปี 2027) ช่วยลดแรงกดดันงบดุลเมื่อเทียบกับคู่แข่งที่พึ่งพาหนี้เพียงอย่างเดียว และตอกย้ำฐานะพันธมิตรระดับแถวหน้าของ Microsoft, Meta และ NVIDIA",
+               "opportunityCheck":  "กรอบคะแนนโอกาส AI บนหน้าเว็บโดยรวมสมเหตุสมผลในด้านสัดส่วนรายได้ AI และการเติบโตของตลาด แต่มีสองด้านที่ควรปรับมุมมอง ด้านตำแหน่งทางการตลาดควรขยับขึ้น เพราะแบ็กล็อก $38.7 พันล้านกับ Microsoft และ Meta สถานะ NVIDIA Exemplar Cloud บนระบบ HGX B300 และ ARR $6.4 พันล้านพิสูจน์ว่า Nebius ก้าวพ้นระดับผู้เล่นเริ่มต้นไปแล้ว ในทางกลับกัน ด้านคอขวดและอำนาจกำหนดราคาควรมองระมัดระวังหรือลดลงเล็กน้อย แม้เงินจ่ายล่วงหน้าจะสะท้อนอำนาจต่อรองดี แต่ความล่าช้าด้านไฟฟ้าที่ Vineland เผยให้เห็นการพึ่งพาผู้ให้บริการศูนย์ข้อมูลภายนอกและซัพพลายจาก NVIDIA อย่างมีนัยสำคัญ",
+               "pros":  [
+                            "รายได้ Q3 2026 พุ่ง 571% YoY แตะ $980.8 ล้าน ดัน Adjusted EBITDA พลิกบวกที่ $465.8 ล้าน (อัตรากำไร 47.5%)",
+                            "งานในมือตามสัญญา (RPO) ณ 30 ก.ย. 2026 สูงถึง $38.7 พันล้าน โดยมีสัญญาขนาดใหญ่กับ Microsoft และ Meta เป็นฐานหลัก",
+                            "เงินจ่ายล่วงหน้าจากลูกค้าครอบคลุมงบลงทุน CapEx ของกำลังการผลิตสัญญาใหม่เกิน 100% โดยคาดรับ $17–$20 พันล้านในปี 2027",
+                            "ได้รับสถานะ NVIDIA Exemplar Cloud บนระบบ HGX B300 เมื่อ 16 ต.ค. 2026 ตอกย้ำความสัมพันธ์เชิงกลยุทธ์กับ NVIDIA ซึ่งเป็นผู้ถือหุ้นด้วย"
+                        ],
                "risks":  [
-                             "ความเสี่ยงด้านเงินทุน: capex $40–45B ในปี 2027 ต้องพึ่งเงินจ่ายล่วงหน้าของลูกค้า สินเชื่อที่มีสินทรัพย์ค้ำประกัน และตลาดทุนที่ยังเปิดรับ",
-                             "สัดส่วนผู้ถือหุ้นเดิมอาจถูกลดลง หากบริษัทออกหุ้นกู้แปลงสภาพหรือขายหุ้นผ่าน ATM เพิ่ม",
-                             "ไซต์ colocation ของบุคคลที่สาม รวมถึงงวดของ Microsoft ในนิวเจอร์ซีย์ อาจล่าช้าอีกจนรายได้ถูกเลื่อนออกไปอีก",
-                             "รายได้กระจุกตัวอยู่กับ hyperscaler ไม่กี่ราย (Microsoft, Meta)",
-                             "ความไม่แน่นอนเรื่องผู้นำของ Nvidia และบรรยากาศการลงทุนในโครงสร้างพื้นฐาน AI ที่เปลี่ยนไป รวมถึงนักชอร์ตชื่อดังที่จับตากลุ่ม neocloud",
-                             "คุณภาพกำไร: รายได้ Q3 ราว $325M เป็นรายการครั้งเดียว และผู้บริหารเลิกใช้ ARR เป็นตัวชี้วัดหลัก"
+                             "คอขวดด้านโครงสร้างพื้นฐานไฟฟ้าและผู้รับเหมาศูนย์ข้อมูลภายนอก (เช่นกรณี Vineland รัฐนิวเจอร์ซีย์) ที่อาจกระทบกำหนดส่งมอบและความเชื่อมั่นของลูกค้า Hyperscaler",
+                             "การใช้เงินลงทุนสูงมาก (CapEx ปี 2027 ที่ $40–$45 พันล้าน) ซึ่งต้องพึ่งพาเงินจ่ายล่วงหน้า หนี้ค้ำประกันสินทรัพย์ และภาวะตลาดสินเชื่อที่เอื้ออำนวยอย่างต่อเนื่อง",
+                             "ความเสี่ยง Dilution ต่อผู้ถือหุ้นเดิมจากหุ้นกู้แปลงสภาพ ($5.75 พันล้านที่ออกเมื่อ ส.ค. 2026) และการทยอยขายหุ้นผ่านโครงการ ATM เพื่อระดมทุนขยายกิจการ",
+                             "การกระจุกตัวของลูกค้ารายใหญ่และซัพพลายเออร์หลักอย่าง Microsoft, Meta และ NVIDIA ทำให้ราคาหุ้นผันผวนรุนแรงตามข่าวการลงทุนหรือธรรมาภิบาลของพันธมิตร"
                          ],
-               "summary":  "NBIS ร่วงจาก $154.69 ก่อนประกาศงบวันที่ 2026-11-12 มาอยู่ที่ $81.31 ในวันที่ 2026-11-20 ลดลงราว 47% และตอนนี้อยู่เหนือจุดต่ำสุด 52 สัปดาห์เพียงราว 11% งบ Q3 ออกมาดีกว่าคาด แต่กำลังการผลิตจากบุคคลที่สามที่ล่าช้า เป้า ARR ที่ถูกเลื่อน และงบลงทุนที่สูงขึ้นมาก ทำให้คำถามของตลาดเปลี่ยนจากเรื่องการเติบโตเป็นว่าบริษัทจะหาเงินและส่งมอบได้ทันหรือไม่ การลาออกกะทันหันของ CEO Nvidia และแรงขายทั้งกลุ่ม neocloud ยิ่งซ้ำเติม ภาพทางเทคนิคเป็นขาลงชัดเจน แม้จะอยู่ในโซนขายมากเกินไป ดีมานด์ยังแข็งแรง แต่ moat thesis ต้องจับตาเรื่องการส่งมอบและเงินทุน"
+               "summary":  "หุ้น Nebius Group (NBIS) พุ่ง 20.28% ปิดที่ $97.80 เมื่อวันที่ 23 พ.ย. 2026 หลัง NVIDIA แต่งตั้ง Jensen Huang กลับมาเป็น CEO จุดกระแสรีบาวด์ทั้งกลุ่ม AI Cloud อย่างไรก็ดี ภาพรวม NBIS ยังอยู่ในขาลงรุนแรงและต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $299.86 ถึง 67% หลังงบ Q3 วันที่ 12 พ.ย. แม้งบจะโตร้อนแรง 571% YoY แตะ $980.8 ล้านและมีแบ็กล็อก $38.7 พันล้าน แต่ความล่าช้าของศูนย์ข้อมูลที่ Vineland รัฐนิวเจอร์ซีย์ทำให้ต้องปรับลดกรอบเป้ารายได้ปี 2026 ควบคู่แผนลงทุน CapEx ปี 2027 สูงถึง $40–$45 พันล้าน ฐานอุปสงค์ระยะยาวยังแข็งแกร่ง แต่ต้องจับตาการส่งมอบและการจัดหาเงินทุนใกล้ชิด",
+               "technical":  "แม้ NBIS จะดีดตัวแรง 20.28% ปิดที่ $97.80 เมื่อ 23 พ.ย. 2026 แต่โครงสร้างทางเทคนิคยังคงเป็นขาลงชัดเจน ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA ซึ่งเป็นเส้นบอกแนวโน้มราคาเฉลี่ย) ทั้ง 50, 100 และ 200 วันที่ $162.27, $179.45 และ $171.28 โดย EMA 50 ตัดลงต่ำกว่า EMA 200 แล้ว สะท้อนแนวโน้มหลักที่เป็นลบ ด้านโมเมนตัมยังอ่อนแอ RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือเขตขายมากเกินไป) ฟื้นขึ้นมาเพียง 36 ขณะที่ MACD (12/26/9 เครื่องมือวัดทิศทางและแรงส่ง) อยู่ที่ -23.78 ต่ำกว่าเส้น Signal ที่ -21.58 ทำให้ Histogram ยังติดลบ -2.21 ความผันผวนสูงมาก กรอบ Bollinger Bands (20/2 ช่องความผันผวนรอบค่าเฉลี่ย 20 วัน) กว้างถึง $77.71–$185.70 โดยราคาอยู่ในครึ่งล่างและต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($299.86) ถึง 67% แม้ปริมาณซื้อขายวันที่ 23 พ.ย. จะพุ่งถึง 51.69 ล้านหุ้น (1.60 เท่าของค่าเฉลี่ย 20 วันที่ 32.26 ล้านหุ้น) แต่ราคาเปิดกระโดดที่ $110.00 ขึ้นสูงสุด $110.05 แล้วถูกขายกดลงมาปิดใกล้จุดต่ำสุดของวันที่ $95.73 ชี้แรงขายด้านบนยังหนัก แนวรับสำคัญอยู่ที่ $77.71 และจุดต่ำสุดรอบ 52 สัปดาห์ $73.52 ส่วนแนวต้านแรกอยู่ที่ $110.05 และเส้นกลาง Bollinger $131.71"
            },
     "sources":  [
                     {
-                        "title":  "Nebius Group N.V. - Form 6-K Q3 2026 results press release (Ex. 99.1)",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926126008/tm2629571d1_ex99-1.htm",
-                        "date":  "2026-11-12"
+                        "date":  "2026-11-12",
+                        "publisher":  "Nebius Group",
+                        "title":  "Nebius reports third quarter 2026 financial results",
+                        "url":  "https://nebius.com/newsroom/nebius-reports-third-quarter-2026-financial-results"
                     },
                     {
-                        "title":  "Nebius Group N.V. - Form 6-K Q3 2026 shareholder letter (Ex. 99.2)",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001513845/000110465926126008/tm2629571d1_ex99-2.htm",
-                        "date":  "2026-11-12"
+                        "date":  "2026-11-12",
+                        "publisher":  "TechCrunch",
+                        "title":  "Nebius tests the neocloud playbook with $40 billion in planned spending",
+                        "url":  "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending"
                     },
                     {
-                        "title":  "Nebius shares tumble 22% as capacity delays hit revenue outlook and capex rises to $27 billion",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/markets/stocks/articles/nebius-shares-tumble-22-capacity-143312354.html",
-                        "date":  "2026-11-12"
+                        "date":  "2026-11-12",
+                        "publisher":  "Quartz",
+                        "title":  "Nebius stock falls after cutting 2026 revenue forecast, Q3 earnings",
+                        "url":  "https://www.qz.com/nebius-stock-falls-after-cutting-2026-revenue-forecast-q3-earnings"
                     },
                     {
-                        "title":  "Why Is Nebius Group (NBIS) Stock Down -16.35% Today?",
-                        "publisher":  "Tickeron",
-                        "url":  "https://tickeron.com/blogs/why-is-nebius-group-nbis-stock-down-16-35-today-35423/",
-                        "date":  "2026-11-12"
+                        "date":  "2026-10-22",
+                        "publisher":  "Nebius Group",
+                        "title":  "Nebius secures $3.5 billion financing facility with Citi",
+                        "url":  "https://nebius.com/newsroom/nebius-secures-35-billion-financing-facility-with-citi"
                     },
                     {
-                        "title":  "Why is Nebius stock sliding today?",
-                        "publisher":  "Investing.com",
-                        "url":  "https://www.investing.com/news/stock-market-news/why-is-nebius-stock-sliding-today-93CH-5042154",
-                        "date":  "2026-11-20"
+                        "date":  "2026-10-16",
+                        "publisher":  "Nebius Group",
+                        "title":  "Nebius achieves NVIDIA Exemplar Cloud on NVIDIA HGX B300 for training workloads",
+                        "url":  "https://nebius.com/newsroom/nebius-achieves-nvidia-exemplar-cloud-on-nvidia-hgx-b300-for-training-workloads"
                     },
                     {
-                        "title":  "NVIDIA Announces CEO Transition",
+                        "date":  "2026-11-23",
                         "publisher":  "NVIDIA Newsroom",
-                        "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-                        "date":  "2026-11-12"
+                        "title":  "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
                     },
                     {
-                        "title":  "CoreWeave, Oracle and Nebius Plunge as Nvidia Fallout Rattles AI Stocks",
-                        "publisher":  "TradingView / GuruFocus",
-                        "url":  "https://www.tradingview.com/news/gurufocus:b3eef28cf094b:0-coreweave-oracle-and-nebius-plunge-as-nvidia-fallout-rattles-ai-stocks/"
+                        "date":  "2026-11-23",
+                        "publisher":  "Benzinga",
+                        "title":  "Nebius Group NV (NBIS) Stock Quote \u0026 Analyst Ratings",
+                        "url":  "https://www.benzinga.com/quote/NBIS"
                     }
                 ]
 }

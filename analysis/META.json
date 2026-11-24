@@ -6,7 +6,7 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T05:46:05Z",
+    "generatedAt":  "2026-11-24T03:42:17Z",
     "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
@@ -14,37 +14,33 @@
                        "symbol":  "NASDAQ:META",
                        "yahoo":  "META",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-23T05:41:38Z",
-                       "price":  560.84,
-                       "open":  583.91,
-                       "high":  588.69,
-                       "low":  558.68,
-                       "volume":  25589800,
-                       "avgVolume20":  21663640,
-                       "changePct":  -5.93,
-                       "historyDays":  501,
-                       "ema50":  644.76,
-                       "ema100":  642.27,
-                       "ema200":  639.17,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:37:04Z",
+                       "price":  597.6,
+                       "open":  591.72,
+                       "high":  602.46,
+                       "low":  579.78,
+                       "volume":  19051700,
+                       "avgVolume20":  21075415,
+                       "changePct":  6.55,
+                       "historyDays":  500,
+                       "ema50":  642.91,
+                       "ema100":  641.39,
+                       "ema200":  638.75,
                        "bb":  {
-                                  "upper":  654.24,
-                                  "middle":  618.56,
-                                  "lower":  582.89
+                                  "upper":  653.26,
+                                  "middle":  616.92,
+                                  "lower":  580.57
                               },
                        "macd":  {
-                                    "macd":  -19.88,
-                                    "signal":  -16.9,
-                                    "hist":  -2.98
+                                    "macd":  -19.68,
+                                    "signal":  -17.45,
+                                    "hist":  -2.23
                                 },
-                       "rsi14":  30.26,
+                       "rsi14":  41.75,
                        "high52w":  779.82,
                        "low52w":  520.26,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         622.98
-                                     ],
                                      [
                                          "2026-06-04",
                                          627.57
@@ -520,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          560.84
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         597.6
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          623.58,
                                           623.74,
                                           622.53,
                                           621.08,
@@ -642,119 +641,118 @@
                                           651.69,
                                           650.31,
                                           648.19,
-                                          644.76
+                                          644.76,
+                                          642.91
                                       ]
                    },
     "en":  {
-               "caution":  "The 28% drop from $779.82 reflects real capital-allocation friction, not just market noise. Meta is funding a $135–$145 billion annual capex wave without a cloud-computing rental arm, forcing equity dilution at $625, new euro debt, and S\u0026P\u0027s negative credit outlook. Technically, price broke below the lower Bollinger Band ($582.89) on 18% above-average volume with negative MACD (-19.88), signaling sellers still control the tape. Until Meta outlines 2027 capex with Q4 results and contains Muse privacy issues, overhead supply around $625–$645 may cap rebounds.",
+               "caution":  "The stock\u0027s slide below its 200-day EMA ($638.75) reflects real financial friction rather than pure market noise. Spending $135B–$145B in 2026 capex pushed Q3 free cash flow negative (-$2.12B), forcing Meta to rely on large bond issues ($15B USD and €9B EUR) while Morgan Stanley flagged higher 2027 cloud expenses (~$227B total opex). Add European privacy and competition probes (Italy\u0027s €805M fine, UK CMA) and below-average volume on Monday\u0027s bounce, and downside toward the $580.57 lower Bollinger Band or $520.26 52-week low remains a live risk.",
                "cons":  [
-                            "Q3 capex hit $34.91 billion, turning quarterly free cash flow negative (-$2.12 billion) as FY2026 capex guidance narrowed to $135–$145 billion.",
-                            "October 26 equity and mandatory convertible preferred offerings ($37.5 billion combined) plus €9 billion in euro bonds add dilution and leverage.",
-                            "S\u0026P Global Ratings revised Meta\u0027s AA- credit outlook to negative on October 30, projecting multi-year free operating cash flow deficits.",
-                            "Italy\u0027s €805 million privacy fine (November 14), a UK CMA AI-scraping probe (October 30), and Muse privacy bugs (November 19) heighten regulatory risk."
+                            "Q3 capital spending jumped to $34.91B, pushing free cash flow to -$2.12B while full-year 2026 capex guidance narrowed upward to $135B–$145B.",
+                            "Heavy debt issuance ($15B USD and €9B EUR in early November) and a disputed Class C non-voting share plan (paused November 18 amid Delaware litigation) heighten financing and governance concerns.",
+                            "European regulatory friction escalated with an October 30 UK CMA probe into AI scraping terms and a €805M Italian privacy fine on November 14.",
+                            "GAAP Q3 operating income dropped 37% YoY to $12.99B after a $9.89B teen mental health legal charge, and Morgan Stanley cut its price target from $820 to $720 on November 23 on higher 2027 cloud expense estimates."
                         ],
-               "fundamental":  "Meta occupies a unique consumer-application layer in the AI value chain: it spends like a hyperscaler to train Muse Spark models and build multi-gigawatt clusters, yet monetizes primarily through advertising across Facebook, Instagram, WhatsApp, and Threads. Q3 2026 results on October 21 showed that flywheel working—ad revenue climbed 26% YoY to $63.06 billion (total revenue $64.60 billion) with adjusted EPS of $7.40 excluding a $9.89 billion U.S. state attorneys general settlement ($3.83 GAAP). Still, scaling AI infrastructure is transforming Meta\u0027s balance sheet. Quarterly capex hit $34.91 billion, pushing free cash flow to -$2.12 billion, while Reality Labs remained a drag ($443 million revenue; $18–$19 billion projected FY2026 loss). Tapping $37.5 billion in equity/preferred stock and €9 billion in euro debt preserves liquidity, while custom MTIA chips target lower inference costs.",
-               "headline":  "Meta Slides 5.9% to $560.84 as AI Capex and Dilution Eclipse 26% Growth",
+               "fundamental":  "Meta sits at the consumer-application layer of the AI value chain, converting gigawatt-scale compute investments into higher engagement and ad pricing across Facebook, Instagram, WhatsApp, and Threads. Q3 2026 results (October 21) confirmed that moat remains intact: revenue climbed 26% YoY to $64.60B, with ad revenue at $63.06B and adjusted EPS at $7.40 (GAAP $3.83 after a $9.89B teen mental health settlement charge). Q4 revenue guidance of $73.0B–$76.0B underscores steady advertiser demand. The tension is capital intensity. Q3 capex reached $34.91B, flipping free cash flow to -$2.12B as Meta funds its Prometheus and Hyperion AI clusters, full-year capex of $135B–$145B, and Reality Labs losses ($18B–$19B). While Superintelligence Labs\u0027 Muse Wonder and Muse Ember expand AI capabilities, heavy borrowing ($15B USD and €9B EUR in November) raises the bar for AI returns.",
+               "headline":  "Meta rebounds 6.55% off support, yet AI capex overhang keeps trend bearish",
                "news":  [
-                            "Oct 21, 2026 — Meta reported Q3 revenue of $64.60 billion (+26% YoY) and guided Q4 revenue to $73–$76 billion, with GAAP EPS of $3.83 ($7.40 excluding a $9.89 billion state legal settlement). However, $34.91 billion in quarterly capex pushed free cash flow to -$2.12 billion, and FY2026 capex guidance narrowed to $135–$145 billion.",
-                            "Oct 26 \u0026 Nov 12, 2026 — To finance its AI data-center buildout, Meta priced $25.0 billion in Class A common stock forward-sale agreements at $625 per share alongside $12.5 billion in 6.50% Series A mandatory convertible preferred stock. Meta then closed its debut €9 billion euro-denominated senior notes offering on November 12 across maturities from 2031 to 2065.",
-                            "Oct 30, 2026 — S\u0026P Global Ratings affirmed Meta\u0027s \u0027AA-\u0027 credit rating but revised its outlook from stable to negative over accelerating AI capex and data-center leasing. S\u0026P projected free operating cash flow deficits of $22–$39 billion in 2026 and $71 billion in 2027, potentially lifting leverage above its 1.0x downgrade threshold.",
-                            "Oct 30 \u0026 Nov 14, 2026 — European regulatory pressure intensified as the UK CMA opened an antitrust probe on October 30 into Meta\u0027s publisher-content terms for AI training. On November 14, Italy\u0027s Garante fined Meta €805 million (~$887 million) over default Android photo-gallery permissions and ordered changes within 60 days.",
-                            "Nov 19–20, 2026 — Reports cited internal employee warnings that Meta\u0027s Muse AI agent mixed up user conversations and surfaced sensitive bank and Signal data during testing. The next day, Meta fell 5.93% to $560.84 amid broader AI-trade de-risking following Anthropic\u0027s post-IPO decline."
+                            "Nov 23, 2026: Morgan Stanley lowered its META price target from $820 to $720 while keeping an Overweight rating, lifting its 2027 operating expense estimate by $14B to ~$227B on higher cloud spending. Shares still rebounded 6.55% to $597.60 alongside a broader AI-sector recovery after falling 5.93% on November 20.",
+                            "Nov 18, 2026: Meta disclosed in an SEC Form 8-K that it agreed not to issue its proposed non-voting Class C common stock while Delaware Court of Chancery shareholder litigation proceeds. The recapitalization plan, unveiled October 21, had raised governance and dilution concerns.",
+                            "Nov 14, 2026: Italy\u0027s data privacy authority (Garante) fined Meta €805M (~$887M) over a default Android Facebook gallery-suggestion feature affecting ~20M users and ordered an opt-in flow within 60 days. Meta called the fine disproportionate and plans to appeal.",
+                            "Nov 9, 2026: Meta Superintelligence Labs launched Muse Ember, a lightweight closed-API multimodal model with a 1M-token context window priced at $0.10 per million input tokens for high-volume agent execution. It pairs with frontier planner Muse Wonder (launched October 12).",
+                            "Nov 3–12, 2026: Meta tapped global debt markets to fund AI infrastructure, following a $15B U.S. bond sale (November 3) with a debut six-tranche €9B euro bond priced November 4 (settled November 12) that drew over €53B in orders.",
+                            "Oct 30, 2026: The UK Competition and Markets Authority (CMA) opened a formal Competition Act investigation into Meta\u0027s commercial terms permitting AI content harvesting from business and publisher websites, after Meta paused the rollout on October 28.",
+                            "Oct 21, 2026: Meta reported Q3 2026 revenue of $64.60B (+26% YoY) and guided Q4 revenue to $73.0B–$76.0B, but $34.91B in capex drove free cash flow to -$2.12B and a $9.89B teen mental health legal charge cut GAAP EPS to $3.83 ($7.40 adjusted)."
                         ],
-               "opportunity":  "For long-term AI infrastructure holders, the pullback has not dented Meta\u0027s core consumer network moat: 3.64 billion daily active people and 26% ad-revenue growth prove AI ranking is already lifting monetization, with Q4 revenue guided up to $76 billion. Management also expects Reality Labs losses to narrow toward $15 billion in 2027 as spending pivots to AI, while MTIA custom silicon could curb compute costs. With RSI 14 at 30.26 and price approaching $520.26 52-week support, signs of base-building or steadier 2027 free-cash-flow guidance could improve risk-reward.",
-               "opportunityCheck":  "Most of the page\u0027s AI-opportunity profile fits Meta well, especially its low bottleneck score given heavy reliance on external GPU suppliers while custom MTIA silicon ramps. However, I would nudge AI revenue exposure slightly higher because AI ad-ranking already drove 26% YoY revenue growth and 14% higher ad pricing in Q3 2026. Conversely, I would trim the market-position score slightly: unlike cloud hyperscalers, Meta cannot rent excess AI compute to third parties to offset $135–$145 billion in annual capex, and November 19 Muse privacy glitches highlight consumer-agent execution hurdles.",
+               "opportunity":  "For long-term AI investors, the pullback (~23% off its $779.82 52-week high) contrasts with an accelerating core business. Advertising revenue grew 26% YoY to $63.06B in Q3 with strong pricing (+14%), and Q4 guidance of $73.0B–$76.0B suggests AI recommendation and ad tools are paying off. Meanwhile, Muse Wonder and ultra-low-cost Muse Ember position Meta to monetize agentic workflows alongside its massive consumer distribution, while Reality Labs losses are projected to narrow from $18B–$19B in 2026 toward ~$15B in 2027. Reclaiming the $616.92 middle band and $638.75–$642.91 EMA cluster would signal technical stabilization.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile looks mostly accurate, especially keeping bottleneck and pricing power low: Meta is a heavy buyer of chips, power, and cloud capacity rather than a supply-chain chokepoint, as its $135B–$145B 2026 capex plan and November debt sales underscore. However, I would nudge AI revenue exposure slightly higher. AI-driven ad ranking and pricing power propelled Q3 ad revenue up 26% YoY to $63.06B, and Meta now monetizes Superintelligence Labs externally via API pricing on Muse Ember ($0.10 per million input tokens).",
                "pros":  [
-                            "Q3 2026 revenue rose 26% year-over-year to $64.60 billion, with average ad prices up 14% and Q4 guided to $73–$76 billion.",
-                            "Family Daily Active People reached 3.64 billion in September 2026 (+3% YoY), reinforcing unmatched consumer distribution for AI.",
-                            "Muse Spark and the Muse AI agent surpassed 10 million downloads after launching in September 2026, expanding consumer AI engagement.",
-                            "Custom MTIA chips and Ethernet data-center fabrics aim to lower long-term AI inference costs and reduce reliance on Nvidia."
+                            "Core ad engine accelerated in Q3 2026 (reported October 21), with ad revenue rising 26% YoY to $63.06B on 10% higher impressions and 14% higher prices.",
+                            "Q4 2026 revenue guidance of $73.0B–$76.0B points to resilient advertiser demand across Facebook, Instagram, WhatsApp, and Threads.",
+                            "Superintelligence Labs expanded its Muse lineup on November 9 with Muse Ember, an ultra-low-cost multimodal agent model priced at $0.10 per million input tokens.",
+                            "Meta\u0027s debut €9B euro bond sale on November 4 drew over €53B in orders, demonstrating deep institutional funding access for AI data centers."
                         ],
                "risks":  [
-                             "Prolonged negative free cash flow if 2027 AI capex keeps rising faster than ad monetization, risking an S\u0026P credit downgrade below AA-.",
-                             "Future equity dilution from the $25.0 billion forward common-stock agreements and $12.5 billion mandatory convertible preferred shares.",
-                             "Escalating European and U.S. regulatory penalties—including Italy\u0027s €805 million fine, the UK CMA AI-scraping probe, and the FTC\u0027s antitrust appeal.",
-                             "Consumer trust and adoption setbacks if Muse AI agent privacy glitches persist alongside intense competition from Apple, OpenAI, and Anthropic."
+                             "Prolonged negative free cash flow if 2027 AI capex and cloud expenses outpace ad monetization and new API revenues.",
+                             "Rising debt load and widening credit spreads after $15B USD and €9B EUR bond issuances plus large off-balance-sheet data center leases.",
+                             "Escalating UK and EU regulatory actions (CMA AI-scraping probe, €805M Italian privacy fine, WhatsApp AI interoperability scrutiny) limiting data access or margins.",
+                             "Governance and equity-dilution uncertainty around Meta\u0027s paused Class C non-voting share recapitalization and ongoing FTC antitrust appeal."
                          ],
-               "summary":  "Meta Platforms closed at $560.84 on November 20, 2026, down 5.93% on the day and 28.1% off its $779.82 52-week high. Core advertising remains strong: Q3 revenue jumped 26% year-over-year to $64.60 billion on October 21, with 3.64 billion daily active people. However, $34.91 billion in quarterly capex pushed free cash flow negative (-$2.12 billion), prompting $37.5 billion in October 26 equity/preferred offerings, €9 billion in euro debt, and an October 30 S\u0026P negative outlook. Regulatory fines and November 19 Muse privacy glitches deepened the sell-off, though Meta\u0027s consumer network moat remains intact.",
-               "technical":  "Meta\u0027s chart is decisively bearish after Friday\u0027s 5.93% slide to $560.84 on November 20, 2026. Although the three EMAs (exponential moving averages tracking trend) remain stacked bullishly—EMA 50 at $644.76, EMA 100 at $642.27, and EMA 200 at $639.17—price has broken 12%–13% below that entire cluster, turning $639–$645 into heavy overhead resistance alongside October\u0027s $625 forward-offering price. Momentum confirms the downtrend: MACD (a gauge comparing fast and slow trend averages) sits deeply negative at -19.88 below its -16.90 signal line, with a widening -2.98 histogram. However, downside stretch is nearing short-term extremes. Price closed $22.05 beneath the lower Bollinger Band (a 20-day volatility channel spanning $582.89 to $654.24), while RSI 14 (a 0–100 momentum gauge where under 30 is oversold) fell to 30.26. Trading volume of 25.59 million shares topped the 20-day average of 21.66 million by 18%, confirming institutional distribution. Now sitting in the bottom 16% of its $520.26–$779.82 52-week range, META faces major support near $520.26."
+               "summary":  "Meta Platforms (META) bounced 6.55% on November 23, 2026 to $597.60, yet remains in a bearish technical trend below its 50-, 100-, and 200-day EMAs ($638.75–$642.91). The late-October and November pullback reflects investor anxiety over surging AI capital spending ($34.91B in Q3; $135B–$145B guided for 2026), which turned Q3 free cash flow negative (-$2.12B) and prompted $15B plus €9B in bond issuance. Still, Meta\u0027s consumer network moat looks intact: Q3 revenue grew 26% year-over-year to $64.60B, and Superintelligence Labs shipped Muse Ember on November 9.",
+               "technical":  "META closed at $597.60 on November 23, 2026 (+6.55%), yet its chart structure remains bearish. Although its exponential moving averages (EMAs, trend-tracking lines that weight recent prices more heavily) stay tightly stacked in bullish order—EMA 50 at $642.91, EMA 100 at $641.39, and EMA 200 at $638.75—price sits roughly 6%–7% below all three, turning $638.75–$642.91 into heavy overhead resistance. Momentum confirms the downtrend: MACD 12/26/9 (a trend-momentum gauge comparing fast and slow averages) sits at -19.68 below its -17.45 signal line, leaving a negative -2.23 histogram. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) recovered to 41.75, off deeper weakness but still below the neutral 50 mark. Within Bollinger Bands (a volatility envelope around a 20-day average), Monday\u0027s $579.78 low briefly tested the $580.57 lower band as support, while the $616.92 middle band caps near-term rebounds. Trading in the lower third of its $520.26–$779.82 52-week range on below-average volume (19.05M vs. 21.08M 20-day average), this bounce lacks volume conviction."
            },
     "th":  {
-               "caution":  "การร่วงลง 28% จากจุดสูงสุด $779.82 สะท้อนแรงกดดันด้านการจัดสรรเงินทุนจริง ไม่ใช่แค่ความผันผวนระยะสั้น Meta ต้องแบกรับงบลงทุน $135–$145 พันล้านต่อปีโดยไม่มีธุรกิจให้เช่าคลาวด์ช่วยรับต้นทุน จึงต้องเพิ่มทุนที่ $625 ออกหุ้นกู้ยูโร และถูก S\u0026P ปรับแนวโน้มเครดิตเป็นลบ เชิงเทคนิค ราคาหลุดกรอบล่าง Bollinger Band ($582.89) พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย 18% และ MACD ติดลบ (-19.88) ชี้ว่าฝั่งขายยังคุมเกม ตราบใดที่ยังไม่เห็นกรอบงบลงทุนปี 2027 ในงบ Q4 และการแก้ปัญหาความเป็นส่วนตัวของ Muse โซน $625–$645 อาจยังเป็นแนวต้านสำคัญ",
+               "caution":  "การร่วงลงต่ำกว่า EMA 200 ($638.75) สะท้อนแรงกดดันทางการเงินที่เกิดขึ้นจริง ไม่ใช่แค่ความผันผวนของตลาด งบลงทุนปี 2026 ระดับ $135B–$145B กดให้กระแสเงินสดอิสระ Q3 ติดลบ (-$2.12B) จนต้องออกหุ้นกู้รวม $15B และ €9B ขณะที่ Morgan Stanley เตือนค่าใช้จ่ายคลาวด์ปี 2027 ที่สูงขึ้น (คาดค่าใช้จ่ายรวมราว $227B) เมื่อรวมแรงกดดันจากหน่วยงานยุโรป (ค่าปรับอิตาลี €805M และคดี UK CMA) กับการรีบาวด์ที่วอลุ่มยังต่ำกว่าค่าเฉลี่ย ความเสี่ยงที่จะย่อกลับไปทดสอบแนวรับ Bollinger Band ล่าง ($580.57) หรือจุดต่ำสุดรอบ 52 สัปดาห์ ($520.26) จึงยังไม่หมดไป",
                "cons":  [
-                            "งบลงทุน Q3 พุ่งถึง $34.91 พันล้าน กดกระแสเงินสดอิสระติดลบ -$2.12 พันล้าน พร้อมปรับกรอบงบลงทุนทั้งปี 2026 เป็น $135–$145 พันล้าน",
-                            "การระดมทุนผ่านหุ้นสามัญและหุ้นบุริมสิทธิแปลงสภาพรวม $37.5 พันล้านเมื่อ 26 ต.ค. และหุ้นกู้ยูโร €9 พันล้าน เพิ่มความเสี่ยง dilution และหนี้สิน",
-                            "S\u0026P Global Ratings ปรับแนวโน้มเครดิต AA- เป็นลบเมื่อ 30 ต.ค. โดยคาดกระแสเงินสดจากการดำเนินงานอิสระจะติดลบต่อเนื่องหลายปี",
-                            "ค่าปรับความเป็นส่วนตัวในอิตาลี €805 ล้าน (14 พ.ย.) การสอบสวนของ UK CMA (30 ต.ค.) และบั๊กความเป็นส่วนตัวของ Muse (19 พ.ย.) เพิ่มความเสี่ยงด้านกฎระเบียบ"
+                            "งบลงทุน Q3 พุ่งถึง $34.91B กดกระแสเงินสดอิสระติดลบ -$2.12B และปรับกรอบงบลงทุนทั้งปี 2026 แคบขึ้นเป็น $135B–$145B",
+                            "การออกหุ้นกู้ก้อนใหญ่ ($15B และ €9B ในต้น พ.ย.) กับแผนหุ้น Class C ไม่มีสิทธิ์ออกเสียง (ระงับเมื่อ 18 พ.ย. ระหว่างคดีในศาลเดลาแวร์) เพิ่มความกังวลด้านหนี้สินและธรรมาภิบาล",
+                            "แรงกดดันด้านกฎระเบียบยุโรปหนักขึ้น ทั้งคดีสอบสวนเงื่อนไขดึงข้อมูลเทรน AI ของ UK CMA (30 ต.ค.) และค่าปรับความเป็นส่วนตัวในอิตาลี €805M (14 พ.ย.)",
+                            "กำไรจากการดำเนินงาน GAAP ใน Q3 ลดลง 37% YoY เหลือ $12.99B จากค่าใช้จ่ายยุติคดีเยาวชน $9.89B และ Morgan Stanley ปรับลดราคาเป้าหมายจาก $820 เหลือ $720 เมื่อ 23 พ.ย. จากคาดการณ์ค่าใช้จ่ายคลาวด์ปี 2027 ที่สูงขึ้น"
                         ],
-               "fundamental":  "Meta อยู่ในชั้นแอปพลิเคชันผู้บริโภคที่มีเอกลักษณ์ในห่วงโซ่คุณค่า AI กล่าวคือ ลงทุนโครงสร้างพื้นฐานระดับไฮเปอร์สเกลเลอร์เพื่อเทรนโมเดล Muse Spark และสร้างคลัสเตอร์ระดับกิกะวัตต์ แต่สร้างรายได้หลักจากโฆษณาบน Facebook, Instagram, WhatsApp และ Threads งบ Q3 2026 เมื่อ 21 ต.ค. พิสูจน์ว่ากลไกนี้ยังเดินหน้าได้ดี โดยรายได้โฆษณาโต 26% YoY เป็น $63.06 พันล้าน (รายได้รวม $64.60 พันล้าน) และ EPS ที่ปรับปรุงแล้วอยู่ที่ $7.40 ไม่รวมค่าประนีประนอมคดีกับอัยการรัฐสหรัฐฯ $9.89 พันล้าน (GAAP อยู่ที่ $3.83) ทว่าการเร่งขยายดาต้าเซ็นเตอร์กำลังเปลี่ยนโครงสร้างงบดุล งบลงทุนไตรมาสเดียวสูงถึง $34.91 พันล้านจนกระแสเงินสดอิสระติดลบ -$2.12 พันล้าน ขณะที่ Reality Labs ยังขาดทุนหนัก (รายได้ $443 ล้าน คาดขาดทุนทั้งปี $18–$19 พันล้าน) การระดมทุน $37.5 พันล้านและหุ้นกู้ €9 พันล้านช่วยเสริมสภาพคล่อง ส่วนชิป MTIA ที่พัฒนาเองมุ่งช่วยลดต้นทุน inference ในระยะยาว",
-               "headline":  "META ร่วง 5.9% สู่ $560.84 งบ AI และ Dilution กลบรายได้โต 26%",
+               "fundamental":  "Meta อยู่ชั้นแอปพลิเคชันผู้บริโภคของห่วงโซ่มูลค่า AI โดยแปลงการลงทุนศูนย์ข้อมูลระดับกิกะวัตต์ให้เป็นการใช้งานที่นานขึ้นและค่าโฆษณาที่สูงขึ้นบน Facebook, Instagram, WhatsApp และ Threads งบ Q3 2026 (21 ต.ค.) ยืนยันว่าคูเมืองธุรกิจยังแข็งแกร่ง รายได้รวมโต 26% YoY แตะ $64.60B เป็นรายได้โฆษณา $63.06B กำไรต่อหุ้นแบบปรับปรุงอยู่ที่ $7.40 (GAAP อยู่ที่ $3.83 หลังหักค่าใช้จ่ายยุติคดีสุขภาพจิตเยาวชน $9.89B) และคาดการณ์รายได้ Q4 ที่ $73.0B–$76.0B สะท้อนความต้องการโฆษณาที่เหนียวแน่น จุดตึงเครียดอยู่ที่ความเข้มข้นของเงินลงทุน โดยงบลงทุน Q3 แตะ $34.91B ทำให้กระแสเงินสดอิสระพลิกติดลบ -$2.12B เพื่อสร้างคลัสเตอร์ Prometheus และ Hyperion ควบคู่ผลขาดทุน Reality Labs ($18B–$19B) แม้โมเดล Muse Wonder และ Muse Ember จะขยายศักยภาพ AI แต่การก่อหนี้เพิ่มในเดือน พ.ย. ยิ่งทำให้ตลาดคาดหวังผลตอบแทนจาก AI สูงขึ้น",
+               "headline":  "META รีบาวด์ 6.55% จากแนวรับ แต่งบลงทุน AI กดเทรนด์ยังเป็นขาลง",
                "news":  [
-                            "21 ต.ค. 2026 — Meta รายงานรายได้ Q3 ที่ $64.60 พันล้าน (+26% YoY) และคาดรายได้ Q4 ที่ $73–$76 พันล้าน โดยมี GAAP EPS $3.83 ($7.40 ไม่รวมค่าประนีประนอมคดี $9.89 พันล้าน) แต่งบลงทุนที่พุ่งถึง $34.91 พันล้านกดกระแสเงินสดอิสระติดลบ -$2.12 พันล้าน และบริษัทปรับกรอบงบลงทุนปี 2026 เป็น $135–$145 พันล้าน",
-                            "26 ต.ค. และ 12 พ.ย. 2026 — เพื่อรองรับการสร้างดาต้าเซ็นเตอร์ AI Meta กำหนดราคาขายหุ้นสามัญ Class A แบบสัญญาซื้อขายล่วงหน้ามูลค่า $25.0 พันล้านที่ $625 ต่อหุ้น ควบคู่หุ้นบุริมสิทธิแปลงสภาพบังคับ 6.50% มูลค่า $12.5 พันล้าน ก่อนปิดการออกหุ้นกู้สกุลยูโรครั้งแรกมูลค่า €9 พันล้านเมื่อ 12 พ.ย. อายุครบกำหนดระหว่างปี 2031–2065",
-                            "30 ต.ค. 2026 — S\u0026P Global Ratings คงอันดับเครดิต Meta ที่ AA- แต่ปรับแนวโน้มจากมีเสถียรภาพเป็นลบ จากงบลงทุน AI และสัญญาเช่าดาต้าเซ็นเตอร์ที่เร่งตัว S\u0026P คาดกระแสเงินสดอิสระจากการดำเนินงานจะขาดดุล $22–$39 พันล้านในปี 2026 และ $71 พันล้านในปี 2027 ซึ่งอาจดันหนี้สินเกินเกณฑ์ปรับลดอันดับที่ 1.0x",
-                            "30 ต.ค. และ 14 พ.ย. 2026 — แรงกดดันด้านกฎระเบียบยุโรปหนักขึ้น หลังหน่วยงานแข่งขันทางการค้าอังกฤษ (CMA) เปิดสอบสวนเมื่อ 30 ต.ค. กรณีเงื่อนไขนำเนื้อหาสื่อไปเทรน AI ต่อมาวันที่ 14 พ.ย. หน่วยงานคุ้มครองข้อมูลอิตาลี (Garante) สั่งปรับ Meta €805 ล้าน (~$887 ล้าน) จากสิทธิ์เข้าถึงคลังภาพ Android และสั่งแก้ไขภายใน 60 วัน",
-                            "19–20 พ.ย. 2026 — สื่อรายงานคำเตือนภายในของพนักงานว่า AI agent อย่าง Muse สลับบทสนทนาระหว่างบัญชีและแสดงข้อมูลอ่อนไหว เช่น ยอดเงินธนาคารและข้อความ Signal ระหว่างทดสอบ วันถัดมาหุ้น META ร่วง 5.93% ปิด $560.84 ท่ามกลางแรงขายลดความเสี่ยงหุ้น AI หลังราคาหุ้น Anthropic ร่วงแรงหลัง IPO"
+                            "23 พ.ย. 2026: Morgan Stanley ปรับลดราคาเป้าหมาย META จาก $820 เหลือ $720 แต่ยังคงคำแนะนำ Overweight โดยเพิ่มคาดการณ์ค่าใช้จ่ายดำเนินงานปี 2027 ขึ้น $14B เป็นราว $227B จากต้นทุนคลาวด์ที่สูงขึ้น อย่างไรก็ดี หุ้นยังรีบาวด์ 6.55% ปิดที่ $597.60 ตามการฟื้นตัวของกลุ่ม AI หลังร่วง 5.93% เมื่อวันที่ 20 พ.ย.",
+                            "18 พ.ย. 2026: Meta ยื่นแบบ Form 8-K ต่อ SEC ระบุว่าตกลงระงับการออกหุ้นสามัญ Class C แบบไม่มีสิทธิ์ออกเสียงชั่วคราว ระหว่างการพิจารณาคดีผู้ถือหุ้นในศาลเดลาแวร์ หลังแผนปรับโครงสร้างหุ้นที่ประกาศเมื่อ 21 ต.ค. สร้างความกังวลด้านธรรมาภิบาลและการลดสัดส่วนผู้ถือหุ้น",
+                            "14 พ.ย. 2026: หน่วยงานคุ้มครองข้อมูลอิตาลี (Garante) สั่งปรับ Meta €805M (ราว $887M) กรณีฟีเจอร์แนะนำภาพจากคลังบนแอป Facebook ระบบ Android เปิดใช้งานโดยอัตโนมัติกระทบผู้ใช้ราว 20 ล้านราย พร้อมสั่งปรับระบบขอความยินยอมภายใน 60 วัน โดย Meta ระบุว่าค่าปรับไม่สมเหตุสมผลและเตรียมยื่นอุทธรณ์",
+                            "9 พ.ย. 2026: Meta Superintelligence Labs เปิดตัว Muse Ember โมเดลมัลติโมดอลขนาดเล็กแบบปิดผ่าน API รองรับบริบท 1 ล้านโทเคน คิดราคา $0.10 ต่อล้านอินพุตโทเคนสำหรับงานเอเจนต์ปริมาณสูง เพื่อทำงานคู่กับโมเดลหลัก Muse Wonder ที่เปิดตัวไปเมื่อ 12 ต.ค.",
+                            "3–12 พ.ย. 2026: Meta ระดมทุนผ่านตลาดตราสารหนี้โลกเพื่อรองรับโครงสร้างพื้นฐาน AI โดยหลังออกหุ้นกู้ดอลลาร์ $15B เมื่อ 3 พ.ย. ได้เปิดตัวหุ้นกู้สกุลยูโรชุดแรกมูลค่า €9B จำนวน 6 รุ่น (กำหนดราคา 4 พ.ย. ชำระราคา 12 พ.ย.) และมียอดจองซื้อสูงกว่า €53B",
+                            "30 ต.ค. 2026: หน่วยงานกำกับการแข่งขันของสหราชอาณาจักร (CMA) เปิดสอบสวนอย่างเป็นทางการต่อเงื่อนไขการค้าของ Meta ที่อนุญาตให้เก็บข้อมูลจากเว็บไซต์ธุรกิจและสำนักข่าวไปพัฒนาฟีเจอร์ AI หลัง Meta ประกาศระงับการบังคับใช้ชั่วคราวเมื่อ 28 ต.ค.",
+                            "21 ต.ค. 2026: Meta รายงานรายได้ Q3 2026 ที่ $64.60B (+26% YoY) และคาดการณ์รายได้ Q4 ที่ $73.0B–$76.0B แต่งบลงทุนที่พุ่งเป็น $34.91B ทำให้กระแสเงินสดอิสระติดลบ -$2.12B และค่าใช้จ่ายยุติคดีเยาวชน $9.89B กดกำไรต่อหุ้น GAAP เหลือ $3.83 ($7.40 แบบปรับปรุง)"
                         ],
-               "opportunity":  "สำหรับนักลงทุนระยะยาวในธีมโครงสร้างพื้นฐาน AI การปรับฐานครั้งนี้ยังไม่กระทบคูเมืองเครือข่ายผู้บริโภคของ Meta โดยฐานผู้ใช้รายวัน 3.64 พันล้านคนและรายได้โฆษณาโต 26% ยืนยันว่า AI ช่วยสร้างเม็ดเงินได้จริง พร้อมคาดการณ์รายได้ Q4 สูงสุด $76 พันล้าน ผู้บริหารยังคาดว่าผลขาดทุน Reality Labs จะลดลงเหลือราว $15 พันล้านในปี 2027 ขณะที่ชิป MTIA ช่วยคุมต้นทุนประมวลผล ด้วย RSI 14 ที่ 30.26 และราคาใกล้แนวรับรอบ 52 สัปดาห์ที่ $520.26 การเริ่มสร้างฐานหรือแนวโน้มกระแสเงินสดปี 2027 ที่ชัดเจนขึ้นจะช่วยให้ความคุ้มค่าต่อความเสี่ยงดีขึ้น",
-               "opportunityCheck":  "ภาพรวมคะแนนโอกาส AI บนหน้าข้อมูลถือว่าสอดคล้องกับ Meta ดี โดยเฉพาะคะแนนด้านคอขวดและอำนาจตั้งราคาที่อยู่ในระดับต่ำ เพราะบริษัทยังพึ่งพาซัพพลายเออร์ GPU ภายนอกสูงระหว่างเร่งขยายชิป MTIA ของตัวเอง อย่างไรก็ตาม ควรขยับคะแนนสัดส่วนรายได้ AI ขึ้นเล็กน้อย เพราะระบบจัดอันดับโฆษณาด้วย AI ดันรายได้ Q3 2026 โตถึง 26% YoY และราคาโฆษณาเพิ่ม 14% ในทางกลับกัน ควรลดคะแนนตำแหน่งทางการตลาดลงเล็กน้อย เพราะต่างจากผู้ให้บริการคลาวด์ที่ปล่อยเช่ากำลังประมวลผล AI ได้ Meta ต้องรับภาระงบลงทุน $135–$145 พันล้านเอง และบั๊กความเป็นส่วนตัวของ Muse เมื่อ 19 พ.ย. ชี้ถึงโจทย์การพัฒนา AI agent ผู้บริโภค",
+               "opportunity":  "สำหรับนักลงทุน AI ระยะยาว การย่อตัวราว 23% จากจุดสูงสุดรอบ 52 สัปดาห์ ($779.82) สวนทางกับธุรกิจหลักที่ยังเร่งตัว รายได้โฆษณา Q3 โต 26% YoY แตะ $63.06B พร้อมราคาต่อโฆษณาที่ขึ้นถึง 14% และแนวโน้ม Q4 ที่ $73.0B–$76.0B ชี้ว่าระบบแนะนำคอนเทนต์และโฆษณาด้วย AI สร้างผลลัพธ์จริง ด้าน Muse Wonder และ Muse Ember ต้นทุนต่ำช่วยเปิดทางสร้างรายได้จากงานเอเจนต์ควบคู่ฐานผู้ใช้มหาศาล ขณะที่ขาดทุน Reality Labs คาดจะลดลงจาก $18B–$19B ในปี 2026 เหลือราว $15B ในปี 2027 หากราคากลับไปยืนเหนือเส้นกลาง Bollinger Band ($616.92) และกลุ่ม EMA ($638.75–$642.91) ได้ จะเป็นสัญญาณตั้งหลักทางเทคนิค",
+               "opportunityCheck":  "โครงสร้างคะแนนโอกาส AI บนหน้าเพจดูเหมาะสมเป็นส่วนใหญ่ โดยเฉพาะการให้คะแนนด้านคอขวดและอำนาจกำหนดราคาไว้ต่ำ เพราะ Meta เป็นผู้ซื้อชิป พลังงาน และคลาวด์รายใหญ่ ไม่ใช่ผู้ครองคอขวดซัพพลายเชน สะท้อนจากงบลงทุนปี 2026 ระดับ $135B–$145B และการออกหุ้นกู้ในเดือน พ.ย. อย่างไรก็ดี ควรขยับคะแนนสัดส่วนรายได้ที่เชื่อมโยงกับ AI ขึ้นเล็กน้อย เนื่องจากระบบ AI ช่วยหนุนรายได้โฆษณา Q3 โตถึง 26% YoY แตะ $63.06B และ Meta เริ่มสร้างรายได้ตรงจาก Superintelligence Labs ผ่านการคิดค่า API ของ Muse Ember ที่ $0.10 ต่อล้านอินพุตโทเคนแล้ว",
                "pros":  [
-                            "รายได้ Q3 2026 โต 26% YoY แตะ $64.60 พันล้าน ราคาโฆษณาเฉลี่ยเพิ่มขึ้น 14% และคาดรายได้ Q4 ที่ $73–$76 พันล้าน",
-                            "ผู้ใช้ประจำวันรวมทุกแอป (DAP) แตะ 3.64 พันล้านคนใน ก.ย. 2026 (+3% YoY) ตอกย้ำฐานกระจายผลิตภัณฑ์ AI ที่คู่แข่งเลียนแบบยาก",
-                            "โมเดล Muse Spark และแอป AI agent อย่าง Muse มียอดดาวน์โหลดทะลุ 10 ล้านครั้งหลังเปิดตัว ก.ย. 2026 ขยายการใช้งาน AI ฝั่งผู้บริโภค",
-                            "ชิป MTIA ที่พัฒนาเองและเครือข่ายดาต้าเซ็นเตอร์แบบ Ethernet ช่วยลดต้นทุนการรัน AI ระยะยาวและลดการพึ่งพา Nvidia"
+                            "ธุรกิจโฆษณาหลักเร่งตัวใน Q3 2026 (ประกาศ 21 ต.ค.) รายได้โฆษณาโต 26% YoY แตะ $63.06B จากจำนวนการแสดงผลเพิ่ม 10% และราคาเฉลี่ยต่อโฆษณาเพิ่ม 14%",
+                            "คาดการณ์รายได้ Q4 2026 ที่ $73.0B–$76.0B สะท้อนความต้องการลงโฆษณาที่แข็งแกร่งบน Facebook, Instagram, WhatsApp และ Threads",
+                            "Superintelligence Labs เปิดตัว Muse Ember เมื่อ 9 พ.ย. โมเดลมัลติโมดอลสำหรับงานเอเจนต์ราคาประหยัดเพียง $0.10 ต่อล้านอินพุตโทเคน",
+                            "การออกหุ้นกู้ยูโรครั้งแรก €9B เมื่อ 4 พ.ย. มียอดจองซื้อกว่า €53B ตอกย้ำความสามารถเข้าถึงแหล่งทุนขนาดใหญ่สำหรับศูนย์ข้อมูล AI"
                         ],
                "risks":  [
-                             "กระแสเงินสดอิสระติดลบยืดเยื้อหากงบลงทุน AI ปี 2027 ยังเร่งตัวเร็วกว่าการเติบโตของโฆษณา เสี่ยงถูก S\u0026P ปรับลดเครดิตต่ำกว่า AA-",
-                             "ผลกระทบ Dilution ในอนาคตจากสัญญาขายหุ้นสามัญล่วงหน้า $25.0 พันล้าน และหุ้นบุริมสิทธิแปลงสภาพบังคับ $12.5 พันล้าน",
-                             "แรงกดดันค่าปรับและคดีความในยุโรปและสหรัฐฯ ทั้งค่าปรับ €805 ล้านในอิตาลี การสอบสวนของ UK CMA และคำอุทธรณ์คดีผูกขาดของ FTC",
-                             "ความเชื่อมั่นผู้บริโภคอาจสะดุดหากปัญหาความเป็นส่วนตัวของ Muse ยังยืดเยื้อ ท่ามกลางการแข่งขันรุนแรงจาก Apple, OpenAI และ Anthropic"
+                             "กระแสเงินสดอิสระอาจติดลบยืดเยื้อ หากงบลงทุน AI และค่าใช้จ่ายคลาวด์ปี 2027 โตเร็วกว่าการทำเงินจากโฆษณาและ API ใหม่",
+                             "ภาระหนี้และส่วนต่างดอกเบี้ยที่สูงขึ้น หลังออกหุ้นกู้ $15B และ €9B ควบคู่ภาระสัญญาเช่าศูนย์ข้อมูลนอกงบดุลจำนวนมาก",
+                             "มาตรการกำกับดูแลจากสหราชอาณาจักรและยุโรป (คดี UK CMA, ค่าปรับอิตาลี €805M, ข้อกำหนดเปิดรับ AI คู่แข่งบน WhatsApp) อาจจำกัดการเข้าถึงข้อมูลและกดอัตรากำไร",
+                             "ความไม่แน่นอนด้านธรรมาภิบาลและการลดสัดส่วนผู้ถือหุ้นจากแผนออกหุ้น Class C ที่ถูกระงับชั่วคราว รวมถึงคดีอุทธรณ์ผูกขาดของ FTC ที่ยังดำเนินอยู่"
                          ],
-               "summary":  "หุ้น Meta Platforms ปิดที่ $560.84 เมื่อ 20 พ.ย. 2026 ลดลง 5.93% ในวันเดียว และอ่อนตัว 28.1% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $779.82 ธุรกิจโฆษณาหลักยังแข็งแกร่ง โดยงบ Q3 เมื่อ 21 ต.ค. รายได้พุ่ง 26% YoY แตะ $64.60 พันล้าน พร้อมผู้ใช้รายวัน 3.64 พันล้านคน ทว่างบลงทุนไตรมาสเดียว $34.91 พันล้านกดกระแสเงินสดอิสระติดลบ -$2.12 พันล้าน นำไปสู่การระดมทุนหุ้นและหุ้นบุริมสิทธิ $37.5 พันล้านเมื่อ 26 ต.ค. หุ้นกู้ยูโร €9 พันล้าน และ S\u0026P ปรับแนวโน้มเป็นลบเมื่อ 30 ต.ค. ซ้ำเติมด้วยค่าปรับยุโรปและบั๊กความเป็นส่วนตัวของ Muse เมื่อ 19 พ.ย. แต่คูเมืองเครือข่ายผู้บริโภคยังคงแข็งแกร่ง",
-               "technical":  "กราฟ META เป็นขาลงชัดเจนหลังร่วง 5.93% ปิดที่ $560.84 เมื่อ 20 พ.ย. 2026 แม้เส้น EMA ทั้งสาม (เส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนักเพื่อดูแนวโน้ม) ยังเรียงตัวแบบขาขึ้น โดย EMA 50 อยู่ที่ $644.76, EMA 100 ที่ $642.27 และ EMA 200 ที่ $639.17 แต่ราคาหลุดต่ำกว่ากลุ่มเส้นทั้งหมดถึง 12%–13% ทำให้โซน $639–$645 กลายเป็นแนวต้านหนาแน่นร่วมกับราคาขายหุ้นล่วงหน้า $625 เมื่อเดือน ต.ค. ด้านโมเมนตัมยืนยันขาลง โดย MACD (ตัวชี้วัดเทียบค่าเฉลี่ยเร็วกับช้า) ติดลบหนักที่ -19.88 ต่ำกว่าเส้น signal ที่ -16.90 พร้อมฮิสโตแกรมลบ -2.98 อย่างไรก็ตาม แรงขายระยะสั้นเริ่มตึงตัว ราคาปิดต่ำกว่าขอบล่าง Bollinger Band (กรอบความผันผวน 20 วัน อยู่ที่ $582.89–$654.24) ถึง $22.05 ขณะที่ RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 คือขายมากเกินไป) ลงมาที่ 30.26 ปริมาณซื้อขาย 25.59 ล้านหุ้นสูงกว่าค่าเฉลี่ย 20 วัน (21.66 ล้านหุ้น) ราว 18% ยืนยันแรงขายสถาบัน ราคาอยู่ช่วงล่าง 16% ของกรอบ 52 สัปดาห์ ($520.26–$779.82) โดยมีแนวรับใหญ่ใกล้ $520.26"
+               "summary":  "Meta Platforms (META) รีบาวด์ 6.55% เมื่อ 23 พ.ย. 2026 มาปิดที่ $597.60 แต่โครงสร้างทางเทคนิคยังเป็นขาลงเนื่องจากราคาอยู่ต่ำกว่าเส้น EMA 50, 100 และ 200 วัน ($638.75–$642.91) แรงขายช่วงปลาย ต.ค.–พ.ย. เกิดจากความกังวลต่อการทุ่มงบลงทุน AI ($34.91B ใน Q3 และกรอบทั้งปี 2026 ที่ $135B–$145B) จนกระแสเงินสดอิสระ Q3 ติดลบ -$2.12B และต้องออกหุ้นกู้ $15B กับ €9B อย่างไรก็ตาม คูเมืองเครือข่ายผู้บริโภคยังแข็งแกร่ง รายได้ Q3 โต 26% YoY แตะ $64.60B และ Superintelligence Labs เพิ่งเปิดตัว Muse Ember เมื่อ 9 พ.ย.",
+               "technical":  "META ปิดที่ $597.60 เมื่อ 23 พ.ย. 2026 (+6.55%) แต่ภาพรวมกราฟยังเป็นขาลง แม้เส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — เส้นบอกเทรนด์ที่ให้น้ำหนักราคาล่าสุดมากกว่า) ยังเรียงตัวขาขึ้นแบบเกาะกลุ่มกันคือ EMA 50 ที่ $642.91, EMA 100 ที่ $641.39 และ EMA 200 ที่ $638.75 แต่ราคาปัจจุบันอยู่ต่ำกว่าทั้งสามเส้นราว 6%–7% ทำให้โซน $638.75–$642.91 กลายเป็นแนวต้านสำคัญ ด้านโมเมนตัมยังยืนยันแรงกดดันขาลง โดย MACD 12/26/9 (เครื่องมือวัดแรงส่งของเทรนด์จากส่วนต่างค่าเฉลี่ยเร็วและช้า) อยู่ที่ -19.68 ต่ำกว่าเส้น Signal ที่ -17.45 และค่า Histogram ติดลบ -2.23 ส่วน RSI 14 (ดัชนีวัดโมเมนตัม 0–100; ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นขึ้นมาที่ 41.75 แต่ยังต่ำกว่าระดับกลาง 50 ด้านกรอบความผันผวน Bollinger Bands (กรอบค่าเบี่ยงเบนรอบค่าเฉลี่ย 20 วัน) จุดต่ำสุดวันจันทร์ที่ $579.78 แตะแนวรับกรอบล่าง $580.57 แล้วดีดกลับ โดยมีเส้นกลาง $616.92 เป็นแนวต้านระยะสั้น ทั้งนี้ ราคาอยู่ในโซนล่างของกรอบ 52 สัปดาห์ ($520.26–$779.82) และวอลุ่มรีบาวด์ที่ 19.05M หุ้นยังต่ำกว่าค่าเฉลี่ย 20 วันที่ 21.08M จึงยังไม่ยืนยันการกลับตัวชัดเจน"
            },
     "sources":  [
                     {
                         "date":  "2026-10-21",
-                        "publisher":  "Meta Platforms Investor Relations",
-                        "title":  "Meta Reports Third Quarter 2026 Results",
-                        "url":  "https://investor.atmeta.com/press-releases/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx"
-                    },
-                    {
-                        "date":  "2026-10-26",
                         "publisher":  "PR Newswire",
-                        "title":  "Meta Announces Pricing of Offering of Depositary Shares Representing Series A Mandatory Convertible Preferred Stock and Offering of Class A Common Stock in Connection with Forward Sale Agreements",
-                        "url":  "https://www.prnewswire.com/news-releases/meta-announces-pricing-of-offering-of-depositary-shares-representing-series-a-mandatory-convertible-preferred-stock-and-offering-of-class-a-common-stock-in-connection-with-forward-sale-agreements-302939339.html"
+                        "title":  "Meta Reports Third Quarter 2026 Results",
+                        "url":  "https://www.prnewswire.com/news-releases/meta-reports-third-quarter-2026-results-302927236.html"
                     },
                     {
                         "date":  "2026-10-30",
-                        "publisher":  "S\u0026P Global Ratings",
-                        "title":  "Meta Platforms Inc. Outlook Revised To Negative On Capital Spending And Free Operating Cash Flow Concerns; Ratings Affirmed",
-                        "url":  "https://www.spglobal.com/ratings/en/research/articles/261030-meta-platforms-inc-outlook-revised-to-negative-on-capital-spending-and-free-operating-cash-flow-concerns-ratings-affirmed-13670158"
+                        "publisher":  "UK Competition and Markets Authority",
+                        "title":  "CMA opens investigation into Meta\u0027s commercial terms",
+                        "url":  "https://www.gov.uk/government/news/cma-opens-investigation-into-metas-commercial-terms"
                     },
                     {
-                        "date":  "2026-10-30",
-                        "publisher":  "Quartz",
-                        "title":  "Meta faces U.K. antitrust probe over publisher content scraping terms",
-                        "url":  "https://qz.com/meta-faces-uk-antitrust-probe-publisher-content-scraping-terms"
+                        "date":  "2026-11-04",
+                        "publisher":  "Global Banking \u0026 Finance Review",
+                        "title":  "Meta draws record orders for debut euro bond sale",
+                        "url":  "https://www.globalbankingandfinance.com/meta-draws-record-orders-for-debut-euro-bond-sale/"
                     },
                     {
-                        "date":  "2026-11-12",
-                        "publisher":  "U.S. Securities and Exchange Commission",
-                        "title":  "Meta Platforms, Inc. Form 8-K (EUR 9 Billion Senior Notes Offering)",
-                        "url":  "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001326801/000132680126000150/meta-20261112.htm"
-                    },
-                    {
-                        "date":  "2026-11-15",
-                        "publisher":  "The Guardian",
-                        "title":  "Italy fines Meta $887m for accessing Android users\u0027 photos and videos",
-                        "url":  "https://www.theguardian.com/technology/2026/nov/15/italy-fines-meta-887m-android-users-photos-videos"
-                    },
-                    {
-                        "date":  "2026-11-19",
+                        "date":  "2026-11-09",
                         "publisher":  "TechCrunch",
-                        "title":  "Meta\u0027s AI agent Muse is mixing up conversations and could be exposing private data, report says",
-                        "url":  "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-could-be-exposing-private-data-report-says/"
+                        "title":  "Meta releases Muse Ember, a new lightweight model for agent execution",
+                        "url":  "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution"
+                    },
+                    {
+                        "date":  "2026-11-14",
+                        "publisher":  "The Hacker News",
+                        "title":  "Italy Fines Meta €805 Million Over Facebook\u0027s Android Gallery Access Without Explicit Consent",
+                        "url":  "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html"
+                    },
+                    {
+                        "date":  "2026-11-18",
+                        "publisher":  "U.S. Securities and Exchange Commission",
+                        "title":  "Meta Platforms, Inc. Form 8-K (Class C Reclassification Litigation)",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1326801/000162828026075541/meta-20261118.htm"
                     }
                 ]
 }

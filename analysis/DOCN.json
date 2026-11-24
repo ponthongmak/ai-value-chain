@@ -2,46 +2,45 @@
     "ticker":  "DOCN",
     "name":  "DigitalOcean",
     "symbol":  "NYSE:DOCN",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:04:05Z",
-    "costUsd":  0.6197269,
+    "generatedAt":  "2026-11-24T04:12:38Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NYSE:DOCN",
                        "yahoo":  "DOCN",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:01:44Z",
-                       "price":  66.76,
-                       "open":  73.9,
-                       "high":  74.34,
-                       "low":  65.55,
-                       "volume":  5465200,
-                       "avgVolume20":  4054155,
-                       "changePct":  -13.4,
-                       "ema50":  100.8,
-                       "ema100":  109.73,
-                       "ema200":  105.04,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:09:00Z",
+                       "price":  78.98,
+                       "open":  80.01,
+                       "high":  81.91,
+                       "low":  75.64,
+                       "volume":  3744700,
+                       "avgVolume20":  4131725,
+                       "changePct":  18.3,
+                       "historyDays":  500,
+                       "ema50":  99.94,
+                       "ema100":  109.12,
+                       "ema200":  104.78,
                        "bb":  {
-                                  "upper":  107.13,
-                                  "middle":  85.61,
-                                  "lower":  64.1
+                                  "upper":  105.29,
+                                  "middle":  84.59,
+                                  "lower":  63.88
                               },
                        "macd":  {
-                                    "macd":  -9.12,
-                                    "signal":  -9.16,
-                                    "hist":  0.04
+                                    "macd":  -8.57,
+                                    "signal":  -9.04,
+                                    "hist":  0.47
                                 },
-                       "rsi14":  31.04,
+                       "rsi14":  42.38,
                        "high52w":  187.5,
                        "low52w":  42.01,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         173.68
-                                     ],
                                      [
                                          "2026-06-04",
                                          180.5
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          66.76
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         78.98
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          126.11,
                                           128.24,
                                           129.87,
                                           131.42,
@@ -639,95 +641,114 @@
                                           104.14,
                                           103.21,
                                           102.19,
-                                          100.8
+                                          100.8,
+                                          99.94
                                       ]
                    },
     "en":  {
-               "headline":  "Strong Q3 and higher guidance, but share sales and an AI selloff knock DOCN down",
-               "technical":  "The trend is clearly down. On 20 November DOCN closed at USD 66.76, down 13.4%. It opened at 73.90 and finished near the day\u0027s low of 65.55. Price sits far below all three EMAs (exponential moving averages that weight recent prices more): EMA50 at 100.80, EMA100 at 109.73 and EMA200 at 105.04. The EMA50 has fallen below both longer averages, the usual order in a downtrend. MACD (the gap between a fast and a slow average, used to read momentum) is deeply negative at -9.12. It is only just above its signal line at -9.16, so the histogram is a barely positive +0.04. That hints the selling is slowing but is not yet a turn. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 31.04, right at the edge of oversold. Price is just above the lower Bollinger Band at 64.10 (bands drawn two standard deviations around the 20-day average). The bands are very wide (64.10 to 107.13), which shows how violent the swings have been. The stock sits about 17% of the way up its 52-week range of 42.01–187.50. Volume of 5.47M was about 1.35x the 20-day average, so the sell-off had real participation. The lower band near 64 is the first support. The 20-day average near 85.6 is the first resistance.",
-               "fundamental":  "The business got stronger this quarter. On 3 November DigitalOcean reported Q3 revenue of USD 321M, up 40% year on year and above its own 304–307M guidance. Adjusted EPS was 0.45. Revenue from AI customers, counted as annual recurring revenue (ARR), rose 288% to USD 376M. About 90% of it now comes from managed inference and platform services rather than bare GPU rental. That supports the developer-experience thesis. Guidance went up: Q4 revenue of 348–351M (+44–45%), full-year 2026 of 1,208–1,211M, and 2027 growth of 60% or more (previously 50% or more). The catch is capital. The company is building about 180 MW of committed data-centre capacity, using a USD 785M equipment lease, and on 2 November it signed a program to sell up to USD 1B of new shares at market prices. That is roughly 11% dilution at current prices, plus earlier share issuance to retire convertible notes.",
-               "news":  [
-                            "3 Nov 2026: Q3 revenue was USD 321M (+40%), with record incremental ARR of USD 160M. Management raised Q4 guidance to +44–45% growth and the 2027 outlook to +60% or more.",
-                            "2–3 Nov 2026: DigitalOcean set up a program with Goldman Sachs and other banks to sell up to USD 1B of common stock \u0027at the market\u0027, meaning gradually at prevailing prices. That raised dilution worries even as results beat.",
-                            "4 Nov 2026: Shares fell about 3.7% intraday after Datadog\u0027s cautious Q4 guidance raised concerns about cloud usage. Goldman Sachs cut its target to USD 156 from 178 and kept a Buy rating. At least six firms lowered their targets.",
-                            "Week ended 6 Nov 2026: DOCN fell 19% to USD 72.48, including a 15.85% drop on 5 Nov. That day the Nasdaq fell 5.5% as investors sold AI infrastructure stocks after the US midterm elections.",
-                            "20 Nov 2026: A broad AI sell-off tied to a fading Anthropic IPO, Nvidia\u0027s 13.8% fall and expectations of a December Fed rate hike pushed the S\u0026P 500 into a correction. Neocloud peers CoreWeave (-12.1%) and Nebius (-16.1%) fell alongside DOCN\u0027s 13.4% drop. Reports found no DigitalOcean-specific news that day."
+               "caution":  "The main watch-point is capital intensity colliding with a fragile technical trend. Scaling roughly 75 MW of GPU data-center capacity increases near-term depreciation and financing drag, already visible in Q4\u0027s softer $0.30–$0.32 Non-GAAP EPS guide and the $1.0B ATM equity facility that could dilute shareholders if tapped at depressed prices. With shares still below the $84.59 middle Bollinger Band and $99.94 EMA 50, and Nov 23\u0027s 18.3% bounce occurring on below-average volume without company news, volatility and retests of $63.88 support remain real risks.",
+               "cons":  [
+                            "A $1.0B at-the-market (ATM) equity offering filed Nov 3, 2026 creates a sizable share-dilution overhang.",
+                            "Q4 2026 Non-GAAP EPS guidance ($0.30–$0.32) drops from Q3\u0027s $0.45 as 75 MW of GPU data-center buildouts raise ramp and depreciation costs.",
+                            "Shares sit well below all major moving averages ($99.94–$109.12), and the Nov 23 +18.3% rally lacked above-average volume confirmation.",
+                            "Major banks trimmed price targets on Nov 4–5 (Citi to $160, Goldman Sachs to $156, Morgan Stanley to $150), while CFO Matt Steinfort sold $5.85M in stock on Nov 19."
                         ],
-               "caution":  "The recent damage comes from financing and market sentiment, not weak operations. Those drivers can last longer than expected. The USD 1B share sale means new shares could be sold into any rally, which may cap rebounds. Growing toward 150 MW of capacity by 2027 makes DigitalOcean more capital-intensive and closer to the debt-funded neocloud model the market is now punishing. Even after the fall, GuruFocus put the trailing P/E near 287x. A December rate hike or a deeper AI-capex pullback could push the stock toward the 52-week low of USD 42.01.",
-               "opportunity":  "Price has fallen hard while the numbers improved. This is DigitalOcean\u0027s fifth straight quarter of faster growth, and guidance was raised on 3 November. RSI near 31, price at the lower Bollinger Band and a MACD histogram turning slightly positive suggest selling pressure may be nearing exhaustion, though none of this confirms a bottom. If the market stabilises, a move back toward the 20-day average near USD 85.6 would be an ordinary bounce. The shift toward higher-value inference services is the part that matters for long-term holders.",
+               "fundamental":  "DigitalOcean is rapidly evolving from a developer-friendly SMB cloud into a scaled AI-native cloud for inference and agentic workloads. In Q3 2026 (reported Nov 3), revenue jumped 40% YoY to $321.2M, Non-GAAP EPS reached $0.45 (beating ~$0.32 estimates), and Adjusted EBITDA hit $144M (45% margin), though a $57M one-time convertible-note repurchase charge caused a $43M GAAP net loss. Inference revenue rose nearly 600% YoY, token volume grew roughly 10x quarter-over-quarter, and 90% of AI revenue came from clients also consuming core cloud products—validating its developer-experience moat. Management lifted FY2026 revenue guidance to $1.208B–$1.211B and projected 60%+ growth in 2027, backed by ~75 MW of new data-center capacity. However, funding Nvidia and AMD GPU clusters via a $725M September equipment facility and a $1.0B Nov 3 ATM equity program makes DOCN far more capital-intensive.",
+               "headline":  "AI inference boom clashes with $1B dilution overhang and bearish chart",
+               "news":  [
+                            "Nov 3, 2026 — Q3 2026 Earnings \u0026 2027 Outlook: Revenue rose 40% YoY to $321.2M with Non-GAAP EPS of $0.45 and AI Customer ARR up 288% to $376M, though a $57M debt-conversion charge produced a $43M GAAP net loss. Management raised FY2026 revenue guidance to $1.208B–$1.211B and projected 60%+ growth in 2027, while guiding Q4 Non-GAAP EPS lower sequentially to $0.30–$0.32.",
+                            "Nov 3, 2026 — $1.0B ATM Equity Offering: DigitalOcean filed a Form 8-K for a discretionary up-to-$1.0B at-the-market stock offering with eight banks. Although no immediate share sales are required, the program added a dilution overhang as DOCN funds ~75 MW of data-center expansion.",
+                            "Nov 4–5, 2026 — Analyst Target Trims: After Q3 results, Citigroup ($190 to $160), Morgan Stanley ($175 to $150), and Goldman Sachs ($178 to $156) cut price targets while keeping Buy ratings, and UBS lowered its Hold target to $100. Consensus remains Buy near $160, pointing to multiple compression rather than broken fundamentals.",
+                            "Nov 5 \u0026 Nov 16, 2026 — Agentic \u0026 SMB AI Launches: DigitalOcean launched Cuttlefish on Nov 5, an iPhone app to supervise AI agents with Box as launch partner, and its Cloudways unit rolled out an AI Website Builder for WordPress on Nov 16. Both releases strengthen its developer-first ecosystem.",
+                            "Nov 19 \u0026 Nov 23, 2026 — Insider Sale \u0026 Sector Bounce: CFO Matt Steinfort sold 71,943 shares (~$5.85M at $80.00–$83.11) on Nov 19 while retaining 431,902 shares. On Nov 23, DOCN surged 18.3% with no company press release, riding a broad AI-infrastructure relief rally alongside cloud peers."
+                        ],
+               "opportunity":  "For long-term AI-infrastructure investors, DOCN offers tangible proof that a developer-focused cloud can capture production AI inference without losing its core identity. With AI Customer ARR already at $376M, 90% cross-usage into core cloud services, and $1M+ ARR customers up 273% YoY to $386M, the company is scaling upmarket while maintaining 45% Adjusted EBITDA margins and 20% trailing free-cash-flow margins. If management delivers on its 60%+ 2027 revenue growth outlook without heavy equity dilution, the 58% drawdown from $187.50 could reset valuation attractively once the chart stabilizes.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile looks too low on AI revenue exposure and should be moved meaningfully higher. With AI Customer ARR hitting $376M (+288% YoY) in Q3 2026—roughly a third of full-year revenue—and inference demand powering a 60%+ 2027 revenue outlook, AI is now DigitalOcean\u0027s main growth engine rather than a side bet. Market growth also merits a slight upward revision given surging agentic inference adoption. Conversely, keeping bottleneck and pricing power near the bottom remains accurate: DOCN buys Nvidia and AMD GPUs and must raise capital to compete with hyperscalers and neoclouds.",
+               "pros":  [
+                            "AI Customer ARR surged 288% YoY to $376M in Q3 2026, with inference revenue climbing nearly 600% YoY.",
+                            "Total Q3 2026 revenue accelerated for a fifth straight quarter (+40% YoY to $321.2M), supporting a 60%+ 2027 growth outlook.",
+                            "High-spend adoption deepened as $1M+ ARR customers grew 273% YoY to $386M and 90% of AI revenue crosses into core cloud services.",
+                            "Solid liquidity (~$1.2B), 45% Q3 Adjusted EBITDA margin, and net leverage under 1.5x with no major debt maturities until 2030."
+                        ],
                "risks":  [
-                             "Dilution from the USD 1B share sale and earlier share issuance to retire convertible notes",
-                             "Sector-wide de-rating of neocloud and AI infrastructure stocks as investors question debt-funded capex",
-                             "Higher interest rates (a December Fed hike is priced in) hurting richly valued growth stocks",
-                             "Delays or cost overruns on the roughly 180 MW of committed data-centre capacity",
-                             "Competition from hyperscalers and GPU neoclouds eroding the simplicity advantage for small and mid-sized customers"
+                             "Equity dilution if management taps the $1.0B ATM stock program while shares trade far below prior highs.",
+                             "Margin and free-cash-flow pressure from heavy GPU capex, rising depreciation, and data-center ramp delays.",
+                             "Intense pricing competition from hyperscalers (AWS, Azure, GCP) and specialized GPU neoclouds in AI inference.",
+                             "Growing large-customer concentration and AI spending cyclicality, with \u003e$100K/year accounts now generating 41% of revenue."
                          ],
-               "summary":  "DOCN is in a steep downtrend. At USD 66.76 it sits far below all three EMAs and just above the lower Bollinger Band, with RSI near oversold at 31. The fundamentals point the other way: Q3 revenue grew 40%, AI ARR almost quadrupled, and 2027 guidance rose to 60% or more growth. The drop comes from a USD 1B share-sale program and two AI-sector selloffs (5 and 20 November), not from operating weakness. The moat thesis is intact. Dilution and financing costs are the issues to track, with Q4 results in February the next checkpoint."
+               "summary":  "DigitalOcean jumped 18.3% to $78.98 on Nov 23, 2026 in a broad AI-sector relief rally, yet remains 58% below its $187.50 52-week high. Fundamentals accelerated sharply in Q3 2026 (Nov 3), with revenue up 40% YoY to $321.2M, AI Customer ARR surging 288% to $376M, and management projecting 60%+ revenue growth in 2027. However, a concurrent $1.0B at-the-market share offering, softer Q4 EPS guidance ($0.30–$0.32) during data-center expansion, and analyst target cuts keep the chart in a bearish downtrend.",
+               "technical":  "Despite jumping 18.3% to $78.98 on Nov 23, 2026 (opening at $80.01, peaking at $81.91, and closing below its open), DOCN remains in a bearish intermediate trend across its 500-day history. Price trades well below its exponential moving averages (EMAs, which track trend direction): EMA 50 at $99.94, EMA 200 at $104.78, and EMA 100 at $109.12. With EMA 50 beneath EMA 200, overhead resistance stacks heavily across $99.94–$109.12. Momentum shows only early stabilization. MACD (a trend-momentum gauge) stays deeply negative at -8.57, though edging above its -9.04 signal line turned the histogram marginally positive (+0.47). RSI 14 (a 0–100 momentum gauge; under 30 is oversold, above 70 overbought) recovered to 42.38, still under the 50 neutral line. Within Bollinger Bands (a volatility envelope around the 20-day average), wide bands from $63.88 support to $105.29 reflect high volatility, with price rebounding toward middle-band resistance at $84.59 while sitting in the bottom third of its $42.01–$187.50 52-week range. Crucially, Nov 23 volume (3.74M shares) trailed the 20-day average (4.13M), signaling a relief bounce rather than confirmed institutional accumulation."
            },
     "th":  {
-               "headline":  "งบ Q3 แข็งแรงและเพิ่มเป้า แต่แผนขายหุ้นใหม่กับกระแสเทขายหุ้น AI กดราคา DOCN",
-               "technical":  "แนวโน้มเป็นขาลงชัดเจน วันที่ 20 พ.ย. DOCN ปิดที่ 66.76 ดอลลาร์ ลดลง 13.4% โดยเปิดที่ 73.90 แล้วปิดใกล้จุดต่ำสุดของวันที่ 65.55 ราคาอยู่ต่ำกว่า EMA (เส้นค่าเฉลี่ยที่ให้น้ำหนักราคาล่าสุดมากกว่า) ทั้งสามเส้นอย่างห่างไกล คือ EMA50 ที่ 100.80, EMA100 ที่ 109.73 และ EMA200 ที่ 105.04 EMA50 หลุดลงไปอยู่ใต้เส้นระยะยาวทั้งสองเส้นแล้ว ซึ่งเป็นการเรียงตัวแบบขาลง MACD (ส่วนต่างระหว่างค่าเฉลี่ยเร็วกับช้า ใช้ดูโมเมนตัม) ติดลบลึกที่ -9.12 และอยู่เหนือเส้นสัญญาณที่ -9.16 เพียงนิดเดียว histogram จึงบวกแค่ +0.04 บอกได้ว่าแรงขายเริ่มชะลอ แต่ยังไม่ใช่การกลับตัว RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 31.04 เกือบถึงโซน oversold ราคาอยู่เหนือขอบล่างของ Bollinger Band ที่ 64.10 เพียงเล็กน้อย (กรอบ 2 ส่วนเบี่ยงเบนมาตรฐานรอบค่าเฉลี่ย 20 วัน) กรอบกว้างมากตั้งแต่ 64.10 ถึง 107.13 สะท้อนความผันผวนที่รุนแรง ราคาอยู่ราว 17% ของกรอบ 52 สัปดาห์ (42.01–187.50) วอลุ่ม 5.47 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันราว 1.35 เท่า แปลว่าการขายมีแรงหนุนจริง แนวรับแรกคือขอบล่างแถว 64 แนวต้านแรกคือค่าเฉลี่ย 20 วันแถว 85.6",
-               "fundamental":  "ตัวธุรกิจไตรมาสนี้แข็งแรงขึ้น วันที่ 3 พ.ย. DigitalOcean รายงานรายได้ Q3 ที่ 321 ล้านดอลลาร์ โต 40% เทียบปีก่อน และสูงกว่าเป้าของบริษัทเองที่ 304–307 ล้าน EPS ปรับปรุงอยู่ที่ 0.45 รายได้ประจำต่อปี (ARR) จากลูกค้า AI โต 288% เป็น 376 ล้านดอลลาร์ ราว 90% มาจากบริการ inference และแพลตฟอร์มที่บริษัทดูแลให้ ไม่ใช่การให้เช่า GPU เปล่า ซึ่งตอกย้ำ moat ด้านประสบการณ์นักพัฒนา บริษัทเพิ่มเป้าทั้งหมด: รายได้ Q4 ที่ 348–351 ล้าน (+44–45%) ทั้งปี 2026 ที่ 1,208–1,211 ล้าน และการเติบโตปี 2027 ที่ 60% ขึ้นไป (เดิม 50% ขึ้นไป) จุดที่ต้องจับตาคือเงินทุน บริษัทกำลังสร้างศูนย์ข้อมูลที่ผูกพันไว้ราว 180 MW ใช้วงเงินเช่าอุปกรณ์ 785 ล้านดอลลาร์ และวันที่ 2 พ.ย. ได้ทำโครงการขายหุ้นใหม่ตามราคาตลาดสูงสุด 1 พันล้านดอลลาร์ คิดเป็นการ dilution ราว 11% ที่ราคาปัจจุบัน นอกเหนือจากหุ้นที่ออกไปก่อนหน้าเพื่อซื้อคืนหุ้นกู้แปลงสภาพ",
-               "news":  [
-                            "3 พ.ย. 2026: รายได้ Q3 อยู่ที่ 321 ล้านดอลลาร์ (+40%) ARR เพิ่มขึ้นเป็นสถิติ 160 ล้านดอลลาร์ ผู้บริหารเพิ่มเป้า Q4 เป็นโต 44–45% และเป้าปี 2027 เป็นโต 60% ขึ้นไป",
-                            "2–3 พ.ย. 2026: บริษัททำโครงการกับ Goldman Sachs และธนาคารอื่น เพื่อทยอยขายหุ้นสามัญใหม่ตามราคาตลาด (at-the-market) สูงสุด 1 พันล้านดอลลาร์ ทำให้ตลาดกังวลเรื่อง dilution แม้งบจะออกมาดีกว่าคาด",
-                            "4 พ.ย. 2026: หุ้นลดลงราว 3.7% ระหว่างวัน หลัง Datadog ให้เป้า Q4 แบบระมัดระวังจนตลาดกังวลเรื่องการใช้งานคลาวด์ Goldman Sachs ลดราคาเป้าหมายเป็น 156 จาก 178 ดอลลาร์แต่ยังคงคำแนะนำ Buy และมีอย่างน้อย 6 สำนักลดเป้าตาม",
-                            "สัปดาห์ที่สิ้นสุด 6 พ.ย. 2026: DOCN ร่วง 19% ไปปิดที่ 72.48 ดอลลาร์ รวมถึงลดลง 15.85% ในวันที่ 5 พ.ย. ซึ่ง Nasdaq ร่วง 5.5% จากการเทขายหุ้นโครงสร้างพื้นฐาน AI หลังการเลือกตั้งกลางเทอมสหรัฐฯ",
-                            "20 พ.ย. 2026: กระแสเทขายหุ้น AI จาก IPO ของ Anthropic ที่แผ่วลง Nvidia ที่ร่วง 13.8% และความคาดหวังว่า Fed จะขึ้นดอกเบี้ยในเดือนธันวาคม ดัน S\u0026P 500 เข้าสู่ภาวะ correction กลุ่ม neocloud อย่าง CoreWeave (-12.1%) และ Nebius (-16.1%) ร่วงพร้อมกับ DOCN ที่ลดลง 13.4% ทั้งนี้ไม่มีรายงานข่าวเฉพาะของ DigitalOcean ในวันนั้น"
+               "caution":  "จุดที่ต้องระวังหลักคือต้นทุนการลงทุนที่สูงขึ้นสวนทางกับกราฟที่ยังอ่อนแอ การขยายดาต้าเซ็นเตอร์ GPU ราว 75 MW เพิ่มแรงกดดันจากค่าเสื่อมราคาและต้นทุนทางการเงิน ซึ่งสะท้อนชัดในคาดการณ์ Non-GAAP EPS ไตรมาส 4 ที่ชะลอลงเหลือ $0.30–$0.32 รวมถึงวงเงินขายหุ้น ATM $1.0B ที่อาจกดดันผู้ถือหุ้นเดิมหากถูกนำมาใช้ตอนราคาตกต่ำ ขณะที่ราคายังต่ำกว่าเส้นกลาง Bollinger Bands ($84.59) และ EMA 50 ($99.94) อีกทั้งการดีดตัว +18.3% วันที่ 23 พ.ย. เกิดขึ้นโดยไม่มีข่าวเฉพาะตัวและวอลุ่มต่ำกว่าค่าเฉลี่ย ความเสี่ยงที่จะผันผวนกลับไปทดสอบแนวรับ $63.88 จึงยังมีอยู่",
+               "cons":  [
+                            "การยื่นขอขายหุ้นเพิ่มทุนแบบ ATM วงเงินสูงสุด $1.0B เมื่อ 3 พ.ย. 2026 สร้างแรงกดดันเรื่อง Dilution ต่อผู้ถือหุ้นเดิม",
+                            "คาดการณ์ Non-GAAP EPS ไตรมาส 4 ปี 2026 ($0.30–$0.32) ลดลงจากไตรมาส 3 ($0.45) จากต้นทุนเปิดศูนย์ข้อมูลและค่าเสื่อมราคาของกำลังไฟ GPU ใหม่ 75 MW",
+                            "ราคาหุ้นยังอยู่ต่ำกว่าเส้นค่าเฉลี่ยหลักทุกเส้น ($99.94–$109.12) และการรีบาวด์ +18.3% วันที่ 23 พ.ย. มีวอลุ่มต่ำกว่าค่าเฉลี่ย 20 วัน",
+                            "โบรกเกอร์รายใหญ่หลายแห่งปรับลดเป้าราคาช่วง 4–5 พ.ย. (Citi เหลือ $160, Goldman Sachs $156, Morgan Stanley $150) และ CFO Matt Steinfort ขายหุ้นมูลค่า $5.85M วันที่ 19 พ.ย."
                         ],
-               "caution":  "แรงกดดันช่วงนี้มาจากเรื่องเงินทุนและอารมณ์ตลาด ไม่ใช่ผลประกอบการที่แย่ลง และปัจจัยแบบนี้อาจลากยาวกว่าที่คิด โครงการขายหุ้น 1 พันล้านดอลลาร์หมายความว่าบริษัทอาจขายหุ้นใหม่ออกมาทุกครั้งที่ราคาเด้ง ซึ่งอาจกดการฟื้นตัว การขยายกำลังการผลิตสู่ราว 150 MW ภายในปี 2027 ทำให้บริษัทใช้เงินลงทุนหนักขึ้น และเข้าใกล้โมเดล neocloud ที่พึ่งหนี้ ซึ่งตลาดกำลังลงโทษอยู่ แม้ราคาร่วงแล้ว GuruFocus ยังประเมิน P/E ย้อนหลังไว้ราว 287 เท่า หาก Fed ขึ้นดอกเบี้ยในเดือนธันวาคมหรือการลงทุน AI ชะลอแรงขึ้น ราคาอาจลงไปทดสอบจุดต่ำสุด 52 สัปดาห์ที่ 42.01 ดอลลาร์",
-               "opportunity":  "ราคาร่วงแรงในขณะที่ตัวเลขธุรกิจดีขึ้น ไตรมาสนี้เป็นไตรมาสที่ 5 ติดต่อกันที่ DigitalOcean เติบโตเร็วขึ้น และเพิ่งเพิ่มเป้าเมื่อ 3 พ.ย. RSI ใกล้ 31 ราคาอยู่ที่ขอบล่าง Bollinger Band และ histogram ของ MACD เริ่มบวกเล็กน้อย บ่งชี้ว่าแรงขายอาจใกล้หมด แต่ทั้งหมดนี้ยังไม่ยืนยันว่าเป็นจุดต่ำสุด หากตลาดนิ่งขึ้น การดีดกลับไปหาค่าเฉลี่ย 20 วันแถว 85.6 ดอลลาร์ถือเป็นการรีบาวด์ตามปกติ สำหรับนักลงทุนระยะยาว สิ่งที่สำคัญคือการขยับไปสู่บริการ inference ที่มีมูลค่าสูงขึ้น",
+               "fundamental":  "DigitalOcean กำลังเปลี่ยนผ่านจากคลาวด์ที่ใช้งานง่ายสำหรับนักพัฒนาและ SME ไปสู่ AI-Native Cloud เต็มรูปแบบสำหรับงาน Inference และ AI Agent โดยงบ Q3 2026 (ประกาศ 3 พ.ย.) รายได้พุ่ง 40% YoY เป็น $321.2M กำไร Non-GAAP EPS $0.45 (สูงกว่าคาดราว $0.32) และ Adjusted EBITDA $144M (มาร์จิ้น 45%) แม้จะขาดทุนสุทธิ GAAP $43M จากค่าใช้จ่ายครั้งเดียว $57M ในการซื้อคืนหุ้นกู้แปลงสภาพ ทั้งนี้รายได้ส่วน Inference โตเกือบ 600% YoY ปริมาณ Token เพิ่มราว 10 เท่า QoQ และ 90% ของรายได้ AI มาจากลูกค้าที่ใช้บริการคลาวด์หลักร่วมด้วย สะท้อนว่าจุดแข็งด้าน Developer Experience ยังทำงานได้ดี ผู้บริหารปรับเป้ารายได้ปี 2026 เป็น $1.208B–$1.211B และคาดปี 2027 โต 60%+ รองรับด้วยดาต้าเซ็นเตอร์ใหม่ ~75 MW แต่การจัดหาเงินทุนซื้อ GPU ของ Nvidia และ AMD ทั้งวงเงินอุปกรณ์ $725M (ก.ย.) และ ATM $1.0B (3 พ.ย.) ทำให้โมเดลธุรกิจต้องใช้เงินลงทุนสูงขึ้นมาก",
+               "headline":  "รายได้ AI Inference พุ่งแรง แต่เจอแรงกดดันเพิ่มทุน $1B และกราฟขาลง",
+               "news":  [
+                            "3 พ.ย. 2026 — งบ Q3 2026 และเป้าปี 2027: รายได้โต 40% YoY แตะ $321.2M กำไร Non-GAAP EPS $0.45 และ AI Customer ARR พุ่ง 288% เป็น $376M แม้จะมีขาดทุน GAAP $43M จากค่าใช้จ่ายแปลงสภาพหนี้ $57M บริษัทปรับเป้ารายได้ปี 2026 เป็น $1.208B–$1.211B และคาดปี 2027 โต 60%+ แต่ให้กรอบ Non-GAAP EPS ไตรมาส 4 ลดลงเหลือ $0.30–$0.32",
+                            "3 พ.ย. 2026 — วงเงินขายหุ้น ATM $1.0B: DigitalOcean ยื่นแบบ Form 8-K ตั้งโปรแกรมขายหุ้นสามัญแบบ At-The-Market มูลค่าสูงสุด $1.0B ผ่าน 8 ธนาคาร แม้ไม่มีข้อผูกพันต้องขายทันที แต่สร้างความกังวลเรื่อง Dilution ระหว่างระดมทุนขยายดาต้าเซ็นเตอร์ ~75 MW",
+                            "4–5 พ.ย. 2026 — โบรกเกอร์หั่นเป้าราคาแต่คงคำแนะนำซื้อ: หลังงบ Q3 ทาง Citigroup (ลดจาก $190 เหลือ $160), Morgan Stanley ($175 เหลือ $150) และ Goldman Sachs ($178 เหลือ $156) ปรับลดเป้าราคาแต่คงมุมมอง Buy ขณะที่ UBS ลดเป้า Hold เหลือ $100 สะท้อนการปรับฐาน Valuation มากกว่าพื้นฐานที่เสียไป",
+                            "5 และ 16 พ.ย. 2026 — เปิดตัวผลิตภัณฑ์ AI ใหม่: วันที่ 5 พ.ย. เปิดตัว Cuttlefish แอป iPhone สำหรับควบคุมดูแล AI Agent โดยมี Box เป็นพันธมิตรเปิดตัว และวันที่ 16 พ.ย. ฝั่ง Cloudways เปิดตัว AI Website Builder ช่วยสร้างเว็บ WordPress อย่างรวดเร็ว ตอกย้ำจุดเด่นด้านการใช้งานง่าย",
+                            "19 และ 23 พ.ย. 2026 — ผู้บริหารขายหุ้นและแรงรีบาวด์ตามกลุ่ม: CFO Matt Steinfort ขายหุ้น 71,943 หุ้น (~$5.85M ที่ราคา $80.00–$83.11) เมื่อ 19 พ.ย. โดยยังถือครองต่อ 431,902 หุ้น ส่วนวันที่ 23 พ.ย. หุ้นพุ่ง 18.3% โดยไร้ข่าวเฉพาะตัว เป็นการดีดกลับตามแรงซื้อหุ้นโครงสร้างพื้นฐาน AI ทั้งกลุ่ม"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวสายโครงสร้างพื้นฐาน AI หุ้น DOCN กำลังพิสูจน์ว่าคลาวด์ที่เน้นความเรียบง่ายสำหรับนักพัฒนาสามารถกินส่วนแบ่งตลาด AI Inference เชิงพาณิชย์ได้จริง ด้วย AI Customer ARR ที่แตะ $376M การใช้งานควบคู่คลาวด์หลักถึง 90% และลูกค้ากลุ่ม $1M+ ARR ที่โต 273% YoY เป็น $386M บริษัทกำลังขยับขึ้นสู่ตลาดลูกค้าขนาดใหญ่โดยยังคง Adjusted EBITDA margin 45% และกระแสเงินสดอิสระย้อนหลัง 12 เดือนที่ 20% หากทำรายได้ปี 2027 โต 60%+ ได้ตามเป้าโดยไม่ต้องใช้เงินเพิ่มทุนมากเกินไป การร่วงลง 58% จากยอด $187.50 อาจช่วยปรับมูลค่าหุ้นให้น่าสนใจขึ้นเมื่อกราฟเริ่มสร้างฐานได้",
+               "opportunityCheck":  "คะแนน AI-opportunity บนหน้าเว็บประเมินด้านสัดส่วนรายได้ AI (AI revenue exposure) ต่ำเกินจริงและควรปรับขึ้นอย่างมีนัยสำคัญ เพราะ AI Customer ARR พุ่งแตะ $376M (+288% YoY) ใน Q3 2026 หรือคิดเป็นราวหนึ่งในสามของรายได้ทั้งปี และกลายเป็นแรงขับเคลื่อนหลักที่หนุนเป้ารายได้ปี 2027 โต 60%+ ไม่ใช่ธุรกิจเสริมอีกต่อไป ส่วนการเติบโตของตลาดก็สมควรขยับขึ้นเล็กน้อยตามดีมานด์งาน Inference ที่เร่งตัว ขณะที่ด้านคอขวดและอำนาจตั้งราคาที่อยู่ระดับต่ำถือว่าเหมาะสมแล้ว เพราะ DOCN ต้องซื้อ GPU จาก Nvidia และ AMD รวมถึงระดมทุนแข่งกับ Hyperscaler และ Neocloud รายอื่น",
+               "pros":  [
+                            "AI Customer ARR ใน Q3 2026 พุ่ง 288% YoY แตะ $376M โดยรายได้บริการ Inference โตเกือบ 600% YoY",
+                            "รายได้รวม Q3 2026 เร่งตัวต่อเนื่องเป็นไตรมาสที่ 5 (+40% YoY เป็น $321.2M) หนุนเป้ารายได้ปี 2027 โต 60%+",
+                            "ขยายฐานลูกค้ารายใหญ่สำเร็จ โดยกลุ่มลูกค้า $1M+ ARR โต 273% YoY แตะ $386M และ 90% ของรายได้ AI ใช้บริการคลาวด์หลักควบคู่กัน",
+                            "สภาพคล่องแข็งแกร่งราว $1.2B รักษา Adjusted EBITDA margin ที่ 45% และหนี้สินสุทธิต่ำกว่า 1.5 เท่าของ EBITDA โดยไม่มีหนี้ก้อนใหญ่ครบกำหนดก่อนปี 2030"
+                        ],
                "risks":  [
-                             "dilution จากโครงการขายหุ้น 1 พันล้านดอลลาร์ และหุ้นที่ออกไปก่อนหน้าเพื่อซื้อคืนหุ้นกู้แปลงสภาพ",
-                             "ตลาดลดมูลค่าหุ้น neocloud และโครงสร้างพื้นฐาน AI ทั้งกลุ่ม จากความกังวลเรื่องการลงทุนที่พึ่งหนี้",
-                             "ดอกเบี้ยขาขึ้น (ตลาดคาดว่า Fed จะขึ้นในเดือนธันวาคม) กดดันหุ้นเติบโตที่มูลค่าสูง",
-                             "โครงการศูนย์ข้อมูลที่ผูกพันไว้ราว 180 MW อาจล่าช้าหรือบานปลายด้านต้นทุน",
-                             "การแข่งขันจาก hyperscaler และ GPU neocloud อาจกัดกร่อนจุดเด่นด้านความเรียบง่ายสำหรับลูกค้า SMB"
+                             "ความเสี่ยง Dilution หากบริษัทนำวงเงินขายหุ้น ATM $1.0B มาใช้ในจังหวะที่ราคาหุ้นยังอยู่ต่ำกว่าจุดสูงสุดเดิมมาก",
+                             "แรงกดดันต่ออัตรากำไรและกระแสเงินสดอิสระจากงบลงทุน GPU มหาศาล ค่าเสื่อมราคาที่เพิ่มขึ้น และความเสี่ยงเปิดศูนย์ข้อมูลล่าช้า",
+                             "การแข่งขันด้านราคาที่รุนแรงในตลาด AI Inference จากทั้ง Hyperscaler (AWS, Azure, GCP) และผู้ให้บริการ Neocloud เฉพาะทาง",
+                             "การกระจุกตัวของลูกค้ารายใหญ่และความผันผวนของงบลงทุน AI หลังกลุ่มลูกค้าที่จ่ายเกิน $100K/ปี คิดเป็นถึง 41% ของรายได้รวมแล้ว"
                          ],
-               "summary":  "DOCN อยู่ในขาลงชัน ราคา 66.76 ดอลลาร์อยู่ต่ำกว่า EMA ทั้งสามเส้นมาก และอยู่เหนือขอบล่าง Bollinger Band เพียงเล็กน้อย RSI ที่ 31 ใกล้โซน oversold พื้นฐานกลับสวนทาง: รายได้ Q3 โต 40% ARR จาก AI โตเกือบ 4 เท่า และเป้าปี 2027 เพิ่มเป็นโต 60% ขึ้นไป แรงขายมาจากโครงการขายหุ้น 1 พันล้านดอลลาร์และการเทขายหุ้น AI ทั้งกลุ่มสองระลอก (5 และ 20 พ.ย.) ไม่ใช่ธุรกิจที่อ่อนแอลง moat ยังคงอยู่ สิ่งที่ต้องติดตามคือ dilution และต้นทุนเงินทุน โดยจุดตรวจถัดไปคืองบ Q4 ในเดือนกุมภาพันธ์"
+               "summary":  "หุ้น DigitalOcean ดีดตัวแรง 18.3% มาปิดที่ $78.98 เมื่อ 23 พ.ย. 2026 ตามแรงรีบาวด์หุ้นโครงสร้างพื้นฐาน AI ทั้งกลุ่ม แต่ยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($187.50) ถึง 58% ด้านพื้นฐาน Q3 2026 (ประกาศ 3 พ.ย.) แข็งแกร่งเกินคาด รายได้โต 40% YoY แตะ $321.2M พร้อม AI Customer ARR พุ่ง 288% เป็น $376M และตั้งเป้ารายได้ปี 2027 โต 60%+ ทว่าวงเงินขายหุ้น ATM $1.0B คาดการณ์กำไร Q4 ที่อ่อนลง ($0.30–$0.32) จากการเร่งขยายศูนย์ข้อมูล และการหั่นเป้าราคาของนักวิเคราะห์ยังกดดันกราฟให้อยู่ในแนวโน้มขาลง",
+               "technical":  "แม้ราคาจะพุ่ง 18.3% มาที่ $78.98 เมื่อ 23 พ.ย. 2026 (เปิดกระโดดที่ $80.01 ขึ้นแตะ $81.91 ก่อนย่อปิดต่ำกว่าราคาเปิด) แต่โครงสร้างกราฟจากข้อมูล 500 วันทำการยังอยู่ในแนวโน้มขาลงระยะกลาง ราคาอยู่ต่ำกว่าเส้น EMA (เส้นค่าเฉลี่ยเคลื่อนที่แบบให้น้ำหนักราคาล่าสุดเพื่อดูทิศทางแนวโน้ม) ทั้งสามเส้น ได้แก่ EMA 50 ($99.94), EMA 200 ($104.78) และ EMA 100 ($109.12) โดย EMA 50 ตัดลงต่ำกว่า EMA 200 ทำให้โซน $99.94–$109.12 เป็นแนวต้านหนาแน่น ด้านแรงส่งเพิ่งเริ่มเห็นสัญญาณชะลอการลง MACD (เครื่องมือวัดแรงส่งและแนวโน้ม) ยังติดลบหนักที่ -8.57 แต่เพิ่งตัดขึ้นเหนือเส้นสัญญาณ (-9.04) ทำให้ค่าฮิสโตแกรมพลิกเป็นบวกเล็กน้อย (+0.47) ส่วน RSI 14 (มาตรวัดแรงส่งระดับ 0–100; ต่ำกว่า 30 คือขายมากเกินไป เกิน 70 คือซื้อมากเกินไป) ฟื้นขึ้นมาที่ 42.38 แต่ยังต่ำกว่าแนวกลาง 50 กรอบ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) กว้างมากตั้งแต่แนวรับ $63.88 ถึง $105.29 สะท้อนความผันผวนสูง ราคากำลังดีดหาแนวต้านเส้นกลาง $84.59 และยังอยู่ในโซนล่างของกรอบรอบ 52 สัปดาห์ ($42.01–$187.50) ที่สำคัญคือวอลุ่มวันที่ 23 พ.ย. (3.74M หุ้น) ต่ำกว่าค่าเฉลี่ย 20 วัน (4.13M) บ่งชี้ว่าเป็นการรีบาวด์ระยะสั้นมากกว่าแรงซื้อสะสมของสถาบัน"
            },
     "sources":  [
                     {
-                        "title":  "DigitalOcean Holdings, Inc. - Form 8-K - Q3 2026 press release",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001582961/000162828026069125/a2026-q3dopressrelease.htm",
-                        "date":  "2026-11-03"
+                        "date":  "2026-11-03",
+                        "publisher":  "Business Wire",
+                        "title":  "DigitalOcean Announces Third Quarter 2026 Financial Results",
+                        "url":  "https://www.businesswire.com/news/home/20261103005315/en/"
                     },
                     {
-                        "title":  "DigitalOcean Q3 2026 slides: AI growth accelerates, 2027 outlook raised",
-                        "publisher":  "Investing.com",
-                        "url":  "https://ca.investing.com/news/stock-market-news/digitalocean-q3-2026-slides-ai-growth-accelerates-2027-outlook-raised-93CH-4926085",
-                        "date":  "2026-11-03"
+                        "date":  "2026-11-03",
+                        "publisher":  "DigitalOcean Investor Relations",
+                        "title":  "DigitalOcean Quarterly Results and Q3 2026 Earnings Materials",
+                        "url":  "https://investors.digitalocean.com/financials/quarterly-results/default.aspx"
                     },
                     {
-                        "title":  "DigitalOcean Holdings, Inc. - Form 424B5 (at-the-market offering)",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001582961/000110465926121722/tm2628707d1_424b5.htm",
-                        "date":  "2026-11-03"
+                        "date":  "2026-11-03",
+                        "publisher":  "U.S. SEC EDGAR",
+                        "title":  "DigitalOcean Holdings, Inc. SEC Filings (Form 8-K $1.0B ATM Equity Offering)",
+                        "url":  "https://www.sec.gov/edgar/browse/?CIK=0001582961"
                     },
                     {
-                        "title":  "DigitalOcean Lost 19% in a Week. Goldman Sachs Sees 115% Upside From Here",
-                        "publisher":  "TIKR",
-                        "url":  "https://www.tikr.com/blog/digitalocean-lost-19-in-a-week-goldman-sachs-sees-115-upside-from-here",
-                        "date":  "2026-11-09"
+                        "date":  "2026-11-05",
+                        "publisher":  "Business Wire",
+                        "title":  "DigitalOcean Launches Cuttlefish to Supervise AI Agents From Anywhere, With Box as Launch Partner",
+                        "url":  "https://www.businesswire.com/news/home/20261105005391/en/DigitalOcean-Launches-Cuttlefish-to-Supervise-AI-Agents-From-Anywhere-With-Box-as-Launch-Partner"
                     },
                     {
-                        "title":  "Cloudflare and DigitalOcean shares are falling, what you need to know",
-                        "publisher":  "StockStory via FinancialContent",
-                        "url":  "https://markets.financialcontent.com/stocks/article/stockstory-2026-11-4-cloudflare-and-digitalocean-shares-are-falling-what-you-need-to-know",
-                        "date":  "2026-11-04"
+                        "date":  "2026-11-05",
+                        "publisher":  "Stock Analysis",
+                        "title":  "DigitalOcean (DOCN) Stock Forecast \u0026 Analyst Price Targets",
+                        "url":  "https://stockanalysis.com/stocks/docn/forecast/"
                     },
                     {
-                        "title":  "Wall St ends sharply lower on AI selloff, S\u0026P 500, Dow in correction",
-                        "publisher":  "Reuters via Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/markets/stocks/articles/wall-st-futures-slip-anthropic-104746137.html",
-                        "date":  "2026-11-20"
-                    },
-                    {
-                        "title":  "DigitalOcean Holdings Inc (DOCN) Shares Fall 4.4% -- GF Value Says Still Overvalued",
-                        "publisher":  "GuruFocus",
-                        "url":  "https://www.gurufocus.com/news/9211245/digitalocean-holdings-inc-docn-shares-fall-44-gf-value-says-still-overvalued",
-                        "date":  "2026-11-19"
+                        "date":  "2026-11-19",
+                        "publisher":  "StockTitan / SEC",
+                        "title":  "Form 4: Statement of Changes in Beneficial Ownership — Matt Steinfort (DOCN)",
+                        "url":  "https://www.stocktitan.net/sec/0001628280-26-044146/docn-20261119.htm"
                     }
                 ]
 }

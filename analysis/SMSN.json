@@ -6,7 +6,7 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T05:59:56Z",
+    "generatedAt":  "2026-11-24T03:56:03Z",
     "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
@@ -14,37 +14,33 @@
                        "symbol":  "KRX:005930",
                        "yahoo":  "005930.KS",
                        "currency":  "KRW",
-                       "asOf":  "2026-11-23",
-                       "fetchedAt":  "2026-11-23T05:55:47Z",
-                       "price":  178100,
-                       "open":  0,
-                       "high":  179200,
-                       "low":  171500,
-                       "volume":  15480326,
-                       "avgVolume20":  18381381,
-                       "changePct":  -2.73,
-                       "historyDays":  484,
-                       "ema50":  223915.59,
-                       "ema100":  236126.64,
-                       "ema200":  223380.89,
+                       "asOf":  "2026-11-24",
+                       "fetchedAt":  "2026-11-24T03:51:54Z",
+                       "price":  191900,
+                       "open":  193200,
+                       "high":  193700,
+                       "low":  187500,
+                       "volume":  10510931,
+                       "avgVolume20":  18402457,
+                       "changePct":  8.11,
+                       "historyDays":  485,
+                       "ema50":  222637.47,
+                       "ema100":  235239.22,
+                       "ema200":  223061.74,
                        "bb":  {
-                                  "upper":  240728.75,
-                                  "middle":  206320,
-                                  "lower":  171911.25
+                                  "upper":  239045.72,
+                                  "middle":  204785,
+                                  "lower":  170524.28
                               },
                        "macd":  {
-                                    "macd":  -12774.42,
-                                    "signal":  -11791.82,
-                                    "hist":  -982.6
+                                    "macd":  -12185.11,
+                                    "signal":  -11878.14,
+                                    "hist":  -306.97
                                 },
-                       "rsi14":  32.84,
+                       "rsi14":  41.76,
                        "high52w":  374500,
                        "low52w":  94500,
                        "spark":  [
-                                     [
-                                         "2026-05-29",
-                                         317000
-                                     ],
                                      [
                                          "2026-06-01",
                                          349000
@@ -519,11 +515,14 @@
                                      ],
                                      [
                                          "2026-11-23",
-                                         178100
+                                         177500
+                                     ],
+                                     [
+                                         "2026-11-24",
+                                         191900
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          242545.01,
                                           246719.71,
                                           251181.68,
                                           255115.74,
@@ -642,76 +641,77 @@
                                           228778,
                                           227527.89,
                                           225785.62,
-                                          223915.59
+                                          223892.06,
+                                          222637.47
                                       ]
                    },
     "en":  {
-               "caution":  "History shows memory stocks often peak well before quarterly profits do. Even with KRW 107.4 trillion in Q3 operating profit, November\u0027s 20% two-week NAND spot drop and Q1 2027 consumer contract-price cut forecasts warn that non-AI memory demand is already softening. Add KRW 84.4 trillion in annual CapEx, tightening U.S. export controls on Chinese foundry orders, and zero technical confirmation of a bottom—with shares still below all major EMAs and MACD negative—and catching a falling knife remains a real hazard.",
+               "caution":  "The sharp drawdown from KRW 374,500 shows markets price memory cycles years ahead. While 2026–2027 AI demand is tight, Goldman Sachs\u0027s November 23 cut to a KRW 350,000 target warns that rival capacity additions—including Chinese DRAM makers—could trigger roughly 20% traditional memory price declines in 2028. Meanwhile, November 19 U.S. export rules create licensing friction for China foundry clients, consumer DX margins are negative, and the November 24 rebound occurred on 43% below-average volume beneath key EMA resistance.",
                "cons":  [
-                            "NAND flash spot prices dropped roughly 20% in two weeks through mid-November 2026 amid weak PC/smartphone demand and rising YMTC competition.",
-                            "New U.S. BIS export controls effective November 19, 2026 forced Samsung to pause certain sub-16nm shipments to Chinese clients pending licenses.",
-                            "Surging memory costs pushed the DX mobile and appliances division to a KRW 0.8 trillion operating loss in Q3 2026.",
-                            "Technicals are deeply bearish at KRW 178,100—over 20% below all three key EMAs—with foreign outflows still pressuring shares."
+                            "Shares sit 48.8% below the KRW 374,500 peak and well beneath EMA 50, EMA 100, and EMA 200.",
+                            "Goldman Sachs cut its target from KRW 500,000 to KRW 350,000 on November 23, citing potential 20% memory price declines in 2028.",
+                            "U.S. BIS rules effective November 19 prompted Samsung to pause certain 16nm-and-below China foundry shipments pending individual licenses.",
+                            "Surging memory chip costs pushed Samsung\u0027s consumer DX division into a KRW 0.8 trillion Q3 operating loss."
                         ],
-               "fundamental":  "Samsung anchors the AI memory oligopoly alongside SK hynix and Micron, uniquely combining DRAM/NAND scale with in-house foundry production for HBM logic base-dies. On October 29, 2026, Q3 revenue climbed 127% year-on-year to KRW 195.3 trillion and operating profit hit a record KRW 107.4 trillion (55.0% margin). Semiconductors generated KRW 147.1 trillion in revenue and KRW 106.5 trillion in profit as HBM4 tripled sequentially to 60% of HBM sales and 2027 HBM supply sold out. Foundry improved on 4nm base-dies and doubled 2nm project wins, supported by KRW 84.4 trillion in 2026 CapEx (KRW 76.8 trillion for chips). Meanwhile, high memory costs pushed consumer devices to a KRW 0.8 trillion loss. Despite November\u0027s NAND weakness and U.S. export curbs, the AI memory moat remains intact.",
-               "headline":  "Record KRW 107.4T Q3 Profit Collides With Peak-Cycle Fears and Export Curbs",
+               "fundamental":  "Samsung\u0027s Q3 2026 release on October 29 confirmed its core moat—memory scale in a three-player oligopoly—is firing at peak power. Consolidated revenue rose 14% quarter-on-quarter to KRW 195.3 trillion and operating profit surged 20% to KRW 107.4 trillion, led by KRW 147.1 trillion in semiconductor revenue and KRW 106.5 trillion in profit. Crucially, Samsung overcame its earlier HBM3E stumble by qualifying 1c-DRAM-based HBM4 for Nvidia\u0027s Vera Rubin platform while readying HBM4E for H1 2027. Signing 10 multi-year supply agreements—with 10 more in talks toward 60–70% capacity lock-in by 2030—helps cushion cyclicality. Still, high memory prices drove a KRW 0.8 trillion loss in consumer DX hardware, while November 19 U.S. BIS rules complicate China foundry orders and analysts debate a 2028 traditional-memory supply glut.",
+               "headline":  "Record KRW 107.4T Profit Clashes With Bearish Chart and 2028 Cycle Fears",
                "news":  [
-                            "On October 29, 2026, Samsung reported record Q3 consolidated revenue of KRW 195.3 trillion and operating profit of KRW 107.4 trillion, guiding full-year 2026 CapEx to KRW 84.4 trillion while confirming 2027 HBM supply is sold out.",
-                            "On October 30, 2026, shares slid roughly 5% post-earnings as analysts debated cycle-peak risk; Morningstar raised 2027–2028 profit forecasts on HBM4 pricing but kept a \u0027None\u0027 moat rating citing cyclicality and Chinese rivals CXMT and YMTC.",
-                            "On November 17, 2026, TrendForce highlighted a Bank of America report showing NAND spot prices dropped roughly 20% in two weeks on weak PC/smartphone demand and YMTC competition, weighing on Samsung and SK hynix shares.",
-                            "On November 19–20, 2026, following the U.S. BIS \u0027Addressing Remote Access to Advanced Semiconductors\u0027 rule, Samsung and TSMC reportedly paused certain sub-16nm shipments to Chinese clients including Baidu and ByteDance pending export licenses.",
-                            "On November 20, 2026, Samsung promoted HBM/DRAM chief Sang Joon Hwang to President and Head of Memory while naming Won-Joon Choi to lead Mobile, freeing Vice Chairman Young Hyun Jun to focus on broader DS and foundry growth."
+                            "On October 29, 2026, Samsung reported record Q3 2026 revenue of KRW 195.3 trillion and operating profit of KRW 107.4 trillion, led by KRW 106.5 trillion in semiconductor profit on HBM4 and AI server memory demand, while its consumer DX unit posted a KRW 0.8 trillion loss.",
+                            "On November 12, 2026, key HBM4 customer Nvidia announced CEO Jensen Huang\u0027s sudden resignation, triggering a global AI chip selloff before Nvidia\u0027s board unanimously reinstated him on November 23, sparking Samsung\u0027s 8.11% rebound on November 24.",
+                            "On November 20, 2026, TrendForce reported that Samsung and TSMC paused certain 16nm-and-below shipments to Chinese clients—including ByteDance and Baidu\u0027s Kunlun unit—to seek individual licenses under U.S. BIS rules effective November 19.",
+                            "On November 20, 2026, Samsung promoted memory development veteran Sang Joon Hwang to President and Head of Memory Business and acquired Rockley Photonics patents to advance its silicon photonics foundry roadmap.",
+                            "On November 23, 2026, Goldman Sachs lowered its 12-month Samsung price target from KRW 500,000 to KRW 350,000 while keeping a Buy rating, citing projected ~20% traditional DRAM and NAND price declines in 2028."
                         ],
-               "opportunity":  "For long-term AI infrastructure holders, the disconnect between collapsing sentiment and booming AI fundamentals is striking. Unlike past commodity cycles, Samsung\u0027s 2027 HBM supply is already sold out under multi-year agreements, HBM4 now makes up 60% of HBM revenue, and 2nm foundry project wins have more than doubled alongside the Taylor, Texas ramp. If KRW 171,500–172,000 support stabilizes while HBM4 margins hold through 2027 and board buyback details arrive in late January 2027, the market may reassess peak-cycle fears.",
-               "opportunityCheck":  "Most sub-scores look fair, but three warrant slight recalibration after Q3 2026. AI revenue exposure looks too low and should move higher: semiconductors drove 75% of revenue and nearly all operating profit while consumer devices lost money, making earnings overwhelmingly AI-linked. Market position also merits a modest increase as HBM4 reached 60% of HBM revenue with 2027 supply sold out. Conversely, bottleneck and pricing power should edge lower, since November\u0027s 20% NAND spot drop and YMTC competition highlight persistent commodity-memory cyclicality.",
+               "opportunity":  "For long-term AI infrastructure holders, the November pullback has separated Samsung\u0027s share price from its strongest operating execution in years. Earning Nvidia Vera Rubin HBM4 approval, scaling HBM4E for H1 2027, and locking up multi-year LTAs structurally reduce earnings volatility compared with past memory cycles. Promoting HBM veteran Sang Joon Hwang on November 20 sharpens memory leadership, while acquiring Rockley Photonics patents bolsters 2029 silicon photonics foundry ambitions alongside an anticipated KRW 90–110 trillion shareholder-return framework.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile looks slightly understated on AI revenue exposure and market position. On October 29, 2026, Samsung\u0027s semiconductor division generated three-quarters of consolidated revenue and 99% of operating profit via AI server DRAM, enterprise SSDs, and scaling HBM4—meaning AI already dominates earnings far beyond a typical conglomerate mix. Moving AI revenue exposure higher is warranted, alongside a modest bump to market position after Samsung won Nvidia Vera Rubin HBM4 certification. Bottleneck power and optionality remain appropriately tempered by 2028 memory supply risks and U.S. foundry export controls.",
                "pros":  [
-                            "Q3 2026 operating profit hit a record KRW 107.4 trillion (+783% YoY) on 55.0% consolidated margins, led by KRW 106.5 trillion from semiconductors.",
-                            "HBM4 revenue more than tripled sequentially to 60% of total HBM sales in Q3 2026, and 2027 HBM supply is fully sold out.",
-                            "Foundry earnings rebounded on 4nm HBM base-dies while 2nm project wins more than doubled year-on-year ahead of the Taylor, Texas ramp.",
-                            "Promoting HBM leader Sang Joon Hwang to run Memory on November 20, 2026 frees Vice Chairman Young Hyun Jun to focus on DS and foundry execution."
+                            "Q3 2026 operating profit hit a record KRW 107.4 trillion on October 29, with semiconductors generating KRW 106.5 trillion.",
+                            "Samsung passed Nvidia HBM4 qualification for Vera Rubin and plans HBM4E mass production in H1 2027.",
+                            "Ten long-term memory agreements are signed and ten more are in talks, targeting 60–70% LTA coverage by 2030.",
+                            "Veteran memory developer Sang Joon Hwang became Memory Business President on November 20 alongside Rockley Photonics patent acquisitions."
                         ],
                "risks":  [
-                             "Broader memory-cycle peak if falling consumer NAND prices (down ~20% in early November 2026) spill over into conventional DRAM pricing in 2027.",
-                             "Escalating U.S. BIS semiconductor export controls restricting advanced foundry and AI-related shipments to Chinese customers.",
-                             "Long-term supply pressure from state-backed Chinese memory rivals YMTC (NAND) and CXMT (DRAM) eroding commodity margins.",
-                             "Execution and cash-flow risk from KRW 84.4 trillion in 2026 CapEx alongside component-cost losses in the DX mobile and appliances unit."
+                             "2028 memory oversupply risk if Chinese and global fab expansions erode traditional DRAM and NAND pricing.",
+                             "U.S. BIS licensing delays under the November 19 rule weighing on advanced China foundry revenue and utilization.",
+                             "Sustained operating losses in consumer DX smartphones and appliances if high memory costs squeeze retail margins.",
+                             "Customer concentration and governance volatility across top AI chip buyers, highlighted by Nvidia\u0027s November 12–23 CEO turmoil."
                          ],
-               "summary":  "Samsung Electronics trades at KRW 178,100 on 2026-11-23, down 52.4% from its KRW 374,500 52-week high, despite posting record earnings. On October 29, 2026, Q3 operating profit surged 783% year-on-year to KRW 107.4 trillion as HBM4 reached 60% of HBM revenue and 2027 HBM capacity sold out. However, a 20% two-week NAND spot-price drop reported on November 17, tighter U.S. BIS export rules pausing some China shipments on November 19–20, and peak-cycle fears triggered steep foreign outflows. The AI memory oligopoly moat remains intact, while technicals stay firmly bearish.",
-               "technical":  "Technicals are firmly bearish as of 2026-11-23 across 484 trading days of history. At KRW 178,100 (-2.73% daily), shares trade over 20% below every key EMA (exponential moving average tracking trend): EMA 100 at KRW 236,126.64, EMA 50 at KRW 223,915.59, and EMA 200 at KRW 223,380.89. With EMA 50 now barely above EMA 200, a bearish crossover looms. Momentum stays negative: MACD (comparing fast and slow trend averages) sits at -12,774.42 below its -11,791.82 signal line, with a -982.60 histogram. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 32.84—approaching oversold without turning upward. Shares hug the lower Bollinger Band (a 20-day volatility envelope) at KRW 171,911.25 after hitting KRW 171,500 intraday, sitting 52.4% below the KRW 374,500 52-week high (low: KRW 94,500). Volume of 15.48 million shares lagged the 18.38 million 20-day average, signaling persistent distribution rather than climax selling. Support lies around KRW 171,500–172,000; resistance sits at the KRW 206,320 middle band and KRW 223,400–223,900 EMA zone."
+               "summary":  "Samsung Electronics rallied 8.11% to KRW 191,900 on November 24, 2026 after Nvidia reinstated CEO Jensen Huang on November 23, yet shares remain 48.8% below their June 52-week high of KRW 374,500. Fundamentally, Q3 2026 results on October 29 broke records with KRW 195.3 trillion in revenue and KRW 107.4 trillion in operating profit as HBM4 shipments scaled for Nvidia\u0027s Vera Rubin platform. However, November brought U.S. export pauses on 16nm China orders, a Goldman Sachs target cut to KRW 350,000 on November 23 over 2028 memory pricing, and bearish technicals.",
+               "technical":  "Despite jumping 8.11% to KRW 191,900 on November 24, 2026, Samsung\u0027s chart structure remains bearish. Price trades 13.8% below its 50-day exponential moving average (EMA 50—a trend line weighted toward recent closes) at KRW 222,637, 18.4% below EMA 100 at KRW 235,239, and 14.0% below EMA 200 at KRW 223,062. Notably, EMA 50 has slipped just beneath EMA 200 while EMA 100 sits highest, confirming a damaged medium-term trend. Momentum is weak: MACD 12/26/9 (a trend-momentum difference between fast and slow averages) sits deeply negative at -12,185.11 below its -11,878.14 signal line, though the narrow -306.97 histogram hints selling pressure is slowing. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) reads 41.76, neutral-weak rather than washed out. Within Bollinger Bands 20/2 (a volatility envelope around the 20-day average), price sits in the lower half between lower-band support at KRW 170,524 and middle-band resistance at KRW 204,785, and stands 48.8% off its KRW 374,500 52-week high (low: KRW 94,500). Volume of 10.51 million shares trailed the 20-day average of 18.40 million by 43%, leaving the rebound unconfirmed."
            },
     "th":  {
-               "caution":  "ประวัติศาสตร์หุ้นหน่วยความจำมักทำจุดสูงสุดก่อนกำไรรายไตรมาสจะถึงจุดพีค แม้กำไร Q3 จะสูงถึง KRW 107.4 ล้านล้าน แต่ราคาสปอต NAND ที่ดิ่ง 20% ในสองสัปดาห์ของเดือนพฤศจิกายน พร้อมคาดการณ์ราคาสัญญาฝั่งผู้บริโภค Q1 2027 ที่อ่อนตัว ส่งสัญญาณว่าอุปสงค์นอกกลุ่ม AI เริ่มแผ่ว เมื่อรวมกับ CapEx ปีนี้ที่สูงถึง KRW 84.4 ล้านล้าน มาตรการคุมส่งออกของสหรัฐฯ และกราฟที่ยังต่ำกว่า EMA ทุกเส้นโดย MACD ยังติดลบ ความเสี่ยงของการรีบรับหุ้นขาลงจึงยังมีอยู่สูง",
+               "caution":  "การร่วงลงแรงจากจุดสูงสุด KRW 374,500 สะท้อนว่าตลาดมองข้ามไปถึงวัฏจักรหน่วยความจำล่วงหน้าหลายปี แม้ดีมานด์ AI ช่วงปี 2026–2027 จะตึงตัว แต่บทวิเคราะห์ของ Goldman Sachs วันที่ 23 พ.ย. ที่หั่นเป้าหมายเหลือ KRW 350,000 เตือนว่าการขยายกำลังผลิตของคู่แข่งรวมถึงผู้ผลิต DRAM จีนอาจกดราคาหน่วยความจำดั้งเดิมลงราว 20% ในปี 2028 ขณะเดียวกัน กฎส่งออกสหรัฐฯ วันที่ 19 พ.ย. กดดันงานรับจ้างผลิตให้ลูกค้าจีน ธุรกิจ DX ขาดทุน และแรงดีดตัววันที่ 24 พ.ย. ยังมีวอลุ่มต่ำกว่าค่าเฉลี่ย 43% ใต้แนวต้าน EMA สำคัญ",
                "cons":  [
-                            "ราคาสปอต NAND flash ร่วงราว 20% ในสองสัปดาห์ช่วงกลางพฤศจิกายน 2026 จากอุปสงค์พีซีและสมาร์ทโฟนที่อ่อนแอและการแข่งขันจาก YMTC ของจีน",
-                            "กฎคุมส่งออกใหม่ของสหรัฐฯ (BIS) ที่มีผล 19 พฤศจิกายน 2026 ทำให้ Samsung ต้องชะลอส่งชิประดับต่ำกว่า 16nm บางส่วนให้ลูกค้าจีนเพื่อรอใบอนุญาต",
-                            "ต้นทุนหน่วยความจำที่พุ่งสูงกดดันกลุ่ม DX (มือถือและเครื่องใช้ไฟฟ้า) ให้ขาดทุนจากการดำเนินงาน KRW 0.8 ล้านล้านใน Q3 2026",
-                            "สัญญาณเทคนิคเป็นขาลงชัดเจนที่ KRW 178,100 ต่ำกว่าเส้น EMA หลักทั้งสามเส้นเกิน 20% ท่ามกลางแรงขายต่างชาติที่ยังกดดันต่อเนื่อง"
+                            "ราคาหุ้นต่ำกว่าจุดสูงสุด KRW 374,500 ถึง 48.8% และยังอยู่ใต้เส้น EMA 50, EMA 100 และ EMA 200 ทั้งหมด",
+                            "Goldman Sachs ปรับลดเป้าหมายจาก KRW 500,000 เหลือ KRW 350,000 เมื่อ 23 พ.ย. จากความกังวลว่าราคาหน่วยความจำปี 2028 อาจลดลงราว 20%",
+                            "กฎ BIS สหรัฐฯ ที่มีผล 19 พ.ย. ทำให้ Samsung ต้องชะลอการส่งมอบชิประดับ 16nm และต่ำกว่าให้ลูกค้าจีนบางรายเพื่อรอใบอนุญาต",
+                            "ต้นทุนชิปหน่วยความจำที่พุ่งสูงกดดันให้ธุรกิจสินค้าผู้บริโภค DX ขาดทุนจากการดำเนินงาน KRW 0.8 ล้านล้านในไตรมาส 3"
                         ],
-               "fundamental":  "Samsung เป็นหนึ่งในเสาหลักของตลาดผูกขาดน้อยรายด้านหน่วยความจำ AI ร่วมกับ SK hynix และ Micron โดยมีจุดเด่นเฉพาะตัวคือผสานกำลังผลิต DRAM/NAND เข้ากับโรงรับจ้างผลิตชิป (Foundry) สำหรับ logic base-die ของ HBM งบ Q3 2026 วันที่ 29 ตุลาคมสะท้อนพลังดังกล่าวชัดเจน รายได้โต 127% YoY สู่ KRW 195.3 ล้านล้าน และกำไรจากการดำเนินงานทำสถิติ KRW 107.4 ล้านล้าน (มาร์จิ้น 55.0%) โดยกลุ่มชิปสร้างรายได้ KRW 147.1 ล้านล้านและกำไร KRW 106.5 ล้านล้าน หลังยอดขาย HBM4 โตเกินสามเท่า QoQ สู่สัดส่วน 60% ของรายได้ HBM และกำลังผลิต HBM ปี 2027 ขายหมดแล้ว ด้าน Foundry ฟื้นตัวจาก 4nm base-die และออเดอร์ 2nm โตเกินเท่าตัว หนุนด้วยงบ CapEx ปี 2026 ที่ KRW 84.4 ล้านล้าน (กลุ่มชิป KRW 76.8 ล้านล้าน) แม้กลุ่มมือถือและเครื่องใช้ไฟฟ้าจะขาดทุน KRW 0.8 ล้านล้านจากต้นทุนชิปที่แพงขึ้น แต่ภาพรวมฐานแกร่งด้านหน่วยความจำ AI ยังไม่เสียทรง",
-               "headline":  "กำไร Q3 ทำสถิติ KRW 107.4 ล้านล้าน แต่หุ้นดิ่งรับกังวลวัฏจักรพีคและคุมส่งออกสหรัฐฯ",
+               "fundamental":  "งบ Q3 2026 วันที่ 29 ต.ค. ตอกย้ำว่าจุดแข็งด้านขนาดกำลังผลิตหน่วยความจำในตลาดผูกขาดน้อยรายของ Samsung กำลังทำงานเต็มประสิทธิภาพ รายได้รวมโต 14% QoQ แตะ KRW 195.3 ล้านล้าน และกำไรจากการดำเนินงานพุ่ง 20% เป็น KRW 107.4 ล้านล้าน โดยธุรกิจเซมิคอนดักเตอร์ (DS) ทำรายได้ KRW 147.1 ล้านล้านและกำไรถึง KRW 106.5 ล้านล้าน ที่สำคัญ Samsung กู้ศรัทธาจากช่วง HBM3E ได้สำเร็จด้วยการผ่านรับรอง HBM4 บนเทคโนโลยี 1c-DRAM ให้แพลตฟอร์ม Vera Rubin ของ Nvidia และเตรียมผลิต HBM4E เชิงพาณิชย์ในครึ่งแรกปี 2027 พร้อมทำสัญญาระยะยาว (LTA) แล้ว 10 รายและเจรจาอีก 10 รายเพื่อล็อกกำลังผลิต 60–70% ภายในปี 2030 อย่างไรก็ดี ราคาชิปที่แพงขึ้นทำให้ธุรกิจ DX ขาดทุน KRW 0.8 ล้านล้าน ขณะที่กฎ BIS วันที่ 19 พ.ย. เพิ่มอุปสรรคฝั่งโรงรับจ้างผลิตในจีน และตลาดเริ่มถกเถียงเรื่องภาวะอุปทานล้นในปี 2028",
+               "headline":  "กำไรทุบสถิติ KRW 107.4 ล้านล้าน สวนทางกราฟขาลงและความกังวลวัฏจักรปี 2028",
                "news":  [
-                            "29 ตุลาคม 2026: Samsung รายงานงบ Q3 ทำสถิติใหม่ด้วยรายได้รวม KRW 195.3 ล้านล้านและกำไรจากการดำเนินงาน KRW 107.4 ล้านล้าน พร้อมวางงบ CapEx ปี 2026 ที่ KRW 84.4 ล้านล้าน และยืนยันว่ากำลังผลิต HBM ปี 2027 ขายหมดแล้ว",
-                            "30 ตุลาคม 2026: หุ้นร่วงราว 5% หลังประกาศงบจากความกังวลว่าวัฏจักรหน่วยความจำใกล้จุดพีค โดย Morningstar ปรับเพิ่มประมาณการกำไรปี 2027–2028 ตามราคา HBM4 แต่คงอันดับคูเมืองที่ \u0027None\u0027 จากความผันผวนของวัฏจักรและคู่แข่งจีนอย่าง CXMT และ YMTC",
-                            "17 พฤศจิกายน 2026: TrendForce อ้างรายงานของ Bank of America ว่าราคาสปอต NAND ดิ่งราว 20% ภายในสองสัปดาห์จากอุปสงค์พีซีและสมาร์ทโฟนที่ซบเซาและแรงกดดันจาก YMTC จนฉุดหุ้น Samsung และ SK hynix ปรับลงแรง",
-                            "19–20 พฤศจิกายน 2026: หลังกฎใหม่ของสหรัฐฯ (BIS) เรื่องการเข้าถึงชิปขั้นสูงจากระยะไกลมีผลบังคับใช้ มีรายงานว่า Samsung และ TSMC ชะลอส่งมอบชิประดับต่ำกว่า 16nm บางส่วนให้ลูกค้าจีน เช่น Baidu และ ByteDance ระหว่างยื่นขอใบอนุญาตส่งออก",
-                            "20 พฤศจิกายน 2026: Samsung ประกาศปรับทัพผู้บริหาร ดัน Sang Joon Hwang ผู้ดูแลงาน HBM/DRAM ขึ้นเป็นประธานกลุ่มหน่วยความจำ และตั้ง Won-Joon Choi คุมธุรกิจมือถือ เปิดทางให้รองประธาน Young Hyun Jun โฟกัสกลยุทธ์กลุ่ม DS และ Foundry เต็มตัว"
+                            "วันที่ 29 ต.ค. 2026 Samsung รายงานงบ Q3 2026 สูงสุดเป็นประวัติการณ์ด้วยรายได้ KRW 195.3 ล้านล้าน และกำไรจากการดำเนินงาน KRW 107.4 ล้านล้าน จากกำไรธุรกิจชิป KRW 106.5 ล้านล้านตามแรงหนุน HBM4 และหน่วยความจำเซิร์ฟเวอร์ AI แต่ธุรกิจ DX ขาดทุน KRW 0.8 ล้านล้าน",
+                            "วันที่ 12 พ.ย. 2026 Nvidia ลูกค้ารายสำคัญของ HBM4 ประกาศการลาออกกะทันหันของซีอีโอ Jensen Huang จนฉุดหุ้นชิป AI ทั่วโลก ก่อนที่บอร์ดจะลงมติเอกฉันท์ดึงเขากลับมารับตำแหน่งวันที่ 23 พ.ย. และหนุนหุ้น Samsung ดีดตัว 8.11% วันที่ 24 พ.ย.",
+                            "วันที่ 20 พ.ย. 2026 TrendForce รายงานว่า Samsung และ TSMC ชะลอการส่งมอบชิประดับ 16nm และต่ำกว่าให้ลูกค้าจีนบางราย รวมถึง ByteDance และหน่วย Kunlun ของ Baidu เพื่อยื่นขอใบอนุญาตรายกรณีภายใต้กฎ BIS สหรัฐฯ ที่มีผล 19 พ.ย.",
+                            "วันที่ 20 พ.ย. 2026 Samsung แต่งตั้ง Sang Joon Hwang ผู้คร่ำหวอดด้านพัฒนาหน่วยความจำขึ้นเป็นประธานธุรกิจหน่วยความจำ พร้อมเข้าซื้อสิทธิบัตรจาก Rockley Photonics เพื่อต่อยอดแผนงาน Silicon Photonics ในธุรกิจรับจ้างผลิตชิป",
+                            "วันที่ 23 พ.ย. 2026 Goldman Sachs หั่นราคาเป้าหมาย 12 เดือนของ Samsung จาก KRW 500,000 เหลือ KRW 350,000 แต่ยังให้คำแนะนำซื้อ โดยคาดว่าราคา DRAM และ NAND แบบดั้งเดิมอาจปรับลดลงราว 20% ในปี 2028"
                         ],
-               "opportunity":  "สำหรับนักลงทุนระยะยาวสายโครงสร้างพื้นฐาน AI ช่องว่างระหว่างราคาหุ้นที่ร่วงแรงกับพื้นฐาน AI ที่ยังโตจัดถือว่าน่าจับตา ต่างจากรอบวัฏจักรสินค้าโภคภัณฑ์ในอดีตตรงที่กำลังผลิต HBM ปี 2027 ของ Samsung ขายหมดแล้วภายใต้สัญญาระยะยาว HBM4 ครองสัดส่วน 60% ของรายได้ HBM และออเดอร์ Foundry 2nm โตเกินสองเท่ารองรับโรงงานที่ Taylor รัฐเท็กซัส หากแนวรับ KRW 171,500–172,000 เริ่มนิ่ง ขณะที่มาร์จิ้น HBM4 ยืนระยะได้ถึงปี 2027 และมีรายละเอียดแผนซื้อหุ้นคืนช่วงปลายมกราคม 2027 ตลาดอาจทยอยคลายกังวลเรื่องกำไรพีค",
-               "opportunityCheck":  "คะแนนโอกาส AI ส่วนใหญ่อยู่ในระดับเหมาะสม แต่หลังงบ Q3 2026 มีสามด้านที่ควรขยับเล็กน้อย ด้านสัดส่วนรายได้ AI ดูต่ำเกินจริงและควรปรับขึ้น เพราะธุรกิจชิปสร้างรายได้ถึง 75% และแทบทั้งหมดของกำไรจากการดำเนินงาน ขณะที่กลุ่มสินค้าผู้บริโภคขาดทุน ทำให้กำไรผูกกับ AI มากกว่ารูปแบบบริษัทขนาดใหญ่ทั่วไป ด้านสถานะในตลาดควรขยับขึ้นเล็กน้อยเช่นกันหลัง HBM4 ก้าวสู่ 60% ของรายได้ HBM และขายล่วงหน้าปี 2027 หมดแล้ว ตรงกันข้าม ด้านคอขวดและอำนาจกำหนดราคาควรลดลงเล็กน้อย เพราะราคาสปอต NAND ที่ดิ่ง 20% ในเดือนพฤศจิกายนและการรุกของ YMTC สะท้อนว่าหน่วยความจำทั่วไปยังผันผวนตามวัฏจักร",
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI การปรับฐานเดือน พ.ย. ทำให้ราคาหุ้นแยกตัวออกจากผลการดำเนินงานที่แข็งแกร่งที่สุดในรอบหลายปี การผ่านรับรอง HBM4 ให้ Vera Rubin ของ Nvidia การเร่งผลิต HBM4E ครึ่งแรกปี 2027 และการล็อกสัญญา LTA ระยะยาวช่วยลดความผันผวนของกำไรเทียบกับวัฏจักรอดีต การตั้ง Sang Joon Hwang เมื่อ 20 พ.ย. ช่วยเสริมความคมชัดฝั่งหน่วยความจำ ขณะที่การซื้อสิทธิบัตร Rockley Photonics ปูทางสู่ Silicon Photonics ปี 2029 ควบคู่แผนคืนเงินผู้ถือหุ้นที่ตลาดคาดราว KRW 90–110 ล้านล้าน",
+               "opportunityCheck":  "คะแนนโอกาส AI ของหน้าเว็บดูประเมินสัดส่วนรายได้ AI และตำแหน่งทางการตลาดต่ำไปเล็กน้อย จากงบ Q3 2026 วันที่ 29 ต.ค. ธุรกิจเซมิคอนดักเตอร์สร้างรายได้ถึง 3 ใน 4 ของทั้งเครือและทำกำไรจากการดำเนินงานถึง 99% จาก DRAM เซิร์ฟเวอร์ AI, enterprise SSD และ HBM4 ซึ่งสะท้อนว่ากำไรถูกขับเคลื่อนด้วย AI มากกว่าภาพจำของกลุ่มบริษัทดั้งเดิม จึงควรขยับคะแนนสัดส่วนรายได้ AI ขึ้น และเพิ่มคะแนนตำแหน่งตลาดเล็กน้อยหลังผ่านรับรอง HBM4 กับ Nvidia ส่วนคะแนนอำนาจต่อรองและโอกาสต่อยอดเหมาะสมแล้วเมื่อเทียบกับความเสี่ยงอุปทานปี 2028 และกฎส่งออกสหรัฐฯ",
                "pros":  [
-                            "กำไรจากการดำเนินงาน Q3 2026 ทำสถิติใหม่ KRW 107.4 ล้านล้าน (+783% YoY) ด้วยมาร์จิ้นรวม 55.0% นำโดยกลุ่มเซมิคอนดักเตอร์ที่ทำกำไร KRW 106.5 ล้านล้าน",
-                            "รายได้ HBM4 โตเกินสามเท่าเมื่อเทียบไตรมาสก่อนจนคิดเป็น 60% ของยอดขาย HBM ทั้งหมดใน Q3 2026 และกำลังผลิต HBM ปี 2027 ขายหมดแล้ว",
-                            "ธุรกิจ Foundry ฟื้นตัวจากงานผลิต 4nm HBM base-die ขณะที่จำนวนโครงการ 2nm โตเกินเท่าตัว YoY ก่อนเริ่มเดินเครื่องโรงงานที่ Taylor รัฐเท็กซัส",
-                            "การดัน Sang Joon Hwang แกนนำด้าน HBM ขึ้นคุมกลุ่ม Memory เมื่อ 20 พฤศจิกายน 2026 ช่วยให้รองประธาน Young Hyun Jun โฟกัสภาพรวม DS และ Foundry ได้เต็มที่"
+                            "กำไรจากการดำเนินงาน Q3 2026 ทำสถิติสูงสุด KRW 107.4 ล้านล้านเมื่อ 29 ต.ค. โดยธุรกิจเซมิคอนดักเตอร์สร้างกำไรถึง KRW 106.5 ล้านล้าน",
+                            "Samsung ผ่านการรับรอง HBM4 สำหรับแพลตฟอร์ม Vera Rubin ของ Nvidia แล้ว และเตรียมเดินสายผลิต HBM4E ในครึ่งแรกปี 2027",
+                            "ลงนามสัญญาขายหน่วยความจำระยะยาว (LTA) แล้ว 10 รายและเจรจาอีก 10 ราย ตั้งเป้าล็อกกำลังผลิต 60–70% ภายในปี 2030",
+                            "แต่งตั้ง Sang Joon Hwang ผู้เชี่ยวชาญสายพัฒนาหน่วยความจำขึ้นเป็นประธานธุรกิจหน่วยความจำวันที่ 20 พ.ย. พร้อมซื้อสิทธิบัตร Rockley Photonics"
                         ],
                "risks":  [
-                             "ความเสี่ยงวัฏจักรหน่วยความจำผ่านจุดพีค หากราคา NAND ฝั่งผู้บริโภคที่ร่วงราว 20% ในต้นพฤศจิกายน 2026 ลามมากดดันราคา DRAM ทั่วไปในปี 2027",
-                             "มาตรการควบคุมส่งออกชิปของสหรัฐฯ (BIS) ที่เข้มงวดขึ้น ซึ่งอาจจำกัดงาน Foundry ขั้นสูงและการส่งมอบชิปที่เกี่ยวกับ AI ให้ลูกค้าจีน",
-                             "แรงกดดันระยะยาวด้านอุปทานจากผู้ผลิตหน่วยความจำจีนที่รัฐหนุนหลังอย่าง YMTC (NAND) และ CXMT (DRAM) ซึ่งอาจบั่นทอนมาร์จิ้นกลุ่มสินค้าทั่วไป",
-                             "ความเสี่ยงด้านการบริหารต้นทุนและกระแสเงินสดจากงบ CapEx ปี 2026 สูงถึง KRW 84.4 ล้านล้าน รวมถึงภาวะขาดทุนจากต้นทุนชิปในกลุ่ม DX มือถือและเครื่องใช้ไฟฟ้า"
+                             "ความเสี่ยงอุปทานหน่วยความจำล้นตลาดในปี 2028 หากการขยายโรงงานในจีนและทั่วโลกกดดันราคา DRAM และ NAND ดั้งเดิม",
+                             "ความล่าช้าในการขอใบอนุญาตภายใต้กฎ BIS วันที่ 19 พ.ย. ที่อาจกระทบรายได้และอัตราการใช้กำลังผลิตโรงงานรับจ้างผลิตสำหรับลูกค้าจีน",
+                             "ภาวะขาดทุนต่อเนื่องในธุรกิจสินค้าผู้บริโภค DX (สมาร์ตโฟนและเครื่องใช้ไฟฟ้า) หากต้นทุนหน่วยความจำที่สูงยังบีบมาร์จิ้นค้าปลีก",
+                             "การพึ่งพิงลูกค้ารายใหญ่และความผันผวนด้านธรรมาภิบาลในกลุ่มผู้ซื้อชิป AI ดังที่เห็นจากเหตุการณ์เปลี่ยนตัวซีอีโอ Nvidia ช่วง 12–23 พ.ย."
                          ],
-               "summary":  "ณ วันที่ 2026-11-23 หุ้น Samsung Electronics ซื้อขายที่ KRW 178,100 ลดลง 52.4% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ KRW 374,500 แม้เพิ่งทำกำไรสูงสุดเป็นประวัติการณ์ โดยงบ Q3 วันที่ 29 ตุลาคม 2026 กำไรจากการดำเนินงานพุ่ง 783% YoY สู่ KRW 107.4 ล้านล้าน หนุนจาก HBM4 ที่คิดเป็น 60% ของรายได้ HBM และกำลังผลิตปี 2027 ขายหมดแล้ว แต่ราคาสปอต NAND ที่ดิ่ง 20% ในสองสัปดาห์ (รายงาน 17 พ.ย.) กฎคุมส่งออกสหรัฐฯ วันที่ 19–20 พ.ย. และความกังวลวัฏจักรพีคกดดันให้ต่างชาติเทขายหนัก ฐานแกร่งด้านหน่วยความจำ AI ยังไม่เปลี่ยน แต่กราฟยังเป็นขาลงชัดเจน",
-               "technical":  "สัญญาณเทคนิค ณ วันที่ 2026-11-23 เป็นขาลงชัดเจนจากข้อมูลซื้อขาย 484 วัน ราคาปิด KRW 178,100 (-2.73%) อยู่ต่ำกว่าเส้น EMA (ค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนักเพื่อดูแนวโน้ม) สำคัญทั้งสามเส้นเกิน 20% ได้แก่ EMA 100 ที่ KRW 236,126.64, EMA 50 ที่ KRW 223,915.59 และ EMA 200 ที่ KRW 223,380.89 โดย EMA 50 ใกล้ตัดลงต่ำกว่า EMA 200 ซึ่งเป็นสัญญาณขาลงระยะยาว โมเมนตัมยังอ่อนแรง: MACD (ตัวชี้วัดโมเมนตัมจากเส้นค่าเฉลี่ยเร็วเทียบช้า) อยู่ที่ -12,774.42 ต่ำกว่าเส้น signal ที่ -11,791.82 พร้อม histogram ติดลบ -982.60 ส่วน RSI 14 (มาตรวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 32.84 ใกล้เขตขายมากเกินไปแต่ยังไม่กลับตัว ราคาเกาะขอบล่าง Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ที่ KRW 171,911.25 หลังแตะจุดต่ำสุดระหว่างวันที่ KRW 171,500 และร่วง 52.4% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ KRW 374,500 (ต่ำสุด KRW 94,500) ปริมาณซื้อขาย 15.48 ล้านหุ้นต่ำกว่าค่าเฉลี่ย 20 วันที่ 18.38 ล้านหุ้น บ่งชี้แรงขายรินต่อเนื่องมากกว่าจุดเทกระจาด แนวรับใกล้สุดอยู่ราว KRW 171,500–172,000 ส่วนแนวต้านอยู่ที่เส้นกลาง KRW 206,320 และโซน EMA แถว KRW 223,400–223,900"
+               "summary":  "Samsung Electronics ดีดตัว 8.11% สู่ KRW 191,900 ในวันที่ 24 พ.ย. 2026 หลัง Nvidia ดึงซีอีโอ Jensen Huang กลับมารับตำแหน่งเมื่อ 23 พ.ย. แต่ราคายังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์เดือน มิ.ย. ที่ KRW 374,500 ถึง 48.8% ด้านพื้นฐาน งบ Q3 2026 วันที่ 29 ต.ค. ทุบสถิติด้วยรายได้ KRW 195.3 ล้านล้านและกำไรจากการดำเนินงาน KRW 107.4 ล้านล้านตามยอดส่งมอบ HBM4 ให้แพลตฟอร์ม Vera Rubin ของ Nvidia ทว่าเดือน พ.ย. ถูกกดดันจากการชะลอส่งมอบชิป 16nm ให้จีนตามกฎสหรัฐฯ การหั่นเป้าหมายของ Goldman Sachs เหลือ KRW 350,000 วันที่ 23 พ.ย. และกราฟที่ยังเป็นขาลง",
+               "technical":  "แม้ราคาหุ้นจะดีดขึ้น 8.11% มาอยู่ที่ KRW 191,900 ในวันที่ 24 พ.ย. 2026 แต่โครงสร้างกราฟยังเป็นขาลง ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล 50 วัน (EMA 50 ซึ่งให้น้ำหนักราคาล่าสุดมากกว่า) ที่ KRW 222,637 ถึง 13.8% ต่ำกว่า EMA 100 ที่ KRW 235,239 อยู่ 18.4% และต่ำกว่า EMA 200 ที่ KRW 223,062 อยู่ 14.0% ที่น่าสังเกตคือ EMA 50 ตัดลงใต้ EMA 200 แล้วขณะที่ EMA 100 อยู่สูงสุด สะท้อนแนวโน้มระยะกลางที่เสียหาย ด้านโมเมนตัม MACD 12/26/9 (ตัววัดแรงส่งจากส่วนต่างค่าเฉลี่ยเร็วและช้า) ยังติดลบหนักที่ -12,185.11 ต่ำกว่าเส้น signal ที่ -11,878.14 แม้ histogram ที่แคบลงเหลือ -306.97 จะบ่งชี้แรงขายเริ่มชะลอ ส่วน RSI 14 (มาตรวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 41.76 ยังค่อนไปทางอ่อนแรง ในกรอบ Bollinger Bands 20/2 (แถบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาอยู่ครึ่งล่างระหว่างแนวรับขอบล่าง KRW 170,524 กับแนวต้านเส้นกลาง KRW 204,785 และห่างจากจุดสูงสุดรอบ 52 สัปดาห์ KRW 374,500 ถึง 48.8% (ต่ำสุด KRW 94,500) ขณะที่วอลุ่ม 10.51 ล้านหุ้นยังต่ำกว่าค่าเฉลี่ย 20 วันที่ 18.40 ล้านหุ้นถึง 43% ทำให้แรงรีบาวด์ยังไม่ยืนยันการกลับตัว"
            },
     "sources":  [
                     {
@@ -727,28 +727,28 @@
                         "url":  "https://news.samsung.com/global/samsung-electronics-announces-new-leadership"
                     },
                     {
-                        "date":  "2026-11-19",
-                        "publisher":  "Federal Register (U.S. Bureau of Industry and Security)",
-                        "title":  "Addressing Remote Access to Advanced Semiconductors",
-                        "url":  "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
-                    },
-                    {
-                        "date":  "2026-11-17",
-                        "publisher":  "TrendForce",
-                        "title":  "[News] NAND Spot Prices Reverse Course, Sliding 20% in 2 Weeks amid Weak Consumer Demand, YMTC Competition",
-                        "url":  "https://www.trendforce.com/news/2026/11/17/news-nand-spot-prices-reverse-course-sliding-20-in-2-weeks-amid-weak-consumer-demand-ymtc-competition/"
-                    },
-                    {
                         "date":  "2026-11-20",
                         "publisher":  "TrendForce",
                         "title":  "[News] TSMC, Samsung Reportedly Pause China Consumer Chip Shipments Under New U.S. Rules; 16nm Orders Affected",
                         "url":  "https://www.trendforce.com/news/2026/11/20/news-tsmc-samsung-reportedly-pause-china-consumer-chip-shipments-under-new-u-s-rules-16nm-orders-affected/"
                     },
                     {
-                        "date":  "2026-10-30",
-                        "publisher":  "Morningstar",
-                        "title":  "Samsung Electronics: What We Think of the Stock After Earnings",
-                        "url":  "https://www.morningstar.com/stocks/samsung-electronics-what-we-think-stock-after-earnings"
+                        "date":  "2026-11-20",
+                        "publisher":  "TrendForce",
+                        "title":  "[News] Samsung Electronics Expands Silicon Photonics Portfolio Through Patent Acquisitions",
+                        "url":  "https://www.trendforce.com/news/2026/11/20/news-samsung-electronics-expands-silicon-photonics-portfolio-through-patent-acquisitions/"
+                    },
+                    {
+                        "date":  "2026-11-23",
+                        "publisher":  "NVIDIA Newsroom",
+                        "title":  "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
+                    },
+                    {
+                        "date":  "2026-11-12",
+                        "publisher":  "NVIDIA Newsroom",
+                        "title":  "NVIDIA Announces CEO Transition",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
                     }
                 ]
 }

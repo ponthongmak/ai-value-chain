@@ -2,46 +2,45 @@
     "ticker":  "FPS",
     "name":  "Forgent Power Solutions",
     "symbol":  "NYSE:FPS",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T05:59:23Z",
-    "costUsd":  0.7918342000000002,
+    "generatedAt":  "2026-11-24T04:18:47Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NYSE:FPS",
                        "yahoo":  "FPS",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T05:56:18Z",
-                       "price":  18,
-                       "open":  20.5,
-                       "high":  20.5,
-                       "low":  17.75,
-                       "volume":  13945100,
-                       "avgVolume20":  10700090,
-                       "changePct":  -14.12,
-                       "ema50":  28.32,
-                       "ema100":  32,
-                       "ema200":  37.25,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:14:12Z",
+                       "price":  20.3,
+                       "open":  20.51,
+                       "high":  21.07,
+                       "low":  19.77,
+                       "volume":  13454800,
+                       "avgVolume20":  10918030,
+                       "changePct":  12.78,
+                       "historyDays":  202,
+                       "ema50":  28,
+                       "ema100":  31.76,
+                       "ema200":  37.08,
                        "bb":  {
-                                  "upper":  29.42,
-                                  "middle":  23.14,
-                                  "lower":  16.85
+                                  "upper":  29.23,
+                                  "middle":  22.89,
+                                  "lower":  16.56
                               },
                        "macd":  {
-                                    "macd":  -2.95,
-                                    "signal":  -3,
-                                    "hist":  0.05
+                                    "macd":  -2.84,
+                                    "signal":  -2.97,
+                                    "hist":  0.13
                                 },
-                       "rsi14":  35.18,
+                       "rsi14":  41.05,
                        "high52w":  66,
                        "low52w":  17.67,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         59.78
-                                     ],
                                      [
                                          "2026-06-04",
                                          64.59
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          18
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         20.3
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          42.24,
                                           43.12,
                                           43.75,
                                           44.36,
@@ -639,99 +641,114 @@
                                           29.36,
                                           29.06,
                                           28.74,
-                                          28.32
+                                          28.32,
+                                          28
                                       ]
                    },
     "en":  {
-               "headline":  "Record growth, record lows: FPS drops 14% to just above its all-time low",
-               "technical":  "FPS closed at $18.00 on 2026-11-20, down 14.12% on the day. It opened at $20.50 and traded as low as $17.75, just above the record low of $17.67 set on 2026-11-06 and 73% below the 52-week high of $66. The trend is clearly down. Price sits far below the EMA 50 ($28.32), EMA 100 ($32.00) and EMA 200 ($37.25). EMAs are moving averages that give more weight to recent prices, and these three are stacked in bearish order, with the short-term average below the long-term ones. Momentum is weak but has stopped getting worse: MACD (a trend-momentum gauge) is -2.95 against its signal line at -3.00, leaving a barely positive histogram of +0.05. Friday\u0027s drop could easily turn it negative again. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 35.18, which is weak but not yet oversold. Price is close to the lower Bollinger Band at $16.85 (the 20-day middle band is $23.14), so the stock is stretched to the downside. Volume was 13.9M shares, about 1.3x the 20-day average of 10.7M, which shows real selling. Support: $17.67–17.75. Resistance: $23.14, then $28–29.",
-               "fundamental":  "Forgent makes switchgear and power-distribution equipment that sits between the grid and the servers, so AI data-center construction feeds directly into its sales. On 2026-11-12 it reported fiscal Q1 2027 (quarter ended 30 Sep). Revenue was $478.6M, up 69% year on year, with net income of $54.8M (+252%) and adjusted EBITDA of $104.9M. Full-year guidance went up to $2.45–2.65B in revenue and $1.30–1.44 in adjusted EPS. Management says the backlog fully covers that guidance (backlog was a record $3B at fiscal year-end in June) and reports \u0027meaningful traction with multiple frontier AI labs and hyperscalers.\u0027 There were weak spots: gross margin slipped to 33.1% from 34.6%, adjusted EBITDA margin fell to 21.9% from 23.0%, and the new guidance midpoints were reportedly slightly below consensus. At $18, the stock trades at about 13x the midpoint of adjusted EPS guidance.",
-               "news":  [
-                            "2026-10-22: CFO Ryan Fiedler stepped down, citing family reasons, and moved into a consulting role. EVP of Finance Amy Ard took over. Shares fell more than 23% that day and dropped below the $27 IPO price.",
-                            "2026-11-05 and 2026-11-16: AI power-equipment stocks sold off broadly on worries about hyperscaler spending and data-center policy (Vertiv fell 14% and 6.6% on those days). FPS fell with the group and hit a record low of $17.67 on 2026-11-06.",
-                            "2026-11-09: Forgent said in advance that fiscal Q1 revenue and adjusted EBITDA would beat its earlier guidance, and the shares rebounded. They gained another 14%+ on 2026-11-11 alongside CoreWeave\u0027s strong results.",
-                            "2026-11-12: Fiscal Q1 2027 revenue rose 69% to $478.6M and adjusted EPS of $0.24 beat the ~$0.20 consensus, with full-year guidance raised. Shares still fell about 8–11% intraday because gross margin shrank and the guidance increase was smaller than hoped.",
-                            "Analysts cut price targets during the slide, including Wells Fargo ($44→$25, Equal-Weight), Bernstein ($48→$33) and KeyBanc ($60→$46). The exact dates could not be confirmed from available sources.",
-                            "2026-11-20: Shares fell 14.12% to $18.00 on above-average volume. No company announcement explains the move. It looks like continued selling of AI-infrastructure stocks rather than new company news."
+               "caution":  "Long-term holders should watch three execution and governance risks closely. First, Adjusted EBITDA margin slipped to 21.9% in Q1 FY2027 from 23.0% YoY; management expects sequential improvement, so another margin miss would weaken pricing-power claims against giants like Eaton and Vertiv. Second, the October 22 CFO exit—just eight months post-IPO—and remaining multi-entity stakes held by private-equity sponsor Neos Partners create governance and share-overhang risk. Third, expanding Powertrain capacity in Tijuana, Mexico introduces cross-border tariff and ramp-execution risks while the chart stays in a steep downtrend.",
+               "cons":  [
+                            "Adjusted EBITDA margin tightened to 21.9% in Q1 FY2027 from 23.0% a year earlier, testing pricing-power assumptions during rapid scaling.",
+                            "CFO Ryan Fiedler stepped down on October 22, 2026—just eight months after the February 5 IPO—creating leadership-transition scrutiny despite an internal successor.",
+                            "Shares trade 69% below their $66.00 peak and 25% below the $27.00 IPO price as analysts cut targets (Baird to $27, Oppenheimer to $40, Jefferies to $36).",
+                            "Forgent remains a mid-sized North American specialist competing against scale giants Eaton, Schneider Electric, and Vertiv, with private-equity sponsor Neos Partners adding overhang risk."
                         ],
-               "caution":  "The share price is telling a different story from the earnings. Three things keep pressure on it. First, private-equity owner Neos Partners has already sold stock in three follow-on offerings since the February IPO (the July deal priced at $49), and more shares can still come to market. Second, the CFO left eight months after listing and margins are slipping, both while the company ramps capacity to deliver a $3B backlog. Third, the stock tracks AI-spending sentiment: data centers were 42% of fiscal 2025 revenue. A close below $17.67 would put the stock at new all-time lows with no earlier support to lean on.",
-               "opportunity":  "If the company keeps delivering, the gap between results and share price is wide. Revenue grew 69%, net income grew 252%, guidance went up, and the backlog covers this fiscal year. At about 13x adjusted EPS guidance, the market is pricing in a lot of doubt for a company guiding to roughly 80% revenue growth. On the chart, price is near the lower Bollinger Band, RSI is 35 and the MACD histogram has just turned positive, conditions where selling often slows. Holding above $17.67 and then climbing back above the $23 middle band would be the first signs of a bottom forming.",
+               "fundamental":  "Forgent Power Solutions designs engineered-to-order electrical distribution gear—switchgear, transformers, power distribution units, and modular eHouses/Powerskids—with data centers contributing roughly 40%–42% of revenue, utilities ~23%, and industrial sites the remainder, primarily in North America. Its November 12, 2026 Q1 FY2027 report confirmed booming AI-power demand: revenue rose 69% YoY to $479 million, net income reached $55 million, Adjusted EBITDA hit $105 million (21.9% margin), and FY2027 guidance moved up to $2.45–$2.65 billion revenue and $587–$637 million Adjusted EBITDA. Backlog ($3.0 billion entering FY2027) fully covers FY2027 sales with nonrefundable deposits and extends into FY2028, while a 385,000-square-foot Tijuana expansion lifts capacity toward $5.8 billion. The November sell-off reflects valuation compression and high expectations rather than demand weakness, but the October 22 CFO exit, slight YoY margin dip, and intense rivalry with Eaton, Schneider Electric, Vertiv, and Powell Industries keep the moat thesis on watch.",
+               "headline":  "Forgent Power Beats Q1, Yet Valuation Reset Keeps Trend Bearish Near Lows",
+               "news":  [
+                            "November 23, 2026: An SEC Form 4 revealed Director Gregory M. Spierkel bought 25,000 shares on November 20 at $18.48 ($462,000), following CLO Tyson Hottinger\u0027s November 16 purchase of 11,800 shares at $20.76 ($245,000). FPS rebounded 12.78% to $20.30 on November 23 on above-average volume.",
+                            "November 13–23, 2026: Multiple Wall Street banks cut 12-month price targets amid AI-power multiple compression while maintaining bullish ratings, including Robert W. Baird ($38 to $27, Outperform on November 23), TD Cowen ($76 to $55), KeyBanc ($60 to $46), and Oppenheimer ($60 to $40).",
+                            "November 12, 2026: Forgent reported Q1 FY2027 revenue of $479 million (+69% YoY), adjusted EPS of $0.24, and Adjusted EBITDA of $105 million (21.9% margin vs. 23.0% YoY), while raising FY2027 revenue guidance to $2.45–$2.65 billion. Shares still fell roughly 10% on November 12 and slid to $18.00 by November 20 as guidance lagged lofty expectations.",
+                            "October 22, 2026: Forgent disclosed in SEC Form 8-K filings that CFO Ryan Fiedler stepped down effective October 21 to spend time with family and move into an advisory role, with no accounting disagreements. EVP of Finance Amy Ard, a founding team member, was appointed CFO."
+                        ],
+               "opportunity":  "The stark disconnect between Forgent\u0027s collapsing share price—down 69% from its $66.00 peak to roughly a $5.8 billion market cap—and its accelerating fundamentals is notable for patient AI-infrastructure investors. Full-year FY2027 revenue guidance of $2.45–$2.65 billion is 100% covered by a backlog reinforced with nonrefundable deposits, with roughly 40% stretching into FY2028 as hyperscalers and AI labs lock in custom powertrains. Once the Tijuana expansion opens in Q4 FY2027, total annual revenue capacity reaches ~$5.8 billion, and open-market insider purchases around $18.48–$20.76 signal management confidence if margins expand on schedule.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity sub-scores look broadly sensible, rightly reflecting rapid data-center electrical demand, Forgent\u0027s mid-tier competitive standing against Eaton and Vertiv, and modest product optionality. However, AI revenue exposure merits a slight upward revision: Q1 FY2027 orders nearly doubled year-over-year, driven heavily by hyperscalers and frontier AI labs whose multi-year bookings now fill FY2027 guidance and extend into FY2028. Conversely, bottleneck and pricing power should be kept conservative or nudged slightly lower until Forgent proves its Q1 Adjusted EBITDA margin dip to 21.9% reverses as new capacity ramps.",
+               "pros":  [
+                            "Fiscal Q1 2027 revenue surged 69% YoY to $479 million on November 12, 2026, with adjusted EPS of $0.24 topping the ~$0.20 estimate.",
+                            "Multi-year backlog backed by nonrefundable deposits covers 100% of raised FY2027 revenue guidance ($2.45–$2.65 billion), with ~40% extending into FY2028.",
+                            "A $35 million, 385,000-square-foot Tijuana Powertrain expansion due in Q4 FY2027 lifts total annual revenue capacity by ~$800 million to ~$5.8 billion.",
+                            "Insiders bought stock on the dip, including Director Gregory Spierkel\u0027s $462,000 purchase at $18.48 on November 20 and CLO Tyson Hottinger\u0027s $245,000 buy on November 16."
+                        ],
                "risks":  [
-                             "More share sales by private-equity owner Neos Partners (dilution and selling pressure)",
-                             "Execution risk after the CFO change, while factory capacity is being ramped",
-                             "Gross margin falling (33.1% vs 34.6% a year ago)",
-                             "Hyperscalers or AI labs cutting or delaying data-center spending",
-                             "Very high volatility; a close below $17.67 means new record lows with no earlier support",
-                             "Short public track record (listed February 2026), so the moat is still unproven"
+                             "Margin pressure: Q1 FY2027 Adjusted EBITDA margin fell to 21.9% from 23.0% YoY; failure to expand sequentially would challenge pricing power.",
+                             "Competitive scale: Competes directly with much larger global electrical leaders Eaton, Schneider Electric, and Vertiv once industry lead times normalize.",
+                             "Private-equity overhang: Sponsor Neos Partners retains large ownership stakes after May and July 2026 secondary offerings, risking future share supply.",
+                             "Hyperscaler capex cyclicality: Roughly 40%–42% of revenue comes from North American data centers, exposing orders to any AI spending pause.",
+                             "Execution and cross-border risk: October 2026 CFO transition and a 385,000-sq-ft Tijuana, Mexico plant expansion carry operational and U.S.-Mexico tariff exposure."
                          ],
-               "summary":  "FPS is in a steep downtrend. At $18.00 it is below all three EMAs, down 73% from its June high, and just above its $17.67 record low after a 14% drop on 2026-11-20 with no company headline behind it. The selling comes from the CFO exit, slipping margins, the private-equity share overhang and sector-wide worries about AI spending. Demand is not the problem: revenue grew 69% and guidance went up. Technical stance: bearish. Moat thesis: watch. The AI-lab and hyperscaler customer traction looks real, but evidence of lasting pricing power is still thin."
+               "summary":  "Forgent Power Solutions (NYSE:FPS), an engineered-to-order switchgear, transformer, and modular eHouse maker, delivered a strong fiscal Q1 2027 on November 12, 2026, with revenue jumping 69% year-over-year to $479 million and full-year guidance raised to $2.45–$2.65 billion. Yet shares plunged toward their $17.67 low on lofty expectations, a slight Adjusted EBITDA margin dip to 21.9%, an October 22 CFO transition, and widespread analyst target cuts. A 12.78% bounce to $20.30 on November 23—after insider share purchases—eases selling pressure, but the post-IPO downtrend stays intact.",
+               "technical":  "As a recent listing that debuted on February 5, 2026 (202 trading days of history), FPS lacks multi-year technical context, so long-term levels carry lower statistical weight. Even so, the prevailing structure is decisively bearish. On November 23, 2026, FPS jumped 12.78% to USD 20.30, yet remains well beneath all three Exponential Moving Averages (EMAs—trend averages weighting recent prices): EMA 50 (USD 28.00), EMA 100 (USD 31.76), and EMA 200 (USD 37.08), stacked in bearish order. Momentum shows only early stabilization: MACD (12/26/9—a trend-momentum gauge) sits deeply negative at -2.84, just above its -2.97 signal line for a slight +0.13 histogram, while RSI 14 (a 0–100 momentum gauge; below 30 is oversold) recovered to 41.05, still under the 50 neutral line. Within Bollinger Bands (20/2—a volatility channel around the 20-day mean), price sits in the lower half between the USD 16.56 lower band and USD 22.89 middle band, and just 5.4% above its USD 17.67 52-week low versus a USD 66.00 high. Volume of 13.45 million shares—23% above the 10.92 million 20-day average—supports the bounce, leaving USD 17.67 as key support and USD 22.89 then USD 28.00 as resistance."
            },
     "th":  {
-               "headline":  "ยอดขายโตเป็นประวัติการณ์ แต่ราคาร่วง 14% เฉียดจุดต่ำสุดตลอดกาล",
-               "technical":  "FPS ปิดที่ $18.00 วันที่ 20 พ.ย. 2026 ร่วง 14.12% ในวันเดียว เปิดที่ $20.50 และลงไปต่ำสุด $17.75 ห่างจากจุดต่ำสุดตลอดกาล $17.67 (6 พ.ย. 2026) แค่นิดเดียว และต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ $66 อยู่ 73% แนวโน้มเป็นขาลงชัดเจน ราคาอยู่ต่ำกว่า EMA 50 ($28.32), EMA 100 ($32.00) และ EMA 200 ($37.25) มาก EMA คือเส้นค่าเฉลี่ยที่ให้น้ำหนักราคาล่าสุดมากกว่า และทั้งสามเส้นเรียงตัวแบบขาลงเต็มรูปแบบ คือเส้นระยะสั้นอยู่ใต้เส้นระยะยาว โมเมนตัมยังอ่อน แต่แรงขายหยุดเร่งตัวแล้ว MACD (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ -2.95 เทียบเส้นสัญญาณ -3.00 ฮิสโตแกรมเป็นบวกแค่ +0.05 และการร่วงแรงวันศุกร์อาจทำให้กลับเป็นลบได้ง่าย RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 35.18 อ่อนแรงแต่ยังไม่ถึงโซน oversold ราคาเข้าใกล้ Bollinger Band เส้นล่างที่ $16.85 (เส้นกลาง 20 วันอยู่ที่ $23.14) แปลว่าราคาถูกกดลงมาค่อนข้างสุดทาง ปริมาณซื้อขาย 13.9 ล้านหุ้น ราว 1.3 เท่าของค่าเฉลี่ย 20 วัน (10.7 ล้าน) ยืนยันว่าเป็นแรงขายจริง แนวรับ $17.67–17.75 แนวต้าน $23.14 ถัดไป $28–29",
-               "fundamental":  "Forgent ผลิตสวิตช์เกียร์และระบบจ่ายไฟที่อยู่ระหว่างสายส่งกับเซิร์ฟเวอร์ ยอดขายจึงได้ประโยชน์โดยตรงจากการสร้างดาต้าเซ็นเตอร์ AI วันที่ 12 พ.ย. 2026 บริษัทรายงานผลไตรมาส 1 ปีงบ 2027 (สิ้นสุด 30 ก.ย.) รายได้ $478.6M โต 69% จากปีก่อน กำไรสุทธิ $54.8M (+252%) adjusted EBITDA $104.9M และปรับเป้าทั้งปีขึ้นเป็นรายได้ $2.45–2.65B และ adjusted EPS $1.30–1.44 ผู้บริหารบอกว่า backlog ครอบคลุมเป้าปีนี้ทั้งหมดแล้ว (backlog ทำสถิติ $3B ณ สิ้นปีงบในเดือน มิ.ย.) และมี \u0027ความคืบหน้าที่มีนัยสำคัญกับแล็บ AI ชั้นนำและ hyperscaler หลายราย\u0027 ส่วนที่น่าห่วงคือ gross margin ลดลงเหลือ 33.1% จาก 34.6% adjusted EBITDA margin ลดเหลือ 21.9% จาก 23.0% และมีรายงานว่าค่ากลางของเป้าใหม่ต่ำกว่าที่ตลาดคาดเล็กน้อย ที่ราคา $18 หุ้นซื้อขายราว 13 เท่าของค่ากลาง adjusted EPS ที่บริษัทคาดไว้",
-               "news":  [
-                            "22 ต.ค. 2026: CFO Ryan Fiedler ลาออกด้วยเหตุผลครอบครัวและไปเป็นที่ปรึกษาแทน Amy Ard รองประธานฝ่ายการเงินขึ้นรับตำแหน่ง หุ้นร่วงกว่า 23% ในวันนั้นและหลุดราคา IPO ที่ $27",
-                            "5 พ.ย. และ 16 พ.ย. 2026: หุ้นอุปกรณ์ไฟฟ้าสาย AI ถูกเทขายทั้งกลุ่มจากความกังวลเรื่องงบลงทุนของ hyperscaler และนโยบายดาต้าเซ็นเตอร์ (Vertiv ร่วง 14% และ 6.6% ในสองวันนั้น) FPS ลงตามกลุ่มและทำจุดต่ำสุดใหม่ที่ $17.67 เมื่อ 6 พ.ย.",
-                            "9 พ.ย. 2026: Forgent แจ้งล่วงหน้าว่ารายได้และ adjusted EBITDA ไตรมาส 1 จะสูงกว่าเป้าเดิม หุ้นเด้งกลับ และขึ้นอีกกว่า 14% เมื่อ 11 พ.ย. ตามผลประกอบการที่แข็งแกร่งของ CoreWeave",
-                            "12 พ.ย. 2026: รายได้ไตรมาส 1 ปีงบ 2027 โต 69% เป็น $478.6M adjusted EPS $0.24 ชนะที่ตลาดคาดราว $0.20 และปรับเป้าทั้งปีขึ้น แต่หุ้นยังร่วงราว 8–11% ระหว่างวัน เพราะ gross margin หดตัวและเป้าที่ปรับขึ้นน้อยกว่าที่หวัง",
-                            "นักวิเคราะห์ทยอยลดราคาเป้าหมายระหว่างที่หุ้นไหลลง เช่น Wells Fargo ($44→$25, Equal-Weight), Bernstein ($48→$33) และ KeyBanc ($60→$46) ยังยืนยันวันที่แน่นอนจากแหล่งข่าวที่ค้นได้ไม่ได้",
-                            "20 พ.ย. 2026: หุ้นร่วง 14.12% ปิดที่ $18.00 ด้วยปริมาณซื้อขายสูงกว่าค่าเฉลี่ย ไม่พบประกาศจากบริษัทที่อธิบายการร่วงครั้งนี้ ดูเป็นแรงขายต่อเนื่องในหุ้นโครงสร้างพื้นฐาน AI มากกว่าข่าวใหม่ของบริษัทเอง"
+               "caution":  "นักลงทุนระยะยาวควรจับตา 3 ประเด็นสำคัญ หนึ่งคือ Adjusted EBITDA margin ไตรมาส 1 ปีบัญชี 2027 ที่อ่อนลงเหลือ 21.9% จาก 23.0% YoY หากไตรมาสถัดไปไม่ฟื้นตัวตามคาดจะกระทบภาพลักษณ์อำนาจตั้งราคาเมื่อเทียบกับ Eaton และ Vertiv สองคือการเปลี่ยนตัว CFO เมื่อ 22 ต.ค. หลังเข้าตลาดเพียง 8 เดือน และแรงกดดันจากหุ้นที่กองทุน Neos Partners ยังถืออยู่จำนวนมาก สามคือความเสี่ยงด้านการเดินเครื่องโรงงานใหม่และภาษีการค้าสหรัฐฯ-เม็กซิโกที่เมืองติฮัวนา ขณะที่กราฟราคายังอยู่ในขาลงชัน",
+               "cons":  [
+                            "Adjusted EBITDA margin ไตรมาส 1 ปีบัญชี 2027 หดตัวเหลือ 21.9% จาก 23.0% YoY ทำให้นักลงทุนตั้งคำถามต่ออำนาจกำหนดราคาระหว่างเร่งขยายกำลังผลิต",
+                            "CFO Ryan Fiedler ลาออกเมื่อ 22 ต.ค. 2026 หลัง IPO เพียง 8 เดือน เพิ่มความกังวลด้านการเปลี่ยนผ่านผู้บริหารแม้แต่งตั้งคนในมารับช่วงต่อ",
+                            "ราคาหุ้นยังต่ำกว่าจุดสูงสุด $66.00 ถึง 69% และต่ำกว่าราคา IPO $27.00 อยู่ 25% หลังนักวิเคราะห์หั่นเป้าราคา (Baird $27, Oppenheimer $40, Jefferies $36)",
+                            "ขนาดธุรกิจยังเล็กกว่ายักษ์ใหญ่อย่าง Eaton, Schneider Electric และ Vertiv ขณะที่ผู้ถือหุ้น PE อย่าง Neos Partners ยังสร้างความเสี่ยงซัพพลายหุ้นส่วนเกิน"
                         ],
-               "caution":  "ราคาหุ้นกำลังเล่าเรื่องที่ต่างจากงบการเงิน มีสามเรื่องที่ยังกดดันราคา หนึ่ง กองทุน PE ผู้ถือหุ้นใหญ่ Neos Partners ขายหุ้นไปแล้วสามรอบหลัง IPO เดือน ก.พ. (รอบ ก.ค. ขายที่ $49) และยังมีหุ้นที่อาจออกมาขายเพิ่มได้อีก สอง CFO ลาออกหลังเข้าตลาดเพียง 8 เดือนและ margin เริ่มลดลง ทั้งที่บริษัทต้องขยายกำลังผลิตเพื่อส่งมอบ backlog $3B สาม หุ้นเคลื่อนไหวตามความรู้สึกตลาดต่องบลงทุน AI โดยดาต้าเซ็นเตอร์คิดเป็น 42% ของรายได้ปีงบ 2025 ถ้าปิดต่ำกว่า $17.67 หุ้นจะทำจุดต่ำสุดใหม่โดยไม่มีแนวรับเดิมให้พึ่ง",
-               "opportunity":  "ถ้าบริษัทส่งมอบงานได้ตามแผนต่อไป ช่องว่างระหว่างผลประกอบการกับราคาหุ้นถือว่ากว้างมาก รายได้โต 69% กำไรสุทธิโต 252% เป้าถูกปรับขึ้น และ backlog ครอบคลุมทั้งปีงบนี้แล้ว ที่ราว 13 เท่าของ adjusted EPS ที่คาดไว้ ตลาดกำลังสะท้อนความไม่เชื่อมั่นสูงมากต่อบริษัทที่ตั้งเป้ารายได้โตราว 80% ในเชิงเทคนิค ราคาอยู่ใกล้ Bollinger Band เส้นล่าง RSI อยู่ที่ 35 และฮิสโตแกรม MACD เพิ่งกลับเป็นบวก ซึ่งมักเป็นช่วงที่แรงขายเริ่มชะลอ ถ้าราคายืนเหนือ $17.67 ได้แล้วกลับขึ้นไปเหนือเส้นกลาง $23 ได้ จะเป็นสัญญาณแรกว่ากำลังสร้างฐาน",
+               "fundamental":  "Forgent Power Solutions ผลิตอุปกรณ์จ่ายไฟฟ้าแบบออกแบบเฉพาะคำสั่งซื้อ (engineered-to-order) เช่น switchgear, หม้อแปลง, PDU และ eHouse/Powerskid โดยมีสัดส่วนรายได้จากดาต้าเซ็นเตอร์ราว 40%–42% ระบบโครงข่ายไฟฟ้า ~23% และภาคอุตสาหกรรมส่วนที่เหลือ เน้นตลาดอเมริกาเหนือเป็นหลัก งบไตรมาส 1 ปีบัญชี 2027 (12 พ.ย. 2026) สะท้อนอุปสงค์ไฟฟ้า AI ที่ยังร้อนแรง รายได้พุ่ง 69% YoY สู่ $479 ล้าน กำไรสุทธิ $55 ล้าน และ Adjusted EBITDA $105 ล้าน (อัตรากำไร 21.9%) พร้อมปรับเพิ่มคาดการณ์รายได้ปีบัญชี 2027 เป็น $2.45–$2.65 พันล้าน และ Adjusted EBITDA $587–$637 ล้าน งานในมือ (backlog ระดับ $3.0 พันล้านต้นปีบัญชี) ครอบคลุมเป้ารายได้ปี 2027 ครบ 100% และมีเงินมัดจำแบบไม่คืนเงิน ขณะที่โรงงานใหม่ในติฮัวนาจะดันศักยภาพรายได้สู่ $5.8 พันล้าน การร่วงลงในเดือน พ.ย. เกิดจากการปรับลด Valuation มากกว่าอุปสงค์ชะลอ แต่การเปลี่ยน CFO, มาร์จิ้นที่แคบลง และการแข่งขันกับ Eaton, Schneider, Vertiv และ Powell ทำให้ต้องจัดสถานะคูเมืองไว้ที่ระดับเฝ้าระวัง",
+               "headline":  "FPS งบ Q1 แกร่งเกินคาด แต่แรงลด Valuation กดกราฟยังเป็นขาลงใกล้จุดต่ำสุด",
+               "news":  [
+                            "23 พ.ย. 2026: แบบรายงาน SEC Form 4 เผยกรรมการ Gregory M. Spierkel เข้าซื้อหุ้นในตลาด 25,000 หุ้นเมื่อ 20 พ.ย. ที่ราคาเฉลี่ย $18.48 ($462,000) ต่อจาก CLO Tyson Hottinger ที่ซื้อ 11,800 หุ้นเมื่อ 16 พ.ย. ที่ $20.76 ($245,000) โดยหุ้น FPS ดีดกลับ 12.78% สู่ $20.30 ในวันที่ 23 พ.ย. พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย",
+                            "13–23 พ.ย. 2026: โบรกเกอร์หลายแห่งปรับลดราคาเป้าหมาย 12 เดือนตามการหดตัวของ Valuation กลุ่มไฟฟ้า AI แต่ยังคงคำแนะนำเชิงบวก ได้แก่ Robert W. Baird ($38 เหลือ $27, Outperform วันที่ 23 พ.ย.), TD Cowen ($76 เหลือ $55), KeyBanc ($60 เหลือ $46) และ Oppenheimer ($60 เหลือ $40)",
+                            "12 พ.ย. 2026: Forgent รายงานรายได้ไตรมาส 1 ปีบัญชี 2027 ที่ $479 ล้าน (+69% YoY) กำไรต่อหุ้นปรับปรุง $0.24 และ Adjusted EBITDA $105 ล้าน (มาร์จิ้น 21.9% จาก 23.0% YoY) พร้อมปรับเพิ่มเป้ารายได้ปีบัญชี 2027 เป็น $2.45–$2.65 พันล้าน แต่หุ้นกลับร่วงราว 10% ในวันประกาศงบและไหลลงถึง $18.00 วันที่ 20 พ.ย. จากความคาดหวังตลาดที่สูงมาก",
+                            "22 ต.ค. 2026: Forgent แจ้งผ่าน SEC Form 8-K ว่า CFO Ryan Fiedler ก้าวลงจากตำแหน่งมีผล 21 ต.ค. เพื่อใช้เวลากับครอบครัวและเปลี่ยนเป็นที่ปรึกษา โดยยืนยันว่าไม่มีความขัดแย้งทางบัญชี พร้อมแต่งตั้ง Amy Ard (EVP ฝ่ายการเงินและทีมผู้ก่อตั้ง) ขึ้นเป็น CFO แทน"
+                        ],
+               "opportunity":  "ส่วนต่างที่กว้างขึ้นระหว่างราคาหุ้นที่ร่วงลง 69% จากจุดสูงสุด $66.00 (มูลค่าตลาดเหลือราว $5.8 พันล้าน) กับปัจจัยพื้นฐานที่ยังเร่งตัว ถือเป็นจุดที่น่าติดตามสำหรับนักลงทุนโครงสร้างพื้นฐาน AI ระยะยาว เป้ารายได้ปีบัญชี 2027 ที่ $2.45–$2.65 พันล้านมี backlog รองรับครบ 100% พร้อมเงินมัดจำแบบไม่คืนเงิน และราว 40% ลากยาวถึงปีบัญชี 2028 จากคำสั่งซื้อของ hyperscaler และห้องแล็บ AI เมื่อโรงงานติฮัวนาเปิดไตรมาส 4 ปีบัญชี 2027 ศักยภาพรายได้จะแตะ ~$5.8 พันล้าน ขณะที่แรงซื้อของผู้บริหารช่วง $18.48–$20.76 สะท้อนความเชื่อมั่นหากอัตรากำไรฟื้นตามแผน",
+               "opportunityCheck":  "คะแนนย่อยโอกาส AI บนหน้าเว็บโดยรวมสมเหตุสมผล สะท้อนการเติบโตสูงของตลาดไฟฟ้าดาต้าเซ็นเตอร์ ตำแหน่งการแข่งขันระดับกลางเมื่อเทียบกับ Eaton และ Vertiv รวมถึงทางเลือกต่อยอดธุรกิจที่ยังมีจำกัด อย่างไรก็ดี คะแนนสัดส่วนรายได้ AI ควรถูกขยับขึ้นเล็กน้อย เพราะยอดจองไตรมาส 1 ปีบัญชี 2027 โตเกือบเท่าตัว YoY จากคำสั่งซื้อตรงของ hyperscaler และแล็บ AI ซึ่งจองคิวยาวถึงปีบัญชี 2028 ขณะที่คะแนนคอขวดและอำนาจตั้งราคาควรคงไว้แบบระมัดระวังหรือลดลงเล็กน้อย จนกว่าจะเห็น Adjusted EBITDA margin ฟื้นจาก 21.9% ตามที่ผู้บริหารคาด",
+               "pros":  [
+                            "รายได้ไตรมาส 1 ปีบัญชี 2027 (12 พ.ย. 2026) โตแรง 69% YoY แตะ $479 ล้าน และกำไรต่อหุ้นปรับปรุง $0.24 สูงกว่าคาดการณ์ราว $0.20",
+                            "Backlog หลายปีที่มีเงินมัดจำแบบไม่คืนเงินครอบคลุมเป้ารายได้ปีบัญชี 2027 ($2.45–$2.65 พันล้าน) ครบ 100% โดยราว 40% ลากยาวสู่ปีบัญชี 2028",
+                            "การลงทุน $35 ล้านขยายโรงงาน Powertrain 385,000 ตร.ฟุตในติฮัวนา (เสร็จไตรมาส 4 ปีบัญชี 2027) เพิ่มศักยภาพรายได้อีก ~$800 ล้าน เป็น ~$5.8 พันล้านต่อปี",
+                            "ผู้บริหารทยอยซื้อหุ้นคืนในช่วงราคาอ่อนตัว ทั้งกรรมการ Gregory Spierkel ซื้อ $462,000 ที่ $18.48 (20 พ.ย.) และ CLO Tyson Hottinger ซื้อ $245,000 (16 พ.ย.)"
+                        ],
                "risks":  [
-                             "Neos Partners (ผู้ถือหุ้น PE) ขายหุ้นเพิ่ม ทำให้หุ้นถูกปรับลดสัดส่วนและมีแรงขายกดดัน",
-                             "ความเสี่ยงด้านการบริหารงานหลังเปลี่ยน CFO ในช่วงที่กำลังขยายกำลังผลิต",
-                             "gross margin ลดลง (33.1% เทียบ 34.6% ปีก่อน)",
-                             "hyperscaler หรือแล็บ AI ลดหรือเลื่อนงบลงทุนดาต้าเซ็นเตอร์",
-                             "ราคาผันผวนสูงมาก ถ้าปิดต่ำกว่า $17.67 จะเป็นจุดต่ำสุดใหม่โดยไม่มีแนวรับเดิม",
-                             "เพิ่งเข้าตลาดเมื่อ ก.พ. 2026 ประวัติยังสั้น moat จึงยังพิสูจน์ไม่ได้"
+                             "แรงกดดันอัตรากำไร: Adjusted EBITDA margin ไตรมาส 1 ปีบัญชี 2027 ลดลงเหลือ 21.9% จาก 23.0% YoY หากไม่ฟื้นในไตรมาสถัดไปจะลดทอนเรื่องอำนาจตั้งราคา",
+                             "การแข่งขันกับรายใหญ่: ต้องชนกับยักษ์ใหญ่อุปกรณ์ไฟฟ้าระดับโลกอย่าง Eaton, Schneider Electric และ Vertiv เมื่อระยะเวลารอสินค้าของอุตสาหกรรมกลับสู่ปกติ",
+                             "ซัพพลายหุ้นจากกองทุน PE: Neos Partners ยังถือหุ้นจำนวนมากหลังขายหุ้นรองใน พ.ค. และ ก.ค. 2026 เสี่ยงเกิดแรงขายซ้ำเมื่อราคาฟื้นตัว",
+                             "วัฏจักรลงทุนของ hyperscaler: รายได้ราว 40%–42% พึ่งพาดาต้าเซ็นเตอร์ในอเมริกาเหนือ จึงอ่อนไหวหากบริษัทยักษ์ใหญ่ชะลอเม็ดเงินลงทุน AI",
+                             "ความเสี่ยงการดำเนินงานและภาษี: การเปลี่ยน CFO เดือน ต.ค. 2026 และการขยายโรงงาน 385,000 ตร.ฟุตในติฮัวนา เม็กซิโก มีความเสี่ยงด้านการเร่งผลิตและภาษีการค้าสหรัฐฯ-เม็กซิโก"
                          ],
-               "summary":  "FPS อยู่ในขาลงชัน ราคา $18.00 อยู่ต่ำกว่า EMA ทั้งสามเส้น ลดลง 73% จากจุดสูงสุดเดือน มิ.ย. และเกือบแตะจุดต่ำสุดตลอดกาล $17.67 หลังร่วง 14% เมื่อ 20 พ.ย. 2026 โดยไม่มีข่าวจากบริษัทรองรับ แรงขายมาจาก CFO ลาออก margin ที่ลดลง หุ้นที่ PE อาจขายเพิ่ม และความกังวลเรื่องงบลงทุน AI ทั้งกลุ่ม ไม่ใช่เพราะดีมานด์อ่อน เพราะรายได้โต 69% และเป้าถูกปรับขึ้น มุมมองเทคนิค: bearish ส่วน moat thesis: watch ลูกค้าจากแล็บ AI และ hyperscaler ดูเป็นของจริง แต่หลักฐานว่ามีอำนาจตั้งราคาที่ยั่งยืนยังมีน้อย"
+               "summary":  "Forgent Power Solutions (NYSE:FPS) ผู้ผลิต switchgear, หม้อแปลง และ eHouse สำหรับดาต้าเซ็นเตอร์ รายงานงบไตรมาส 1 ปีบัญชี 2027 เมื่อ 12 พ.ย. 2026 แข็งแกร่ง รายได้พุ่ง 69% YoY สู่ $479 ล้าน พร้อมปรับเพิ่มเป้ารายได้ทั้งปีเป็น $2.45–$2.65 พันล้าน ทว่าหุ้นกลับร่วงใกล้จุดต่ำสุด $17.67 จากความคาดหวังที่สูงมาก, Adjusted EBITDA margin อ่อนตัวเล็กน้อยสู่ 21.9%, การเปลี่ยน CFO เมื่อ 22 ต.ค. และนักวิเคราะห์หั่นเป้าราคา แม้ดีดกลับ 12.78% สู่ $20.30 เมื่อ 23 พ.ย. หลังผู้บริหารเข้าซื้อหุ้น แต่โครงสร้างขาลงหลัง IPO ยังไม่เปลี่ยน",
+               "technical":  "เนื่องจาก FPS เพิ่งเข้าตลาดเมื่อ 5 ก.พ. 2026 (มีข้อมูลซื้อขาย 202 วัน) ประวัติกราฟระยะยาวยังสั้น ทำให้สัญญาณระยะยาวมีน้ำหนักจำกัด อย่างไรก็ตาม โครงสร้างปัจจุบันยังเป็นขาลงชัดเจน แม้ราคาวันที่ 23 พ.ย. 2026 ดีดแรง 12.78% มาปิดที่ USD 20.30 แต่ยังต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่ EMA (เส้นค่าเฉลี่ยที่ให้น้ำหนักราคาล่าสุดมากกว่า) ทั้ง 3 เส้นคือ EMA 50 (USD 28.00), EMA 100 (USD 31.76) และ EMA 200 (USD 37.08) ซึ่งเรียงตัวแบบขาลง ด้านโมเมนตัมเพิ่งเริ่มชะลอการลง: MACD 12/26/9 (ตัววัดทิศทางและแรงส่ง) ยังติดลบที่ -2.84 แต่ขยับเหนือเส้น signal (-2.97) เล็กน้อยจนฮิสโตแกรมเป็น +0.13 ส่วน RSI 14 (มาตรวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นสู่ 41.05 แต่ยังต่ำกว่าเส้นกลาง 50 ในกรอบ Bollinger Bands 20/2 (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาอยู่ครึ่งล่างระหว่างกรอบล่าง USD 16.56 กับเส้นกลาง USD 22.89 และอยู่สูงกว่าจุดต่ำสุด 52 สัปดาห์ที่ USD 17.67 เพียง 5.4% (เทียบจุดสูงสุด USD 66.00) วอลุ่ม 13.45 ล้านหุ้นสูงกว่าค่าเฉลี่ย 20 วัน (10.92 ล้านหุ้น) ราว 23% ช่วยหนุนการรีบาวด์ โดยมีแนวรับสำคัญที่ USD 17.67 และแนวต้านที่ USD 22.89 ถัดไปคือ USD 28.00"
            },
     "sources":  [
                     {
-                        "title":  "Forgent Power Solutions, Inc. – Form 8-K Exhibit 99.1: Fiscal First Quarter 2027 Earnings Release",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0002080126/000208012626000045/exhibit991earningsrelease_.htm",
-                        "date":  "2026-11-12"
+                        "date":  "2026-11-12",
+                        "publisher":  "Business Wire",
+                        "title":  "Forgent Reports Fiscal First Quarter 2027 Results Above High End of Guidance; Raises Full-Year Outlook on Strong Commercial and Operational Execution",
+                        "url":  "https://www.businesswire.com/news/home/20261112684090/en/Forgent-Reports-Fiscal-First-Quarter-2027-Results-Above-High-End-of-Guidance-Raises-Full-Year-Outlook-on-Strong-Commercial-and-Operational-Execution"
                     },
                     {
-                        "title":  "Why Forgent Power Solutions Stock Is Plummeting Today",
-                        "publisher":  "The Motley Fool via Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/markets/stocks/articles/why-forgent-power-solutions-stock-205935118.html",
-                        "date":  "2026-11-13"
+                        "date":  "2026-11-23",
+                        "publisher":  "U.S. Securities and Exchange Commission (SEC EDGAR)",
+                        "title":  "Forgent Power Solutions, Inc. (CIK 0002080126) SEC Filings (Forms 10-Q, 8-K, and 4)",
+                        "url":  "https://www.sec.gov/edgar/browse/?CIK=0002080126"
                     },
                     {
-                        "title":  "FPS Stock Plunges To Record Low, Falls Below IPO Price After CFO Ryan Fiedler\u0027s Exit",
-                        "publisher":  "Stocktwits via TradingView",
-                        "url":  "https://www.tradingview.com/news/stocktwits:56733c67d094b:0-fps-stock-plunges-to-record-low-falls-below-ipo-price-after-cfo-ryan-fiedler-s-exit/",
-                        "date":  "2026-10-22"
+                        "date":  "2026-11-23",
+                        "publisher":  "MarketBeat",
+                        "title":  "Forgent Power Solutions (NYSE:FPS) Price Target Cut to $27.00 by Analysts at Robert W. Baird",
+                        "url":  "https://www.marketbeat.com/instant-alerts/analyst-forgent-power-solutions-nysefps-price-target-cut-to-2700-by-analysts-at-robert-w-baird-2026-11-23/"
                     },
                     {
-                        "title":  "Forgent\u0027s Orders Are Booming, But Its Stock Has Slumped",
-                        "publisher":  "Finimize",
-                        "url":  "https://finimize.com/content/fps-asset-snapshot",
-                        "date":  "2026-11-10"
+                        "date":  "2026-11-24",
+                        "publisher":  "MarketBeat",
+                        "title":  "Forgent Power Solutions (NYSE:FPS) Stock: Insider Gregory Spierkel Purchases 25,000 Shares",
+                        "url":  "https://www.marketbeat.com/instant-alerts/insider-forgent-power-solutions-nysefps-stock-insider-gregory-spierkel-purchases-25000-shares-2026-11-24/"
                     },
                     {
-                        "title":  "Why Forgent Power Solutions (FPS) Stock Is Down -36% in the Last 30 Days",
-                        "publisher":  "Tickeron",
-                        "url":  "https://tickeron.com/ticker/FPS/",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-23",
+                        "publisher":  "StockAnalysis",
+                        "title":  "Forgent Power Solutions (FPS) Stock Forecast \u0026 Analyst Ratings",
+                        "url":  "https://stockanalysis.com/stocks/fps/forecast/"
                     },
                     {
-                        "title":  "Why is Forgent Power Solutions stock sliding today?",
-                        "publisher":  "Investing.com",
-                        "url":  "https://www.investing.com/news/stock-market-news/why-is-forgent-power-solutions-stock-sliding-today-93CH-4773065",
-                        "date":  "2026-07-02"
-                    },
-                    {
-                        "title":  "What Moved Vertiv Stock Nearly 7% Lower?",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/vrt/articles/625807/why-did-vertiv-stock-fall-nearly-7/2026-11-17",
-                        "date":  "2026-11-17"
+                        "date":  "2026-11-12",
+                        "publisher":  "Forgent Power Solutions",
+                        "title":  "Forgent Power Solutions Investor Relations",
+                        "url":  "https://ir.forgentpower.com"
                     }
                 ]
 }

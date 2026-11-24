@@ -5,62 +5,62 @@
     "model":  "gemini-4-neon-high",
     "effort":  "high",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T05:06:38Z",
+    "generatedAt":  "2026-11-24T04:48:00Z",
     "costUsd":  null,
     "stocks":  {
                    "AEHR":  {
                                 "m":  [
                                           11,
                                           10,
+                                          6,
                                           5,
-                                          4,
                                           5
                                       ],
                                 "o":  [
-                                          13,
-                                          15,
+                                          17,
+                                          16,
+                                          11,
                                           10,
-                                          9,
-                                          11
+                                          12
                                       ],
-                                "why_en":  "Niche burn-in technology drives an emerging AI processor inflection, but tiny scale, volatile history, customer concentration, and giant ATE rivals constrain both moat durability and bottleneck power.",
-                                "why_th":  "เทคโนโลยีเบิร์นอินเฉพาะทางช่วยหนุนยอดขายชิป AI ที่เพิ่งเร่งตัว แต่ขนาดกิจการเล็ก กำไรผันผวน พึ่งพาลูกค้าน้อยราย และคู่แข่งยักษ์ใหญ่ด้านเครื่องทดสอบยังจำกัดความแข็งแกร่งและอำนาจต่อรอง"
+                                "why_en":  "Niche AI burn-in systems drive surging AI exposure, but tiny scale, severe customer concentration, and unproven multi-cycle durability keep its moat narrow.",
+                                "why_th":  "ระบบเบิร์นอินชิป AI เฉพาะทางช่วยหนุนสัดส่วนรายได้ AI ให้พุ่งสูง แต่ขนาดธุรกิจที่เล็ก การพึ่งพาลูกค้าน้อยราย และความทนทานที่ยังไม่พิสูจน์ทำให้คูเมืองยังแคบ"
                             },
                    "AMAT":  {
                                 "m":  [
                                           16,
                                           16,
-                                          13,
+                                          14,
                                           18,
-                                          16
+                                          17
                                       ],
                                 "o":  [
-                                          15,
+                                          14,
                                           15,
                                           16,
-                                          14,
-                                          15
+                                          15,
+                                          16
                                       ],
-                                "why_en":  "Unmatched portfolio breadth, global scale, and sticky services build a strong moat, while GAA, HBM, and surging advanced packaging create broad AI growth despite unit-step competition.",
-                                "why_th":  "ผลิตภัณฑ์ครบวงจร ขนาดธุรกิจระดับโลก และบริการหลังการขายที่เหนียวแน่นสร้างคูเมืองแข็งแกร่ง ขณะที่ GAA, HBM และแพ็กเกจจิงขั้นสูงหนุนโอกาสเติบโตจาก AI อย่างกว้างขวางแม้มีการแข่งขันในหลายขั้นตอน"
+                                "why_en":  "Industry-leading scale and the broadest WFE portfolio underpin a strong moat, while leadership in HBM packaging and GAA drives solid AI upside.",
+                                "why_th":  "ขนาดธุรกิจระดับผู้นำและพอร์ตเครื่องจักรผลิตชิปที่ครบวงจรที่สุดสร้างคูเมืองแข็งแกร่ง ขณะที่ความเป็นผู้นำด้านแพ็กเกจจิ้ง HBM และทรานซิสเตอร์ GAA หนุนโอกาสเติบโตจาก AI ได้ดี"
                             },
                    "ASML":  {
                                 "m":  [
                                           20,
                                           19,
-                                          15,
+                                          16,
                                           18,
-                                          17
+                                          18
                                       ],
                                 "o":  [
                                           15,
-                                          14,
+                                          16,
                                           20,
-                                          19,
-                                          12
+                                          20,
+                                          14
                                       ],
-                                "why_en":  "An unassailable EUV lithography monopoly delivers elite pricing power and switching costs, making ASML the primary physical bottleneck for leading-edge AI logic and HBM expansion.",
-                                "why_th":  "การผูกขาดเครื่องลิโธกราฟี EUV อย่างสมบูรณ์สร้างอำนาจกำหนดราคาและต้นทุนการเปลี่ยนเจ้าที่สูงลิ่ว ทำให้ ASML เป็นคอขวดสำคัญที่สุดของการผลิตชิป AI ล้ำสมัยและ HBM"
+                                "why_en":  "Its unmatched EUV and High-NA lithography monopoly creates an exceptional moat and makes ASML the indispensable bottleneck for leading-edge AI logic and HBM.",
+                                "why_th":  "การผูกขาดเครื่องฉายแสง EUV และ High-NA แบบไร้คู่แข่งสร้างคูเมืองระดับสูงสุด และทำให้ ASML เป็นคอขวดที่ขาดไม่ได้สำหรับการผลิตชิป AI ขั้นสูงและหน่วยความจำ HBM"
                             },
                    "KLAC":  {
                                 "m":  [
@@ -71,32 +71,32 @@
                                           19
                                       ],
                                 "o":  [
-                                          14,
                                           15,
-                                          18,
                                           16,
-                                          14
+                                          18,
+                                          17,
+                                          15
                                       ],
-                                "why_en":  "Commanding process-control share and industry-leading 40% operating margins underpin a durable moat, as larger AI dies, GAA, and advanced packaging structurally intensify defect inspection demand.",
-                                "why_th":  "ส่วนแบ่งตลาดระบบตรวจสอบชิปที่ครองความเป็นผู้นำและอัตรากำไรจากการดำเนินงานราว 40% สร้างคูเมืองที่ทนทาน ขณะที่ชิป AI ขนาดใหญ่ขึ้น GAA และแพ็กเกจจิงขั้นสูงเร่งความต้องการตรวจจับข้อบกพร่องมากขึ้น"
+                                "why_en":  "Dominant process-control share and 40%+ operating margins secure an elite moat, as rising AI die complexity and advanced packaging structurally boost inspection intensity.",
+                                "why_th":  "ส่วนแบ่งตลาดระบบตรวจสอบและวัดผลที่ครองความเหนือกว่าพร้อมอัตรากำไรจากการดำเนินงานเกิน 40% สร้างคูเมืองแกร่งมาก ขณะที่ความซับซ้อนของชิป AI และแพ็กเกจจิ้งขั้นสูงยิ่งเร่งความต้องการใช้งาน"
                             },
                    "LRCX":  {
                                 "m":  [
                                           17,
-                                          17,
-                                          12,
                                           16,
-                                          16
+                                          12,
+                                          17,
+                                          17
                                       ],
                                 "o":  [
                                           16,
-                                          15,
                                           16,
-                                          15,
-                                          14
+                                          17,
+                                          16,
+                                          15
                                       ],
-                                "why_en":  "Etch and deposition leadership with elite ROIC supports a wide moat, capturing surging AI demand from HBM stacking, GAA logic, and 3D NAND despite rivalry from AMAT and TEL.",
-                                "why_th":  "ความเป็นผู้นำด้านการกัดและเคลือบผิวชิปพร้อม ROIC ระดับสูงสร้างคูเมืองที่แข็งแกร่ง รับอานิสงส์แรงจาก HBM, GAA และ 3D NAND สำหรับ AI แม้ต้องแข่งขันกับ AMAT และ TEL"
+                                "why_en":  "Deep etch and deposition leadership delivers a strong moat, while surging HBM, 3D NAND, and GAA complexity fuel standout AI equipment growth.",
+                                "why_th":  "ความเป็นผู้นำเชิงลึกด้านเครื่องกัดและเคลือบผิวสร้างคูเมืองที่แข็งแกร่ง ขณะที่ความต้องการ HBM, 3D NAND และ GAA ที่ซับซ้อนขึ้นช่วยผลักดันการเติบโตจาก AI อย่างโดดเด่น"
                             }
                }
 }

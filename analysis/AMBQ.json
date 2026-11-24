@@ -2,46 +2,45 @@
     "ticker":  "AMBQ",
     "name":  "Ambiq Micro",
     "symbol":  "NYSE:AMBQ",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:04:20Z",
-    "costUsd":  0.6811016000000001,
+    "generatedAt":  "2026-11-24T04:17:24Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NYSE:AMBQ",
                        "yahoo":  "AMBQ",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:01:47Z",
-                       "price":  39.68,
-                       "open":  43.61,
-                       "high":  44.29,
-                       "low":  39.02,
-                       "volume":  518600,
-                       "avgVolume20":  457430,
-                       "changePct":  -12.98,
-                       "ema50":  52.32,
-                       "ema100":  56.03,
-                       "ema200":  53.7,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:12:47Z",
+                       "price":  44.98,
+                       "open":  45.63,
+                       "high":  46.67,
+                       "low":  43.83,
+                       "volume":  567200,
+                       "avgVolume20":  476735,
+                       "changePct":  13.36,
+                       "historyDays":  333,
+                       "ema50":  52.03,
+                       "ema100":  55.82,
+                       "ema200":  53.61,
                        "bb":  {
-                                  "upper":  56.35,
-                                  "middle":  46.19,
-                                  "lower":  36.03
+                                  "upper":  55.81,
+                                  "middle":  45.89,
+                                  "lower":  35.96
                               },
                        "macd":  {
-                                    "macd":  -2.85,
-                                    "signal":  -3.11,
-                                    "hist":  0.26
+                                    "macd":  -2.65,
+                                    "signal":  -3.02,
+                                    "hist":  0.37
                                 },
-                       "rsi14":  37.39,
+                       "rsi14":  45.91,
                        "high52w":  91.61,
                        "low52w":  22.12,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         82.8
-                                     ],
                                      [
                                          "2026-06-04",
                                          85
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          39.68
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         44.98
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          54.32,
                                           55.52,
                                           56.26,
                                           57.16,
@@ -639,96 +641,116 @@
                                           53.43,
                                           53.13,
                                           52.84,
-                                          52.32
+                                          52.32,
+                                          52.03
                                       ]
                    },
     "en":  {
-               "headline":  "Sales doubled, but AI-chip rout drags AMBQ below every moving average",
-               "technical":  "The trend is clearly down. AMBQ closed at $39.68 on 20 Nov 2026, well below all three EMAs (exponential moving averages: smoothed price over 50, 100 and 200 days). EMA50 is $52.32, EMA200 $53.70 and EMA100 $56.03. The fastest average is now the lowest, a bearish order that shows the mid-2026 uptrend has turned down. Momentum is mixed. MACD (a gauge of trend momentum) is -2.85, slightly above its signal line at -3.11. The small positive histogram of +0.26 suggests selling pressure was easing before Friday\u0027s fall, but one more weak session could flip it negative. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 37.39: weak, but not yet oversold. Price sits in the lower part of the Bollinger Bands (a 20-day volatility envelope), about $3.65 above the lower band at $36.03. It is roughly 25% of the way up its 52-week range of $22.12–$91.61, 57% below the high. Volume of 518,600 shares was about 13% above the 20-day average, so the 12.98% drop had some conviction but was not panic-level. Support is at $36.03 and the 5 Nov low near $35.22. Resistance is at the $46.19 middle band, then $52.32.",
-               "fundamental":  "The business is doing better than the chart suggests. Q3 2026 results on 10 Nov showed net sales of $38.1M, up 110% year on year and above the company\u0027s own $36–37M guidance. Non-GAAP gross margin reached 48.7%. The GAAP net loss was $7.1M, while the non-GAAP loss was only $1.2M. Seven customers now each buy more than $1M per quarter, up from three a year ago, which reduces reliance on a few buyers. The active customer base grew about 50%. Q4 guidance of $43.5–44.5M points to about $140M in sales for 2026. Cash of $363.5M is more than a third of the roughly $987M market cap. In the AI value chain, Ambiq sits at the far edge: always-on AI running inside wearables. It is building on the SPOT moat with software (heliaAOT) and the Atomiq NPU chip, which is aimed at 2027 production.",
-               "news":  [
-                            "10 Nov 2026: Q3 beat. Net sales were $38.1M (+110% YoY) against $36–37M guidance. Q4 is guided at $43.5–44.5M with flat gross margin but higher operating costs ($25.5–26.5M), so the guided non-GAAP loss of $(0.09)–$(0.03) per share brackets Q3\u0027s $(0.05).",
-                            "11–13 Nov: Several analysts cut price targets, citing lower valuations across the sector rather than weaker results. BofA went to $60 from $75 (Neutral; it wants clearer profitability) and Roth to $75 from $125. Jefferies, Stifel and Northland also trimmed, and most kept positive ratings.",
-                            "12–16 Nov: CEO Fumihide Esaka exercised options and sold 109,821 shares (about $5.28M) at $43.92–51.45 under a Rule 10b5-1 plan adopted on 15 May 2026. The sales were scheduled in advance, but they still added shares to the market during the post-earnings bounce.",
-                            "20 Nov: AMBQ fell 12.98% during a market-wide AI and chip sell-off in which the Nasdaq 100 lost about 5.6% and Nvidia about 14%. No company-specific news was found for that day.",
-                            "Product: Ambiq released heliaPROFILER and heliaAOT 1.0, an AI compiler it says cuts edge inference latency by up to 76%. It was the company\u0027s seventh AI software launch or major release in 2026."
+               "caution":  "The gap between strong revenue growth and a 51% share-price pullback shows how sensitive AMBQ is to valuation resets and stock supply. With roughly 24.6 million shares outstanding, AMBQ still trades near 8× full-year guided sales while remaining GAAP-unprofitable and ramping R\u0026D for Atomiq110 and Apollo340 tape-outs. Losing or seeing a product pause at any of its top four customers—which represent 79% of sales—could sharply reverse momentum. Until price reclaims the $52.03–$55.82 moving-average zone, rallies can still meet overhead selling pressure.",
+               "cons":  [
+                            "Top four end-customers still accounted for 79% of Q3 2026 net sales, creating heavy revenue-concentration risk.",
+                            "Ambiq remains unprofitable on a GAAP basis ($7.1 million Q3 loss) as R\u0026D rose 83% year-over-year to $16.3 million for Atomiq110 and Apollo340 tape-outs.",
+                            "Despite the Q3 beat, Stifel, Jefferies, Roth, and BofA all lowered price targets on November 11 amid semiconductor valuation compression.",
+                            "Shares remain in a technical downtrend below the 50-, 100-, and 200-day EMAs, while CEO 10b5-1 sales ($5.28 million) and 2026 equity offerings added supply."
                         ],
-               "caution":  "AMBQ is a small-cap (about $987M), thinly traded and very volatile stock. It fell about 49% from late September to 5 Nov and dropped 13% in a single market-wide sell-off. The moving averages are lined up bearishly, and if chip selling continues, the $35–36 area could be tested. The company still loses money on a GAAP basis and Q4 operating costs are rising. CEO selling, past share issuance (the June follow-on at $78) and a still-high valuation leave little room for error if growth slows or a large wearable customer cuts orders.",
-               "opportunity":  "The sell-off is coming from falling sector valuations and the broad AI trade, not from a broken business. Revenue doubled, guidance rose, the customer base widened and the non-GAAP loss nearly closed. Cash covers more than a third of market value. For a long-term holder, the gap between the $39.68 price and moving averages around $52–56 mostly reflects sentiment. Early signs of stabilisation would be the $35–36 support holding, RSI turning up and MACD staying above its signal line. Atomiq samples and 2027 production are the next catalysts.",
+               "fundamental":  "Ambiq occupies the battery-constrained endpoint of the AI value chain, using its subthreshold SPOT architecture to run on-device AI in wearables, hearables, and industrial sensors. Q3 2026 results on November 10 validated commercial traction: net sales rose 110% year-over-year (12.5% sequentially) to $38.1 million—its sixth straight sequential gain—while GAAP gross margin reached 46.7% (48.7% non-GAAP) on higher selling prices. Management guided Q4 sales to $43.5–$44.5 million and lifted full-year 2026 sales to ~$140 million. Non-GAAP net loss narrowed to $1.2 million (-$0.05/share), though GAAP loss was $7.1 million as R\u0026D jumped 83% to $16.3 million ahead of TSMC 12nm Atomiq110 NPU and Apollo340 tape-outs. With $363.5 million in cash and zero debt following 2026 follow-on offerings, the SPOT moat is intact, though 79% top-four customer concentration and fabless TSMC reliance remain key structural risks.",
+               "headline":  "Q3 revenue doubles on edge-AI demand, but AMBQ stock remains in a downtrend",
+               "news":  [
+                            "2026-11-10: Ambiq reported Q3 2026 net sales of $38.1 million (+110% YoY) with 48.7% non-GAAP gross margin and a -$0.05 non-GAAP EPS loss, beating estimates. Management guided Q4 sales to $43.5–$44.5 million and raised full-year 2026 revenue expectations to roughly $140 million.",
+                            "2026-11-09: Ambiq launched heliaAOT 1.0, an ahead-of-time AI compiler for its HELIA ecosystem that cut Apollo510 inference latency by up to 76% and energy per inference by up to 72% versus LiteRT Micro. The software is already shipping in commercial products.",
+                            "2026-11-11: Following Q3 earnings, Stifel ($85 to $70, Buy), Jefferies ($90 to $70, Buy), Roth ($125 to $75, Buy), and BofA ($75 to $60, Neutral) cut price targets on chip-sector multiple compression, while UBS nudged its target from $50 to $52 (Neutral).",
+                            "2026-11-16: An SEC Form 4 showed CEO Fumihide Esaka exercised options and sold 109,821 shares between November 12 and 16 for about $5.28 million. The sales were executed under a pre-arranged Rule 10b5-1 trading plan adopted in May 2026.",
+                            "2026-10-26: Ambiq partnered with Tapestry OS to bring Zephyr-based ultra-low-power coordination to Apollo510 and Apollo330M Plus chips for synchronized physical AI, robotics, and industrial sensing without a central controller."
+                        ],
+               "opportunity":  "For long-term AI infrastructure investors, AMBQ offers rare pure-play exposure to ultra-low-power edge AI where battery life—not raw cloud compute—is the primary bottleneck. Doubling annual revenue toward ~$140 million, expanding gross margins near 49% non-GAAP, and pairing SPOT silicon with software tools like heliaAOT 1.0 deepen customer switching costs. Supported by $363.5 million in net cash to fund its 12nm Atomiq110 NPU transition and expand beyond wearables into industrial physical AI, Ambiq\u0027s long-term thesis remains intact if customer diversification continues into 2027.",
+               "opportunityCheck":  "The page\u0027s sub-scores look broadly sensible for an early-stage fabless designer, though AI revenue exposure now appears too conservative. With Q3 2026 sales doubling to $38.1 million on edge-AI wearables, full-year guidance raised to ~$140 million, and heliaAOT 1.0 already shipping in commercial devices, I would move AI revenue exposure higher. Bottleneck and pricing power also warrant monitoring for an eventual lift if non-GAAP gross margins near 49% hold as Atomiq110 scales. Conversely, market position should stay restrained until top-four customer concentration drops meaningfully below 79%.",
+               "pros":  [
+                            "Q3 2026 net sales surged 110% year-over-year to $38.1 million, with Q4 guided to $43.5–$44.5 million and full-year revenue lifted to ~$140 million.",
+                            "Non-GAAP gross margin expanded 390 basis points year-over-year to 48.7% (46.7% GAAP) on higher selling prices and edge-AI mix.",
+                            "Customer breadth improved as active accounts rose ~50% year-over-year and $1 million-plus quarterly customers grew from three to seven.",
+                            "Cash reached $363.5 million with zero debt, while the November 9 heliaAOT 1.0 compiler cut Apollo510 inference latency by up to 76%."
+                        ],
                "risks":  [
-                             "The AI and semiconductor sell-off continues (Nasdaq 100 near bear-market territory)",
-                             "Heavy reliance on consumer wearables; a large customer could cut orders",
-                             "GAAP losses and rising operating costs push profitability further out",
-                             "More insider selling or new share offerings could dilute holders",
-                             "Execution risk on the 12nm SPOT and Atomiq NPU ramp in 2027",
-                             "Competition from larger microcontroller makers moving into low-power edge AI",
-                             "Low trading volume makes price swings larger"
+                             "Extreme customer concentration: top four end-customers generated 79% of Q3 2026 net sales.",
+                             "Execution and profitability risk: GAAP net loss remains $7.1 million per quarter as R\u0026D surged 83% YoY to fund Atomiq110 and Apollo340 tape-outs.",
+                             "Supply-chain and geographic exposure: fabless dependence on TSMC for specialized subthreshold nodes, alongside 17.3% of Q3 sales tied to China.",
+                             "Valuation and share-supply overhang: high post-IPO volatility, 2026 follow-on equity issuance, and ongoing insider 10b5-1 sales.",
+                             "Competitive pressure: larger semiconductor vendors targeting low-power edge-AI microcontrollers and wearables."
                          ],
-               "summary":  "AMBQ\u0027s chart is bearish. At $39.68 it trades far below its 50/100/200-day EMAs, RSI 37 is weak, and only a small positive MACD histogram hints that selling is slowing. The drop comes mainly from lower sector valuations and the 20 Nov AI-chip sell-off, not from problems at the company: Q3 sales doubled to $38.1M and Q4 guidance rose. The ultra-low-power moat thesis remains intact. Still, the stock is volatile and driven by sentiment; watch the $35–36 support zone."
+               "summary":  "On November 10, 2026, Ambiq Micro (AMBQ) reported Q3 net sales up 110% year-over-year to $38.1 million, raised full-year revenue guidance to roughly $140 million, and launched its heliaAOT 1.0 AI compiler on November 9. Yet AMBQ trades at $44.98—down 51% from its $91.61 52-week high—after Wall Street firms trimmed price targets on chip-sector multiple compression and CEO Fumihide Esaka sold $5.28 million in shares under a pre-arranged plan. Fundamentals confirm the ultra-low-power SPOT moat is intact, even as technicals stay bearish below key moving averages.",
+               "technical":  "AMBQ closed at $44.98 on November 23, 2026, jumping 13.36% in a sharp rebound, yet its broader chart remains bearish. The stock sits well below its 50-, 100-, and 200-day Exponential Moving Averages (EMA — weighted trend lines that track recent price direction) at $52.03, $55.82, and $53.61, with EMA 50 below EMA 200 confirming a medium-term downtrend. Momentum shows early stabilization rather than a reversal: MACD (12/26/9 — a trend-momentum gauge comparing two moving averages) sits deep in negative territory at -2.65, though above its -3.02 signal line for a positive +0.37 histogram, while RSI 14 (a 0–100 momentum gauge where under 30 is oversold and over 70 is overbought) is neutral-soft at 45.91. Within Bollinger Bands (20/2 — volatility envelopes around a 20-day average), price rallied toward immediate resistance at the $45.89 midline, with the lower band at $35.96 as support and heavy resistance at $52.03–$55.82. Trading 51% below its $91.61 52-week high ($22.12 low), volume of 567,200 shares beat the 476,735 20-day average by 19%, giving modest confirmation to the bounce."
            },
     "th":  {
-               "headline":  "ยอดขายโตเท่าตัว แต่หุ้นชิป AI ร่วงหนัก ฉุด AMBQ หลุดทุกเส้นค่าเฉลี่ย",
-               "technical":  "แนวโน้มยังเป็นขาลงชัดเจน ราคาปิด $39.68 (20 พ.ย. 2026) อยู่ต่ำกว่า EMA ทั้งสามเส้น (เส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โพเนนเชียล ใช้ดูทิศทางราคาในรอบ 50/100/200 วัน) ได้แก่ EMA50 $52.32, EMA200 $53.70 และ EMA100 $56.03 เส้นที่เร็วที่สุดกลับอยู่ต่ำสุด แปลว่าขาขึ้นช่วงกลางปีพลิกเป็นขาลงแล้ว ด้านโมเมนตัมยังก้ำกึ่ง MACD (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ -2.85 สูงกว่าเส้นสัญญาณ -3.11 เล็กน้อย ฮิสโตแกรมเป็นบวก +0.26 บอกว่าแรงขายเริ่มอ่อนลงก่อนวันศุกร์ แต่ถ้าราคาอ่อนต่ออีกวันก็อาจกลับเป็นลบได้ RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าถูกขายมากเกินไป) อยู่ที่ 37.39 อ่อนแอแต่ยังไม่ถึงโซน oversold ราคาอยู่ช่วงล่างของ Bollinger Bands (กรอบความผันผวน 20 วัน) ห่างกรอบล่าง $36.03 ราว $3.65 และอยู่ราว 25% ของกรอบราคา 52 สัปดาห์ $22.12–$91.61 ต่ำกว่าจุดสูงสุดถึง 57% วอลุ่ม 518,600 หุ้น สูงกว่าค่าเฉลี่ย 20 วันราว 13% แปลว่าการร่วง 12.98% มีแรงขายยืนยันอยู่บ้าง แต่ยังไม่ถึงขั้นเทขายตื่นตระหนก แนวรับอยู่ที่ $36.03 และจุดต่ำวันที่ 5 พ.ย. ราว $35.22 แนวต้านอยู่ที่ $46.19 (เส้นกลาง BB) และ $52.32",
-               "fundamental":  "ตัวธุรกิจดีกว่าที่กราฟสะท้อน ผล Q3 2026 ที่ประกาศวันที่ 10 พ.ย. มียอดขาย $38.1M โต 110% จากปีก่อน และสูงกว่ากรอบที่บริษัทเคยให้ไว้ $36–37M อัตรากำไรขั้นต้น non-GAAP อยู่ที่ 48.7% ขาดทุนสุทธิแบบ GAAP $7.1M แต่ถ้าดูแบบ non-GAAP ขาดทุนเพียง $1.2M ลูกค้าที่ซื้อเกิน $1M ต่อไตรมาสเพิ่มเป็น 7 ราย จาก 3 รายเมื่อปีก่อน ช่วยลดการพึ่งพาลูกค้าไม่กี่ราย และฐานลูกค้า active โตราว 50% เป้ายอดขาย Q4 ที่ $43.5–44.5M ทำให้ยอดขายทั้งปี 2026 อยู่ราว $140M เงินสด $363.5M คิดเป็นกว่าหนึ่งในสามของมูลค่าตลาดราว $987M ในห่วงโซ่ AI บริษัทอยู่ปลายสุด คือการรัน AI ตลอดเวลาบนอุปกรณ์สวมใส่ และกำลังต่อยอด moat ของ SPOT ด้วยซอฟต์แวร์ (heliaAOT) และชิป NPU รุ่น Atomiq ที่ตั้งเป้าเข้าสายการผลิตในปี 2027",
-               "news":  [
-                            "10 พ.ย. 2026: ผล Q3 ดีกว่าเป้า ยอดขาย $38.1M (+110% YoY) เทียบกรอบที่ให้ไว้ $36–37M ส่วน Q4 คาดยอดขาย $43.5–44.5M อัตรากำไรขั้นต้นทรงตัว แต่ค่าใช้จ่ายดำเนินงานเพิ่มเป็น $25.5–26.5M ทำให้คาดขาดทุน non-GAAP ต่อหุ้นที่ $(0.09)–$(0.03) ซึ่งคร่อมระดับ $(0.05) ของ Q3",
-                            "11–13 พ.ย.: นักวิเคราะห์หลายแห่งลดราคาเป้าหมาย โดยให้เหตุผลว่ามูลค่าหุ้นทั้งกลุ่มปรับลง ไม่ใช่เพราะผลงานแย่ลง BofA ลดเป้าเหลือ $60 จาก $75 (Neutral รอเห็นกำไรชัดกว่านี้) Roth ลดเหลือ $75 จาก $125 ส่วน Jefferies, Stifel และ Northland ก็ลดเป้าเช่นกัน แต่ส่วนใหญ่ยังให้มุมมองเชิงบวก",
-                            "12–16 พ.ย.: CEO Fumihide Esaka ใช้สิทธิ์ออปชันแล้วขายหุ้น 109,821 หุ้น (ราว $5.28M) ที่ราคา $43.92–51.45 ภายใต้แผน Rule 10b5-1 ที่ตั้งไว้ตั้งแต่ 15 พ.ค. 2026 แม้เป็นการขายตามแผนที่วางไว้ล่วงหน้า แต่ก็เพิ่มหุ้นออกสู่ตลาดในช่วงที่ราคาเด้งหลังประกาศงบ",
-                            "20 พ.ย.: AMBQ ร่วง 12.98% ในวันที่หุ้น AI และชิปถูกเทขายทั้งตลาด Nasdaq 100 ลงราว 5.6% และ Nvidia ลงราว 14% ไม่พบข่าวเฉพาะของบริษัทในวันนั้น",
-                            "ผลิตภัณฑ์: Ambiq เปิดตัว heliaPROFILER และ heliaAOT 1.0 ซึ่งเป็นคอมไพเลอร์ AI ที่บริษัทระบุว่าลดเวลาประมวลผล AI บนอุปกรณ์ได้สูงสุด 76% นับเป็นการเปิดตัวหรืออัปเดตใหญ่ของซอฟต์แวร์ AI ครั้งที่ 7 ของปี 2026"
+               "caution":  "ช่องว่างระหว่างรายได้โตแรงกับราคาหุ้นที่ร่วงลง 51% สะท้อนว่า AMBQ อ่อนไหวสูงต่อการปรับลด Valuation และซัพพลายหุ้นในตลาด ด้วยจำนวนหุ้นราว 24.6 ล้านหุ้น มูลค่าหุ้นยังอยู่ราว 8 เท่าของยอดขายทั้งปีที่คาดการณ์ ขณะที่บริษัทยังขาดทุนสุทธิแบบ GAAP และต้องเร่งงบ R\u0026D สำหรับการผลิตชิป Atomiq110 และ Apollo340 หากลูกค้าหลัก 4 รายแรกซึ่งคิดเป็น 79% ของรายได้เกิดชะลอคำสั่งซื้อ โมเมนตัมธุรกิจอาจสะดุดแรง และตราบใดที่ราคายังไม่กลับขึ้นไปยืนเหนือโซนเส้นค่าเฉลี่ย $52.03–$55.82 การดีดตัวยังเสี่ยงเจอแรงขายกดดัน",
+               "cons":  [
+                            "รายได้ยังกระจุกตัวสูง โดยลูกค้าหลัก 4 รายแรกคิดเป็น 79% ของยอดขายไตรมาส 3 ปี 2026",
+                            "บริษัทยังขาดทุนสุทธิแบบ GAAP ที่ $7.1 ล้าน หลังงบ R\u0026D พุ่งขึ้น 83% YoY เป็น $16.3 ล้าน เพื่อพัฒนา Atomiq110 และ Apollo340",
+                            "แม้ผลประกอบการดีกว่าคาด แต่นักวิเคราะห์หลายรายทั้ง Stifel, Jefferies, Roth และ BofA ต่างหั่นราคาเป้าหมายลงในวันที่ 11 พ.ย. ตามแรงกดดันด้าน Valuation ของกลุ่มชิป",
+                            "แนวโน้มเทคนิคยังเป็นขาลงใต้เส้น EMA 50, 100 และ 200 วัน ขณะที่แรงขายหุ้นตามแผน 10b5-1 ของ CEO ($5.28 ล้าน) และการเพิ่มทุนปี 2026 กดดันซัพพลายหุ้น"
                         ],
-               "caution":  "AMBQ เป็นหุ้นขนาดเล็ก (มูลค่าตลาดราว $987M) สภาพคล่องต่ำและผันผวนมาก ราคาเคยร่วงราว 49% จากปลายเดือนกันยายนถึง 5 พ.ย. และร่วงอีก 13% ภายในวันเดียวเมื่อตลาดเทขาย ลำดับเส้นค่าเฉลี่ยยังเป็นขาลง ถ้าแรงขายหุ้นชิปยังไม่จบ ราคาอาจลงไปทดสอบโซน $35–36 บริษัทยังขาดทุนตามงบ GAAP และค่าใช้จ่าย Q4 สูงขึ้น บวกกับการขายหุ้นของ CEO การเพิ่มทุนเมื่อเดือนมิถุนายนที่ $78 และมูลค่าหุ้นที่ยังไม่ถูก ทำให้มีพื้นที่ผิดพลาดน้อย ถ้าการเติบโตชะลอหรือลูกค้ารายใหญ่กลุ่ม wearable ลดออเดอร์",
-               "opportunity":  "แรงขายรอบนี้มาจากมูลค่าหุ้นทั้งกลุ่มที่ปรับลงและกระแสหุ้น AI ทั้งตลาด ไม่ใช่เพราะธุรกิจมีปัญหา ยอดขายโตเท่าตัว เป้ายอดขายถูกปรับขึ้น ฐานลูกค้ากว้างขึ้น และขาดทุนแบบ non-GAAP เกือบเป็นศูนย์ เงินสดคิดเป็นกว่าหนึ่งในสามของมูลค่าตลาด สำหรับนักลงทุนระยะยาว ช่องว่างระหว่างราคา $39.68 กับเส้นค่าเฉลี่ยแถว $52–56 สะท้อนอารมณ์ตลาดเป็นหลัก สัญญาณแรกว่าราคาเริ่มทรงตัวคือ แนวรับ $35–36 ยืนได้ RSI เริ่มหันขึ้น และ MACD ยังอยู่เหนือเส้นสัญญาณ ตัวเร่งถัดไปคือตัวอย่างชิป Atomiq และการผลิตจริงในปี 2027",
+               "fundamental":  "Ambiq วางตำแหน่งอยู่ปลายน้ำฝั่งอุปกรณ์พกพาของห่วงโซ่ AI โดยใช้สถาปัตยกรรม SPOT กินไฟต่ำพิเศษเพื่อรัน AI บนอุปกรณ์สวมใส่ หูฟังอัจฉริยะ และเซนเซอร์อุตสาหกรรม งบไตรมาส 3 ปี 2026 วันที่ 10 พ.ย. ตอกย้ำแรงส่งเชิงพาณิชย์ ยอดขายโต 110% YoY (และโต 12.5% จากไตรมาสก่อน เป็นไตรมาสที่ 6 ติดต่อกัน) แตะ $38.1 ล้าน อัตรากำไรขั้นต้น GAAP อยู่ที่ 46.7% (Non-GAAP 48.7%) จากราคาขายเฉลี่ยที่สูงขึ้น ผู้บริหารคาดรายได้ Q4 ที่ $43.5–$44.5 ล้าน และปรับเป้าทั้งปี 2026 เป็นราว $140 ล้าน ขาดทุนสุทธิ Non-GAAP ลดลงเหลือ $1.2 ล้าน (-$0.05/หุ้น) แต่ GAAP ยังขาดทุน $7.1 ล้านจากงบ R\u0026D ที่พุ่ง 83% เป็น $16.3 ล้าน เพื่อรองรับการ Tape-out ชิป Atomiq110 NPU บนเทคโนโลยี 12nm ของ TSMC และ Apollo340 ฐานะการเงินแข็งแกร่งด้วยเงินสด $363.5 ล้านและปลอดหนี้ แต่ความเสี่ยงหลักยังอยู่ที่การพึ่งพาลูกค้า 4 รายแรกถึง 79% และต้องพึ่งโรงงานผลิตของ TSMC",
+               "headline":  "รายได้ Q3 โตเท่าตัวรับดีมานด์ Edge AI แต่กราฟ AMBQ ยังอยู่ในขาลง",
+               "news":  [
+                            "2026-11-10: Ambiq รายงานรายได้ไตรมาส 3 ปี 2026 ที่ $38.1 ล้าน (+110% YoY) อัตรากำไรขั้นต้น Non-GAAP 48.7% และขาดทุน Non-GAAP -$0.05 ต่อหุ้น ดีกว่าคาด พร้อมให้เป้ารายได้ Q4 ที่ $43.5–$44.5 ล้าน และปรับเพิ่มเป้าทั้งปี 2026 เป็นราว $140 ล้าน",
+                            "2026-11-09: เปิดตัวซอฟต์แวร์คอมไพเลอร์ heliaAOT 1.0 ในระบบนิเวศ HELIA ช่วยลดความหน่วงการประมวลผล AI บนชิป Apollo510 ได้สูงสุด 76% และลดการใช้พลังงานต่อการประมวลผลสูงสุด 72% เทียบกับ LiteRT Micro โดยเริ่มใช้งานจริงในสินค้าเชิงพาณิชย์แล้ว",
+                            "2026-11-11: หลังประกาศงบ Q3 โบรกเกอร์หลายแห่งปรับลดราคาเป้าหมายจากแรงกดดัน Valuation กลุ่มเซมิคอนดักเตอร์ ได้แก่ Stifel ($85 เหลือ $70, Buy), Jefferies ($90 เหลือ $70, Buy), Roth ($125 เหลือ $75, Buy) และ BofA ($75 เหลือ $60, Neutral) ส่วน UBS ขยับเป้าขึ้นเล็กน้อยจาก $50 เป็น $52 (Neutral)",
+                            "2026-11-16: เอกสาร Form 4 ต่อ SEC ระบุว่า CEO Fumihide Esaka ใช้สิทธิซื้อหุ้นและขายหุ้นรวม 109,821 หุ้น ช่วงวันที่ 12–16 พ.ย. มูลค่าราว $5.28 ล้าน โดยเป็นการขายอัตโนมัติตามแผน Rule 10b5-1 ที่กำหนดไว้ตั้งแต่เดือนพฤษภาคม 2026",
+                            "2026-10-26: Ambiq จับมือ Tapestry OS ผสานระบบปฏิบัติการฐาน Zephyr เข้ากับชิป Apollo510 และ Apollo330M Plus เพื่อรองรับการเชื่อมต่ออุปกรณ์ Physical AI หุ่นยนต์ และเซนเซอร์อุตสาหกรรมแบบประหยัดพลังงานพิเศษโดยไม่ต้องพึ่งตัวควบคุมกลาง"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนโครงสร้างพื้นฐาน AI ระยะยาว AMBQ เป็นหนึ่งในไม่กี่บริษัทที่จับตลาด Edge AI กินไฟต่ำพิเศษโดยตรง ซึ่งข้อจำกัดหลักไม่ใช่พลังประมวลผลบนคลาวด์แต่คืออายุแบตเตอรี่ การที่รายได้ทั้งปีโตเท่าตัวสู่ราว $140 ล้าน อัตรากำไรขั้นต้น Non-GAAP ใกล้แตะ 49% และมีซอฟต์แวร์อย่าง heliaAOT 1.0 ช่วยสร้างต้นทุนการเปลี่ยนย้ายของลูกค้า ผนวกเงินสดสุทธิ $363.5 ล้านสำหรับต่อยอดสู่ชิป Atomiq110 NPU ขนาด 12nm และตลาด Physical AI ทำให้โครงสร้างจุดแข็งระยะยาวยังคงเดิม หากขยายฐานลูกค้าต่อเนื่องได้ในปี 2027",
+               "opportunityCheck":  "คะแนนย่อยบนหน้าเพจโดยรวมดูสมเหตุสมผลสำหรับบริษัทออกแบบชิปขนาดเล็ก แต่หมวดสัดส่วนรายได้จาก AI ดูอนุรักษนิยมเกินไปเล็กน้อย หลังยอดขาย Q3 ปี 2026 พุ่งเท่าตัวเป็น $38.1 ล้านจากอุปกรณ์สวมใส่ Edge AI เป้าทั้งปีถูกปรับขึ้นเป็นราว $140 ล้าน และ heliaAOT 1.0 เริ่มใช้งานจริงแล้ว จึงควรขยับหมวดสัดส่วนรายได้จาก AI ขึ้น ส่วนหมวดคอขวดและอำนาจตั้งราคาก็น่าจับตาเพื่อปรับขึ้นในอนาคตหากอัตรากำไรขั้นต้น Non-GAAP แถว 49% ยืนระยะได้เมื่อ Atomiq110 เริ่มขยายตลาด แต่หมวดสถานะทางการตลาดควรคงความระมัดระวังจนกว่าการกระจุกตัวของลูกค้า 4 รายแรกจะลดลงจากระดับ 79%",
+               "pros":  [
+                            "ยอดขายไตรมาส 3 ปี 2026 พุ่ง 110% YoY แตะ $38.1 ล้าน พร้อมเป้ารายได้ Q4 ที่ $43.5–$44.5 ล้าน และปรับเป้าทั้งปี 2026 ขึ้นเป็นราว $140 ล้าน",
+                            "อัตรากำไรขั้นต้น Non-GAAP ขยายตัว 390 bps YoY เป็น 48.7% (GAAP 46.7%) จากราคาขายเฉลี่ยและสัดส่วนสินค้า Edge AI ที่สูงขึ้น",
+                            "ฐานลูกค้ากระจายตัวดีขึ้น โดยมีลูกค้าใช้งานจริงเพิ่มราว 50% YoY และลูกค้ารายใหญ่ระดับเกิน $1 ล้านต่อไตรมาสเพิ่มจาก 3 เป็น 7 ราย",
+                            "ถือเงินสดสูงถึง $363.5 ล้านและไม่มีหนี้สิน ขณะที่ซอฟต์แวร์ heliaAOT 1.0 ที่เปิดตัว 9 พ.ย. ช่วยลดความหน่วง AI บนชิป Apollo510 สูงสุด 76%"
+                        ],
                "risks":  [
-                             "หุ้น AI และเซมิคอนดักเตอร์ยังถูกเทขายต่อ (Nasdaq 100 ใกล้เข้าเขตตลาดหมี)",
-                             "พึ่งพาตลาดอุปกรณ์สวมใส่ฝั่งผู้บริโภคสูง ลูกค้ารายใหญ่อาจลดออเดอร์",
-                             "ยังขาดทุนตามงบ GAAP และค่าใช้จ่ายเพิ่มขึ้น ทำให้กว่าจะมีกำไรอาจใช้เวลานานขึ้น",
-                             "ผู้บริหารอาจขายหุ้นเพิ่ม หรือบริษัทอาจเพิ่มทุนจนสัดส่วนผู้ถือหุ้นเดิมลดลง",
-                             "ความเสี่ยงด้านการผลิตชิป 12nm SPOT และ Atomiq NPU ในปี 2027",
-                             "คู่แข่งผู้ผลิตไมโครคอนโทรลเลอร์รายใหญ่ที่หันมาทำ edge AI กินไฟต่ำ",
-                             "สภาพคล่องต่ำ ราคาจึงแกว่งแรง"
+                             "ความเสี่ยงการกระจุกตัวของลูกค้าสูงมาก โดยลูกค้าหลัก 4 รายแรกสร้างรายได้ถึง 79% ในไตรมาส 3 ปี 2026",
+                             "ความเสี่ยงด้านการทำกำไรและการพัฒนาชิปรุ่นใหม่ โดยยังขาดทุน GAAP $7.1 ล้านต่อไตรมาส และงบ R\u0026D พุ่ง 83% YoY เพื่อพัฒนา Atomiq110 และ Apollo340",
+                             "ความเสี่ยงห่วงโซ่อุปทานและภูมิรัฐศาสตร์ จากการพึ่งพาโรงงาน TSMC สำหรับเทคโนโลยีการผลิตเฉพาะทาง และมียอดขายในจีน 17.3% ในไตรมาส 3",
+                             "แรงกดดันด้าน Valuation และซัพพลายหุ้น ทั้งความผันผวนสูงหลัง IPO การเพิ่มทุนในปี 2026 และแรงขายตามแผน 10b5-1 ของผู้บริหาร",
+                             "การแข่งขันจากผู้ผลิตเซมิคอนดักเตอร์รายใหญ่ที่เริ่มรุกตลาดไมโครคอนโทรลเลอร์และชิป Edge AI กินไฟต่ำ"
                          ],
-               "summary":  "กราฟของ AMBQ ยังเป็นขาลง ราคา $39.68 อยู่ต่ำกว่า EMA 50/100/200 วันค่อนข้างมาก RSI 37 อ่อนแอ มีเพียงฮิสโตแกรม MACD ที่เป็นบวกเล็กน้อยซึ่งบอกว่าแรงขายเริ่มชะลอ การร่วงรอบนี้มาจากมูลค่าหุ้นทั้งกลุ่มที่ปรับลงและการเทขายหุ้นชิป AI เมื่อ 20 พ.ย. เป็นหลัก ไม่ใช่ปัญหาของบริษัท เพราะยอดขาย Q3 โตเท่าตัวเป็น $38.1M และเป้ายอดขาย Q4 ถูกปรับขึ้น moat ด้านชิปกินไฟต่ำยังไม่เปลี่ยน แต่หุ้นผันผวนสูงและขึ้นกับอารมณ์ตลาด ควรจับตาโซนแนวรับ $35–36"
+               "summary":  "วันที่ 10 พ.ย. 2026 Ambiq Micro (AMBQ) รายงานยอดขายไตรมาส 3 โต 110% YoY แตะ $38.1 ล้าน ปรับเป้ารายได้ทั้งปีเป็นราว $140 ล้าน และเพิ่งเปิดตัวซอฟต์แวร์คอมไพเลอร์ heliaAOT 1.0 เมื่อ 9 พ.ย. ทว่าราคาหุ้นยังอยู่เพียง $44.98 ลดลง 51% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $91.61 หลังโบรกเกอร์หลายแห่งหั่นราคาเป้าหมายตามแรงกดดัน Valuation กลุ่มชิป และ CEO Fumihide Esaka ขายหุ้นมูลค่า $5.28 ล้านตามแผนที่กำหนดไว้ล่วงหน้า ภาพรวมพื้นฐานยืนยันว่าจุดแข็งเทคโนโลยี SPOT กินไฟต่ำยังคงเดิม แม้กราฟเทคนิคยังอยู่ในแนวโน้มขาลงใต้เส้นค่าเฉลี่ยสำคัญ",
+               "technical":  "AMBQ ปิดที่ $44.98 ในวันที่ 23 พ.ย. 2026 ดีดตัวแรง 13.36% แต่โครงสร้างกราฟหลักยังเป็นขาลง ราคาอยู่ต่ำกว่าเส้น EMA (Exponential Moving Average — เส้นค่าเฉลี่ยเคลื่อนที่ที่ให้น้ำหนักราคาล่าสุดเพื่อดูแนวโน้ม) ทั้ง 50, 100 และ 200 วัน ที่ $52.03, $55.82 และ $53.61 โดย EMA 50 อยู่ต่ำกว่า EMA 200 ยืนยันทิศทางขาลงระยะกลาง ด้านโมเมนตัมเริ่มเห็นสัญญาณทรงตัวระยะสั้นแต่ยังไม่กลับตัว โดย MACD (12/26/9 — เครื่องมือวัดแรงส่งของแนวโน้มจากเส้นค่าเฉลี่ยสองเส้น) ยังติดลบที่ -2.65 แม้ตัดขึ้นเหนือเส้น Signal ที่ -3.02 จนเกิด Histogram บวก +0.37 ส่วน RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 คือขายมากเกินไป เกิน 70 คือซื้อมากเกินไป) อยู่ที่ 45.91 ในโซนกลางค่อนอ่อน เมื่อดู Bollinger Bands (20/2 — กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาดีดขึ้นมาใกล้แนวต้านแรกที่เส้นกลาง $45.89 มีแนวรับแถวขอบล่าง $35.96 และแนวต้านหนาแน่นที่ $52.03–$55.82 ขณะที่ราคาต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($91.61; ต่ำสุด $22.12) ถึง 51% โดยมีปริมาณซื้อขาย 567,200 หุ้น สูงกว่าค่าเฉลี่ย 20 วัน (476,735 หุ้น) ราว 19% ช่วยยืนยันการรีบาวด์ได้ในระดับปานกลาง"
            },
     "sources":  [
                     {
-                        "title":  "Ambiq Reports Third Quarter 2026 Financial Results (Form 8-K, Exhibit 99.1)",
-                        "publisher":  "SEC EDGAR / Ambiq Micro",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001500412/000119312526454445/ambq-ex99_1.htm",
-                        "date":  "2026-11-10"
+                        "date":  "2026-11-10",
+                        "publisher":  "Ambiq Micro",
+                        "title":  "Ambiq Reports Third Quarter 2026 Financial Results",
+                        "url":  "https://ambiq.com/ambiq-reports-third-quarter-2026-financial-results/"
                     },
                     {
-                        "title":  "Ambiq Micro (AMBQ) Stock Fair Value Moves Lower After Analysts Reset Targets",
-                        "publisher":  "Simply Wall St via Yahoo Finance",
-                        "url":  "https://sg.finance.yahoo.com/news/ambiq-micro-ambq-stock-fair-043443520.html",
-                        "date":  "2026-11-13"
+                        "date":  "2026-11-10",
+                        "publisher":  "U.S. Securities and Exchange Commission",
+                        "title":  "Form 10-Q for the Quarterly Period Ended September 30, 2026",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1500412/000119312526455152/0001193125-26-455152-index.htm"
                     },
                     {
-                        "title":  "Ambiq Micro CEO Esaka disposes of $5.28 million in shares",
-                        "publisher":  "Investing.com",
-                        "url":  "https://ca.investing.com/news/stock-market-news/ambiq-micro-ceo-esaka-disposes-of-528-million-in-shares-93CH-4962647",
-                        "date":  "2026-11-16"
-                    },
-                    {
-                        "title":  "InvestingPro\u0027s fair value warned of 49% drop in Ambiq Micro stock",
-                        "publisher":  "Investing.com",
-                        "url":  "https://www.investing.com/news/investment-ideas/investingpros-fair-value-warned-of-49-drop-in-ambiq-micro-stock-93CH-5007201"
-                    },
-                    {
-                        "title":  "AMBQ Stock Quote Price and Forecast",
-                        "publisher":  "CNN Markets",
-                        "url":  "https://www.cnn.com/markets/stocks/AMBQ"
-                    },
-                    {
-                        "title":  "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower",
-                        "publisher":  "StockTitan",
-                        "url":  "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
-                        "date":  "2026-11-20"
-                    },
-                    {
+                        "date":  "2026-11-09",
+                        "publisher":  "Ambiq Micro",
                         "title":  "Ambiq Launches heliaAOT 1.0 Delivering Up to 76% Lower Edge AI Inference Latency",
-                        "publisher":  "Webull News",
-                        "url":  "https://www.webull.com/news/15894084823729152"
+                        "url":  "https://ambiq.com/am-news/ambiq-launches-heliaaot-1-0-delivering-up-to-76-lower-edge-ai-inference-latency/"
+                    },
+                    {
+                        "date":  "2026-10-26",
+                        "publisher":  "Ambiq Micro",
+                        "title":  "Ambiq and Tapestry OS Bring Ultra-Low-Power Coordination to Physical AI",
+                        "url":  "https://ambiq.com/ambiq-and-tapestry-os-bring-ultra-low-power-coordination-to-physical-ai/"
+                    },
+                    {
+                        "date":  "2026-11-11",
+                        "publisher":  "MarketBeat",
+                        "title":  "Ambiq Micro Price Target Cut to $70.00 by Analysts at Stifel Nicolaus",
+                        "url":  "https://www.marketbeat.com/instant-alerts/analyst-ambiq-micro-nyseambq-price-target-cut-to-7000-by-analysts-at-stifel-nicolaus-2026-11-11/"
+                    },
+                    {
+                        "date":  "2026-11-16",
+                        "publisher":  "U.S. Securities and Exchange Commission",
+                        "title":  "Form 4 — Statement of Changes in Beneficial Ownership (Fumihide Esaka)",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1500412/000207845426000023/0002078454-26-000023-index.htm"
                     }
                 ]
 }

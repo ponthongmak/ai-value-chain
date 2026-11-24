@@ -1,0 +1,102 @@
+{
+    "sector":  "equip",
+    "judge":  "codex",
+    "provider":  "codex",
+    "model":  "gpt-6.2-sol",
+    "effort":  "high",
+    "account":  "Codex (ChatGPT)",
+    "generatedAt":  "2026-11-24T04:49:52Z",
+    "costUsd":  null,
+    "stocks":  {
+                   "AEHR":  {
+                                "m":  [
+                                          13,
+                                          11,
+                                          5,
+                                          6,
+                                          5
+                                      ],
+                                "o":  [
+                                          15,
+                                          16,
+                                          12,
+                                          9,
+                                          14
+                                      ],
+                                "why_en":  "Specialized burn-in tools are winning AI processor orders, with customer concentration and uneven profitability limiting Aehr’s moat. [Quarterly filing](https://www.sec.gov/Archives/edgar/data/1040470/000165495426009601/aehr_10q.htm)",
+                                "why_th":  "เครื่องทดสอบความทนทานแบบเบิร์นอินเฉพาะทางของ Aehr ได้คำสั่งซื้อสำหรับชิป AI เพิ่มขึ้น โดยการพึ่งพาลูกค้าไม่กี่รายและกำไรที่ผันผวนจำกัดความได้เปรียบระยะยาว"
+                            },
+                   "AMAT":  {
+                                "m":  [
+                                          17,
+                                          16,
+                                          14,
+                                          19,
+                                          17
+                                      ],
+                                "o":  [
+                                          12,
+                                          16,
+                                          17,
+                                          15,
+                                          16
+                                      ],
+                                "why_en":  "A large installed base and process expertise make Applied hard to displace as AI lifts demand for advanced logic, DRAM and packaging tools. [Earnings call](https://ir.appliedmaterials.com/static-files/14fd85ae-ff29-4756-879c-c899da301ae6)",
+                                "why_th":  "ฐานเครื่องจักรที่ติดตั้งไว้จำนวนมากและความเชี่ยวชาญด้านกระบวนการผลิตทำให้ลูกค้าเปลี่ยนจาก Applied ได้ยาก ขณะที่ AI เพิ่มความต้องการเครื่องมือผลิตชิปลอจิกขั้นสูงและ DRAM รวมถึงเครื่องมือแพ็กเกจจิง"
+                            },
+                   "ASML":  {
+                                "m":  [
+                                          20,
+                                          19,
+                                          17,
+                                          19,
+                                          18
+                                      ],
+                                "o":  [
+                                          14,
+                                          17,
+                                          20,
+                                          20,
+                                          14
+                                      ],
+                                "why_en":  "ASML’s EUV monopoly makes it indispensable to leading-edge AI chip production, with High NA and advanced packaging adding growth opportunities. [Annual report](https://www.sec.gov/Archives/edgar/data/937966/000162828026011378/asml-20251231.htm)",
+                                "why_th":  "การเป็นผู้ขายเครื่อง EUV เพียงรายเดียวทำให้ ASML ขาดไม่ได้ในการผลิตชิป AI ขั้นสูง โดยเครื่อง High NA และอุปกรณ์แพ็กเกจจิงขั้นสูงช่วยเพิ่มโอกาสเติบโต"
+                            },
+                   "KLAC":  {
+                                "m":  [
+                                          18,
+                                          18,
+                                          12,
+                                          18,
+                                          19
+                                      ],
+                                "o":  [
+                                          12,
+                                          16,
+                                          19,
+                                          17,
+                                          14
+                                      ],
+                                "why_en":  "KLA’s market-leading inspection tools are embedded in fab workflows, while more complex AI chips and advanced packaging increase demand for defect detection. [Annual filing](https://ir.kla.com/sec-filings/all-sec-filings/content/0000319201-26-000027/klac-20260630.htm)",
+                                "why_th":  "เครื่องตรวจสอบของ KLA ครองตลาดและเป็นส่วนหนึ่งของกระบวนการผลิตในโรงงาน ขณะที่ความซับซ้อนของชิป AI และแพ็กเกจจิงขั้นสูงเพิ่มความต้องการตรวจหาข้อบกพร่อง"
+                            },
+                   "LRCX":  {
+                                "m":  [
+                                          18,
+                                          17,
+                                          12,
+                                          18,
+                                          17
+                                      ],
+                                "o":  [
+                                          13,
+                                          17,
+                                          17,
+                                          16,
+                                          16
+                                      ],
+                                "why_en":  "Qualified etch and deposition tools are hard to replace in fabs, while AI lifts demand for HBM equipment and creates opportunities in hybrid bonding. [Lam Research](https://newsroom.lamresearch.com/advanced-packaging-next-frontier-ai-scaling)",
+                                "why_th":  "เครื่องกัดลายและเครื่องเคลือบฟิล์มของ Lam ที่ผ่านการรับรองแล้วเปลี่ยนทดแทนได้ยากในโรงงานผลิตชิป ขณะที่ AI เพิ่มความต้องการเครื่องมือผลิต HBM และเปิดโอกาสด้านการยึดประสานแบบไฮบริด"
+                            }
+               }
+}

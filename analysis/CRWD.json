@@ -2,46 +2,45 @@
     "ticker":  "CRWD",
     "name":  "CrowdStrike",
     "symbol":  "NASDAQ:CRWD",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:03:52Z",
-    "costUsd":  0.6867038,
-    "stance":  "neutral",
+    "generatedAt":  "2026-11-24T04:05:46Z",
+    "costUsd":  null,
+    "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NASDAQ:CRWD",
                        "yahoo":  "CRWD",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:01:26Z",
-                       "price":  229.44,
-                       "open":  237.38,
-                       "high":  240.92,
-                       "low":  227.3,
-                       "volume":  12798700,
-                       "avgVolume20":  9210110,
-                       "changePct":  -5.76,
-                       "ema50":  235.96,
-                       "ema100":  221.09,
-                       "ema200":  192.43,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:01:35Z",
+                       "price":  208.97,
+                       "open":  217.63,
+                       "high":  225.51,
+                       "low":  200.53,
+                       "volume":  42313300,
+                       "avgVolume20":  10907935,
+                       "changePct":  -8.92,
+                       "historyDays":  500,
+                       "ema50":  234.9,
+                       "ema100":  220.85,
+                       "ema200":  192.59,
                        "bb":  {
-                                  "upper":  270.06,
-                                  "middle":  238.11,
-                                  "lower":  206.17
+                                  "upper":  267.88,
+                                  "middle":  235.47,
+                                  "lower":  203.07
                               },
                        "macd":  {
-                                    "macd":  -4.31,
-                                    "signal":  -4.74,
-                                    "hist":  0.44
+                                    "macd":  -5.85,
+                                    "signal":  -4.97,
+                                    "hist":  -0.89
                                 },
-                       "rsi14":  46.05,
+                       "rsi14":  37.82,
                        "high52w":  286.99,
                        "low52w":  85.68,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         186.9
-                                     ],
                                      [
                                          "2026-06-04",
                                          179.77
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          229.44
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         208.97
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          137.28,
                                           138.95,
                                           140.08,
                                           141.04,
@@ -639,101 +641,114 @@
                                           235.89,
                                           235.93,
                                           236.23,
-                                          235.96
+                                          235.96,
+                                          234.9
                                       ]
                    },
     "en":  {
-               "headline":  "CRWD slides on AI selloff, then reported Zscaler talks; trend intact but tested",
-               "technical":  "On 20 Nov 2026 CRWD closed at $229.44, down 5.76%, near the day\u0027s low of $227.30. The long-term trend is still up: the EMAs (exponential moving averages, which weight recent prices more) are stacked bullishly, with EMA50 $235.96 above EMA100 $221.09 above EMA200 $192.43. Short-term, though, price has slipped under the EMA50, so the next support is the EMA100 around $221. Momentum is mixed. MACD (12/26/9, a trend-momentum gauge) is negative at -4.31 but just above its signal line at -4.74, with a small positive histogram of +0.44. That is an early, still-fragile bullish crossover below zero. RSI 14 (a 0–100 momentum gauge; above 70 is overbought, below 30 is oversold) is 46.05, which is neutral. In the Bollinger Bands (20-day, ±2 standard deviations), price sits in the lower half, under the $238.11 midline. The bands run from $206.17 to $270.06. The stock is about 20% below its 52-week high of $286.99 and far above the $85.68 low. Volume of 12.8M was about 1.39× the 20-day average of 9.21M, so selling pressure was real. Overall posture: neutral, an uptrend under short-term pressure.",
-               "fundamental":  "CrowdStrike\u0027s most recent quarter (Q2 FY27, reported 26 Aug 2026) was strong. Ending ARR (annual recurring revenue) grew 25% year over year to $5.84B, with a record $332.8M of net new ARR. ARR from Falcon Flex accounts more than doubled (+101%) to $2.29B, which suggests customers are adopting more modules on the single agent. Full-year FY27 ending-ARR guidance was raised to $6.603–6.612B. In the AI value chain, CRWD is positioning Falcon as the security layer for AI agents and AI factories. Partners in the last 30 days include NVIDIA, CoreWeave, Dell\u0027s AI Factory, AWS Bedrock AgentCore and Anthropic\u0027s Claude Cowork. Q3 FY27 results arrive on 1 Dec 2026 after the close, against guidance of $6.184–6.188B ending ARR.",
-               "news":  [
-                            "20 Nov 2026 (after the close): Reuters and Bloomberg reported that CrowdStrike is in talks to acquire Zscaler, which was valued at about $33.5B. ZS jumped about 17% after hours and CRWD fell about 8%. Neither company has confirmed the talks, and no deal is agreed.",
-                            "20 Nov 2026 (regular session): CRWD fell 5.76% to $229.44 as an AI-related tech selloff deepened (Nasdaq -2.1% per Investing.com). The drop erased a two-day rally on 18–19 Nov.",
-                            "18–19 Nov 2026: Cybersecurity stocks rallied after Palo Alto Networks reported record Q1 FY27 revenue of $3.44B, up 39% year over year. CRWD closed at $243.46 on 19 Nov.",
-                            "17–18 Nov 2026: CEO George Kurtz sold 20,000 shares (about $4.5M) under a pre-arranged 10b5-1 trading plan. Routine, but it added to cautious sentiment.",
-                            "3 Nov 2026 (Fal.Con Europe): CrowdStrike launched an AI Kill Switch in Falcon Guardian to stop rogue AI agents. It also announced plans to acquire Fiddler (AI agent observability) and Dreadnode (automated AI security testing), and said EY committed to Falcon.",
-                            "21 Oct – 2 Nov 2026: CrowdStrike announced a Falcon Guardian integration with NVIDIA, a partnership to secure CoreWeave\u0027s AI cloud, and integrated security for the Dell AI Factory with NVIDIA."
+               "caution":  "The sharpest near-term overhang is merger-arbitrage selling and 15.9% equity dilution from issuing roughly 191 million new CRWD shares at a 34% premium for Zscaler. With closing targeted for the second half of FY28, investors face nearly two years of antitrust review headlines and integration uncertainty around blending Zscaler\u0027s cloud network proxy with Falcon\u0027s single-agent architecture. Technically, breaking below the $200.53 intraday low from November 23 risks a quick test of 200-day EMA support at $192.59, and elevated volume suggests institutional repricing may still be unfolding.",
+               "cons":  [
+                            "The $43.9 billion all-stock Zscaler purchase pays a 34% premium and dilutes existing CRWD shareholders to 84.1% ownership via roughly 191 million new shares.",
+                            "Closing is not expected until the second half of FY28, exposing shareholders to prolonged antitrust scrutiny and regulatory uncertainty.",
+                            "Merging Zscaler\u0027s cloud network architecture with Falcon\u0027s single-agent platform creates substantial multi-year technical and sales integration risk.",
+                            "Heavy institutional selling on November 23 pushed CRWD below its 50-day ($234.90) and 100-day ($220.85) moving averages on 42.31 million shares—nearly 3.9x average volume."
                         ],
-               "caution":  "The $229.44 close does not include the roughly 8% after-hours drop on 20 Nov, so the stock could open near the low $210s. That would be below the EMA100 ($221.09) and close to the lower Bollinger Band ($206.17). A Zscaler deal would likely be the largest in CRWD\u0027s history. It could mean share dilution or debt, a long integration of a very different network-proxy architecture, and less management focus right before Q3 results on 1 Dec. AI-sector valuations are also under pressure across the market.",
-               "opportunity":  "If the deal happens, Zscaler would fill CrowdStrike\u0027s biggest gap, network and zero-trust access. That would let CRWD offer endpoint, cloud, identity and network security from one vendor and compete head-on with Palo Alto Networks, while customers are actively cutting the number of security vendors they use. The underlying business is strong: ARR is growing 25% and Falcon Flex ARR is doubling. The bullish EMA stack and the fresh MACD crossover show the longer uptrend has not broken yet.",
+               "fundamental":  "CrowdStrike anchors the cybersecurity layer of the AI value chain, using telemetry across endpoints, cloud workloads, and identities to train detection models and govern autonomous AI agents. Standalone Q3 FY27 results (ended October 31, 2026) were exceptional: revenue grew 28% year-over-year to $1.58 billion, non-GAAP EPS reached $0.34, ending ARR rose 27% to $6.26 billion, and free cash flow hit a record $474 million (30% margin). Consolidation engine Falcon Flex surpassed $2.79 billion ARR across 4,000+ accounts, while Falcon Guardian crossed $100 million ARR. Standalone FY27 guidance rose to $6.078–$6.084 billion revenue and $1.28 EPS. The $43.9 billion Zscaler deal would unify endpoint and Zero Trust network security past $10 billion combined ARR, though dilution and execution complexity temper near-term visibility.",
+               "headline":  "Record Q3 beat overshadowed by $43.9B all-stock Zscaler megadeal sell-off",
+               "news":  [
+                            "2026-11-23 — $43.9B Zscaler Acquisition: CrowdStrike signed a definitive all-stock agreement to acquire Zscaler at 1.135 CRWD shares per ZS share (a 34% premium), giving CRWD holders 84.1% of a combined $10 billion+ ARR platform. Expected to close in 2H FY28 pending antitrust and shareholder approvals, the deal triggered CRWD\u0027s 8.92% sell-off.",
+                            "2026-11-23 — Record Q3 FY27 Earnings \u0026 Raised Guidance: Q3 revenue rose 28% year-over-year to $1.58 billion with $0.34 non-GAAP EPS, record $419 million net new ARR (+58% YoY), and $474 million free cash flow. Management lifted standalone FY27 revenue guidance to $6.078–$6.084 billion and Q4 FY27 revenue to $1.638–$1.644 billion.",
+                            "2026-11-03 — AI Kill Switch Launch: At Fal.Con Europe in Barcelona, CrowdStrike unveiled the AI Kill Switch inside Falcon Guardian to let security teams immediately terminate rogue AI agents and block relaunches. Falcon Guardian surpassed $100 million ARR shortly after Q3 closed.",
+                            "2026-11-03 — AWS Native AI Security Expansion: CrowdStrike integrated Falcon Guardian with Amazon Bedrock AgentCore Guardrails to block prompt injection and sensitive data leaks in real time, alongside a new Falcon sensor for Amazon ECS Managed Instances.",
+                            "2026-11-02 to 2026-11-23 — Analyst Rating Activity: Deutsche Bank upgraded CRWD from Hold to Buy on November 2, raising its target from $240 to $300, followed by higher targets from Rosenblatt and Cantor Fitzgerald. On November 23, Barclays ($265) and JPMorgan ($240) raised targets while keeping Overweight ratings despite deal-driven share pressure."
+                        ],
+               "opportunity":  "For long-term AI-infrastructure holders, the sell-off disconnects CRWD\u0027s share price from accelerating core fundamentals: net new ARR surged 58% year-over-year, Falcon Flex exceeded $2.79 billion ARR, and Falcon Guardian\u0027s rapid climb past $100 million ARR shows enterprises are already paying to secure autonomous AI agents. If regulators approve the Zscaler transaction and leadership under George Kurtz and Jay Chaudhry executes smoothly, CrowdStrike could emerge as the preeminent $10 billion+ ARR security consolidator spanning endpoints, cloud workloads, identities, and Zero Trust networks.",
+               "opportunityCheck":  "Most of the page\u0027s AI-opportunity sub-scores fit well, but direct AI revenue exposure looks understated and deserves an upward revision. Falcon Guardian, which protects enterprise AI agents, more than doubled sequentially to cross $100 million ARR right after Q3 FY27, reinforced by November 3 launches of the AI Kill Switch and Amazon Bedrock guardrails. Optionality also merits a slight move higher given Zscaler\u0027s Zero Trust network layer for AI traffic, though closing takes until 2H FY28. Meanwhile, strong market growth and position alongside modest bottleneck power remain accurate given fierce platform competition.",
+               "pros":  [
+                            "Q3 FY27 revenue jumped 28% year-over-year to $1.58 billion with record net new ARR of $419 million (+58%) and $474 million in free cash flow.",
+                            "Management raised standalone FY27 revenue guidance to $6.078–$6.084 billion and lifted full-year net new ARR growth outlook by 1,060 basis points to 45%.",
+                            "AI-agent security product Falcon Guardian crossed $100 million ARR post-quarter, backed by November 3 launches of the AI Kill Switch and AWS Bedrock guardrails.",
+                            "Combining Falcon with Zscaler\u0027s Zero Trust network security creates a $10 billion+ ARR platform expanding CrowdStrike\u0027s addressable market by over $185 billion."
+                        ],
                "risks":  [
-                             "Deal risk: a large premium for Zscaler could dilute shareholders or add leverage, and the talks may also collapse.",
-                             "Integration risk: merging two different architectures could dilute the single-agent simplicity at the core of the moat.",
-                             "Earnings risk: Q3 FY27 results on 1 Dec 2026 could disappoint on net new ARR or margins.",
-                             "Macro risk: the AI-sector selloff and high software valuations could compress multiples further.",
-                             "Technical risk: a break below the EMA100 near $221 and the lower Bollinger Band near $206 would weaken the medium-term trend."
+                             "Antitrust scrutiny over the record $43.9 billion Zscaler merger could delay closing beyond 2H FY28, require remedies, or block the transaction.",
+                             "All-stock financing dilutes existing CRWD shareholders to 84.1% and may weigh on valuation multiples while merger arbitrage continues.",
+                             "Integrating Zscaler\u0027s Zero Trust Exchange with Falcon\u0027s single-agent platform risks engineering distraction and customer friction against rivals like Palo Alto Networks and Microsoft.",
+                             "A technical break below the 200-day EMA ($192.59) would weaken the longer-term uptrend if broader software multiples compress."
                          ],
-               "summary":  "CRWD fell 5.76% to $229.44 on 20 Nov 2026, mainly because of the AI-sector selloff and profit-taking after a rally sparked by Palo Alto Networks\u0027 results. After the close, reports of talks to buy Zscaler added another 8% drop after hours. The technicals are neutral: the long-term EMAs are still bullishly stacked, but price is below the EMA50 and volume confirmed the selling. The business looks healthy, with ARR up 25%. The moat thesis moves to \u0027watch\u0027 because a Zscaler deal would test the single-platform story. The next key event is Q3 results on 1 Dec."
+               "summary":  "On November 23, 2026, CrowdStrike (CRWD) plunged 8.92% to $208.97 on nearly 3.9x normal volume after announcing a $43.9 billion all-stock deal to acquire Zscaler. Equity dilution—leaving CRWD holders with 84.1% of the combined firm—plus antitrust and integration risks overshadowed a blowout Q3 FY27 report. Revenue rose 28% year-over-year to $1.58 billion, net new ARR hit a record $419 million (+58%), and AI-agent security product Falcon Guardian crossed $100 million ARR. Standalone execution looks exceptional, but the megamerger shifts the long-term moat thesis to watch.",
+               "technical":  "CRWD\u0027s technical posture turned bearish on November 23, 2026, following an 8.92% slide to $208.97. Although the exponential moving averages (EMA — trend lines weighting recent prices more heavily) remain bullishly ordered—EMA 50 at $234.90 above EMA 100 at $220.85 and EMA 200 at $192.59—price sliced decisively below both the 50-day and 100-day EMAs. Those lines now form overhead resistance, leaving the 200-day EMA near $192.59 as major long-term support. Momentum confirms the breakdown: MACD (a trend-momentum gauge) sits at -5.85 below its -4.97 signal line with a negative -0.89 histogram, while RSI 14 (a 0–100 momentum gauge where under 30 is oversold) dropped to a weak 37.82. Price briefly pierced the lower Bollinger Band (a 20-day volatility envelope from $203.07 to $267.88) at its $200.53 intraday low before closing just inside, standing 27% below its $286.99 52-week high ($85.68 low). Volume spiked to 42.31 million shares—3.88x the 20-day average of 10.91 million—confirming intense institutional selling."
            },
     "th":  {
-               "headline":  "CRWD ร่วงตามแรงเทขายหุ้น AI และข่าวเจรจาซื้อ Zscaler แนวโน้มหลักยังไม่เสีย",
-               "technical":  "วันที่ 20 พ.ย. 2026 CRWD ปิดที่ $229.44 ลดลง 5.76% ใกล้จุดต่ำสุดของวันที่ $227.30 แนวโน้มระยะยาวยังเป็นขาขึ้น เพราะเส้น EMA (ค่าเฉลี่ยเคลื่อนที่ที่ให้น้ำหนักราคาล่าสุดมากกว่า) ยังเรียงตัวแบบขาขึ้น คือ EMA50 $235.96 \u003e EMA100 $221.09 \u003e EMA200 $192.43 แต่ระยะสั้นราคาหลุดลงมาใต้ EMA50 แล้ว แนวรับถัดไปจึงอยู่ที่ EMA100 แถว $221 โมเมนตัมยังก้ำกึ่ง MACD (12/26/9 ใช้วัดแรงส่งของแนวโน้ม) ติดลบที่ -4.31 แต่เพิ่งยืนเหนือเส้นสัญญาณ -4.74 และฮิสโตแกรมเป็นบวก +0.44 ถือเป็นการตัดขึ้นใต้ศูนย์ที่ยังเปราะบาง RSI 14 (มาตรวัดโมเมนตัม 0–100 เกิน 70 คือซื้อมากเกินไป ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 46.05 ซึ่งเป็นโซนกลาง ราคาอยู่ครึ่งล่างของ Bollinger Bands (20 วัน ±2 ส่วนเบี่ยงเบนมาตรฐาน) ใต้เส้นกลาง $238.11 โดยกรอบล่างอยู่ที่ $206.17 และกรอบบนที่ $270.06 ราคาต่ำกว่าจุดสูงสุด 52 สัปดาห์ ($286.99) ราว 20% และยังห่างจากจุดต่ำสุด $85.68 มาก วอลุ่ม 12.8 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (9.21 ล้าน) ราว 1.39 เท่า ยืนยันว่าแรงขายมีน้ำหนักจริง ภาพรวมจึงเป็นกลาง คือขาขึ้นที่กำลังถูกทดสอบระยะสั้น",
-               "fundamental":  "ไตรมาสล่าสุด (Q2 FY27 ประกาศ 26 ส.ค. 2026) แข็งแกร่ง ARR (รายได้ประจำต่อปี) ณ สิ้นงวดโต 25% เทียบปีก่อน เป็น $5.84B และ net new ARR ทำสถิติสูงสุดที่ $332.8M ส่วน ARR จากลูกค้า Falcon Flex โตกว่าเท่าตัว (+101%) เป็น $2.29B สะท้อนว่าลูกค้าใช้โมดูลบน agent ตัวเดียวมากขึ้น บริษัทยังปรับเป้า ARR สิ้นปี FY27 ขึ้นเป็น $6.603–6.612B ในห่วงโซ่คุณค่า AI บริษัทกำลังวาง Falcon เป็นชั้นความปลอดภัยของ AI agent และ AI factory ช่วง 30 วันที่ผ่านมาประกาศจับมือกับ NVIDIA, CoreWeave, Dell AI Factory, AWS Bedrock AgentCore และ Claude Cowork ของ Anthropic งบ Q3 FY27 จะออกหลังตลาดปิดวันที่ 1 ธ.ค. 2026 โดยเป้า ARR สิ้นงวดอยู่ที่ $6.184–6.188B",
-               "news":  [
-                            "20 พ.ย. 2026 (หลังตลาดปิด): Reuters และ Bloomberg รายงานว่า CrowdStrike กำลังเจรจาซื้อ Zscaler ซึ่งมีมูลค่าตลาดราว $33.5B ทำให้ ZS พุ่งราว 17% และ CRWD ลงราว 8% ในการซื้อขายหลังปิดตลาด ทั้งสองบริษัทยังไม่ยืนยัน และยังไม่มีข้อตกลงใด",
-                            "20 พ.ย. 2026 (ช่วงตลาดปกติ): CRWD ลง 5.76% มาปิดที่ $229.44 ตามแรงเทขายหุ้นเทคฯ กลุ่ม AI (Nasdaq -2.1% ตาม Investing.com) ลบกำไรจากการขึ้นสองวันช่วง 18–19 พ.ย.",
-                            "18–19 พ.ย. 2026: หุ้นไซเบอร์ซีเคียวริตีขึ้นยกกลุ่มหลัง Palo Alto Networks รายงานรายได้ Q1 FY27 สูงเป็นประวัติการณ์ที่ $3.44B โต 39% CRWD ปิดวันที่ 19 พ.ย. ที่ $243.46",
-                            "17–18 พ.ย. 2026: CEO George Kurtz ขายหุ้น 20,000 หุ้น (ราว $4.5M) ตามแผนซื้อขายล่วงหน้า 10b5-1 เป็นเรื่องปกติ แต่ก็ทำให้บรรยากาศการลงทุนระมัดระวังขึ้น",
-                            "3 พ.ย. 2026 (งาน Fal.Con Europe): เปิดตัว AI Kill Switch ใน Falcon Guardian เพื่อหยุด AI agent ที่ทำงานนอกการควบคุม ประกาศแผนซื้อ Fiddler (ระบบติดตามการทำงานของ AI agent) และ Dreadnode (ทดสอบความปลอดภัย AI อัตโนมัติ) และ EY ประกาศเลือกใช้ Falcon",
-                            "21 ต.ค. – 2 พ.ย. 2026: ประกาศเชื่อม Falcon Guardian กับ NVIDIA จับมือดูแลความปลอดภัยให้ AI cloud ของ CoreWeave และร่วมกับ Dell ทำระบบความปลอดภัยสำหรับ Dell AI Factory with NVIDIA"
+               "caution":  "แรงกดดันระยะสั้นหลักมาจากแรงขายทำกำไรส่วนต่างดีล (merger arbitrage) และ dilution 15.9% จากการออกหุ้น CRWD ใหม่ราว 191 ล้านหุ้นเพื่อซื้อ Zscaler ที่พรีเมียม 34% เนื่องจากดีลคาดว่าจะปิดในครึ่งหลังของปีงบฯ FY28 นักลงทุนจึงต้องเผชิญข่าวการตรวจสอบผูกขาดและความไม่แน่นอนในการรวมระบบเครือข่ายคลาวด์ของ Zscaler เข้ากับโครงสร้าง single-agent ของ Falcon ไปอีกเกือบ 2 ปี ด้านกราฟ หากราคาหลุดจุดต่ำสุดระหว่างวันที่ $200.53 อาจไหลลงทดสอบแนวรับ EMA 200 ที่ $192.59 โดยวอลุ่มที่พุ่งสูงชี้ว่าแรงปรับพอร์ตของสถาบันอาจยังไม่จบง่ายๆ",
+               "cons":  [
+                            "ดีลซื้อ Zscaler มูลค่า $43.9 พันล้านจ่ายเป็นหุ้นล้วนที่พรีเมียม 34% ทำให้นักลงทุน CRWD เดิมถูก dilute สัดส่วนเหลือ 84.1% จากการออกหุ้นใหม่ราว 191 ล้านหุ้น",
+                            "ดีลคาดว่าจะปิดในครึ่งหลังของปีงบฯ FY28 ทำให้หุ้นต้องเผชิญความเสี่ยงด้านกฎหมายต่อต้านการผูกขาดและการอนุมัติจากหน่วยงานกำกับดูแลอย่างยาวนาน",
+                            "การผสานโครงสร้างเครือข่ายคลาวด์ของ Zscaler เข้ากับแพลตฟอร์ม single-agent ของ Falcon สร้างความเสี่ยงสูงทั้งด้านวิศวกรรมและการขายในช่วงหลายปีข้างหน้า",
+                            "แรงขายสถาบันเมื่อ 23 พ.ย. กดราคา CRWD หลุดทั้งเส้นค่าเฉลี่ย 50 วัน ($234.90) และ 100 วัน ($220.85) ด้วยวอลุ่มสูงถึง 42.31 ล้านหุ้น หรือเกือบ 3.9 เท่าของค่าเฉลี่ย"
                         ],
-               "caution":  "ราคาปิด $229.44 ยังไม่รวมการร่วงราว 8% หลังตลาดปิดวันที่ 20 พ.ย. จึงอาจเปิดตลาดรอบถัดไปแถว $210 ต้นๆ ซึ่งต่ำกว่า EMA100 ($221.09) และใกล้กรอบล่าง Bollinger ($206.17) ถ้าดีลกับ Zscaler เกิดขึ้นจริง น่าจะเป็นดีลใหญ่ที่สุดในประวัติของ CRWD อาจต้องออกหุ้นเพิ่มหรือกู้เงิน ต้องใช้เวลานานในการรวมระบบ network proxy ที่ออกแบบต่างกันมาก และอาจดึงความสนใจผู้บริหารไปในช่วงก่อนงบ Q3 วันที่ 1 ธ.ค. นอกจากนี้ มูลค่าหุ้นกลุ่ม AI ทั้งตลาดยังถูกกดดันอยู่",
-               "opportunity":  "ถ้าดีลเกิดขึ้น Zscaler จะอุดจุดอ่อนใหญ่ที่สุดของ CrowdStrike คือความปลอดภัยด้านเครือข่ายและ zero-trust access ทำให้ CRWD ขายครบทั้ง endpoint, cloud, identity และ network จากผู้ขายรายเดียว และแข่งกับ Palo Alto Networks ได้ตรงๆ ในช่วงที่ลูกค้าองค์กรกำลังลดจำนวนผู้ขายด้านความปลอดภัย พื้นฐานธุรกิจก็ยังแข็งแรง ARR โต 25% และ ARR ของ Falcon Flex โตเท่าตัว ส่วนทางเทคนิค EMA ที่เรียงตัวขาขึ้นและ MACD ที่เพิ่งตัดขึ้นบอกว่าแนวโน้มใหญ่ยังไม่พัง",
+               "fundamental":  "CrowdStrike คือเสาหลักด้านไซเบอร์ซิเคียวริตี้ของห่วงโซ่มูลค่า AI โดยใช้ข้อมูลภัยคุกคามมหาศาลจากอุปกรณ์ คลาวด์ และตัวตนผู้ใช้มาฝึกโมเดลตรวจจับ และขยายสู่การกำกับดูแล AI agent อัตโนมัติ งบเดี่ยว Q3 FY27 (สิ้นสุด 31 ต.ค. 2026) แข็งแกร่งเป็นประวัติการณ์ รายได้โต 28% YoY สู่ $1.58 พันล้าน กำไรต่อหุ้น Non-GAAP อยู่ที่ $0.34 ยอด ARR สิ้นไตรมาสโต 27% เป็น $6.26 พันล้าน และกระแสเงินสดอิสระทำสถิติสูงสุด $474 ล้าน (อัตรากำไร 30%) แพลตฟอร์ม Falcon Flex ทำ ARR ทะลุ $2.79 พันล้านจากลูกค้ากว่า 4,000 ราย ขณะที่ Falcon Guardian แตะระดับ $100 ล้าน ARR ผู้บริหารปรับเพิ่มเป้าทั้งปี FY27 เป็นรายได้ $6.078–$6.084 พันล้าน และ EPS $1.28 ส่วนดีล Zscaler $43.9 พันล้านจะช่วยรวมการป้องกันปลายทางกับเครือข่าย Zero Trust สู่ ARR รวมทะลุ $10 พันล้าน แต่ความซับซ้อนและ dilution ยังเป็นตัวแปรสำคัญระยะกลาง",
+               "headline":  "งบ Q3 ทำสถิติสูงสุด แต่ดีลซื้อ Zscaler $43.9B ด้วยหุ้นฉุดราคาดิ่งแรง",
+               "news":  [
+                            "2026-11-23 — ดีลเข้าซื้อ Zscaler มูลค่า $43.9 พันล้าน: CrowdStrike ลงนามซื้อกิจการ Zscaler ด้วยหุ้นล้วนในอัตรา 1.135 หุ้น CRWD ต่อ 1 หุ้น ZS (พรีเมียม 34%) ทำให้ผู้ถือหุ้น CRWD เดิมถือครอง 84.1% ของบริษัทรวมที่มี ARR กว่า $10 พันล้าน โดยคาดว่าดีลจะปิดในครึ่งหลังของปีงบฯ FY28 ซึ่งสร้างแรงขายจนหุ้น CRWD ร่วง 8.92%",
+                            "2026-11-23 — งบ Q3 FY27 ทำสถิติสูงสุดพร้อมปรับเพิ่มคาดการณ์: รายได้ไตรมาส 3 โต 28% YoY เป็น $1.58 พันล้าน กำไร Non-GAAP $0.34 ต่อหุ้น ยอด net new ARR ทำนิวไฮ $419 ล้าน (+58% YoY) และกระแสเงินสดอิสระ $474 ล้าน ผู้บริหารปรับเพิ่มเป้ารายได้ทั้งปี FY27 เป็น $6.078–$6.084 พันล้าน และ Q4 FY27 ที่ $1.638–$1.644 พันล้าน",
+                            "2026-11-03 — เปิดตัว AI Kill Switch: ที่งาน Fal.Con Europe เมืองบาร์เซโลนา CrowdStrike เปิดตัวฟีเจอร์ AI Kill Switch ใน Falcon Guardian เพื่อให้ทีมความปลอดภัยสั่งหยุด AI agent ที่ทำงานผิดปกติได้ทันทีและป้องกันการรันซ้ำ โดยหลังจบ Q3 ยอด ARR ของ Falcon Guardian ทะลุ $100 ล้านแล้ว",
+                            "2026-11-03 — ขยายความปลอดภัย AI บน AWS: CrowdStrike เชื่อมต่อ Falcon Guardian เข้ากับ Amazon Bedrock AgentCore Guardrails เพื่อสกัดการโจมตีแบบ prompt injection และการรั่วไหลของข้อมูลแบบเรียลไทม์ พร้อมเปิดตัว Falcon sensor สำหรับ Amazon ECS Managed Instances",
+                            "2026-11-02 ถึง 2026-11-23 — ความเคลื่อนไหวนักวิเคราะห์วอลล์สตรีท: Deutsche Bank ปรับคำแนะนำ CRWD จาก Hold เป็น Buy เมื่อ 2 พ.ย. พร้อมเพิ่มเป้าจาก $240 เป็น $300 ตามด้วยการปรับเพิ่มเป้าของ Rosenblatt และ Cantor Fitzgerald และเมื่อ 23 พ.ย. Barclays ($265) กับ JPMorgan ($240) ยังคงมุมมอง Overweight และขยับเป้าขึ้นแม้หุ้นถูกเทขายจากข่าวดีล"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI การปรับฐานรอบนี้ทำให้ราคาหุ้นสวนทางกับพื้นฐานธุรกิจหลักที่กำลังเร่งตัว ยอด net new ARR โตถึง 58% YoY แพลตฟอร์ม Falcon Flex ทะลุ $2.79 พันล้าน ARR และ Falcon Guardian ที่วิ่งทะลุ $100 ล้าน ARR อย่างรวดเร็วพิสูจน์ว่าองค์กรพร้อมจ่ายจริงเพื่อปกป้อง AI agent หากหน่วยงานกำกับอนุมัติดีล Zscaler และทีมนำอย่าง George Kurtz กับ Jay Chaudhry ผสานธุรกิจได้ลงตัว CrowdStrike มีศักยภาพขึ้นเป็นผู้นำแพลตฟอร์มความปลอดภัยระดับ ARR กว่า $10 พันล้านที่ครอบคลุมทั้งอุปกรณ์ คลาวด์ ตัวตน และเครือข่าย Zero Trust",
+               "opportunityCheck":  "คะแนนย่อยด้านโอกาสจาก AI บนหน้าเว็บส่วนใหญ่เหมาะสมแล้ว ยกเว้นสัดส่วนรายได้จาก AI โดยตรงที่ดูต่ำเกินไปและควรปรับขึ้น เนื่องจาก Falcon Guardian ซึ่งเป็นผลิตภัณฑ์ปกป้อง AI agent ขององค์กรเติบโตมากกว่าเท่าตัวจากไตรมาสก่อนจนทะลุ $100 ล้าน ARR หลังจบ Q3 FY27 เสริมด้วยการเปิดตัว AI Kill Switch และระบบป้องกันบน Amazon Bedrock เมื่อ 3 พ.ย. ส่วนด้านทางเลือกการเติบโต (optionality) อาจขยับขึ้นเล็กน้อยจากชั้นเครือข่าย Zero Trust ของ Zscaler สำหรับรับส่งข้อมูล AI แม้ต้องรอปิดดีลถึงครึ่งหลังปีงบฯ FY28 ขณะที่การเติบโตของตลาด ตำแหน่งผู้นำ และอำนาจคอขวดที่จำกัดยังสะท้อนการแข่งขันที่รุนแรงได้ถูกต้อง",
+               "pros":  [
+                            "รายได้ Q3 FY27 พุ่ง 28% YoY สู่ $1.58 พันล้าน พร้อมยอด net new ARR สูงสุดเป็นประวัติการณ์ $419 ล้าน (+58%) และกระแสเงินสดอิสระ $474 ล้าน",
+                            "ผู้บริหารปรับเพิ่มเป้ารายได้เดี่ยวปีงบฯ FY27 เป็น $6.078–$6.084 พันล้าน และยกเป้าการเติบโตของ net new ARR ทั้งปีขึ้น 1,060 bps สู่ระดับ 45%",
+                            "ผลิตภัณฑ์ปกป้อง AI agent อย่าง Falcon Guardian ทะลุ $100 ล้าน ARR หลังจบไตรมาส หนุนด้วยการเปิดตัว AI Kill Switch และระบบป้องกันบน AWS Bedrock เมื่อ 3 พ.ย.",
+                            "การผสาน Falcon กับเครือข่าย Zero Trust ของ Zscaler จะสร้างแพลตฟอร์มที่มี ARR รวมเกิน $10 พันล้าน และขยายตลาดเป้าหมายเพิ่มอีกกว่า $185 พันล้าน"
+                        ],
                "risks":  [
-                             "ความเสี่ยงจากดีล: หากต้องจ่ายพรีเมียมสูงเพื่อซื้อ Zscaler อาจทำให้ผู้ถือหุ้นเดิมถูกลดสัดส่วน (dilution) หรือหนี้สินเพิ่มขึ้น และการเจรจาก็อาจล้มได้",
-                             "ความเสี่ยงด้านการรวมกิจการ: การรวมสองสถาปัตยกรรมที่ต่างกันอาจลดความเรียบง่ายของแพลตฟอร์ม agent ตัวเดียว ซึ่งเป็นหัวใจของ moat",
-                             "ความเสี่ยงจากงบ: ผล Q3 FY27 วันที่ 1 ธ.ค. 2026 อาจผิดคาดทั้งด้าน net new ARR หรือมาร์จิน",
-                             "ความเสี่ยงมหภาค: แรงเทขายหุ้นกลุ่ม AI และมูลค่าหุ้นซอฟต์แวร์ที่สูงอาจทำให้ valuation ถูกบีบลงอีก",
-                             "ความเสี่ยงทางเทคนิค: หากหลุด EMA100 แถว $221 และกรอบล่าง Bollinger แถว $206 แนวโน้มระยะกลางจะอ่อนลง"
+                             "การตรวจสอบด้านการผูกขาดของดีล Zscaler มูลค่า $43.9 พันล้านอาจทำให้การปิดดีลล่าช้ากว่าครึ่งหลังปีงบฯ FY28 ถูกกำหนดเงื่อนไขเพิ่มเติม หรือไม่ผ่านการอนุมัติ",
+                             "การจ่ายด้วยหุ้นล้วนทำให้เกิด dilution เหลือสัดส่วน 84.1% และอาจกดดันระดับการประเมินมูลค่าหุ้นตราบใดที่แรงขาย arbitrage ยังดำเนินต่อ",
+                             "การรวม Zscaler Zero Trust Exchange เข้ากับแพลตฟอร์ม single-agent ของ Falcon เสี่ยงสร้างภาระด้านวิศวกรรมและเปิดช่องให้คู่แข่งอย่าง Palo Alto Networks และ Microsoft ชิงลูกค้า",
+                             "หากราคาหุ้นทางเทคนิคหลุดแนวรับเส้น EMA 200 ($192.59) แนวโน้มขาขึ้นระยะยาวจะเสียทรง โดยเฉพาะหากมูลค่าหุ้นกลุ่มซอฟต์แวร์โดยรวมถูกปรับลดลง"
                          ],
-               "summary":  "CRWD ร่วง 5.76% มาปิดที่ $229.44 วันที่ 20 พ.ย. 2026 สาเหตุหลักคือแรงเทขายหุ้นกลุ่ม AI และการขายทำกำไรหลังหุ้นขึ้นรับงบของ Palo Alto Networks หลังตลาดปิดยังมีข่าวเจรจาซื้อ Zscaler กดราคาหลังปิดตลาดลงอีกราว 8% ภาพเทคนิคเป็นกลาง EMA ระยะยาวยังเรียงตัวขาขึ้น แต่ราคาหลุด EMA50 และวอลุ่มยืนยันแรงขาย พื้นฐานยังดี ARR โต 25% แต่ moat thesis ปรับเป็น \u0027watch\u0027 เพราะดีล Zscaler จะเป็นบททดสอบเรื่องแพลตฟอร์มเดียว จุดสำคัญถัดไปคืองบ Q3 วันที่ 1 ธ.ค."
+               "summary":  "เมื่อวันที่ 23 พ.ย. 2026 หุ้น CrowdStrike (CRWD) ร่วงหนัก 8.92% ปิดที่ $208.97 ด้วยปริมาณซื้อขายเกือบ 3.9 เท่าของค่าเฉลี่ย หลังประกาศดีลซื้อ Zscaler มูลค่า $43.9 พันล้านด้วยหุ้นล้วน ความกังวลเรื่อง dilution ที่ทำให้ผู้ถือหุ้น CRWD เดิมเหลือสัดส่วน 84.1% รวมถึงความเสี่ยงด้านกฎหมายผูกขาดและการรวมระบบ ได้กลบข่าวงบ Q3 FY27 ที่ออกมาดีเกินคาด โดยรายได้โต 28% YoY เป็น $1.58 พันล้าน ยอด net new ARR ทำสถิติ $419 ล้าน (+58%) และ Falcon Guardian แตะ $100 ล้าน ARR ธุรกิจหลักยังแกร่งมาก แต่ดีลใหญ่นี้ทำให้ต้องปรับสถานะคูเมืองระยะยาวเป็นจับตาดู",
+               "technical":  "ภาพทางเทคนิคของ CRWD พลิกเป็นขาลง (bearish) เมื่อวันที่ 23 พ.ย. 2026 หลังราคาดิ่ง 8.92% มาปิดที่ $208.97 แม้การเรียงตัวของเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — เส้นแนวโน้มที่ให้น้ำหนักราคาล่าสุดมากกว่า) จะยังเรียงตัวแบบขาขึ้นโดย EMA 50 ($234.90) อยู่เหนือ EMA 100 ($220.85) และ EMA 200 ($192.59) แต่ราคาหลุดต่ำกว่าทั้ง EMA 50 และ EMA 100 ลงมาอย่างชัดเจน ทำให้สองระดับนี้กลายเป็นแนวต้านด้านบน และเหลือ EMA 200 แถว $192.59 เป็นแนวรับหลักระยะยาว ด้านโมเมนตัมยืนยันแรงขายชัดเจน โดย MACD (ตัวชี้วัดแนวโน้มและแรงส่ง) อยู่ที่ -5.85 ต่ำกว่าเส้น signal ที่ -4.97 พร้อม histogram ติดลบ -0.89 ขณะที่ RSI 14 (มาตรวัดโมเมนตัม 0–100 โดยต่ำกว่า 30 คือเขตขายมากเกินไป) อ่อนตัวลงมาที่ 37.82 ระหว่างวันราคาหลุดกรอบล่างของ Bollinger Bands (แถบความผันผวนรอบค่าเฉลี่ย 20 วัน ช่วง $203.07–$267.88) ลงไปแตะ $200.53 ก่อนดีดกลับเข้ามาปิดในกรอบ โดยยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($286.99) อยู่ 27% (จุดต่ำสุด $85.68) และปริมาณซื้อขายพุ่งถึง 42.31 ล้านหุ้น หรือ 3.88 เท่าของค่าเฉลี่ย 20 วันที่ 10.91 ล้านหุ้น ยืนยันแรงขายของสถาบันอย่างหนัก"
            },
     "sources":  [
                     {
-                        "title":  "CrowdStrike in talks to acquire Zscaler, sources say (Reuters)",
-                        "publisher":  "Investing.com / Reuters",
-                        "url":  "https://www.investing.com/news/stock-market-news/crowdstrike-in-talks-to-acquire-zscaler-sources-say-5042720",
-                        "date":  "2026-11-20"
-                    },
-                    {
-                        "title":  "CrowdStrike in Talks to Acquire Zscaler in Potential Cybersecurity Mega-Deal",
-                        "publisher":  "Bloomberg",
-                        "url":  "https://www.bloomberg.com/news/articles/2026-11-20/crowdstrike-is-in-talks-to-buy-cybersecurity-firm-zscaler",
-                        "date":  "2026-11-20"
-                    },
-                    {
-                        "title":  "Why is CrowdStrike stock sliding today?",
-                        "publisher":  "Investing.com",
-                        "url":  "https://www.investing.com/news/stock-market-news/why-is-crowdstrike-stock-sliding-today-93CH-5042186",
-                        "date":  "2026-11-20"
-                    },
-                    {
-                        "title":  "Why CrowdStrike Holdings Stock Flew While the Market Flopped Today",
-                        "publisher":  "The Motley Fool",
-                        "url":  "https://www.fool.com/investing/2026/11/19/why-crowdstrike-holdings-stock-flew-while-the-market-flopped-today/",
-                        "date":  "2026-11-19"
-                    },
-                    {
-                        "title":  "CrowdStrike Delivers AI Security and Safety for the Enterprise",
-                        "publisher":  "CrowdStrike",
-                        "url":  "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-delivers-ai-security-safety-for-the-enterprise/",
-                        "date":  "2026-11-03"
-                    },
-                    {
-                        "title":  "CrowdStrike Pressroom",
-                        "publisher":  "CrowdStrike",
-                        "url":  "https://www.crowdstrike.com/en-us/press-releases/"
-                    },
-                    {
-                        "title":  "CrowdStrike Reports Second Quarter Fiscal Year 2027 Financial Results",
+                        "date":  "2026-11-23",
                         "publisher":  "CrowdStrike Investor Relations",
-                        "url":  "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-second-quarter-fiscal-year-2027-financial",
-                        "date":  "2026-08-26"
+                        "title":  "CrowdStrike Reports Third Quarter Fiscal Year 2027 Financial Results",
+                        "url":  "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-third-quarter-fiscal-year-2027-financial-results"
                     },
                     {
-                        "title":  "CrowdStrike Announces Date of Fiscal Third Quarter 2027 Financial Results Conference Call",
-                        "publisher":  "CrowdStrike Investor Relations",
-                        "url":  "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-announces-date-fiscal-third-quarter-2027-financial"
+                        "date":  "2026-11-23",
+                        "publisher":  "SecurityWeek",
+                        "title":  "CrowdStrike to Acquire Zscaler in $43.9 Billion Deal",
+                        "url":  "https://www.securityweek.com/crowdstrike-to-acquire-zscaler-in-43-9-billion-deal/"
+                    },
+                    {
+                        "date":  "2026-11-23",
+                        "publisher":  "SiliconANGLE",
+                        "title":  "CrowdStrike to buy Zscaler in record-setting $43.9B cybersecurity deal",
+                        "url":  "https://siliconangle.com/2026/11/23/crowdstrike-to-buy-zscaler-in-record-setting-43-9b-cybersecurity-deal/"
+                    },
+                    {
+                        "date":  "2026-11-23",
+                        "publisher":  "Help Net Security",
+                        "title":  "CrowdStrike to acquire Zscaler for $43.9 billion",
+                        "url":  "https://www.helpnetsecurity.com/2026/11/23/crowdstrike-acquire-zscaler/"
+                    },
+                    {
+                        "date":  "2026-11-03",
+                        "publisher":  "CrowdStrike",
+                        "title":  "CrowdStrike Introduces the AI Kill Switch for AI Safety",
+                        "url":  "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-introduces-the-ai-kill-switch-for-ai-safety/"
+                    },
+                    {
+                        "date":  "2026-11-03",
+                        "publisher":  "CrowdStrike",
+                        "title":  "CrowdStrike Announces New Native AI Security Innovations on AWS",
+                        "url":  "https://www.crowdstrike.com/en-us/press-releases/crowdstrike-announces-new-native-ai-security-innovations-on-aws/"
                     }
                 ]
 }

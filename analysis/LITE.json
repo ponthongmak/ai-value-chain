@@ -2,47 +2,45 @@
     "ticker":  "LITE",
     "name":  "Lumentum",
     "symbol":  "NASDAQ:LITE",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-22T15:48:35Z",
-    "costUsd":  0.8423880999999999,
+    "generatedAt":  "2026-11-24T04:44:45Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NASDAQ:LITE",
                        "yahoo":  "LITE",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-22T15:45:28Z",
-                       "price":  460.54,
-                       "open":  515.91,
-                       "high":  515.91,
-                       "low":  456.09,
-                       "volume":  5755200,
-                       "avgVolume20":  6411290,
-                       "changePct":  -13.94,
-                       "historyDays":  501,
-                       "ema50":  755.25,
-                       "ema100":  796.37,
-                       "ema200":  739.6,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:40:05Z",
+                       "price":  544.38,
+                       "open":  563.31,
+                       "high":  574.66,
+                       "low":  533.09,
+                       "volume":  6047800,
+                       "avgVolume20":  6412425,
+                       "changePct":  18.2,
+                       "historyDays":  500,
+                       "ema50":  746.98,
+                       "ema100":  791.38,
+                       "ema200":  737.62,
                        "bb":  {
-                                  "upper":  929.4,
-                                  "middle":  655.09,
-                                  "lower":  380.78
+                                  "upper":  909.05,
+                                  "middle":  641.41,
+                                  "lower":  373.76
                               },
                        "macd":  {
-                                    "macd":  -92.53,
-                                    "signal":  -85.66,
-                                    "hist":  -6.88
+                                    "macd":  -88.59,
+                                    "signal":  -86.24,
+                                    "hist":  -2.35
                                 },
-                       "rsi14":  30.07,
+                       "rsi14":  39.37,
                        "high52w":  1143,
-                       "low52w":  229.59,
+                       "low52w":  233.72,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         938
-                                     ],
                                      [
                                          "2026-06-04",
                                          945.08
@@ -518,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          460.54
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         544.38
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          861.71,
                                           864.98,
                                           864.93,
                                           866.12,
@@ -640,132 +641,114 @@
                                           785.97,
                                           776.76,
                                           767.28,
-                                          755.25
+                                          755.25,
+                                          746.98
                                       ]
                    },
     "en":  {
-               "headline":  "Record quarter, but the Marvell deal now makes LITE trade like a falling MRVL",
-               "summary":  "Lumentum fell 13.94% on 20 Nov 2026 to $460.54, about 60% below its $1,143 peak on 9 Oct. The business itself is booming: Q1 FY27 revenue rose 136.5% to $1.26B, and Q2 guidance is $1.575–1.625B. The stock, though, now trades mainly as a stand-in for Marvell. Marvell agreed on 2 Nov to buy Lumentum for 4.5 MRVL shares per LITE share, all in stock. MRVL has lost about 49% in a month. LITE also carries a discount for the risk that China delays or blocks a deal not expected to close until the first half of 2028. The chart is clearly bearish, with RSI right at the oversold line.",
-               "pros":  [
-                            "Q1 FY27 revenue was $1.26B, up 136.5% year on year, with $360M of GAAP profit.",
-                            "Q2 guidance of $1.575–1.625B means another jump of about 27% in one quarter, at a 45–46% operating margin.",
-                            "A second co-packaged optics win, backed by more than $5B of purchase commitments, gives multi-year visibility.",
-                            "At $460.54, LITE trades about 17% below the value of 4.5 MRVL shares at MRVL\u0027s $122.90 close, a gap that closes if the deal completes.",
-                            "RSI 14 is 30.07, right at the oversold line after a roughly 60% fall from the October peak."
-                        ],
+               "caution":  "The biggest near-term risk is structural rather than operational: without a cash floor or collar, LITE\u0027s price moves with Marvell, whose shares have been hit by dilution fears and AI-chip swings. Meanwhile, a 1H 2028 target close exposes holders to 18+ months of U.S. and international antitrust reviews, potential customer channel conflicts, and possible shareholder pushback against the vote. Technically, price remains far below major moving averages, and Nov 23\u0027s bounce faded off its open on below-average volume—warning that volatility and retests of lower support remain very possible.",
                "cons":  [
-                            "The fixed 4.5 ratio ties LITE to Marvell, which fell about 49% in a month on dilution worries and downgrades.",
-                            "Merger-arbitrage traders put the deal\u0027s odds near 50%, China\u0027s review is the wild card, and closing is not expected before the first half of 2028.",
-                            "If the deal closes, LITE holders end up owning about 33% of the combined company, which dilutes the pure laser-bottleneck story.",
-                            "Price is far below all three EMAs, and MACD is still moving further below its signal line.",
-                            "AI-chip sentiment is fragile after Nvidia CEO Jensen Huang resigned on 12 Nov, and Marvell reports earnings on 1 Dec."
+                            "The fixed 4.500-share all-stock Marvell merger has no cash floor or collar, tying LITE\u0027s price directly to Marvell\u0027s heavy volatility.",
+                            "Wall Street reacted negatively to the Nov 2 deal—TD Cowen and BofA downgraded Marvell and B. Riley cut LITE to Neutral—citing dilution and peak-cycle fears.",
+                            "Shareholder frustration admitted by CEO Michael Hurlston in mid-November and an 18-month regulatory timeline to 1H 2028 create prolonged deal overhang.",
+                            "Technical structure is severely damaged, with price over 25% below its 50-, 100-, and 200-day EMAs and Nov 23\u0027s bounce lacking above-average volume."
                         ],
-               "opportunityCheck":  "The sub-scores mostly hold up, and the latest quarter supports them. I would raise \u0027position\u0027 from 14 to about 16. Revenue more than doubled and the non-GAAP operating margin is guided at 45–46%, which takes real pricing power. Customers also signed more than $5B of purchase commitments for a second co-packaged optics program, so they are locking in Lumentum\u0027s lasers. Keep in mind the scores rate the business, not the stock. Until the Marvell deal closes or falls apart, the share price will follow MRVL and deal risk more than these fundamentals.",
-               "technical":  "Trend: EMAs (exponential moving averages, trend lines that weight recent days more) all sit far above the price. At $460.54, LITE is below the EMA 50 ($755.25), EMA 100 ($796.37) and EMA 200 ($739.60), and about 38% under the 200-day. The EMA 50 has already crossed below the EMA 100 and is closing in on the EMA 200. Momentum: MACD (the gap between the 12- and 26-day EMAs) is −92.53, below its signal line at −85.66, with a histogram of −6.88. Selling momentum is still growing. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 30.07, so the stock is stretched and short bounces can happen. Volatility: the Bollinger Bands are extremely wide, from $380.78 to $929.40. Price is in the lower half of the bands, above the lower band, and in the bottom quarter of its 52-week range ($229.59–$1,143). Volume: the 20 Nov drop traded 5.76M shares, about 90% of the 20-day average. That is heavy selling but not the volume spike that usually marks capitulation (the final panic sell-off). On 20 Nov the stock opened at its high of $515.91 and sold off all day. Support sits near the lower band at about $381. Resistance is $515.91, then about $535 (the 19 Nov close).",
-               "fundamental":  "Lumentum makes the indium-phosphide laser chips (EMLs and continuous-wave lasers for silicon photonics and CPO) that go into 800G and 1.6T AI transceivers. It also makes optical circuit switches (OCS). Q1 FY27, the quarter to 26 Sep reported on 2 Nov: revenue $1,262.6M (+136.5% y/y, +25.5% q/q), of which components were $754.2M and systems $508.4M. GAAP net income was $360.3M and non-GAAP EPS $4.57. Q2 guidance: revenue $1.575–1.625B, non-GAAP operating margin 45–46%, EPS $5.90–6.20. Management sees OCS becoming a multi-billion-dollar annual business. None of this weakens the tight-supply laser moat. What changed is what holders own: if the deal closes, LITE becomes about 33% of a combined Marvell, so the investment turns into a bet on Marvell with Lumentum inside.",
+               "fundamental":  "Operationally, Lumentum\u0027s AI optical bottleneck moat is firing on all cylinders. In Q1 FY2027 (ended Sep 26, 2026; reported Nov 2), revenue soared 136.5% YoY to $1.26 billion, GAAP gross margin jumped to 51.0% from 34.0% a year earlier (non-GAAP 53.2%), and non-GAAP diluted EPS reached $4.57. Management guided Q2 FY2027 revenue up sharply to $1.575–$1.625 billion with 45.0%–46.0% non-GAAP operating margin and $5.90–$6.20 EPS. Demand for pump lasers, laser chips, and optical circuit switches (OCS) remains supply-constrained, while a second NPO/CPO win adds over $5 billion in purchase commitments. However, the Nov 2 all-stock agreement to merge into Marvell—giving LITE holders 33% of a combined silicon-and-optics giant—fundamentally changes the vehicle from a pure-play laser scarcity story into a merger-arbitrage and integration bet.",
+               "headline":  "Marvell Deal Volatility Overrides Blowout Q1 AI Optics Growth",
                "news":  [
-                            "2 Nov 2026: Q1 FY27 revenue was $1,262.6M (+136.5% y/y), GAAP EPS $3.54 and non-GAAP EPS $4.57. Q2 guidance of $1.575–1.625B came alongside a second CPO win backed by more than $5B of purchase commitments.",
-                            "2 Nov 2026: Marvell agreed to buy Lumentum in an all-stock deal at 4.5 MRVL shares per LITE share, an implied $115B enterprise value, expected to close in the first half of 2028. LITE fell 18.6% and MRVL 12.7% that day.",
-                            "3 Nov 2026: TD Cowen cut its target to $685 from $820 (Hold), and Susquehanna cut to $950 from $1,100 (Positive). Both tied the cuts to the fixed exchange ratio.",
-                            "Mid-Nov 2026: Bloomberg reported that merger-arbitrage traders see roughly 50% odds of the deal closing and that LITE traded 14% below the offer value. Bloomberg Intelligence called China \u0027a wild card\u0027. Rosenblatt noted that Marvell\u0027s Cavium and Inphi deals cleared China in 8 and 5 months.",
-                            "12 Nov 2026: Nvidia CEO Jensen Huang resigned, which hit AI-chip sentiment. Nvidia holds investments in both Marvell and Lumentum.",
-                            "20 Nov 2026: LITE fell 13.94% to $460.54 and MRVL about 11% to $122.90 in a broad tech-hardware selloff. MRVL is down about 49% in a month after BofA and TD Cowen downgrades, and it reports earnings on 1 Dec."
+                            "Nov 2, 2026: Marvell Technology agreed to acquire Lumentum in an all-stock deal at 4.500 MRVL shares per LITE share ($115B implied enterprise value at announcement), targeting a 1H 2028 close with a $3.2B regulatory break fee. Lumentum shareholders would own roughly 33% of the combined company.",
+                            "Nov 2, 2026: Lumentum posted Q1 FY2027 revenue of $1.26 billion (+136.5% YoY) and non-GAAP EPS of $4.57, guiding Q2 revenue to $1.575–$1.625 billion. Management also announced a second major NPO/CPO win backed by over $5 billion in purchase commitments.",
+                            "Nov 2–3, 2026: Wall Street penalized the merger structure, with TD Cowen downgrading Marvell to Hold ($175 target from $350), BofA cutting Marvell to Neutral ($225 from $400), and B. Riley lowering LITE to Neutral. Because the exchange ratio is fixed with no collar, Marvell\u0027s ensuing slide pulled LITE down roughly in lockstep.",
+                            "Mid-November 2026: In interviews with Semafor and CNBC, CEO Michael Hurlston acknowledged that \u0027shareholders are not happy\u0027 after the steep post-deal drawdown, while defending the optics-plus-silicon strategy ahead of the SEC Form S-4 filing and Marvell\u0027s Dec 1 earnings.",
+                            "Nov 18 \u0026 Nov 23, 2026: Shareholders elected all eight board nominees at Lumentum\u0027s Annual Meeting (79.46% turnout, reported in a Nov 23 Form 8-K). Separately on Nov 23, Nvidia\u0027s reinstatement of CEO Jensen Huang triggered an AI-hardware relief rally, lifting MRVL 18.4% ($144.74) and LITE 18.2% ($544.38)."
                         ],
-               "caution":  "For now, think of LITE as a leveraged Marvell position with deal-break risk attached. Through the fixed 4.5 ratio, a weak Marvell report on 1 Dec would pull LITE down directly. If China stalls or blocks the deal, LITE goes back to trading on its own fundamentals, but only after months of uncertainty. Reported break fees are about $6B if Marvell walks away and about $3B if Lumentum does. The trend is clearly down, and an RSI near 30 does not by itself mark a bottom.",
-               "opportunity":  "The underlying business is speeding up. Q2 revenue is guided near $1.6B, and CPO laser commitments exceed $5B. The roughly 17% gap to the implied deal value, based on MRVL\u0027s $122.90 close, is what the market pays for taking on deal risk. If approvals come at the pace of Marvell\u0027s past China clearances (5–8 months), that gap could narrow. If the deal breaks, holders keep a stand-alone laser leader growing more than 100% a year. Either way, the position stays exposed to the AI optics bottleneck.",
+               "opportunity":  "For long-term AI-infrastructure investors, the disconnect between collapsing share price and accelerating fundamentals is striking. Lumentum is scaling toward a $6 billion-plus annualized revenue run rate in Q2 FY2027 with 45%–46% projected non-GAAP operating margins, backed by multi-billion-dollar NPO/CPO commitments and tight laser supply. At $544.38, LITE also trades 16.4% below Marvell\u0027s Nov 23 implied offer value of $651.33—offering an arbitrage cushion if the merger closes, or a highly profitable standalone optics leader if shareholders or regulators reject it, backed by Marvell\u0027s $3.2 billion regulatory break fee.",
+               "opportunityCheck":  "The page\u0027s sub-scores broadly capture Lumentum\u0027s surging AI growth, but two operational scores now look conservative. After Q1 FY2027 revenue rose 136.5% YoY with 53.2% non-GAAP gross margins, sold-out laser capacity, scaling OCS demand, and a second NPO/CPO win above $5 billion, I would raise both market position and bottleneck \u0026 pricing power. Conversely, I would trim optionality: the fixed-ratio all-stock Marvell merger caps standalone upside, dilutes pure-play laser scarcity inside a broader chipmaker, and adds multi-year regulatory and customer-conflict friction.",
+               "pros":  [
+                            "Q1 FY2027 revenue jumped 136.5% YoY to $1.26 billion with 53.2% non-GAAP gross margin, and Q2 guidance jumps to $1.575–$1.625 billion.",
+                            "A second major NPO/CPO design win backed by over $5 billion in purchase commitments validates long-term AI optics demand.",
+                            "Sold-out laser chip capacity and scaling optical circuit switch (OCS) deployments underscore tight supply and strong pricing power.",
+                            "At $544.38 on Nov 23, LITE trades at a 16.4% discount ($106.95/share) to Marvell\u0027s implied 4.500-share offer value of $651.33."
+                        ],
                "risks":  [
-                             "Marvell share price: the fixed 4.5 ratio passes MRVL moves straight through to LITE.",
-                             "Deal failure or delay: China\u0027s SAMR review is the key hurdle, and closing is not expected before the first half of 2028.",
-                             "Thesis dilution: after closing, LITE holders own about 33% of a broader Marvell rather than a pure laser play.",
-                             "AI capex sentiment: the November chip selloff and Nvidia\u0027s leadership change could weigh on optics demand expectations.",
-                             "Volatility: Bollinger Bands span about $381–$929, so daily swings of 10% or more are common."
-                         ]
+                             "Unhedged Marvell exposure: Fixed 4.500-share ratio means further MRVL declines directly depress LITE\u0027s implied deal value.",
+                             "Regulatory \u0026 vote uncertainty: 1H 2028 target close requires U.S. HSR, international antitrust clearances, and approvals from dissatisfied shareholders.",
+                             "Customer \u0026 channel friction: Combining Lumentum\u0027s lasers with Marvell\u0027s networking silicon could alienate competing optical transceiver or DSP customers.",
+                             "Optical cycle \u0026 AI capex risk: Hyperscaler spending slowdowns or capacity additions could compress today\u0027s 53%+ gross margins."
+                         ],
+               "summary":  "Lumentum (NASDAQ:LITE) delivered standout Q1 FY2027 results on Nov 2, 2026—revenue surged 136.5% YoY to $1.26 billion with a second NPO/CPO win exceeding $5 billion—yet the stock sits 52.4% below its $1,143 52-week high at $544.38. A fixed-ratio all-stock merger with Marvell (4.500 MRVL per LITE, targeting 1H 2028 close) tethered LITE to Marvell\u0027s selloff after analyst downgrades and AI-sector turbulence. Even after Nov 23\u0027s 18.2% relief rally, technicals remain bearish and the merger puts the pure-play moat thesis on watch.",
+               "technical":  "Despite an 18.2% jump to $544.38 on Nov 23, 2026, LITE\u0027s chart stays firmly bearish. Price sits well below all three exponential moving averages (EMAs, which smooth price trends): 27.1% under EMA 50 ($746.98), 31.2% under EMA 100 ($791.38), and 26.2% under EMA 200 ($737.62). Because EMA 50 has already dropped below EMA 100 and approaches EMA 200, the medium-term trend points downward. Momentum remains weak: MACD 12/26/9 (a trend-momentum gauge) is deeply negative at -88.59 and still below its -86.24 signal line, leaving a -2.35 histogram, while RSI 14 (a 0–100 momentum gauge; under 30 is oversold) sits at 39.37—out of oversold territory yet well below the neutral 50 mark. Volatility is extreme, with Bollinger Bands (a 20-day volatility channel) spanning $373.76 to $909.05; price trades below the $641.41 middle band and sits 52.4% beneath its $1,143.00 52-week high (low $233.72). Volume of 6.05 million shares lagged the 20-day average of 6.41 million while price faded from its $563.31 open, signaling a relief bounce rather than confirmed accumulation. Nearby support sits at $533 and $373.76; resistance stands at $641.41 and $737–$747."
            },
     "th":  {
-               "headline":  "งบโตแรงเป็นประวัติการณ์ แต่ดีล Marvell ทำให้ LITE วิ่งตาม MRVL ที่กำลังร่วง",
-               "summary":  "Lumentum ร่วง 13.94% เมื่อ 20 พ.ย. 2026 ปิดที่ $460.54 ต่ำกว่าจุดสูงสุด $1,143 เมื่อ 9 ต.ค. ราว 60% ทั้งที่ธุรกิจยังโตแรงมาก รายได้ Q1 FY27 พุ่ง 136.5% เป็น $1.26B และไกด์ Q2 ไว้ที่ $1.575–1.625B ปัญหาอยู่ที่ดีลซึ่ง Marvell ตกลงซื้อกิจการด้วยการแลกหุ้นทั้งหมดเมื่อ 2 พ.ย. (1 หุ้น LITE แลกได้ 4.5 หุ้น MRVL) ตั้งแต่นั้นราคา LITE วิ่งตาม MRVL ซึ่งร่วงราว 49% ในเดือนเดียว แถมยังถูกหักส่วนลดเพราะเสี่ยงที่จีนจะชะลอหรือขวางดีล ซึ่งคาดว่าจะปิดได้ราวครึ่งแรกปี 2028 ภาพเทคนิคเป็นขาลงชัดเจน และ RSI แตะขอบเขต oversold พอดี",
-               "pros":  [
-                            "รายได้ Q1 FY27 อยู่ที่ $1.26B โต 136.5% จากปีก่อน และมีกำไรสุทธิ GAAP $360M",
-                            "ไกด์ Q2 ที่ $1.575–1.625B แปลว่ารายได้จะโตอีกราว 27% ภายในไตรมาสเดียว ที่มาร์จิ้นกำไรจากการดำเนินงาน 45–46%",
-                            "ได้งาน co-packaged optics รายใหญ่เป็นรายที่สอง มีคำสั่งซื้อผูกมัดเกิน $5B ช่วยให้เห็นรายได้ล่วงหน้าหลายปี",
-                            "ที่ $460.54 ราคา LITE ต่ำกว่ามูลค่าหุ้น MRVL 4.5 หุ้น (คิดจากราคาปิด MRVL $122.90) ราว 17% ส่วนต่างนี้จะหายไปหากดีลสำเร็จ",
-                            "RSI 14 อยู่ที่ 30.07 แตะเส้น oversold หลังราคาดิ่งจากจุดสูงสุดเดือน ต.ค. ราว 60%"
-                        ],
+               "caution":  "ความเสี่ยงหลักในระยะสั้นมาจากโครงสร้างดีลมากกว่าปัจจัยพื้นฐาน เพราะการแลกหุ้นคงที่โดยไม่มีเงินสดหรือกรอบป้องกันความเสี่ยงทำให้ราคา LITE ผันผวนตามหุ้น Marvell ซึ่งถูกกดดันจากความกังวลเรื่อง Dilution และความผันผวนของกลุ่มชิป AI ขณะเดียวกันกรอบเวลาปิดดีลครึ่งแรกปี 2028 เปิดรับความเสี่ยงจากการตรวจสอบผูกขาดทั้งในสหรัฐฯ และต่างประเทศนานกว่า 18 เดือน ความขัดแย้งกับลูกค้าบางราย และแรงต้านจากผู้ถือหุ้น ด้านเทคนิค ราคายังต่ำกว่าเส้นค่าเฉลี่ยหลักมาก และการรีบาวด์วันที่ 23 พ.ย. ปิดต่ำกว่าราคาเปิดพร้อมวอลุ่มต่ำกว่าค่าเฉลี่ย สะท้อนโอกาสผันผวนและลงทดสอบแนวรับด้านล่างได้อีก",
                "cons":  [
-                            "อัตราแลกหุ้นคงที่ 4.5 ผูกราคา LITE ไว้กับ Marvell ซึ่งร่วงราว 49% ในหนึ่งเดือน จากความกังวลเรื่องหุ้นถูก dilute และการถูกลดอันดับ",
-                            "นักเก็งกำไรส่วนต่างดีลควบรวมประเมินโอกาสดีลสำเร็จราว 50% การพิจารณาของจีนคือตัวแปรสำคัญ และคาดว่าจะปิดดีลไม่ทันก่อนครึ่งแรกปี 2028",
-                            "ถ้าดีลสำเร็จ ผู้ถือ LITE จะเหลือสัดส่วนราว 33% ในบริษัทรวม เรื่องราวของผู้คุมคอขวดเลเซอร์โดยตรงจึงเจือจางลง",
-                            "ราคาอยู่ต่ำกว่า EMA ทั้งสามเส้นมาก และ MACD ยังห่างลงใต้เส้นสัญญาณต่อเนื่อง",
-                            "บรรยากาศหุ้นชิป AI เปราะบางหลัง Jensen Huang ลาออกจากซีอีโอ Nvidia เมื่อ 12 พ.ย. และ Marvell จะประกาศงบ 1 ธ.ค."
+                            "ดีลแลกหุ้นทั้งหมดกับ Marvell ในอัตราคงที่ 4.500 หุ้นไม่มีเงินสดหรือกรอบคุ้มครองราคา ทำให้ LITE ผันผวนตามหุ้น MRVL โดยตรง",
+                            "นักวิเคราะห์ตอบรับดีลวันที่ 2 พ.ย. เชิงลบ โดย TD Cowen และ BofA ปรับลดคำแนะนำ MRVL ส่วน B. Riley ลด LITE เหลือ Neutral จากกังวล Dilution และจุดพีกของวัฏจักร",
+                            "เสียงไม่พอใจจากผู้ถือหุ้นที่ CEO Michael Hurlston ยอมรับกลาง พ.ย. และระยะเวลารออนุมัติถึงครึ่งแรกปี 2028 สร้างแรงกดดันต่อราคาหุ้นยืดเยื้อ",
+                            "โครงสร้างกราฟเสียหายหนัก ราคาอยู่ต่ำกว่า EMA 50, 100 และ 200 กว่า 25% และการดีดตัววันที่ 23 พ.ย. ยังขาดวอลุ่มหนุนเหนือค่าเฉลี่ย"
                         ],
-               "opportunityCheck":  "คะแนนย่อยส่วนใหญ่ยังสมเหตุสมผล และงบไตรมาสล่าสุดก็ยืนยัน ผมจะขยับคะแนน \u0027position\u0027 จาก 14 เป็นราว 16 รายได้โตกว่าเท่าตัวและไกด์มาร์จิ้นกำไรจากการดำเนินงาน non-GAAP ไว้ที่ 45–46% ซึ่งต้องมีอำนาจกำหนดราคาจริง ลูกค้ายังผูกคำสั่งซื้อเกิน $5B สำหรับโครงการ co-packaged optics รายที่สอง แสดงว่ากำลังจองเลเซอร์ของ Lumentum ไว้ล่วงหน้า แต่ต้องจำไว้ว่าคะแนนนี้วัดตัวธุรกิจ ไม่ใช่ตัวหุ้น จนกว่าดีล Marvell จะปิดหรือล้ม ราคาหุ้นจะขึ้นกับ MRVL และความเสี่ยงของดีลมากกว่าพื้นฐานเหล่านี้",
-               "technical":  "แนวโน้ม: EMA (เส้นค่าเฉลี่ยเคลื่อนที่ที่ให้น้ำหนักกับวันล่าสุดมากกว่า) ทุกเส้นอยู่สูงกว่าราคาไปมาก ที่ $460.54 LITE ต่ำกว่า EMA 50 ($755.25), EMA 100 ($796.37) และ EMA 200 ($739.60) โดยต่ำกว่าเส้น 200 วันราว 38% EMA 50 ตัดลงใต้ EMA 100 ไปแล้วและกำลังเข้าใกล้ EMA 200 โมเมนตัม: MACD (ส่วนต่างของ EMA 12 กับ 26 วัน) อยู่ที่ −92.53 ต่ำกว่าเส้นสัญญาณที่ −85.66 histogram −6.88 แรงขายยังเพิ่มขึ้น ไม่ได้อ่อนลง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่า oversold) อยู่ที่ 30.07 ราคาจึงตึงตัวมากและอาจเด้งสั้น ๆ ได้ ความผันผวน: Bollinger Bands กว้างผิดปกติ ตั้งแต่ $380.78 ถึง $929.40 ราคาอยู่ครึ่งล่างของกรอบแต่ยังเหนือเส้นล่าง และอยู่ในช่วงล่างสุดหนึ่งในสี่ของกรอบ 52 สัปดาห์ ($229.59–$1,143) ปริมาณซื้อขาย: วันที่ 20 พ.ย. มีการซื้อขาย 5.76M หุ้น ราว 90% ของค่าเฉลี่ย 20 วัน ถือว่าขายหนักแต่ยังไม่ใช่ปริมาณพุ่งแบบ capitulation (การเทขายตื่นตระหนกรอบสุดท้าย) วันนั้นราคาเปิดที่จุดสูงสุด $515.91 แล้วไหลลงทั้งวัน แนวรับใกล้เส้นล่างของ Bollinger ราว $381 แนวต้านอยู่ที่ $515.91 ถัดไปราว $535 (ราคาปิด 19 พ.ย.)",
-               "fundamental":  "Lumentum ผลิตชิปเลเซอร์ indium-phosphide (EML และเลเซอร์ CW สำหรับ silicon photonics/CPO) ที่ใช้ในทรานซีฟเวอร์ 800G และ 1.6T ของดาต้าเซ็นเตอร์ AI และยังผลิตสวิตช์วงจรแสง (OCS) ด้วย งบ Q1 FY27 (ไตรมาสสิ้นสุด 26 ก.ย. ประกาศ 2 พ.ย.): รายได้ $1,262.6M (+136.5% y/y, +25.5% q/q) แบ่งเป็นกลุ่ม components $754.2M และ systems $508.4M กำไรสุทธิ GAAP $360.3M EPS non-GAAP $4.57 ไกด์ Q2: รายได้ $1.575–1.625B มาร์จิ้นกำไรจากการดำเนินงาน non-GAAP 45–46% EPS $5.90–6.20 ผู้บริหารมองว่า OCS จะโตเป็นธุรกิจหลายพันล้านดอลลาร์ต่อปี ไม่มีอะไรในงบที่ทำให้คูเมืองเลเซอร์ซึ่งซัพพลายตึงอ่อนลง สิ่งที่เปลี่ยนคือสิ่งที่ผู้ถือหุ้นถืออยู่ หากดีลสำเร็จ LITE จะกลายเป็นสัดส่วนราว 33% ของ Marvell การลงทุนจึงกลายเป็นการเดิมพันกับ Marvell ที่มี Lumentum อยู่ข้างใน",
+               "fundamental":  "ในเชิงปฏิบัติการ ป้อมปราการด้านคอขวดชิปเลเซอร์ AI ของ Lumentum แข็งแกร่งมาก งบ Q1 FY2027 (สิ้นสุด 26 ก.ย. 2026 ประกาศ 2 พ.ย.) รายได้โต 136.5% YoY แตะ $1.26 พันล้าน อัตรากำไรขั้นต้น GAAP พุ่งเป็น 51.0% จาก 34.0% ปีก่อน (Non-GAAP 53.2%) และ Non-GAAP EPS อยู่ที่ $4.57 ผู้บริหารให้คาดการณ์ Q2 FY2027 รายได้กระโดดสู่ $1.575–$1.625 พันล้าน อัตรากำไรจากการดำเนินงาน Non-GAAP 45.0%–46.0% และ EPS $5.90–$6.20 ความต้องการ pump lasers ชิปเลเซอร์ และ optical circuit switches (OCS) ยังล้นกำลังผลิต พร้อมดีล NPO/CPO รายที่สองมูลค่ากว่า $5 พันล้าน อย่างไรก็ดี ข้อตกลงควบรวมกับ Marvell วันที่ 2 พ.ย. ที่ให้ผู้ถือหุ้น LITE ถือ 33% ในบริษัทชิปรวมออปติกส์ เปลี่ยนภาพการลงทุนจากหุ้นเฉพาะทางด้านเลเซอร์ขาดแคลนไปสู่เกมอาร์บิทราจดีลและความเสี่ยงจากการควบรวมแทน",
+               "headline":  "แรงเหวี่ยงดีล Marvell กลบงบ Q1 ชิปแสง AI ที่โตระเบิด",
                "news":  [
-                            "2 พ.ย. 2026: รายได้ Q1 FY27 อยู่ที่ $1,262.6M (+136.5% y/y) EPS GAAP $3.54 และ non-GAAP $4.57 ไกด์ Q2 ไว้ที่ $1.575–1.625B พร้อมประกาศงาน CPO รายที่สองที่มีคำสั่งซื้อผูกมัดเกิน $5B",
-                            "2 พ.ย. 2026: Marvell ตกลงซื้อ Lumentum ด้วยการแลกหุ้นทั้งหมด 4.5 หุ้น MRVL ต่อ 1 หุ้น LITE มูลค่ากิจการราว $115B คาดปิดดีลได้ครึ่งแรกปี 2028 วันนั้น LITE ร่วง 18.6% และ MRVL ร่วง 12.7%",
-                            "3 พ.ย. 2026: TD Cowen ลดราคาเป้าหมายเป็น $685 จาก $820 (Hold) และ Susquehanna ลดเป็น $950 จาก $1,100 (Positive) ทั้งคู่ให้เหตุผลว่าราคาถูกผูกกับอัตราแลกหุ้นคงที่",
-                            "กลาง พ.ย. 2026: Bloomberg รายงานว่านักเก็งกำไรส่วนต่างดีลควบรวมให้โอกาสดีลสำเร็จราว 50% และ LITE ซื้อขายต่ำกว่ามูลค่าข้อเสนอ 14% Bloomberg Intelligence เรียกจีนว่า \u0027ไพ่ตาย\u0027 ขณะที่ Rosenblatt ชี้ว่าดีล Cavium และ Inphi ของ Marvell ผ่านการอนุมัติจากจีนใน 8 และ 5 เดือน",
-                            "12 พ.ย. 2026: Jensen Huang ลาออกจากซีอีโอ Nvidia กดดันบรรยากาศหุ้นชิป AI ทั้งนี้ Nvidia ถือเงินลงทุนทั้งใน Marvell และ Lumentum",
-                            "20 พ.ย. 2026: LITE ร่วง 13.94% เหลือ $460.54 และ MRVL ร่วงราว 11% เหลือ $122.90 ท่ามกลางแรงเทขายหุ้นฮาร์ดแวร์เทคทั้งกลุ่ม MRVL ลงราว 49% ในหนึ่งเดือนหลัง BofA และ TD Cowen ลดอันดับ และจะประกาศงบ 1 ธ.ค."
+                            "2 พ.ย. 2026: Marvell Technology ตกลงซื้อกิจการ Lumentum แบบแลกหุ้นทั้งหมดในอัตราคงที่ 4.500 หุ้น MRVL ต่อ 1 หุ้น LITE (มูลค่ากิจการแฝง $115 พันล้าน ณ วันประกาศ) คาดปิดดีลครึ่งแรกปี 2028 พร้อมค่าปรับยกเลิกดีลด้านกำกับดูแล $3.2 พันล้าน โดยผู้ถือหุ้น LITE จะถือหุ้นราว 33% ในบริษัทใหม่",
+                            "2 พ.ย. 2026: Lumentum รายงานงบ Q1 FY2027 รายได้ $1.26 พันล้าน (+136.5% YoY) และ Non-GAAP EPS $4.57 พร้อมคาดการณ์รายได้ Q2 สูงถึง $1.575–$1.625 พันล้าน นอกจากนี้ยังชนะคำสั่งซื้อ NPO/CPO รายใหญ่รายที่สองพร้อมข้อผูกมัดซื้อเกิน $5 พันล้าน",
+                            "2–3 พ.ย. 2026: วอลล์สตรีทปรับลดมุมมองรับโครงสร้างดีล โดย TD Cowen ลดคำแนะนำ MRVL เหลือ Hold (เป้า $175 จาก $350), BofA ลด MRVL เหลือ Neutral (เป้า $225 จาก $400) และ B. Riley ลด LITE เหลือ Neutral เมื่อ MRVL ร่วงแรงจึงฉุดราคา LITE ลงตามอัตราแลกหุ้นคงที่",
+                            "กลาง พ.ย. 2026: CEO Michael Hurlston ให้สัมภาษณ์ Semafor และ CNBC ยอมรับตรงไปตรงมาว่า \"ผู้ถือหุ้นไม่มีความสุข\" หลังราคาหุ้นดิ่งหนัก แต่ยังยืนยันเหตุผลเชิงกลยุทธ์ของการผสานออปติกส์กับชิป ก่อนยื่นเอกสาร S-4 และรอผลประกอบการ Marvell วันที่ 1 ธ.ค.",
+                            "18 และ 23 พ.ย. 2026: ผู้ถือหุ้น Lumentum ลงมติเลือกกรรมการครบทั้ง 8 รายในการประชุมสามัญ (สัดส่วนเข้าร่วม 79.46% ตามแบบ 8-K วันที่ 23 พ.ย.) และในวันที่ 23 พ.ย. ข่าว Nvidia ดึง Jensen Huang กลับมารับตำแหน่ง CEO จุดกระแสรีบาวด์กลุ่มฮาร์ดแวร์ AI หนุน MRVL บวก 18.4% ($144.74) และ LITE พุ่ง 18.2% ($544.38)"
                         ],
-               "caution":  "ตอนนี้ควรมอง LITE เหมือนถือ Marvell แบบมีเลเวอเรจ โดยมีความเสี่ยงที่ดีลจะล้มพ่วงมาด้วย ถ้างบ Marvell วันที่ 1 ธ.ค. ออกมาแย่ ราคา LITE จะถูกดึงลงตามโดยตรงผ่านอัตราแลก 4.5 ถ้าจีนชะลอหรือขวางดีล LITE จะกลับไปซื้อขายตามพื้นฐานของตัวเอง แต่ต้องผ่านความไม่แน่นอนอีกหลายเดือน มีรายงานว่าค่าปรับยกเลิกดีลอยู่ราว $6B หาก Marvell ถอนตัว และราว $3B หาก Lumentum ถอนตัว แนวโน้มยังเป็นขาลงชัดเจน และ RSI ใกล้ 30 อย่างเดียวยังยืนยันไม่ได้ว่าถึงจุดต่ำสุดแล้ว",
-               "opportunity":  "ธุรกิจจริงกำลังเร่งตัว ไกด์รายได้ Q2 ใกล้ $1.6B และคำสั่งซื้อเลเซอร์ CPO ที่ผูกมัดแล้วเกิน $5B ส่วนต่างราว 17% จากมูลค่าดีล (คิดจากราคาปิด MRVL $122.90) คือผลตอบแทนที่ตลาดจ่ายให้กับการรับความเสี่ยงของดีล ถ้าการอนุมัติมาเร็วแบบที่ Marvell เคยผ่านจีนในอดีต (5–8 เดือน) ส่วนต่างนี้อาจแคบลง ถ้าดีลล้ม ผู้ถือยังได้ผู้นำเลเซอร์ที่ยืนได้ด้วยตัวเองและโตเกิน 100% ต่อปี ไม่ว่าทางไหนก็ยังได้ exposure กับคอขวดออปติกของ AI",
+               "opportunity":  "สำหรับนักลงทุนโครงสร้างพื้นฐาน AI ระยะยาว ช่องว่างระหว่างราคาหุ้นที่ร่วงหนักกับปัจจัยพื้นฐานที่เร่งตัวถือว่าน่าจับตา Lumentum กำลังขยายตัวสู่ระดับรายได้เฉลี่ยต่อปีเกิน $6 พันล้านใน Q2 FY2027 พร้อมอัตรากำไรจากการดำเนินงาน Non-GAAP ที่คาดไว้ 45%–46% หนุนด้วยคำสั่งซื้อ NPO/CPO หลายพันล้านดอลลาร์และอุปทานเลเซอร์ที่ตึงตัว ที่ราคา $544.38 หุ้น LITE ยังมีส่วนลด 16.4% จากมูลค่าเสนอแลกหุ้นแฝงของ Marvell ที่ $651.33 ซึ่งเป็นกันชนหากดีลสำเร็จ หรือหากดีลล่มจากผู้ถือหุ้นหรือหน่วยงานกำกับดูแล LITE ก็ยังเป็นผู้นำออปติกส์ที่ทำกำไรสูงพร้อมมีค่าปรับยกเลิกดีล $3.2 พันล้านรองรับ",
+               "opportunityCheck":  "คะแนนย่อยบนหน้าเว็บสะท้อนการเติบโตของตลาด AI ได้ค่อนข้างดี แต่มีสองด้านการดำเนินงานที่ดูอนุรักษนิยมเกินไป หลังงบ Q1 FY2027 รายได้โต 136.5% YoY อัตรากำไรขั้นต้น Non-GAAP แตะ 53.2% กำลังผลิตเลเซอร์เต็ม 100% ยอด OCS ขยายตัว และชนะดีล NPO/CPO รายที่สองเกิน $5 พันล้าน ผมเห็นควรปรับเพิ่มทั้งด้านตำแหน่งทางการตลาด และด้านคอขวดกับอำนาจตั้งราคา ในทางกลับกันควรปรับลดด้านทางเลือกการเติบโต (optionality) เพราะดีลแลกหุ้นคงที่กับ Marvell จำกัดอัพไซด์แบบเดี่ยว เจือจางความเฉพาะตัวด้านชิปเลเซอร์ และเพิ่มแรงเสียดทานด้านกฎหมายกับลูกค้าหลายปี",
+               "pros":  [
+                            "รายได้ Q1 FY2027 พุ่ง 136.5% YoY แตะ $1.26 พันล้าน อัตรากำไรขั้นต้น Non-GAAP 53.2% และคาดการณ์รายได้ Q2 เร่งขึ้นเป็น $1.575–$1.625 พันล้าน",
+                            "ชนะดีล NPO/CPO รายใหญ่รายที่สองพร้อมข้อผูกมัดซื้อกว่า $5 พันล้าน ยืนยันอุปสงค์ออปติกส์ AI ระยะยาว",
+                            "กำลังการผลิตชิปเลเซอร์ถูกจองเต็มและยอดสั่งซื้อ optical circuit switch (OCS) ขยายตัว ตอกย้ำภาวะอุปทานตึงตัวและอำนาจตั้งราคา",
+                            "ที่ราคา $544.38 วันที่ 23 พ.ย. หุ้น LITE ซื้อขายต่ำกว่ามูลค่าแฝงจากดีลแลก 4.500 หุ้น MRVL ($651.33) อยู่ 16.4% ($106.95 ต่อหุ้น)"
+                        ],
                "risks":  [
-                             "ราคาหุ้น Marvell: อัตราแลกคงที่ 4.5 ส่งผลการขึ้นลงของ MRVL มาที่ LITE โดยตรง",
-                             "ดีลล้มหรือล่าช้า: การพิจารณาของ SAMR จีนคือด่านสำคัญ และคาดปิดดีลไม่ทันก่อนครึ่งแรกปี 2028",
-                             "ธีมการลงทุนเจือจาง: หลังปิดดีล ผู้ถือ LITE จะเป็นเจ้าของราว 33% ของ Marvell ที่ใหญ่และหลากหลายกว่า ไม่ใช่หุ้นเลเซอร์โดยตรงอีกต่อไป",
-                             "บรรยากาศการลงทุน AI: แรงเทขายหุ้นชิปเดือน พ.ย. และการเปลี่ยนผู้นำของ Nvidia อาจกดความคาดหวังต่อความต้องการออปติก",
-                             "ความผันผวน: Bollinger Bands กว้างราว $381–$929 การแกว่งวันละ 10% ขึ้นไปจึงเกิดขึ้นได้บ่อย"
-                         ]
+                             "ความเสี่ยงผูกติดหุ้น Marvell เต็มตัว: อัตราแลกหุ้นคงที่ 4.500 หุ้นทำให้หาก MRVL ปรับลงอีก มูลค่าแฝงของ LITE จะลดลงตามทันที",
+                             "ความไม่แน่นอนด้านกฎหมายและโหวตผู้ถือหุ้น: เป้าปิดดีลครึ่งแรกปี 2028 ต้องผ่านทั้งหน่วยงานผูกขาดสหรัฐฯ ต่างประเทศ และเสียงอนุมัติจากผู้ถือหุ้นที่ยังไม่พอใจ",
+                             "ความขัดแย้งกับลูกค้าและช่องทางขาย: การรวมชิปเลเซอร์ Lumentum เข้ากับชิปเครือข่าย Marvell อาจทำให้ลูกค้าผู้ผลิตทรานซีฟเวอร์หรือ DSP ที่เป็นคู่แข่งหันไปหาซัพพลายเออร์อื่น",
+                             "ความเสี่ยงวัฏจักรออปติกส์และงบลงทุน AI: หาก Hyperscaler ชะลอการลงทุนหรือคู่แข่งเพิ่มกำลังผลิต อัตรากำไรขั้นต้นระดับ 53%+ ในปัจจุบันอาจหดตัวลงได้"
+                         ],
+               "summary":  "Lumentum (NASDAQ:LITE) ประกาศงบ Q1 FY2027 วันที่ 2 พ.ย. 2026 ได้อย่างยอดเยี่ยม รายได้พุ่ง 136.5% YoY สู่ $1.26 พันล้าน พร้อมดีล NPO/CPO รายที่สองมูลค่าเกิน $5 พันล้าน แต่ราคาหุ้นที่ $544.38 ยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($1,143) ถึง 52.4% สาเหตุหลักคือดีลควบรวมแบบแลกหุ้นทั้งหมดกับ Marvell (4.500 หุ้น MRVL ต่อ 1 หุ้น LITE คาดปิดครึ่งแรกปี 2028) ที่ผูกราคา LITE เข้ากับแรงเทขาย MRVL หลังถูกปรับลดคำแนะนำและภาวะตลาดชิป AI ผันผวน แม้รีบาวด์แรง 18.2% วันที่ 23 พ.ย. กราฟยังเป็นขาลงและต้องจับตาสมมติฐานป้อมปราการเดิมอย่างใกล้ชิด",
+               "technical":  "แม้ราคาหุ้น LITE พุ่งขึ้น 18.2% มาปิดที่ $544.38 ในวันที่ 23 พ.ย. 2026 แต่โครงสร้างกราฟยังเป็นขาลงชัดเจน ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่เอ็กซ์โปเนนเชียล (EMA ซึ่งช่วยกรองทิศทางแนวโน้ม) ทั้งสามเส้น โดยต่ำกว่า EMA 50 ($746.98) 27.1%, EMA 100 ($791.38) 31.2% และ EMA 200 ($737.62) 26.2% อีกทั้ง EMA 50 ตัดลงต่ำกว่า EMA 100 และกำลังขยับเข้าใกล้ EMA 200 สะท้อนแนวโน้มระยะกลางที่อ่อนแรง ด้านโมเมนตัม MACD 12/26/9 (เครื่องมือวัดแรงส่งแนวโน้ม) ติดลบหนักที่ -88.59 และยังอยู่ใต้เส้น signal (-86.24) ทำให้ค่า histogram เป็นลบ -2.35 ส่วน RSI 14 (ดัชนีวัดแรงซื้อขายช่วง 0–100 ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 39.37 แม้พ้นเขตขายมากเกินไปแต่ยังต่ำกว่าระดับกลาง 50 ความผันผวนสูงมากเห็นได้จาก Bollinger Bands (กรอบความผันผวน 20 วัน) ที่กว้างตั้งแต่ $373.76 ถึง $909.05 โดยราคายังอยู่ใต้เส้นกลาง $641.41 และต่ำกว่าจุดสูงสุด 52 สัปดาห์ $1,143.00 ถึง 52.4% (ต่ำสุด $233.72) ปริมาณซื้อขาย 6.05 ล้านหุ้นยังต่ำกว่าค่าเฉลี่ย 20 วันที่ 6.41 ล้านหุ้น และราคาปิดต่ำกว่าราคาเปิด $563.31 บ่งชี้ว่าเป็นรีบาวด์ระยะสั้นมากกว่าการสะสมหุ้นจริงจัง แนวรับสำคัญอยู่ที่ $533 และ $373.76 ส่วนแนวต้านอยู่ที่ $641.41 และโซน $737–$747"
            },
     "sources":  [
                     {
+                        "date":  "2026-11-02",
+                        "publisher":  "Lumentum",
                         "title":  "Lumentum Announces First Quarter of Fiscal Year 2027 Financial Results",
-                        "publisher":  "Lumentum Investor Relations",
-                        "url":  "https://investor.lumentum.com/financial-news-releases/news-details/2026/Lumentum-Announces-First-Quarter-of-Fiscal-Year-2027-Financial-Results/default.aspx",
-                        "date":  "2026-11-02"
+                        "url":  "https://www.lumentum.com/en/news-room/news-releases/lumentum-announces-first-quarter-fiscal-year-2027-financial-results"
                     },
                     {
-                        "title":  "Marvell to buy Lumentum in all-stock deal",
-                        "publisher":  "CNBC",
-                        "url":  "https://www.cnbc.com/2026/11/02/marvell-lumentum-ai-deal.html",
-                        "date":  "2026-11-02"
+                        "date":  "2026-11-02",
+                        "publisher":  "Marvell Technology",
+                        "title":  "Marvell and Lumentum to Combine, Creating a Category Leader in AI Connectivity",
+                        "url":  "https://investor.marvell.com/news-events/press-releases/detail/3727/marvell-and-lumentum-to-combine-creating-a-category-leader"
                     },
                     {
-                        "title":  "Lumentum Q1 Revenue Reaches $1.26 Billion; Forecasts Strong Q2 Growth",
-                        "publisher":  "TradingView News",
-                        "url":  "https://www.tradingview.com/news/tradingview:137a1d47ab4e0:0-lumentum-q1-revenue-reaches-1-26-billion-forecasts-strong-q2-growth/",
-                        "date":  "2026-11-02"
+                        "date":  "",
+                        "publisher":  "Investing.com",
+                        "title":  "Analysts downgrade Marvell and slash price targets over Lumentum deal",
+                        "url":  "https://www.investing.com/news/analysts-downgrade-marvell-and-slash-price-targets-over-lumentum-deal-93CH-3375812"
                     },
                     {
-                        "title":  "Marvell\u0027s $115 Billion Lumentum Deal Faces 50-50 Odds: Report",
-                        "publisher":  "Benzinga via TradingView",
-                        "url":  "https://www.tradingview.com/news/benzinga:04e8ee0b0094b:0-marvell-s-115-billion-lumentum-deal-faces-50-50-odds-report/"
+                        "date":  "",
+                        "publisher":  "The Next Web",
+                        "title":  "Lumentum CEO tells Semafor the $115bn Marvell deal has been \u0027a rough go\u0027",
+                        "url":  "https://thenextweb.com/news/lumentum-ceo-tells-semafor-the-115bn-marvell-deal-a-rough-go"
                     },
                     {
-                        "title":  "Lumentum Holdings Inc. - Form 425 (CEO CNBC interview transcript)",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001633978/000119312526453776/d180680d425.htm",
-                        "date":  "2026-11-09"
+                        "date":  "2026-11-23",
+                        "publisher":  "SEC",
+                        "title":  "Lumentum Holdings Inc. Form 8-K (2026 Annual Meeting of Stockholders)",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1633978/000130817926000441/lite-20261118.htm"
                     },
                     {
-                        "title":  "Lumentum Holdings Inc (LITE) Shares Fall 13.8% -- GF Value Says Still Overvalued",
-                        "publisher":  "GuruFocus",
-                        "url":  "https://www.gurufocus.com/news/9213501/lumentum-holdings-inc-lite-shares-fall-138-gf-value-says-still-overvalued",
-                        "date":  "2026-11-20"
-                    },
-                    {
-                        "title":  "Marvell Technology (MRVL) Shares Plunge Nearly 11% Amid Tech Sector Selloff",
-                        "publisher":  "GuruFocus",
-                        "url":  "https://www.gurufocus.com/news/9213237/marvell-technology-mrvl-shares-plunge-nearly-11-amid-tech-sector-selloff",
-                        "date":  "2026-11-20"
-                    },
-                    {
-                        "title":  "Marvell Just Plummeted 49% in a Month as Tech-Sector Collateral Damage Continues",
-                        "publisher":  "24/7 Wall St.",
-                        "url":  "https://247wallst.com/investing/2026/11/20/marvell-just-plummeted-49-in-a-month-as-tech-sector-collateral-damage-continues-will-mrvl-stock-hit-100-or-150-first/",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-23",
+                        "publisher":  "The Motley Fool",
+                        "title":  "Why Lumentum Holdings Stock Trounced the Market Today",
+                        "url":  "https://www.fool.com/investing/2026/11/23/why-lumentum-holdings-stock-trounced-the-market-today/"
                     }
                 ]
 }

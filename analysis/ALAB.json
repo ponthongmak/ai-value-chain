@@ -2,46 +2,45 @@
     "ticker":  "ALAB",
     "name":  "Astera Labs",
     "symbol":  "NASDAQ:ALAB",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:04:49Z",
-    "costUsd":  0.7890709,
+    "generatedAt":  "2026-11-24T04:08:30Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:ALAB",
                        "yahoo":  "ALAB",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:01:34Z",
-                       "price":  180.35,
-                       "open":  203.64,
-                       "high":  205.93,
-                       "low":  176.78,
-                       "volume":  7924300,
-                       "avgVolume20":  5499170,
-                       "changePct":  -14.77,
-                       "ema50":  264.77,
-                       "ema100":  278.88,
-                       "ema200":  261.31,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:04:27Z",
+                       "price":  222.12,
+                       "open":  216.63,
+                       "high":  223.31,
+                       "low":  203.65,
+                       "volume":  8468500,
+                       "avgVolume20":  5776330,
+                       "changePct":  23.16,
+                       "historyDays":  500,
+                       "ema50":  263.1,
+                       "ema100":  277.76,
+                       "ema200":  260.86,
                        "bb":  {
-                                  "upper":  295.21,
-                                  "middle":  229.27,
-                                  "lower":  163.34
+                                  "upper":  291.91,
+                                  "middle":  227.41,
+                                  "lower":  162.9
                               },
                        "macd":  {
-                                    "macd":  -24.19,
-                                    "signal":  -24.19,
-                                    "hist":  0
+                                    "macd":  -21.83,
+                                    "signal":  -23.72,
+                                    "hist":  1.88
                                 },
-                       "rsi14":  33.04,
+                       "rsi14":  45.77,
                        "high52w":  499.48,
                        "low52w":  97.89,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         363.54
-                                     ],
                                      [
                                          "2026-06-04",
                                          358.05
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          180.35
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         222.12
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          228.86,
                                           233.92,
                                           237.18,
                                           241.46,
@@ -639,107 +641,114 @@
                                           272.72,
                                           270.53,
                                           268.22,
-                                          264.77
+                                          264.77,
+                                          263.1
                                       ]
                    },
     "en":  {
-               "headline":  "Record growth, broken chart: ALAB slides 15% in AI-wide selloff",
-               "technical":  "Trend: ALAB closed at $180.35 on 2026-11-20, far below all three EMAs (exponential moving averages, which weight recent prices more): EMA50 $264.77, EMA100 $278.88 and EMA200 $261.31. Price is about 31% under the 200-day line. The EMA50 has already slipped below the EMA100 and is now only about $3 above the EMA200. The medium-term uptrend is broken, and a bearish EMA50/200 cross is close. Momentum: MACD 12/26/9 (a trend-momentum gauge) is −24.19, exactly on its signal line, so the histogram is 0. Momentum is still deep in negative territory. Selling pressure had been easing, and Friday\u0027s drop tests that. RSI 14 (a 0–100 gauge; under 30 is oversold) is 33.04, near oversold but not there yet. Volatility: the Bollinger Bands (20-day, 2 standard deviations) are very wide, from $163.34 to $295.21. Price sits in the lower part, about $17 above the lower band. The stock is 64% below its 52-week high of $499.48, in the bottom fifth of the $97.89–$499.48 range. Volume was 7.92M shares, 1.44× the 20-day average, and the close was near the day\u0027s low of $176.78, so the selling had conviction. Support: the lower band near $163. Resistance: $203–206 (Friday\u0027s open and high), then the $229 mid-band.",
-               "fundamental":  "The business is speeding up even as the stock falls. Q3 2026 results came out on 2026-11-03. Revenue was a record $584.9M, up 154% from a year earlier and 49% from the prior quarter. GAAP gross margin was 72.3% and non-GAAP EPS was $1.32. Q4 guidance of $730–750M is well above the roughly $656M analysts expected. Scorpio fabric switches are now the largest product family, running above $1B a year. That supports the move from retimers into higher-value switching, a key part of the moat. Two products extend reach to neoclouds and enterprises: the Orion rack-scale boards (available Q1 2027) and the expanded Hyve/TD SYNNEX deal. Weak spots: the top three end customers made up about 86% of 2025 revenue. The CFO also said the first Scorpio X platforms had finished much of their initial ramp, which sparked fears that growth will flatten.",
-               "news":  [
-                            "2026-11-03: Q3 revenue was $584.9M (+154% YoY), and non-GAAP EPS of $1.32 beat estimates. Q4 guidance is $730–750M with about 72% gross margin. The stock still fell 4.4% on 2026-11-04.",
-                            "After earnings, the CFO said the first Scorpio X platforms had \u0027completed much of their initial deployment ramps.\u0027 That raised fears of a plateau. At BMO\u0027s conference in mid-November, management said Scorpio X should end 2026 well above a $1B yearly run rate. They also expect 2–3 more customers on top of the two hyperscalers already shipping.",
-                            "2026-11-05: ALAB fell 19.6% in a chip-wide selloff after the 2026-11-03 midterm elections. New governors in Texas, Ohio and Georgia, all big data center states, have promised construction moratoriums. Every peer fell by double digits, and ALAB fell the most.",
-                            "Analyst moves: UBS cut its price target to $290 from $300 on 2026-11-04. BMO started coverage at Outperform with a $375 target on 2026-11-06. The consensus rating is still Buy.",
-                            "2026-11-16: Astera and Hyve Solutions (part of TD SYNNEX) expanded their partnership. Hyve will put Orion compute, fabric and link boards into its air-cooled Apex racks. The stock still fell 8.8% that day as 33 of 34 large chip stocks declined, then rebounded about 4.8% on 2026-11-17.",
-                            "CEO Jitendra Mohan sold 96,089 shares in a transaction dated 2026-11-16, according to an insider-trading report.",
-                            "2026-11-20: ALAB fell 14.77% with no company-specific news. It was a broad AI selloff: Nvidia and AMD each lost more than 13%, Anthropic fell 8.5% on its first full trading day, and Nvidia\u0027s leadership change and worries about interest rates weighed on the whole group."
+               "caution":  "The steep disconnect between booming fundamentals and a 55.5% drawdown from the $499.48 high underscores how sensitive ALAB is to AI-sector sentiment and multiple compression. With its largest direct customer accounting for 53% of Q3 2026 revenue, any hyperscaler digestion or shift to proprietary interconnects could hit growth abruptly. Technically, a single 23.16% relief spike does not reverse a downtrend while price stays trapped below $227.41 middle-band resistance and the $260.86–$263.10 EMA cluster.",
+               "cons":  [
+                            "Customer concentration sharpened in the Nov 4 Form 10-Q, with the largest direct customer rising to 53% of Q3 revenue from 27% a year earlier.",
+                            "Shares remain well below EMA 50 ($263.10), EMA 100 ($277.76), and EMA 200 ($260.86) despite the Nov 23 rebound.",
+                            "GAAP gross margin compressed 390 bps YoY to 72.3% in Q3 2026 due to inventory charges, overhead, and warrant accounting.",
+                            "Multiple Wall Street brokers cut price targets on Nov 4 after Q3 earnings amid broader AI multiple compression and high-beta swings."
                         ],
-               "caution":  "The chart is in a clear downtrend. The stock is 64% below its June high, mostly because of market-wide moves rather than company news. That makes it a high-beta bet on AI mood: Nvidia\u0027s leadership turmoil, data center moratorium pledges, export-control scrutiny and rising rates can all keep pressure on it. Because so much revenue comes from a few customers, a pause at one hyperscaler would hurt. MACD is still deeply negative and RSI has not yet dropped below 30, so the selling may not be over. A break below about $163 would leave little support nearby.",
-               "opportunity":  "The business and the share price are moving in opposite directions. The Q4 guide alone implies about $3B in yearly revenue, margins are holding near 72%, and management expects 2–3 new Scorpio X customers. The 2026-11-20 drop came with no bad news from the company itself. RSI near 33 and price close to the lower Bollinger band put the stock where past selloffs have sometimes paused. For long-term holders, the test is whether Q4 delivers $730–750M. If it does, the drop looks more like a sentiment problem than damage to the business.",
+               "fundamental":  "Astera Labs\u0027 long-term moat in AI server connectivity is strengthening, not breaking. On Nov 3, 2026, it posted record Q3 revenue of $584.9M (+154% YoY, +49% QoQ), GAAP diluted EPS of $0.99, and non-GAAP EPS of $1.32, beating consensus. Management guided Q4 revenue to $730M–$750M and non-GAAP EPS to $1.62–$1.66, keeping non-GAAP gross margin near 72% after Q3\u0027s 72.4% (non-GAAP operating margin reached 44.7%). Crucially, Scorpio X-Series 320-lane fabric switches scaled into Astera\u0027s largest product family above a $1B annualized run-rate, expanding it beyond PCIe retimers into multi-product rack connectivity alongside Aries 7 (PCIe 7 copper/optical), Leo memory controllers, and the Orion rack architecture partnered with Hyve Solutions. The Nov 20 selloff and Nov 23 surge reflected Nvidia-driven sector shocks and valuation compression rather than business deterioration, though 53% top-customer concentration warrants close monitoring.",
+               "headline":  "Explosive Scorpio growth clashes with technical breakdown and high volatility",
+               "news":  [
+                            "Nov 23, 2026: ALAB jumped 23.16% to $222.12 on heavy volume after Nvidia\u0027s board reinstated Jensen Huang as CEO, sparking a broad AI supply-chain rebound following ALAB\u0027s ~14.8% slide on Nov 20.",
+                            "Nov 16, 2026: Astera Labs and Hyve Solutions announced an expanded collaboration integrating Astera\u0027s Orion rack-scale architecture and Scorpio fabric switches into Hyve\u0027s Apex AI server platform to accelerate inference deployments.",
+                            "Nov 5, 2026: BMO Capital Markets initiated coverage at Outperform with a $375 target, contrasting with Nov 4 post-earnings target trims from RBC ($400), Evercore ISI ($311), Needham ($300), UBS ($290), and TD Cowen ($225) amid sector multiple compression.",
+                            "Nov 4, 2026: Astera Labs\u0027 Q3 Form 10-Q revealed its largest direct customer rose to 53% of revenue (up from 27% in Q3 2025), while GAAP gross margin slipped 390 bps YoY to 72.3% on inventory charges, overhead, and warrant accounting.",
+                            "Nov 3, 2026: Astera Labs beat Q3 estimates with $584.9M revenue (+154% YoY) and $1.32 non-GAAP EPS as Scorpio switches became its largest product line, and guided Q4 revenue to $730M–$750M."
+                        ],
+               "opportunity":  "For long-term AI infrastructure holders, Astera Labs is proving it is far more than a PCIe retimer story. Scorpio fabric switches crossing a $1B annualized run-rate, paired with the Nov 16 Hyve Solutions Orion rack integration and Aries 7 optical/copper PCIe 7 roadmap, increases dollar content per AI rack—potentially exceeding $100,000 on fully loaded Orion designs. If Q4 revenue meets the $730M–$750M guide and shares eventually reclaim the $227.41 middle band and EMA 200 ($260.86), technicals would begin aligning with fundamentals.",
+               "opportunityCheck":  "Most of the page\u0027s AI-opportunity sub-scores fit Astera Labs\u0027 pure-play AI server exposure and rapid top-line expansion. However, the market-position score looks slightly conservative and could move higher now that Scorpio fabric switches have crossed a $1B annualized run-rate to become its largest product family, proving traction beyond PCIe retimers into open scale-up switching. Conversely, bottleneck and pricing power should remain restrained: GAAP gross margin slipped 390 bps YoY to 72.3% in Q3 2026, and one direct customer reached 53% of revenue, limiting unilateral pricing leverage.",
+               "pros":  [
+                            "Q3 2026 revenue grew 154% YoY and 49% QoQ to $584.9M on Nov 3, with Q4 guided even higher to $730M–$750M.",
+                            "Scorpio X-Series fabric switches hit volume production, becoming the top revenue family above a $1B annualized run-rate.",
+                            "Non-GAAP operating margin expanded to 44.7% in Q3 2026, showing strong operating leverage as rack content scales.",
+                            "The Nov 16 Hyve Solutions partnership integrates Astera\u0027s Orion rack-scale architecture into Apex AI servers, broadening AI inference reach."
+                        ],
                "risks":  [
-                             "AI-trade sentiment shock: Nvidia\u0027s leadership turmoil, money rotating into the Anthropic IPO and rising interest rates could squeeze valuations across the sector.",
-                             "Policy risk: data center construction moratoriums promised in Texas, Ohio and Georgia, plus wider scrutiny of chip export controls.",
-                             "Customer concentration: the top three end customers were about 86% of 2025 revenue.",
-                             "Scorpio X growth could flatten after the first hyperscaler ramps, and Broadcom and Marvell compete in switching.",
-                             "High volatility and valuation: about 22.6× trailing sales at the 2026-11-16 close, and moves of this size happened on about 20 trading days in the past year.",
-                             "Insider selling: the CEO sold 96,089 shares on 2026-11-16."
+                             "Extreme customer concentration: the largest direct customer reached 53% of Q3 2026 revenue, magnifying exposure to hyperscaler capex pauses or redesigns.",
+                             "Competition from proprietary scale-up fabrics (such as Nvidia NVLink) and larger silicon peers like Broadcom and Marvell.",
+                             "Gross margin pressure (GAAP fell to 72.3% from 76.2% YoY) from product mix, manufacturing overhead, and customer warrant accounting.",
+                             "High-beta valuation volatility tied to AI capital-expenditure sentiment and sharp semiconductor sector drawdowns."
                          ],
-               "summary":  "ALAB fell 14.77% to $180.35 on 2026-11-20 on heavy volume, extending a slide that began after the 2026-11-03 earnings report. The chart is bearish: price is far below all three EMAs, MACD is deeply negative and RSI is near oversold. The company news is strong, though: record revenue of $584.9M, a Q4 guide of $730–750M and Scorpio switches running above $1B a year. The big drops on Nov 5, 16 and 20 hit the whole sector. The moat thesis looks intact; the risks are market sentiment and customer concentration, not the product."
+               "summary":  "Astera Labs (ALAB) surged 23.16% to $222.12 on Nov 23, 2026 as Nvidia\u0027s CEO reinstatement sparked a fierce AI chip rebound, yet shares remain 55.5% below their $499.48 52-week high and beneath all major moving averages. Fundamentally, the moat thesis is intact: Q3 2026 revenue jumped 154% year-over-year to $584.9M on Nov 3 as Scorpio fabric switches surpassed a $1B annualized run-rate, with Q4 revenue guided to $730M–$750M. Still, 53% top-customer concentration, lower GAAP gross margins (72.3%), and steep multiple compression keep volatility extreme.",
+               "technical":  "Despite a 23.16% jump to $222.12 on Nov 23, 2026, ALAB\u0027s broader trend remains bearish. Price sits 15%–20% below its EMA 50 ($263.10), EMA 100 ($277.76), and EMA 200 ($260.86) — exponential moving averages tracking medium- and long-term trend direction. Notably, EMA 50 has already slipped below EMA 100 and sits barely above EMA 200, signaling structural weakness; the $260.86–$263.10 band now acts as heavy overhead resistance. On volatility, Bollinger Bands (a 20-day price envelope) span $162.90 to $291.91, reflecting extreme swings. After testing the lower band during the Nov 20 selloff, price rebounded to just under the middle band at $227.41, marking immediate resistance, while $203.65 (Nov 23 low) and $162.90 define key support. ALAB still sits 55.5% below its $499.48 52-week high (low: $97.89). Momentum is stabilizing but not yet bullish: MACD (a trend-momentum gauge) stays deep in negative territory at -21.83, though crossing above its -23.72 signal line (+1.88 histogram), while RSI 14 (a 0–100 momentum gauge; below 30 is oversold) recovered to 45.77. Volume of 8.47M shares (1.47x the 20-day average of 5.78M) confirmed strong buyer demand on the bounce."
            },
     "th":  {
-               "headline":  "ธุรกิจโตทำสถิติ แต่กราฟพัง: ALAB ร่วง 15% ตามแรงเทขายหุ้น AI",
-               "technical":  "แนวโน้ม: ALAB ปิดที่ $180.35 เมื่อ 20 พ.ย. 2026 ต่ำกว่าเส้น EMA (ค่าเฉลี่ยเคลื่อนที่ที่ให้น้ำหนักราคาล่าสุดมากกว่า) ทั้งสามเส้นอยู่มาก คือ EMA50 $264.77, EMA100 $278.88 และ EMA200 $261.31 ราคาต่ำกว่าเส้น 200 วันราว 31% ส่วน EMA50 หลุดลงใต้ EMA100 ไปแล้ว และเหลือห่างเหนือ EMA200 แค่ราว $3 แปลว่าขาขึ้นระยะกลางเสียไปแล้ว และใกล้เกิดจุดตัดเชิงลบของ EMA50/200 ด้านโมเมนตัม MACD 12/26/9 (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ −24.19 เท่ากับเส้นสัญญาณพอดี histogram จึงเป็น 0 โมเมนตัมยังลึกอยู่ในแดนลบ แรงขายเริ่มชะลอมาก่อน แต่การร่วงวันศุกร์กำลังทดสอบว่าจะชะลอจริงไหม RSI 14 (มาตรวัด 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 33.04 ใกล้แต่ยังไม่เข้าโซน oversold ด้านความผันผวน Bollinger Bands (20 วัน, 2 ส่วนเบี่ยงเบนมาตรฐาน) กว้างมาก ตั้งแต่ $163.34 ถึง $295.21 ราคาอยู่ช่วงล่าง สูงกว่าขอบล่างราว $17 ราคาต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ $499.48 ถึง 64% และอยู่ในหนึ่งในห้าส่วนล่างของกรอบ $97.89–$499.48 วอลุ่ม 7.92 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน 1.44 เท่า และปิดใกล้จุดต่ำสุดของวันที่ $176.78 แรงขายจึงหนักจริง แนวรับอยู่ที่ขอบล่างแถว $163 แนวต้านอยู่ที่ $203–206 (ราคาเปิดและสูงสุดวันศุกร์) ถัดไปคือ $229 (เส้นกลาง BB)",
-               "fundamental":  "ธุรกิจกลับเร่งตัวขึ้นสวนทางกับราคาหุ้น งบ Q3 2026 ประกาศเมื่อ 3 พ.ย. 2026 รายได้ทำสถิติที่ $584.9M โต 154% จากปีก่อน และ 49% จากไตรมาสก่อน GAAP gross margin อยู่ที่ 72.3% และ non-GAAP EPS อยู่ที่ $1.32 เป้า Q4 ที่ $730–750M สูงกว่าที่นักวิเคราะห์คาดไว้ราว $656M อยู่มาก สวิตช์ Scorpio กลายเป็นกลุ่มสินค้าที่ทำรายได้มากที่สุด ด้วยอัตรามากกว่า $1B ต่อปี ตอกย้ำว่าบริษัทขยับจาก retimer ไปสู่สวิตช์ที่มีมูลค่าสูงกว่า ซึ่งเป็นหัวใจของคูเมือง สินค้าที่ช่วยขยายฐานลูกค้าไปยัง neocloud และองค์กรมีสองตัว คือบอร์ด Orion ระดับแร็ก (วางขาย Q1 2027) และดีลที่ขยายกับ Hyve/TD SYNNEX จุดอ่อนคือลูกค้าปลายทาง 3 รายใหญ่คิดเป็นราว 86% ของรายได้ปี 2025 และ CFO บอกว่าแพลตฟอร์ม Scorpio X ชุดแรกเร่งติดตั้งไปมากแล้ว ทำให้ตลาดกังวลว่าการเติบโตจะเริ่มแบน",
-               "news":  [
-                            "3 พ.ย. 2026: รายได้ Q3 อยู่ที่ $584.9M (+154% YoY) และ non-GAAP EPS $1.32 ดีกว่าคาด เป้า Q4 อยู่ที่ $730–750M โดย gross margin ราว 72% แต่หุ้นยังลง 4.4% ในวันที่ 4 พ.ย.",
-                            "หลังประกาศงบ CFO บอกว่าแพลตฟอร์ม Scorpio X ชุดแรก \u0027completed much of their initial deployment ramps\u0027 ตลาดจึงกลัวว่าการเติบโตจะแบน ในงานประชุมของ BMO ช่วงกลางเดือน พ.ย. ผู้บริหารยืนยันว่า Scorpio X จะจบปี 2026 ด้วยอัตรารายได้มากกว่า $1B ต่อปีอย่างชัดเจน และคาดว่าจะมีลูกค้าใหม่อีก 2–3 ราย นอกเหนือจาก hyperscaler 2 รายที่ส่งของอยู่แล้ว",
-                            "5 พ.ย. 2026: ALAB ร่วง 19.6% ตามแรงเทขายหุ้นชิปทั้งกลุ่ม หลังการเลือกตั้งกลางเทอมเมื่อ 3 พ.ย. ผู้ว่าการรัฐคนใหม่ในเท็กซัส โอไฮโอ และจอร์เจีย ซึ่งล้วนเป็นรัฐที่มีดาต้าเซ็นเตอร์มาก ประกาศจะระงับการก่อสร้าง หุ้นในกลุ่มเดียวกันลงเกิน 10% ทุกตัว และ ALAB ลงหนักที่สุด",
-                            "ความเห็นนักวิเคราะห์: UBS ลดราคาเป้าหมายเหลือ $290 จาก $300 เมื่อ 4 พ.ย. ส่วน BMO เริ่มออกบทวิเคราะห์ด้วยคำแนะนำ Outperform เป้า $375 เมื่อ 6 พ.ย. ภาพรวมนักวิเคราะห์ยังให้ Buy",
-                            "16 พ.ย. 2026: Astera และ Hyve Solutions (บริษัทในเครือ TD SYNNEX) ขยายความร่วมมือ Hyve จะนำบอร์ด Orion ทั้งชุดประมวลผล fabric และ link ไปใส่ในแร็ก Apex ที่ระบายความร้อนด้วยอากาศ แต่หุ้นยังลง 8.8% ในวันนั้น เพราะหุ้นชิปขนาดใหญ่ 33 จาก 34 ตัวลดลง ก่อนจะเด้งกลับราว 4.8% ในวันที่ 17 พ.ย.",
-                            "CEO Jitendra Mohan ขายหุ้น 96,089 หุ้น ในรายการลงวันที่ 16 พ.ย. 2026 ตามรายงานการซื้อขายของผู้บริหาร",
-                            "20 พ.ย. 2026: ALAB ร่วง 14.77% โดยไม่มีข่าวเฉพาะของบริษัท เป็นแรงเทขายหุ้น AI ทั้งตลาด Nvidia และ AMD ลงกว่า 13% Anthropic ลง 8.5% ในวันซื้อขายเต็มวันแรก และการเปลี่ยนผู้นำของ Nvidia กับความกังวลเรื่องดอกเบี้ยกดดันทั้งกลุ่ม"
+               "caution":  "ภาพที่สวนทางกันระหว่างงบที่โตแรงกับราคาหุ้นที่ร่วงลง 55.5% จากจุดสูงสุด $499.48 สะท้อนว่า ALAB อ่อนไหวสูงมากต่ออารมณ์ตลาด AI และการหดตัวของ Valuation ยิ่งไปกว่านั้น การที่ลูกค้ารายใหญ่สุดครองสัดส่วนถึง 53% ของรายได้ Q3 2026 ทำให้หาก Hyperscaler ชะลอคำสั่งซื้อหรือเปลี่ยนไปใช้โครงข่ายเชื่อมต่อเฉพาะของตนเอง รายได้อาจสะดุดทันที ในทางเทคนิค การดีดแรงวันเดียว +23.16% ยังไม่ถือเป็นการกลับตัวตราบใดที่ราคายังติดใต้แนวต้าน $227.41 และกลุ่ม EMA ช่วง $260.86–$263.10",
+               "cons":  [
+                            "การพึ่งพิงลูกค้ากระจุกตัวสูงขึ้นมาก โดยแบบ Form 10-Q วันที่ 4 พ.ย. เผยว่าลูกค้ารายใหญ่สุดมีสัดส่วนรายได้ถึง 53% ใน Q3 2026 เพิ่มจาก 27% ในปีก่อน",
+                            "ราคาหุ้นยังอยู่ต่ำกว่าเส้น EMA 50 ($263.10), EMA 100 ($277.76) และ EMA 200 ($260.86) แม้จะดีดแรงเมื่อวันที่ 23 พ.ย.",
+                            "อัตรากำไรขั้นต้น GAAP ลดลง 390 bps YoY เหลือ 72.3% ใน Q3 2026 จากต้นทุนคงคลัง ค่าใช้จ่ายการผลิต และผลทางบัญชีของ Warrant ลูกค้า",
+                            "โบรกเกอร์หลายแห่งปรับลดราคาเป้าหมายเมื่อวันที่ 4 พ.ย. หลังงบ Q3 ท่ามกลางการหดตัวของ P/E กลุ่ม AI และความผันผวนระดับสูง"
                         ],
-               "caution":  "กราฟอยู่ในขาลงชัดเจน หุ้นต่ำกว่าจุดสูงสุดเดือนมิถุนายนถึง 64% ส่วนใหญ่เพราะภาวะตลาด ไม่ใช่ข่าวของบริษัท หุ้นจึงขึ้นลงแรงตามอารมณ์ตลาดต่อ AI ปัจจัยกดดันที่อาจยืดเยื้อ ได้แก่ ความวุ่นวายเรื่องผู้นำของ Nvidia การประกาศระงับการสร้างดาต้าเซ็นเตอร์ การจับตามาตรการคุมส่งออกชิป และดอกเบี้ยขาขึ้น รายได้พึ่งลูกค้าไม่กี่ราย ถ้า hyperscaler รายเดียวชะลอสั่งซื้อก็กระทบหนัก MACD ยังติดลบลึกและ RSI ยังไม่หลุด 30 แรงขายอาจยังไม่จบ ถ้าหลุด $163 แนวรับถัดไปจะอยู่ห่างออกไปมาก",
-               "opportunity":  "ธุรกิจกับราคาหุ้นกำลังวิ่งสวนทางกัน เป้า Q4 อย่างเดียวคิดเป็นรายได้ราว $3B ต่อปี margin ยังอยู่ราว 72% และผู้บริหารคาดว่า Scorpio X จะได้ลูกค้าใหม่อีก 2–3 ราย การร่วงเมื่อ 20 พ.ย. ไม่มีข่าวร้ายจากบริษัทเลย RSI ราว 33 และราคาที่ใกล้ขอบล่าง Bollinger ทำให้หุ้นอยู่ในโซนที่การเทขายในอดีตมักชะลอตัว สำหรับผู้ถือยาว จุดชี้วัดคือ Q4 ทำได้ $730–750M ตามเป้าหรือไม่ ถ้าทำได้ การปรับฐานรอบนี้ก็มาจากอารมณ์ตลาดมากกว่าความเสียหายของธุรกิจ",
+               "fundamental":  "จุดแข็งระยะยาว (Moat) ของ Astera Labs ในตลาดชิปเชื่อมต่อเซิร์ฟเวอร์ AI แข็งแกร่งขึ้นกว่าเดิม วันที่ 3 พ.ย. 2026 บริษัทประกาศรายได้ Q3 สูงเป็นประวัติการณ์ที่ $584.9M (+154% YoY, +49% QoQ) กำไรสุทธิต่อหุ้น GAAP $0.99 และ Non-GAAP EPS $1.32 สูงกว่าตลาดคาด พร้อมให้เป้า Q4 โดดเด่นที่รายได้ $730M–$750M และ Non-GAAP EPS $1.62–$1.66 โดยรักษา Non-GAAP Gross Margin ใกล้ระดับ 72% (Q3 อยู่ที่ 72.4% และ Non-GAAP Operating Margin แตะ 44.7%) จุดเปลี่ยนสำคัญคือสวิตช์ Scorpio X-Series แบบ 320-lane เร่งผลิตจนกลายเป็นกลุ่มรายได้หลักทะลุรันเรต $1B ต่อปี ยกระดับบริษัทจากผู้ขาย PCIe Retimer สู่ผู้ให้บริการเชื่อมต่อระดับ Rack ครบวงจรร่วมกับ Aries 7 (PCIe 7 ทั้งทองแดงและออปติคัล), Leo และสถาปัตยกรรม Orion ที่จับมือกับ Hyve Solutions การร่วงวันที่ 20 พ.ย. และรีบาวด์ 23 พ.ย. จึงมาจากแรงกระแทกฝั่ง Nvidia และ Valuation มากกว่าพื้นฐานที่เสื่อมถอย แม้การกระจุกตัวของลูกค้ารายใหญ่ 53% ยังต้องจับตาใกล้ชิดก็ตาม",
+               "headline":  "Scorpio โตระเบิดสวนทางกราฟขาลงและความผันผวนสุดเหวี่ยง",
+               "news":  [
+                            "23 พ.ย. 2026: หุ้น ALAB พุ่ง 23.16% ปิดที่ $222.12 ด้วยวอลุ่มหนาแน่น หลังบอร์ด Nvidia ประกาศคืนตำแหน่งซีอีโอให้ Jensen Huang หนุนหุ้นซัพพลายเชน AI ฟื้นตัวแรงจากการร่วงราว 14.8% เมื่อวันที่ 20 พ.ย.",
+                            "16 พ.ย. 2026: Astera Labs และ Hyve Solutions ประกาศขยายความร่วมมือ นำสถาปัตยกรรมระดับแร็ค Orion และสวิตช์ Scorpio ไปติดตั้งบนแพลตฟอร์มเซิร์ฟเวอร์ AI รุ่น Apex เพื่อเร่งกำลังการประมวลผล AI Inference",
+                            "5 พ.ย. 2026: BMO Capital Markets เริ่มวิเคราะห์หุ้นด้วยคำแนะนำ Outperform เป้าหมาย $375 สวนทางหลายโบรกเกอร์ที่ปรับลดเป้าเมื่อวันที่ 4 พ.ย. เช่น RBC ($400), Evercore ISI ($311), Needham ($300), UBS ($290) และ TD Cowen ($225) จากแรงกดดันด้าน Valuation กลุ่มชิป",
+                            "4 พ.ย. 2026: รายงาน Form 10-Q ไตรมาส 3 ระบุว่าลูกค้ารายตรงที่ใหญ่ที่สุดเพิ่มสัดส่วนเป็น 53% ของรายได้รวม (จาก 27% ใน Q3 2025) ขณะที่ GAAP Gross Margin ลดลง 390 bps YoY เหลือ 72.3% จากค่าใช้จ่ายสินค้าคงคลัง ต้นทุนผลิต และบัญชี Warrant",
+                            "3 พ.ย. 2026: Astera Labs รายงานงบ Q3 2026 ชนะคาดการณ์ด้วยรายได้ $584.9M (+154% YoY) และ Non-GAAP EPS $1.32 โดยตระกูล Scorpio ขึ้นเป็นรายได้อันดับหนึ่ง พร้อมให้เป้ารายได้ Q4 ที่ $730M–$750M"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI บริษัทกำลังพิสูจน์ว่าตนเองมีศักยภาพไกลกว่าแค่ชิป PCIe Retimer การที่สวิตช์ Scorpio แตะรันเรตเกิน $1B ต่อปี ผสานดีลร่วมกับ Hyve Solutions เมื่อ 16 พ.ย. และแผนผลิตภัณฑ์ Aries 7 (PCIe 7 ทั้งทองแดงและออปติคัล) ช่วยเพิ่มมูลค่าชิ้นส่วนต่อแร็ค AI ได้สูงกว่า $100,000 ในระบบ Orion แบบจัดเต็ม หากงบ Q4 ทำได้ตามเป้า $730M–$750M และราคาหุ้นกลับมายืนเหนือเส้นกลาง $227.41 รวมถึง EMA 200 ($260.86) ได้ ภาพเทคนิคจะเริ่มสอดคล้องกับพื้นฐานอีกครั้ง",
+               "opportunityCheck":  "คะแนนโอกาส AI ส่วนใหญ่บนหน้าเว็บสอดคล้องดีกับภาพธุรกิจที่เป็นผู้เล่น AI Server เต็มตัวและเติบโตระดับสามหลัก อย่างไรก็ดี คะแนนด้านตำแหน่งทางการตลาดดูอนุรักษนิยมไปเล็กน้อยและสมควรขยับขึ้น หลังสวิตช์ Scorpio ทำรันเรตทะลุ $1B ต่อปีจนขึ้นเป็นกลุ่มรายได้อันดับหนึ่ง ยืนยันความสำเร็จในการขยายจาก PCIe Retimer สู่ตลาด Scale-up Switching แบบเปิด ในทางกลับกัน คะแนนด้านคอขวดและอำนาจตั้งราคาควรจำกัดไว้ไม่ให้สูงเกินไป เพราะ GAAP Gross Margin ลดลง 390 bps YoY เหลือ 72.3% และลูกค้ารายใหญ่สุดครองรายได้ถึง 53% ซึ่งลดอำนาจต่อรองราคาของบริษัท",
+               "pros":  [
+                            "รายได้ Q3 2026 วันที่ 3 พ.ย. โตแรง 154% YoY และ 49% QoQ แตะ $584.9M พร้อมตั้งเป้ารายได้ Q4 สูงถึง $730M–$750M",
+                            "สวิตช์ Scorpio X-Series เข้าสู่การผลิตจำนวนมากและขึ้นเป็นกลุ่มสินค้าทำเงินสูงสุดด้วยรันเรตเกิน $1B ต่อปี",
+                            "Non-GAAP Operating Margin ขยายตัวสู่ 44.7% ใน Q3 2026 สะท้อนการประหยัดต่อขนาดที่แข็งแกร่งเมื่อมูลค่าชิปต่อแร็คเพิ่มขึ้น",
+                            "ความร่วมมือกับ Hyve Solutions วันที่ 16 พ.ย. นำสถาปัตยกรรมระดับแร็ค Orion เข้าสู่เซิร์ฟเวอร์ Apex ช่วยขยายตลาด AI Inference"
+                        ],
                "risks":  [
-                             "อารมณ์ตลาดต่อหุ้น AI สะดุด: ความวุ่นวายเรื่องผู้นำของ Nvidia เงินที่ไหลไปหา IPO ของ Anthropic และดอกเบี้ยขาขึ้น อาจกดมูลค่าหุ้นทั้งกลุ่ม",
-                             "ความเสี่ยงด้านนโยบาย: การประกาศระงับสร้างดาต้าเซ็นเตอร์ในเท็กซัส โอไฮโอ และจอร์เจีย รวมถึงการจับตามาตรการคุมส่งออกชิป",
-                             "พึ่งพาลูกค้าน้อยราย: ลูกค้าปลายทาง 3 รายใหญ่คิดเป็นราว 86% ของรายได้ปี 2025",
-                             "การเติบโตของ Scorpio X อาจแบนลงหลัง hyperscaler ชุดแรกติดตั้งเสร็จ และยังมีคู่แข่งด้านสวิตช์อย่าง Broadcom และ Marvell",
-                             "ผันผวนสูงและมูลค่าแพง: ราว 22.6 เท่าของยอดขายย้อนหลัง ณ ราคาปิด 16 พ.ย. และหุ้นเคลื่อนไหวแรงระดับนี้ราว 20 วันในรอบปีที่ผ่านมา",
-                             "ผู้บริหารขายหุ้น: CEO ขาย 96,089 หุ้นเมื่อ 16 พ.ย. 2026"
+                             "การกระจุกตัวของลูกค้าสูงมาก โดยลูกค้ารายตรงอันดับหนึ่งคิดเป็น 53% ของรายได้ Q3 2026 เสี่ยงสูงหาก Hyperscaler ชะลอลงทุนหรือเปลี่ยนสถาปัตยกรรม",
+                             "การแข่งขันจากระบบเชื่อมต่อเฉพาะของค่ายใหญ่ เช่น NVLink ของ Nvidia รวมถึงยักษ์ใหญ่ชิปเครือข่ายอย่าง Broadcom และ Marvell",
+                             "แรงกดดันต่ออัตรากำไรขั้นต้น (GAAP ลดจาก 76.2% เหลือ 72.3% YoY) จากสัดส่วนสินค้า ต้นทุนผลิต และผลทางบัญชีของ Warrant ลูกค้า",
+                             "ความผันผวนของราคาหุ้นระดับ High-beta ที่อ่อนไหวต่ออารมณ์ตลาดงบลงทุน AI และการปรับฐานของหุ้นเซมิคอนดักเตอร์"
                          ],
-               "summary":  "ALAB ร่วง 14.77% มาอยู่ที่ $180.35 เมื่อ 20 พ.ย. 2026 ด้วยวอลุ่มหนาแน่น ต่อเนื่องจากขาลงที่เริ่มหลังประกาศงบเมื่อ 3 พ.ย. ภาพเทคนิคเป็นขาลง ราคาต่ำกว่า EMA ทั้งสามเส้นมาก MACD ติดลบลึก และ RSI ใกล้โซน oversold แต่ข่าวของบริษัทเป็นบวก ทั้งรายได้ทำสถิติ $584.9M เป้า Q4 ที่ $730–750M และสวิตช์ Scorpio ที่ทำรายได้มากกว่า $1B ต่อปี การร่วงหนักวันที่ 5, 16 และ 20 พ.ย. เกิดกับทั้งกลุ่ม คูเมืองของบริษัทยังแข็งแรงอยู่ ความเสี่ยงอยู่ที่อารมณ์ตลาดและการพึ่งลูกค้าน้อยราย ไม่ใช่ที่ตัวสินค้า"
+               "summary":  "หุ้น Astera Labs (ALAB) พุ่ง 23.16% ปิดที่ $222.12 เมื่อวันที่ 23 พ.ย. 2026 รับข่าวบอร์ด Nvidia คืนตำแหน่งซีอีโอให้ Jensen Huang จุดกระแสรีบาวด์กลุ่มชิป AI แต่ราคายังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($499.48) ถึง 55.5% และอยู่ใต้เส้นค่าเฉลี่ยหลักทั้งหมด ด้านพื้นฐาน Moat ยังแข็งแกร่ง หลังงบ Q3 2026 วันที่ 3 พ.ย. รายได้โต 154% YoY แตะ $584.9M จากสวิตช์ Scorpio ที่ทำรันเรตทะลุ $1B ต่อปี พร้อมเป้า Q4 ที่ $730M–$750M ทว่าความเสี่ยงลูกค้ารายใหญ่ 53% อัตรากำไร GAAP ที่ลดลง (72.3%) และการหดตัวของ Valuation ยังทำให้หุ้นผันผวนหนัก",
+               "technical":  "แม้ราคาจะดีดขึ้น 23.16% มาปิดที่ $222.12 เมื่อวันที่ 23 พ.ย. 2026 แต่โครงสร้างแนวโน้มหลักของ ALAB ยังอยู่ในภาวะขาลง ราคาอยู่ต่ำกว่าเส้น EMA 50 ($263.10), EMA 100 ($277.76) และ EMA 200 ($260.86) — ซึ่งเป็นเส้นค่าเฉลี่ยเคลื่อนที่บอกทิศทางแนวโน้มระยะกลางถึงยาว — ถึงราว 15%–20% โดย EMA 50 ตัดลงต่ำกว่า EMA 100 แล้วและจ่อใกล้ EMA 200 ทำให้โซน $260.86–$263.10 เป็นแนวต้านหนัก ด้านความผันผวน Bollinger Bands (กรอบราคาเฉลี่ย 20 วัน) กว้างมากที่ $162.90–$291.91 หลังร่วงทดสอบกรอบล่างเมื่อ 20 พ.ย. ราคาดีดขึ้นมาจ่อใต้เส้นกลางที่ $227.41 ซึ่งเป็นแนวต้านใกล้สุด ส่วนแนวรับสำคัญอยู่ที่โลว์วันที่ 23 พ.ย. ($203.65) และกรอบล่าง ($162.90) โดยราคายังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($499.48) ถึง 55.5% (โลว์ $97.89) ฝั่งโมเมนตัมเริ่มทรงตัวแต่ยังไม่เป็นขาขึ้น: MACD (ตัววัดแรงส่งแนวโน้ม) ยังติดลบที่ -21.83 แม้ตัดขึ้นเหนือเส้น Signal ที่ -23.72 (Histogram +1.88) ขณะที่ RSI 14 (มาตรวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นมาอยู่ที่ 45.77 ส่วนวอลุ่มวันที่ 23 พ.ย. อยู่ที่ 8.47M หุ้น (สูงกว่าค่าเฉลี่ย 20 วันที่ 5.78M ราว 1.47 เท่า) ยืนยันแรงซื้อหนุนการรีบาวด์ระยะสั้นได้ดี"
            },
     "sources":  [
                     {
-                        "title":  "Astera Labs Reports Third Quarter 2026 Financial Results (Form 8-K Exhibit 99.1)",
-                        "publisher":  "SEC EDGAR / Astera Labs",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001736297/000173629726000044/q326exhibit991.htm",
-                        "date":  "2026-11-03"
+                        "date":  "2026-11-03",
+                        "publisher":  "Astera Labs Investor Relations",
+                        "title":  "Astera Labs Reports Third Quarter 2026 Financial Results",
+                        "url":  "https://ir.asteralabs.com/news-releases/news-release-details/astera-labs-reports-third-quarter-2026-financial-results"
                     },
                     {
-                        "title":  "What Just Happened To Astera Labs Stock?",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/alab/articles/623343/what-just-happened-to-astera-labs-stock/2026-11-06",
-                        "date":  "2026-11-06"
+                        "date":  "2026-11-04",
+                        "publisher":  "U.S. Securities and Exchange Commission",
+                        "title":  "Form 10-Q for the Quarterly Period Ended September 30, 2026",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1736297/000173629726000045/0001736297-26-000045-index.html"
                     },
                     {
-                        "title":  "Astera Labs Soars 16% in a Week as Chips Rebound: Scorpio X Eyes a $1 Billion Run Rate",
-                        "publisher":  "TIKR",
-                        "url":  "https://www.tikr.com/blog/astera-labs-soars-16-in-a-week-as-chips-rebound-scorpio-x-eyes-a-1-billion-run-rate",
-                        "date":  "2026-11-14"
-                    },
-                    {
+                        "date":  "2026-11-16",
+                        "publisher":  "Astera Labs",
                         "title":  "Hyve Solutions and Astera Labs Collaborate to Bring AI Inference Capacity to Customers Faster",
-                        "publisher":  "GlobeNewswire",
-                        "url":  "https://www.globenewswire.com/news-release/2026/11/16/3403604/0/en/index.html",
-                        "date":  "2026-11-16"
+                        "url":  "https://www.asteralabs.com/hyve-solutions-and-astera-labs-collaborate-to-bring-ai-inference-capacity-to-customers-faster/"
                     },
                     {
-                        "title":  "Why Is Astera Labs Stock Falling Again?",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/alab/articles/625789/why-is-astera-labs-stock-falling-again/2026-11-17",
-                        "date":  "2026-11-17"
-                    },
-                    {
-                        "title":  "Astera Labs Stock Rebounds Tuesday as Expanded Hyve Deal Speeds AI Deployments",
+                        "date":  "2026-11-05",
                         "publisher":  "Benzinga",
-                        "url":  "https://www.benzinga.com/trading-ideas/movers/26/11/63337033/astera-labs-stock-rebounds-tuesday-as-expanded-hyve-deal-speeds-ai-deployments",
-                        "date":  "2026-11-17"
+                        "title":  "This Astera Labs Analyst Begins Coverage On A Bullish Note; Here Are Top 2 Initiations For Thursday",
+                        "url":  "https://www.benzinga.com/news/26/11/48734065/this-astera-labs-analyst-begins-coverage-on-a-bullish-note-here-are-top-2-initiations-for-thursday"
                     },
                     {
-                        "title":  "Astera Labs (NASDAQ:ALAB) Shares Down 2.4% on Insider Selling",
-                        "publisher":  "Defense World",
-                        "url":  "https://www.defenseworld.net/2026/11/20/astera-labs-nasdaqalab-shares-down-2-4-on-insider-selling.html",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-04",
+                        "publisher":  "Benzinga",
+                        "title":  "Astera Labs (ALAB) Stock Price Target \u0026 Analyst Forecast",
+                        "url":  "https://www.benzinga.com/analyst-ratings/price-target/26/11/48737397/astera-labs-alab-stock-price-target-2026-analyst-forecast"
                     },
                     {
-                        "title":  "Anthropic falls nearly 9% in first full day of trading as tech stocks get shellacked",
-                        "publisher":  "CNBC",
-                        "url":  "https://www.cnbc.com/2026/11/20/anthropic-stock-ai-amd-nvidia.html",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-23",
+                        "publisher":  "NVIDIA Newsroom",
+                        "title":  "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
                     }
                 ]
 }

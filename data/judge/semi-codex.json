@@ -1,0 +1,318 @@
+{
+    "sector":  "semi",
+    "judge":  "codex",
+    "provider":  "codex",
+    "model":  "gpt-6.2-sol",
+    "effort":  "high",
+    "account":  "Codex (ChatGPT)",
+    "generatedAt":  "2026-11-24T04:55:41Z",
+    "costUsd":  null,
+    "stocks":  {
+                   "AMBQ":  {
+                                "m":  [
+                                          14,
+                                          10,
+                                          6,
+                                          5,
+                                          2
+                                      ],
+                                "o":  [
+                                          10,
+                                          15,
+                                          11,
+                                          7,
+                                          12
+                                      ],
+                                "why_en":  "SPOT gives Ambiq an energy-efficiency advantage in battery-powered AI devices, with growing edge AI demand and persistent losses limiting evidence of durable returns. [Source](https://ir.ambiq.com/news/news-details/2026/Ambiq-Reports-Third-Quarter-2026-Financial-Results/default.aspx)",
+                                "why_th":  "เทคโนโลยี SPOT ช่วยให้ Ambiq ได้เปรียบด้านการประหยัดพลังงานในอุปกรณ์ AI ที่ใช้แบตเตอรี่และได้อานิสงส์จากความต้องการ Edge AI ที่เพิ่มขึ้น ส่วนการขาดทุนต่อเนื่องทำให้ผลตอบแทนระยะยาวยังไม่ชัดเจน"
+                            },
+                   "AMD":  {
+                               "m":  [
+                                         17,
+                                         14,
+                                         14,
+                                         16,
+                                         11
+                                     ],
+                               "o":  [
+                                         14,
+                                         19,
+                                         16,
+                                         12,
+                                         16
+                                     ],
+                               "why_en":  "EPYC design wins and chiplet expertise underpin AMD’s moat, and Instinct accelerators and Helios racks give hyperscalers a credible second source for AI compute. [Source](https://ir.amd.com/news-events/press-releases/detail/1303/amd-reports-third-quarter-2026-financial-results)",
+                               "why_th":  "การที่ลูกค้าเลือกใช้ EPYC ในผลิตภัณฑ์และความเชี่ยวชาญด้านชิปเล็ตสร้างความได้เปรียบให้ AMD ส่วนชิปเร่งประมวลผล Instinct และระบบแร็ก Helios ทำให้ผู้ให้บริการคลาวด์รายใหญ่มีผู้จัดหาระบบประมวลผล AI เพิ่มอีกหนึ่งรายที่เชื่อถือได้"
+                           },
+                   "AVGO":  {
+                                "m":  [
+                                          18,
+                                          18,
+                                          15,
+                                          18,
+                                          17
+                                      ],
+                                "o":  [
+                                          16,
+                                          19,
+                                          18,
+                                          17,
+                                          17
+                                      ],
+                                "why_en":  "Deep custom-chip design relationships and VMware switching costs protect returns, while hyperscaler spending drives demand for Broadcom’s AI accelerators and Ethernet switching silicon. [Source](https://investors.broadcom.com/news-releases/news-release-details/broadcom-inc-announces-third-quarter-fiscal-year-2026-financial)",
+                                "why_th":  "ความร่วมมือใกล้ชิดกับลูกค้าในการออกแบบชิปและต้นทุนการย้ายออกจาก VMware ช่วยรักษาผลตอบแทน ขณะที่การลงทุนของผู้ให้บริการคลาวด์รายใหญ่หนุนความต้องการชิปเร่งประมวลผล AI และชิปสวิตช์ Ethernet ของ Broadcom"
+                            },
+                   "CBRS":  {
+                                "m":  [
+                                          18,
+                                          10,
+                                          9,
+                                          7,
+                                          1
+                                      ],
+                                "o":  [
+                                          20,
+                                          19,
+                                          13,
+                                          10,
+                                          14
+                                      ],
+                                "why_en":  "Wafer-scale chips win customers for fast AI inference, with a concentrated customer base and persistent operating losses limiting evidence of a durable moat. [Source](https://investors.cerebras.ai/static-files/9c021f1a-3cc4-44b6-97fa-ef1a4ad2e0d8)",
+                                "why_th":  "ชิปขนาดเต็มเวเฟอร์ดึงดูดลูกค้าที่ต้องการประมวลผลโมเดล AI ด้วยความเร็วสูง แต่การพึ่งพาลูกค้ารายหลักเพียงไม่กี่รายและการขาดทุนจากการดำเนินงานต่อเนื่องทำให้ความได้เปรียบระยะยาวยังไม่ชัดเจน"
+                            },
+                   "IONQ":  {
+                                "m":  [
+                                          14,
+                                          7,
+                                          9,
+                                          6,
+                                          1
+                                      ],
+                                "o":  [
+                                          1,
+                                          6,
+                                          4,
+                                          2,
+                                          8
+                                      ],
+                                "why_en":  "Trapped-ion hardware offers differentiated quantum capabilities, with persistent operating losses and scant evidence of paid AI workloads limiting the case for durable returns and AI upside. [Source](https://investors.ionq.com/files/content_files/IONQ_Q3-2026-Investor-Presentation-vFinal-2026-11-05.pdf)",
+                                "why_th":  "ฮาร์ดแวร์ควอนตัมแบบกักไอออนมีความสามารถเฉพาะตัว ส่วนการขาดทุนจากการดำเนินงานต่อเนื่องและหลักฐานที่มีน้อยว่าลูกค้ายอมจ่ายเพื่อใช้งาน AI ทำให้ทั้งผลตอบแทนระยะยาวและโอกาสด้าน AI ยังไม่ชัดเจน"
+                            },
+                   "MPWR":  {
+                                "m":  [
+                                          15,
+                                          14,
+                                          8,
+                                          12,
+                                          16
+                                      ],
+                                "o":  [
+                                          13,
+                                          17,
+                                          15,
+                                          13,
+                                          14
+                                      ],
+                                "why_en":  "Efficient power modules and customer qualification support consistently strong margins, and rising accelerator power requirements expand demand for Monolithic’s power delivery products. [Source](https://www.sec.gov/Archives/edgar/data/1280452/000162828026069440/mpwr-20260930.htm)",
+                                "why_th":  "โมดูลจ่ายไฟประสิทธิภาพสูงและการผ่านการรับรองจากลูกค้าช่วยให้บริษัททำอัตรากำไรได้ดีอย่างสม่ำเสมอ ขณะที่ชิปเร่งประมวลผล AI ที่ใช้ไฟมากขึ้นหนุนความต้องการผลิตภัณฑ์จ่ายไฟของ Monolithic"
+                            },
+                   "MRVL":  {
+                                "m":  [
+                                          16,
+                                          15,
+                                          10,
+                                          14,
+                                          8
+                                      ],
+                                "o":  [
+                                          16,
+                                          18,
+                                          16,
+                                          14,
+                                          16
+                                      ],
+                                "why_en":  "Custom silicon design and optical DSP expertise help Marvell retain customers, while larger AI clusters drive demand for both custom accelerators and faster interconnects. [Source](https://investor.marvell.com/sec-filings/all-sec-filings/content/0001835632-26-000025/mrvl-20260801.htm)",
+                                "why_th":  "ความเชี่ยวชาญด้านการออกแบบชิปเฉพาะทางและชิปประมวลผลสัญญาณสำหรับการสื่อสารผ่านแสงช่วยให้ Marvell รักษาฐานลูกค้า ขณะที่คลัสเตอร์ AI ที่ใหญ่ขึ้นหนุนความต้องการทั้งชิปเร่งประมวลผลสั่งทำและระบบเชื่อมต่อความเร็วสูงขึ้น"
+                            },
+                   "MU":  {
+                              "m":  [
+                                        16,
+                                        13,
+                                        7,
+                                        18,
+                                        11
+                                    ],
+                              "o":  [
+                                        16,
+                                        18,
+                                        15,
+                                        17,
+                                        13
+                                    ],
+                              "why_en":  "Memory process expertise and capital-intensive manufacturing protect Micron’s position, while AI servers drive demand for qualified HBM and higher-capacity DRAM. [Source](https://investors.micron.com/news/press-release/2026/Micron-Technology-Inc--Reports-Record-Fiscal-Fourth-Quarter-and-Full-Year-2026-Results/default.aspx)",
+                              "why_th":  "ความเชี่ยวชาญด้านกระบวนการผลิตหน่วยความจำและเงินลงทุนสูงที่ต้องใช้ในการผลิตช่วยรักษาตำแหน่งของ Micron ขณะที่เซิร์ฟเวอร์ AI หนุนความต้องการ HBM ที่ผ่านการรับรองและ DRAM ความจุสูงขึ้น"
+                          },
+                   "NVDA":  {
+                                "m":  [
+                                          20,
+                                          20,
+                                          20,
+                                          19,
+                                          18
+                                      ],
+                                "o":  [
+                                          20,
+                                          19,
+                                          20,
+                                          19,
+                                          18
+                                      ],
+                                "why_en":  "CUDA and integrated systems make switching costly, and NVIDIA’s dominant accelerator and networking businesses capture demand from both AI training and inference. [Source](https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Announces-Financial-Results-for-Third-Quarter-Fiscal-2027/default.aspx)",
+                                "why_th":  "CUDA และระบบที่รวมฮาร์ดแวร์กับซอฟต์แวร์ทำให้ลูกค้าย้ายค่ายได้ยาก ขณะที่ความเป็นผู้นำด้านชิปเร่งประมวลผลและเครือข่ายช่วยให้ NVIDIA ได้ประโยชน์จากทั้งการฝึกและการใช้งานโมเดล AI"
+                            },
+                   "NVTS":  {
+                                "m":  [
+                                          12,
+                                          9,
+                                          6,
+                                          5,
+                                          0
+                                      ],
+                                "o":  [
+                                          9,
+                                          17,
+                                          10,
+                                          8,
+                                          12
+                                      ],
+                                "why_en":  "GaN and SiC expertise gives Navitas a foothold in emerging 800-volt AI power systems, with a small sales base and persistent losses limiting demonstrated durability. [Source](https://navitassemi.gcs-web.com/static-files/6c9e6ac6-25e8-4ffe-8a3a-21542f14ac9a)",
+                                "why_th":  "ความเชี่ยวชาญด้าน GaN และ SiC ช่วยให้ Navitas เริ่มเจาะตลาดระบบจ่ายไฟ 800 โวลต์สำหรับ AI ส่วนฐานรายได้ขนาดเล็กและการขาดทุนต่อเนื่องทำให้ความได้เปรียบระยะยาวยังไม่ชัดเจน"
+                            },
+                   "ON":  {
+                              "m":  [
+                                        14,
+                                        13,
+                                        8,
+                                        15,
+                                        12
+                                    ],
+                              "o":  [
+                                        9,
+                                        17,
+                                        12,
+                                        10,
+                                        15
+                                    ],
+                              "why_en":  "Power semiconductor manufacturing scale and customer qualifications protect onsemi’s position, while higher rack power and advanced voltage regulators create room to grow in AI data centers. [Source](https://investor.onsemi.com/news-releases/news-release-details/onsemi-reports-third-quarter-2026-results)",
+                              "why_th":  "ขนาดการผลิตชิปกำลังและการผ่านการรับรองจากลูกค้าช่วยรักษาตำแหน่งของ onsemi ขณะที่แร็กที่ใช้ไฟมากขึ้นและวงจรควบคุมแรงดันไฟฟ้ารุ่นใหม่เปิดโอกาสให้บริษัทเติบโตในศูนย์ข้อมูล AI"
+                          },
+                   "OSS":  {
+                               "m":  [
+                                         8,
+                                         11,
+                                         5,
+                                         4,
+                                         2
+                                     ],
+                               "o":  [
+                                         10,
+                                         13,
+                                         8,
+                                         5,
+                                         10
+                                     ],
+                               "why_en":  "Rugged systems engineering and lengthy qualification help retain customers, and defense and commercial edge AI applications offer growth from a small revenue base. [Source](https://onestopsystems.com/blogs/press-releases/one-stop-systems-reports-q3-2026-results)",
+                               "why_th":  "ความเชี่ยวชาญในการออกแบบระบบทนสภาพแวดล้อมหนักและการรับรองที่ใช้เวลานานช่วยรักษาฐานลูกค้า ขณะที่ Edge AI ในงานกลาโหมและเชิงพาณิชย์เปิดโอกาสให้รายได้เติบโตจากฐานที่ยังเล็ก"
+                           },
+                   "QCOM":  {
+                                "m":  [
+                                          18,
+                                          16,
+                                          14,
+                                          17,
+                                          16
+                                      ],
+                                "o":  [
+                                          7,
+                                          15,
+                                          14,
+                                          8,
+                                          16
+                                      ],
+                                "why_en":  "Wireless patents and Snapdragon design wins sustain Qualcomm’s moat, while on-device inference and its Amazon data center collaboration create opportunities for AI growth. [Source](https://www.sec.gov/Archives/edgar/data/804328/000080432826000127/qcom092726erex991.htm)",
+                                "why_th":  "สิทธิบัตรด้านการสื่อสารไร้สายและการที่ผู้ผลิตเลือกใช้ Snapdragon ช่วยรักษาความได้เปรียบของ Qualcomm ขณะที่การประมวลผล AI บนอุปกรณ์และความร่วมมือกับ Amazon ด้านศูนย์ข้อมูลเปิดทางให้ธุรกิจ AI เติบโต"
+                            },
+                   "SITM":  {
+                                "m":  [
+                                          16,
+                                          14,
+                                          9,
+                                          12,
+                                          5
+                                      ],
+                                "o":  [
+                                          13,
+                                          16,
+                                          15,
+                                          12,
+                                          14
+                                      ],
+                                "why_en":  "MEMS timing expertise and customer qualifications protect SiTime’s niche, while faster optical links in AI clusters increase demand for precision timing chips. [Source](https://investor.sitime.com/files/doc_financials/2026/q3/SiTime-SITM-3Q-2026-Earnings-Call-Transcript-Nov-04-2026.pdf)",
+                                "why_th":  "ความเชี่ยวชาญด้านชิปกำหนดจังหวะสัญญาณแบบ MEMS และการผ่านการรับรองจากลูกค้าช่วยรักษาตำแหน่งของ SiTime ในตลาดเฉพาะทาง ขณะที่การเชื่อมต่อผ่านแสงที่เร็วขึ้นในคลัสเตอร์ AI เพิ่มความต้องการชิปกำหนดจังหวะความแม่นยำสูง"
+                            },
+                   "SKH":  {
+                               "m":  [
+                                         18,
+                                         16,
+                                         9,
+                                         18,
+                                         12
+                                     ],
+                               "o":  [
+                                         17,
+                                         18,
+                                         18,
+                                         18,
+                                         15
+                                     ],
+                               "why_en":  "HBM stacking expertise, accelerator qualification and memory manufacturing scale support SK hynix’s leadership as AI systems require more high-bandwidth memory. [Source](https://news.skhynix.com/en/q3-2026-business-results/)",
+                               "why_th":  "ความเชี่ยวชาญในการซ้อนชิป HBM การผ่านการรับรองให้ใช้กับชิปเร่งประมวลผล และขนาดการผลิตหน่วยความจำช่วยให้ SK hynix รักษาความเป็นผู้นำในช่วงที่ระบบ AI ต้องการหน่วยความจำแบนด์วิดท์สูงมากขึ้น"
+                           },
+                   "SMSN":  {
+                                "m":  [
+                                          17,
+                                          14,
+                                          12,
+                                          20,
+                                          13
+                                      ],
+                                "o":  [
+                                          15,
+                                          18,
+                                          17,
+                                          17,
+                                          16
+                                      ],
+                                "why_en":  "Samsung’s memory manufacturing scale is hard to match, and rising HBM4 shipments and advanced foundry orders give it two ways to benefit from AI demand. [Source](https://news.samsung.com/global/samsung-electronics-announces-third-quarter-2026-results)",
+                                "why_th":  "ขนาดการผลิตหน่วยความจำของ Samsung เป็นข้อได้เปรียบที่คู่แข่งตามได้ยาก และทั้งยอดส่งมอบ HBM4 ที่เพิ่มขึ้นกับคำสั่งจ้างผลิตชิปด้วยกระบวนการขั้นสูงช่วยให้บริษัทได้ประโยชน์จากความต้องการ AI"
+                            },
+                   "TSM":  {
+                               "m":  [
+                                         20,
+                                         19,
+                                         18,
+                                         20,
+                                         20
+                                     ],
+                               "o":  [
+                                         14,
+                                         19,
+                                         20,
+                                         20,
+                                         17
+                                     ],
+                               "why_en":  "Leading process nodes and costly requalification protect foundry returns, while scarce CoWoS capacity gives TSMC leverage as GPU and custom accelerator demand grows. [Source](https://investor.tsmc.com/english/encrypt/files/encrypt_file/reports/2026-10/eba4fac72873bf546b669bd2b5d973df5c93215d/TSMC%203Q26%20Transcript.pdf)",
+                               "why_th":  "ความเป็นผู้นำด้านกระบวนการผลิตชิปและต้นทุนสูงในการรับรองผู้ผลิตรายใหม่ช่วยรักษาผลตอบแทน ขณะที่กำลังผลิตแพ็กเกจแบบ CoWoS ที่มีจำกัดเพิ่มอำนาจต่อรองให้ TSMC เมื่อความต้องการ GPU และชิปเร่งประมวลผลสั่งทำเพิ่มขึ้น"
+                           }
+               }
+}

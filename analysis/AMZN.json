@@ -6,45 +6,41 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T05:42:31Z",
+    "generatedAt":  "2026-11-24T03:39:03Z",
     "costUsd":  null,
-    "stance":  "bearish",
+    "stance":  "neutral",
     "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:AMZN",
                        "yahoo":  "AMZN",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-23T05:38:05Z",
-                       "price":  246.82,
-                       "open":  253.48,
-                       "high":  259.97,
-                       "low":  245.31,
-                       "volume":  74108100,
-                       "avgVolume20":  52964545,
-                       "changePct":  -4.1,
-                       "historyDays":  501,
-                       "ema50":  256.67,
-                       "ema100":  254.15,
-                       "ema200":  247.87,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:34:57Z",
+                       "price":  255.39,
+                       "open":  260.26,
+                       "high":  262.48,
+                       "low":  251.25,
+                       "volume":  53166700,
+                       "avgVolume20":  54000785,
+                       "changePct":  3.47,
+                       "historyDays":  500,
+                       "ema50":  256.62,
+                       "ema100":  254.18,
+                       "ema200":  247.94,
                        "bb":  {
-                                  "upper":  275.29,
-                                  "middle":  257.42,
-                                  "lower":  239.56
+                                  "upper":  275.22,
+                                  "middle":  257.74,
+                                  "lower":  240.25
                               },
                        "macd":  {
-                                    "macd":  0.94,
-                                    "signal":  1.99,
-                                    "hist":  -1.04
+                                    "macd":  0.59,
+                                    "signal":  1.71,
+                                    "hist":  -1.12
                                 },
-                       "rsi14":  42.3,
+                       "rsi14":  48.44,
                        "high52w":  287.2,
                        "low52w":  196,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         250.02
-                                     ],
                                      [
                                          "2026-06-04",
                                          253.79
@@ -520,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          246.82
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         255.39
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          252.89,
                                           252.93,
                                           252.66,
                                           252.37,
@@ -642,111 +641,118 @@
                                           256.62,
                                           257.06,
                                           257.07,
-                                          256.67
+                                          256.67,
+                                          256.62
                                       ]
                    },
     "en":  {
-               "caution":  "Near-term sentiment is caught between historic AI investment and market impatience over cash generation. With ~$220 billion in 2026 CapEx keeping free cash flow deeply negative (-$42.4 billion trailing) and depreciation poised to climb, any hint of slowing AWS demand or tighter cloud margins could trigger further multiple compression. Technically, breaking below the EMA 200 ($247.87) on 1.4x average volume leaves the stock vulnerable to testing lower support ($239.56), while Anthropic\u0027s daily public share price (ANT) now adds mark-to-market volatility to AMZN\u0027s earnings and sentiment.",
+               "caution":  "The main near-term overhang is capital intensity: Amazon\u0027s ~$220B 2026 CapEx plan drove trailing free cash flow to -$42.4B and prompted heavy debt issuance, with elevated spending extending into 2027. If enterprise AI monetization slows before depreciation peaks, margins could compress. Technically, AMZN\u0027s Nov 23 rally faded from $262.48 to $255.39 on slightly below-average volume, leaving resistance intact at the EMA 50 ($256.62). Regulatory friction also lingers ahead of the Mar 29, 2027 FTC retail antitrust trial.",
                "cons":  [
-                            "Full-year 2026 cash CapEx of ~$220 billion ($75.9 billion in Q3 alone) drove trailing 12-month free cash flow to a $42.4 billion outflow.",
-                            "Q3 diluted EPS of $1.89 missed consensus (~$1.96) and total sales of $201.9 billion slightly trailed estimates, as North America (6%) and International (5%) retail slowed.",
-                            "Technical posture turned bearish on November 20 after a 4.1% drop on 1.4x average volume broke below the EMA 200 ($247.87).",
-                            "Heavy infrastructure spending risks margin compression from rising depreciation, while the FTC retail antitrust trial looms in March 2027."
+                            "Full-year 2026 cash CapEx of ~$220B drove trailing 12-month free cash flow to -$42.4B despite $168.3B in operating cash flow.",
+                            "Q3 diluted EPS of $1.89 missed consensus (~$1.96) on Oct 29, with management signaling heavy AI spending continuing into 2027.",
+                            "AMZN remains 11.1% off its $287.20 high with negative MACD momentum (-1.12 histogram) and fading intraday gains on Nov 23.",
+                            "The FTC\u0027s e-commerce antitrust trial is locked for Mar 29, 2027, alongside a separate FTC ad-practices suit filed in Aug 2026."
                         ],
-               "fundamental":  "Amazon\u0027s Q3 2026 report (October 29) showed booming AI cloud growth offsetting slower retail. Net sales rose 12% year-over-year to $201.9 billion, operating income jumped 61% to a record $28.1 billion (13.9% margin), and Q4 sales guidance of $240.0–$247.0 billion signals 12%–16% growth. AWS accelerated 39.3% to $46.0 billion ($17.8 billion operating income) as Bedrock token volume surged nearly 17x and Trainium chips scaled across inference workloads, underpinning management\u0027s \u003e40% AWS growth outlook for 2027–2028. Anthropic\u0027s November 19 Nasdaq IPO further validated the ecosystem, valuing Amazon\u0027s ~14.6% stake near $187 billion alongside a $110 billion AWS compute commitment through 2036. The cost is heavy: ~$220 billion in 2026 CapEx pushed trailing free cash flow to -$42.4 billion, despite operating cash flow rising 29% to $168.3 billion.",
-               "headline":  "AWS surges 39% and Anthropic IPOs, yet $220B CapEx weighs on AMZN",
+               "fundamental":  "Amazon\u0027s Q3 2026 results (Oct 29) reinforced its cloud-ecosystem moat even as spending pressured cash flow. Total revenue rose 12% YoY to $201.9B with a record 13.9% operating margin ($28.1B), powered by AWS\u0027s 39.3% surge to $46.0B ($184B annualized run rate) and a $578B backlog. AI demand is scaling rapidly: Bedrock token volume grew nearly 17x YoY, while Trainium and Graviton commitments jumped over 20x. Anthropic\u0027s Nov 19 IPO ($1.5T valuation) crystallized Amazon\u0027s 14.7% stake alongside $110B+ in AWS compute commitments, and the Nov 23 reported $7.5B Decart optimization deal strengthens AWS\u0027s push to sell Trainium externally. However, funding ~$220B in 2026 CapEx pushed trailing free cash flow to -$42.4B, keeping near-term sentiment cautious despite healthy Q4 guidance ($240B–$247B sales; $28.5B–$33.5B operating income).",
+               "headline":  "AWS 39% surge and Anthropic IPO collide with $220B CapEx drag",
                "news":  [
-                            "October 29, 2026: Amazon reported Q3 net sales of $201.9 billion (+12% YoY) and diluted EPS of $1.89 (below ~$1.96 consensus), while AWS jumped 39.3% to $46.0 billion with a $578 billion backlog. Management guided \u003e40% AWS growth for 2027–2028 and reaffirmed ~$220 billion in 2026 CapEx, swinging trailing free cash flow to -$42.4 billion.",
-                            "October 30–November 20, 2026: Analysts split over CapEx versus AI momentum, with Morgan Stanley ($350 to $335), TD Cowen ($350 to $340), and Wedbush ($310 to $298) trimming targets post-earnings on cash burn and depreciation. Later, UBS assumed Buy at $340 (November 17) and Oppenheimer lifted its target from $285 to $310 (November 20) citing Anthropic\u0027s IPO value.",
-                            "Late October 2026: CEO Andy Jassy indicated 2027 AWS capacity is largely sold out and 2028 heavily booked, prompting tiered Bedrock pricing with a ~75% Priority premium alongside discounted Flex and Batch options. AWS also scaled Trainium2 clusters (Project Rainier) ahead of 3nm Trainium3 deployments.",
-                            "November 19–20, 2026: Anthropic debuted on Nasdaq (ticker ANT) at $83/share, opening at $111.50 and closing day one at $97.17 before slipping to $88.91 on November 20, valuing Amazon\u0027s ~14.6% stake near $161 billion–$187 billion. Despite the windfall and Anthropic\u0027s $110 billion AWS compute commitment, AMZN fell 4.1% on November 20 amid a broad Nasdaq tech sell-off."
+                            "Oct 29, 2026: Q3 2026 revenue grew 12% YoY to $201.9B and AWS accelerated 39.3% to $46.0B ($578B backlog), while Q4 guidance targeted $240B–$247B in sales and $28.5B–$33.5B in operating income. However, EPS of $1.89 missed estimates (~$1.96) and ~$220B in 2026 CapEx pushed trailing free cash flow to -$42.4B.",
+                            "Nov 18–19, 2026: Anthropic priced its IPO at $83/share to raise $81.3B and debuted on Nasdaq (ANT) at a $1.5T valuation. SEC filings confirmed Amazon holds a 14.7% non-voting stake and at least $110B in AWS compute commitments from Anthropic.",
+                            "Nov 20, 2026: Oppenheimer raised its AMZN price target from $285 to $310 with an Outperform rating, highlighting the value unlocked by Anthropic\u0027s IPO and AWS\u0027s AI infrastructure momentum.",
+                            "Nov 23, 2026: Amazon announced an agreement to acquire Decart\u0027s AI optimization stack and ~120 engineers for a reported $7.5B to boost inference efficiency across Trainium chips as AWS prepares broader external chip sales."
                         ],
-               "opportunity":  "For long-term AI-infrastructure holders, the gap between weakening price action and strengthening cloud fundamentals is notable. AWS\u0027s 39.3% acceleration, $578 billion backlog, and \u003e40% multi-year growth outlook provide rare multi-year demand visibility, backed by sold-out 2027 capacity and Trainium\u0027s cost edge over third-party GPUs. Anthropic\u0027s IPO also turned an $18 billion bet into a liquid stake worth ~$161 billion–$187 billion while locking in $110 billion of AWS usage. Upcoming AWS re:Invent (starting November 30, 2026) offers a near-term catalyst for Trainium3 and enterprise AI updates.",
-               "opportunityCheck":  "The page\u0027s overall AI-opportunity profile looks broadly right on market growth, competitive position, and optionality—the last reinforced by Anthropic\u0027s November 19 IPO and Trainium3\u0027s roadmap. However, I would raise the bottleneck and pricing power score meaningfully: CEO Andy Jassy noted 2027 AWS capacity is largely sold out, backlog hit $578 billion, and Bedrock introduced a ~75% Priority-tier premium while holding a 38.7% cloud margin. I would also nudge AI revenue exposure slightly higher, since AWS already supplies 63% of operating income despite retail dominating top-line sales.",
+               "opportunity":  "Long-term AI infrastructure holders have clear fundamental catalysts: AWS\u0027s $578B backlog—backed by Anthropic\u0027s $110B+ compute commitment—gives multi-year revenue visibility as capacity comes online. Acquiring Decart\u0027s kernel and compiler optimization stack on Nov 23 directly tackles software friction around Trainium, potentially expanding AWS\u0027s gross margins and opening external chip sales beyond Nvidia GPUs. Meanwhile, Amazon\u0027s 14.7% stake in newly public Anthropic adds substantial balance-sheet value, while record 13.9% operating margins show core retail and ads are still improving.",
+               "opportunityCheck":  "The page\u0027s sub-scores look broadly reasonable, but AI revenue exposure now warrants an upward revision. AWS generated $17.8B of Amazon\u0027s $28.1B Q3 operating income on Oct 29, with Bedrock token volume jumping 17x YoY and AWS backlog reaching $578B, showing AI drives an outsized share of profit even alongside retail. Bottleneck and pricing power could also edge slightly higher after the Nov 23 Decart acquisition bolsters Trainium\u0027s software layer, though it should stay moderate given Amazon\u0027s reliance on third-party GPUs and $220B CapEx burden.",
                "pros":  [
-                            "AWS Q3 2026 revenue surged 39.3% year-over-year to $46.0 billion ($184 billion run rate) at a 38.7% operating margin, with management guiding over 40% growth in 2027 and 2028.",
-                            "AWS backlog reached $578 billion on triple-digit growth, and Anthropic committed to at least $110 billion in AWS compute spending through 2036.",
-                            "Anthropic\u0027s November 19 Nasdaq IPO valued Amazon\u0027s ~14.6% stake at roughly $161 billion to $187 billion on an $18 billion investment.",
-                            "Custom Trainium chips power a large share of Bedrock inference as token volume jumped nearly 17x year-over-year, lifting company operating margin to a record 13.9%."
+                            "AWS revenue accelerated 39.3% YoY to $46.0B in Q3 2026 (Oct 29), lifting its backlog to $578B and operating margin to 38.7%.",
+                            "Anthropic\u0027s Nov 19 Nasdaq IPO ($1.5T valuation) validated Amazon\u0027s 14.7% equity stake and $110B+ in committed AWS compute spending.",
+                            "The Nov 23 reported $7.5B Decart optimization deal strengthens Trainium\u0027s software stack after Trainium and Graviton commitments grew over 20x YoY.",
+                            "Amazon posted a record 13.9% operating margin ($28.1B operating income) in Q3 and guided Q4 operating income to $28.5B–$33.5B."
                         ],
                "risks":  [
-                             "CapEx and cash-flow drag: ~$220 billion in 2026 spending drove trailing free cash flow to -$42.4 billion and will raise future depreciation expense.",
-                             "Anthropic equity volatility: Daily mark-to-market swings in public ANT shares (down ~8.5% on November 20) can cause sharp fluctuations in Amazon\u0027s reported net income and sentiment.",
-                             "E-commerce deceleration: North America (+6%) and International (+5%) retail growth slowed amid cautious consumer spending and promotional discounting.",
-                             "Regulatory and cloud competition: The FTC antitrust bench trial is scheduled for March 2027, while Microsoft Azure and Google Cloud compete aggressively for enterprise AI workloads."
+                             "Sustained AI CapEx (~$220B in 2026 and higher in 2027) keeping free cash flow negative and increasing depreciation drag.",
+                             "Slower-than-expected external adoption of Trainium chips or execution risk integrating Decart\u0027s optimization stack.",
+                             "Intense frontier-AI and cloud competition from Microsoft Azure, Google Cloud, and OpenAI pressuring pricing.",
+                             "U.S. antitrust overhang from the FTC e-commerce trial set for Mar 29, 2027, and the Aug 2026 FTC ad-practices lawsuit."
                          ],
-               "summary":  "Amazon closed at $246.82 on November 20, 2026, falling 4.1% on heavy volume below its 50-, 100-, and 200-day moving averages. The slide reflects anxiety over $220 billion in 2026 capital spending—driving trailing free cash flow to negative $42.4 billion in Q3 (October 29)—and a tech sell-off after Anthropic\u0027s November 19 IPO. Fundamentally, Amazon\u0027s cloud moat strengthened: AWS jumped 39.3% year-over-year to $46.0 billion with a $578 billion backlog, while Anthropic\u0027s debut valued Amazon\u0027s 14.6% stake near $187 billion alongside a $110 billion AWS compute commitment.",
-               "technical":  "As of November 20, 2026, AMZN trades at $246.82, down 4.1% on the day (intraday range $245.31–$259.97). Although the three exponential moving averages (EMAs, which smooth price trends) remain stacked bullishly—EMA 50 at $256.67 above EMA 100 at $254.15 and EMA 200 at $247.87—price has just broken below all three, putting the long-term uptrend under immediate test. Momentum confirms the slide: MACD (a trend-momentum gauge comparing short- and long-term averages) sits at 0.94 below its 1.99 signal line, leaving a negative -1.04 histogram. RSI 14 (a 0–100 momentum scale; below 30 is oversold) reads 42.3—bearish and weak, yet not oversold enough to suggest selling exhaustion. Within Bollinger Bands (a volatility channel around the 20-day average spanning $239.56 to $275.29), AMZN sits well below the $257.42 midline and near the $239.56 lower band, while standing 14.1% off its $287.20 52-week high (range $196.00–$287.20). Crucially, volume hit 74.1 million shares versus a 53.0 million 20-day average (1.4x), confirming institutional selling. Near-term resistance sits at $247.87 (EMA 200) and $256.67–$257.42 (EMA 50/midline); initial support lies at $239.56."
+               "summary":  "AMZN closed at $255.39 on Nov 23, 2026 (+3.47%), rebounding on Amazon\u0027s reported $7.5B deal for Decart\u0027s AI optimization stack and Anthropic\u0027s Nov 19 IPO, which showcased Amazon\u0027s 14.7% stake and $110B+ AWS compute commitments. On Oct 29, Q3 AWS sales jumped 39.3% YoY to $46.0B with a $578B backlog, confirming Amazon\u0027s cloud moat. Yet shares remain 11.1% below their $287.20 52-week high as ~$220B in 2026 CapEx pushed trailing free cash flow to -$42.4B. Technically, AMZN sits in neutral consolidation just below its EMA 50 ($256.62) on average volume.",
+               "technical":  "As of Nov 23, 2026, AMZN exhibits a neutral consolidation within a still-intact long-term uptrend. Price closed at $255.39 (+3.47%), sitting between its EMA 50 ($256.62) and EMA 100 ($254.18)—exponential moving averages that track medium-term trends—while holding 3.0% above its long-term EMA 200 ($247.94). Because EMA 50 \u003e EMA 100 \u003e EMA 200, the primary trend remains constructive, though intraday selling pulled shares back from $262.48. Momentum is muted: RSI 14—a 0–100 momentum gauge where under 30 is oversold and over 70 is overbought—reads a neutral 48.44. MACD—a trend-momentum gauge comparing fast and slow averages—is positive at 0.59 but below its 1.71 signal line (histogram -1.12), reflecting lingering pullback pressure. In Bollinger Bands—a 20-day volatility envelope ($240.25–$275.22)—price sits just under the $257.74 midline and 11.1% below its $287.20 52-week high (vs $196.00 low). Volume of 53.17M slightly trailed the 54.00M 20-day average, showing limited breakout conviction. Key resistance sits at $256.62–$262.48, with support near $254.18 and $247.94."
            },
     "th":  {
-               "caution":  "ระยะสั้นตลาดยังชั่งน้ำหนักระหว่างการลงทุน AI ครั้งประวัติศาสตร์กับความกังวลด้านกระแสเงินสด งบลงทุนปี 2026 ราว $220 พันล้านทำให้กระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบหนัก (-$42.4 พันล้าน) และจะกดดันค่าเสื่อมราคาในอนาคต หากดีมานด์ AWS ชะลอหรือมาร์จิ้นคลาวด์แคบลง หุ้นอาจถูกปรับลดมูลค่าต่อได้ ด้านเทคนิค การหลุด EMA 200 ($247.87) พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย 1.4 เท่าเปิดความเสี่ยงลงทดสอบแนวรับ $239.56 ขณะที่ราคาหุ้น ANT ในตลาดจะเพิ่มความผันผวนต่อกำไรทางบัญชีของ AMZN รายวัน",
+               "caution":  "แรงกดดันระยะสั้นหลักคือการลงทุนขนาดมหาศาล โดยงบลงทุน (CapEx) ปี 2026 ราว $220B กดให้กระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ -$42.4B และต้องออกหุ้นกู้เพิ่ม ขณะที่ผู้บริหารส่งสัญญาณลงทุนสูงต่อเนื่องในปี 2027 หากรายได้ AI จากองค์กรโตช้ากว่าค่าเสื่อมราคาที่พุ่งขึ้น มาร์จิ้นอาจถูกกดดันได้ ด้านเทคนิค การดีดตัววันที่ 23 พ.ย. ถูกขายทำกำไรจาก $262.48 กลับมา $255.39 ด้วยวอลุ่มต่ำกว่าค่าเฉลี่ยเล็กน้อย ทำให้แนวต้าน EMA 50 ($256.62) ยังไม่ถูกทะลุ นอกจากนี้ยังมีความเสี่ยงคดีผูกขาดของ FTC ที่กำหนดไต่สวนวันที่ 29 มี.ค. 2027",
                "cons":  [
-                            "งบลงทุนปี 2026 สูงถึง ~$220 พันล้าน (ไตรมาส 3 ไตรมาสเดียว $75.9 พันล้าน) ดึงกระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ -$42.4 พันล้าน",
-                            "กำไรต่อหุ้นปรับลด Q3 อยู่ที่ $1.89 ต่ำกว่าคาด (~$1.96) และยอดขายรวม $201.9 พันล้านพลาดเป้าเล็กน้อย ขณะที่ค้าปลีกอเมริกาเหนือ (+6%) และต่างประเทศ (+5%) ชะลอตัว",
-                            "ภาพเทคนิคพลิกเป็นขาลงเมื่อวันที่ 20 พ.ย. หลังราคาร่วง 4.1% พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย 1.4 เท่าจนหลุดเส้น EMA 200 ($247.87)",
-                            "การลงทุนโครงสร้างพื้นฐานมหาศาลเสี่ยงกดดันอัตรากำไรจากค่าเสื่อมราคาที่เพิ่มขึ้น และยังมีคดีผูกขาดค้าปลีกของ FTC รอพิจารณาในเดือนมี.ค. 2027"
+                            "งบลงทุน (CapEx) ปี 2026 ราว $220B กดให้กระแสเงินสดอิสระ 12 เดือนย้อนหลังติดลบ -$42.4B แม้กระแสเงินสดจากการดำเนินงานสูงถึง $168.3B",
+                            "กำไรต่อหุ้น (EPS) ไตรมาส 3 อยู่ที่ $1.89 ต่ำกว่าตลาดคาดราว $1.96 (29 ต.ค.) พร้อมสัญญาณลงทุนโครงสร้างพื้นฐาน AI ต่อเนื่องในปี 2027",
+                            "ราคาหุ้นยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($287.20) ถึง 11.1% โดย MACD ยังเป็นลบ (-1.12) และถูกขายลดช่วงบวกระหว่างวันเมื่อ 23 พ.ย.",
+                            "คดีผูกขาดอีคอมเมิร์ซของ FTC ถูกล็อกวันพิจารณาคดีเป็น 29 มี.ค. 2027 ควบคู่กับคดีธุรกิจโฆษณาที่ FTC ฟ้องเพิ่มเมื่อ ส.ค. 2026"
                         ],
-               "fundamental":  "งบไตรมาส 3 ปี 2026 (ประกาศ 29 ต.ค.) สะท้อนภาพที่คลาวด์ AI โตแรงช่วยพยุงธุรกิจค้าปลีกที่ชะลอ ยอดขายรวมเพิ่ม 12% YoY แตะ $201.9 พันล้าน กำไรจากการดำเนินงานพุ่ง 61% ทำสถิติสูงสุด $28.1 พันล้าน (มาร์จิ้น 13.9%) และคาดการณ์ยอดขาย Q4 ที่ $240.0–$247.0 พันล้านคิดเป็นเติบโต 12%–16% จุดเด่นคือ AWS ที่เร่งตัว 39.3% สู่ $46.0 พันล้าน (กำไรดำเนินงาน $17.8 พันล้าน) โดยปริมาณโทเคนบน Bedrock พุ่งเกือบ 17 เท่า และชิป Trainium ถูกใช้รันงาน inference แพร่หลาย หนุนเป้าการเติบโต AWS เกิน 40% ในปี 2027–2028 นอกจากนี้ การ IPO ของ Anthropic วันที่ 19 พ.ย. ยังตีมูลค่าหุ้นสัดส่วน ~14.6% ของ Amazon ราว $187 พันล้านพร้อมสัญญาเช่าใช้ AWS ขั้นต่ำ $110 พันล้านถึงปี 2036 แต่ต้องแลกกับงบลงทุนปี 2026 ราว $220 พันล้านที่กดกระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ -$42.4 พันล้าน แม้กระแสเงินสดจากการดำเนินงานโต 29% เป็น $168.3 พันล้านก็ตาม",
-               "headline":  "AWS พุ่ง 39% และ Anthropic เข้าตลาด แต่งบลงทุน $220B กดดัน AMZN",
+               "fundamental":  "งบไตรมาส 3 ปี 2026 (29 ต.ค.) ตอกย้ำความแข็งแกร่งของคูเมืองธุรกิจคลาวด์แม้กระแสเงินสดถูกกดดันจากการลงทุน รายได้รวมโต 12% YoY แตะ $201.9B พร้อมอัตรากำไรจากการดำเนินงานสูงสุดเป็นประวัติการณ์ที่ 13.9% ($28.1B) นำโดย AWS ที่โตเร่งขึ้น 39.3% สู่ $46.0B (คิดเป็นรายได้เฉลี่ยต่อปี $184B) และ Backlog แตะ $578B ความต้องการ AI พุ่งแรง โดยปริมาณโทเค็นบน Bedrock โตเกือบ 17 เท่า YoY และยอดจองชิป Trainium กับ Graviton โตเกิน 20 เท่า ด้านการเข้าตลาดของ Anthropic เมื่อ 19 พ.ย. (มูลค่า $1.5T) ช่วยสะท้อนมูลค่าหุ้น 14.7% ที่ Amazon ถือพร้อมคำมั่นใช้คลาวด์ AWS กว่า $110B ขณะที่ดีลซื้อเทคโนโลยีจาก Decart ราว $7.5B (23 พ.ย.) ช่วยเสริมแผนขายชิป Trainium สู่ลูกค้านอก อย่างไรก็ตาม งบ CapEx ปี 2026 ราว $220B กดกระแสเงินสดอิสระติดลบ -$42.4B ทำให้ตลาดยังระมัดระวังแม้คาดการณ์ไตรมาส 4 แข็งแกร่ง (ยอดขาย $240B–$247B, กำไรจากการดำเนินงาน $28.5B–$33.5B)",
+               "headline":  "AWS โตพุ่ง 39% และ IPO ของ Anthropic หนุน แต่ CapEx $220B ยังกดดันหุ้น",
                "news":  [
-                            "29 ต.ค. 2026: Amazon รายงานยอดขาย Q3 ที่ $201.9 พันล้าน (+12% YoY) และ EPS $1.89 (ต่ำกว่าคาด ~$1.96) แต่ AWS โตแรง 39.3% แตะ $46.0 พันล้านพร้อม Backlog $578 พันล้าน ผู้บริหารคาด AWS โตเกิน 40% ในปี 2027–2028 และยืนยันงบลงทุนปี 2026 ราว $220 พันล้าน ทำให้กระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ -$42.4 พันล้าน",
-                            "30 ต.ค.–20 พ.ย. 2026: นักวิเคราะห์เสียงแตกเรื่องงบลงทุนกับโอกาส AI โดย Morgan Stanley ($350 เหลือ $335), TD Cowen ($350 เหลือ $340) และ Wedbush ($310 เหลือ $298) ปรับลดเป้าราคาหลังงบเพราะกังวลค่าเสื่อมและกระแสเงินสด ต่อมา UBS ให้คำแนะนำ Buy เป้า $340 (17 พ.ย.) และ Oppenheimer ปรับเป้าจาก $285 เป็น $310 (20 พ.ย.) จากมูลค่าหุ้น Anthropic หลัง IPO",
-                            "ปลาย ต.ค. 2026: ซีอีโอ Andy Jassy ระบุว่ากำลังการประมวลผลของ AWS สำหรับปี 2027 ถูกจองเกือบเต็มและปี 2028 ถูกจองไปมากแล้ว ส่งผลให้ Bedrock ออกแพ็กเกจราคาแบบแบ่งระดับโดยคิดพรีเมียม Priority ราว 75% ควบคู่แพ็กเกจลดราคา Flex และ Batch พร้อมเร่งขยายคลัสเตอร์ Trainium2 (Project Rainier) ก่อนส่ง Trainium3 ขนาด 3nm",
-                            "19–20 พ.ย. 2026: Anthropic เข้าซื้อขายใน Nasdaq (ชื่อย่อ ANT) ที่ราคา IPO $83 เปิดวันแรก $111.50 และปิด $97.17 ก่อนย่อลงมาที่ $88.91 ในวันที่ 20 พ.ย. ทำให้สัดส่วนถือหุ้น ~14.6% ของ Amazon มีมูลค่าราว $161–$187 พันล้าน แม้ได้กำไรทางบัญชีมหาศาลและสัญญา AWS $110 พันล้าน แต่ AMZN ยังร่วง 4.1% วันที่ 20 พ.ย. ตามแรงขายหุ้นเทคใน Nasdaq"
+                            "29 ต.ค. 2026: รายได้ไตรมาส 3 โต 12% YoY สู่ $201.9B และ AWS โตเร่งขึ้น 39.3% สู่ $46.0B (Backlog $578B) พร้อมคาดการณ์ไตรมาส 4 ยอดขาย $240B–$247B และกำไรจากการดำเนินงาน $28.5B–$33.5B แต่ EPS ที่ $1.89 ต่ำกว่าคาด (~$1.96) และงบ CapEx ปี 2026 ราว $220B ดันกระแสเงินสดอิสระติดลบ -$42.4B",
+                            "18–19 พ.ย. 2026: Anthropic กำหนดราคา IPO ที่ $83/หุ้น ระดมทุน $81.3B และเข้าซื้อขายใน Nasdaq (ANT) ด้วยมูลค่า $1.5T โดยเอกสาร SEC ยืนยันว่า Amazon ถือหุ้นไร้สิทธิออกเสียง 14.7% และมีสัญญาใช้คลาวด์ AWS จาก Anthropic อย่างน้อย $110B",
+                            "20 พ.ย. 2026: Oppenheimer ปรับเพิ่มราคาเป้าหมาย AMZN จาก $285 เป็น $310 พร้อมคงคำแนะนำ Outperform โดยชี้ถึงมูลค่าที่ปลดล็อกจาก IPO ของ Anthropic และแรงส่งโครงสร้างพื้นฐาน AI ของ AWS",
+                            "23 พ.ย. 2026: Amazon ประกาศข้อตกลงซื้อเทคโนโลยีเพิ่มประสิทธิภาพ AI และทีมวิศวกรราว 120 คนของ Decart มูลค่าตามรายงานข่าว $7.5B เพื่อเพิ่มความเร็วการประมวลผลบนชิป Trainium รับแผนเปิดขายชิปสู่ลูกค้านอกวงกว้างขึ้น"
                         ],
-               "opportunity":  "สำหรับนักลงทุนสายโครงสร้างพื้นฐาน AI ระยะยาว ช่องว่างระหว่างราคาหุ้นที่อ่อนตัวกับพื้นฐานคลาวด์ที่แกร่งขึ้นถือว่าน่าจับตา AWS ที่เร่งโต 39.3% พร้อม Backlog $578 พันล้านและแนวโน้มโตเกิน 40% ในปี 2027–2028 ช่วยให้เห็นดีมานด์ระยะยาวชัดเจน หนุนด้วยกำลังการให้บริการปี 2027 ที่แทบเต็มและความได้เปรียบต้นทุนของชิป Trainium ด้านการ IPO ของ Anthropic เปลี่ยนเงินลงทุน $18 พันล้านเป็นหุ้นสภาพคล่องมูลค่า ~$161–$187 พันล้านพร้อมล็อกยอดใช้ AWS $110 พันล้าน ขณะที่งาน AWS re:Invent (เริ่ม 30 พ.ย. 2026) อาจเป็นปัจจัยหนุนระยะใกล้เรื่อง Trainium3 และบริการ AI องค์กร",
-               "opportunityCheck":  "คะแนนภาพรวมโอกาส AI ของหน้าเว็บดูเหมาะสมในด้านการเติบโตของตลาด ตำแหน่งผู้นำ และโอกาสต่อยอด (ซึ่งยิ่งชัดขึ้นหลัง Anthropic เข้า IPO วันที่ 19 พ.ย. และแผน Trainium3) แต่ควรปรับเพิ่มคะแนนด้านคอขวดและอำนาจกำหนดราคาอย่างมีนัยสำคัญ เพราะซีอีโอ Andy Jassy ระบุว่ากำลังให้บริการ AWS ปี 2027 แทบขายหมดแล้ว Backlog พุ่ง $578 พันล้าน และ Bedrock เก็บพรีเมียมระดับ Priority ได้ถึง ~75% ขณะรักษามาร์จิ้นคลาวด์ 38.7% นอกจากนี้ควรขยับคะแนนสัดส่วนรายได้ AI ขึ้นเล็กน้อย เนื่องจาก AWS ทำกำไรดำเนินงานให้บริษัทถึง 63% แม้รายได้หลักยังมาจากค้าปลีกก็ตาม",
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI ปัจจัยหนุนพื้นฐานยังชัดเจนมาก โดย Backlog ของ AWS ที่ $578B ซึ่งมีคำมั่นใช้คลาวด์จาก Anthropic กว่า $110B ช่วยสร้างความชัดเจนของรายได้หลายปีข้างหน้าเมื่อดาต้าเซ็นเตอร์ใหม่ทยอยเปิดใช้งาน การซื้อซอฟต์แวร์เพิ่มประสิทธิภาพระดับเคอร์เนลและคอมไพเลอร์ของ Decart เมื่อ 23 พ.ย. เข้ามาอุดจุดอ่อนด้านซอฟต์แวร์ของชิป Trainium โดยตรง ซึ่งอาจช่วยขยายมาร์จิ้น AWS และเปิดช่องทางขายชิปแข่งขันกับ GPU ของ Nvidia ขณะเดียวกัน หุ้น 14.7% ใน Anthropic ที่เข้าตลาดแล้วช่วยเสริมมูลค่าสินทรัพย์ในงบดุล ควบคู่อัตรากำไรจากการดำเนินงานที่ทำสถิติ 13.9%",
+               "opportunityCheck":  "คะแนนโอกาส AI บนหน้าเว็บโดยรวมถือว่าสมเหตุสมผล แต่ควรพิจารณาขยับคะแนนด้านสัดส่วนรายได้จาก AI (AI revenue exposure) ขึ้นอีกเล็กน้อย เพราะผลประกอบการไตรมาส 3 วันที่ 29 ต.ค. แสดงให้เห็นว่า AWS ทำกำไรจากการดำเนินงานถึง $17.8B จากทั้งหมด $28.1B ด้วยปริมาณโทเค็น Bedrock ที่โต 17 เท่า YoY และ Backlog แตะ $578B สะท้อนว่า AI เป็นตัวขับเคลื่อนกำไรหลักแม้มีธุรกิจค้าปลีกรวมอยู่ด้วย ส่วนคะแนนคอขวดและอำนาจตั้งราคา (bottleneck \u0026 pricing power) อาจขยับขึ้นได้เล็กน้อยหลังดีล Decart วันที่ 23 พ.ย. เสริมความแกร่งให้ซอฟต์แวร์ของ Trainium แต่ยังควรอยู่ในระดับปานกลางเพราะ Amazon ยังพึ่งพา GPU จากภายนอกและแบก CapEx ถึง $220B",
                "pros":  [
-                            "รายได้ AWS ไตรมาส 3 ปี 2026 พุ่ง 39.3% YoY สู่ $46.0 พันล้าน (อัตราต่อปี $184 พันล้าน) ด้วยอัตรากำไรจากการดำเนินงาน 38.7% และผู้บริหารคาดโตเกิน 40% ทั้งปี 2027 และ 2028",
-                            "Backlog ของ AWS ทะยานแตะ $578 พันล้านด้วยอัตราโตระดับเลขสามหลัก และ Anthropic ทำสัญญาใช้พลังประมวลผล AWS ขั้นต่ำ $110 พันล้านถึงปี 2036",
-                            "การ IPO ในตลาด Nasdaq ของ Anthropic วันที่ 19 พ.ย. ทำให้สัดส่วนถือหุ้น ~14.6% ของ Amazon มีมูลค่าราว $161–$187 พันล้านจากต้นทุนลงทุน $18 พันล้าน",
-                            "ชิป Trainium ที่พัฒนาเองรองรับงาน inference บน Bedrock ในสัดส่วนสูง ขณะที่ปริมาณโทเคนโตเกือบ 17 เท่า YoY หนุนอัตรากำไรจากการดำเนินงานรวมทำสถิติใหม่ 13.9%"
+                            "รายได้ AWS ไตรมาส 3 ปี 2026 (29 ต.ค.) เร่งตัว 39.3% YoY สู่ $46.0B ดัน Backlog พุ่งแตะ $578B พร้อมมาร์จิ้นจากการดำเนินงาน 38.7%",
+                            "การ IPO ใน Nasdaq ของ Anthropic วันที่ 19 พ.ย. (มูลค่า $1.5T) ตอกย้ำมูลค่าหุ้น 14.7% ที่ Amazon ถือและคำมั่นใช้คลาวด์ AWS กว่า $110B",
+                            "ดีลซื้อเทคโนโลยี Decart มูลค่าตามรายงานข่าว $7.5B (23 พ.ย.) ช่วยเสริมซอฟต์แวร์ให้ชิป Trainium หลังยอดจอง Trainium และ Graviton โตเกิน 20 เท่า YoY",
+                            "Amazon ทำอัตรากำไรจากการดำเนินงานสูงสุดเป็นประวัติการณ์ที่ 13.9% ($28.1B) ในไตรมาส 3 และคาดการณ์กำไรจากการดำเนินงานไตรมาส 4 ที่ $28.5B–$33.5B"
                         ],
                "risks":  [
-                             "แรงกดดันจากงบลงทุนและกระแสเงินสด: การใช้จ่ายปี 2026 ราว $220 พันล้านทำให้กระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ -$42.4 พันล้านและจะเพิ่มค่าเสื่อมราคาในอนาคต",
-                             "ความผันผวนของหุ้น Anthropic: การเหวี่ยงตัวรายวันของหุ้น ANT ในตลาด (ร่วง ~8.5% วันที่ 20 พ.ย.) จะทำให้กำไรสุทธิทางบัญชีและบรรยากาศการลงทุนของ AMZN ผันผวนตาม",
-                             "ธุรกิจค้าปลีกชะลอตัว: ยอดขายอเมริกาเหนือ (+6%) และต่างประเทศ (+5%) เติบโตช้าลงท่ามกลางกำลังซื้อผู้บริโภคที่ระมัดระวังและการแข่งขันด้านส่วนลด",
-                             "ความเสี่ยงกฎระเบียบและการแข่งขันคลาวด์: คดีผูกขาดของ FTC มีกำหนดไต่สวนเดือนมี.ค. 2027 ขณะที่ Microsoft Azure และ Google Cloud แข่งขันชิงงาน AI องค์กรอย่างดุเดือด"
+                             "งบลงทุน AI ที่สูงต่อเนื่อง (~$220B ในปี 2026 และเพิ่มขึ้นในปี 2027) อาจกดให้กระแสเงินสดอิสระติดลบยาวนานและเพิ่มภาระค่าเสื่อมราคา",
+                             "ความเสี่ยงที่ลูกค้าภายนอกอาจเปิดรับชิป Trainium ช้ากว่าคาด หรืออุปสรรคในการผสานซอฟต์แวร์ของ Decart เข้ากับระบบ AWS",
+                             "การแข่งขันด้านคลาวด์และโมเดล AI ขั้นสูงที่รุนแรงจาก Microsoft Azure, Google Cloud และ OpenAI ซึ่งอาจกดดันราคาบริการ",
+                             "แรงกดดันด้านกฎหมายผูกขาดในสหรัฐฯ จากคดีอีคอมเมิร์ซของ FTC ที่กำหนดไต่สวน 29 มี.ค. 2027 และคดีธุรกิจโฆษณาที่ฟ้องเมื่อ ส.ค. 2026"
                          ],
-               "summary":  "หุ้น Amazon ปิดที่ $246.82 เมื่อวันที่ 20 พ.ย. 2026 ร่วงลง 4.1% พร้อมวอลุ่มหนาแน่นจนหลุดเส้นค่าเฉลี่ยเคลื่อนที่ 50, 100 และ 200 วัน แรงขายสะท้อนความกังวลต่องบลงทุนปี 2026 สูงถึง $220 พันล้านที่กดกระแสเงินสดอิสระย้อนหลัง 12 เดือนติดลบ -$42.4 พันล้านในงบ Q3 (29 ต.ค.) ผสมกับแรงเทขายหุ้นเทคหลัง Anthropic เข้าตลาดวันที่ 19 พ.ย. อย่างไรก็ดี คูเมืองด้านคลาวด์กลับแกร่งขึ้นชัดเจน โดย AWS โต 39.3% YoY แตะ $46.0 พันล้าน พร้อม Backlog $578 พันล้าน และการ IPO ของ Anthropic ตีมูลค่าหุ้นสัดส่วน 14.6% ของ Amazon ราว $187 พันล้านควบสัญญาใช้ AWS $110 พันล้าน",
-               "technical":  "ณ วันที่ 20 พ.ย. 2026 AMZN ปิดที่ $246.82 ลดลง 4.1% ในวันเดียว (กรอบระหว่างวัน $245.31–$259.97) แม้เส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — เส้นกรองแนวโน้มราคา) ทั้งสามเส้นยังเรียงตัวแบบขาขึ้น โดย EMA 50 ที่ $256.67 อยู่เหนือ EMA 100 ($254.15) และ EMA 200 ($247.87) แต่ราคาเพิ่งหลุดต่ำกว่าทุกเส้น ทำให้แนวโน้มขาขึ้นระยะยาวถูกทดสอบทันที ด้านโมเมนตัมยืนยันแรงอ่อนตัว: MACD (ตัววัดโมเมนตัมเทียบค่าเฉลี่ยระยะสั้นกับยาว) อยู่ที่ 0.94 ต่ำกว่าเส้น signal ที่ 1.99 ทำให้ค่า histogram ติดลบ -1.04 ส่วน RSI 14 (มาตรวัดแรงซื้อขาย 0–100 หากต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 42.3 สะท้อนแรงขายคุมเกมแต่ยังไม่ถึงเขต oversold ในกรอบ Bollinger Bands (ช่องความผันผวนรอบค่าเฉลี่ย 20 วันช่วง $239.56–$275.29) ราคาอยู่ต่ำกว่าเส้นกลาง $257.42 และเข้าใกล้ขอบล่าง $239.56 โดยยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($287.20) อยู่ 14.1% (กรอบปี $196.00–$287.20) ที่สำคัญ ปริมาณซื้อขายพุ่งแตะ 74.1 ล้านหุ้นเทียบค่าเฉลี่ย 20 วันที่ 53.0 ล้านหุ้น (1.4 เท่า) ยืนยันแรงขายจากสถาบัน แนวต้านระยะใกล้อยู่ที่ $247.87 (EMA 200) และ $256.67–$257.42 (EMA 50/เส้นกลาง) ส่วนแนวรับแรกอยู่ที่ $239.56"
+               "summary":  "AMZN ปิดที่ $255.39 เมื่อ 23 พ.ย. 2026 (+3.47%) ฟื้นตัวรับข่าวดีลซื้อซอฟต์แวร์เพิ่มประสิทธิภาพ AI ของ Decart มูลค่าราว $7.5B และ IPO ของ Anthropic วันที่ 19 พ.ย. ที่ตอกย้ำสัดส่วนหุ้น 14.7% ของ Amazon พร้อมคำมั่นใช้ AWS กว่า $110B ด้านงบไตรมาส 3 (29 ต.ค.) AWS โตเร่งขึ้น 39.3% YoY สู่ $46.0B (Backlog $578B) ยืนยันคูเมืองคลาวด์ แต่หุ้นยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($287.20) อยู่ 11.1% เพราะงบ CapEx ปี 2026 ราว $220B กดกระแสเงินสดอิสระติดลบ -$42.4B ภาพเทคนิคอยู่ในช่วงพักฐานเป็นกลางใต้ EMA 50 ($256.62) ด้วยวอลุ่มระดับปกติ",
+               "technical":  "ณ วันที่ 23 พ.ย. 2026 กราฟ AMZN อยู่ในภาวะพักฐานเป็นกลางภายในแนวโน้มขาขึ้นระยะยาวที่ยังไม่เสียทรง ราคาปิดที่ $255.39 (+3.47%) อยู่ระหว่าง EMA 50 ($256.62) และ EMA 100 ($254.18) ซึ่งเป็นเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียลที่สะท้อนแนวโน้มระยะกลาง และยังยืนเหนือ EMA 200 ระยะยาว ($247.94) อยู่ 3.0% การเรียงตัวแบบ EMA 50 \u003e EMA 100 \u003e EMA 200 บ่งชี้โครงสร้างหลักยังแข็งแรง แม้ระหว่างวันถูกขายย่อลงมาจากจุดสูงสุด $262.48 ด้านโมเมนตัมยังทรงตัว โดย RSI 14 (ดัชนีวัดแรงซื้อขายระดับ 0–100 ต่ำกว่า 30 คือขายมากเกินไป สูงกว่า 70 คือซื้อมากเกินไป) อยู่ที่ 48.44 ซึ่งเป็นโซนกลาง ส่วน MACD (ตัวชี้วัดโมเมนตัมแนวโน้มจากส่วนต่างเส้นค่าเฉลี่ยเร็ว-ช้า) ยังเป็นบวกที่ 0.59 แต่อยู่ใต้เส้น Signal ที่ 1.71 (Histogram -1.12) สะท้อนแรงพักตัวยังไม่จบ ในกรอบ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วันที่ $240.25–$275.22) ราคาอยู่ใต้เส้นกลาง $257.74 เล็กน้อย และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($287.20) ราว 11.1% (จุดต่ำสุด $196.00) วอลุ่ม 53.17 ล้านหุ้นต่ำกว่าค่าเฉลี่ย 20 วัน (54.00 ล้านหุ้น) เล็กน้อย ยังไม่ยืนยันการทะลุกรอบ แนวต้านสำคัญอยู่ที่ $256.62–$262.48 ส่วนแนวรับอยู่แถว $254.18 และ $247.94"
            },
     "sources":  [
                     {
                         "date":  "2026-10-29",
-                        "publisher":  "Amazon",
+                        "publisher":  "Amazon Investor Relations",
                         "title":  "Amazon.com Announces Third Quarter Results",
-                        "url":  "https://www.aboutamazon.com/news/company-news/amazon-2026-third-quarter-results"
+                        "url":  "https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon.com-Announces-Third-Quarter-Results/default.aspx"
                     },
                     {
                         "date":  "2026-10-29",
-                        "publisher":  "Constellation Research",
-                        "title":  "AWS Q3 revenue growth surges 39%, capex stings Amazon\u0027s cash flow",
-                        "url":  "https://www.constellationr.com/insights/news/aws-q3-revenue-growth-surges-39-capex-stings-amazons-cash-flow"
+                        "publisher":  "CNBC",
+                        "title":  "Amazon\u0027s AWS grows 39%, its fastest in nearly five years, but AI spending pushes free cash flow deep into the red",
+                        "url":  "https://www.cnbc.com/2026/10/29/amazon-amzn-q3-earnings-report-2026.html"
                     },
                     {
-                        "date":  "2026-11-05",
-                        "publisher":  "Morningstar",
-                        "title":  "Amazon Earnings Review: Capex Poised to Rise as Cloud Growth Accelerates",
-                        "url":  "https://www.morningstar.com/stocks/amazon-earnings-review-capex-poised-rise-cloud-growth-accelerates"
+                        "date":  "2026-11-17",
+                        "publisher":  "TechCrunch",
+                        "title":  "Amazon and Google will together own nearly 30% of Anthropic after its IPO",
+                        "url":  "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/"
                     },
                     {
-                        "date":  "2026-11-19",
-                        "publisher":  "Fortune",
-                        "title":  "Amazon and Google will own nearly 30% of Anthropic after today\u0027s IPO, netting a roughly $260 billion paper windfall",
-                        "url":  "https://fortune.com/2026/11/19/anthropic-google-amazon-ipo-valuation-stake-paper-windfall/"
+                        "date":  "2026-11-18",
+                        "publisher":  "CNBC",
+                        "title":  "Anthropic IPO raises over $81 billion in largest offering on record, topping SpaceX",
+                        "url":  "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html"
                     },
                     {
-                        "date":  "2026-11-19",
-                        "publisher":  "GeekWire",
-                        "title":  "Amazon\u0027s $18B bet on Anthropic tops $200B, for a moment, in the Claude maker\u0027s historic market debut",
-                        "url":  "https://www.geekwire.com/2026/amazons-18b-bet-on-anthropic-tops-200b-for-a-moment-in-the-claude-makers-historic-market-debut/"
+                        "date":  "2026-11-21",
+                        "publisher":  "TipRanks",
+                        "title":  "Amazon Stock (AMZN) Forecast – Oppenheimer Lifts Price Target to $310 After Anthropic IPO",
+                        "url":  "https://www.tipranks.com/news/company-news/amazon-stock-amzn-forecast-oppenheimer-lifts-price-target-to-310-after-anthropic-ipo"
                     },
                     {
-                        "date":  "2026-11-20",
-                        "publisher":  "Investing.com",
-                        "title":  "Oppenheimer raises Amazon stock price target on Anthropic stake value",
-                        "url":  "https://www.investing.com/news/stock-market-news/oppenheimer-raises-amazon-stock-price-target-on-anthropic-stake-value-93CH-3773229"
+                        "date":  "2026-11-23",
+                        "publisher":  "About Amazon",
+                        "title":  "Amazon to purchase Decart\u0027s AI optimization technology to advance chip and model innovation for customers",
+                        "url":  "https://www.aboutamazon.com/news/company-news/amazon-decart-ai-optimization"
+                    },
+                    {
+                        "date":  "2026-11-23",
+                        "publisher":  "TechCrunch",
+                        "title":  "Amazon snaps up Decart\u0027s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+                        "url":  "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/"
                     }
                 ]
 }

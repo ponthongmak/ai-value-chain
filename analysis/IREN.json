@@ -2,46 +2,45 @@
     "ticker":  "IREN",
     "name":  "IREN",
     "symbol":  "NASDAQ:IREN",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:04:22Z",
-    "costUsd":  0.6562659000000002,
+    "generatedAt":  "2026-11-24T04:26:58Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NASDAQ:IREN",
                        "yahoo":  "IREN",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:02:08Z",
-                       "price":  11.82,
-                       "open":  14.07,
-                       "high":  14.07,
-                       "low":  11.75,
-                       "volume":  131321100,
-                       "avgVolume20":  79461875,
-                       "changePct":  -17.97,
-                       "ema50":  27.78,
-                       "ema100":  34.01,
-                       "ema200":  37.68,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:22:37Z",
+                       "price":  14.64,
+                       "open":  14.82,
+                       "high":  15.99,
+                       "low":  14.41,
+                       "volume":  125250100,
+                       "avgVolume20":  82845015,
+                       "changePct":  23.86,
+                       "historyDays":  500,
+                       "ema50":  27.26,
+                       "ema100":  33.62,
+                       "ema200":  37.44,
                        "bb":  {
-                                  "upper":  29.6,
-                                  "middle":  20.65,
-                                  "lower":  11.7
+                                  "upper":  29.15,
+                                  "middle":  20.11,
+                                  "lower":  11.08
                               },
                        "macd":  {
-                                    "macd":  -4.64,
-                                    "signal":  -4.33,
-                                    "hist":  -0.31
+                                    "macd":  -4.53,
+                                    "signal":  -4.37,
+                                    "hist":  -0.16
                                 },
-                       "rsi14":  24.48,
+                       "rsi14":  33.48,
                        "high52w":  70.71,
                        "low52w":  11.75,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         65.48
-                                     ],
                                      [
                                          "2026-06-04",
                                          61.86
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          11.82
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         14.64
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          52.68,
                                           53.04,
                                           53.09,
                                           53.33,
@@ -639,95 +641,116 @@
                                           29.56,
                                           29,
                                           28.43,
-                                          27.78
+                                          27.78,
+                                          27.26
                                       ]
                    },
     "en":  {
-               "headline":  "IREN hits 52-week low as Microsoft delay, $6B funding gap meet AI selloff",
-               "technical":  "The trend is clearly down. Price closed at $11.82, far below all three exponential moving averages (EMAs, which track the average price and give more weight to recent days): EMA50 at $27.78, EMA100 at $34.01 and EMA200 at $37.68. The averages are stacked in bearish order, with the shortest on the bottom, which is a classic downtrend. MACD (a trend-momentum gauge) is -4.64, below its signal line at -4.33, and the histogram is -0.31, so downside momentum is still building rather than fading. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 24.48, which means oversold, but oversold readings can last a long time in a crash. Price sits right on the lower Bollinger Band at $11.70 (the bands mark roughly two standard deviations around the 20-day average of $20.65). The day\u0027s low of $11.75 is also the new 52-week low, about 83% below the 52-week high of $70.71. On 20 Nov the stock opened at its high of $14.07 and closed near its low on 131.3M shares, about 1.65x the 20-day average of 79.5M. That is heavy selling with no sign of buyers stepping in yet. Nearest resistance is the $14.07 open, then the Bollinger midline near $20.65.",
-               "fundamental":  "IREN is moving from bitcoin mining to AI cloud, and the shift is showing up in revenue. In Q1 FY27 (quarter to 30 Sep, reported 5 Nov 2026), revenue was $228M, up 66% from the prior quarter. AI Cloud revenue was $200M, up 182%, with an 86% gross margin, and contracted backlog rose 22% to $20.3B. About two-thirds of that backlog is with investment-grade customers, including Microsoft under a roughly $9.7B, five-year contract at Childress. The weak point is the \u0027financing-dependent\u0027 half of the thesis. Net debt jumped to $4.43B from $216M in one quarter, $6B of the $15B remaining FY27 capex still has no funding, and management says capital markets have become \u0027more selective.\u0027 Owning powered land is still the core advantage, but how fast IREN can grow now depends on whether credit stays open.",
-               "news":  [
-                            "5 Nov 2026: Q1 FY27 revenue of $228M slightly beat consensus, and AI Cloud revenue nearly tripled to $200M. The loss per share (about $0.62–0.66, depending on the source) was wider than the roughly $0.48–0.49 expected, and the net loss was $263M.",
-                            "5 Nov 2026: Management moved the \u003e$4B annualized AI Cloud revenue target from end-2026 to January 2027, possibly late February. Co-CEO Daniel Roberts blamed a network/design change requested by Microsoft and supplier timing, and said the contract is not at risk.",
-                            "5 Nov 2026: Of $15B remaining FY27 capex, about $9B is covered and about $6B still has to be raised. IREN says the $6B is for capacity beyond the $4B target.",
-                            "6 Nov 2026: Shares rose 20% to $21.64 on 112.9M shares. Since quarter-end IREN has signed a five-year contract in which the customer prepaid 90% of GPU capex, and contracted pricing rose 11–12%. Bloomberg separately reported that Microsoft is tightening oversight of some neocloud-run projects, including IREN\u0027s.",
-                            "7–9 Nov 2026: Analysts cut their targets. Goldman Sachs went to $30 from $50 (Neutral), JPMorgan to $55 from $65 (Overweight) and Cantor Fitzgerald to $47 from $99. The stock fell about 10% to $19.34 on 10 Nov.",
-                            "16 Nov 2026: IREN opened about 7% lower at $16.84 as leadership turmoil at NVIDIA and fresh doubts about how neoclouds fund themselves hit the group. Nebius and CoreWeave also fell.",
-                            "20 Nov 2026: IREN fell 17.97% to $11.82 in a broad AI rout. The Nasdaq lost 5.13% and NVIDIA fell 14.01% after reports of an SEC accounting probe. There was no IREN-specific news that day. The annual general meeting is on 24 Nov 2026."
+               "caution":  "The 23.86% jump on November 23, 2026 was driven by NVIDIA governance headlines rather than any resolution of IREN\u0027s core balance-sheet bottleneck. IREN must still raise $6B of remaining FY27 funding in a selective credit market, even after GAAP debt climbed to $10.21B and unrestricted cash fell by $2.37B during Q1 alone. Any further Childress handover delays beyond February 2027, tighter GPU-lending terms, or equity issuance near multi-year lows could trigger renewed selling and dilute long-term shareholders.",
+               "cons":  [
+                            "Of $15B in remaining FY27 capital spending, $6B remains unfunded and market-dependent as unrestricted cash dropped from $5.90B to $3.52B in Q1.",
+                            "GAAP total debt rose to $10.21B ($4.43B net debt) alongside a $263M Q1 net loss (-$0.66 EPS), elevating refinancing and dilution risks.",
+                            "Microsoft-requested network design changes and supplier timing pushed the \u003e$4B annualized run-rate revenue target from late 2026 to January–February 2027.",
+                            "Goldman Sachs, Cantor Fitzgerald, Bernstein, and JPMorgan all cut price targets sharply on November 6–9, leaving shares stuck in a deep technical downtrend."
                         ],
-               "caution":  "The main risk is funding. IREN has to raise about $6B while its shares are down about 83% from their peak and credit markets are tightening for neoclouds. New equity or convertible notes at these prices would dilute existing holders heavily. Debt costs are already rising: finance expense was $73M in Q1. Revenue relies heavily on Microsoft, which has already delayed one ramp and is reportedly tightening oversight. A beta of about 4.3 means IREN tends to fall several times harder than the market whenever the AI trade unwinds.",
-               "opportunity":  "The business numbers and the share price are moving in opposite directions. AI Cloud revenue nearly tripled, margins are 86%, backlog grew to $20.3B, and a new customer prepaid 90% of GPU capex, a funding model that eases the financing burden. If the Microsoft capacity starts on time in January–February 2027 and IREN funds the $6B without heavy dilution, the market could start valuing it on its contracts again. RSI 24.48 and price at the lower band point to a stretched, oversold position.",
+               "fundamental":  "IREN sits in the power-and-GPU hosting layer of the AI value chain, converting former Bitcoin mining campuses into liquid-cooled AI data centers. Q1 FY27 results (ended September 30, 2026; reported November 5) validated demand: AI Cloud revenue nearly tripled sequentially to $200M, operating ARR reached $1.0B, adjusted EBITDA hit $66M, and contracted backlog rose 22% to $20.3B—roughly two-thirds investment-grade, anchored by Microsoft\u0027s Childress deployment and NVIDIA. Yet capital intensity dominates the balance sheet: GAAP net loss was $263M, unrestricted cash fell to $3.52B, and GAAP debt climbed to $10.21B ($4.43B net debt). With $15B of FY27 capex remaining ($9B covered, $6B still unfunded), the owned-power moat holds, but financing execution keeps the thesis on watch.",
+               "headline":  "IREN rebounds 23.86% on Nvidia news, but a $6B funding gap weighs",
+               "news":  [
+                            "November 5, 2026: IREN reported Q1 FY27 revenue of $228M (+66% QoQ), led by $200M in AI Cloud (+182% QoQ) and a $20.3B backlog, alongside a $263M net loss (-$0.66 EPS). Management shifted its \u003e$4B ARR milestone from late 2026 to January–February 2027 due to Microsoft network design changes and supplier timing, and flagged a $6B unfunded gap in its $15B remaining FY27 capex plan.",
+                            "November 6–9, 2026: Major Wall Street banks cut price targets after the schedule slip and funding overhang—Cantor Fitzgerald lowered from $99 to $47 (Overweight), Goldman Sachs from $50 to $30 (Neutral), Bernstein from $100 to $55 (Outperform), and JPMorgan from $65 to $55 (Overweight).",
+                            "November 12–20, 2026: NVIDIA CEO Jensen Huang\u0027s November 12 resignation sparked a sharp sell-off across NVIDIA and neocloud operators, compounding worries over GPU financing conditions and IREN\u0027s $6B capex gap and sending shares down to a 52-week low of $11.75.",
+                            "November 23, 2026: NVIDIA\u0027s board unanimously reinstated Jensen Huang as CEO, igniting a \u003e30% surge in NVIDIA and a 23.86% relief rally in IREN to $14.64 on 125.25M shares as fears over the AI capital pipeline eased.",
+                            "November 24, 2026: IREN\u0027s virtual AGM put six board-backed proposals to a shareholder vote, including selective share buybacks of up to 14.5M shares under Citibank prepaid-forward transactions and capped-call approvals aimed at managing convertible-note dilution."
+                        ],
+               "opportunity":  "For long-term AI infrastructure investors, the 79.3% drawdown from $70.71 has reset expectations sharply against a rapidly scaling business. IREN holds $20.3B in contracted backlog—roughly two-thirds investment-grade—plus scarce, energized Texas sites including the 2GW Sweetwater Hub with conditional ERCOT Batch Zero base-load status. Securing non-dilutive GPU or data-center financing for the remaining $6B gap, executing clean Horizon 2–4 deliveries in January–February 2027, and adding customer-prepaid contracts (up to 90% GPU capex prepaid) could rebuild market confidence.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity sub-scores look broadly reasonable, with two adjustments warranted after Q1 FY27. First, AI revenue exposure should move higher: AI Cloud now generates 88% of total revenue ($200M of $228M) while Bitcoin mining fell to $28M as rigs are decommissioned, making IREN nearly a pure-play neocloud. Second, bottleneck and pricing power should edge lower: energized Texas power remains scarce, yet a $6B FY27 funding gap and customer-driven design revisions show IREN still depends heavily on external capital and hyperscaler terms.",
+               "pros":  [
+                            "Q1 FY27 AI Cloud revenue surged 182% sequentially to $200M (88% of $228M total revenue), doubling operating annualized run-rate revenue to $1.0B.",
+                            "Contracted backlog grew 22% sequentially to $20.3B as of November 5, 2026, with roughly two-thirds tied to investment-grade counterparties led by Microsoft and NVIDIA.",
+                            "Horizon 1 at Childress entered service for Microsoft with NVIDIA Exemplar status, and a new 5-year deal at $22M/MW carries 90% prepaid GPU capex.",
+                            "IREN\u0027s 2GW Sweetwater Hub in West Texas holds conditional ERCOT Batch Zero base-load status, reinforcing scarce energized power capacity."
+                        ],
                "risks":  [
-                             "About $6B of FY27 capex still unfunded while capital markets turn selective",
-                             "Net debt up to $4.43B and rising interest costs",
-                             "Customer concentration in Microsoft; further delays or tighter oversight",
-                             "Heavy dilution if equity or convertibles are issued near 52-week lows",
-                             "High beta (~4.3) to AI/semiconductor selloffs, such as the NVIDIA rout on 20 Nov",
-                             "No confirmed bottom: falling MACD histogram and the low set on high volume"
+                             "Unfunded $6B capex gap out of $15B remaining FY27 spending, exposing IREN to high borrowing costs or dilutive equity issuance.",
+                             "Elevated leverage with $10.21B GAAP debt ($4.43B net debt) and rapid cash burn after unrestricted cash fell $2.37B in Q1 FY27.",
+                             "Execution and schedule risk on Childress Horizon 2–4 buildouts after the \u003e$4B ARR milestone slipped to January–February 2027.",
+                             "Heavy customer and ecosystem concentration in Microsoft and NVIDIA, underscored by the November 12–23 volatility shock.",
+                             "GPU depreciation and intense neocloud competition from larger peers like CoreWeave if financing costs squeeze project returns."
                          ],
-               "summary":  "IREN\u0027s operations improved in Q1 FY27: AI Cloud revenue tripled to $200M and backlog reached $20.3B. The stock, however, fell from $21.64 on 6 Nov to $11.82 on 20 Nov. Three things drove the drop: Microsoft-related delays to the $4B revenue goal, a $6B funding gap, and a sector-wide AI selloff. The technicals are bearish across the board, with price below all EMAs, negative MACD and a new 52-week low on heavy volume, though RSI is oversold. The moat of owned power sites is still there. The financing it depends on is now the thing to watch."
+               "summary":  "IREN jumped 23.86% to $14.64 on November 23, 2026 after NVIDIA\u0027s board reinstated CEO Jensen Huang, sparking a neocloud relief rally. Yet the stock remains 79.3% below its $70.71 52-week high after sliding to $11.75 following Q1 FY27 earnings on November 5. Operational growth is rapid—AI Cloud revenue jumped 182% sequentially to $200M with a $20.3B backlog—but a 1–2 month delay to its \u003e$4B annualized run-rate target and a $6B unfunded FY27 capital expenditure gap keep the long-term moat thesis on watch.",
+               "technical":  "Despite surging 23.86% to $14.64 on November 23, 2026, IREN\u0027s technical posture stays firmly bearish. Price trades far below all three exponential moving averages (EMAs, which smooth price trends): 46.3% under the EMA 50 ($27.26), below the EMA 100 ($33.62), and 60.9% under the EMA 200 ($37.44), a full bearish stack. Momentum confirms weakness: the MACD (a trend-momentum gauge) sits at -4.53 below its -4.37 signal line with a negative -0.16 histogram, though the narrow gap hints selling pressure may be easing. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) reads 33.48, barely above oversold territory. Volatility is extreme, with wide Bollinger Bands (a 20-day volatility channel) spanning $11.08 to $29.15 and price stuck below the $20.11 middle band, sitting in the bottom 5% of its $11.75–$70.71 52-week range. Heavy volume of 125.25M shares—1.51x the 82.85M 20-day average—validated dip-buying, though closing below the $14.82 open and $15.99 intraday high shows overhead supply. Key support sits at $11.75 and $11.08; resistance stands at $15.99, $20.11, and $27.26."
            },
     "th":  {
-               "headline":  "IREN ทำจุดต่ำสุดรอบ 52 สัปดาห์ จากงาน Microsoft ล่าช้า เงินทุนยังขาด $6B และแรงเทขายหุ้น AI",
-               "technical":  "แนวโน้มเป็นขาลงชัดเจน ราคาปิดที่ $11.82 ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบ EMA (ค่าเฉลี่ยที่ให้น้ำหนักกับราคาวันล่าสุดมากกว่า) ทั้งสามเส้นอยู่มาก คือ EMA50 ที่ $27.78, EMA100 ที่ $34.01 และ EMA200 ที่ $37.68 เส้นเรียงกันแบบขาลงเต็มรูปแบบ โดยเส้นสั้นอยู่ล่างสุด MACD (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ -4.64 ต่ำกว่าเส้นสัญญาณที่ -4.33 และ histogram ติดลบ -0.31 แปลว่าแรงขายยังเพิ่มขึ้น ยังไม่ได้อ่อนลง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 24.48 เข้าเขต oversold แล้ว แต่ในช่วงตลาดถล่ม ภาวะนี้ลากยาวได้นาน ราคาอยู่ชิดขอบล่างของ Bollinger Band ที่ $11.70 (กรอบที่ห่างจากค่าเฉลี่ย 20 วันซึ่งอยู่ที่ $20.65 ราว 2 ส่วนเบี่ยงเบนมาตรฐาน) ราคาต่ำสุดของวันที่ $11.75 ก็เป็นจุดต่ำสุดใหม่รอบ 52 สัปดาห์ด้วย ต่ำกว่าจุดสูงสุด $70.71 ราว 83% วันที่ 20 พ.ย. หุ้นเปิดที่จุดสูงสุดของวัน $14.07 แล้วปิดใกล้จุดต่ำสุด วอลุ่ม 131.3 ล้านหุ้น ราว 1.65 เท่าของค่าเฉลี่ย 20 วันที่ 79.5 ล้านหุ้น แสดงว่าแรงขายหนักและยังไม่มีแรงซื้อเข้ามารับ แนวต้านแรกคือ $14.07 ถัดไปคือเส้นกลางของ Bollinger Band ราว $20.65",
-               "fundamental":  "IREN กำลังเปลี่ยนจากธุรกิจขุดบิตคอยน์ไปเป็น AI cloud และรายได้สะท้อนการเปลี่ยนนี้แล้ว ไตรมาส Q1 FY27 (สิ้นสุด 30 ก.ย. ประกาศผล 5 พ.ย. 2026) รายได้รวม $228M เพิ่มขึ้น 66% จากไตรมาสก่อน รายได้ AI Cloud $200M เพิ่มขึ้น 182% อัตรากำไรขั้นต้น 86% และ backlog ตามสัญญาเพิ่มขึ้น 22% เป็น $20.3B ราวสองในสามของ backlog มาจากลูกค้าระดับ investment grade รวมถึง Microsoft ซึ่งมีสัญญา 5 ปีที่ Childress มูลค่าราว $9.7B จุดอ่อนอยู่ที่ส่วน \u0027ต้องพึ่งเงินทุน\u0027 ของ thesis หนี้สุทธิพุ่งจาก $216M เป็น $4.43B ในไตรมาสเดียว capex ที่เหลือของ FY27 จำนวน $15B ยังไม่มีแหล่งเงินอีก $6B และผู้บริหารยอมรับว่าตลาดทุน \u0027เลือกมากขึ้น\u0027 การถือครองที่ดินที่มีไฟฟ้าพร้อมยังเป็นจุดแข็งหลัก แต่ความเร็วในการเติบโตจากนี้ขึ้นอยู่กับว่าตลาดสินเชื่อยังเปิดรับหรือไม่",
-               "news":  [
-                            "5 พ.ย. 2026: รายได้ Q1 FY27 อยู่ที่ $228M สูงกว่าคาดเล็กน้อย รายได้ AI Cloud เกือบสามเท่าเป็น $200M แต่ขาดทุนต่อหุ้น (ราว $0.62–0.66 แล้วแต่แหล่งข้อมูล) หนักกว่าที่ตลาดคาดราว $0.48–0.49 ขาดทุนสุทธิ $263M",
-                            "5 พ.ย. 2026: ผู้บริหารเลื่อนเป้ารายได้ AI Cloud รายปี \u003e$4B จากสิ้นปี 2026 ไปเป็นมกราคม 2027 และอาจลากถึงปลายกุมภาพันธ์ Co-CEO Daniel Roberts ให้เหตุผลว่า Microsoft ขอเปลี่ยนการออกแบบเครือข่าย ประกอบกับซัพพลายเออร์ส่งของล่าช้า และยืนยันว่าสัญญาไม่ได้มีความเสี่ยง",
-                            "5 พ.ย. 2026: capex ที่เหลือของ FY27 จำนวน $15B มีเงินรองรับแล้วราว $9B ยังต้องหาเพิ่มอีกราว $6B บริษัทระบุว่าเงินก้อนนี้ใช้ขยายกำลังการผลิตเกินเป้า $4B",
-                            "6 พ.ย. 2026: หุ้นขึ้น 20% ไปปิดที่ $21.64 วอลุ่ม 112.9 ล้านหุ้น หลังสิ้นไตรมาส IREN เซ็นสัญญา 5 ปีที่ลูกค้าจ่ายล่วงหน้า 90% ของ capex ค่า GPU และราคาตามสัญญาปรับขึ้น 11–12% ส่วน Bloomberg รายงานว่า Microsoft กำลังเข้มงวดการกำกับโครงการที่ neocloud ดำเนินการ รวมถึงของ IREN",
-                            "7–9 พ.ย. 2026: นักวิเคราะห์หั่นราคาเป้าหมาย Goldman Sachs ลดเหลือ $30 จาก $50 (Neutral), JPMorgan ลดเหลือ $55 จาก $65 (Overweight) และ Cantor Fitzgerald ลดเหลือ $47 จาก $99 หุ้นร่วงราว 10% สู่ $19.34 ในวันที่ 10 พ.ย.",
-                            "16 พ.ย. 2026: หุ้นเปิดลบราว 7% ที่ $16.84 จากความวุ่นวายเรื่องผู้บริหารของ NVIDIA และความกังวลรอบใหม่ว่ากลุ่ม neocloud จะหาเงินลงทุนจากไหน Nebius และ CoreWeave ก็ร่วงตาม",
-                            "20 พ.ย. 2026: IREN ดิ่ง 17.97% เหลือ $11.82 ท่ามกลางแรงเทขายหุ้น AI ทั้งตลาด Nasdaq -5.13% และ NVIDIA -14.01% หลังมีข่าวว่า SEC สอบสวนเรื่องบัญชี วันนั้นไม่มีข่าวเฉพาะของ IREN และบริษัทจะประชุมผู้ถือหุ้นประจำปีวันที่ 24 พ.ย. 2026"
+               "caution":  "การพุ่งขึ้น 23.86% ในวันที่ 23 พ.ย. 2026 มาจากข่าวธรรมาภิบาลของ NVIDIA เป็นหลัก ไม่ได้ปลดล็อกคอขวดด้านงบดุลของ IREN แต่อย่างใด บริษัทยังต้องระดมทุนอีก $6B สำหรับงบลงทุน FY27 ท่ามกลางตลาดสินเชื่อที่ระมัดระวัง ทั้งที่หนี้สินรวมพุ่งแตะ $10.21B และเงินสดไม่ติดภาระลดลงถึง $2.37B ในไตรมาสเดียว หากการส่งมอบไซต์ Childress ล่าช้าเกิน ก.พ. 2027 เงื่อนไขกู้ซื้อ GPU ตึงตัวขึ้น หรือต้องเพิ่มทุนในระดับราคาต่ำ อาจเกิดแรงขายซ้ำและไดลูตผู้ถือหุ้นระยะยาวได้",
+               "cons":  [
+                            "จากงบลงทุน FY27 ที่เหลือ $15B ยังขาดแหล่งเงินทุนรองรับอีก $6B ขณะที่เงินสดไม่ติดภาระลดลงจาก $5.90B เหลือ $3.52B ในไตรมาสเดียว",
+                            "หนี้สินรวมตาม GAAP พุ่งเป็น $10.21B (หนี้สุทธิ $4.43B) พร้อมผลขาดทุนสุทธิ Q1 ที่ $263M (EPS -$0.66) เพิ่มความเสี่ยงด้านรีไฟแนนซ์และการเพิ่มทุน",
+                            "การปรับแบบเครือข่ายตามคำขอของ Microsoft และจังหวะซัพพลายเออร์ทำให้เป้า ARR เกิน $4B เลื่อนจากปลายปี 2026 ไปเป็น ม.ค.–ก.พ. 2027",
+                            "นักวิเคราะห์ค่ายใหญ่อย่าง Goldman Sachs, Cantor Fitzgerald, Bernstein และ JPMorgan ต่างหั่นราคาเป้าหมายลงแรงช่วง 6–9 พ.ย. ขณะที่กราฟยังอยู่ในขาลงลึก"
                         ],
-               "caution":  "ความเสี่ยงหลักคือเงินทุน IREN ต้องระดมเงินราว $6B ในจังหวะที่หุ้นลงมาจากจุดสูงสุดราว 83% และตลาดสินเชื่อตึงตัวสำหรับกลุ่ม neocloud ถ้าออกหุ้นใหม่หรือหุ้นกู้แปลงสภาพที่ราคาระดับนี้ ผู้ถือหุ้นเดิมจะถูก dilution หนัก ต้นทุนดอกเบี้ยก็สูงขึ้นแล้ว ค่าใช้จ่ายทางการเงินใน Q1 อยู่ที่ $73M รายได้พึ่ง Microsoft มาก และ Microsoft เพิ่งทำให้การเริ่มใช้งานล่าช้าไปรอบหนึ่งพร้อมมีรายงานว่าเข้มงวดขึ้น ค่า beta ราว 4.3 หมายความว่าเมื่อหุ้นกลุ่ม AI ถูกเทขาย หุ้นตัวนี้มักลงแรงกว่าตลาดหลายเท่า",
-               "opportunity":  "ตัวเลขธุรกิจกับราคาหุ้นกำลังวิ่งสวนทางกัน รายได้ AI Cloud เกือบสามเท่า มาร์จิ้น 86% backlog โตเป็น $20.3B และลูกค้ารายใหม่จ่ายล่วงหน้า 90% ของ capex ค่า GPU ซึ่งเป็นโมเดลที่ช่วยลดภาระการหาเงิน ถ้ากำลังการผลิตให้ Microsoft เริ่มได้ตามกำหนดช่วงมกราคม–กุมภาพันธ์ 2027 และบริษัทหาเงิน $6B ได้โดยไม่ dilution หนัก ตลาดอาจกลับมาประเมินมูลค่าจากสัญญาอีกครั้ง ส่วนทางเทคนิค RSI 24.48 และราคาที่ชิดขอบล่างของ Bollinger Band บ่งบอกว่าราคายืดตัวลงมาจนอยู่ในภาวะ oversold",
+               "fundamental":  "IREN อยู่ในชั้นโครงสร้างพื้นฐานด้านไฟฟ้าและเช่าใช้ GPU ของห่วงโซ่คุณค่า AI โดยเปลี่ยนเหมืองขุดบิทคอยน์เดิมเป็นศูนย์ข้อมูล AI ระบบระบายความร้อนด้วยของเหลว งบ Q1 FY27 (สิ้นสุด 30 ก.ย. 2026 ประกาศ 5 พ.ย.) พิสูจน์ว่าดีมานด์จริงแข็งแกร่ง รายได้ AI Cloud โตเกือบ 3 เท่า QoQ แตะ $200M, operating ARR แตะ $1.0B, Adjusted EBITDA อยู่ที่ $66M และ backlog พุ่ง 22% แตะ $20.3B โดยราวสองในสามเป็นคู่ค้าระดับ investment-grade นำโดย Microsoft ที่ไซต์ Childress และ NVIDIA ทว่าความเข้มข้นของเงินลงทุนยังกดดันงบดุลหนัก โดยมีขาดทุนสุทธิ $263M เงินสดไม่ติดภาระลดเหลือ $3.52B และหนี้สิน GAAP เพิ่มเป็น $10.21B (หนี้สุทธิ $4.43B) เมื่อยังต้องหางบเพิ่มอีก $6B จากแผนลงทุน FY27 ที่เหลือ $15B จุดแข็งด้านที่ดินและไฟฟ้าจึงยังไม่เสีย แต่ต้องจับตาการจัดหาเงินทุนอย่างใกล้ชิด",
+               "headline":  "IREN ดีดแรง 23.86% รับข่าว Nvidia แต่ช่องว่างเงินทุน $6B ยังกดดัน",
+               "news":  [
+                            "5 พ.ย. 2026: IREN รายงานงบ Q1 FY27 รายได้รวม $228M (+66% QoQ) นำโดย AI Cloud $200M (+182% QoQ) และ backlog $20.3B แต่ขาดทุนสุทธิ $263M (EPS -$0.66) พร้อมเลื่อนเป้า ARR เกิน $4B จากปลายปี 2026 เป็น ม.ค.–ก.พ. 2027 จากการปรับแบบเครือข่ายให้ Microsoft และระบุช่องว่างเงินทุน $6B ในงบลงทุน FY27 ที่เหลือ $15B",
+                            "6–9 พ.ย. 2026: โบรกเกอร์ชั้นนำพาเหรดปรับลดราคาเป้าหมายรับข่าวดีเลย์และภาระเงินทุน โดย Cantor Fitzgerald ลดจาก $99 เหลือ $47 (Overweight), Goldman Sachs ลดจาก $50 เหลือ $30 (Neutral), Bernstein ลดจาก $100 เหลือ $55 (Outperform) และ JPMorgan ลดจาก $65 เหลือ $55 (Overweight)",
+                            "12–20 พ.ย. 2026: ข่าว Jensen Huang ลาออกจากซีอีโอ NVIDIA เมื่อวันที่ 12 พ.ย. จุดชนวนแรงเทขายกลุ่มโครงสร้างพื้นฐาน AI และ neocloud ซ้ำเติมความกังวลด้านสินเชื่อ GPU และช่องว่างเงินทุน $6B ของ IREN จนราคาดิ่งแตะจุดต่ำสุดรอบ 52 สัปดาห์ที่ $11.75",
+                            "23 พ.ย. 2026: บอร์ด NVIDIA มีมติเอกฉันท์ให้ Jensen Huang กลับมารับตำแหน่งซีอีโออีกครั้ง ดันหุ้น NVIDIA พุ่งเกิน 30% และหนุน IREN รีบาวด์แรง 23.86% สู่ $14.64 ด้วยวอลุ่ม 125.25M หุ้น หลังความกังวลต่อห่วงโซ่เงินทุน AI คลี่คลายลงบางส่วน",
+                            "24 พ.ย. 2026: การประชุมผู้ถือหุ้นสามัญ (AGM) ของ IREN ลงมติ 6 วาระสำคัญ รวมถึงการขออนุมัติซื้อหุ้นคืนเฉพาะเจาะจงสูงสุด 14.5M หุ้นภายใต้สัญญา prepaid forward กับ Citibank และธุรกรรม capped call เพื่อช่วยลดผลกระทบไดลูชันจากหุ้นกู้แปลงสภาพ"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนโครงสร้างพื้นฐาน AI ระยะยาว การปรับฐานแรง 79.3% จากจุดสูงสุด $70.71 ทำให้ความคาดหวังของตลาดลดลงมากเมื่อเทียบกับการขยายตัวจริงของธุรกิจ IREN มี backlog ในมือถึง $20.3B (ราวสองในสามเป็นลูกค้า investment-grade) พร้อมแหล่งไฟฟ้าขนาดใหญ่ในเท็กซัสอย่าง Sweetwater Hub 2GW ที่ได้สถานะ ERCOT Batch Zero แบบมีเงื่อนไข หากบริษัทปิดดีลจัดหาเงินทุน $6B แบบไม่เพิ่มทุนหนัก ส่งมอบเฟส Horizon 2–4 ได้ตามนัดใน ม.ค.–ก.พ. 2027 และเพิ่มสัญญาที่ลูกค้าจ่ายค่า GPU ล่วงหน้าสูงถึง 90% ความเชื่อมั่นอาจค่อยๆ ฟื้นตัวได้",
+               "opportunityCheck":  "คะแนนย่อยโอกาสด้าน AI บนหน้าเว็บโดยรวมสมเหตุสมผล แต่ควรปรับสองด้านหลังเห็นงบ Q1 FY27 ด้านแรกควรขยับสัดส่วนรายได้ AI ขึ้น เพราะรายได้ AI Cloud คิดเป็น 88% ของรายได้รวมแล้ว ($200M จาก $228M) ขณะที่รายได้ขุดบิทคอยน์ลดเหลือ $28M ทำให้ IREN แทบจะกลายเป็นผู้ให้บริการ neocloud เต็มตัว ด้านที่สองควรปรับคะแนนคอขวดและอำนาจต่อรองราคาลงเล็กน้อย แม้ไฟฟ้าในเท็กซัสจะหายาก แต่ช่องว่างเงินทุน $6B และการต้องปรับแบบตามคำขอไฮเปอร์สเกลเลอร์สะท้อนว่าบริษัทยังพึ่งพาทุนภายนอกและเงื่อนไขลูกค้าสูง",
+               "pros":  [
+                            "รายได้ AI Cloud ไตรมาส Q1 FY27 โตแรง 182% QoQ แตะ $200M (คิดเป็น 88% ของรายได้รวม $228M) ดัน operating ARR เพิ่มเท่าตัวเป็น $1.0B",
+                            "มูลค่างานในมือ (backlog) ขยายตัว 22% QoQ แตะ $20.3B ณ วันที่ 5 พ.ย. 2026 โดยราวสองในสามเป็นคู่ค้าระดับ investment-grade นำโดย Microsoft และ NVIDIA",
+                            "เฟส Horizon 1 ที่ไซต์ Childress เริ่มให้บริการ Microsoft แล้วพร้อมสถานะ NVIDIA Exemplar และเพิ่งเซ็นสัญญาใหม่ 5 ปีราคา $22M/MW ที่ลูกค้าจ่ายค่า GPU ล่วงหน้าถึง 90%",
+                            "โครงการ Sweetwater Hub ขนาด 2GW ในรัฐเท็กซัสได้รับสถานะ ERCOT Batch Zero base-load แบบมีเงื่อนไข ตอกย้ำความได้เปรียบด้านแหล่งไฟฟ้าขนาดใหญ่ที่หายาก"
+                        ],
                "risks":  [
-                             "capex ของ FY27 ราว $6B ยังไม่มีแหล่งเงิน ขณะที่ตลาดทุนเลือกมากขึ้น",
-                             "หนี้สุทธิเพิ่มเป็น $4.43B และต้นทุนดอกเบี้ยสูงขึ้น",
-                             "พึ่งพาลูกค้า Microsoft สูง เสี่ยงล่าช้าเพิ่มหรือถูกกำกับเข้มขึ้น",
-                             "เสี่ยง dilution หนักหากออกหุ้นหรือหุ้นกู้แปลงสภาพใกล้จุดต่ำสุดรอบ 52 สัปดาห์",
-                             "beta สูง (~4.3) ต่อการเทขายหุ้น AI และเซมิคอนดักเตอร์ เช่นวันที่ NVIDIA ร่วงหนัก 20 พ.ย.",
-                             "ยังไม่เห็นสัญญาณว่าถึงจุดต่ำสุด histogram ของ MACD ยังลดลง และจุดต่ำใหม่เกิดพร้อมวอลุ่มสูง"
+                             "ช่องว่างเงินทุน $6B จากงบลงทุน FY27 ที่เหลือ $15B เสี่ยงต่อต้นทุนดอกเบี้ยสูงหรือการออกหุ้นเพิ่มทุนที่ไดลูตผู้ถือหุ้น",
+                             "ภาระหนี้สูงที่ $10.21B ตาม GAAP (หนี้สุทธิ $4.43B) ควบคู่การใช้เงินสดเร็ว หลังเงินสดไม่ติดภาระลดลง $2.37B ในไตรมาส Q1 FY27",
+                             "ความเสี่ยงด้านการส่งมอบโครงการ Childress Horizon 2–4 หลังเป้า ARR เกิน $4B ถูกเลื่อนไปเป็นช่วง ม.ค.–ก.พ. 2027",
+                             "การพึ่งพิงลูกค้ารายใหญ่และระบบนิเวศของ Microsoft กับ NVIDIA สูงมาก ดังที่เห็นจากความผันผวนรุนแรงช่วง 12–23 พ.ย.",
+                             "ความเสี่ยงด้านค่าเสื่อมราคา GPU ที่ตกรุ่นเร็ว และการแข่งขันจากผู้เล่น neocloud รายใหญ่กว่าอย่าง CoreWeave หากต้นทุนการเงินกดดันผลตอบแทนโครงการ"
                          ],
-               "summary":  "ผลประกอบการ Q1 FY27 ของ IREN ดีขึ้น รายได้ AI Cloud โตสามเท่าเป็น $200M และ backlog แตะ $20.3B แต่หุ้นกลับร่วงจาก $21.64 ในวันที่ 6 พ.ย. เหลือ $11.82 ในวันที่ 20 พ.ย. สาเหตุมีสามข้อ คือเป้ารายได้ $4B ถูกเลื่อนเพราะงานที่เกี่ยวกับ Microsoft ช่องว่างเงินทุน $6B และแรงเทขายหุ้น AI ทั้งกลุ่ม สัญญาณเทคนิคเป็นขาลงทุกด้าน ราคาต่ำกว่า EMA ทุกเส้น MACD ติดลบ และทำจุดต่ำสุดใหม่รอบ 52 สัปดาห์ด้วยวอลุ่มสูง แม้ RSI จะเข้าเขต oversold แล้วก็ตาม moat จากการถือครองไซต์ที่มีไฟฟ้าพร้อมยังอยู่ ส่วนที่ต้องจับตาตอนนี้คือเงินทุนที่ moat นี้ต้องพึ่ง"
+               "summary":  "หุ้น IREN พุ่งขึ้น 23.86% แตะ $14.64 ในวันที่ 23 พ.ย. 2026 หลังบอร์ด NVIDIA ดึง Jensen Huang กลับมาเป็นซีอีโออีกครั้ง จุดชนวนแรงรีบาวด์กลุ่ม neocloud อย่างไรก็ตาม ราคายังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $70.71 ถึง 79.3% หลังร่วงแตะ $11.75 จากงบ Q1 FY27 วันที่ 5 พ.ย. แม้รายได้ AI Cloud โตพุ่ง 182% QoQ แตะ $200M พร้อม backlog $20.3B แต่การเลื่อนเป้า ARR เกิน $4B ออกไป 1–2 เดือน และช่องว่างเงินทุน $6B ในงบลงทุน FY27 ทำให้สมมติฐานคูเมืองระยะยาวยังต้องเฝ้าระวัง",
+               "technical":  "แม้จะพุ่งขึ้น 23.86% แตะ $14.64 ในวันที่ 23 พ.ย. 2026 แต่โครงสร้างเทคนิคของ IREN ยังเป็นขาลงชัดเจน ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่ทั้งสามเส้น (EMA ซึ่งช่วยกรองแนวโน้มหลัก) โดยต่ำกว่า EMA 50 ($27.26) ถึง 46.3%, ต่ำกว่า EMA 100 ($33.62) และต่ำกว่า EMA 200 ($37.44) ถึง 60.9% เรียงตัวแบบขาลงสมบูรณ์ ด้านโมเมนตัมยังอ่อนแรง โดย MACD (เครื่องมือวัดแรงส่งและแนวโน้ม) อยู่ที่ -4.53 ต่ำกว่าเส้น signal ที่ -4.37 และ histogram ยังติดลบ -0.16 แม้ส่วนต่างที่แคบลงจะบ่งชี้ว่าแรงขายเริ่มชะลอ ส่วน RSI 14 (ดัชนีวัดแรงส่งระดับ 0–100 โดยต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 33.48 เพิ่งพ้นโซนขายมากเกินไปเล็กน้อย ความผันผวนอยู่ในระดับสูงมากโดย Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) กว้างถึง $11.08–$29.15 และราคายังอยู่ต่ำกว่าเส้นกลาง $20.11 หรืออยู่ในโซนล่างสุด 5% ของกรอบรอบ 52 สัปดาห์ ($11.75–$70.71) วอลุ่มเทรดหนาแน่น 125.25M หุ้น (1.51 เท่าของค่าเฉลี่ย 20 วันที่ 82.85M) ยืนยันแรงช้อนซื้อ แต่การปิดต่ำกว่าราคาเปิด $14.82 และจุดสูงสุดระหว่างวัน $15.99 สะท้อนแรงขายกดด้านบน แนวรับหลักอยู่ที่ $11.75 และ $11.08 ส่วนแนวต้านอยู่ที่ $15.99, $20.11 และ $27.26"
            },
     "sources":  [
                     {
-                        "title":  "IREN Reports Q1 FY27 Results (Form 8-K exhibit)",
-                        "publisher":  "SEC EDGAR / IREN",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001878848/000187884826000065/irenreportsq1-fy27result.htm",
-                        "date":  "2026-11-05"
+                        "date":  "2026-11-05",
+                        "publisher":  "GlobeNewswire",
+                        "title":  "IREN Reports Q1 FY27 Results",
+                        "url":  "https://www.globenewswire.com/news-release/2026/11/05/3188582/0/en/IREN-Reports-Q1-FY27-Results.html"
                     },
                     {
-                        "title":  "IREN Sinks 10% as Analyst Target Cuts Pile Up After Microsoft Delay; Cipher Digital Falls 6%, TeraWulf Slides 2%",
-                        "publisher":  "24/7 Wall St.",
-                        "url":  "https://247wallst.com/investing/2026/11/10/iren-sinks-10-as-analyst-target-cuts-pile-up-after-microsoft-delay-cipher-digital-falls-6-terawulf-slides-2/",
-                        "date":  "2026-11-10"
+                        "date":  "2026-11-05",
+                        "publisher":  "U.S. SEC EDGAR",
+                        "title":  "IREN Limited Form 10-Q and Form 8-K Filings (Q1 FY27)",
+                        "url":  "https://www.sec.gov/edgar/browse/?CIK=0001878848"
                     },
                     {
-                        "title":  "IREN Drops 7% as NVIDIA Turmoil and Financing Worries Hit Neocloud Stocks; Nebius Falls 6%, CoreWeave Slides 4%",
-                        "publisher":  "24/7 Wall St.",
-                        "url":  "https://247wallst.com/investing/2026/11/16/iren-drops-7-as-nvidia-turmoil-and-financing-worries-hit-neocloud-stocks-nebius-falls-6-coreweave-slides-4/",
-                        "date":  "2026-11-16"
+                        "date":  "2026-11-06",
+                        "publisher":  "Investing.com",
+                        "title":  "Cantor Fitzgerald cuts IREN stock price target on delayed timeline",
+                        "url":  "https://www.investing.com/news/analyst-ratings/cantor-fitzgerald-cuts-iren-stock-price-target-on-delayed-timeline-932CH-3183533"
                     },
                     {
-                        "title":  "IREN Stock Rises 20.0% After Fiscal Q1 Results (Nov 6)",
-                        "publisher":  "Gotrade",
-                        "url":  "https://www.heygotrade.com/en/news/iren-iren-stock-news-november-9-2026/",
-                        "date":  "2026-11-09"
+                        "date":  "2026-11-09",
+                        "publisher":  "Investing.com",
+                        "title":  "JPMorgan cuts IREN stock price target on capex reduction, delays",
+                        "url":  "https://www.investing.com/news/analyst-ratings/jpmorgan-cuts-iren-stock-price-target-on-capex-reduction-delays-932CH-3184646"
                     },
                     {
-                        "title":  "IREN moves its 4 billion AI cloud goal into 2027 with 6 billion of capex yet to be financed",
-                        "publisher":  "Unchained",
-                        "url":  "https://unchainedcrypto.com/iren-moves-its-4-billion-ai-cloud-goal-into-2027-with-6-billion-of-capex-yet-to-be-financed/",
-                        "date":  "2026-11"
+                        "date":  "2026-11-23",
+                        "publisher":  "NVIDIA Newsroom",
+                        "title":  "NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
                     },
                     {
-                        "title":  "Stock Market Today, Nov. 20: Nvidia\u0027s $2.5 Trillion Rout Deepens as SEC Accounting Probe Adds to Wall Street\u0027s AI Sell-Off",
-                        "publisher":  "The Motley Fool",
-                        "url":  "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-today-nov-20-nvidia-s-usd2-5-trillion-rout-deepens-as-sec-accounting-probe-adds-to-wall-street-s-ai-sell-off/",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-23",
+                        "publisher":  "TipRanks",
+                        "title":  "CoreWeave, Nebius, and IREN Stocks Soar over 20% Each, Thanks to Nvidia",
+                        "url":  "https://www.tipranks.com/news/coreweave-nebius-and-iren-stocks-soar-over-20-each-thanks-to-nvidia"
                     }
                 ]
 }

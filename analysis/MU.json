@@ -6,45 +6,41 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T06:03:38Z",
+    "generatedAt":  "2026-11-24T03:56:10Z",
     "costUsd":  null,
     "stance":  "bearish",
-    "thesis":  "watch",
+    "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:MU",
                        "yahoo":  "MU",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-23T05:58:29Z",
-                       "price":  594.51,
-                       "open":  665.46,
-                       "high":  669,
-                       "low":  585.25,
-                       "volume":  59094000,
-                       "avgVolume20":  33768915,
-                       "changePct":  -13.89,
-                       "historyDays":  501,
-                       "ema50":  856.79,
-                       "ema100":  867.31,
-                       "ema200":  765.29,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:51:54Z",
+                       "price":  707.7,
+                       "open":  690.72,
+                       "high":  720.69,
+                       "low":  666.66,
+                       "volume":  49614800,
+                       "avgVolume20":  35123665,
+                       "changePct":  19.04,
+                       "historyDays":  500,
+                       "ema50":  850.95,
+                       "ema100":  864.15,
+                       "ema200":  764.68,
                        "bb":  {
-                                  "upper":  990.4,
-                                  "middle":  786.65,
-                                  "lower":  582.9
+                                  "upper":  975.94,
+                                  "middle":  776.85,
+                                  "lower":  577.76
                               },
                        "macd":  {
-                                    "macd":  -69.23,
-                                    "signal":  -59.56,
-                                    "hist":  -9.67
+                                    "macd":  -65.7,
+                                    "signal":  -60.79,
+                                    "hist":  -4.91
                                 },
-                       "rsi14":  29.52,
+                       "rsi14":  42.45,
                        "high52w":  1255,
                        "low52w":  192.59,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         1079.57
-                                     ],
                                      [
                                          "2026-06-04",
                                          996
@@ -520,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          594.51
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         707.7
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          667.53,
                                           680.41,
                                           687.61,
                                           697.88,
@@ -642,121 +641,120 @@
                                           881.64,
                                           874.73,
                                           867.5,
-                                          856.79
+                                          856.79,
+                                          850.95
                                       ]
                    },
     "en":  {
-               "caution":  "Even with extraordinary FY26 profitability, memory remains historically cyclical, and stocks often peak when margins and earnings look strongest. TrendForce’s November 19 warning of a 2027 NAND oversupply—fueled by a 26.7% jump in industry CapEx and Chinese cloud order cuts—directly threatens a quarter of Micron’s sales. Meanwhile, the November 19 BIS remote-access export rule could slow non-U.S. AI data center deployments. Technically, November 20’s 13.89% drop on 1.75x volume signals heavy institutional selling; oversold RSI alone rarely halts a downtrend without fundamental stabilization.",
+               "caution":  "Extreme price swings show how quickly memory sentiment can shift despite strong contracts. MU dropped 23.6% in five sessions through November 20 before rebounding 19.04% on November 23, and its chart remains in a technical downtrend below EMA 200 ($764.68). Near-term execution risks include the unresolved Taoyuan labor standoff delaying Fab 11E\u0027s 2028 HBM capacity, TrendForce\u0027s warning of softer 2027 NAND pricing, and temporary Q1 FY27 gross margin compression from annual bonuses. Intensifying HBM4 competition from SK Hynix and Samsung also warrants close monitoring.",
                "cons":  [
-                            "TrendForce warned on November 19 that NAND flash (26% of Q4 revenue) will tip into 2027 oversupply, with spot prices already down 20%.",
-                            "The U.S. BIS Interim Final Rule effective November 19 restricts remote AI compute access across five countries, adding export-policy overhang.",
-                            "Price ($594.51) broke sharply below EMA 50 ($856.79), EMA 100 ($867.31), and EMA 200 ($765.29) on 1.75x average volume, signaling institutional distribution.",
-                            "Ultra-high margins (86.8% GAAP in Q4) heighten classic memory-cycle fears that earnings are near a cyclical peak."
+                            "MU still trades below its EMA 200 ($764.68), EMA 50 ($850.95), and EMA 100 ($864.15), keeping the technical trend bearish.",
+                            "On November 5, 2026, Micron halted construction on its $4.5 billion Taoyuan Fab 11E plant in Taiwan amid an unresolved union profit-sharing dispute.",
+                            "A November 20 TrendForce forecast warning of softer 2027 NAND prices sent MU down 13.89% to $594.51, underscoring lingering memory cyclicality.",
+                            "Micron holds an 18–20% HBM share behind leader SK Hynix and a resurgent Samsung ramping HBM4, while Q1 FY27 gross margin faces a temporary bonus-driven dip."
                         ],
-               "fundamental":  "Micron remains one of only three global suppliers capable of manufacturing leading-edge DRAM and High-Bandwidth Memory (HBM), making it a critical AI infrastructure bottleneck. In fiscal Q4 2026 (reported September 30, 2026), revenue jumped to $54.23 billion—lifting full-year FY26 revenue to $133.19 billion—with GAAP gross margin reaching 86.8% and non-GAAP EPS hitting $33.42. DRAM generated 73% of Q4 revenue ($39.77 billion) versus 26% for NAND ($14.10 billion). Management guided Q1 FY27 revenue to $61.5 billion (±$1.5 billion) and 86.25% non-GAAP gross margin, noting over 75% of FY27 output is already committed and HBM4 12-high stacks are in volume production for Nvidia’s Vera Rubin platform. Micron also closed FY26 with $73.48 billion in cash and investments and committed $1 billion to Anthropic’s November 19 IPO private placement. The December 17, 2026 Q1 report will test whether DRAM tightness offsets softening NAND trends.",
-               "headline":  "Micron plunges 13.89% on NAND glut fears despite locked-in AI DRAM demand",
+               "fundamental":  "Micron is one of only three global suppliers of high-bandwidth memory (HBM) essential for AI servers, alongside SK Hynix and Samsung. That oligopoly produced extraordinary Q4 FY26 results on September 30, 2026: revenue surged nearly fivefold year-over-year to $54.23 billion, non-GAAP EPS hit $33.42, and non-GAAP gross margin reached 87.0%. Management guided Q1 FY27 revenue to $61.5 billion (±$1.5 billion) and non-GAAP EPS to $38.15 (±$1.00), noting Q1\u0027s ~86.25% non-GAAP margin should mark the FY27 trough before 2027 HBM pricing resets kick in. On November 18, CEO Sanjay Mehrotra confirmed 75% of 2027 memory output is pre-sold under multi-year agreements backed by customer commitments, with talks shifting to 2028. Micron also committed $1 billion to Anthropic\u0027s November 20 IPO private placement. Existing Taiwan fabs (\u003e60% of DRAM output) continue running normally despite the Taoyuan Fab 11E pause.",
+               "headline":  "Sharp 19% rebound eases AI panic, but MU remains technically bearish",
                "news":  [
-                            "November 19–20, 2026: TrendForce forecast that NAND flash contract prices will drop 0–5% quarter-over-quarter in Q1 2027 and tip into oversupply as Chinese cloud providers cut enterprise SSD orders and industry CapEx rises 26.7% year-over-year. Combined with GF Securities’ November 17 NAND downgrade, the report triggered MU’s 13.89% single-day plunge on November 20.",
-                            "November 19, 2026: The U.S. Commerce Department’s Bureau of Industry and Security (BIS) put into effect an Interim Final Rule restricting remote access to advanced AI compute and adding license rules for five countries (Singapore, Malaysia, Thailand, Indonesia, and Brazil). The policy heightened geopolitical overhang across AI semiconductor stocks, including Micron.",
-                            "November 19, 2026: Micron scheduled its fiscal Q1 2027 earnings call for December 17, 2026. Investors will scrutinize whether gross margins hold near the 86.25% non-GAAP guidance amid emerging NAND pricing pressure.",
-                            "November 10–19, 2026: Amended SEC S-1 filings showed Micron committed $1 billion to a $26 billion concurrent private placement alongside AI customer Anthropic’s record November 19 Nasdaq IPO (ticker: ANT). The stake reinforces Micron’s direct alignment with frontier-AI model builders using its HBM, DRAM, and enterprise SSDs.",
-                            "November 18, 2026: RBC Capital reiterated an Outperform rating and $1,500 price target on Micron, emphasizing structural DRAM and HBM resilience. Despite bullish Wall Street consensus, equity prices broke sharply lower two days later on cyclical memory fears."
+                            "2026-11-23: MU surged 19.04% to $707.70 on 49.61 million shares after key AI customer Nvidia reinstated CEO Jensen Huang, calming sector-wide fears over AI infrastructure spending, while Citi reiterated a Buy rating ($1,300 target).",
+                            "2026-11-20: MU fell 13.89% to $594.51—capping a 23.6% five-day slump—after TrendForce warned of softer 2027 NAND flash contract prices; on the same day, Anthropic closed its IPO including Micron\u0027s $1 billion Class N private placement.",
+                            "2026-11-19: Micron scheduled its Q1 FY27 earnings release and conference call for December 17, 2026, setting the next major test for HBM pricing resets and gross margin trajectory.",
+                            "2026-11-18: At the TomorrowX Summit in Austin, CEO Sanjay Mehrotra disclosed that 75% of Micron\u0027s 2027 memory supply is already sold out under multi-year agreements, with 2027–2028 supply expected to stay tighter than 2026.",
+                            "2026-11-05: Following an October 22 symbolic strike by its Taoyuan union over profit-sharing terms, Micron paused construction on its $4.5 billion Fab 11E plant in Taiwan, though existing Taiwan fabs remain fully operational."
                         ],
-               "opportunity":  "The selloff has reset expectations sharply ahead of Micron’s December 17, 2026 Q1 FY27 earnings release, creating clear checkpoints for long-term AI infrastructure investors. Because HBM manufacturing consumes three to four times more wafer area than standard DDR5, DRAM supply (73% of Q4 revenue) stays structurally constrained even if NAND weakens. Confirmation that Q1 revenue meets the $61.5 billion guide, gross margins hold near 86%, and FY27 take-or-pay commitments remain intact—paired with price stabilizing above the $582.90 lower Bollinger Band—would help separate cyclical noise from thesis damage.",
-               "opportunityCheck":  "Overall, the AI-opportunity framework looks directionally reasonable, but two adjustments are warranted. First, AI revenue exposure looks understated and should move higher: FY26 revenue surged to $133.19 billion with 86.8% GAAP Q4 gross margins, HBM4 is shipping in volume for Nvidia Vera Rubin, and over 75% of FY27 output is already committed. Second, bottleneck and pricing power deserves a modest downward trim or closer scrutiny—while DRAM and HBM remain tightly constrained by high wafer intensity, TrendForce’s November 19 forecast shows NAND, roughly a quarter of sales, slipping into 2027 oversupply.",
+               "opportunity":  "The 43.6% pullback from MU\u0027s $1,255.00 52-week high contrasts sharply with its structural earnings visibility. Because HBM consumes three to four times more wafer area than standard DRAM, supply tightness is spilling across the broader memory market, enabling multi-year take-or-pay contracts that already cover 75% of 2027 output. Management expects Q1 FY27 to mark the gross margin floor before higher 2027 HBM pricing resets flow into December 17 guidance. Deepened ties with AI leaders like Nvidia and Anthropic reinforce Micron\u0027s role as the sole U.S.-based HBM supplier.",
+               "opportunityCheck":  "The page\u0027s overall profile is directionally sensible, but AI revenue exposure looks understated and deserves an upward revision. AI data center demand drove Q4 FY26 revenue nearly fivefold to $54.23 billion, with 75% of 2027 output already pre-sold under multi-year contracts, proving AI now dominates Micron\u0027s earnings mix. Bottleneck and pricing power could also edge slightly higher given 87.0% non-GAAP gross margins and 2027 pricing resets. Conversely, market position should stay restrained because SK Hynix still leads HBM and Samsung is aggressively ramping HBM4, while the Taoyuan Fab 11E pause clouds 2028 capacity execution.",
                "pros":  [
-                            "Over 75% of planned fiscal 2027 memory output and most calendar 2027 HBM supply are already pre-committed at higher prices.",
-                            "DRAM drove 73% of Q4 FY26 revenue ($39.77 billion of $54.23 billion), shielding Micron more than pure-play NAND rivals.",
-                            "Volume production of 36GB 12-high HBM4 for Nvidia’s Vera Rubin platform and 87.0% non-GAAP Q4 gross margin confirm strong AI pricing power.",
-                            "Micron’s $1 billion private placement in Anthropic’s November 19 IPO deepens strategic alignment with a marquee frontier-AI customer."
+                            "CEO Sanjay Mehrotra stated on November 18, 2026 that 75% of Micron\u0027s 2027 memory supply is already sold out under multi-year agreements.",
+                            "Record Q4 FY26 revenue reached $54.23 billion with 87.0% non-GAAP gross margin, and Q1 FY27 guidance calls for $61.5 billion.",
+                            "On November 20, 2026, Micron invested $1 billion in Anthropic\u0027s IPO private placement alongside Nvidia, Microsoft, and TSMC, deepening AI ecosystem alignment.",
+                            "November 23\u0027s 19.04% rally came on 49.61 million shares, 41% above the 20-day average, showing strong institutional buying near the lower Bollinger Band."
                         ],
                "risks":  [
-                             "NAND flash oversupply in 2027 (26% of Q4 revenue) compressing blended margins faster than DRAM gains can offset.",
-                             "Cyclical peak-earnings risk, where memory multiples stay compressed if investors anticipate profit contraction in 2027–2028.",
-                             "Tighter U.S. BIS export controls (effective November 19, 2026) and reduced Chinese cloud spending curbing global AI server demand.",
-                             "Intensifying HBM4 competition from SK Hynix and Samsung or execution hiccups ramping 12-high and 16-high stacks.",
-                             "Hyperscaler AI CapEx digestion slowing data center memory orders beyond existing 2027 commitments."
+                             "Prolonged labor disputes in Taoyuan delaying the $4.5 billion Fab 11E HBM/DRAM expansion targeted for 2028.",
+                             "Faster-than-expected NAND flash price softening or a broader memory oversupply cycle if hyperscaler AI capex slows.",
+                             "Market-share pressure in next-generation HBM4 from incumbent leader SK Hynix and a resurgent Samsung.",
+                             "High geographic concentration in Taiwan (\u003e60% of global DRAM output) alongside evolving U.S.-China semiconductor export controls."
                          ],
-               "summary":  "Micron (MU) plunged 13.89% to $594.51 on November 20, 2026, now down 52.6% from its $1,255 52-week high. The selloff followed TrendForce’s November 19 warning of a 2027 NAND flash oversupply driven by Chinese cloud order cuts, alongside a new U.S. BIS remote-access AI chip export rule effective November 19. Technically, MU sits in a steep bearish breakdown below all key moving averages, though an oversold RSI 14 at 29.52 reflects stretched selling. Fundamentally, core DRAM and HBM4 demand remains pre-committed into 2027, making December 17 earnings pivotal.",
-               "technical":  "Micron’s technical posture as of November 20, 2026 is decisively bearish. At $594.51, the stock closed well below all three exponential moving averages (EMAs, which track average price trends): EMA 50 ($856.79), EMA 100 ($867.31), and EMA 200 ($765.29). EMA 50 has already crossed beneath EMA 100, confirming medium-term trend deterioration. Momentum reinforces the breakdown: MACD (12/26/9, a trend-following momentum gauge) sits deeply negative at -69.23 below its -59.56 signal line, with a -9.67 histogram showing accelerating downside pressure. Meanwhile, RSI 14 (a 0–100 momentum gauge; under 30 is oversold) fell to 29.52, flagging short-term exhaustion rather than a confirmed bottom. Price dropped 13.89% on 59.09 million shares—1.75 times the 20-day average of 33.77 million—providing strong volume confirmation of distribution. Trading 52.6% off its $1,255 52-week high (versus a $192.59 low) and hugging the lower Bollinger Band ($582.90, a 20-day volatility envelope around the $786.65 middle band), MU faces immediate support near $582.90–$585.25 and heavy overhead resistance at EMA 200 ($765.29) and $856.79–$867.31."
+               "summary":  "Micron surged 19.04% to $707.70 on November 23, 2026 after Nvidia reinstated CEO Jensen Huang, reversing a five-session slide triggered by TrendForce\u0027s softer 2027 NAND pricing outlook and broader AI jitters. Fundamentals remain strong: Q4 FY26 revenue jumped nearly fivefold to $54.23 billion with 87.0% non-GAAP gross margin, and CEO Sanjay Mehrotra confirmed on November 18 that 75% of 2027 memory output is already sold out. However, MU still trades below all key moving averages, while a November 5 halt at Taiwan\u0027s $4.5 billion Fab 11E adds 2028 capacity risk ahead of December 17 earnings.",
+               "technical":  "Despite surging 19.04% to $707.70 on November 23, 2026, MU\u0027s chart remains bearish. Price sits below all three EMAs (exponential moving averages tracking trend): 7.5% under EMA 200 ($764.68), 16.8% under EMA 50 ($850.95), and 18.1% under EMA 100 ($864.15). Because EMA 50 has already crossed beneath EMA 100, medium-term trend pressure is firmly downward even though both remain above EMA 200. Momentum is improving from extreme stress but has not flipped positive. MACD (a trend-momentum gauge) stands deeply negative at -65.70, still below its -60.79 signal line with a -4.91 histogram. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) recovered to 42.45—out of oversold territory yet still beneath the neutral 50 mark. Volatility is wide: Bollinger Bands (a volatility envelope around the 20-day average) span $577.76 to $975.94, leaving MU in the lower half below the $776.85 midline and 43.6% off its $1,255.00 52-week high (versus its $192.59 low). Volume of 49.61 million shares—41% above the 35.12 million 20-day average—confirms strong buying interest near $578–$595 support, while $765–$777 now forms the first major resistance zone."
            },
     "th":  {
-               "caution":  "แม้กำไรปีงบ 2026 จะสูงเป็นประวัติการณ์ แต่ธุรกิจหน่วยความจำมีวัฏจักรชัดเจนและราคามักทำจุดสูงสุดช่วงที่มาร์จิ้นดูดีที่สุด คำเตือนของ TrendForce วันที่ 19 พ.ย. เรื่อง NAND ล้นตลาดในปี 2027 จากงบลงทุนอุตสาหกรรมที่พุ่ง 26.7% และคลาวด์จีนลดออเดอร์ กระทบรายได้ราวหนึ่งในสี่ของ Micron โดยตรง ขณะที่กฎ BIS วันที่ 19 พ.ย. อาจชะลอการขยายศูนย์ข้อมูล AI นอกสหรัฐฯ ส่วนทางเทคนิค การร่วง 13.89% พร้อมวอลุ่ม 1.75 เท่าในวันที่ 20 พ.ย. สะท้อนแรงขายสถาบัน ซึ่งภาวะ RSI oversold อย่างเดียวมักยังไม่หยุดขาลงได้หากปัจจัยพื้นฐานยังไม่นิ่ง",
+               "caution":  "ความผันผวนรุนแรงสะท้อนว่าตลาดยังอ่อนไหวต่อความเสี่ยงวัฏจักรหน่วยความจำ แม้สัญญาซื้อขายระยะยาวจะแข็งแกร่ง หุ้น MU ร่วง 23.6% ใน 5 วันทำการถึง 20 พ.ย. ก่อนดีดกลับ 19.04% ในวันที่ 23 พ.ย. แต่กราฟยังคงเป็นขาลงใต้ EMA 200 ($764.68) ความเสี่ยงระยะสั้นที่ต้องติดตามคือข้อพิพาทแรงงานที่ Taoyuan ซึ่งอาจกระทบกำลังผลิต HBM ปี 2028 คำเตือนราคา NAND ปี 2027 จาก TrendForce อัตรากำไร Q1 FY27 ที่ย่อตัวชั่วคราวจากโบนัส และการแข่งขัน HBM4 ที่ดุเดือดจาก SK Hynix และ Samsung",
                "cons":  [
-                            "TrendForce เตือนวันที่ 19 พ.ย. ว่า NAND flash (26% ของรายได้ Q4) จะพลิกเข้าสู่ภาวะล้นตลาดในปี 2027 โดยราคาสปอตลดลงแล้วราว 20%",
-                            "กฎควบคุมการส่งออกฉบับใหม่ของ BIS สหรัฐฯ มีผลวันที่ 19 พ.ย. คุมการเข้าถึงพลังประมวลผล AI ระยะไกลใน 5 ประเทศ เพิ่มแรงกดดันเชิงภูมิรัฐศาสตร์",
-                            "ราคาปิด $594.51 หลุดต่ำกว่า EMA 50 ($856.79), EMA 100 ($867.31) และ EMA 200 ($765.29) พร้อมวอลุ่ม 1.75 เท่าของค่าเฉลี่ย สะท้อนแรงขายสถาบันหนัก",
-                            "อัตรากำไรที่สูงผิดปกติ (GAAP Q4 ที่ 86.8%) กระตุ้นความกังวลตามวัฏจักรหน่วยความจำว่ากำไรอาจเข้าใกล้จุดพีคแล้ว"
+                            "ราคาหุ้น MU ยังต่ำกว่าเส้น EMA 200 ($764.68), EMA 50 ($850.95) และ EMA 100 ($864.15) ทำให้ภาพเทคนิคยังคงเป็นขาลง",
+                            "เมื่อ 5 พ.ย. 2026 Micron ระงับการก่อสร้างโรงงาน Fab 11E มูลค่า $4.5 พันล้านที่ Taoyuan ไต้หวัน จากข้อพิพาทเรื่องส่วนแบ่งกำไรกับสหภาพแรงงาน",
+                            "คำเตือนของ TrendForce เมื่อ 20 พ.ย. เรื่องราคา NAND ปี 2027 ที่อาจอ่อนตัว กดหุ้น MU ร่วงวันเดียว 13.89% สู่ $594.51 สะท้อนความเสี่ยงวัฏจักรหน่วยความจำ",
+                            "Micron มีส่วนแบ่งตลาด HBM ราว 18–20% ตามหลัง SK Hynix และต้องรับมือการเร่งเครื่อง HBM4 ของ Samsung ขณะที่อัตรากำไร Q1 FY27 ย่อตัวชั่วคราวจากค่าใช้จ่ายโบนัส"
                         ],
-               "fundamental":  "Micron ยังคงเป็นหนึ่งในสามผู้ผลิตระดับโลกที่ผลิต DRAM ขั้นสูงและ High-Bandwidth Memory (HBM) ได้ จึงเป็นคอขวดสำคัญของโครงสร้างพื้นฐาน AI ในไตรมาส 4 ปีงบ 2026 (ประกาศ 30 ก.ย. 2026) รายได้พุ่งขึ้นเป็น $54.23 พันล้าน ดันรายได้ทั้งปีงบ 2026 แตะ $133.19 พันล้าน โดยมีอัตรากำไรขั้นต้นแบบ GAAP สูงถึง 86.8% และกำไรต่อหุ้น non-GAAP ที่ $33.42 รายได้ Q4 มาจาก DRAM ถึง 73% ($39.77 พันล้าน) เทียบกับ NAND ที่ 26% ($14.10 พันล้าน) ผู้บริหารให้คาดการณ์ Q1 FY27 ที่ $61.5 พันล้าน (±$1.5 พันล้าน) และอัตรากำไรขั้นต้น non-GAAP 86.25% พร้อมระบุว่ากำลังการผลิตกว่า 75% ของปีงบ 2027 ถูกล็อกออเดอร์แล้ว และ HBM4 แบบ 12-high เข้าสู่การผลิตจำนวนมากสำหรับแพลตฟอร์ม Vera Rubin ของ Nvidia นอกจากนี้ บริษัทยังปิดปีด้วยเงินสดและเงินลงทุน $73.48 พันล้าน และร่วมลงทุน $1 พันล้านในดีล IPO ของ Anthropic วันที่ 19 พ.ย. ทำให้งบวันที่ 17 ธ.ค. 2026 เป็นบททดสอบสำคัญว่าความตึงตัวของ DRAM จะชดเชย NAND ที่อ่อนลงได้หรือไม่",
-               "headline":  "Micron ร่วง 13.89% กังวลภาวะ NAND ล้นตลาด แม้ดีมานด์ AI DRAM ล็อกออเดอร์แน่น",
+               "fundamental":  "Micron เป็น 1 ใน 3 ผู้ผลิตหน่วยความจำ HBM (High-Bandwidth Memory) สำหรับเซิร์ฟเวอร์ AI รายใหญ่ของโลกร่วมกับ SK Hynix และ Samsung ความได้เปรียบเชิงผูกขาดน้อยรายนี้ผลักดันงบ Q4 FY26 (ประกาศ 30 ก.ย. 2026) ให้รายได้พุ่งเกือบ 5 เท่าจากปีก่อนสู่ $54.23 พันล้าน กำไรต่อหุ้น non-GAAP อยู่ที่ $33.42 และอัตรากำไรขั้นต้น non-GAAP สูงถึง 87.0% ผู้บริหารให้คาดการณ์รายได้ Q1 FY27 ที่ $61.5 พันล้าน (±$1.5 พันล้าน) และกำไรต่อหุ้น non-GAAP ที่ $38.15 (±$1.00) โดยมองว่าอัตรากำไรขั้นต้นราว 86.25% ใน Q1 จะเป็นจุดต่ำสุดของปี ก่อนที่การปรับขึ้นราคา HBM ปี 2027 จะเริ่มรับรู้ วันที่ 18 พ.ย. ซีอีโอ Sanjay Mehrotra เผยว่ายอดผลิตปี 2027 ถูกจองแล้ว 75% ภายใต้สัญญาระยะยาวและเริ่มเจรจาถึงปี 2028 นอกจากนี้บริษัทยังร่วมลงทุน $1 พันล้านในดีล IPO ของ Anthropic เมื่อ 20 พ.ย. ขณะที่โรงงานเดิมในไต้หวัน (กว่า 60% ของกำลังผลิต DRAM) ยังเดินเครื่องตามปกติแม้จะชะลอ Fab 11E",
+               "headline":  "MU ดีดแรง 19% คลายกังวล AI แต่ภาพเทคนิคยังเป็นขาลง",
                "news":  [
-                            "19–20 พ.ย. 2026: TrendForce คาดราคาสัญญา NAND flash จะลดลง 0–5% จากไตรมาสก่อนใน Q1 2027 และเข้าสู่ภาวะล้นตลาด หลังผู้ให้บริการคลาวด์จีนลดคำสั่งซื้อ enterprise SSD และงบลงทุนอุตสาหกรรมพุ่ง 26.7% ต่อปี เมื่อรวมกับมุมมองลบเรื่อง NAND จาก GF Securities วันที่ 17 พ.ย. จึงจุดชนวนให้หุ้น MU ดิ่ง 13.89% ในวันที่ 20 พ.ย.",
-                            "19 พ.ย. 2026: สำนักงานอุตสาหกรรมและความมั่นคงสหรัฐฯ (BIS) ประกาศใช้กฎเฉพาะกาล (Interim Final Rule) คุมการเข้าถึงพลังประมวลผล AI ขั้นสูงจากระยะไกล และเพิ่มข้อกำหนดใบอนุญาตใน 5 ประเทศ ได้แก่ สิงคโปร์ มาเลเซีย ไทย อินโดนีเซีย และบราซิล สร้างแรงกดดันเชิงนโยบายต่อกลุ่มชิป AI รวมถึง Micron",
-                            "19 พ.ย. 2026: Micron กำหนดวันประกาศผลประกอบการ Q1 ปีงบ 2027 ในวันที่ 17 ธ.ค. 2026 ซึ่งตลาดจะจับตาอย่างใกล้ชิดว่าอัตรากำไรขั้นต้นจะยืนใกล้ระดับคาดการณ์ non-GAAP ที่ 86.25% ได้หรือไม่ท่ามกลางแรงกดดันราคา NAND",
-                            "10–19 พ.ย. 2026: เอกสาร S-1 ฉบับแก้ไขต่อ SEC เปิดเผยว่า Micron ร่วมลงเงิน $1 พันล้านในดีล private placement มูลค่า $26 พันล้านควบคู่กับการ IPO ครั้งประวัติศาสตร์ของ Anthropic บน Nasdaq (ชื่อย่อ ANT) วันที่ 19 พ.ย. ตอกย้ำความสัมพันธ์เชิงกลยุทธ์กับลูกค้ารายใหญ่ด้าน AI",
-                            "18 พ.ย. 2026: RBC Capital คงคำแนะนำ Outperform และราคาเป้าหมาย $1,500 สำหรับ MU โดยชี้ว่าธุรกิจ DRAM และ HBM ยังแข็งแกร่งเชิงโครงสร้าง อย่างไรก็ดี ราคาหุ้นกลับปรับตัวลงแรงในอีกสองวันถัดมาจากความกังวลวัฏจักรหน่วยความจำ"
+                            "2026-11-23: หุ้น MU พุ่ง 19.04% ปิดที่ $707.70 ด้วยวอลุ่ม 49.61 ล้านหุ้น หลังลูกค้ารายใหญ่อย่าง Nvidia แต่งตั้ง Jensen Huang กลับเป็นซีอีโอ ช่วยคลายกังวลเรื่องงบลงทุน AI ขณะที่ Citi คงคำแนะนำ Buy (เป้าราคา $1,300)",
+                            "2026-11-20: หุ้น MU ร่วง 13.89% สู่ $594.51 (รวม 5 วันลดลง 23.6%) หลัง TrendForce เตือนราคาสัญญา NAND ปี 2027 อาจอ่อนตัว วันเดียวกัน Anthropic ปิดดีล IPO ซึ่งรวมเงินลงทุน $1 พันล้านของ Micron ในหุ้น Class N แบบเจาะจง",
+                            "2026-11-19: Micron ประกาศกำหนดวันรายงานงบ Q1 FY27 ในวันที่ 17 ธ.ค. 2026 ซึ่งเป็นบททดสอบสำคัญถัดไปสำหรับทิศทางราคา HBM ปี 2027 และอัตรากำไรขั้นต้น",
+                            "2026-11-18: ในงาน TomorrowX Summit ที่ออสติน ซีอีโอ Sanjay Mehrotra เปิดเผยว่า Micron ขายกำลังผลิตหน่วยความจำปี 2027 ล่วงหน้าไปแล้ว 75% ภายใต้สัญญาระยะยาว และคาดว่าภาวะตึงตัวในปี 2027–2028 จะรุนแรงกว่าปี 2026",
+                            "2026-11-05: หลังสหภาพแรงงานที่ Taoyuan นัดหยุดงานเชิงสัญลักษณ์เมื่อ 22 ต.ค. เพื่อเรียกร้องส่วนแบ่งกำไร Micron ได้ระงับการก่อสร้างโรงงาน Fab 11E มูลค่า $4.5 พันล้านในไต้หวันชั่วคราว แต่โรงงานเดิมยังผลิตตามปกติ"
                         ],
-               "opportunity":  "แรงเทขายได้ปรับลดความคาดหวังของตลาดลงมากก่อนการประกาศงบ Q1 FY27 วันที่ 17 ธ.ค. 2026 สร้างจุดตรวจสอบที่ชัดเจนสำหรับนักลงทุนโครงสร้างพื้นฐาน AI ระยะยาว เนื่องจากการผลิต HBM ใช้พื้นที่เวเฟอร์มากกว่า DDR5 ทั่วไปถึง 3–4 เท่า อุปทาน DRAM (73% ของรายได้ Q4) จึงยังคงตึงตัวเชิงโครงสร้างแม้ฝั่ง NAND จะอ่อนลง หากงบยืนยันรายได้ตามเป้า $61.5 พันล้าน มาร์จิ้นใกล้ 86% และสัญญาล็อกออเดอร์ปีงบ 2027 ยังแน่น ควบคู่กับราคาเริ่มตั้งฐานเหนือกรอบล่าง Bollinger Band ที่ $582.90 ได้ จะช่วยแยกแยะแรงผันผวนระยะสั้นออกจากการเสียพื้นฐานได้ชัดขึ้น",
-               "opportunityCheck":  "โดยรวมกรอบคะแนนโอกาส AI ของหน้าเว็บดูสมเหตุสมผลในเชิงทิศทาง แต่ควรปรับสองด้าน ด้านแรก สัดส่วนรายได้จาก AI (AI revenue exposure) ดูประเมินต่ำไปและควรขยับขึ้น เพราะรายได้ปีงบ 2026 พุ่งถึง $133.19 พันล้านพร้อมมาร์จิ้น GAAP Q4 ที่ 86.8% อีกทั้ง HBM4 เริ่มผลิตจำนวนมากให้ Nvidia Vera Rubin และผลผลิตปีงบ 2027 กว่า 75% ถูกล็อกไว้แล้ว ด้านที่สอง คะแนนด้านคอขวดและอำนาจตั้งราคา (bottleneck \u0026 pricing power) ควรพิจารณาลดลงเล็กน้อยหรือติดตามใกล้ชิด เพราะแม้ DRAM/HBM ยังตึงตัวมาก แต่รายงาน TrendForce วันที่ 19 พ.ย. ชี้ว่า NAND ซึ่งคิดเป็นราวหนึ่งในสี่ของรายได้กำลังเข้าสู่ภาวะล้นตลาดในปี 2027",
+               "opportunity":  "การปรับฐานลงมาถึง 43.6% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $1,255.00 สวนทางกับความชัดเจนของรายได้ระยะยาว เนื่องจาก HBM ใช้พื้นที่เวเฟอร์มากกว่า DRAM ทั่วไป 3–4 เท่า ภาวะตึงตัวจึงลามไปทั้งตลาดหน่วยความจำ ทำให้ Micron ล็อกสัญญาระยะยาวแบบผูกมัดซื้อครอบคลุม 75% ของกำลังผลิตปี 2027 ได้แล้ว ผู้บริหารคาดว่า Q1 FY27 จะเป็นฐานต่ำสุดของอัตรากำไรก่อนรอบปรับขึ้นราคา HBM ปี 2027 จะสะท้อนในแนวโน้มวันที่ 17 ธ.ค. พร้อมความสัมพันธ์แน่นแฟ้นกับ Nvidia และ Anthropic ในฐานะผู้ผลิต HBM สัญชาติสหรัฐฯ เพียงรายเดียว",
+               "opportunityCheck":  "โครงสร้างคะแนนโดยรวมมาถูกทาง แต่ด้านสัดส่วนรายได้จาก AI ดูต่ำกว่าความเป็นจริงและควรปรับขึ้น เพราะอุปสงค์ศูนย์ข้อมูล AI หนุนรายได้ Q4 FY26 โตเกือบ 5 เท่าสู่ $54.23 พันล้าน และยอดผลิตปี 2027 ถูกจองล่วงหน้าแล้ว 75% สะท้อนว่า AI คือแกนหลักของกำไรแล้ว ส่วนด้านคอขวดและอำนาจตั้งราคาก็อาจขยับขึ้นได้เล็กน้อยจากอัตรากำไรขั้นต้น 87.0% และการปรับราคา HBM ปี 2027 อย่างไรก็ตาม คะแนนสถานะการแข่งขันควรคงไว้อย่างระมัดระวัง เนื่องจาก SK Hynix ยังครองผู้นำ HBM และ Samsung กำลังเร่งส่งมอบ HBM4 ขณะที่การหยุดสร้าง Fab 11E สร้างความเสี่ยงต่อแผนขยายกำลังผลิตปี 2028",
                "pros":  [
-                            "กำลังการผลิตหน่วยความจำปีงบ 2027 กว่า 75% และอุปทาน HBM ปีปฏิทิน 2027 ส่วนใหญ่ถูกล็อกสัญญาซื้อขายล่วงหน้าในราคาที่สูงขึ้นแล้ว",
-                            "DRAM สร้างรายได้ถึง 73% ของไตรมาส 4 ปีงบ 2026 ($39.77 พันล้าน จากทั้งหมด $54.23 พันล้าน) ช่วยกันชนความผันผวนได้ดีกว่าผู้ผลิต NAND ล้วน",
-                            "การเดินเครื่องผลิต HBM4 ขนาด 36GB แบบ 12-high ให้แพลตฟอร์ม Vera Rubin ของ Nvidia และอัตรากำไรขั้นต้น non-GAAP Q4 ที่ 87.0% สะท้อนอำนาจตั้งราคาด้าน AI ที่แข็งแกร่ง",
-                            "การร่วมลงทุน $1 พันล้านในดีล IPO ของ Anthropic วันที่ 19 พ.ย. ช่วยกระชับความสัมพันธ์เชิงกลยุทธ์กับผู้พัฒนาโมเดล AI แถวหน้า"
+                            "ซีอีโอ Sanjay Mehrotra ยืนยันเมื่อ 18 พ.ย. 2026 ว่ากำลังผลิตหน่วยความจำปี 2027 ของ Micron ถูกจองล่วงหน้าแล้วถึง 75% ภายใต้สัญญาระยะยาว",
+                            "งบ Q4 FY26 ทำสถิติสูงสุดด้วยรายได้ $54.23 พันล้าน อัตรากำไรขั้นต้น non-GAAP สูงถึง 87.0% และให้คาดการณ์รายได้ Q1 FY27 ที่ $61.5 พันล้าน",
+                            "วันที่ 20 พ.ย. 2026 Micron ร่วมลงทุน $1 พันล้านในดีล IPO ของ Anthropic เคียงข้าง Nvidia, Microsoft และ TSMC เสริมความแข็งแกร่งในระบบนิเวศ AI",
+                            "การดีดตัว 19.04% เมื่อ 23 พ.ย. มาพร้อมปริมาณซื้อขาย 49.61 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันถึง 41% สะท้อนแรงซื้อสถาบันใกล้ขอบล่าง Bollinger Bands"
                         ],
                "risks":  [
-                             "ภาวะ NAND ล้นตลาดในปี 2027 (26% ของรายได้ Q4) อาจกดดันอัตรากำไรรวมเร็วกว่าที่ฝั่ง DRAM จะชดเชยได้",
-                             "ความเสี่ยงวัฏจักรกำไรพีค ที่ตลาดมักกดค่า P/E ต่ำต่อเนื่องหากคาดว่ากำไรจะหดตัวในปี 2027–2028",
-                             "กฎควบคุมส่งออกของ BIS สหรัฐฯ (มีผล 19 พ.ย. 2026) และการชะลอคำสั่งซื้อคลาวด์จีนที่อาจกระทบดีมานด์เซิร์ฟเวอร์ AI ทั่วโลก",
-                             "การแข่งขัน HBM4 ที่รุนแรงขึ้นจาก SK Hynix และ Samsung หรือความล่าช้าในการขยายกำลังผลิตสแต็ก 12-high และ 16-high",
-                             "การชะลอตัวของงบลงทุน AI (CapEx) จากผู้ให้บริการคลาวด์รายใหญ่หลังผ่านรอบคำสั่งซื้อปี 2027"
+                             "ข้อพิพาทแรงงานที่ Taoyuan ยืดเยื้อจนทำให้แผนขยายกำลังผลิต HBM/DRAM ของโรงงาน Fab 11E มูลค่า $4.5 พันล้านในปี 2028 ล่าช้า",
+                             "ราคาหน่วยความจำ NAND อ่อนตัวเร็วกว่าคาด หรือเกิดภาวะอุปทานล้นตลาดหากผู้ให้บริการคลาวด์ชะลอการลงทุน AI",
+                             "แรงกดดันด้านส่วนแบ่งตลาด HBM4 รุ่นใหม่จากผู้นำอย่าง SK Hynix และการฟื้นตัวเร่งกำลังผลิตของ Samsung",
+                             "ความเสี่ยงจากการกระจุกตัวฐานผลิตในไต้หวัน (กว่า 60% ของ DRAM ทั่วโลกของบริษัท) ควบคู่กับความไม่แน่นอนของมาตรการควบคุมส่งออกชิปสหรัฐฯ–จีน"
                          ],
-               "summary":  "หุ้น Micron (MU) ดิ่ง 13.89% ปิดที่ $594.51 เมื่อวันที่ 20 พ.ย. 2026 หรือร่วงลง 52.6% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $1,255 แรงขายปะทุหลัง TrendForce เตือนวันที่ 19 พ.ย. ว่าตลาด NAND flash จะล้นตลาดในปี 2027 จากคลาวด์จีนลดออเดอร์ ประกอบกับกฎคุมส่งออกชิป AI ระยะไกลของ BIS สหรัฐฯ ที่มีผลวันที่ 19 พ.ย. ภาพเทคนิคเข้าสู่ขาลงชัดเจนใต้เส้นค่าเฉลี่ยหลักทั้งหมด แม้ RSI 14 ที่ 29.52 จะชี้ภาวะขายมากเกินไป แต่พื้นฐานฝั่ง DRAM และ HBM4 ยังถูกล็อกออเดอร์ข้ามปี 2027 ทำให้งบวันที่ 17 ธ.ค. เป็นจุดชี้ชะตาสำคัญ",
-               "technical":  "ภาพเทคนิคของ Micron ณ วันที่ 20 พ.ย. 2026 อยู่ในภาวะขาลงชัดเจน ราคาปิด $594.51 หลุดต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่เอ็กซ์โปเนนเชียล (EMA ซึ่งสะท้อนแนวโน้มราคาเฉลี่ย) ทั้งสามเส้น ได้แก่ EMA 50 ($856.79), EMA 100 ($867.31) และ EMA 200 ($765.29) โดย EMA 50 ตัดลงต่ำกว่า EMA 100 แล้ว ยืนยันโครงสร้างขาลงระยะกลาง ด้านแรงส่ง (momentum) ค่า MACD (12/26/9 เครื่องมือวัดทิศทางและแรงส่งของแนวโน้ม) ติดลบหนักที่ -69.23 ต่ำกว่าเส้น signal ที่ -59.56 พร้อม histogram ติดลบ -9.67 สะท้อนแรงขายที่ยังเร่งตัว ขณะที่ RSI 14 (ดัชนีวัดแรงซื้อขายช่วง 0–100 ต่ำกว่า 30 คือเขตขายมากเกินไปหรือ oversold) ลดลงแตะ 29.52 บ่งชี้แรงขายระยะสั้นตึงตัวแต่ยังไม่ใช่สัญญาณกลับตัว การร่วง 13.89% มาพร้อมปริมาณซื้อขาย 59.09 ล้านหุ้น สูงเป็น 1.75 เท่าของค่าเฉลี่ย 20 วัน (33.77 ล้านหุ้น) ยืนยันแรงกระจายขายจริง ราคาอยู่ต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($1,255) ถึง 52.6% (จุดต่ำสุด $192.59) และชิดกรอบล่างของ Bollinger Band ($582.90 กรอบความผันผวน 20 วันรอบค่ากลาง $786.65) โดยมีแนวรับเฉพาะหน้าแถว $582.90–$585.25 และแนวต้านสำคัญที่ EMA 200 ($765.29) รวมถึงโซน $856.79–$867.31"
+               "summary":  "หุ้น Micron พุ่งแรง 19.04% ปิดที่ $707.70 เมื่อ 23 พ.ย. 2026 หลัง Nvidia แต่งตั้งซีอีโอ Jensen Huang กลับมาดำรงตำแหน่ง ช่วยพลิกฟื้นจากการร่วงลง 5 วันติดที่เกิดจากคำเตือนราคา NAND ปี 2027 ของ TrendForce และความกังวลกลุ่ม AI ด้านพื้นฐานยังแกร่ง รายได้ Q4 FY26 โตเกือบ 5 เท่าสู่ $54.23 พันล้าน อัตรากำไรขั้นต้น non-GAAP แตะ 87.0% และเมื่อ 18 พ.ย. ซีอีโอยืนยันว่ากำลังผลิตปี 2027 ขายล่วงหน้าแล้ว 75% อย่างไรก็ดี กราฟราคายังต่ำกว่าเส้นค่าเฉลี่ยสำคัญทุกเส้น และเหตุหยุดสร้างโรงงาน Fab 11E มูลค่า $4.5 พันล้านในไต้หวันเมื่อ 5 พ.ย. เพิ่มความเสี่ยงกำลังผลิตปี 2028 ก่อนงบ 17 ธ.ค.",
+               "technical":  "แม้ราคาหุ้น MU จะพุ่งขึ้น 19.04% มาปิดที่ $707.70 เมื่อ 23 พ.ย. 2026 แต่โครงสร้างกราฟยังคงเป็นขาลง ราคาอยู่ต่ำกว่าเส้น EMA (เส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนักใช้วัดแนวโน้ม) ทั้งสามเส้น ได้แก่ ต่ำกว่า EMA 200 ($764.68) อยู่ 7.5%, EMA 50 ($850.95) อยู่ 16.8% และ EMA 100 ($864.15) อยู่ 18.1% โดยเส้น EMA 50 ตัดลงใต้ EMA 100 แล้ว สะท้อนแรงกดดันระยะกลางแม้ทั้งคู่ยังอยู่เหนือ EMA 200 ด้านโมเมนตัมเริ่มฟื้นจากภาวะตึงเครียดแต่ยังไม่พลิกเป็นบวก MACD (ตัววัดโมเมนตัมและทิศทางแนวโน้ม) ยังติดลบลึกที่ -65.70 ต่ำกว่าเส้น Signal ที่ -60.79 (ค่า Histogram -4.91) ส่วน RSI 14 (ดัชนีวัดโมเมนตัมช่วง 0–100 ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นขึ้นมาที่ 42.45 พ้นเขตขายมากเกินไปแต่ยังต่ำกว่าระดับกลาง 50 ด้านความผันผวนยังกว้างมาก โดย Bollinger Bands (กรอบวัดความผันผวนรอบค่าเฉลี่ย 20 วัน) กางตั้งแต่ $577.76 ถึง $975.94 ทำให้ราคาอยู่ครึ่งล่างใต้เส้นกลาง $776.85 และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($1,255.00) อยู่ 43.6% (จุดต่ำสุด $192.59) วอลุ่ม 49.61 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (35.12 ล้านหุ้น) ถึง 41% ยืนยันแรงรับบริเวณแนวรับ $578–$595 โดยมีแนวต้านสำคัญด่านแรกที่ $765–$777"
            },
     "sources":  [
                     {
                         "date":  "2026-09-30",
-                        "publisher":  "Micron Technology",
+                        "publisher":  "Micron Technology Investor Relations",
                         "title":  "Micron Technology, Inc. Reports Record Fiscal Fourth-Quarter and Full-Year 2026 Results",
                         "url":  "https://investors.micron.com/news-releases/news-release-details/micron-technology-inc-reports-record-fiscal-fourth-quarter-and"
                     },
                     {
+                        "date":  "2026-10-22",
+                        "publisher":  "Focus Taiwan",
+                        "title":  "Micron Taoyuan union reps begin symbolic \u0027strike\u0027 after Taichung deal",
+                        "url":  "https://focustaiwan.tw/business/202610220016"
+                    },
+                    {
+                        "date":  "2026-11-05",
+                        "publisher":  "Tom\u0027s Hardware",
+                        "title":  "Micron\u0027s $4.5 billion Taoyuan plant construction halted amidst labor dispute — company and union still haven\u0027t reached agreement as latter asks for clearer profit-sharing terms",
+                        "url":  "https://www.tomshardware.com/news/microns-dollar45-billion-taoyuan-plant-construction-halted-amidst-labor-dispute"
+                    },
+                    {
+                        "date":  "2026-11-18",
+                        "publisher":  "Investing.com",
+                        "title":  "Micron at TomorrowX Summit: ai memory demand reshapes outlook",
+                        "url":  "https://www.investing.com/news/stock-market-news/micron-at-tomorrowx-summit-ai-memory-demand-reshapes-outlook-3974533"
+                    },
+                    {
                         "date":  "2026-11-19",
-                        "publisher":  "Micron Technology",
+                        "publisher":  "Micron Technology Investor Relations",
                         "title":  "Micron Technology to Report Fiscal First Quarter Results on December 17, 2026",
                         "url":  "https://investors.micron.com/news-releases/news-release-details/micron-technology-report-fiscal-first-quarter-results-december-17-2026"
                     },
                     {
-                        "date":  "2026-11-19",
-                        "publisher":  "TrendForce",
-                        "title":  "NAND Flash Prices Set to Decline in 2027 as Chinese CSP Order Cuts Outweigh North American Demand Growth, Says TrendForce",
-                        "url":  "https://www.trendforce.com/presscenter/news/20261119-13314.html"
-                    },
-                    {
-                        "date":  "2026-11-19",
-                        "publisher":  "Federal Register (U.S. Department of Commerce, BIS)",
-                        "title":  "Addressing Remote Access to Advanced Semiconductors",
-                        "url":  "https://www.federalregister.gov/d/2026-23529"
-                    },
-                    {
                         "date":  "2026-11-20",
-                        "publisher":  "The Motley Fool",
-                        "title":  "Why Micron Stock Crashed Today",
-                        "url":  "https://www.fool.com/investing/2026/11/20/why-micron-stock-crashed-today/"
+                        "publisher":  "Anthropic",
+                        "title":  "Anthropic announces closing of initial public offering, including full exercise of underwriters\u0027 option to purchase additional shares, and closing of concurrent private placement",
+                        "url":  "https://anthropic.com/news/anthropic-announces-closing-of-initial-public-offering"
                     },
                     {
-                        "date":  "2026-11-10",
+                        "date":  "2026-11-23",
                         "publisher":  "The Motley Fool",
-                        "title":  "Nvidia, Alphabet, and Micron Just Agreed to Buy $26 Billion of Stock in One of Their Biggest Customers",
-                        "url":  "https://www.fool.com/investing/2026/11/10/nvidia-alphabet-and-micron-just-agreed-to-buy-26-bi/"
-                    },
-                    {
-                        "date":  "2026-11-18",
-                        "publisher":  "Price Target",
-                        "title":  "RBC Capital Affirms Outperform on Micron, $1,500 Price Target",
-                        "url":  "https://price-target.com/2026/11/18/179197/"
+                        "title":  "Stock Market Today, Nov. 23: Micron Surges 19% as Nvidia CEO Change Calms AI Spending Fears",
+                        "url":  "https://www.fool.com/investing/2026/11/23/stock-market-today-112326-micron-surges-19-nvidia/"
                     }
                 ]
 }

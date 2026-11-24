@@ -4,123 +4,33 @@
     "model":  "gemini-4-neon-high",
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T05:32:23Z",
+    "generatedAt":  "2026-11-24T03:28:22Z",
     "period":  [
-                   "2026-11-09",
-                   "2026-11-23"
+                   "2026-11-10",
+                   "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "Anthropic\u0027s record $81.3B Nasdaq IPO at a ~$1.5T valuation reshaped the foundation-model layer, delivering roughly $260B in combined paper gains to backers Amazon and Alphabet while intensifying Wall Street scrutiny of hyperscaler AI capex. Across the layer, labs raced to ship cheaper, faster agentic models—including Claude 5.2, Gemini 4 Neon and Hydrogen, Microsoft\u0027s in-house MAI Code 2 and Cyber 2, Meta\u0027s Muse Ember, and xAI\u0027s Grok Bot 1.0—even as SpaceX locked in $44B in GPU lease financing and Nvidia\u0027s $115.8B quarter confirmed unabated compute demand. Meanwhile, new U.S. export rules covering remote overseas cloud compute, power-driven TPU order shifts at Google, and privacy mishaps in Meta\u0027s Muse agent highlighted growing regulatory, power, and execution hurdles.",
-                  "th":  "ช่วง 2 สัปดาห์ที่ผ่านมา กลุ่ม Foundation Models คึกคักเป็นประวัติการณ์จากการเข้าตลาด Nasdaq ของ Anthropic ด้วยมูลค่าระดมทุน $81.3B ที่มูลค่ากิจการราว $1.5T ซึ่งสร้างกำไรทางบัญชีรวมราว $260B ให้ Amazon และ Alphabet พร้อมกระตุ้นให้ตลาดจับตางบลงทุน AI ของกลุ่มไฮเปอร์สเกลเลอร์ใกล้ชิดขึ้น ขณะเดียวกันทุกค่ายเร่งปล่อยโมเดลสายเอเจนต์ที่เร็วและคุ้มค่ากว่าเดิม ทั้ง Claude 5.2, Gemini 4 Neon/Hydrogen, โมเดล MAI ของ Microsoft, Muse Ember ของ Meta และ Grok Bot 1.0 ของ xAI ท่ามกลางดีลเช่าซื้อ GPU มูลค่า $44B ของ SpaceX และงบ $115.8B ของ Nvidia ที่ยืนยันดีมานด์คำนวณยังแรงไม่แผ่ว อย่างไรก็ดี กฎคุมส่งออกชิป AI ฉบับใหม่ของสหรัฐฯ ที่คลุมถึงการใช้คลาวด์ข้ามแดน ข้อจำกัดด้านไฟฟ้าที่ทำให้ Google ปรับออเดอร์ TPU และปัญหาข้อมูลรั่วในเอเจนต์ Muse ของ Meta สะท้อนความท้าทายด้านกฎระเบียบ พลังงาน และความปลอดภัยที่ต้องติดตามอย่างใกล้ชิด"
+                  "en":  "Anthropic\u0027s historic $119.5 billion IPO and concurrent private placement anchored a pivotal two weeks for foundation models, validating public-market appetite while handing Amazon and Alphabet huge equity windfalls. At the same time, SpaceX\u0027s $32 billion off-balance-sheet AI-chip debt sale and a bipartisan U.S. Senate disclosure bill spotlighted rising leverage and financing scrutiny across the layer, as SpaceX pivoted heavily toward leasing Colossus compute to Anthropic and Google. On the product and silicon front, Microsoft, Google, Amazon, and Anthropic pressed ahead with cheaper agentic models and custom-chip software, while Meta drew scrutiny over Muse privacy flaws and dropping its 2030 net-zero target amid surging data center power use.",
+                  "th":  "การเข้าจดทะเบียนในตลาดหลักทรัพย์ครั้งประวัติศาสตร์ของ Anthropic มูลค่ารวม 119.5 พันล้านดอลลาร์ กลายเป็นจุดเปลี่ยนสำคัญของกลุ่ม Foundation Models ในช่วงสองสัปดาห์ที่ผ่านมา ทั้งช่วยยืนยันความต้องการจากตลาดทุนและสร้างมูลค่าหุ้นก้อนโตให้ผู้ถือหุ้นใหญ่อย่าง Amazon และ Alphabet ขณะเดียวกัน การออกหุ้นกู้นอกงบดุลเพื่อซื้อชิป AI มูลค่า 32 พันล้านดอลลาร์ของ SpaceX และร่างกฎหมายเปิดเผยข้อมูลของวุฒิสภาสหรัฐฯ สะท้อนแรงจับตาต่อภาระการเงินที่เพิ่มขึ้น โดย SpaceX หันมาเน้นให้เช่าพลังประมวลผล Colossus แก่ Anthropic และ Google มากขึ้น ด้านผลิตภัณฑ์และชิปเฉพาะทาง Microsoft, Google, Amazon และ Anthropic ต่างเร่งเปิดตัวโมเดลแนว Agent ที่ต้นทุนถูกลงและเสริมซอฟต์แวร์ชิปของตนเอง ส่วน Meta เผชิญแรงกดดันทั้งจากปัญหาข้อมูลรั่วใน Muse และการยกเลิกเป้าหมาย Net-Zero ปี 2030 จากการใช้ไฟฟ้าดาต้าเซ็นเตอร์ที่พุ่งสูงขึ้น"
               },
     "themes":  {
                    "en":  [
-                              "Anthropic\u0027s historic $81.3B IPO",
-                              "Agentic model price-performance race",
-                              "Massive AI compute financing",
-                              "Overseas cloud export controls"
+                              "Record AI Capital Markets",
+                              "Off-Balance-Sheet Compute Scrutiny",
+                              "Custom Silicon \u0026 Agent Race",
+                              "Data Center Power Pressures"
                           ],
                    "th":  [
-                              "IPO ประวัติศาสตร์ $81.3B ของ Anthropic",
-                              "ศึกโมเดลเอเจนต์ลดต้นทุน-เพิ่มความเร็ว",
-                              "ระดมทุนมหาศาลขยายโครงสร้างพื้นฐาน AI",
-                              "คุมส่งออกชิป AI สู่คลาวด์ต่างแดน"
+                              "ตลาดทุน AI ทุบสถิติใหม่",
+                              "จับตาหนี้นอกงบค่าคอมพิวต์",
+                              "แข่งชิปเฉพาะทางและ AI Agent",
+                              "แรงกดดันพลังงานดาต้าเซ็นเตอร์"
                           ]
                },
     "items":  [
                   {
-                      "date":  "2026-11-18",
-                      "impact":  "positive",
-                      "publisher":  "Reuters",
-                      "tickers":  [
-                                      "ANT",
-                                      "AMZN",
-                                      "GOOGL"
-                                  ],
-                      "title_en":  "Anthropic prices record $81.3B Nasdaq IPO at $1.5T valuation, boosting Amazon and Alphabet stakes",
-                      "title_th":  "Anthropic เคาะราคา IPO ประวัติศาสตร์ $81.3B มูลค่ากิจการ $1.5T หนุนมูลค่าหุ้นที่ Amazon และ Alphabet ถือพุ่งแรง",
-                      "url":  "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/",
-                      "why_en":  "Raising $81.3B at $83 per share ahead of its Nov 19 Nasdaq debut gives Anthropic a massive war chest for frontier compute while lifting Amazon\u0027s ~14.7% stake to ~$161B+ and Alphabet\u0027s ~13.7% stake to ~$147B+ at IPO pricing.",
-                      "why_th":  "การระดมทุน $81.3B ที่ราคา $83 ต่อหุ้นก่อนเข้าเทรด Nasdaq วันที่ 19 พ.ย. เติมกระสุนเงินสดมหาศาลให้ Anthropic สำหรับลงทุนโครงสร้างพื้นฐาน AI พร้อมดันมูลค่าหุ้นที่ AMZN ถือ (~14.7%) ทะลุ $161B และ GOOGL (~13.7%) ทะลุ $147B ณ ราคา IPO"
-                  },
-                  {
                       "date":  "2026-11-20",
-                      "impact":  "positive",
-                      "publisher":  "Apollo Global Management",
-                      "tickers":  [
-                                      "SPCX"
-                                  ],
-                      "title_en":  "Apollo and Goldman Sachs price $44B Nvidia Vera Rubin GPU lease financing for SpaceX",
-                      "title_th":  "Apollo และ Goldman Sachs ปิดดีลจัดหาเงินทุนเช่าซื้อชิป Nvidia Vera Rubin มูลค่า $44B ให้ SpaceX",
-                      "url":  "https://www.apollo.com/insights-news/pressreleases/2026/apollo-and-goldman-sachs-announce-pricing-of-44-billion-spacex-gpu-financing",
-                      "why_en":  "The ~$44B Saturn Funding Trust structure secures off-balance-sheet Nvidia Vera Rubin GPU clusters for SpaceX and xAI, accelerating Colossus-scale compute expansion for Grok training and inference.",
-                      "why_th":  "โครงสร้างกองทรัสต์ Saturn Funding Trust มูลค่าราว $44B ช่วยให้ SpaceX และ xAI เข้าถึงคลัสเตอร์ชิป Nvidia Vera Rubin นอกงบดุล เพื่อเร่งขยายกำลังประมวลผลระดับ Colossus สำหรับเทรนและรันโมเดล Grok"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "Microsoft",
-                      "tickers":  [
-                                      "MSFT"
-                                  ],
-                      "title_en":  "Microsoft launches in-house MAI Code 2 and Cyber 2 models at Ignite 2026",
-                      "title_th":  "Microsoft เปิดตัวโมเดลพัฒนาเอง MAI Code 2 และ Cyber 2 ในงาน Ignite 2026",
-                      "url":  "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
-                      "why_en":  "MAI Code 2 delivers ~98% of GPT-6.1 Sol coding performance at ~40% of the cost alongside Copilot multi-model auto-routing and Maia 200 production silicon, improving Azure AI margins and cutting reliance on external labs.",
-                      "why_th":  "MAI Code 2 ทำประสิทธิภาพเขียนโค้ดได้ราว 98% ของ GPT-6.1 Sol ด้วยต้นทุนเพียง ~40% ควบคู่ระบบ Copilot auto-routing และชิป Maia 200 ที่ขึ้นไลน์ผลิตจริง ช่วยเพิ่มมาร์จิ้น Azure AI และลดการพึ่งพาแล็บภายนอก"
-                  },
-                  {
-                      "date":  "2026-11-19",
-                      "impact":  "negative",
-                      "publisher":  "U.S. Bureau of Industry and Security (Federal Register)",
-                      "tickers":  [
-                                      "AMZN",
-                                      "MSFT",
-                                      "GOOGL",
-                                      "ANT",
-                                      "META",
-                                      "SPCX"
-                                  ],
-                      "title_en":  "U.S. expands AI chip export controls to cover remote overseas data center compute",
-                      "title_th":  "สหรัฐฯ ขยายกฎคุมส่งออกชิป AI ครอบคลุมการเข้าถึงคลาวด์คอมพิวต์ในดาต้าเซ็นเตอร์ต่างประเทศ",
-                      "url":  "https://www.federalregister.gov/d/2026-23529",
-                      "why_en":  "The BIS interim final rule requires export licenses for remote access to U.S.-tech AI compute abroad and flags hubs including Singapore, Malaysia, Indonesia, Thailand, and Brazil for diversion risk, raising compliance costs for international cloud and model sales.",
-                      "why_th":  "กฎชั่วคราวของ BIS กำหนดให้ต้องขอใบอนุญาตส่งออกสำหรับการเข้าถึงกำลังประมวลผล AI เทคโนโลยีสหรัฐฯ ระยะไกลในต่างประเทศ และระบุชื่อศูนย์กลางอย่างสิงคโปร์ มาเลเซีย อินโดนีเซีย ไทย และบราซิลว่ามีความเสี่ยงรั่วไหล ซึ่งเพิ่มต้นทุนด้านกฎระเบียบต่อการขายคลาวด์และโมเดลนอกสหรัฐฯ"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "mixed",
-                      "publisher":  "NVIDIA",
-                      "tickers":  [
-                                      "MSFT",
-                                      "AMZN",
-                                      "GOOGL",
-                                      "META",
-                                      "ANT",
-                                      "SPCX"
-                                  ],
-                      "title_en":  "Nvidia posts $115.8B Q3 revenue on Vera Rubin ramp, confirming massive hyperscaler AI spend",
-                      "title_th":  "Nvidia ทำรายได้ไตรมาส 3 พุ่ง $115.8B จากยอดส่งมอบ Vera Rubin ยืนยันงบลงทุน AI ไฮเปอร์สเกลเลอร์ยังแรงต่อเนื่อง",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-                      "why_en":  "$107.6B in data center revenue (+110% YoY), ~$20B in early Vera Rubin shipments, and $130B Q4 guidance validate \u003e$200B/quarter buyer demand, though heavy GPU bills keep free cash flow and AI ROI under intense scrutiny.",
-                      "why_th":  "รายได้ดาต้าเซ็นเตอร์ $107.6B (+110% YoY) ยอดส่งมอบ Vera Rubin ราว $20B และคาดการณ์ไตรมาส 4 ที่ $130B ยืนยันว่ากลุ่มผู้พัฒนาโมเดลยังทุ่มงบซื้อโครงสร้างพื้นฐานเกิน $200B ต่อไตรมาส แต่ยิ่งกดดันกระแสเงินสดอิสระและการพิสูจน์ความคุ้มค่าการลงทุน AI"
-                  },
-                  {
-                      "date":  "2026-11-18",
-                      "impact":  "positive",
-                      "publisher":  "Google",
-                      "tickers":  [
-                                      "GOOGL"
-                                  ],
-                      "title_en":  "Google launches Gemini 4 Neon and Hydrogen models alongside real-time Genie 4",
-                      "title_th":  "Google เปิดตัวโมเดล Gemini 4 Neon และ Hydrogen พร้อมโลกจำลองเรียลไทม์ Genie 4",
-                      "url":  "https://blog.google/technology/ai/gemini-4-neon/",
-                      "why_en":  "Adding mid-tier 1M-context Gemini 4 Neon ($3/$15 per million tokens) days after fast Hydrogen ($1.50/$7.50) strengthens Google Cloud and Search competitiveness across coding, science, and agentic workloads.",
-                      "why_th":  "การส่ง Gemini 4 Neon รุ่นกลางที่รองรับบริบท 1M โทเคน ($3/$15 ต่อล้านโทเคน) ตามหลังรุ่นเร็ว Hydrogen ($1.50/$7.50) ช่วยยกระดับความคุ้มค่าของ Google Cloud และ Search ในงานเขียนโค้ด วิทยาศาสตร์ และเอเจนต์อัตโนมัติ"
-                  },
-                  {
-                      "date":  "2026-11-09",
                       "impact":  "positive",
                       "publisher":  "Anthropic",
                       "tickers":  [
@@ -129,115 +39,192 @@
                                       "GOOGL",
                                       "MSFT"
                                   ],
-                      "title_en":  "Anthropic releases 1M-context Claude Fable 5.2 and restricted Claude Mythos 5.2 models",
-                      "title_th":  "Anthropic ปล่อยโมเดลเรือธง Claude Fable 5.2 และรุ่นควบคุมพิเศษ Claude Mythos 5.2 รองรับบริบท 1M โทเคน",
-                      "url":  "https://anthropic.com/news/claude-fable-5-2-and-mythos-5-2",
-                      "why_en":  "Launching 1M-context, 128K-output flagship models at $8/$40 per million tokens across AWS, Google Cloud, and Azure reinforces Anthropic\u0027s coding and enterprise momentum while gating Mythos 5.2 for vetted cyber and life-science partners.",
-                      "why_th":  "โมเดลเรือธงรุ่นใหม่รองรับบริบท 1M โทเคนและเอาต์พุต 128K ที่ราคา $8/$40 ต่อล้านโทเคน พร้อมเปิดใช้งานบน AWS, Google Cloud และ Azure ช่วยตอกย้ำจุดแข็งของ Anthropic ในตลาดองค์กรและกลุ่มไซเบอร์-ชีววิทยาศาสตร์เฉพาะทาง"
+                      "title_en":  "Anthropic closes record $119.5B IPO and private placement on Nasdaq",
+                      "title_th":  "Anthropic ปิดดีล IPO และขายหุ้นเฉพาะเจาะจงทุบสถิติ 119.5 พันล้านดอลลาร์บน Nasdaq",
+                      "url":  "https://www.anthropic.com/news/anthropic-announces-closing-of-initial-public-offering-including-full-exercise-of-underwriters-option-to-purchase-additional-shares-and-closing-of-concurrent-private-placement",
+                      "why_en":  "Raising $93.5 billion in its $83-per-share Nasdaq debut plus $26 billion from strategic buyers including Google and Microsoft gives ANT unmatched balance-sheet firepower while crystallizing huge stake gains for major backers AMZN and GOOGL.",
+                      "why_th":  "การระดมทุน 93.5 พันล้านดอลลาร์ที่ราคา IPO 83 ดอลลาร์ต่อหุ้น บวกขายหุ้นเฉพาะเจาะจงอีก 26 พันล้านดอลลาร์ให้พันธมิตรอย่าง Google และ Microsoft ช่วยเติมกระสุนเงินทุนมหาศาลให้ ANT พร้อมปลดล็อกมูลค่าการลงทุนก้อนโตให้ผู้ถือหุ้นใหญ่อย่าง AMZN และ GOOGL"
                   },
                   {
-                      "date":  "2026-11-22",
+                      "date":  "2026-11-20",
+                      "impact":  "mixed",
+                      "publisher":  "Quartz",
+                      "tickers":  [
+                                      "SPCX"
+                                  ],
+                      "title_en":  "SpaceX raises $32B in AI-chip debt via off-balance-sheet trust",
+                      "title_th":  "SpaceX ระดมทุนหนี้ซื้อชิป AI มูลค่า 32 พันล้านดอลลาร์ผ่านกองทรัสต์นอกงบดุล",
+                      "url":  "https://qz.com/spacex-sold-32-billion-in-ai-chip-debt-most-at-yields-ab-1851892558",
+                      "why_en":  "Arranged by Goldman Sachs and Apollo through Saturn Funding Trust to lease $47.3 billion of NVIDIA Rubin chips, the deal scales SPCX\u0027s compute capacity fast but locks in five-year lease obligations backed by notes yielding above 8%.",
+                      "why_th":  "ดีลที่จัดโดย Goldman Sachs และ Apollo ผ่าน Saturn Funding Trust เพื่อเช่าชิป NVIDIA Rubin มูลค่า 47.3 พันล้านดอลลาร์ ช่วยให้ SPCX ขยายคลัสเตอร์ประมวลผลได้รวดเร็ว แต่แลกกับภาระสัญญาเช่า 5 ปีที่ต้นทุนดอกเบี้ยหุ้นกู้สูงกว่า 8%"
+                  },
+                  {
+                      "date":  "2026-11-23",
                       "impact":  "positive",
-                      "publisher":  "PYMNTS",
+                      "publisher":  "TechCrunch",
                       "tickers":  [
                                       "AMZN"
                                   ],
-                      "title_en":  "Amazon nears up-to-$7.5B deal to acquire real-time AI video startup Decart",
-                      "title_th":  "Amazon จ่อปิดดีลเข้าซื้อสตาร์ตอัป AI วิดีโอเรียลไทม์ Decart มูลค่าสูงสุด $7.5B",
-                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-deal-for-ai-startup-decart/",
-                      "why_en":  "Acquiring Israeli real-time generative video specialist Decart for $7B–$7.5B would bolster Amazon\u0027s in-house Nova models, AWS Bedrock multimodal stack, and cloud gaming workloads against Google\u0027s Genie 4.",
-                      "why_th":  "การเข้าซื้อ Decart จากอิสราเอลที่มูลค่า $7B–$7.5B จะช่วยเติมเต็มเทคโนโลยีสร้างวิดีโอแบบเรียลไทม์ให้ตระกูลโมเดล Nova และแพลตฟอร์ม AWS Bedrock เพื่อแข่งขันด้านโมเดลมัลติโมดอลกับ Genie 4 ของ Google"
+                      "title_en":  "Amazon buys Decart AI optimization tech and team for reported $7.5B",
+                      "title_th":  "Amazon ทุ่มราว 7.5 พันล้านดอลลาร์ซื้อเทคโนโลยีและทีมเพิ่มประสิทธิภาพชิป AI ของ Decart",
+                      "url":  "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+                      "why_en":  "Acquiring the Decart Optimization Stack and roughly 120 engineers for Annapurna Labs strengthens AWS\u0027s Trainium software ecosystem so enterprise customers can run AI inference faster and cheaper outside NVIDIA GPUs.",
+                      "why_th":  "การซื้อระบบ Decart Optimization Stack พร้อมดึงวิศวกรราว 120 คนเข้าทีม Annapurna Labs ช่วยอุดช่องโหว่ด้านซอฟต์แวร์ของชิป Trainium บน AWS ให้ลูกค้าองค์กรรันงาน AI inference ได้เร็วและประหยัดขึ้นโดยลดการพึ่งพา GPU ของ NVIDIA"
                   },
                   {
-                      "date":  "2026-11-09",
+                      "date":  "2026-11-23",
+                      "impact":  "mixed",
+                      "publisher":  "Forbes",
+                      "tickers":  [
+                                      "SPCX",
+                                      "ANT",
+                                      "GOOGL"
+                                  ],
+                      "title_en":  "SpaceX compute leases top 52% of revenue as Musk warns on AI",
+                      "title_th":  "รายได้เช่าคอมพิวต์ SpaceX ทะลุ 52% ของรายได้รวม ท่ามกลางคำเตือนของ Musk เรื่องโมเดล AI",
+                      "url":  "https://www.forbes.com/sites/zacharyfolk/2026/11/23/musk-warned-spacex-employees-company-was-failing-to-compete-on-ai-in-august-report-says/",
+                      "why_en":  "Leasing Colossus GPUs to Anthropic and Google generated $7.56 billion of SpaceX\u0027s $14.58 billion Q3 revenue, proving lucrative neocloud demand for SPCX and extra compute supply for ANT and GOOGL even as SpaceX acknowledged trailing frontier rivals on Grok.",
+                      "why_th":  "การให้เช่า GPU บน Colossus แก่ Anthropic และ Google สร้างรายได้ 7.56 พันล้านดอลลาร์จากรายได้รวม 14.58 พันล้านดอลลาร์ในไตรมาส 3 สะท้อนธุรกิจ Neocloud ที่ทำเงินให้ SPCX และช่วยเพิ่มกำลังประมวลผลให้ ANT และ GOOGL แม้ SpaceX ยอมรับว่าโมเดล Grok ยังตามหลังคู่แข่งแถวหน้าอยู่"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "mixed",
+                      "publisher":  "NVIDIA",
+                      "tickers":  [
+                                      "GOOGL",
+                                      "META",
+                                      "MSFT",
+                                      "AMZN",
+                                      "SPCX",
+                                      "ANT"
+                                  ],
+                      "title_en":  "NVIDIA Q3 revenue jumps 103% to $115.8B as Vera Rubin ships",
+                      "title_th":  "รายได้ไตรมาส 3 ของ NVIDIA พุ่ง 103% แตะ 115.8 พันล้านดอลลาร์ รับยอดส่งมอบ Vera Rubin",
+                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+                      "why_en":  "Data center revenue of $107.6 billion and an initial $20 billion Vera Rubin ramp confirm relentless enterprise AI demand while underscoring how heavily hyperscalers and frontier labs must keep spending on third-party GPUs.",
+                      "why_th":  "รายได้กลุ่ม Data Center ที่ 107.6 พันล้านดอลลาร์และยอดส่งมอบ Vera Rubin ล็อตแรก 20 พันล้านดอลลาร์ ยืนยันว่าความต้องการใช้งาน AI ยังร้อนแรง แต่ก็สะท้อนภาระงบลงทุนซื้อ GPU ก้อนโตที่ Hyperscaler และค่ายโมเดลแถวหน้ายังต้องแบกรับต่อเนื่อง"
+                  },
+                  {
+                      "date":  "2026-11-19",
+                      "impact":  "negative",
+                      "publisher":  "U.S. Senate",
+                      "tickers":  [
+                                      "ANT",
+                                      "GOOGL",
+                                      "META",
+                                      "SPCX",
+                                      "MSFT",
+                                      "AMZN"
+                                  ],
+                      "title_en":  "U.S. Senators introduce AUDIT AI Act targeting off-balance-sheet compute leases",
+                      "title_th":  "วุฒิสมาชิกสหรัฐฯ เสนอร่างกฎหมาย AUDIT AI Act บังคับเปิดเผยหนี้เช่าคอมพิวต์นอกงบดุล",
+                      "url":  "https://www.warner.senate.gov/2026/11/19/warner-kennedy-alsobrooks-rounds-introduce-bipartisan-legislation-to-increase-transparency-and-oversight-of-ai-investments/",
+                      "why_en":  "The bipartisan bill would direct the SEC to mandate disclosures of off-balance-sheet AI compute leases and SPV debt structures, increasing regulatory scrutiny and potential financing friction across capital-intensive model builders.",
+                      "why_th":  "ร่างกฎหมายจากสองพรรคใหญ่จะให้ SEC บังคับบริษัทจดทะเบียนเปิดเผยสัญญาเช่าคอมพิวต์ AI และหนี้ผ่าน SPV นอกงบดุล ซึ่งอาจเพิ่มแรงตรวจสอบจากนักลงทุนและทำให้การจัดโครงสร้างเงินทุนของกลุ่มพัฒนาโมเดลเข้มงวดขึ้น"
+                  },
+                  {
+                      "date":  "2026-11-18",
                       "impact":  "positive",
                       "publisher":  "Google",
                       "tickers":  [
                                       "GOOGL"
                                   ],
-                      "title_en":  "Google expands eighth-generation TPU lineup with TPU 8tx and TPU 8i Max",
-                      "title_th":  "Google ขยายทัพชิป TPU รุ่นที่ 8 เปิดตัว TPU 8tx และ TPU 8i Max รับยุคเอเจนต์ AI",
-                      "url":  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-                      "why_en":  "TPU 8i Max doubles per-package SRAM and HBM density for million-token agentic workloads while TPU 8tx adds hardware-encrypted confidential inference with AMD EPYC hosts, widening Alphabet\u0027s custom-silicon cost moat.",
-                      "why_th":  "TPU 8i Max เพิ่มความหนาแน่นหน่วยความจำ SRAM และ HBM เป็น 2 เท่าต่อแพ็กเกจสำหรับเอเจนต์บริบทยาว ส่วน TPU 8tx เพิ่มการประมวลผลแบบเข้ารหัสฮาร์ดแวร์ร่วมกับซีพียู AMD EPYC ช่วยขยายความได้เปรียบด้านต้นทุนชิปผลิตเองของ Alphabet"
+                      "title_en":  "Google DeepMind launches Gemini 4 Neon for coding and AI agents",
+                      "title_th":  "Google DeepMind เปิดตัว Gemini 4 Neon เจาะตลาดเขียนโค้ดและ AI Agent ต้นทุนคุ้มค่า",
+                      "url":  "https://blog.google/technology/developers/introducing-gemini-4-neon/",
+                      "why_en":  "Priced at $3 per million input tokens and $15 per million output tokens with a 1-million-token context window, Neon cuts per-task cost by roughly 32% versus Gemini 4 Carbon and extends Google\u0027s rapid four-model Gemini 4 rollout.",
+                      "why_th":  "ด้วยราคา API 3 ดอลลาร์ต่อล้าน input token และ 15 ดอลลาร์ต่อล้าน output token พร้อม context 1 ล้าน token รุ่น Neon ช่วยลดต้นทุนต่องานลงราว 32% เทียบกับ Gemini 4 Carbon และตอกย้ำจังหวะการออกโมเดลตระกูล Gemini 4 ที่รวดเร็วของ Google"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "Microsoft",
+                      "tickers":  [
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Microsoft unveils MAI Code 2, Licensed Weights, and Agent 365",
+                      "title_th":  "Microsoft เปิดตัว MAI Code 2, MAI Licensed Weights และอัปเกรด Agent 365 ในงาน Ignite 2026",
+                      "url":  "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+                      "why_en":  "Expanding its in-house MAI coding models, letting Azure enterprises customize MAI weights privately, and widening Agent 365 governance to rival clouds lowers MSFT\u0027s dependence on external models and deepens enterprise lock-in.",
+                      "why_th":  "การขยายโมเดลเขียนโค้ด MAI ของตัวเอง เปิดให้องค์กรปรับแต่ง weight บน Azure ได้โดยตรง และขยาย Agent 365 ให้กำกับดูแล agent จากค่ายอื่นได้ด้วย ช่วยลดการพึ่งพาโมเดลภายนอกของ MSFT และเพิ่มความเหนียวแน่นในกลุ่มลูกค้าองค์กร"
                   },
                   {
                       "date":  "2026-11-20",
-                      "impact":  "mixed",
-                      "publisher":  "Seeking Alpha",
-                      "tickers":  [
-                                      "GOOGL"
-                                  ],
-                      "title_en":  "Google reportedly cuts 2027 Broadcom TPU 8i orders 20% amid power limits",
-                      "title_th":  "รายงานชี้ Google หั่นคำสั่งซื้อชิป TPU 8i จาก Broadcom ปี 2027 ลง 20% ท่ามกลางข้อจำกัดด้านพลังงาน",
-                      "url":  "https://seekingalpha.com/news/4429715-google-shifts-some-27-high-end-ai-chip-orders-from-broadcom-to-mediatek-ming-chi-kuo-says",
-                      "why_en":  "Trimming planned 2027 TPU 8i shipments by ~1M units (from 5M to 4M) while increasing MediaTek-designed TPU 8t allocations shows Alphabet prioritizing frontier training under tight data center power budgets.",
-                      "why_th":  "การลดแผนสั่งซื้อ TPU 8i ปี 2027 ราว 1 ล้านชิ้น (จาก 5 ล้านเหลือ 4 ล้านชิ้น) แล้วหันไปเพิ่มสัดส่วน TPU 8t ที่ออกแบบร่วมกับ MediaTek สะท้อนว่า Alphabet ต้องจัดสรรกำลังไฟฟ้าในดาต้าเซ็นเตอร์ที่มีจำกัดให้เน้นงานเทรนโมเดลแนวหน้าก่อน"
-                  },
-                  {
-                      "date":  "2026-11-18",
-                      "impact":  "negative",
-                      "publisher":  "Reuters",
-                      "tickers":  [
-                                      "META"
-                                  ],
-                      "title_en":  "Reuters reveals privacy and cross-account data leaks in Meta\u0027s Muse AI agent",
-                      "title_th":  "Reuters เปิดโปงปัญหาข้อมูลสลับบัญชีและช่องโหว่ความเป็นส่วนตัวในเอเจนต์ AI \"Muse\" ของ Meta",
-                      "url":  "https://www.reuters.com/technology/artificial-intelligence/as-meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
-                      "why_en":  "Internal posts reviewed by Reuters showed the 10M+-download Muse agent reading Signal messages via notification permissions and mixing user bank balances across accounts, creating trust and regulatory headwinds for Meta\u0027s consumer AI push.",
-                      "why_th":  "บันทึกภายในที่ Reuters ตรวจสอบพบว่าเอเจนต์ Muse ซึ่งมียอดดาวน์โหลดทะลุ 10 ล้านครั้ง ดึงข้อความจากแอป Signal ผ่านสิทธิ์การแจ้งเตือนและแสดงข้อมูลบัญชีธนาคารสลับผู้ใช้ สร้างความเสี่ยงด้านความเชื่อมั่นและแรงกดดันจากหน่วยงานกำกับดูแลต่อแผนสร้างรายได้ AI ของ Meta"
-                  },
-                  {
-                      "date":  "2026-11-09",
                       "impact":  "positive",
+                      "publisher":  "Microsoft",
+                      "tickers":  [
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Microsoft debuts Maia 300 AI chips and Cobalt 200 Azure VMs",
+                      "title_th":  "Microsoft เผยโฉมชิป AI Maia 300 และเปิดใช้งานจริง Cobalt 200 VM บน Azure",
+                      "url":  "https://techcommunity.microsoft.com/blog/azurecompute/ignite-2026-the-next-era-of-enterprise-ai-starts-with-the-infrastructure-beneath-it/4574943",
+                      "why_en":  "Maia 300 targets roughly 40% more tokens per watt than leading GPU systems and up to 7x the rack-scale throughput of Maia 200, helping MSFT defend Azure AI margins as agentic inference scales.",
+                      "why_th":  "ชิป Maia 300 รุ่นใหม่ตั้งเป้าประมวลผล token ต่อวัตต์สูงกว่าระบบ GPU ชั้นนำราว 40% และให้ปริมาณงานระดับแร็กสูงกว่า Maia 200 ถึง 7 เท่า ช่วย MSFT คุมต้นทุนและรักษาอัตรากำไรของ Azure AI เมื่อการใช้งาน Agent ขยายตัว"
+                  },
+                  {
+                      "date":  "2026-11-23",
+                      "impact":  "positive",
+                      "publisher":  "TechCrunch",
+                      "tickers":  [
+                                      "ANT"
+                                  ],
+                      "title_en":  "Anthropic launches Claude Ship to review, fix, and approve GitHub code",
+                      "title_th":  "Anthropic เปิดตัว Claude Ship ให้ AI Agent ตรวจ แก้ไข และอนุมัติโค้ดบน GitHub อัตโนมัติ",
+                      "url":  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+                      "why_en":  "Extending Claude from code generation into automated pull-request maintenance and policy-based approvals embeds ANT deeper into enterprise software delivery workflows, supporting higher-margin recurring seats.",
+                      "why_th":  "การต่อยอด Claude จากการช่วยเขียนโค้ดไปสู่การดูแลและอนุมัติ Pull Request อัตโนมัติตามกติกาองค์กร ช่วยให้ ANT ฝังตัวลึกขึ้นในกระบวนการพัฒนาซอฟต์แวร์และหนุนรายได้แบบสมาชิกองค์กรที่มีอัตรากำไรสูง"
+                  },
+                  {
+                      "date":  "2026-11-23",
+                      "impact":  "mixed",
                       "publisher":  "TechCrunch",
                       "tickers":  [
                                       "META"
                                   ],
-                      "title_en":  "Meta Superintelligence Labs launches low-cost Muse Ember model for high-volume agents",
-                      "title_th":  "Meta Superintelligence Labs เปิดตัวโมเดลต้นทุนต่ำ Muse Ember สำหรับงานเอเจนต์ปริมาณมหาศาล",
-                      "url":  "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-                      "why_en":  "Priced around $0.10 per million input tokens, Muse Ember handles repetitive tool-calling and routing subtasks alongside flagship Muse Wonder, slashing inference costs across Meta\u0027s billion-user apps.",
-                      "why_th":  "Muse Ember ตั้งราคาเพียงราว $0.10 ต่อล้านโทเคนอินพุต เพื่อรับงานย่อยปริมาณสูงอย่างการเรียกเครื่องมือและการจัดเส้นทางคำสั่งควบคู่โมเดลหลัก Muse Wonder ช่วยลดต้นทุนการรันเอเจนต์บนแพลตฟอร์มที่มีผู้ใช้หลายพันล้านรายของ Meta"
+                      "title_en":  "Meta drops 2030 net-zero target as AI data center power surges",
+                      "title_th":  "Meta ถอยเป้า Net-Zero ปี 2030 หลังดาต้าเซ็นเตอร์ AI ดันการใช้ไฟและการปล่อยก๊าซพุ่งสูง",
+                      "url":  "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+                      "why_en":  "After net emissions jumped 45% to 11.8 million metric tons CO2e and electricity use rose 35% year-over-year, dropping its 2030 timeline gives META flexibility to rely on natural gas for mega-campuses like Hyperion while heightening ESG and regulatory risk.",
+                      "why_th":  "หลังการปล่อยก๊าซเรือนกระจกพุ่งขึ้น 45% แตะ 11.8 ล้านตันคาร์บอนฯ และการใช้ไฟโต 35% การถอยกรอบเวลาปี 2030 เปิดทางให้ META ใช้พลังงานก๊าซธรรมชาติเร่งสร้างแคมปัสใหญ่อย่าง Hyperion ได้คล่องตัวขึ้น แต่แลกกับความเสี่ยงด้าน ESG และกฎระเบียบที่สูงขึ้น"
                   },
                   {
-                      "date":  "2026-11-20",
-                      "impact":  "positive",
-                      "publisher":  "The New York Times",
+                      "date":  "2026-11-19",
+                      "impact":  "negative",
+                      "publisher":  "TechCrunch",
                       "tickers":  [
-                                      "ANT"
+                                      "META"
                                   ],
-                      "title_en":  "Anthropic mathematician and Claude claim 17M-line Lean proof of Riemann Hypothesis",
-                      "title_th":  "นักคณิตศาสตร์ของ Anthropic ร่วมกับ Claude อ้างบทพิสูจน์ Riemann Hypothesis ยาว 17 ล้านบรรทัดในภาษา Lean",
-                      "url":  "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
-                      "why_en":  "Although the 17-million-line formal proof still requires full mathematical community verification, the breakthrough signals a leap in Claude\u0027s formal reasoning moat for science, engineering, and software verification markets.",
-                      "why_th":  "แม้บทพิสูจน์ในภาษา Lean ยาว 17 ล้านบรรทัดยังอยู่ระหว่างการตรวจสอบจากวงการคณิตศาสตร์ แต่ผลงานนี้ช่วยตอกย้ำศักยภาพการให้เหตุผลเชิงตรรกะขั้นสูงของ Claude ซึ่งเป็นจุดขายสำคัญในตลาดวิจัยวิทยาศาสตร์ วิศวกรรม และตรวจสอบซอฟต์แวร์"
+                      "title_en":  "Meta AI agent Muse hit by conversation mix-ups and data-leak reports",
+                      "title_th":  "AI Agent รุ่น Muse ของ Meta เจอรายงานสลับบทสนทนาและเสี่ยงเปิดเผยข้อมูลส่วนตัวผู้ใช้",
+                      "url":  "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-could-be-exposing-private-data-report-says/",
+                      "why_en":  "Leaked internal reports that Meta\u0027s personal AI agent mixed up user threads and surfaced private financial and messaging details threaten consumer trust and invite privacy scrutiny just as Muse scales past 10 million downloads.",
+                      "why_th":  "รายงานภายในที่รั่วไหลว่า Muse สลับบทสนทนาข้ามบัญชีและดึงข้อมูลการเงินหรือข้อความส่วนตัวมาแสดง เสี่ยงบั่นทอนความเชื่อมั่นผู้บริโภคและดึงแรงตรวจสอบด้านความเป็นส่วนตัว ในจังหวะที่ยอดดาวน์โหลดเพิ่งทะลุ 10 ล้านครั้ง"
                   },
                   {
-                      "date":  "2026-11-12",
+                      "date":  "2026-11-23",
                       "impact":  "positive",
-                      "publisher":  "Amazon Web Services",
+                      "publisher":  "Google DeepMind",
                       "tickers":  [
-                                      "AMZN"
+                                      "GOOGL"
                                   ],
-                      "title_en":  "AWS launches SGLang-Neuron to serve frontier AI models on custom Trainium chips",
-                      "title_th":  "AWS เปิดตัว SGLang-Neuron รองรับการรันโมเดล AI แนวหน้าบนชิป Trainium เต็มรูปแบบ",
-                      "url":  "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
-                      "why_en":  "Making SGLang-Neuron publicly available on native PyTorch lowers software migration friction for model serving and RL rollouts on AWS Trainium, supporting AWS\u0027s push to improve AI cloud margins against Nvidia GPUs.",
-                      "why_th":  "การเปิดให้ใช้งาน SGLang-Neuron บน PyTorch โดยตรงช่วยลดความยุ่งยากในการย้ายโค้ดรันโมเดลและงาน RL มาอยู่บนชิป Trainium เสริมแรงผลักดันของ AWS ในการเพิ่มมาร์จิ้นคลาวด์ AI และลดการพึ่งพา GPU ของ Nvidia"
+                      "title_en":  "Google DeepMind uses Gemini 4 agents to discover verified quantum algorithms",
+                      "title_th":  "Google DeepMind ใช้ทีม Gemini 4 Agent ค้นพบอัลกอริทึมควอนตัมที่พิสูจน์ผลได้จริง",
+                      "url":  "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+                      "why_en":  "Gemini 4 agent teams paired with the Lean theorem prover cut laser-fusion quantum simulation costs 11.8-fold and sped up key math subroutines 290-fold, showcasing GOOGL\u0027s technical moat in scientific AI and quantum R\u0026D.",
+                      "why_th":  "ทีม Gemini 4 Agent ที่ทำงานร่วมกับระบบพิสูจน์ทางคณิตศาสตร์ Lean ช่วยลดต้นทุนจำลองฟิวชันควอนตัมลง 11.8 เท่าและเร่งความเร็วฟังก์ชันคำนวณหลักได้ถึง 290 เท่า ตอกย้ำความได้เปรียบเชิงเทคโนโลยีของ GOOGL ในสาย AI วิทยาศาสตร์และควอนตัม"
                   },
                   {
                       "date":  "2026-11-11",
                       "impact":  "positive",
-                      "publisher":  "xAI",
+                      "publisher":  "NAACP",
                       "tickers":  [
                                       "SPCX"
                                   ],
-                      "title_en":  "SpaceX xAI launches Grok Bot 1.0 collaborative AI teammates for enterprise teams",
-                      "title_th":  "SpaceX xAI เปิดตัว Grok Bot 1.0 ผู้ช่วย AI ร่วมทีมสำหรับองค์กรบน Slack และ Teams",
-                      "url":  "https://x.ai/news/grok-bot-1-0",
-                      "why_en":  "Turning Grok into shareable AI teammates inside Slack and Microsoft Teams pushes SpaceX\u0027s AI unit into recurring enterprise SaaS workflows to monetize its heavy Colossus infrastructure outlays.",
-                      "why_th":  "การต่อยอด Grok สู่เอเจนต์เพื่อนร่วมทีมใน Slack และ Microsoft Teams ช่วยขยายรายได้ซอฟต์แวร์องค์กรแบบต่อเนื่องให้หน่วย AI ของ SpaceX เพื่อรองรับเงินลงทุนมหาศาลในซูเปอร์คอมพิวเตอร์ Colossus"
+                      "title_en":  "Mississippi regulators uphold air permit for xAI Colossus gas plant",
+                      "title_th":  "หน่วยงานรัฐมิสซิสซิปปี้ยืนยันใบอนุญาตมลพิษทางอากาศให้โรงไฟฟ้าก๊าซของ xAI Colossus",
+                      "url":  "https://naacp.org/resources/mdeq-permit-board-doubles-down-unlawfully-flawed-permit-xais-massive-colossus-gas-plant",
+                      "why_en":  "The Mississippi DEQ Permit Board\u0027s decision to uphold air permits for xAI\u0027s gas turbines removes a near-term regulatory bottleneck to powering SpaceX\u0027s rapid Colossus AI cluster expansion.",
+                      "why_th":  "การที่คณะกรรมการสิ่งแวดล้อมรัฐมิสซิสซิปปี้ยืนยันใบอนุญาตสำหรับโรงไฟฟ้ากังหันก๊าซของ xAI ช่วยปลดล็อกอุปสรรคสำคัญด้านพลังงานในระยะสั้น สำหรับการขยายคลัสเตอร์ Colossus ของ SpaceX"
                   }
               ]
 }

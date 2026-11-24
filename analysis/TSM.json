@@ -6,7 +6,7 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T05:38:00Z",
+    "generatedAt":  "2026-11-24T03:34:38Z",
     "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
@@ -14,37 +14,33 @@
                        "symbol":  "NYSE:TSM",
                        "yahoo":  "TSM",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-23T05:33:10Z",
-                       "price":  318.71,
-                       "open":  338.24,
-                       "high":  343.75,
-                       "low":  318.48,
-                       "volume":  37170000,
-                       "avgVolume20":  17002855,
-                       "changePct":  -9.48,
-                       "historyDays":  501,
-                       "ema50":  407.78,
-                       "ema100":  412.18,
-                       "ema200":  392.82,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:29:38Z",
+                       "price":  363.6,
+                       "open":  385.49,
+                       "high":  386.9,
+                       "low":  361.66,
+                       "volume":  31579400,
+                       "avgVolume20":  18105535,
+                       "changePct":  14.08,
+                       "historyDays":  500,
+                       "ema50":  406.05,
+                       "ema100":  411.22,
+                       "ema200":  392.51,
                        "bb":  {
-                                  "upper":  453.49,
-                                  "middle":  391.78,
-                                  "lower":  330.07
+                                  "upper":  449.72,
+                                  "middle":  388.74,
+                                  "lower":  327.77
                               },
                        "macd":  {
-                                    "macd":  -20.83,
-                                    "signal":  -14.99,
-                                    "hist":  -5.84
+                                    "macd":  -19.96,
+                                    "signal":  -15.99,
+                                    "hist":  -3.97
                                 },
-                       "rsi14":  28.26,
+                       "rsi14":  43.05,
                        "high52w":  487.47,
                        "low52w":  266.82,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         436.69
-                                     ],
                                      [
                                          "2026-06-04",
                                          444.92
@@ -520,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          318.71
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         363.6
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          392.85,
                                           394.89,
                                           395.68,
                                           396.9,
@@ -642,125 +641,120 @@
                                           415.93,
                                           413.84,
                                           411.42,
-                                          407.78
+                                          407.78,
+                                          406.05
                                       ]
                    },
     "en":  {
-               "caution":  "Long-term holders should respect the technical damage: breaking below the 200-day EMA ($392.82) and lower Bollinger Band ($330.07) on 2.19x volume signals active institutional de-risking that rarely reverses in one session. Beyond chart pressure, stricter U.S. BIS compliance raises operational friction across TSMC\u0027s broader supply chain, and Nvidia\u0027s post-Huang leadership transition adds uncertainty around its single largest AI customer. With 2026 CapEx set at $60–$64 billion and $40.93 billion more appropriated on November 10, any pause in hyperscaler spending or overseas fab margin dilution would magnify earnings sensitivity.",
+               "caution":  "Even with Nvidia\u0027s CEO reinstated on November 23, political and regulatory risks remain elevated. The November 19 BIS rule shifts 16nm/14nm compliance enforcement directly onto foundries, creating screening overhead and potential delays beyond China\u0027s 5% direct revenue share, while congressional scrutiny of AI supply chains persists. Financially, committing $60–$64 billion in 2026 capex plus $40.93 billion in new approvals leaves high fixed depreciation if hyperscalers digest AI capacity in 2027. Technically, the intraday fade from $386.90 shows rallies face heavy selling below the $388.74–$392.51 resistance zone.",
                "cons":  [
-                            "TSM broke below its 200-day EMA ($392.82) and lower Bollinger Band ($330.07) on 2.19x average volume on November 20.",
-                            "New U.S. BIS rules effective November 19 removed foundry self-verification on 16nm/14nm China orders, triggering shipment pauses.",
-                            "Nvidia CEO Jensen Huang\u0027s November 12 exit rattled AI infrastructure sentiment despite Nvidia\u0027s $115.84 billion Q3 FY27 revenue.",
-                            "Sustaining 2026 CapEx of $60–$64 billion and overseas fab ramps keeps depreciation and execution risks elevated if AI spending slows."
+                            "Shares remain 25.4% below their $487.47 52-week high and closed well below the $392.51 EMA 200 despite November 23\u0027s bounce.",
+                            "The November 19 U.S. BIS rule presumes 16nm/14nm-and-below chips are controlled, reportedly forcing TSMC to pause affected Chinese orders pending licenses.",
+                            "November\u0027s 20% weekly drop exposed heavy sentiment sensitivity to top customer Nvidia\u0027s governance and ongoing U.S. congressional scrutiny.",
+                            "Full-year 2026 capex of $60–$64 billion plus $40.93 billion in new approvals heighten depreciation risk if hyperscaler AI spending slows."
                         ],
-               "fundamental":  "TSMC remains the indispensable manufacturing backbone of global AI infrastructure, fabricating leading-edge accelerators and custom silicon for Nvidia, Apple, AMD, and Broadcom while controlling CoWoS advanced packaging. On October 15, 2026, TSMC reported Q3 2026 revenue of $46.72 billion (+50.9% year-on-year, +16.2% sequentially), net income of NT$763.06 billion (+68.7% YoY), diluted EPS of $4.60 per ADR, and a 58.7% operating margin. Advanced nodes (7nm and below) generated 79% of wafer revenue, led by 3nm (33%), 5nm (28%), and a fast-scaling 2nm ramp (8%). Management guided Q4 2026 revenue to $52.3–$54.3 billion with 65%–67% gross margins, backed by October\u0027s record NT$586.89 billion revenue (+59.7% YoY) and $60–$64 billion in 2026 CapEx. Because North America accounts for 79% of sales and China only 5%, structural AI demand still far outweighs regional policy friction.",
-               "headline":  "TSM plunges on U.S. export rules and Nvidia shock despite record revenue",
+               "fundamental":  "TSMC\u0027s operating performance shows no sign of the AI slowdown feared during mid-November\u0027s market sell-off. In Q3 2026 (reported October 15), revenue surged 50.9% YoY to NT$1,494.24 billion ($46.72 billion), net income climbed 68.7% to NT$763.06 billion ($4.60 per ADR), and operating margin hit 58.7%. High-performance computing accounted for 68% of revenue, while 2nm ramped rapidly to 8% of wafer sales alongside 3nm (33%) and 5nm (28%). Management guided Q4 revenue to $52.3–$54.3 billion with 65%–67% gross margins, backed by October\u0027s record NT$586.89 billion sales (+59.7% YoY). With North America generating 79% of Q3 sales and China just 5%, TSMC\u0027s $60–$64 billion 2026 capex and $40.93 billion November 10 appropriation deepen its insurmountable lead in advanced nodes and CoWoS packaging.",
+               "headline":  "TSM Rebounds 14% on Nvidia Relief, but Chart Remains Below Key Trends",
                "news":  [
-                            "On November 19, 2026, the U.S. Bureau of Industry and Security enacted an interim final rule removing foundry self-verification on 16nm/14nm and more advanced orders for Chinese designers. By November 20–22, TrendForce and Tom\u0027s Hardware reported TSMC paused affected Chinese shipments pending U.S. license reviews, weighing heavily on shares.",
-                            "On November 12, 2026, key customer Nvidia announced CEO Jensen Huang\u0027s immediate resignation following a board conduct probe, naming CFO Colette Kress interim CEO. Although Nvidia posted $115.84 billion in Q3 FY27 revenue on November 17 and affirmed its TSMC partnership, AI chip stocks sold off sharply into November 20.",
-                            "On November 10, 2026, TSMC reported record October consolidated revenue of NT$586.89 billion, surging 59.7% year-on-year and 14.7% month-on-month. Cumulative January–October 2026 revenue reached NT$4,485.62 billion, up 43.3% from a year earlier.",
-                            "At its November 10, 2026 board meeting, TSMC raised its Q3 cash dividend to NT$9.0 per share, approved $40.93 billion in capacity and R\u0026D appropriations, and authorized up to $500 million equity stakes each in Anthropic and OpenAI. TSMC completed its $500 million Anthropic IPO investment around November 19.",
-                            "On November 13, 2026, TrendForce reported that TSMC pushed back on market rumors about entering standalone 3D DRAM production for Nvidia. Management reaffirmed its pure-play logic foundry focus while retaining memory-adjacent leverage in HBM4E base dies and advanced stacking."
+                            "2026-11-23: Nvidia\u0027s board unanimously reinstated Jensen Huang as CEO following U.S. government input—11 days after his November 12 resignation—sparking a 14.08% rebound in TSM shares to $363.60 after a roughly 20% weekly plunge.",
+                            "2026-11-23: TSMC management dismissed fears of a broader AI market correction, reiterating that demand for leading-edge process nodes and advanced packaging continues to outstrip supply across its customer base.",
+                            "2026-11-19: The U.S. Bureau of Industry and Security enacted an interim final rule presuming 16nm/14nm-and-below logic chips are export-controlled under ECCN 3A090.a, prompting TSMC to reportedly pause affected Chinese orders pending U.S. licenses.",
+                            "2026-11-10: TSMC reported record October 2026 revenue of NT$586.89 billion (+59.7% YoY, +14.7% MoM) and its board approved $40.93 billion in capital appropriations, a NT$9.0 Q3 dividend, and up to $500 million stakes each in Anthropic and OpenAI.",
+                            "2026-11-04: Bernstein raised its TSM price target from $554 to $600 (Outperform) citing accelerating hyperscaler ASIC and CPU demand, while industry reports noted planned 10%–20% CoWoS packaging hikes and 3%–6% leading-edge wafer hikes for January 2027."
                         ],
-               "opportunity":  "The November selloff has opened a wide gap between price action and operating reality. While TSM sits 34.6% below its $487.47 52-week high with an oversold RSI 14 of 28.26, October revenue jumped 59.7% year-on-year and Q4 guidance implies nearly 58% annual growth. Crucially, China accounts for just 5% of Q3 revenue, leaving TSMC\u0027s core U.S. hyperscaler demand—spanning Nvidia\u0027s Vera Rubin, Broadcom custom ASICs, AMD, and Apple on 3nm, 2nm, and CoWoS—structurally intact. For patient investors monitoring support toward $266.82, this dislocation reflects sentiment and policy shocks rather than moat erosion.",
-               "opportunityCheck":  "The page\u0027s sub-scores are largely well calibrated, as TSMC\u0027s 66.4% gross margin, rapid 2nm ramp, and persistent CoWoS packaging tightness validate top marks for market position and bottleneck power. However, I would raise AI revenue exposure by one notch: high-performance computing reached 68% of Q3 2026 revenue and drove October\u0027s 59.7% year-on-year sales jump. Conversely, I would keep optionality conservative rather than raising it—despite $500 million strategic stakes in Anthropic and OpenAI and HBM4E base-die opportunities, TSMC pushed back on 3D DRAM rumors on November 13, staying strictly a pure-play logic foundry.",
+               "opportunity":  "November\u0027s sharp pullback opened a wide disconnect between TSM\u0027s share price—still 25.4% below its $487.47 52-week high—and accelerating fundamentals. October\u0027s 59.7% YoY sales surge and Q4\u0027s $52.3–$54.3 billion guidance confirm relentless AI demand across Nvidia GPUs and hyperscaler custom ASICs from Amazon and Google. Early 2nm ramp success, reported 10%–20% CoWoS price increases, and January 2027 leading-edge wafer hikes reinforce pricing power, while Arizona fab expansion and NT$167.59 billion in 9M 2026 global subsidies strengthen long-term geopolitical resilience.",
+               "opportunityCheck":  "The page\u0027s sub-scores for market position and bottleneck pricing power look well calibrated given TSMC\u0027s 66.4% Q3 gross margin, 79% advanced-node share, and sold-out CoWoS capacity. However, I would raise AI revenue exposure: high-performance computing jumped 22% sequentially to 68% of Q3 revenue while China fell to 5%, tying growth even more tightly to global AI buildouts. Optionality also merits a modest nudge higher after November 10 board approvals for up to $500 million each in Anthropic and OpenAI stakes, though management remains disciplined around core logic foundry.",
                "pros":  [
-                            "October 2026 revenue hit a record NT$586.89 billion, up 59.7% year-on-year, reinforcing Q4 guidance of $52.3–$54.3 billion.",
-                            "2nm (N2) already reached 8% of Q3 2026 wafer revenue while gross margin stayed exceptional at 66.4%.",
-                            "China accounted for only 5% of Q3 2026 revenue versus 79% from North America, limiting direct export-control damage.",
-                            "On November 10, the board lifted the Q3 dividend to NT$9.0 per share and approved $40.93 billion in capacity investments."
+                            "Record October 2026 revenue jumped 59.7% YoY to NT$586.89 billion, keeping TSMC well on track for its $52.3–$54.3 billion Q4 guidance.",
+                            "Q3 2026 gross margin reached 66.4% as 2nm ramped rapidly to 8% of wafer revenue and 7nm-and-below nodes hit 79%.",
+                            "Severe CoWoS packaging shortages support reported 10%–20% packaging price hikes and 3%–6% leading-edge wafer increases starting January 2027.",
+                            "On November 10, the board approved $40.93 billion in capital appropriations and raised the Q3 dividend to NT$9.0 per share."
                         ],
                "risks":  [
-                             "Escalating U.S. export controls or cross-strait geopolitical tensions disrupting shipments and customer compliance.",
-                             "Customer concentration around Nvidia during its CEO transition and potential hyperscaler AI CapEx digestion.",
-                             "High capital intensity ($60–$64 billion 2026 CapEx) and margin dilution from scaling overseas fabs such as Arizona.",
-                             "Technical breakdown below key moving averages attracting further forced selling before a durable base forms."
+                             "Expanded U.S. BIS foundry compliance rules (16nm/14nm and below) raising screening costs and order-pause risks.",
+                             "High customer concentration in Nvidia and ongoing U.S. congressional scrutiny over AI hardware supply chains.",
+                             "Elevated capital intensity ($60–$64 billion 2026 capex and $40.93 billion in newly approved spending) if AI data-center investment pauses.",
+                             "Geopolitical concentration in Taiwan and potential U.S. semiconductor tariff pressures despite Arizona fab expansion."
                          ],
-               "summary":  "NYSE:TSM dropped 9.48% to $318.71 on November 20, 2026, ending 34.6% below its 52-week high after two external shocks hit sentiment: new U.S. export controls effective November 19 targeting 16nm/14nm China orders, and Nvidia CEO Jensen Huang\u0027s November 12 resignation. Technically, the stock is firmly bearish yet deeply oversold. Operationally, however, TSMC\u0027s moat remains intact: October 2026 revenue surged 59.7% year-on-year to a record NT$586.89 billion, 2nm already reached 8% of Q3 wafer revenue, and China represented just 5% of Q3 sales.",
-               "technical":  "TSM\u0027s technical posture as of November 20, 2026 is decisively bearish. At $318.71 (down 9.48% on the day), shares trade well below all three exponential moving averages (EMAs — trend lines weighting recent prices): EMA 50 ($407.78), EMA 100 ($412.18), and EMA 200 ($392.82). With EMA 50 already below EMA 100 and price roughly 19% under the long-term 200-day EMA, the broader uptrend has broken down. Momentum confirms accelerating downside: MACD 12/26/9 (a trend-momentum gauge comparing fast and slow averages) sits at -20.83 below its -14.99 signal line, widening the negative histogram to -5.84. Meanwhile, RSI 14 (a 0–100 momentum gauge where under 30 signals oversold conditions) dropped to 28.26, showing stretched selling pressure. Volatility expanded sharply as price closed $11.36 beneath its lower Bollinger Band ($330.07; bands track normal price volatility around the 20-day average of $391.78) and fell into the bottom quarter of its $266.82–$487.47 52-week range. Crucially, November 20 volume jumped to 37.17 million shares—2.19x the 20-day average of 17.00 million—confirming heavy institutional selling. Near-term resistance sits at $330.07 and $391.78–$392.82, while major support lies near the $266.82 52-week low."
+               "summary":  "TSMC (NYSE: TSM) surged 14.08% to $363.60 on November 23, 2026, after Nvidia reinstated CEO Jensen Huang following his November 12 resignation, partially recovering from a roughly 20% mid-November sell-off. Fundamentally, TSMC\u0027s AI foundry moat remains intact: October 2026 revenue hit a record NT$586.89 billion (+59.7% YoY), Q3 gross margin reached 66.4%, and 2nm chips already contributed 8% of wafer sales. Technically, however, the stock stays bearish below its 50-, 100-, and 200-day EMAs, while November 19 U.S. export rules on 16nm-and-below nodes add compliance friction.",
+               "technical":  "TSM\u0027s chart remains technically bearish despite November 23\u0027s 14.08% surge to $363.60. Exponential Moving Averages (EMAs — trend lines weighting recent prices more heavily) sit in a weakened alignment: EMA 100 ($411.22) is above EMA 50 ($406.05), both sit above EMA 200 ($392.51), and price trades 7.4% below EMA 200. On November 23, shares gapped open at $385.49 and touched $386.90 before fading to close near the $361.66 low, showing firm overhead supply just below the 20-day Bollinger Band middle line ($388.74 — a volatility channel measuring distance from the 20-day average) and EMA 200. Momentum confirms caution: MACD (12/26/9 — a trend-momentum gauge) stands at -19.96 below its -15.99 signal line with a -3.97 histogram, while RSI 14 (a 0–100 momentum oscillator; under 30 is oversold) recovered only to 43.05. Trading 25.4% off its $487.47 52-week high (versus the $266.82 low) in the lower Bollinger half, TSM saw 31.58 million shares trade — 1.74x its 18.11 million 20-day average. Immediate resistance sits at $388.74–$392.51, with support near the $327.77 lower band and November 20\u0027s $318.71 close."
            },
     "th":  {
-               "caution":  "นักลงทุนระยะยาวควรเคารพสัญญาณกราฟที่เสียหายหนัก การหลุด EMA 200 ($392.82) และกรอบล่าง Bollinger Band ($330.07) พร้อมวอลุ่มสูงถึง 2.19 เท่า สะท้อนแรงลดความเสี่ยงจากสถาบันที่มักไม่กลับตัวในวันเดียว นอกจากนี้ เกณฑ์ BIS ของสหรัฐฯ ยังเพิ่มภาระการตรวจสอบลูกค้าทั้งซัพพลายเชน ขณะที่การเปลี่ยนผ่านผู้บริหารของ Nvidia สร้างความไม่แน่นอนต่อลูกค้ารายใหญ่ที่สุด ประกอบกับงบ CapEx ปี 2026 ที่ $60–$64 พันล้าน และงบลงทุนใหม่ $40.93 พันล้านเมื่อวันที่ 10 พ.ย. หากการใช้จ่าย AI ชะลอตัวหรือโรงงานต่างประเทศกดดันมาร์จิ้น กำไรอาจผันผวนแรงขึ้น",
+               "caution":  "แม้ซีอีโอของ Nvidia จะกลับมาดำรงตำแหน่งในวันที่ 23 พ.ย. แต่ความเสี่ยงด้านการเมืองและกฎระเบียบยังสูง กฎ BIS วันที่ 19 พ.ย. ผลักภาระการคัดกรองชิป 16nm/14nm ลงมาที่โรงงานรับจ้างผลิตโดยตรง ทำให้ต้นทุนการตรวจสอบและโอกาสเกิดความล่าช้าเพิ่มขึ้นแม้อิงรายได้จีนโดยตรงเพียง 5% ขณะที่สภาคองเกรสสหรัฐฯ ยังคงตรวจสอบห่วงโซ่อุปทาน AI อย่างเข้มข้น ด้านการเงิน งบลงทุนปี 2026 ที่ $60–$64 พันล้านบวกงบใหม่อีก $40.93 พันล้านจะเพิ่มแรงกดดันค่าเสื่อมราคาหากกลุ่ม Hyperscaler ชะลอการลงทุนในปี 2027 ส่วนทางเทคนิค การย่อตัวจาก $386.90 ชี้ว่าแรงขายยังหนาแน่นใต้แนวต้าน $388.74–$392.51",
                "cons":  [
-                            "วันที่ 20 พ.ย. ราคาหุ้นหลุดทั้ง EMA 200 ($392.82) และกรอบล่าง Bollinger Band ($330.07) พร้อมวอลุ่มพุ่ง 2.19 เท่าของค่าเฉลี่ย",
-                            "เกณฑ์ BIS ใหม่ของสหรัฐฯ ที่มีผล 19 พ.ย. ยกเลิกการตรวจสอบเองสำหรับออเดอร์จีนระดับ 16nm/14nm ทำให้ TSMC ต้องชะลอส่งมอบบางส่วน",
-                            "การลาออกของ Jensen Huang ซีอีโอ Nvidia เมื่อ 12 พ.ย. กดดันความเชื่อมั่นหุ้น AI แม้รายได้ Q3 FY27 ของ Nvidia จะแตะ $115.84 พันล้านก็ตาม",
-                            "งบลงทุนปี 2026 ที่สูงถึง $60–$64 พันล้านและการเร่งขยายโรงงานต่างประเทศเพิ่มความเสี่ยงค่าเสื่อมราคาและมาร์จิ้นหากดีมานด์ AI ชะลอตัว"
+                            "ราคาหุ้นยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($487.47) อยู่ 25.4% และยังปิดต่ำกว่าเส้น EMA 200 ($392.51) แม้จะรีบาวด์แรงเมื่อวันที่ 23 พ.ย.",
+                            "กฎ BIS สหรัฐฯ วันที่ 19 พ.ย. สันนิษฐานให้ชิป 16nm/14nm ลงไปอยู่ใต้การควบคุม จนมีรายงานว่า TSMC ต้องพักคำสั่งซื้อลูกค้าจีนบางรายเพื่อรอใบอนุญาต",
+                            "การร่วงลงราว 20% ในสัปดาห์กลางเดือน พ.ย. สะท้อนว่าอารมณ์ตลาดยังอ่อนไหวต่อประเด็นธรรมาภิบาลของ Nvidia และการตรวจสอบจากสภาคองเกรสสหรัฐฯ",
+                            "งบลงทุนปี 2026 สูงถึง $60–$64 พันล้าน บวกงบอนุมัติใหม่ $40.93 พันล้าน เพิ่มความเสี่ยงด้านค่าเสื่อมราคาหากการลงทุน AI ของลูกค้าชะลอตัว"
                         ],
-               "fundamental":  "TSMC ยังคงเป็นกระดูกสันหลังการผลิตที่ขาดไม่ได้ของโครงสร้างพื้นฐาน AI โลก ทั้งการผลิตชิปเร่งความเร็วและชิปเฉพาะทางให้ Nvidia, Apple, AMD และ Broadcom รวมถึงการคุมคอขวดบรรจุภัณฑ์ขั้นสูง CoWoS โดยงบ Q3 2026 (ประกาศ 15 ต.ค. 2026) มีรายได้ $46.72 พันล้าน (+50.9% YoY, +16.2% QoQ) กำไรสุทธิ NT$763.06 พันล้าน (+68.7% YoY) กำไรต่อ ADR $4.60 และอัตรากำไรจากการดำเนินงาน 58.7% รายได้จากโหนดขั้นสูง (7nm ลงไป) สูงถึง 79% นำโดย 3nm (33%), 5nm (28%) และ 2nm ที่เริ่มผลิตจริงจนแตะ 8% แล้ว ผู้บริหารให้เป้า Q4 2026 ที่ $52.3–$54.3 พันล้าน อัตรากำไรขั้นต้น 65%–67% สอดรับกับยอดขาย ต.ค. ที่ทุบสถิติ NT$586.89 พันล้าน (+59.7% YoY) ขณะที่รายได้ 79% มาจากอเมริกาเหนือและจีนมีสัดส่วนแค่ 5% ทำให้แรงขับเคลื่อน AI ยังเหนือกว่าผลกระทบด้านนโยบายมาก",
-               "headline":  "TSM ดิ่งหนักรับเกณฑ์ส่งออกสหรัฐฯ และข่าวช็อก Nvidia สวนทางรายได้ทุบสถิติ",
+               "fundamental":  "ผลประกอบการของ TSMC ยังไม่แสดงสัญญาณชะลอตัวของดีมานด์ AI ตามที่ตลาดกังวลช่วงกลางเดือน พ.ย. โดยงบ Q3 2026 (ประกาศ 15 ต.ค.) มีรายได้ NT$1,494.24 พันล้าน ($46.72 พันล้าน) โต 50.9% YoY กำไรสุทธิ NT$763.06 พันล้าน (+68.7% YoY หรือ $4.60 ต่อ ADR) และอัตรากำไรจากการดำเนินงานสูงถึง 58.7% กลุ่ม High-Performance Computing คิดเป็น 68% ของรายได้ ขณะที่เทคโนโลยี 2nm เริ่มสร้างรายได้เร็วถึง 8% ของยอดขายเวเฟอร์ ร่วมกับ 3nm (33%) และ 5nm (28%) ผู้บริหารคาดการณ์รายได้ Q4 ที่ $52.3–$54.3 พันล้าน และอัตรากำไรขั้นต้น 65%–67% สอดคล้องกับยอดขายเดือน ต.ค. ที่ทุบสถิติ NT$586.89 พันล้าน (+59.7% YoY) เมื่อบวกกับสัดส่วนลูกค้าอเมริกาเหนือที่ 79% (จีนเหลือเพียง 5%) และงบขยายกำลังผลิตใหม่ $40.93 พันล้าน ความได้เปรียบด้านชิปขั้นสูงและ CoWoS ยิ่งทิ้งห่างคู่แข่ง",
+               "headline":  "TSM รีบาวด์ 14% รับข่าว Nvidia แต่กราฟยังต่ำกว่าแนวโน้มหลัก",
                "news":  [
-                            "วันที่ 19 พ.ย. 2026 สำนักอุตสาหกรรมและความมั่นคงสหรัฐฯ (BIS) ออกกฎชั่วคราวปิดช่องโหว่การตรวจสอบเองของโรงหล่อสำหรับคำสั่งซื้อจีนระดับ 16nm/14nm ลงไป ต่อมาวันที่ 20–22 พ.ย. TrendForce และ Tom\u0027s Hardware รายงานว่า TSMC ได้พักการส่งมอบชิปบางส่วนให้ลูกค้าจีนเพื่อรอใบอนุญาต กดดันราคาหุ้นอย่างหนัก",
-                            "วันที่ 12 พ.ย. 2026 ลูกค้ารายสำคัญอย่าง Nvidia ประกาศว่า Jensen Huang ลาออกจากตำแหน่งซีอีโอทันทีหลังการสอบสวนของบอร์ด และแต่งตั้ง Colette Kress เป็นรักษาการซีอีโอ แม้ Nvidia จะรายงานรายได้ Q3 FY27 สูงถึง $115.84 พันล้านเมื่อวันที่ 17 พ.ย. และย้ำความร่วมมือกับ TSMC แต่หุ้นกลุ่มชิป AI ยังถูกเทขายหนักจนถึงวันที่ 20 พ.ย.",
-                            "วันที่ 10 พ.ย. 2026 TSMC รายงานรายได้เดือนตุลาคมทุบสถิติสูงสุดใหม่ที่ NT$586.89 พันล้าน พุ่งขึ้น 59.7% YoY และ 14.7% MoM ส่งผลให้รายได้สะสม 10 เดือนแรกปี 2026 อยู่ที่ NT$4,485.62 พันล้าน เพิ่มขึ้น 43.3% จากปีก่อน",
-                            "การประชุมบอร์ด TSMC วันที่ 10 พ.ย. 2026 อนุมัติเพิ่มปันผลงวด Q3 เป็น NT$9.0 ต่อหุ้น อนุมัติงบลงทุนขยายกำลังผลิตและ R\u0026D ก้อนโต $40.93 พันล้าน และไฟเขียวลงทุนเชิงกลยุทธ์ใน Anthropic และ OpenAI รายละไม่เกิน $500 ล้าน โดย TSMC เข้าซื้อหุ้น IPO ของ Anthropic มูลค่า $500 ล้านเสร็จสิ้นราววันที่ 19 พ.ย.",
-                            "วันที่ 13 พ.ย. 2026 TrendForce รายงานว่า TSMC ออกมาปฏิเสธข่าวลือเรื่องเตรียมผลิตหน่วยความจำ 3D DRAM แข่งกับผู้ผลิตแรมให้ Nvidia โดยยืนยันจุดยืนการเป็นโรงหล่อชิปประมวลผลล้วน แต่ยังคงมีบทบาทสำคัญในฐานชิป (base die) ของ HBM4E และการซ้อนชิปขั้นสูง"
+                            "2026-11-23: บอร์ด Nvidia มีมติเอกฉันท์ให้ Jensen Huang กลับมารับตำแหน่ง CEO อีกครั้งหลังหารือภาครัฐสหรัฐฯ (11 วันหลังลาออกเมื่อ 12 พ.ย.) หนุนหุ้น TSM ดีดขึ้น 14.08% ปิดที่ $363.60 ฟื้นตัวบางส่วนจากที่ร่วงราว 20% ในสัปดาห์ก่อนหน้า",
+                            "2026-11-23: ผู้บริหาร TSMC ออกมาปฏิเสธความกังวลเรื่องภาวะฟองสบู่ AI ย้ำว่าความต้องการเทคโนโลยีการผลิตขั้นสูงและบรรจุภัณฑ์ขั้นสูงยังคงสูงกว่ากำลังผลิตที่มีอยู่ทั่วทั้งฐานลูกค้า",
+                            "2026-11-19: สำนักงาน BIS กระทรวงพาณิชย์สหรัฐฯ บังคับใช้กฎชั่วคราว (IFR) สันนิษฐานให้ชิปลอจิกขนาด 16nm/14nm ลงไปอยู่ใต้รหัสควบคุม ECCN 3A090.a ทำให้มีรายงานว่า TSMC ระงับคำสั่งซื้อจากนักออกแบบชิปจีนบางรายจนกว่าจะได้ใบอนุญาตส่งออก",
+                            "2026-11-10: TSMC รายงานรายได้เดือน ต.ค. 2026 ทำสถิติใหม่ที่ NT$586.89 พันล้าน (+59.7% YoY, +14.7% MoM) พร้อมมติบอร์ดอนุมัติงบลงทุน $40.93 พันล้าน ปันผล Q3 ที่ NT$9.0 ต่อหุ้น และอนุมัติเงินลงทุนใน Anthropic และ OpenAI รายละไม่เกิน $500 ล้าน",
+                            "2026-11-04: Bernstein ปรับเพิ่มราคาเป้าหมาย TSM จาก $554 เป็น $600 (คำแนะนำ Outperform) จากแรงหนุนชิป ASIC และ CPU ของกลุ่ม Hyperscaler ขณะที่รายงานซัพพลายเชนชี้แผนปรับขึ้นราคาแพ็กเกจจิ้ง CoWoS 10%–20% และเวเฟอร์ขั้นสูง 3%–6% ตั้งแต่ ม.ค. 2027"
                         ],
-               "opportunity":  "แรงเทขายในเดือนพฤศจิกายนสร้างช่องว่างขนาดใหญ่ระหว่างราคาหุ้นกับพื้นฐานธุรกิจ ขณะที่ TSM ร่วงลง 34.6% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $487.47 และค่า RSI 14 ลงลึกถึง 28.26 รายได้เดือนตุลาคมกลับโตแรง 59.7% YoY และเป้ารายได้ Q4 สะท้อนการเติบโตเกือบ 58% YoY ที่สำคัญจีนคิดเป็นเพียง 5% ของรายได้ Q3 ทำให้ความต้องการหลักจากไฮเปอร์สเกลเลอร์สหรัฐฯ ทั้ง Vera Rubin ของ Nvidia, ชิป ASIC ของ Broadcom, AMD และ Apple บนโหนด 3nm, 2nm และ CoWoS ยังแข็งแกร่งเต็มที่ สำหรับนักลงทุนระยะยาวที่ติดตามแนวรับแถว $266.82 แรงกดดันรอบนี้มาจากอารมณ์ตลาดและนโยบายมากกว่าการเสื่อมถอยของคูเมืองธุรกิจ",
-               "opportunityCheck":  "คะแนนย่อยด้านโอกาส AI บนหน้านี้ส่วนใหญ่ประเมินได้เหมาะสมแล้ว เพราะอัตรากำไรขั้นต้น 66.4% การเร่งผลิต 2nm และคอขวด CoWoS ยืนยันความเป็นผู้นำตลาดและอำนาจต่อรองระดับสูงสุด อย่างไรก็ตาม ผมเสนอให้ปรับคะแนนสัดส่วนรายได้ AI ขึ้นอีกเล็กน้อย เนื่องจากกลุ่มประมวลผลสมรรถนะสูง (HPC) กินสัดส่วนถึง 68% ของรายได้ Q3 2026 และผลักดันยอดขายเดือนตุลาคมโต 59.7% YoY ส่วนด้านทางเลือกการเติบโตใหม่ (optionality) ควรคงไว้แบบระมัดระวัง แม้มีการถือหุ้นเชิงกลยุทธ์ใน Anthropic กับ OpenAI และโอกาสใน HBM4E base die แต่ TSMC ปฏิเสธข่าวลือ 3D DRAM เมื่อ 13 พ.ย. ยืนยันไม่แตกไลน์ผลิตแรมเต็มตัว",
+               "opportunity":  "การปรับฐานแรงในเดือน พ.ย. ทำให้ราคาหุ้นที่ยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($487.47) อยู่ 25.4% สวนทางกับพื้นฐานที่เร่งตัวขึ้น ยอดขายเดือน ต.ค. ที่โต 59.7% YoY และคาดการณ์รายได้ Q4 ที่ $52.3–$54.3 พันล้านยืนยันความต้องการ AI ที่ต่อเนื่องทั้งจาก GPU ของ Nvidia และชิป ASIC ของ Amazon และ Google การขยายกำลังผลิต 2nm ได้เร็ว แผนปรับขึ้นราคา CoWoS 10%–20% และเวเฟอร์ขั้นสูงต้นปี 2027 ตอกย้ำอำนาจกำหนดราคา ขณะที่โรงงานในแอริโซนาและเงินอุดหนุนจากรัฐบาลทั่วโลก NT$167.59 พันล้านในช่วง 9 เดือนแรกปี 2026 ช่วยลดความเสี่ยงด้านภูมิรัฐศาสตร์ระยะยาว",
+               "opportunityCheck":  "คะแนนย่อยด้านตำแหน่งตลาดและอำนาจกำหนดราคาจากคอขวดดูเหมาะสมแล้ว สอดคล้องกับอัตรากำไรขั้นต้น Q3 ที่ 66.4% สัดส่วนเทคโนโลยีขั้นสูง 79% และกำลังผลิต CoWoS ที่ถูกจองเต็มถึงปี 2027 อย่างไรก็ตาม ควรขยับคะแนนด้านสัดส่วนรายได้ AI ขึ้นอีกเล็กน้อย เพราะกลุ่ม High-Performance Computing โตถึง 22% QoQ จนครองสัดส่วน 68% ของรายได้ Q3 ขณะที่จีนลดเหลือเพียง 5% นอกจากนี้ ด้านโอกาสต่อยอดธุรกิจใหม่ (optionality) ก็สมควรขยับขึ้นเล็กน้อย หลังบอร์ดวันที่ 10 พ.ย. อนุมัติเงินลงทุนใน Anthropic และ OpenAI รายละไม่เกิน $500 ล้าน แม้บริษัทยังคงโฟกัสธุรกิจรับจ้างผลิตชิปหลักอย่างมีวินัยก็ตาม",
                "pros":  [
-                            "รายได้เดือนตุลาคม 2026 ทำสถิติใหม่ที่ NT$586.89 พันล้าน (+59.7% YoY) ตอกย้ำเป้ารายได้ Q4 ที่ $52.3–$54.3 พันล้าน",
-                            "เทคโนโลยี 2nm (N2) ทำสัดส่วนรายได้เวเฟอร์ Q3 2026 ได้ถึง 8% แล้ว ขณะที่อัตรากำไรขั้นต้นยังแกร่งที่ 66.4%",
-                            "รายได้จากจีนใน Q3 2026 คิดเป็นเพียง 5% เทียบกับอเมริกาเหนือ 79% ทำให้ผลกระทบตรงจากเกณฑ์ส่งออกมีจำกัด",
-                            "บอร์ดวันที่ 10 พ.ย. ปรับเพิ่มปันผล Q3 เป็น NT$9.0 ต่อหุ้น พร้อมอนุมัติงบขยายกำลังผลิตและ R\u0026D อีก $40.93 พันล้าน"
+                            "รายได้เดือน ต.ค. 2026 ทุบสถิติที่ NT$586.89 พันล้าน (+59.7% YoY) หนุนเป้าหมายรายได้ Q4 ที่ $52.3–$54.3 พันล้านให้มีน้ำหนักชัดเจน",
+                            "อัตรากำไรขั้นต้น Q3 2026 สูงถึง 66.4% โดยโหนด 2nm เริ่มทำรายได้เร็วถึง 8% และกลุ่ม 7nm ลงไปคิดเป็น 79% ของรายได้เวเฟอร์",
+                            "คอขวดแพ็กเกจจิ้ง CoWoS ที่ตึงตัวเปิดทางปรับขึ้นราคา 10%–20% พร้อมแผนขึ้นราคาเวเฟอร์ขั้นสูง 3%–6% ตั้งแต่ ม.ค. 2027",
+                            "บอร์ดวันที่ 10 พ.ย. อนุมัติงบลงทุน $40.93 พันล้านเพื่อขยายกำลังผลิตขั้นสูง พร้อมจ่ายปันผล Q3 ที่ NT$9.0 ต่อหุ้น"
                         ],
                "risks":  [
-                             "ความเสี่ยงที่สหรัฐฯ จะยกระดับมาตรการควบคุมส่งออกหรือความตึงเครียดช่องแคบไต้หวันที่กระทบการส่งมอบและการปฏิบัติตามกฎระเบียบ",
-                             "การพึ่งพิงลูกค้ารายใหญ่อย่าง Nvidia ระหว่างช่วงเปลี่ยนผ่านซีอีโอ รวมถึงความเสี่ยงหากกลุ่มไฮเปอร์สเกลเลอร์ชะลอการลงทุน AI",
-                             "ภาระงบลงทุนสูงมาก ($60–$64 พันล้านในปี 2026) และแรงกดดันต่ออัตรากำไรจากการขยายโรงงานในต่างประเทศอย่างแอริโซนา",
-                             "โครงสร้างทางเทคนิคที่หลุดแนวรับสำคัญอาจดึงแรงขายต่อเนื่องจากกองทุนจนกว่าจะสร้างฐานราคาที่มั่นคงได้"
+                             "กฎควบคุมส่งออก BIS สหรัฐฯ ฉบับใหม่สำหรับโหนด 16nm/14nm ลงไป เพิ่มต้นทุนการตรวจสอบและความเสี่ยงการพักคำสั่งซื้อ",
+                             "การพึ่งพิงลูกค้ารายใหญ่อย่าง Nvidia ในสัดส่วนสูง และการตรวจสอบห่วงโซ่อุปทานฮาร์ดแวร์ AI จากสภาคองเกรสสหรัฐฯ",
+                             "ภาระงบลงทุนที่สูงมาก ($60–$64 พันล้านในปี 2026 และงบอนุมัติใหม่ $40.93 พันล้าน) หากการลงทุนดาต้าเซ็นเตอร์ AI ชะงักชั่วคราว",
+                             "ความเสี่ยงภูมิรัฐศาสตร์จากการกระจุกตัวของฐานผลิตในไต้หวัน และแรงกดดันด้านภาษีนำเข้าเซมิคอนดักเตอร์ของสหรัฐฯ แม้เร่งขยายโรงงานในแอริโซนา"
                          ],
-               "summary":  "NYSE:TSM ร่วงแรง 9.48% ปิดที่ $318.71 เมื่อวันที่ 20 พ.ย. 2026 ลดลง 34.6% จากจุดสูงสุดรอบ 52 สัปดาห์ หลังเจอสองแรงกระแทกภายนอก ได้แก่ เกณฑ์คุมส่งออกใหม่ของสหรัฐฯ ที่มีผล 19 พ.ย. ครอบคลุมออเดอร์จีนระดับ 16nm/14nm และข่าวการลาออกของ Jensen Huang ซีอีโอ Nvidia เมื่อ 12 พ.ย. ภาพเทคนิคเป็นขาลงชัดเจนแม้เข้าเขตขายมากเกินไป แต่พื้นฐานคูเมืองธุรกิจยังไม่เปลี่ยน รายได้ตุลาคมพุ่ง 59.7% YoY แตะสถิติ NT$586.89 พันล้าน เทคโนโลยี 2nm กินสัดส่วน 8% ของรายได้ Q3 และจีนคิดเป็นเพียง 5% ของยอดขายรวม",
-               "technical":  "ภาพทางเทคนิคของ TSM ณ วันที่ 20 พ.ย. 2026 เป็นขาลงชัดเจน ราคาปิด $318.71 (-9.48%) อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่เอ็กซ์โปเนนเชียล (EMA — เส้นแนวโน้มที่ให้น้ำหนักราคาล่าสุด) ทั้งสามเส้น ได้แก่ EMA 50 ($407.78), EMA 100 ($412.18) และ EMA 200 ($392.82) โดย EMA 50 ตัดลงต่ำกว่า EMA 100 แล้ว และราคาหลุดต่ำกว่าเส้นระยะยาว EMA 200 ราว 19% สะท้อนการเสียทรงขาขึ้นชัดเจน ด้านโมเมนตัม MACD 12/26/9 (เครื่องมือวัดแรงส่งแนวโน้มจากการเทียบเส้นค่าเฉลี่ยเร็วและช้า) อยู่ที่ -20.83 ต่ำกว่าเส้น Signal ที่ -14.99 ทำให้ค่า Histogram ติดลบกว้างขึ้นเป็น -5.84 ยืนยันแรงขายที่ยังเร่งตัว ขณะที่ RSI 14 (มาตรวัดโมเมนตัม 0–100 หากต่ำกว่า 30 คือเขตขายมากเกินไปหรือ oversold) ดิ่งมาที่ 28.26 บ่งชี้แรงเทขายที่ตึงตัวระยะสั้น ด้านความผันผวน ราคาปิดต่ำกว่ากรอบล่าง Bollinger Bands ($330.07; กรอบวัดความผันผวนรอบค่าเฉลี่ย 20 วันที่ $391.78) ถึง $11.36 และลงมาอยู่โซนล่างสุดของกรอบ 52 สัปดาห์ ($266.82–$487.47) ที่สำคัญวอลุ่มวันที่ 20 พ.ย. พุ่งแตะ 37.17 ล้านหุ้น หรือ 2.19 เท่าของค่าเฉลี่ย 20 วัน (17.00 ล้านหุ้น) ยืนยันแรงขายสถาบัน แนวต้านระยะสั้นอยู่ที่ $330.07 และโซน $391.78–$392.82 ส่วนแนวรับหลักอยู่ใกล้จุดต่ำสุด 52 สัปดาห์ที่ $266.82"
+               "summary":  "หุ้น TSMC (NYSE: TSM) ดีดตัวขึ้น 14.08% ปิดที่ $363.60 เมื่อวันที่ 23 พ.ย. 2026 หลังบอร์ด Nvidia มีมติให้ Jensen Huang กลับมารับตำแหน่ง CEO อีกครั้งจากที่ลาออกไปเมื่อ 12 พ.ย. ช่วยฟื้นตัวบางส่วนจากการร่วงลงราว 20% ช่วงกลางเดือน ด้านพื้นฐาน คูเมืองธุรกิจรับจ้างผลิตชิป AI ยังแข็งแกร่งมาก รายได้เดือน ต.ค. ทำสถิติ NT$586.89 พันล้าน (+59.7% YoY) อัตรากำไรขั้นต้น Q3 สูงถึง 66.4% และโหนด 2nm ทำรายได้แล้ว 8% แต่ในเชิงเทคนิคกราฟยังเป็นขาลงใต้เส้น EMA หลักทั้งสามเส้น ขณะที่กฎส่งออกสหรัฐฯ วันที่ 19 พ.ย. สำหรับโหนด 16nm ลงไปเพิ่มแรงเสียดทานด้านกฎระเบียบ",
+               "technical":  "ภาพทางเทคนิคของ TSM ยังอยู่ในภาวะขาลง (bearish) แม้จะรีบาวด์แรง 14.08% มาปิดที่ $363.60 ในวันที่ 23 พ.ย. เส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — เส้นบอกแนวโน้มที่ให้น้ำหนักราคาล่าสุดมากกว่า) เรียงตัวอ่อนแรงลง โดย EMA 100 ($411.22) อยู่เหนือ EMA 50 ($406.05) ทั้งสองเส้นอยู่เหนือ EMA 200 ($392.51) แต่ราคาหุ้นยังต่ำกว่า EMA 200 ถึง 7.4% เมื่อวันที่ 23 พ.ย. ราคาเปิดกระโดดขึ้นที่ $385.49 และขึ้นแตะ $386.90 ก่อนถูกแรงขายกดลงมาปิดใกล้จุดต่ำสุดของวันที่ $361.66 สะท้อนแรงต้านหนาแน่นใต้เส้นกลางของ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ที่ $388.74 และเส้น EMA 200 ด้านโมเมนตัมยังต้องระวัง โดย MACD (เครื่องมือวัดแรงส่งแนวโน้ม) อยู่ที่ -19.96 ต่ำกว่าเส้น Signal (-15.99) และ Histogram ยังติดลบที่ -3.97 ส่วน RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นตัวมาเพียง 43.05 ปัจจุบันราคาต่ำกว่าจุดสูงสุด 52 สัปดาห์ ($487.47) อยู่ 25.4% (เทียบจุดต่ำสุด $266.82) และอยู่ในครึ่งล่างของ Bollinger Bands โดยมีวอลุ่ม 31.58 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (18.11 ล้านหุ้น) ถึง 1.74 เท่า แนวต้านสำคัญอยู่ที่ $388.74–$392.51 ส่วนแนวรับอยู่แถวกรอบล่าง $327.77 และจุดปิดวันที่ 20 พ.ย. ที่ $318.71"
            },
     "sources":  [
                     {
-                        "date":  "2026-11-10",
-                        "publisher":  "TSMC Investor Relations",
-                        "title":  "Monthly Revenue 2026",
-                        "url":  "https://investor.tsmc.com/english/monthly-revenue/2026"
+                        "date":  "2026-10-15",
+                        "publisher":  "U.S. Securities and Exchange Commission (SEC)",
+                        "title":  "Taiwan Semiconductor Manufacturing Co., Ltd. Form 6-K (Third Quarter 2026 Financial Results)",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1046179/000104617926000726/tsm-20261015x6k.htm"
                     },
                     {
-                        "date":  "2026-10-15",
-                        "publisher":  "TSMC Investor Relations",
-                        "title":  "3Q26 Quarterly Results",
-                        "url":  "https://investor.tsmc.com/english/quarterly-results/2026/q3"
+                        "date":  "2026-11-04",
+                        "publisher":  "Crypto Briefing",
+                        "title":  "Bernstein Raises TSMC Price Target to $600 From $554",
+                        "url":  "https://cryptobriefing.com/bernstein-raises-tsmc-price-target-to-600-from-554/"
                     },
                     {
                         "date":  "2026-11-19",
                         "publisher":  "Federal Register (U.S. Bureau of Industry and Security)",
                         "title":  "Addressing Remote Access to Advanced Semiconductors",
-                        "url":  "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors"
+                        "url":  "https://www.federalregister.gov/d/2026-23529"
                     },
                     {
                         "date":  "2026-11-20",
-                        "publisher":  "TrendForce",
-                        "title":  "[News] TSMC, Samsung Reportedly Pause China Consumer Chip Shipments Under New U.S. Rules; 16nm Orders Affected",
-                        "url":  "https://www.trendforce.com/news/2026/11/20/news-tsmc-samsung-reportedly-pause-china-consumer-chip-shipments-under-new-u-s-rules-16nm-orders-affected/"
-                    },
-                    {
-                        "date":  "2026-11-22",
                         "publisher":  "Tom\u0027s Hardware",
-                        "title":  "TSMC reportedly pauses shipments to Chinese designers after U.S. export rules flag decade-old 16nm and 14nm nodes",
-                        "url":  "https://www.tomshardware.com/tech-industry/policy/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-u-s-export-rules-flag-decade-old-16nm-and-14nm-nodes-new-bis-controls-threaten-smartphone-tv-and-automotive-chips"
+                        "title":  "TSMC reportedly pauses shipments to Chinese designers after US export rules flag decade-old 16nm and 14nm nodes",
+                        "url":  "https://www.tomshardware.com/tech-industry/tsmc-reportedly-pauses-shipments-to-chinese-designers-after-us-export-rules-flag-decade-old-16nm-and-14nm-nodes"
                     },
                     {
-                        "date":  "2026-11-12",
+                        "date":  "2026-11-20",
+                        "publisher":  "Taipei Times",
+                        "title":  "TSMC acquires 0.03% stake in Anthropic for US$500 million",
+                        "url":  "https://www.taipeitimes.com/News/biz/archives/2026/11/20/2003847334"
+                    },
+                    {
+                        "date":  "2026-11-23",
                         "publisher":  "NVIDIA Newsroom",
-                        "title":  "NVIDIA Announces CEO Transition",
-                        "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition"
+                        "title":  "NVIDIA Board Reinstates Jensen Huang as President, CEO, and Board Director",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
                     },
                     {
-                        "date":  "2026-11-17",
-                        "publisher":  "NVIDIA Newsroom",
-                        "title":  "NVIDIA Announces Financial Results for Third Quarter Fiscal 2027",
-                        "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027"
-                    },
-                    {
-                        "date":  "2026-11-13",
-                        "publisher":  "TrendForce",
-                        "title":  "[News] TSMC Pushes Back on 3D DRAM Rumors: Three Memory Plays Where It Still Has a Say",
-                        "url":  "https://www.trendforce.com/news/2026/11/13/news-tsmc-pushes-back-on-3d-dram-rumors-three-memory-plays-where-it-still-has-a-say/"
+                        "date":  "2026-11-23",
+                        "publisher":  "Taipei Times",
+                        "title":  "TSMC dismisses AI market risks",
+                        "url":  "https://www.taipeitimes.com/News/biz/archives/2026/11/23/2003848143"
                     }
                 ]
 }

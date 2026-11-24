@@ -1,0 +1,174 @@
+{
+    "sector":  "net",
+    "judge":  "codex",
+    "provider":  "codex",
+    "model":  "gpt-6.2-sol",
+    "effort":  "high",
+    "account":  "Codex (ChatGPT)",
+    "generatedAt":  "2026-11-24T05:09:20Z",
+    "costUsd":  null,
+    "stocks":  {
+                   "ALAB":  {
+                                "m":  [
+                                          17,
+                                          15,
+                                          12,
+                                          11,
+                                          10
+                                      ],
+                                "o":  [
+                                          18,
+                                          18,
+                                          17,
+                                          15,
+                                          17
+                                      ],
+                                "why_en":  "PCIe design wins make Astera hard to replace within a server generation, while Scorpio’s production ramp expands its AI fabric opportunity and profitability remains recent. [Q3 results](https://www.asteralabs.com/news/astera-labs-reports-third-quarter-2026-financial-results/)",
+                                "why_th":  "เมื่อชิป PCIe ของ Astera ถูกเลือกใช้ในการออกแบบแล้ว การเปลี่ยนผู้ขายกลางรุ่นทำได้ยาก ขณะที่การเพิ่มกำลังผลิต Scorpio ขยายโอกาสในตลาดเครือข่าย AI และบริษัทเพิ่งเริ่มทำกำไรได้ไม่นาน [ผลประกอบการไตรมาส 3](https://www.asteralabs.com/news/astera-labs-reports-third-quarter-2026-financial-results/)"
+                            },
+                   "ANET":  {
+                                "m":  [
+                                          17,
+                                          18,
+                                          16,
+                                          15,
+                                          19
+                                      ],
+                                "o":  [
+                                          12,
+                                          18,
+                                          17,
+                                          13,
+                                          16
+                                      ],
+                                "why_en":  "EOS is embedded in customers’ network operations and supports years of high margins, while Arista’s cloud relationships position it for rapid growth in AI Ethernet. [Q3 results](https://www.arista.com/company/news/press-release/25025-pr-20261103)",
+                                "why_th":  "ลูกค้าใช้ EOS เป็นส่วนหนึ่งของการดูแลเครือข่าย ช่วยให้ Arista รักษาอัตรากำไรสูงได้หลายปี ขณะที่ความสัมพันธ์กับผู้ให้บริการคลาวด์หนุนโอกาสเติบโตในตลาด Ethernet สำหรับ AI [ผลประกอบการไตรมาส 3](https://www.arista.com/company/news/press-release/25025-pr-20261103)"
+                            },
+                   "COHR":  {
+                                "m":  [
+                                          17,
+                                          13,
+                                          8,
+                                          16,
+                                          10
+                                      ],
+                                "o":  [
+                                          14,
+                                          18,
+                                          16,
+                                          16,
+                                          16
+                                      ],
+                                "why_en":  "In-house laser and transceiver manufacturing gives Coherent a supply advantage as AI clusters adopt faster optical links, while its historical operating margins have varied widely. [Q1 presentation](https://coherent.gcs-web.com/static-files/4c75f2dd-b6ef-4abb-9cf1-df95638a9058)",
+                                "why_th":  "การผลิตเลเซอร์และโมดูลรับส่งสัญญาณเองทำให้ Coherent ได้เปรียบด้านอุปทานเมื่อคลัสเตอร์ AI เปลี่ยนไปใช้ลิงก์ออปติคัลที่เร็วขึ้น ขณะที่อัตรากำไรจากการดำเนินงานในอดีตผันผวนมาก [เอกสารประกอบผลประกอบการไตรมาส 1](https://coherent.gcs-web.com/static-files/4c75f2dd-b6ef-4abb-9cf1-df95638a9058)"
+                            },
+                   "CRDO":  {
+                                "m":  [
+                                          16,
+                                          13,
+                                          9,
+                                          11,
+                                          10
+                                      ],
+                                "o":  [
+                                          18,
+                                          17,
+                                          17,
+                                          14,
+                                          16
+                                      ],
+                                "why_en":  "Credo’s SerDes expertise differentiates its active cables in AI clusters and gives it a foothold in optics, while its record of strong profitability remains short. [Quarterly results](https://www.sec.gov/Archives/edgar/data/1807794/000162828026059795/credoq12027ex-991.htm), [Connectivity portfolio](https://investors.credosemi.com/news-events/news/news-details/2026/Credo-to-Showcase-High-Speed-Connectivity-Innovations-Driving-Next-Generation-AI-Infrastructure-at-AI-Infra-2026/default.aspx)",
+                                "why_th":  "ความเชี่ยวชาญด้าน SerDes ทำให้สายแอ็กทีฟของ Credo โดดเด่นในคลัสเตอร์ AI และช่วยต่อยอดสู่ตลาดออปติคัล ขณะที่บริษัทเพิ่งทำกำไรได้ดีในช่วงหลัง [ผลประกอบการรายไตรมาส](https://www.sec.gov/Archives/edgar/data/1807794/000162828026059795/credoq12027ex-991.htm), [กลุ่มผลิตภัณฑ์เชื่อมต่อ](https://investors.credosemi.com/news-events/news/news-details/2026/Credo-to-Showcase-High-Speed-Connectivity-Innovations-Driving-Next-Generation-AI-Infrastructure-at-AI-Infra-2026/default.aspx)"
+                            },
+                   "DELL":  {
+                                "m":  [
+                                          10,
+                                          13,
+                                          11,
+                                          17,
+                                          12
+                                      ],
+                                "o":  [
+                                          13,
+                                          17,
+                                          16,
+                                          8,
+                                          13
+                                      ],
+                                "why_en":  "Dell’s procurement scale and enterprise relationships help it win large AI server orders, while dependence on chip suppliers constrains its pricing power. [Quarterly filing](https://investors.delltechnologies.com/sec-filings/all-sec-filings/content/0001571996-26-000046/dell-20260731.htm)",
+                                "why_th":  "ขนาดการจัดซื้อและความสัมพันธ์กับลูกค้าองค์กรช่วยให้ Dell ได้คำสั่งซื้อเซิร์ฟเวอร์ AI ขนาดใหญ่ ขณะที่การพึ่งพาผู้ผลิตชิปจำกัดอำนาจในการตั้งราคา [รายงานรายไตรมาส](https://investors.delltechnologies.com/sec-filings/all-sec-filings/content/0001571996-26-000046/dell-20260731.htm)"
+                            },
+                   "GLW":  {
+                               "m":  [
+                                         18,
+                                         12,
+                                         8,
+                                         18,
+                                         13
+                                     ],
+                               "o":  [
+                                         10,
+                                         16,
+                                         16,
+                                         14,
+                                         12
+                                     ],
+                               "why_en":  "Corning’s glass expertise and fiber manufacturing scale underpin multiyear data-center supply deals, while its diversified businesses limit companywide AI exposure. [Q3 results](https://investor.corning.com/news-and-events/news/news-details/2026/Corning-Delivers-Outstanding-Third-Quarter-Results1/default.aspx), [Meta supply agreement](https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/01/corning-and-meta-announce-multiyear-up-to-6-billion-agreement-to-accelerate-us-data-center-buildout.html)",
+                               "why_th":  "ความเชี่ยวชาญด้านแก้วและกำลังผลิตใยแก้วนำแสงขนาดใหญ่ช่วยให้ Corning ได้สัญญาจัดหาระยะหลายปีสำหรับศูนย์ข้อมูล ขณะที่ธุรกิจที่หลากหลายจำกัดสัดส่วนรายได้ที่มาจาก AI [ผลประกอบการไตรมาส 3](https://investor.corning.com/news-and-events/news/news-details/2026/Corning-Delivers-Outstanding-Third-Quarter-Results1/default.aspx), [สัญญาจัดหากับ Meta](https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/01/corning-and-meta-announce-multiyear-up-to-6-billion-agreement-to-accelerate-us-data-center-buildout.html)"
+                           },
+                   "LITE":  {
+                                "m":  [
+                                          18,
+                                          14,
+                                          8,
+                                          14,
+                                          9
+                                      ],
+                                "o":  [
+                                          16,
+                                          18,
+                                          17,
+                                          18,
+                                          16
+                                      ],
+                                "why_en":  "Scarce advanced lasers and growing optical switch sales give Lumentum leverage in AI networking, while historical losses limit its proven durability. [Q1 results](https://www.sec.gov/Archives/edgar/data/1633978/000162828026068655/lite_ex991xq1fy27.htm), [NVIDIA supply agreement](https://www.sec.gov/Archives/edgar/data/1633978/000119312526085412/d41019dex991.htm)",
+                                "why_th":  "เลเซอร์ขั้นสูงที่มีอุปทานจำกัดและยอดขายสวิตช์ออปติคัลที่เติบโตช่วยเพิ่มอำนาจต่อรองให้ Lumentum ในตลาดเครือข่าย AI ขณะที่ผลขาดทุนในอดีตทำให้ความสามารถในการรักษากำไรระยะยาวยังต้องพิสูจน์ [ผลประกอบการไตรมาส 1](https://www.sec.gov/Archives/edgar/data/1633978/000162828026068655/lite_ex991xq1fy27.htm), [สัญญาจัดหากับ NVIDIA](https://www.sec.gov/Archives/edgar/data/1633978/000119312526085412/d41019dex991.htm)"
+                            },
+                   "ONDS":  {
+                                "m":  [
+                                          10,
+                                          9,
+                                          6,
+                                          7,
+                                          2
+                                      ],
+                                "o":  [
+                                          7,
+                                          14,
+                                          9,
+                                          5,
+                                          12
+                                      ],
+                                "why_en":  "Fielded autonomous systems give Ondas a route into public-sector AI, while operating losses and unclear AI-specific revenue limit evidence of durable returns and current exposure. [Q3 results](https://www.sec.gov/Archives/edgar/data/1646188/000119312526457088/onds-ex99_1.htm)",
+                                "why_th":  "ระบบอัตโนมัติที่นำไปใช้งานจริงเปิดทางให้ Ondas เข้าสู่ตลาด AI ภาครัฐ ขณะที่ผลขาดทุนจากการดำเนินงานและรายได้เฉพาะด้าน AI ที่ยังไม่ชัดเจนทำให้ประเมินผลตอบแทนระยะยาวและรายได้จาก AI ในปัจจุบันได้จำกัด [ผลประกอบการไตรมาส 3](https://www.sec.gov/Archives/edgar/data/1646188/000119312526457088/onds-ex99_1.htm)"
+                            },
+                   "SMCI":  {
+                                "m":  [
+                                          11,
+                                          10,
+                                          8,
+                                          14,
+                                          10
+                                      ],
+                                "o":  [
+                                          19,
+                                          17,
+                                          16,
+                                          9,
+                                          12
+                                      ],
+                                "why_en":  "Fast deployment of liquid-cooled racks gives Supermicro substantial exposure to AI server demand, while reliance on outside chipmakers and historically thin margins limit its moat. [Q1 earnings remarks](https://s204.q4cdn.com/707617056/files/content_files/FQ127-Prepared-Remarks.pdf)",
+                                "why_th":  "ความสามารถในการส่งมอบแร็กระบายความร้อนด้วยของเหลวได้รวดเร็วทำให้ Supermicro ได้ประโยชน์มากจากความต้องการเซิร์ฟเวอร์ AI ขณะที่การพึ่งผู้ผลิตชิปภายนอกและอัตรากำไรที่บางในอดีตจำกัดความได้เปรียบระยะยาว [คำชี้แจงผลประกอบการไตรมาส 1](https://s204.q4cdn.com/707617056/files/content_files/FQ127-Prepared-Remarks.pdf)"
+                            }
+               }
+}

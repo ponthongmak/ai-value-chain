@@ -2,47 +2,45 @@
     "ticker":  "CEG",
     "name":  "Constellation Energy",
     "symbol":  "NASDAQ:CEG",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-22T15:50:44Z",
-    "costUsd":  0.9690151999999999,
+    "generatedAt":  "2026-11-24T04:45:23Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:CEG",
                        "yahoo":  "CEG",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-22T15:45:44Z",
-                       "price":  237.41,
-                       "open":  248.81,
-                       "high":  249.56,
-                       "low":  236.8,
-                       "volume":  5488000,
-                       "avgVolume20":  3915500,
-                       "changePct":  -5.8,
-                       "historyDays":  501,
-                       "ema50":  266.49,
-                       "ema100":  270.35,
-                       "ema200":  278.57,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:40:12Z",
+                       "price":  251.72,
+                       "open":  255.24,
+                       "high":  257.5,
+                       "low":  248.48,
+                       "volume":  5199200,
+                       "avgVolume20":  4031565,
+                       "changePct":  6.03,
+                       "historyDays":  500,
+                       "ema50":  265.91,
+                       "ema100":  269.98,
+                       "ema200":  278.29,
                        "bb":  {
-                                  "upper":  286.83,
-                                  "middle":  261.59,
-                                  "lower":  236.34
+                                  "upper":  286.85,
+                                  "middle":  261.55,
+                                  "lower":  236.25
                               },
                        "macd":  {
-                                    "macd":  -2.68,
-                                    "signal":  -0.92,
-                                    "hist":  -1.76
+                                    "macd":  -3.25,
+                                    "signal":  -1.39,
+                                    "hist":  -1.87
                                 },
-                       "rsi14":  37.46,
+                       "rsi14":  44.85,
                        "high52w":  380.78,
                        "low52w":  228.63,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         267.24
-                                     ],
                                      [
                                          "2026-06-04",
                                          264.59
@@ -518,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          237.41
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         251.72
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          291.41,
                                           290.36,
                                           288.96,
                                           287.46,
@@ -640,121 +641,108 @@
                                           268.54,
                                           268.31,
                                           267.67,
-                                          266.49
+                                          266.49,
+                                          265.91
                                       ]
                    },
     "en":  {
-               "headline":  "Q3 beat and Google deal swamped by AI selloff; CEG near 52-week low",
-               "summary":  "Constellation\u0027s own news since October has been strong. It signed a 20-year Google deal on Oct 6 and won a conditional DOE loan guarantee of up to $5.0B for uprates on Oct 27. On Nov 9 it beat Q3 estimates with adjusted EPS of $5.06, against $3.04 a year earlier, and lifted 2026 guidance to $12.50–12.80. The stock jumped 10.5% that day. It then lost 15.3% in the week to Nov 20 as an AI-led market correction hit. At $237.41 it trades below all three EMAs, on its lower Bollinger Band, and only 3.8% above its 52-week low.",
-               "pros":  [
-                            "Q3 adjusted EPS of $5.06 beat estimates near $3.90, and 2026 guidance rose to $12.50–12.80 from $11.50–12.50.",
-                            "Google signed a 20-year PPA tied to about 890 MW of uprates, plus a 15-year 2,700 MW load-following deal (Oct 6).",
-                            "Amazon\u0027s 20-year, 690 MW deal backs more than $3B of investment at Calvert Cliffs, including a 190 MW expansion.",
-                            "A conditional DOE guarantee of up to $5.0B, at 0.375% over Treasuries, makes uprate funding cheaper.",
-                            "Brokers kept raising targets during the drop (BMO to $335), and none of the 25 covering firms rates it sell."
-                        ],
+               "caution":  "The stock\u0027s divergence from its strong Q3 print shows that macro and policy forces currently drive short-term price action. Until CEG reclaims its middle Bollinger Band (USD 261.55) and EMA 50 (USD 265.91), rallies risk stalling under overhead resistance. Fundamentally, investors should watch December\u0027s PJM capacity auction closely: pushback from ratepayer advocates and PJM\u0027s market monitor over data-center load forecasts could cap future capacity revenue. Meanwhile, the USD 5 billion DOE loan remains conditional, and multi-billion-dollar nuclear uprates carry schedule and cost-overrun risk through 2032.",
                "cons":  [
-                            "The stock fell 15.3% in the week to Nov 20 and closed at $237.41, below its EMA 50, 100 and 200.",
-                            "An AI-led correction (S\u0026P 500 −3.7% on Nov 20) hit \u0027AI power\u0027 names regardless of their results.",
-                            "A 10-year Treasury yield near 5% and ~95% odds of a Fed hike on Dec 9 weigh on capital-heavy power stocks.",
-                            "Policy risk is rising: PJM price caps and auction delays, and Texas data-center politics that touch Calpine\u0027s ERCOT fleet.",
-                            "Q3 was partly held back by higher interest costs and a weaker nuclear production-tax-credit contribution."
+                            "The chart is in a clear downtrend, with price (USD 251.72) sitting below its EMA 50, EMA 100, and EMA 200 in bearish order.",
+                            "On November 19, state ratepayer advocates and PJM\u0027s market monitor urged delaying December\u0027s 2029/30 capacity auction over inflated data-center load forecasts.",
+                            "CEG remains highly sensitive to AI-trade sentiment swings, dropping 5.8% on November 20 alongside a broader tech selloff despite strong earnings.",
+                            "The USD 5 billion DOE loan is still conditional, and multibillion-dollar nuclear uprates face multi-year execution and regulatory timelines through 2032."
                         ],
-               "opportunityCheck":  "The scores look broadly reasonable. Position fits: Constellation is the largest US nuclear owner and keeps winning hyperscaler contracts. I would nudge AI revenue exposure up a little. Google, Amazon, Microsoft, Meta and the new Peak+ buyer now tie several gigawatts to data centers, though that is still a minority of a fleet that grew with Calpine. I would trim bottleneck \u0026 pricing power by a point or two. PJM price caps, FERC\u0027s procurement pause and Texas data-center politics show that regulators can limit what scarce clean power earns.",
-               "technical":  "The trend is down. The price of $237.41 sits below the EMA 50 ($266.49), EMA 100 ($270.35) and EMA 200 ($278.57). EMAs are exponential moving averages that track the short-, medium- and long-term trend. They are stacked in downtrend order, with the 50 below the 100 and the 100 below the 200. On momentum, MACD (a trend-momentum gauge) is −2.68, below its signal line at −0.92, and the histogram is negative at −1.76. That means selling pressure is building again after the post-earnings bounce faded. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 37.46: weak, but not yet oversold. The price is sitting right on the lower Bollinger Band at $236.34. The bands sit about two standard deviations either side of the 20-day average of $261.59. Touching the lower band means selling is stretched, but in strong declines price can ride the band lower. The stock is 37.7% below its 52-week high of $380.78 and only 3.8% above its 52-week low of $228.63, which is the next support. On Nov 20 it fell 5.8% on 5.49M shares, about 1.4× the 20-day average, and closed near the day\u0027s low of $236.80. The heavy volume confirms the selling.",
-               "fundamental":  "Constellation sells round-the-clock, carbon-free power, the scarce input hyperscalers need, and its contract book keeps growing. Q3, reported Nov 9, brought adjusted EPS of $5.06 versus $3.04 a year earlier and revenue of about $9.55B (+45%). The Calpine gas fleet, acquired in January 2026, helped. Guidance moved to $12.50–12.80 from $11.50–12.50. New contracts include Amazon (690 MW, 20 years, Sept 30) and Google (~890 MW of uprates plus 2,700 MW of load-following, Oct 6). A first \u0027Peak+\u0027 deal adds 270 MW from 2028. Constellation also agreed to buy the 609 MW Rhode Island State Energy Center for $715M. Uprates to existing reactors, not new builds, drive near-term growth, and the DOE loan lowers their cost. Nothing this period weakens the moat. The drop reflects valuation and macro conditions.",
+               "fundamental":  "Constellation Energy sits at the bottleneck of the AI power value chain as the largest US nuclear operator, expanded in January 2026 via its Calpine gas and geothermal acquisition. On November 9, 2026, CEG posted Q3 adjusted operating earnings of USD 5.06 per share (up 66% from USD 3.04) and GAAP EPS of USD 5.19 on USD 9.55 billion in revenue, lifted by higher PJM capacity prices, Calpine accretion, and a 97.2% nuclear capacity factor. Management raised 2026 adjusted EPS guidance to USD 12.50–12.80 (from USD 11.50–12.50), placing shares near 20x guided earnings. Growth visibility widened through the October 27 conditional USD 5 billion DOE uprate loan, the Peak+ hybrid product (270 MW initial contract), and a USD 715 million agreement for the 609 MW Rhode Island State Energy Center.",
+               "headline":  "Bearish chart clashes with Q3 earnings beat, raised guidance, and $5B DOE loan",
                "news":  [
-                            "Nov 9: Q3 adjusted EPS of $5.06 beat a consensus near $3.90, and FY2026 guidance was narrowed upward to $12.50–12.80. The stock rose 10.5% that day.",
-                            "Nov 9: Constellation agreed to buy the 609 MW Rhode Island State Energy Center (gas, ISO New England) from Shell Energy for $715M, pending regulatory approval.",
-                            "Oct 27: DOE gave a conditional commitment to guarantee up to $5.0B of loans for nuclear uprates, with a 30-year term at 0.375% above Treasuries.",
-                            "Oct 6: Google signed a 20-year PPA supporting more than $4.3B of uprates across 11 units (~890 MW, first in 2028), plus a 15-year 2,700 MW load-following agreement in PJM.",
-                            "Nov 16–20: The shares fell four straight sessions (−15.3% for the week) during an AI-led market correction. BMO raised its target to $335 (Outperform) that same week, and no company-specific filing explained the drop.",
-                            "Nov 3–5: Texas elected a governor who campaigned on halting new data centers, and power producers sold off. This matters to Constellation because Calpine brought a large Texas (ERCOT) fleet."
+                            "November 19–23, 2026: CEG slid to USD 237.41 on November 20 amid a broad AI-tech selloff and a November 19 push by seven state ratepayer advocates and PJM\u0027s market monitor to delay December\u0027s 2029/30 capacity auction, before rebounding 6.03% to USD 251.72 on November 23.",
+                            "November 19, 2026: Barclays reiterated an Overweight rating and lifted its CEG price target from USD 345 to USD 371 following Q3 results, joining Morgan Stanley (Overweight, USD 393) and BMO Capital (Outperform, USD 335) in raising post-earnings targets.",
+                            "November 9, 2026: Constellation reported Q3 adjusted EPS of USD 5.06 (vs. USD 3.04 a year earlier) on USD 9.55 billion in revenue, raised 2026 adjusted EPS guidance to USD 12.50–12.80, and launched Peak+ with a 20-year, 270 MW contract.",
+                            "October 30, 2026: The board declared a quarterly dividend of USD 0.4265 per share, payable December 4, 2026 to shareholders of record on November 16.",
+                            "October 27, 2026: The U.S. Department of Energy announced a conditional loan commitment of up to USD 5 billion under Project UPRISE to fund nearly 1.1 GW of nuclear uprates across eight Constellation plants in Illinois, Maryland, and Pennsylvania—complementing Google\u0027s October 6 deal for 890 MW of new nuclear capacity."
                         ],
-               "caution":  "The stock is trading on AI market mood, not on its own results. It gave back the whole Nov 9 earnings jump within about eight sessions. With the 10-year yield near 5% and futures pricing a Fed hike on Dec 9, capital-heavy power stocks with high valuations can keep de-rating. The 52-week low of $228.63 is the nearest support, and a close below it would mean fresh one-year lows. Policy risk is also building, from PJM price caps and procurement delays to Texas data-center politics. These could cap the pricing power the thesis relies on.",
-               "opportunity":  "For a long-term holder, the gap between business news and the share price is unusually wide. Guidance rose, three hyperscaler-linked deals were signed in about six weeks, and a low-cost DOE loan backs uprate growth. Yet the stock is about 38% below its 52-week high. Contracts of 15–20 years lock in revenue that does not depend on AI stock sentiment. The lower Bollinger Band and an RSI approaching 30 are zones where selling often runs out. However, the MACD has not turned up yet, so the chart has not confirmed a bottom.",
+               "opportunity":  "For long-term AI-infrastructure investors, the 33.9% pullback from CEG\u0027s 52-week high has compressed valuation to roughly 20x raised 2026 guidance (USD 12.50–12.80) even as earnings visibility improves. Unlike speculative power plays, Constellation is adding roughly 1.1 GW of carbon-free capacity via existing-plant uprates backed by 20-year hyperscaler PPAs with Google and Amazon plus a conditional USD 5 billion DOE loan that lowers financing costs. Technically, high-volume buying near the USD 236.25 lower Bollinger Band and USD 228.63 52-week low marks a clear support zone to monitor for base-building.",
+               "opportunityCheck":  "The page\u0027s sub-scores for market position and bottleneck pricing power look well calibrated given CEG\u0027s unmatched US nuclear fleet and tight PJM supply. However, the AI revenue exposure score looks too low and should move higher. Across its Q3 2026 update on November 9, CEG detailed 20-year hyperscaler agreements with Google (890 MW uprates plus 2,700 MW supply) and Amazon (690 MW), a 270 MW Peak+ deal, and Calpine\u0027s data-center power footprint. Optionality also improves with the October 27 conditional USD 5 billion DOE loan, though PJM ratepayer pushback caps unlimited pricing upside.",
+               "pros":  [
+                            "Q3 2026 adjusted EPS jumped 66% year-over-year to USD 5.06 on November 9, prompting a full-year guidance hike to USD 12.50–12.80.",
+                            "A conditional USD 5 billion DOE loan announced on October 27 lowers financing costs for roughly 1.1 GW of nuclear uprates across eight plants.",
+                            "Long-term hyperscaler contracts—including Google\u0027s 890 MW deal (October 6), Amazon\u0027s 690 MW Calvert Cliffs deal, and a 270 MW Peak+ agreement—lock in 20-year revenue.",
+                            "Nuclear fleet reliability reached a 97.2% Q3 capacity factor (99.2% in peak summer), reinforcing CEG\u0027s 24/7 baseload advantage."
+                        ],
                "risks":  [
-                             "The AI-led market correction deepens and drags AI power names further regardless of results.",
-                             "Rising rates (10-year near 5%, a possible Dec 9 hike) compress valuations of capital-intensive utilities.",
-                             "PJM price caps, FERC delays or state data-center moratoria limit power prices and new deals.",
-                             "Uprate execution, nuclear outages or Calpine integration costs ($73M after tax in Q3) disappoint.",
-                             "The price breaks below the $228.63 52-week low, a support level."
-                         ]
+                             "Regulatory and capacity-market risk: PJM ratepayer advocates and Monitoring Analytics pushing to delay December 2026\u0027s capacity auction or tighten price caps could trim merchant capacity margins.",
+                             "Financing and execution risk: The USD 5 billion DOE loan is conditional on due diligence, and multi-year nuclear uprates across eight plants (through 2032) risk delays or cost inflation.",
+                             "AI capex sentiment and valuation volatility: CEG trades as a high-beta proxy for AI data-center spending, making shares vulnerable to broader tech drawdowns.",
+                             "Operational and integration risk: Unplanned nuclear outages or slower synergies from the Calpine and Rhode Island gas plant acquisitions could weigh on cash flow."
+                         ],
+               "summary":  "Constellation Energy (CEG) trades at USD 251.72 as of November 23, 2026, down 33.9% from its 52-week high of USD 380.78 despite a 6.03% single-day bounce. Technicals remain bearish below all major moving averages, weighed down by November\u0027s AI-sector selloff and PJM capacity-auction pushback. Fundamentally, the nuclear moat is intact: on November 9, CEG beat Q3 estimates with USD 5.06 adjusted EPS, raised 2026 guidance to USD 12.50–12.80, launched its Peak+ hybrid power product, and followed an October 27 conditional USD 5 billion DOE loan for 1.1 GW of nuclear uprates.",
+               "technical":  "CEG\u0027s technical posture as of November 23, 2026 is bearish despite a sharp single-day rebound of 6.03% to USD 251.72. The trend structure is weak: price trades below all three exponential moving averages (EMAs, which smooth price to show trend)—EMA 50 at USD 265.91, EMA 100 at USD 269.98, and EMA 200 at USD 278.29—and those lines are stacked in bearish order with shorter averages beneath longer ones. Momentum also leans negative. MACD (a trend-momentum gauge comparing two moving averages) sits at -3.25, below its -1.39 signal line with a -1.87 histogram, showing sellers still hold control. RSI 14 (a 0–100 momentum gauge where under 30 is oversold) stands at 44.85—weak, though not deeply oversold. Within its Bollinger Bands (a volatility envelope around the 20-day average spanning USD 236.25 to USD 286.85), price sits in the lower half below the USD 261.55 midpoint and rests in the bottom 15% of its 52-week range (USD 228.63–380.78). Volume of 5.20 million shares ran 29% above the 20-day average of 4.03 million, confirming dip-buying interest near USD 236 support, though closing below the USD 255.24 open leaves immediate resistance at USD 261.55–265.91."
            },
     "th":  {
-               "headline":  "ผลกำไร Q3 ดีเกินคาดและดีล Google ถูกกลบด้วยแรงเทขายหุ้น AI จน CEG ใกล้จุดต่ำสุดรอบ 52 สัปดาห์",
-               "summary":  "ข่าวของ Constellation ตั้งแต่เดือนตุลาคมเป็นบวกต่อเนื่อง วันที่ 6 ต.ค. บริษัทเซ็นดีลขายไฟ 20 ปีกับ Google และวันที่ 27 ต.ค. ได้คำมั่นเบื้องต้นจาก DOE ว่าจะค้ำประกันเงินกู้สูงสุด $5.0B สำหรับงานเพิ่มกำลังผลิต (uprate) วันที่ 9 พ.ย. ผลประกอบการ Q3 ออกมาดีกว่าคาด กำไรต่อหุ้นปรับปรุง $5.06 เทียบกับ $3.04 ในปีก่อน และบริษัทปรับเป้าทั้งปี 2026 ขึ้นเป็น $12.50–12.80 วันนั้นหุ้นพุ่ง 10.5% แต่ในสัปดาห์ที่สิ้นสุด 20 พ.ย. กลับร่วง 15.3% ตามตลาดที่ปรับฐานเพราะหุ้น AI ถูกเทขาย ราคาปัจจุบัน $237.41 อยู่ต่ำกว่า EMA ทั้งสามเส้น แตะกรอบล่าง Bollinger และสูงกว่าจุดต่ำสุดรอบ 52 สัปดาห์เพียง 3.8%",
-               "pros":  [
-                            "กำไรต่อหุ้นปรับปรุง Q3 อยู่ที่ $5.06 สูงกว่าที่ตลาดคาดไว้ราว $3.90 และเป้าปี 2026 ถูกปรับขึ้นเป็น $12.50–12.80 จาก $11.50–12.50",
-                            "Google เซ็น PPA 20 ปี ผูกกับงาน uprate ราว 890 MW และเซ็นสัญญา load-following 2,700 MW อายุ 15 ปี (6 ต.ค.)",
-                            "ดีล 20 ปีขนาด 690 MW กับ Amazon สนับสนุนการลงทุนกว่า $3B ที่ Calvert Cliffs ซึ่งรวมการขยายกำลังผลิต 190 MW",
-                            "DOE ให้คำมั่นเบื้องต้นว่าจะค้ำประกันเงินกู้สูงสุด $5.0B ที่ดอกเบี้ยเหนือพันธบัตรรัฐบาลเพียง 0.375% ทำให้ต้นทุนเงินทุนของงาน uprate ถูกลง",
-                            "ระหว่างที่หุ้นร่วง โบรกยังทยอยปรับราคาเป้าหมายขึ้น (BMO ปรับเป็น $335) และไม่มีโบรกใดใน 25 แห่งที่ให้คำแนะนำขาย"
-                        ],
+               "caution":  "การที่ราคาหุ้นสวนทางกับงบ Q3 ที่แข็งแกร่งสะท้อนว่าปัจจัยมหภาคและนโยบายยังคุมทิศทางระยะสั้น ตราบใดที่ CEG ยังไม่สามารถกลับไปยืนเหนือเส้นกลางของ Bollinger Bands (USD 261.55) และ EMA 50 (USD 265.91) การรีบาวด์ยังมีโอกาสติดแนวต้าน ด้านพื้นฐานต้องติดตามการประมูลกำลังผลิตของ PJM ในเดือนธันวาคมอย่างใกล้ชิด เพราะแรงต้านจากกลุ่มผู้บริโภคและผู้กำกับตลาดอาจจำกัดรายได้ค่าความพร้อมจ่ายในอนาคต อีกทั้งสินเชื่อ DOE มูลค่า USD 5 พันล้านยังอยู่แบบมีเงื่อนไข และการอัปเกรดโรงไฟฟ้าถึงปี 2032 ยังมีความเสี่ยงด้านงบประมาณและระยะเวลา",
                "cons":  [
-                            "ราคาร่วง 15.3% ในสัปดาห์ที่สิ้นสุด 20 พ.ย. ปิดที่ $237.41 ต่ำกว่า EMA 50, 100 และ 200",
-                            "ตลาดปรับฐานจากแรงเทขายหุ้น AI (S\u0026P 500 ลด 3.7% เฉพาะวันที่ 20 พ.ย.) หุ้นกลุ่มไฟฟ้าเพื่อ AI ถูกลากลงด้วยโดยไม่สนผลประกอบการ",
-                            "บอนด์ยีลด์ 10 ปีใกล้ 5% และตลาดให้โอกาสราว 95% ที่ Fed จะขึ้นดอกเบี้ยวันที่ 9 ธ.ค. ซึ่งกดดันหุ้นไฟฟ้าที่ใช้เงินลงทุนสูง",
-                            "ความเสี่ยงด้านนโยบายเพิ่มขึ้น ทั้งเพดานราคาและการเลื่อนประมูลของ PJM และกระแสการเมืองเรื่องดาต้าเซ็นเตอร์ในเท็กซัสที่กระทบโรงไฟฟ้า ERCOT ของ Calpine",
-                            "ต้นทุนดอกเบี้ยที่สูงขึ้นและเครดิตภาษีการผลิตไฟฟ้านิวเคลียร์ที่ลดลงฉุดผล Q3 บางส่วน"
+                            "กราฟยังอยู่ในแนวโน้มขาลงชัดเจน โดยราคา USD 251.72 ต่ำกว่า EMA 50, EMA 100 และ EMA 200 ที่เรียงตัวแบบขาลง",
+                            "วันที่ 19 พ.ย. กลุ่มตัวแทนผู้ใช้ไฟ 7 รัฐและผู้กำกับตลาด PJM เรียกร้องให้เลื่อนการประมูลกำลังผลิตปี 2029/30 ในเดือน ธ.ค. จากข้อกังวลคาดการณ์โหลด Data Center เกินจริง",
+                            "หุ้นอ่อนไหวต่อแรงเหวี่ยงของธีม AI สูง โดยร่วง 5.8% ในวันที่ 20 พ.ย. ตามแรงขายหุ้นเทค แม้ผลประกอบการเพิ่งออกมาแข็งแกร่ง",
+                            "สินเชื่อ DOE มูลค่า USD 5 พันล้านยังเป็นข้อผูกพันแบบมีเงื่อนไข และโครงการอัปเกรดโรงไฟฟ้านิวเคลียร์มีกรอบเวลาดำเนินงานยาวถึงปี 2032"
                         ],
-               "opportunityCheck":  "คะแนนโดยรวมดูสมเหตุสมผล คะแนนสถานะในตลาดเหมาะสมแล้ว เพราะบริษัทเป็นเจ้าของโรงไฟฟ้านิวเคลียร์รายใหญ่ที่สุดในสหรัฐฯ และยังได้สัญญาจาก hyperscaler อย่างต่อเนื่อง ผมจะขยับคะแนนสัดส่วนรายได้จาก AI ขึ้นเล็กน้อย เพราะตอนนี้ Google, Amazon, Microsoft, Meta และผู้ซื้อรายแรกของ Peak+ ผูกไฟฟ้าหลายกิกะวัตต์ไว้กับดาต้าเซ็นเตอร์แล้ว แม้ยังเป็นส่วนน้อยของกำลังผลิตทั้งหมดที่ใหญ่ขึ้นหลังรวม Calpine ส่วนคะแนนคอขวดและอำนาจกำหนดราคา ผมจะลดลง 1–2 แต้ม เพราะเพดานราคาของ PJM การที่ FERC สั่งพักการจัดหาไฟฟ้า และการเมืองเรื่องดาต้าเซ็นเตอร์ในเท็กซัส ล้วนแสดงว่าหน่วยงานกำกับจำกัดรายได้จากไฟฟ้าสะอาดที่หายากได้จริง",
-               "technical":  "แนวโน้มเป็นขาลง ราคา $237.41 อยู่ต่ำกว่า EMA 50 ($266.49), EMA 100 ($270.35) และ EMA 200 ($278.57) โดย EMA คือเส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนักที่บอกเทรนด์ระยะสั้น กลาง และยาว ทั้งสามเส้นเรียงตัวแบบขาลงชัดเจน คือเส้น 50 อยู่ใต้เส้น 100 และเส้น 100 อยู่ใต้เส้น 200 ด้านโมเมนตัม MACD (ตัววัดแรงส่งของเทรนด์) อยู่ที่ −2.68 ต่ำกว่าเส้นสัญญาณที่ −0.92 และฮิสโตแกรมติดลบ −1.76 แปลว่าแรงขายกลับมาเร่งตัวหลังราคาที่เด้งขึ้นจากงบหมดแรง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 37.46 ซึ่งอ่อนแอแต่ยังไม่ถึงโซน oversold ราคากำลังแตะกรอบล่างของ Bollinger Band ที่ $236.34 กรอบนี้ห่างจากค่าเฉลี่ย 20 วันที่ $261.59 ไปข้างละประมาณ 2 ส่วนเบี่ยงเบนมาตรฐาน การแตะกรอบล่างบอกว่าแรงขายยืดตัวมากแล้ว แต่ในขาลงแรงๆ ราคาอาจไหลเลียบกรอบล่างต่อไปได้ ตอนนี้ราคาต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $380.78 อยู่ 37.7% และสูงกว่าจุดต่ำสุดที่ $228.63 เพียง 3.8% ซึ่งเป็นแนวรับถัดไป วันที่ 20 พ.ย. ราคาลง 5.8% ด้วยปริมาณซื้อขาย 5.49 ล้านหุ้น ราว 1.4 เท่าของค่าเฉลี่ย 20 วัน และปิดใกล้จุดต่ำสุดของวันที่ $236.80 วอลุ่มที่หนาแน่นยืนยันแรงขาย",
-               "fundamental":  "Constellation ขายไฟฟ้าสะอาดที่จ่ายได้ตลอด 24 ชั่วโมง ซึ่งเป็นสิ่งที่หายากและ hyperscaler ต้องการ และสัญญาระยะยาวของบริษัทยังเพิ่มขึ้นเรื่อยๆ งบ Q3 ที่ประกาศวันที่ 9 พ.ย. มีกำไรต่อหุ้นปรับปรุง $5.06 เทียบกับ $3.04 ในปีก่อน และรายได้ราว $9.55B เพิ่มขึ้น 45% ส่วนหนึ่งมาจากโรงไฟฟ้าก๊าซของ Calpine ที่ซื้อกิจการเสร็จเมื่อเดือนมกราคม 2026 บริษัทปรับเป้าทั้งปีเป็น $12.50–12.80 จาก $11.50–12.50 สัญญาใหม่ได้แก่ Amazon (690 MW 20 ปี, 30 ก.ย.) และ Google (uprate ราว 890 MW และ load-following 2,700 MW, 6 ต.ค.) และดีลแรกภายใต้ Peak+ ขนาด 270 MW ที่เริ่มปี 2028 นอกจากนี้บริษัทตกลงซื้อโรงไฟฟ้า Rhode Island State Energy Center ขนาด 609 MW ในราคา $715M การเติบโตระยะใกล้มาจากการเพิ่มกำลังผลิตของเตาปฏิกรณ์เดิม (uprate) ไม่ใช่การสร้างโรงใหม่ และเงินกู้จาก DOE ช่วยลดต้นทุนส่วนนี้ ข่าวในรอบนี้ไม่มีอะไรที่ทำให้ความได้เปรียบเชิงการแข่งขันอ่อนลง การที่หุ้นร่วงสะท้อนเรื่องมูลค่าหุ้นและภาวะเศรษฐกิจมหภาค",
+               "fundamental":  "Constellation Energy ยืนอยู่ในจุดคอขวดของห่วงโซ่พลังงาน AI ในฐานะผู้บริหารโรงไฟฟ้านิวเคลียร์รายใหญ่ที่สุดของสหรัฐฯ ซึ่งยิ่งแข็งแกร่งขึ้นหลังปิดดีลซื้อ Calpine (ก๊าซธรรมชาติและพลังงานความร้อนใต้พิภพ) ในเดือนมกราคม 2026 เมื่อวันที่ 9 พฤศจิกายน 2026 บริษัทประกาศกำไรจากการดำเนินงานปรับปรุง Q3 ที่ USD 5.06 ต่อหุ้น (พุ่ง 66% จาก USD 3.04 ปีก่อน) และกำไร GAAP ที่ USD 5.19 ต่อหุ้น จากรายได้ USD 9.55 พันล้าน หนุนจากราคาค่าความพร้อมจ่ายในตลาด PJM ที่สูงขึ้น การรับรู้รายได้ Calpine และอัตราเดินเครื่องนิวเคลียร์ถึง 97.2% ผู้บริหารปรับเพิ่มคาดการณ์กำไรปรับปรุงปี 2026 เป็น USD 12.50–12.80 ต่อหุ้น (จาก USD 11.50–12.50) คิดเป็นระดับราว 20 เท่าของกำไรปีนี้ พร้อมขยายโอกาสเติบโตผ่านสินเชื่อมีเงื่อนไขจาก DOE USD 5 พันล้าน (27 ต.ค.), ผลิตภัณฑ์ Peak+ (สัญญาแรก 270 MW) และข้อตกลงซื้อโรงไฟฟ้าก๊าซ Rhode Island State Energy Center ขนาด 609 MW มูลค่า USD 715 ล้าน",
+               "headline":  "กราฟยังเป็นขาลงสวนทางงบ Q3 แกร่ง ปรับเป้ากำไรเพิ่ม และคว้าสินเชื่อ DOE $5B",
                "news":  [
-                            "9 พ.ย.: กำไรต่อหุ้นปรับปรุง Q3 อยู่ที่ $5.06 สูงกว่าคาดการณ์ราว $3.90 และบริษัทปรับเป้ากำไรปี 2026 ให้แคบลงและสูงขึ้นเป็น $12.50–12.80 วันนั้นหุ้นขึ้น 10.5%",
-                            "9 พ.ย.: ตกลงซื้อโรงไฟฟ้าก๊าซ Rhode Island State Energy Center ขนาด 609 MW (ตลาด ISO New England) จาก Shell Energy มูลค่า $715M โดยยังรอการอนุมัติจากหน่วยงานกำกับ",
-                            "27 ต.ค.: DOE ให้คำมั่นเบื้องต้นว่าจะค้ำประกันเงินกู้สูงสุด $5.0B สำหรับงาน uprate โรงไฟฟ้านิวเคลียร์ อายุ 30 ปี ดอกเบี้ยเหนือพันธบัตรรัฐบาล 0.375%",
-                            "6 ต.ค.: Google เซ็น PPA 20 ปี สนับสนุนการลงทุน uprate กว่า $4.3B ใน 11 เตา (ราว 890 MW เริ่มชุดแรกปี 2028) และเซ็นสัญญา load-following 2,700 MW อายุ 15 ปีในตลาด PJM",
-                            "16–20 พ.ย.: หุ้นลงติดกัน 4 วัน (ทั้งสัปดาห์ −15.3%) ช่วงที่ตลาดปรับฐานจากแรงเทขายหุ้น AI สัปดาห์เดียวกันนั้น BMO ยังปรับราคาเป้าหมายขึ้นเป็น $335 (Outperform) และไม่มีเอกสารที่บริษัทยื่นต่อทางการชิ้นใดที่อธิบายการร่วงครั้งนี้",
-                            "3–5 พ.ย.: เท็กซัสได้ผู้ว่าการรัฐที่หาเสียงว่าจะหยุดดาต้าเซ็นเตอร์ใหม่ หุ้นผู้ผลิตไฟฟ้าถูกเทขายตาม เรื่องนี้เกี่ยวกับ CEG เพราะ Calpine มีโรงไฟฟ้าในเท็กซัส (ERCOT) จำนวนมาก"
+                            "19–23 พ.ย. 2026: หุ้น CEG ร่วงลงปิด USD 237.41 ในวันที่ 20 พ.ย. จากแรงเทขายหุ้นธีม AI-เทค และข่าววันที่ 19 พ.ย. ที่ตัวแทนผู้ใช้ไฟ 7 รัฐกับผู้กำกับตลาด PJM เสนอให้เลื่อนการประมูลกำลังผลิตปี 2029/30 เดือน ธ.ค. ก่อนดีดกลับ 6.03% มาที่ USD 251.72 ในวันที่ 23 พ.ย.",
+                            "19 พ.ย. 2026: Barclays คงคำแนะนำ Overweight และปรับเพิ่มเป้าราคา CEG จาก USD 345 เป็น USD 371 สอดคล้องกับ Morgan Stanley (Overweight, USD 393) และ BMO Capital (Outperform, USD 335) ที่ปรับเป้าขึ้นหลังงบ Q3",
+                            "9 พ.ย. 2026: Constellation รายงานกำไรปรับปรุง Q3 ที่ USD 5.06 ต่อหุ้น (เทียบ USD 3.04 ปีก่อน) รายได้ USD 9.55 พันล้าน ปรับเพิ่มคาดการณ์กำไรปี 2026 เป็น USD 12.50–12.80 และเปิดตัวบริการ Peak+ พร้อมสัญญาแรกอายุ 20 ปี ขนาด 270 MW",
+                            "30 ต.ค. 2026: คณะกรรมการบริษัทประกาศจ่ายเงินปันผลรายไตรมาส USD 0.4265 ต่อหุ้น กำหนดจ่ายวันที่ 4 ธ.ค. 2026 ให้ผู้ถือหุ้นที่มีรายชื่อ ณ วันที่ 16 พ.ย.",
+                            "27 ต.ค. 2026: กระทรวงพลังงานสหรัฐฯ (DOE) ประกาศอนุมัติวงเงินสินเชื่อแบบมีเงื่อนไขสูงสุด USD 5 พันล้าน ภายใต้โครงการ Project UPRISE เพื่ออัปเกรดกำลังผลิตนิวเคลียร์เกือบ 1.1 GW ในโรงไฟฟ้า 8 แห่งของ CEG ต่อยอดจากดีลวันที่ 6 ต.ค. ที่ Google ทำสัญญาซื้อไฟนิวเคลียร์ใหม่ 890 MW"
                         ],
-               "caution":  "ตอนนี้หุ้นเคลื่อนไหวตามอารมณ์ตลาดต่อหุ้น AI มากกว่าผลประกอบการของบริษัทเอง ราคาคืนกำไรที่พุ่งขึ้นจากงบวันที่ 9 พ.ย. หมดภายในราว 8 วันทำการ เมื่อยีลด์ 10 ปีใกล้ 5% และตลาดฟิวเจอร์สคาดว่า Fed จะขึ้นดอกเบี้ยวันที่ 9 ธ.ค. หุ้นไฟฟ้าที่ใช้เงินลงทุนสูงและซื้อขายที่มูลค่าสูงอาจถูกปรับลดมูลค่าต่อไปได้อีก แนวรับใกล้สุดคือจุดต่ำสุดรอบ 52 สัปดาห์ที่ $228.63 หากราคาปิดต่ำกว่าระดับนี้จะเป็นจุดต่ำสุดใหม่ในรอบปี ความเสี่ยงด้านนโยบายก็เพิ่มขึ้นด้วย ทั้งเพดานราคาและการเลื่อนการจัดหาไฟฟ้าของ PJM และการเมืองเรื่องดาต้าเซ็นเตอร์ในเท็กซัส ซึ่งอาจจำกัดอำนาจกำหนดราคาที่เป็นแกนของทีสิส",
-               "opportunity":  "สำหรับนักลงทุนระยะยาว ช่องว่างระหว่างข่าวธุรกิจกับราคาหุ้นกว้างผิดปกติ เป้ากำไรถูกปรับขึ้น บริษัทเซ็นดีลที่เกี่ยวกับ hyperscaler สามดีลในเวลาราวหกสัปดาห์ และมีเงินกู้ต้นทุนต่ำจาก DOE หนุนการเติบโตของงาน uprate แต่หุ้นยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ราว 38% สัญญาอายุ 15–20 ปีล็อกรายได้ที่ไม่ขึ้นกับอารมณ์ตลาดต่อหุ้น AI บริเวณกรอบล่าง Bollinger และ RSI ที่ใกล้ 30 มักเป็นจุดที่แรงขายเริ่มหมด แต่ MACD ยังไม่กลับตัวขึ้น กราฟจึงยังไม่ยืนยันว่าเป็นจุดต่ำสุด",
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI การปรับฐานลง 33.9% จากจุดสูงสุดรอบ 52 สัปดาห์ ทำให้มูลค่าหุ้นลดลงมาอยู่ราว 20 เท่าของคาดการณ์กำไรปี 2026 ที่เพิ่งปรับขึ้น (USD 12.50–12.80) สวนทางความชัดเจนของรายได้ที่เพิ่มขึ้น CEG กำลังเพิ่มกำลังผลิตสะอาดเกือบ 1.1 GW ผ่านการอัปเกรดโรงไฟฟ้าเดิม โดยมีสัญญา PPA 20 ปีกับ Google และ Amazon รองรับ รวมถึงสินเชื่อมีเงื่อนไขจาก DOE USD 5 พันล้านช่วยกดต้นทุนการเงิน เชิงเทคนิค แรงซื้อพร้อมวอลุ่มหนาแน่นใกล้ขอบล่าง Bollinger Bands (USD 236.25) และจุดต่ำสุดรอบปี (USD 228.63) ชี้แนวรับสำคัญที่ควรจับตาการสร้างฐาน",
+               "opportunityCheck":  "คะแนนย่อยด้านตำแหน่งตลาดและอำนาจต่อรองจากคอขวดพลังงานถือว่าเหมาะสมดี เพราะ CEG มีกองโรงไฟฟ้านิวเคลียร์ใหญ่ที่สุดในสหรัฐฯ ท่ามกลางภาวะไฟตึงตัวในตลาด PJM อย่างไรก็ตาม คะแนนสัดส่วนรายได้จาก AI ดูต่ำเกินไปและควรปรับขึ้น หลังรายงานงบ Q3 วันที่ 9 พ.ย. 2026 ตอกย้ำดีล 20 ปีกับ Hyperscaler ทั้ง Google (อัปเกรด 890 MW บวกสัญญาจ่ายไฟ 2,700 MW), Amazon (690 MW), สัญญา Peak+ 270 MW รวมถึงพอร์ต Calpine ที่รองรับ Data Center ด้านทางเลือกเติบโต (Optionality) ก็ดีขึ้นจากสินเชื่อ DOE USD 5 พันล้าน แม้แรงต้านค่าไฟใน PJM จะจำกัดการขึ้นราคาไม่ให้ไร้เพดานก็ตาม",
+               "pros":  [
+                            "กำไรปรับปรุง Q3 2026 เมื่อวันที่ 9 พ.ย. โต 66% เทียบปีก่อนแตะ USD 5.06 ต่อหุ้น หนุนให้ปรับเพิ่มเป้ากำไรปี 2026 เป็น USD 12.50–12.80",
+                            "สินเชื่อมีเงื่อนไขจาก DOE มูลค่าสูงสุด USD 5 พันล้าน (27 ต.ค.) ช่วยลดต้นทุนการเงินสำหรับการอัปเกรดนิวเคลียร์เกือบ 1.1 GW ใน 8 โรงไฟฟ้า",
+                            "สัญญาระยะยาว 20 ปีกับ Hyperscaler ทั้ง Google (890 MW วันที่ 6 ต.ค.), Amazon (690 MW ที่ Calvert Cliffs) และ Peak+ (270 MW) ล็อกกระแสเงินสดมั่นคง",
+                            "ความเสถียรของโรงไฟฟ้านิวเคลียร์โดดเด่นด้วยอัตราเดินเครื่อง Q3 สูงถึง 97.2% (ช่วงฤดูร้อนสูงสุด 99.2%) ตอกย้ำจุดแข็งไฟฟ้าสะอาด 24 ชั่วโมง"
+                        ],
                "risks":  [
-                             "ตลาดหุ้น AI ปรับฐานลึกขึ้น และลากหุ้นไฟฟ้าเพื่อ AI ลงต่อโดยไม่สนผลประกอบการ",
-                             "ดอกเบี้ยขาขึ้น (ยีลด์ 10 ปีใกล้ 5% และ Fed อาจขึ้นดอกเบี้ยวันที่ 9 ธ.ค.) กดมูลค่าหุ้นสาธารณูปโภคที่ใช้เงินลงทุนสูง",
-                             "เพดานราคาของ PJM ความล่าช้าจาก FERC หรือการระงับดาต้าเซ็นเตอร์ในระดับรัฐ จำกัดค่าไฟและดีลใหม่",
-                             "งาน uprate ล่าช้า โรงไฟฟ้านิวเคลียร์หยุดเดินเครื่องนอกแผน หรือต้นทุนการรวมกิจการ Calpine ($73M หลังภาษีใน Q3) สูงกว่าคาด",
-                             "ราคาหลุดแนวรับที่จุดต่ำสุดรอบ 52 สัปดาห์ $228.63"
-                         ]
+                             "ความเสี่ยงด้านกฎระเบียบและตลาดกำลังผลิต: แรงกดดันจากผู้แทนผู้ใช้ไฟและ Monitoring Analytics ให้เลื่อนประมูล PJM เดือน ธ.ค. 2026 หรือจำกัดเพดานราคา อาจกดดันมาร์จินค่าความพร้อมจ่าย",
+                             "ความเสี่ยงด้านสินเชื่อและการดำเนินโครงการ: เงินกู้ DOE USD 5 พันล้านยังต้องผ่านขั้นตอนตรวจสอบ และโครงการอัปเกรดโรงไฟฟ้า 8 แห่งถึงปี 2032 เสี่ยงล่าช้าหรืองบบานปลาย",
+                             "ความผันผวนตามบรรยากาศลงทุน AI: หุ้น CEG เคลื่อนไหวผันผวนสูงตามกระแสการลงทุน Data Center ทำให้เสี่ยงปรับฐานแรงเมื่อหุ้นเทคถูกเทขาย",
+                             "ความเสี่ยงด้านปฏิบัติการและการควบรวม: การหยุดเดินเครื่องนิวเคลียร์นอกแผน หรือการผสานธุรกิจ Calpine และโรงไฟฟ้าก๊าซ Rhode Island ที่ช้ากว่าคาด อาจกระทบกระแสเงินสด"
+                         ],
+               "summary":  "ณ วันที่ 23 พฤศจิกายน 2026 หุ้น Constellation Energy (CEG) ปิดที่ USD 251.72 แม้รีบาวด์แรง 6.03% ในวันเดียว แต่ยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ (USD 380.78) ถึง 33.9% ภาพเทคนิคยังเป็นขาลงใต้เส้นค่าเฉลี่ยหลักทั้งหมด จากแรงขายหุ้นธีม AI ในเดือนพฤศจิกายนและแรงต้านการประมูลกำลังผลิต PJM แต่พื้นฐานและคูเมืองธุรกิจยังแข็งแกร่ง วันที่ 9 พ.ย. งบ Q3 ทำกำไรปรับปรุง USD 5.06 สูงกว่าคาด ปรับเพิ่มเป้าปี 2026 เป็น USD 12.50–12.80 เปิดตัว Peak+ และได้แรงหนุนจากสินเชื่อมีเงื่อนไข DOE USD 5 พันล้านเมื่อวันที่ 27 ต.ค. เพื่ออัปเกรดนิวเคลียร์ 1.1 GW",
+               "technical":  "ภาพรวมเทคนิคของ CEG ณ วันที่ 23 พฤศจิกายน 2026 ยังอยู่ในฝั่งขาลง (bearish) แม้ราคาจะดีดแรง 6.03% มาปิดที่ USD 251.72 โครงสร้างแนวโน้มยังอ่อนแอ โดยราคาต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA ซึ่งใช้กรองความผันผวนเพื่อดูแนวโน้ม) ทั้งสามเส้น ได้แก่ EMA 50 ที่ USD 265.91, EMA 100 ที่ USD 269.98 และ EMA 200 ที่ USD 278.29 ซึ่งเรียงตัวแบบขาลงเต็มรูปแบบ ด้านโมเมนตัมยังเป็นลบ โดย MACD (ตัวชี้วัดแรงส่งแนวโน้มจากการเทียบเส้นค่าเฉลี่ยสองเส้น) อยู่ที่ -3.25 ต่ำกว่าเส้น Signal (-1.39) พร้อมแท่งฮิสโตแกรมติดลบ -1.87 สะท้อนแรงขายยังคุมเกม ขณะที่ RSI 14 (มาตรวัดแรงซื้อขาย 0–100 หากต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 44.85 ถือว่าอ่อนแรงแต่ยังไม่เข้าเขต oversold เมื่อเทียบกับ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วันช่วง USD 236.25–286.85) ราคาอยู่ครึ่งล่างใต้เส้นกลาง USD 261.55 และอยู่ช่วงล่าง 15% ของกรอบรอบ 52 สัปดาห์ (USD 228.63–380.78) อย่างไรก็ดี ปริมาณซื้อขาย 5.20 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (4.03 ล้านหุ้น) ราว 29% ยืนยันแรงรับใกล้แนวรับ USD 236 แต่การปิดต่ำกว่าราคาเปิด USD 255.24 ทิ้งแนวต้านระยะใกล้ไว้ที่ USD 261.55–265.91"
            },
     "sources":  [
                     {
-                        "title":  "Constellation Reports Third Quarter 2026 Results",
+                        "date":  "2026-11-09",
                         "publisher":  "Constellation Energy",
-                        "url":  "https://www.constellationenergy.com/news/2026/11/constellation-reports-third-quarter-2026-results.html",
-                        "date":  "2026-11-09"
+                        "title":  "Constellation Reports Third Quarter 2026 Results",
+                        "url":  "https://www.constellationenergy.com/newsroom/2026/constellation-reports-third-quarter-2026-results.html"
                     },
                     {
-                        "title":  "What Explains The Move In Constellation Energy Stock?",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/ceg/articles/624082/what-explains-the-move-in-constellation-energy-stock/2026-11-10",
-                        "date":  "2026-11-10"
+                        "date":  "2026-10-30",
+                        "publisher":  "Constellation Energy",
+                        "title":  "Constellation Energy Corporation Declares Dividend",
+                        "url":  "https://www.constellationenergy.com/newsroom/2026/constellation-energy-corporation-declares-dividend.html"
                     },
                     {
-                        "title":  "Weekly Recap (Constellation Energy, week ending Nov 20)",
-                        "publisher":  "Longbridge",
-                        "url":  "https://longbridge.com/en/news/306355711",
-                        "date":  "2026-11-21"
+                        "date":  "2026-10-27",
+                        "publisher":  "U.S. Department of Energy",
+                        "title":  "Energy Department Announces $5 Billion Loan to Boost Nuclear Power and Help Lower Costs in Illinois, Maryland, and Pennsylvania",
+                        "url":  "https://www.energy.gov/articles/energy-department-announces-5-billion-loan-boost-nuclear-power-and-help-lower-costs"
                     },
                     {
-                        "title":  "Wall Street Plunges Into Correction as AI Selloff Erases Nasdaq\u0027s 2026 Gains",
-                        "publisher":  "HNGN",
-                        "url":  "https://www.hngn.com/articles/273903/20261120/wall-street-plunges-correction-ai-selloff-erases-nasdaqs-2026-gains.htm",
-                        "date":  "2026-11-20"
+                        "date":  "2026-10-27",
+                        "publisher":  "U.S. Department of Energy",
+                        "title":  "FACT SHEET: Project UPRISE Is Delivering On President Trump\u0027s Agenda To Unleash American Nuclear Power",
+                        "url":  "https://www.energy.gov/articles/fact-sheet-project-uprise-delivering-president-trumps-agenda-unleash-american-nuclear-power"
                     },
                     {
-                        "title":  "PJM auction delay complicates independent power producers\u0027 stock price recovery",
-                        "publisher":  "S\u0026P Global Market Intelligence",
-                        "url":  "https://www.spglobal.com/market-intelligence/en/news-insights/articles/2026/10/pjm-auction-delay-complicates-independent-power-producers-stock-price-recovery-106494914",
-                        "date":  "2026-10"
-                    },
-                    {
-                        "title":  "Vistra Sinks 16% in a Week to a New 52-Week Low. Is the Texas Selloff Overdone?",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/markets/stocks/articles/vistra-sinks-16-week-52-022937824.html",
-                        "date":  "2026-11-05"
+                        "date":  "2026-10-06",
+                        "publisher":  "Constellation Energy",
+                        "title":  "Google and Constellation Announce Landmark Agreement to Bring 890 MW of New Nuclear Capacity to PJM Grid as Part of Long-Term Power Deal",
+                        "url":  "https://www.constellationenergy.com/newsroom/2026/google-constellation-agreement-to-bring-890-mw-of-new-nuclear-capacity-to-pjm-grid.html"
                     }
                 ]
 }

@@ -2,46 +2,45 @@
     "ticker":  "NET",
     "name":  "Cloudflare",
     "symbol":  "NYSE:NET",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:04:18Z",
-    "costUsd":  0.7624416,
+    "generatedAt":  "2026-11-24T04:01:17Z",
+    "costUsd":  null,
     "stance":  "neutral",
     "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NYSE:NET",
                        "yahoo":  "NET",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:01:11Z",
-                       "price":  274.96,
-                       "open":  300,
-                       "high":  300.88,
-                       "low":  271.94,
-                       "volume":  4756400,
-                       "avgVolume20":  4403385,
-                       "changePct":  -9.46,
-                       "ema50":  304.12,
-                       "ema100":  294.25,
-                       "ema200":  267.65,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:56:18Z",
+                       "price":  291.13,
+                       "open":  299.01,
+                       "high":  304,
+                       "low":  289,
+                       "volume":  3176300,
+                       "avgVolume20":  4424650,
+                       "changePct":  5.88,
+                       "historyDays":  500,
+                       "ema50":  303.61,
+                       "ema100":  294.19,
+                       "ema200":  267.87,
                        "bb":  {
-                                  "upper":  340.33,
-                                  "middle":  294.24,
-                                  "lower":  248.15
+                                  "upper":  334.94,
+                                  "middle":  292.2,
+                                  "lower":  249.46
                               },
                        "macd":  {
-                                    "macd":  -5.88,
-                                    "signal":  -6.8,
-                                    "hist":  0.92
+                                    "macd":  -5.68,
+                                    "signal":  -6.58,
+                                    "hist":  0.89
                                 },
-                       "rsi14":  42.36,
+                       "rsi14":  47.46,
                        "high52w":  370.35,
                        "low52w":  158.83,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         265.33
-                                     ],
                                      [
                                          "2026-06-04",
                                          268.64
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          274.96
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         291.13
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          215.42,
                                           217.51,
                                           218.79,
                                           219.92,
@@ -639,96 +641,120 @@
                                           305.56,
                                           305.38,
                                           305.31,
-                                          304.12
+                                          304.12,
+                                          303.61
                                       ]
                    },
     "en":  {
-               "headline":  "Strong Q3 rally erased as AI selloff pushes NET toward its 200-day EMA",
-               "technical":  "Trend: NET closed at $274.96 on 2026-11-20 after a 9.46% one-day drop. That puts it below the EMA 50 ($304.12) and EMA 100 ($294.25) but still above the EMA 200 ($267.65). EMAs (exponential moving averages, trend lines that give more weight to recent prices) are still stacked 50 \u003e 100 \u003e 200, so the long-term uptrend holds while the short-term trend has broken. Momentum: MACD (12/26/9, a trend-momentum gauge) is -5.88 against a signal line of -6.80, a positive histogram of +0.92. That is a bullish crossover below zero, though Friday\u0027s slide may wear it down. RSI 14 (a 0–100 momentum gauge; under 30 is oversold, over 70 overbought) is 42.36: weak, not oversold. Volatility: price sits in the lower half of the Bollinger Bands (20-day, 2 standard deviations: $248.15–$340.33, midline $294.24). It is about 55% of the way up its 52-week range ($158.83–$370.35) and 25.8% below the high. Volume of 4.76M was only about 8% above the 20-day average, and the close was near the day\u0027s low of $271.94. Support: $267.65 (EMA 200), then about $248. Resistance: $294–$304.",
-               "fundamental":  "Q3 2026, reported 2026-11-05, was Cloudflare\u0027s fastest growth in nearly four years. Revenue was $782.5M (+39% YoY) and current RPO (contracted revenue due within 12 months) rose 37%. Dollar-based net retention reached 122% vs 119% a year earlier, and about 5,000 customers now pay over $100K a year (+25%). Non-GAAP operating margin was 17.5%, free cash flow was $82.1M, and management expects GAAP profitability in Q4 2026, well ahead of its 2028 target. Guidance: Q4 revenue $845–846M (~38% growth); FY2026 $2.963–2.964B. On the AI side, active developers reached 10 million (from 7M a quarter earlier), \u0027Act 4\u0027 agent-payment products booked their first revenue, and Cloudflare signed an $11M Workers deal with an AI company. Watch gross margin: 72.4% non-GAAP, down 290 bps YoY, partly because the Workers platform runs at slightly lower margins.",
-               "news":  [
-                            "2026-11-05: Q3 beat. Revenue was $782.5M (+39% YoY), non-GAAP EPS was $0.38 vs about $0.34 expected, and FY2026 revenue guidance rose to $2.963–2.964B. The stock had slid to about $244.51 that day before the report, then jumped roughly 20% the next session.",
-                            "Analysts after results: Needham kept Buy but cut its target to $365 from $380, and Cantor Fitzgerald kept Neutral but cut to $310 from $340. JPMorgan was reported raising its target to $375 from $350.",
-                            "Earnings call (2026-11-05): management pitched Cloudflare as the \u0027agentic cloud\u0027 (a platform for AI agents). Deals included a $15.5M Magic Transit contract with a Fortune 100 cloud infrastructure provider and an $11M Workers Developer Platform deal with an AI company.",
-                            "2026-11-05: Cloudflare named Christian Smith as President of Revenue, a sales-leadership change as large customers rise to 75% of revenue.",
-                            "2026-11-13: Gartner named Cloudflare a Leader in its 2026 Magic Quadrant for Edge Distribution Platforms, an outside endorsement of the edge network.",
-                            "2026-11-20: I found no company-specific news behind the 9.46% drop. It came the same day as a broad AI-led selloff: the Nasdaq fell about 5.3%, chip stocks fell by double digits, and the S\u0026P 500 entered a correction (down more than 10% from its peak)."
+               "caution":  "Strong execution has not shielded NET from multiple compression after peaking at $370.35. Even after Q3’s beat, several banks trimmed price targets because rich valuation multiples leave minimal margin for error. Watch two emerging pressures closely: non-GAAP gross margin fell nearly 3 percentage points YoY to 72.4% on AI workload mix, and CrowdStrike’s $43.9 billion Zscaler deal on November 23 creates a formidable Zero Trust rival. Technically, November 23’s light-volume fade off $304 shows overhead supply remains active, while October 16’s Delaware governance injunction adds headline overhang.",
+               "cons":  [
+                            "Non-GAAP gross margin fell to 72.4% in Q3 2026 from 75.3% a year earlier as AI infrastructure and traffic mix weighed on unit economics.",
+                            "Stretched valuation multiples triggered post-earnings price target cuts from RBC, Scotiabank, Needham, and UBS despite strong Q3 beats.",
+                            "CrowdStrike’s $43.9 billion deal for Zscaler on November 23 creates a $10 billion-plus ARR rival in unified Zero Trust and AI security.",
+                            "GAAP net loss widened to $34.1 million in Q3 on restructuring and legal charges, while Delaware’s Chancery Court enjoined the founders’ equity restructuring on October 16."
                         ],
-               "caution":  "The post-earnings jump has fully reversed. The stock went from about $312 after results back to $274.96 and is now below its 50- and 100-day EMAs, during a market correction in which the Nasdaq fell 5.3% on 2026-11-20 alone. If the EMA 200 at $267.65 fails, the next levels to watch are the lower Bollinger Band near $248 and the pre-earnings level around $244.51. The valuation is still high, so NET tends to fall harder than the market when AI sentiment turns. The 290 bps drop in gross margin is also worth watching.",
-               "opportunity":  "Nothing in the past 30 days damaged the business. Growth sped up to 39%, net retention improved to 122%, and GAAP profitability is guided for Q4 2026. The 2026-11-20 drop looks driven by the market, not the company: volume was only about 8% above average, the EMAs are still stacked bullishly, and MACD remains above its signal line. If the $267.65 EMA 200 holds, the larger uptrend stays intact. Moving back above $294–$304 would suggest the pullback has ended.",
+               "fundamental":  "Cloudflare’s Q3 2026 report on November 5 reinforced its edge-network moat as an AI-era utility. Revenue climbed 39% YoY to $782.5 million—its fastest growth in nearly four years—pushing annualized revenue past $3 billion, while non-GAAP EPS reached $0.38 and operating margin hit 17.5%. Management raised full-year 2026 revenue guidance to $2.963–$2.964 billion (~37% YoY) and pulled forward GAAP operating profitability to Q4 2026. In the AI value chain, Cloudflare’s lightweight isolate architecture lets autonomous agents run globally with millisecond cold starts, lifting active developers above 10 million and driving 37% current RPO growth ($2.877 billion total). Backed by $5.1 billion in cash and investments and new President of Revenue Christian Smith, the long-term thesis remains intact—though declining non-GAAP gross margin (72.4% vs. 75.3%) and 10% free cash flow margin ($82.1 million) underscore rising AI infrastructure costs.",
+               "headline":  "Cloudflare Accelerates Past $3B Run-Rate as Technicals Consolidate Below Key Averages",
+               "news":  [
+                            "Nov 23, 2026: CrowdStrike announced a $43.9 billion all-stock deal to acquire Zscaler, sparking a cybersecurity sympathy rally that lifted NET 5.88% to $291.13 after an intraday spike to $304. While the deal validates unified Zero Trust demand for agentic AI, it also creates a $10 billion-plus ARR competitor.",
+                            "Nov 5, 2026: Cloudflare beat Q3 2026 expectations with revenue up 39% YoY to $782.5 million (crossing a $3 billion annualized run-rate) and non-GAAP EPS of $0.38. Management raised FY2026 revenue guidance to $2.963–$2.964 billion and pulled forward expected GAAP operating profitability to Q4 2026.",
+                            "Nov 5, 2026: Cloudflare appointed former Splunk CRO Christian Smith as President of Revenue to lead global go-to-market execution toward $5 billion+ ARR. He succeeds retiring Mark Anderson, who remains an advisor through December 2026.",
+                            "Nov 3–10, 2026: Wall Street reacted unevenly after earnings—J.P. Morgan (Overweight, $375 target), Wolfe Research (Outperform), and DZ Bank (Buy, $300) upgraded NET, while RBC ($350), Scotiabank ($360), Needham ($365), Jefferies ($315), and UBS ($300) trimmed targets amid sector multiple compression.",
+                            "Oct 16 \u0026 Oct 20, 2026: Cloudflare surpassed 10 million developers on October 20 as daily AI-agent requests jumped over 1,700% YoY, though on October 16 the Delaware Court of Chancery issued a preliminary injunction pausing the co-founders’ proposed nonvoting-equity capital restructuring."
+                        ],
+               "opportunity":  "For long-term AI-infrastructure holders, the key question is whether Cloudflare converts surging AI-agent traffic (+1,700% YoY) into durable, high-margin platform revenue. Pulling GAAP operating profitability forward to Q4 2026 demonstrates meaningful operating leverage, while appointing former Splunk CRO Christian Smith on November 5 targets scaling from $3 billion to $5 billion+ ARR. Meanwhile, industry consolidation via CrowdStrike–Zscaler could open enterprise switching windows for Cloudflare’s unified edge-and-security stack. Sustained trading above the $294–$304 EMA cluster on expanding volume—alongside stabilizing gross margins—would signal that fundamentals are regaining control over valuation compression.",
+               "opportunityCheck":  "The page’s cautious exposure score and strong optionality rating are largely grounded, since management still does not break out standalone Workers AI revenue even as initial AI-agent monetization begins. Still, I would nudge AI revenue exposure slightly higher: Q3’s 39% revenue acceleration, over 10 million developers, and $11 million-scale Workers contracts show AI workloads already moving the financial needle. Meanwhile, bottleneck and pricing power should stay restrained—Q3 non-GAAP gross margin slipped to 72.4% on AI scaling costs, and CrowdStrike’s Zscaler acquisition intensifies Zero Trust competition.",
+               "pros":  [
+                            "Q3 2026 revenue accelerated 39% YoY to $782.5 million on November 5, crossing a $3 billion annualized run-rate with Q4 guided to $845–$846 million.",
+                            "Management pulled forward GAAP operating profitability to Q4 2026—roughly two years early—while lifting non-GAAP operating margin to 17.5%.",
+                            "Developer momentum surged past 10 million builders on October 20, with AI-agent requests up over 1,700% YoY and an $11 million AI Workers contract signed.",
+                            "Enterprise traction deepened to roughly 5,000 $100k+ customers, 122% net retention, 37% current RPO growth, and a $5.1 billion cash war chest."
+                        ],
                "risks":  [
-                             "A wider AI-sector selloff could keep pulling down high-valuation software names like NET, even with strong results.",
-                             "Gross margin pressure (72.4% non-GAAP, down 290 bps YoY) as lower-margin Workers and AI inference become a bigger share of revenue.",
-                             "A daily close below the EMA 200 ($267.65) would break the long-term uptrend and open the way to about $244–$248.",
-                             "Markets expect a possible Fed rate hike in December, which tends to hit long-duration growth stocks hardest.",
-                             "The $2.175B in convertible notes issued in August 2026 could dilute shareholders, and competition in edge AI inference is coming from hyperscalers (giant cloud providers) and other CDNs."
+                             "Gross margin pressure from AI infrastructure scaling (non-GAAP gross margin fell to 72.4% in Q3 2026 from 75.3% YoY).",
+                             "High valuation sensitivity to interest rates and tech multiples even when quarterly results beat consensus.",
+                             "Intensifying Zero Trust and AI-security competition from the planned $43.9 billion CrowdStrike–Zscaler combination.",
+                             "Governance and execution overhangs, including the Delaware Chancery injunction on founder equity restructuring and sales leadership transition."
                          ],
-               "summary":  "Cloudflare reported its strongest quarter in years on 2026-11-05: 39% growth, 122% net retention, raised guidance and a fast-growing AI-agent developer base. The moat thesis looks intact. The stock, however, has given back its post-earnings rally, closing at $274.96 after a 9.46% fall on 2026-11-20 during an AI-led market selloff. Technically the picture is neutral: the short-term trend is broken, but the long-term trend holds above the $267.65 EMA 200. Watch that level and gross margins."
+               "summary":  "Cloudflare delivered standout Q3 2026 results on November 5, with revenue accelerating 39% year-over-year to $782.5 million, surpassing a $3 billion annualized run-rate, and pulling forward expected GAAP operating profitability to Q4 2026. Shares jumped 5.88% to $291.13 on November 23 in sympathy with CrowdStrike’s $43.9 billion Zscaler acquisition, yet remain 21.4% below their $370.35 52-week high. While AI-agent adoption and enterprise demand strengthen the long-term moat, non-GAAP gross margin compression to 72.4%, premium multiples, and light-volume rejection near $304 keep the near-term technical picture neutral.",
+               "technical":  "As of November 23, 2026, NET trades at $291.13 (+5.88%), sitting in a neutral consolidation within a broader uptrend. Its exponential moving averages (EMAs—weighted trend averages) remain bullishly stacked, with the 50-day ($303.61) above the 100-day ($294.19) and 200-day ($267.87). However, price remains below both the 50-day and 100-day EMAs, signaling medium-term overhead supply while the 200-day EMA provides structural support. Momentum is stabilizing: MACD (a trend-momentum gauge comparing 12- and 26-day averages) sits at -5.68 above its -6.58 signal line, turning the histogram positive (+0.89), while RSI 14 (a 0–100 momentum index where under 30 is oversold and over 70 overbought) is neutral at 47.46. Within Bollinger Bands (a 20-day volatility channel from $249.46 to $334.94), NET hovers just below the $292.20 midpoint and 21.4% off its $370.35 52-week high ($158.83 low). Critically, November 23’s gap up to $304 faded back to $291.13 on 3.18 million shares—28% below the 4.42 million 20-day average—confirming weak breakout conviction into $294–$304 resistance, with key support at $267.87 and $249.46."
            },
     "th":  {
-               "headline":  "งบ Q3 แกร่ง แต่แรงเทขายหุ้น AI ดัน NET ลงมาทดสอบ EMA 200",
-               "technical":  "แนวโน้ม: NET ปิดที่ $274.96 เมื่อ 20 พ.ย. 2026 หลังร่วง 9.46% ในวันเดียว ราคาหลุดลงมาอยู่ใต้ EMA 50 ($304.12) และ EMA 100 ($294.25) แต่ยังยืนเหนือ EMA 200 ($267.65) ได้ EMA (เส้นค่าเฉลี่ยที่ให้น้ำหนักกับราคาช่วงหลังมากกว่า) ยังเรียงตัว 50 \u003e 100 \u003e 200 ขาขึ้นระยะยาวจึงยังไม่เสีย แต่แนวโน้มระยะสั้นพังไปแล้ว โมเมนตัม: MACD (12/26/9 ตัววัดแรงส่งของเทรนด์) อยู่ที่ -5.88 สูงกว่าเส้น signal ที่ -6.80 ฮิสโตแกรมเป็นบวก +0.92 ถือเป็นสัญญาณตัดขึ้นใต้เส้นศูนย์ แต่แรงขายวันศุกร์อาจทำให้สัญญาณนี้จางลง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 คือขายมากเกินไป เกิน 70 คือซื้อมากเกินไป) อยู่ที่ 42.36 อ่อนแรงแต่ยังไม่ถึงโซน oversold ความผันผวน: ราคาอยู่ครึ่งล่างของ Bollinger Bands (20 วัน, 2 ส่วนเบี่ยงเบนมาตรฐาน: $248.15–$340.33 เส้นกลาง $294.24) และอยู่ราว 55% ของกรอบราคา 52 สัปดาห์ ($158.83–$370.35) ต่ำกว่าจุดสูงสุด 25.8% วอลุ่ม 4.76 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันเพียงราว 8% และปิดใกล้จุดต่ำสุดของวันที่ $271.94 แนวรับแรกคือ $267.65 (EMA 200) ถัดไปราว $248 แนวต้านอยู่ที่ $294–$304",
-               "fundamental":  "ไตรมาส 3/2026 (ประกาศ 5 พ.ย. 2026) เป็นไตรมาสที่โตเร็วที่สุดในรอบเกือบ 4 ปี รายได้ $782.5M เพิ่มขึ้น 39% YoY ส่วน current RPO (รายได้ตามสัญญาที่จะรับรู้ภายใน 12 เดือน) โต 37% dollar-based net retention ขึ้นเป็น 122% จาก 119% เมื่อปีก่อน และลูกค้าที่จ่ายเกิน $100K ต่อปีมีราว 5,000 ราย (+25%) อัตรากำไรจากการดำเนินงานแบบ non-GAAP อยู่ที่ 17.5% กระแสเงินสดอิสระ $82.1M และผู้บริหารคาดว่าจะมีกำไรแบบ GAAP ในไตรมาส 4/2026 เร็วกว่าเป้าเดิมปี 2028 มาก คาดการณ์รายได้ไตรมาส 4 อยู่ที่ $845–846M (โตราว 38%) ทั้งปี $2.963–2.964B ในมุม AI นักพัฒนาที่ใช้งานจริงแตะ 10 ล้านราย (จาก 7 ล้านในไตรมาสก่อน) ผลิตภัณฑ์ \u0027Act 4\u0027 สำหรับการชำระเงินของ AI agent เริ่มมีรายได้ก้อนแรก และบริษัทได้ดีล Workers มูลค่า $11M กับบริษัท AI จุดที่ต้องจับตาคือ gross margin แบบ non-GAAP อยู่ที่ 72.4% ลดลง 290 bps YoY ส่วนหนึ่งเพราะแพลตฟอร์ม Workers มีมาร์จินต่ำกว่าเล็กน้อย",
-               "news":  [
-                            "5 พ.ย. 2026: งบ Q3 ดีกว่าคาด รายได้ $782.5M (+39% YoY) EPS แบบ non-GAAP $0.38 เทียบกับที่ตลาดคาดราว $0.34 และปรับเป้ารายได้ทั้งปี 2026 ขึ้นเป็น $2.963–2.964B ในวันนั้นหุ้นไหลลงไปราว $244.51 ก่อนประกาศงบ แล้วพุ่งขึ้นราว 20% ในวันถัดมา",
-                            "นักวิเคราะห์หลังงบ: Needham คงคำแนะนำ Buy แต่ลดราคาเป้าหมายเป็น $365 จาก $380 ส่วน Cantor Fitzgerald คง Neutral และลดเป็น $310 จาก $340 ขณะที่มีรายงานว่า JPMorgan ปรับเป้าขึ้นเป็น $375 จาก $350",
-                            "ประชุมนักวิเคราะห์ (5 พ.ย. 2026): ผู้บริหารวางตำแหน่ง Cloudflare เป็น \u0027agentic cloud\u0027 (แพลตฟอร์มสำหรับ AI agent) ดีลที่เปิดเผยมีทั้งสัญญา Magic Transit $15.5M กับผู้ให้บริการโครงสร้างพื้นฐานคลาวด์ระดับ Fortune 100 และดีล Workers Developer Platform $11M กับบริษัท AI",
-                            "5 พ.ย. 2026: Cloudflare แต่งตั้ง Christian Smith เป็น President of Revenue ปรับทีมผู้นำฝ่ายขายในช่วงที่ลูกค้ารายใหญ่มีสัดส่วนสูงขึ้นเป็น 75% ของรายได้",
-                            "13 พ.ย. 2026: Gartner จัดให้ Cloudflare เป็น Leader ใน Magic Quadrant ปี 2026 ด้าน Edge Distribution Platforms เท่ากับมีบุคคลภายนอกยืนยันความแข็งแกร่งของเครือข่าย edge",
-                            "20 พ.ย. 2026: ไม่พบข่าวเฉพาะของบริษัทที่อธิบายการร่วง 9.46% ได้ การร่วงเกิดวันเดียวกับที่ตลาดเทขายหุ้นกลุ่ม AI อย่างหนัก Nasdaq ร่วงราว 5.3% หุ้นชิปดิ่งเป็นเลขสองหลัก และ S\u0026P 500 เข้าสู่ภาวะ correction (ต่ำกว่าจุดสูงสุดเกิน 10%)"
+               "caution":  "ผลงานธุรกิจที่แข็งแกร่งยังไม่ได้ช่วยให้ NET รอดพ้นจากแรงกดดันด้านมูลค่าหุ้นหลังทำจุดสูงสุดที่ $370.35 แม้กำไร Q3 จะดีกว่าคาด แต่หลายโบรกเกอร์ยังคงปรับลดราคาเป้าหมายเพราะระดับ Valuation ที่สูงทำให้รับความผิดพลาดได้น้อย ปัจจัยที่ต้องจับตาอย่างใกล้ชิดคือ Non-GAAP gross margin ที่ลดลงเกือบ 3 จุดเปอร์เซ็นต์ YoY เหลือ 72.4% จากสัดส่วนงาน AI และดีล CrowdStrike ซื้อ Zscaler มูลค่า $43.9 พันล้านเมื่อวันที่ 23 พ.ย. ซึ่งสร้างคู่แข่ง Zero Trust รายใหญ่ ด้านเทคนิค แรงขายกดราคาจาก $304 ด้วยวอลุ่มบางสะท้อนแรงต้านด้านบนที่ยังหนาแน่น ขณะที่คำสั่งศาล Delaware เมื่อ 16 ต.ค. ยังเป็นประเด็นธรรมาภิบาลที่คอยกดดันภาพรวม",
+               "cons":  [
+                            "Non-GAAP gross margin ใน Q3 2026 ลดลงเหลือ 72.4% จาก 75.3% เมื่อปีก่อน จากต้นทุนโครงสร้างพื้นฐาน AI และสัดส่วนทราฟฟิกที่เปลี่ยนไป",
+                            "ระดับมูลค่าหุ้นที่สูงทำให้นักวิเคราะห์หลายค่าย เช่น RBC, Scotiabank, Needham และ UBS ปรับลดราคาเป้าหมายหลังงบ Q3 แม้ผลงานจะดีกว่าคาด",
+                            "ดีล CrowdStrike เข้าซื้อ Zscaler มูลค่า $43.9 พันล้านเมื่อวันที่ 23 พ.ย. สร้างคู่แข่งยักษ์ใหญ่รายได้ประจำเกิน $10 พันล้านในตลาด Zero Trust และความปลอดภัย AI",
+                            "ขาดทุนสุทธิแบบ GAAP ใน Q3 กว้างขึ้นเป็น $34.1 ล้านจากค่าใช้จ่ายปรับโครงสร้างและสำรองคดี ขณะที่ศาล Delaware สั่งระงับแผนปรับโครงสร้างหุ้นผู้ก่อตั้งชั่วคราวเมื่อ 16 ต.ค."
                         ],
-               "caution":  "ราคาที่พุ่งขึ้นหลังงบถูกลบไปหมดแล้ว จากราว $312 หลังประกาศงบกลับลงมาที่ $274.96 และหลุดใต้ EMA 50 กับ EMA 100 ท่ามกลางตลาดที่อยู่ในภาวะ correction โดยวันที่ 20 พ.ย. 2026 วันเดียว Nasdaq ร่วงไป 5.3% ถ้า EMA 200 ที่ $267.65 รับไม่อยู่ ระดับถัดไปที่ต้องดูคือขอบล่าง Bollinger ราว $248 และระดับก่อนประกาศงบราว $244.51 มูลค่าหุ้นยังแพง เวลาที่ตลาดกังวลเรื่อง AI หุ้นจึงมักลงแรงกว่าตลาด gross margin ที่ลดลง 290 bps ก็เป็นอีกเรื่องที่ควรติดตาม",
-               "opportunity":  "ช่วง 30 วันที่ผ่านมาไม่มีอะไรทำให้ธุรกิจเสียหาย การเติบโตเร่งขึ้นเป็น 39% net retention ดีขึ้นเป็น 122% และบริษัทคาดว่าจะมีกำไรแบบ GAAP ในไตรมาส 4/2026 การร่วงเมื่อ 20 พ.ย. ดูมาจากภาวะตลาดมากกว่าตัวบริษัท วอลุ่มสูงกว่าค่าเฉลี่ยเพียงราว 8% เส้น EMA ยังเรียงตัวเป็นขาขึ้น และ MACD ยังอยู่เหนือเส้น signal ถ้า EMA 200 ที่ $267.65 ยืนได้ ขาขึ้นใหญ่ก็ยังอยู่ และถ้าราคากลับขึ้นไปเหนือ $294–$304 ได้ จะเป็นสัญญาณว่าการย่อตัวรอบนี้น่าจะจบแล้ว",
+               "fundamental":  "งบ Q3 2026 เมื่อวันที่ 5 พ.ย. ตอกย้ำความแข็งแกร่งของคูเมืองธุรกิจด้านโครงข่าย Edge ระดับโลกของ Cloudflare ในยุค AI รายได้โตเร่งขึ้น 39% YoY สู่ $782.5 ล้าน ซึ่งเป็นอัตราเติบโตเร็วที่สุดในรอบเกือบ 4 ปี ดันรายได้ต่อปีทะลุ $3 พันล้าน ขณะที่ Non-GAAP EPS อยู่ที่ $0.38 และอัตรากำไรจากการดำเนินงานแตะ 17.5% ผู้บริหารยังปรับเพิ่มเป้ารายได้ทั้งปี 2026 เป็น $2.963–$2.964 พันล้าน (โตราว 37% YoY) และเลื่อนเป้ากำไรจากการดำเนินงานแบบ GAAP ขึ้นมาเป็น Q4 2026 ในห่วงโซ่คุณค่า AI สถาปัตยกรรม isolate น้ำหนักเบาช่วยให้ AI agent ทำงานทั่วโลกได้ทันที ส่งผลให้นักพัฒนาทะลุ 10 ล้านราย และ Current RPO โต 37% (RPO รวม $2.877 พันล้าน) พร้อมเงินสดและเงินลงทุน $5.1 พันล้าน รวมถึงการตั้ง Christian Smith เป็น President of Revenue ทำให้มุมมองระยะยาวยังแข็งแกร่ง แม้ Non-GAAP gross margin ที่ลดลง (72.4% เทียบกับ 75.3%) และ FCF margin 10% ($82.1 ล้าน) จะสะท้อนต้นทุนการขยายโครงสร้างพื้นฐาน AI ที่สูงขึ้นก็ตาม",
+               "headline":  "Cloudflare รายได้ทะลุ $3 พันล้านต่อปี ขณะที่กราฟพักตัวใต้เส้นค่าเฉลี่ยสำคัญ",
+               "news":  [
+                            "23 พ.ย. 2026: CrowdStrike ประกาศดีลแลกหุ้นมูลค่า $43.9 พันล้านเพื่อเข้าซื้อ Zscaler กระตุ้นแรงซื้อกลุ่มไซเบอร์ซีเคียวริตี้และดัน NET บวก 5.88% ปิดที่ $291.13 หลังพุ่งแตะ $304 ระหว่างวัน ดีลนี้ตอกย้ำดีมานด์ Zero Trust สำหรับยุค agentic AI แต่ก็สร้างคู่แข่งรายได้ประจำกว่า $10 พันล้านเช่นกัน",
+                            "5 พ.ย. 2026: Cloudflare รายงานงบ Q3 2026 ดีกว่าคาด รายได้โต 39% YoY แตะ $782.5 ล้าน (ทะลุระดับ $3 พันล้านต่อปี) และ Non-GAAP EPS อยู่ที่ $0.38 พร้อมปรับเพิ่มเป้ารายได้ปี 2026 เป็น $2.963–$2.964 พันล้าน และเลื่อนเป้ากำไรจากการดำเนินงานแบบ GAAP ขึ้นมาเป็น Q4 2026",
+                            "5 พ.ย. 2026: บริษัทแต่งตั้ง Christian Smith อดีต CRO ของ Splunk ขึ้นเป็น President of Revenue เพื่อนำทัพฝ่ายขายทั่วโลกสู่เป้าหมาย ARR เกิน $5 พันล้าน แทน Mark Anderson ที่เกษียณและอยู่ช่วยงานที่ปรึกษาถึงสิ้นเดือน ธ.ค. 2026",
+                            "3–10 พ.ย. 2026: มุมมองนักวิเคราะห์หลังงบ Q3 แตกออกเป็นสองฝั่ง โดย J.P. Morgan (Overweight เป้า $375), Wolfe Research (Outperform) และ DZ Bank (Buy เป้า $300) ปรับเพิ่มคำแนะนำ แต่ RBC ($350), Scotiabank ($360), Needham ($365), Jefferies ($315) และ UBS ($300) ปรับลดราคาเป้าหมายตามแรงกดดันด้าน Valuation ของกลุ่มเทค",
+                            "16 และ 20 ต.ค. 2026: วันที่ 20 ต.ค. Cloudflare ประกาศยอดนักพัฒนาทะลุ 10 ล้านราย โดยทราฟฟิกจาก AI agent รายวันโตกว่า 1,700% YoY ทว่าก่อนหน้านั้นวันที่ 16 ต.ค. ศาล Delaware Court of Chancery มีคำสั่งคุ้มครองชั่วคราวระงับแผนปรับโครงสร้างหุ้นไร้สิทธิออกเสียงของผู้ก่อตั้ง"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI โจทย์สำคัญคือ Cloudflare จะแปลงคลื่นทราฟฟิกจาก AI agent ที่โตกว่า 1,700% YoY ให้เป็นรายได้แพลตฟอร์มอัตรากำไรสูงอย่างยั่งยืนได้มากแค่ไหน การเลื่อนเป้ากำไรจากการดำเนินงานแบบ GAAP มาเป็น Q4 2026 สะท้อนพลังของการประหยัดต่อขนาด ขณะที่การดึง Christian Smith อดีต CRO จาก Splunk เมื่อวันที่ 5 พ.ย. มุ่งปั้นรายได้ประจำจาก $3 พันล้านสู่ระดับเกิน $5 พันล้าน นอกจากนี้ ช่วงรอยต่อการควบรวม CrowdStrike–Zscaler อาจเปิดโอกาสให้ Cloudflare ชิงลูกค้าองค์กรที่มองหาแพลตฟอร์ม Edge และความปลอดภัยแบบครบวงจร หากร้ายืนเหนือกลุ่มเส้น EMA $294–$304 ได้พร้อมวอลุ่มขยายตัวและอัตรากำไรขั้นต้นเริ่มทรงตัว จะเป็นสัญญาณว่าปัจจัยพื้นฐานกลับมาคุมทิศทางราคาได้อีกครั้ง",
+               "opportunityCheck":  "คะแนนหมวดสัดส่วนรายได้ AI ที่ยังอนุรักษ์นิยมและคะแนนทางเลือกการเติบโตในอนาคตที่สูงถือว่าสมเหตุสมผล เพราะผู้บริหารยังไม่แยกรายได้จาก Workers AI ออกมาชัดเจนแม้จะเริ่มสร้างรายได้ยุค AI agent แล้ว อย่างไรก็ตาม ผมมองว่าควรขยับคะแนนสัดส่วนรายได้ AI ขึ้นเล็กน้อย เพราะรายได้ Q3 ที่เร่งโตถึง 39% นักพัฒนาทะลุ 10 ล้านราย และดีล Workers ระดับ $11 ล้าน สะท้อนว่างาน AI เริ่มขับเคลื่อนงบการเงินจริงแล้ว ขณะที่คะแนนความเป็นคอขวดและอำนาจตั้งราคาควรคงไว้ระดับจำกัด เนื่องจาก Non-GAAP gross margin ลดลงเหลือ 72.4% จากต้นทุนขยายระบบ AI และดีล CrowdStrike–Zscaler ทำให้การแข่งขันด้าน Zero Trust ดุเดือดขึ้น",
+               "pros":  [
+                            "รายได้ Q3 2026 (ประกาศ 5 พ.ย.) โตเร่งขึ้น 39% YoY สู่ $782.5 ล้าน ทะลุรายได้ต่อปี $3 พันล้าน พร้อมประเมิน Q4 สูงถึง $845–$846 ล้าน",
+                            "ผู้บริหารเลื่อนเป้าทำกำไรจากการดำเนินงานแบบ GAAP ขึ้นมาเป็น Q4 2026 เร็วกว่าเดิมราว 2 ปี พร้อมยกระดับ Non-GAAP operating margin สู่ 17.5%",
+                            "ระบบนิเวศนักพัฒนาทะลุ 10 ล้านรายเมื่อวันที่ 20 ต.ค. โดยคำขอจาก AI agent โตกว่า 1,700% YoY และปิดดีล Workers ด้าน AI มูลค่า $11 ล้านต่อปีได้สำเร็จ",
+                            "ฐานลูกค้าองค์กรรายใหญ่ ($100k+) เพิ่มเป็นราว 5,000 ราย อัตรารักษารายได้สุทธิ (DNR) ขยับเป็น 122% ยอด Current RPO โต 37% และมีเงินสดพร้อมเงินลงทุนถึง $5.1 พันล้าน"
+                        ],
                "risks":  [
-                             "ถ้าแรงเทขายหุ้นกลุ่ม AI ลามต่อ อาจกดดันหุ้นซอฟต์แวร์มูลค่าสูงอย่าง NET ต่อไปแม้ผลประกอบการจะดี",
-                             "gross margin ถูกกดดัน (non-GAAP 72.4% ลดลง 290 bps YoY) เมื่อรายได้จาก Workers และ AI inference ที่มาร์จินต่ำกว่ามีสัดส่วนมากขึ้น",
-                             "ถ้าปิดต่ำกว่า EMA 200 ($267.65) แนวโน้มขาขึ้นระยะยาวจะเสีย และอาจลงไปทดสอบโซน $244–$248",
-                             "ตลาดคาดว่า Fed อาจขึ้นดอกเบี้ยในเดือนธันวาคม ซึ่งมักกระทบหุ้นเติบโตที่มูลค่าขึ้นกับกำไรในอนาคตไกลมากที่สุด",
-                             "หุ้นกู้แปลงสภาพ $2.175B ที่ออกเมื่อ ส.ค. 2026 อาจทำให้เกิด dilution และการแข่งขันด้าน AI inference บน edge จาก hyperscaler (ผู้ให้บริการคลาวด์รายใหญ่) และผู้ให้บริการ CDN รายอื่น"
+                             "แรงกดดันต่ออัตรากำไรขั้นต้นจากการขยายโครงสร้างพื้นฐาน AI (Non-GAAP gross margin ลดจาก 75.3% เหลือ 72.4% YoY ใน Q3 2026)",
+                             "ความอ่อนไหวของมูลค่าหุ้นต่ออัตราดอกเบี้ยและแรงปรับฐานกลุ่มเทคโนโลยี แม้ผลประกอบการรายไตรมาสจะดีกว่าคาดก็ตาม",
+                             "การแข่งขันที่รุนแรงขึ้นในตลาด Zero Trust และความปลอดภัย AI จากการควบรวม CrowdStrike–Zscaler มูลค่า $43.9 พันล้าน",
+                             "ความเสี่ยงด้านธรรมาภิบาลและการเปลี่ยนผ่านทีมขาย ทั้งคำสั่งศาล Delaware เรื่องโครงสร้างหุ้นผู้ก่อตั้งและการส่งไม้ต่อผู้นำฝ่ายรายได้"
                          ],
-               "summary":  "Cloudflare รายงานไตรมาสที่ดีที่สุดในรอบหลายปีเมื่อ 5 พ.ย. 2026 รายได้โต 39% net retention 122% ปรับเป้าทั้งปีขึ้น และฐานนักพัฒนาสาย AI agent ขยายตัวเร็ว moat thesis จึงยังแข็งแรง แต่ราคาหุ้นคืนกำไรหลังงบไปหมดแล้ว ปิดที่ $274.96 หลังร่วง 9.46% เมื่อ 20 พ.ย. 2026 ในวันที่ตลาดเทขายหุ้น AI ภาพเทคนิคจึงเป็นกลาง แนวโน้มระยะสั้นเสียแต่ระยะยาวยังอยู่เหนือ EMA 200 ที่ $267.65 จุดที่ต้องติดตามคือระดับนี้และทิศทางของ gross margin"
+               "summary":  "Cloudflare โชว์งบ Q3 2026 โดดเด่นเมื่อวันที่ 5 พ.ย. ด้วยรายได้โตเร่งขึ้น 39% YoY แตะ $782.5 ล้าน ทะลุรายได้ต่อปี $3 พันล้าน และเลื่อนเป้ากำไรจากการดำเนินงานแบบ GAAP ขึ้นมาเป็น Q4 2026 ราคาหุ้นดีดตัว +5.88% ปิดที่ $291.13 เมื่อวันที่ 23 พ.ย. ตามแรงหนุนข่าว CrowdStrike ซื้อ Zscaler มูลค่า $43.9 พันล้าน แต่ยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $370.35 อยู่ 21.4% แม้การใช้งาน AI agent และลูกค้าองค์กรจะเสริมคูเมืองระยะยาว แต่ Non-GAAP gross margin ที่ลดเหลือ 72.4% Valuation ที่ตึงตัว และแรงขายแถว $304 ด้วยวอลุ่มบาง ทำให้ภาพเทคนิคระยะสั้นยังเป็นกลาง",
+               "technical":  "ณ วันที่ 23 พ.ย. 2026 หุ้น NET ปิดที่ $291.13 (+5.88%) อยู่ในช่วงพักตัวแบบเป็นกลางภายในแนวโน้มขาขึ้นระยะยาว เส้นค่าเฉลี่ยเคลื่อนที่แบบให้น้ำหนักล่าสุด (EMA) ยังเรียงตัวเชิงบวกโดย EMA 50 ($303.61) อยู่เหนือ EMA 100 ($294.19) และ EMA 200 ($267.87) แต่ราคาปัจจุบันยังต่ำกว่าทั้ง EMA 50 และ EMA 100 สะท้อนแรงขายค้างอยู่ด้านบน ขณะที่ EMA 200 ทำหน้าที่เป็นแนวรับโครงสร้างสำคัญ ด้านโมเมนตัมเริ่มนิ่งขึ้น โดย MACD (ตัววัดแรงส่งแนวโน้มจากส่วนต่างเส้นเฉลี่ย 12 และ 26 วัน) อยู่ที่ -5.68 สูงกว่าเส้นสัญญาณ -6.58 ทำให้แท่งฮิสโตแกรมพลิกเป็นบวก (+0.89) ส่วน RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 คือขายมากเกินไป เกิน 70 คือซื้อมากเกินไป) อยู่ที่ 47.46 ในโซนกลาง เมื่อดูกรอบความผันผวน 20 วันอย่าง Bollinger Bands ($249.46–$334.94) ราคาเกาะใต้เส้นกลาง $292.20 เล็กน้อย และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($370.35; ต่ำสุด $158.83) อยู่ 21.4% จุดที่ต้องสังเกตคือวันที่ 23 พ.ย. ราคาเปิดกระโดดขึ้นแตะ $304 แต่ถอยลงมาปิด $291.13 ด้วยปริมาณซื้อขายเพียง 3.18 ล้านหุ้น ต่ำกว่าค่าเฉลี่ย 20 วัน (4.42 ล้านหุ้น) ถึง 28% ยืนยันว่าแรงซื้อยังไม่มากพอจะทะลุแนวต้าน $294–$304 โดยมีแนวรับสำคัญที่ $267.87 และ $249.46"
            },
     "sources":  [
                     {
-                        "title":  "Cloudflare Announces Third Quarter 2026 Financial Results (Form 8-K Exhibit 99.1)",
-                        "publisher":  "Cloudflare / SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001477333/000147733326000060/q326exhibit991.htm",
-                        "date":  "2026-11-05"
+                        "date":  "2026-11-05",
+                        "publisher":  "Business Wire",
+                        "title":  "Cloudflare Announces Third Quarter 2026 Financial Results",
+                        "url":  "https://www.businesswire.com/news/home/20261105744720/en/Cloudflare-Announces-Third-Quarter-2026-Financial-Results"
                     },
                     {
-                        "title":  "Cloudflare (NET) Q3 2026 Earnings Call Transcript",
+                        "date":  "2026-11-05",
+                        "publisher":  "Cloudflare",
+                        "title":  "Cloudflare Appoints Christian Smith as President of Revenue",
+                        "url":  "https://www.cloudflare.com/press/press-releases/2026/cloudflare-appoints-christian-smith-as-president-of-revenue/"
+                    },
+                    {
+                        "date":  "2026-10-20",
+                        "publisher":  "Cloudflare",
+                        "title":  "More than 10 Million Developers Are Building on Cloudflare",
+                        "url":  "https://www.cloudflare.com/press/press-releases/2026/more-than-10-million-developers-are-building-on-cloudflare/"
+                    },
+                    {
+                        "date":  "2026-11-23",
+                        "publisher":  "Business Wire",
+                        "title":  "CrowdStrike to Acquire Zscaler, Bringing Network Security and Zero Trust to the Falcon Platform",
+                        "url":  "https://www.businesswire.com/news/home/20261123005085/en/CrowdStrike-to-Acquire-Zscaler-Bringing-Network-Security-and-Zero-Trust-to-the-Falcon-Platform"
+                    },
+                    {
+                        "date":  "2026-11-06",
                         "publisher":  "The Motley Fool",
-                        "url":  "https://www.fool.com/earnings/call-transcripts/2026/11/06/cloudflare-net-q3-2026-earnings-call-transcript/",
-                        "date":  "2026-11-06"
+                        "title":  "Cloudflare (NET) Q3 2026 Earnings Call Transcript",
+                        "url":  "https://www.fool.com/earnings/call-transcripts/2026/11/06/cloudflare-net-q3-2026-earnings-call-transcript/"
                     },
                     {
-                        "title":  "These Analysts Slash Their Forecasts On Cloudflare Following Q3 Results",
+                        "date":  "2026-10-27",
+                        "publisher":  "CLS Blue Sky Blog",
+                        "title":  "Wachtell Lipton Discusses Delaware Chancery Decision Reinforcing Section 144’s Protections",
+                        "url":  "https://clsbluesky.law.columbia.edu/2026/10/27/wachtell-lipton-discusses-delaware-chancery-decision-reinforcing-section-144s-protections/"
+                    },
+                    {
+                        "date":  "2026-11-10",
                         "publisher":  "Benzinga",
-                        "url":  "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/62973644/these-analysts-slash-their-forecasts-on-cloudflare-following-q3-results",
-                        "date":  "2026-11-06"
-                    },
-                    {
-                        "title":  "Cloudflare Placed in 2026 Gartner Magic Quadrant for Edge Distribution Platforms",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/technology/articles/cloudflare-placed-2026-gartner-magic-140000500.html",
-                        "date":  "2026-11-13"
-                    },
-                    {
-                        "title":  "Stock market today: Dow and S\u0026P 500 enter correction, Nasdaq sinks 5% to erase 2026 gains as AI trade melts down",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html",
-                        "date":  "2026-11-20"
-                    },
-                    {
-                        "title":  "Cloudflare Inc (NET) Stock Down 9.5% but Still Overvalued -- GF Score: 73/100",
-                        "publisher":  "GuruFocus",
-                        "url":  "https://www.gurufocus.com/news/9213422/cloudflare-inc-net-stock-down-95-but-still-overvalued-gf-score-73100",
-                        "date":  "2026-11-20"
-                    },
-                    {
-                        "title":  "Cloudflare, Inc. - News",
-                        "publisher":  "Cloudflare Investor Relations",
-                        "url":  "https://www.cloudflare.net/news/default.aspx"
+                        "title":  "Cloudflare (NET) Analyst Ratings \u0026 Price Targets",
+                        "url":  "https://www.benzinga.com/quote/NET/analyst-ratings"
                     }
                 ]
 }

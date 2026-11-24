@@ -4,81 +4,31 @@
     "model":  "gemini-4-neon-high",
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T05:25:23Z",
+    "generatedAt":  "2026-11-24T03:23:04Z",
     "period":  [
-                   "2026-11-09",
-                   "2026-11-23"
+                   "2026-11-10",
+                   "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "Power and physical infrastructure demand stayed red-hot over the past two weeks, anchored by NVIDIA\u0027s $115.8 billion quarter, the IEA\u0027s forecast of data-center power use doubling to 1,000 TWh by 2030, and 181 GW of proposed on-site gas projects tracked by BloombergNEF. Strong execution showed up across the layer as Constellation Energy and Forgent Power Solutions beat earnings and raised guidance, Vertiv hiked its dividend 60%, and GE Vernova expanded U.S. transformer capacity. On the policy front, Texas ended its data-center permitting pause while PJM proposed faster 12-month grid hookups paired with stricter deposit and ride-through rules.",
-                  "th":  "ความต้องการพลังงานและโครงสร้างพื้นฐานทางกายภาพสำหรับ AI ยังคงร้อนแรงตลอดสองสัปดาห์ที่ผ่านมา โดยได้แรงหนุนจากรายได้ไตรมาส 3 ของ NVIDIA ที่พุ่งแตะ $115.8 พันล้าน, คาดการณ์ของ IEA ว่าการใช้ไฟฟ้าดาต้าเซ็นเตอร์จะเพิ่มเป็นสองเท่าแตะ 1,000 TWh ภายในปี 2030 และรายงานของ BloombergNEF ที่พบโครงการโรงไฟฟ้าก๊าซหน้างาน (BYOP) สูงถึง 181 GW ด้านผลประกอบการและการลงทุนยังแข็งแกร่ง โดย Constellation Energy และ Forgent Power Solutions รายงานกำไรดีกว่าคาดพร้อมปรับเพิ่มคาดการณ์ทั้งปี ขณะที่ Vertiv เพิ่มเงินปันผล 60% และ GE Vernova ขยายโรงงานหม้อแปลงในสหรัฐฯ ส่วนฝั่งนโยบาย รัฐเท็กซัสกลับมาพิจารณาใบอนุญาตดาต้าเซ็นเตอร์อีกครั้ง ขณะที่ PJM เสนอเร่งกระบวนการเชื่อมสายส่งให้เหลือ 12 เดือนควบคู่กับเกณฑ์เงินวางประกันและมาตรฐานความเสถียรที่เข้มงวดขึ้น"
+                  "en":  "Power and physical infrastructure demand received strong long-term validation as the IEA forecast data center electricity use doubling to 1,000 TWh by 2030 and NVIDIA posted $107.6 billion in quarterly data center revenue amid the Vera Rubin ramp. At the same time, PJM\u0027s FERC filings for faster 12-month interconnection studies and mandatory fault ride-through rules, alongside SoftBank\u0027s cancellation of over 13 GW in reserved U.S. power equipment, underscored real grid bottlenecks and execution scrutiny. Equipment and power-chip suppliers stayed on offense—led by Forgent Power\u0027s guidance raise, Vertiv\u0027s 800 VDC and ATLAS Lab launches, Schneider Electric\u0027s Vera Rubin blueprint, and onsemi\u0027s EliteSiC M4 debut—even as cautious broker calls reflected heightened valuation sensitivity.",
+                  "th":  "ความต้องการด้านพลังงานและโครงสร้างพื้นฐานทางกายภาพได้รับการยืนยันในระยะยาว หลัง IEA คาดการณ์ว่าการใช้ไฟฟ้าของดาต้าเซ็นเตอร์จะเพิ่มขึ้นเท่าตัวเป็น 1,000 TWh ภายในปี 2030 และ NVIDIA รายงานรายได้กลุ่มดาต้าเซ็นเตอร์ไตรมาสล่าสุดแตะ 107.6 พันล้านดอลลาร์สหรัฐฯ พร้อมการเดินเครื่องแพลตฟอร์ม Vera Rubin ขณะเดียวกัน การที่ PJM ยื่นข้อเสนอต่อ FERC เพื่อเร่งการศึกษาการเชื่อมต่อกริดเหลือ 12 เดือนควบคู่กับมาตรฐานเสถียรภาพระบบไฟที่เข้มงวดขึ้น รวมถึงการที่ SoftBank ยกเลิกการจองอุปกรณ์ผลิตไฟฟ้าในสหรัฐฯ กว่า 13 GW สะท้อนข้อจำกัดด้านกริดและความระมัดระวังในการประเมินคำสั่งซื้อ ฝั่งผู้ผลิตอุปกรณ์และชิปพลังงานยังคงเดินหน้าขยายตลาด ทั้ง Forgent Power ที่ปรับเพิ่มคาดการณ์รายได้ Vertiv ที่เปิดตัวระบบ 800 VDC และ ATLAS Lab Schneider Electric กับพิมพ์เขียว Vera Rubin และ onsemi ที่เปิดตัว EliteSiC M4 แม้บทวิเคราะห์บางแห่งจะเริ่มระมัดระวังด้านมูลค่าหุ้นมากขึ้นก็ตาม"
               },
     "themes":  {
                    "en":  [
-                              "AI Power Demand Surge",
-                              "Grid Bottlenecks \u0026 BYOP",
-                              "Data-Center Grid Regulation",
-                              "High-Density Power \u0026 Cooling"
+                              "Data center power surge",
+                              "Grid interconnection \u0026 rules",
+                              "800V DC \u0026 liquid cooling",
+                              "Order \u0026 valuation scrutiny"
                           ],
                    "th":  [
-                              "ดีมานด์ไฟฟ้า AI พุ่งแรง",
-                              "คอขวดสายส่งและโรงไฟฟ้าหน้างาน",
-                              "กฎระเบียบสายส่งสำหรับดาต้าเซ็นเตอร์",
-                              "ระบบไฟและหล่อเย็นความหนาแน่นสูง"
+                              "ความต้องการไฟฟ้าดาต้าเซ็นเตอร์พุ่งสูง",
+                              "กฎระเบียบและการเชื่อมต่อกริด",
+                              "ระบบไฟ 800V DC และหล่อเย็นด้วยของเหลว",
+                              "ความระมัดระวังต่อคำสั่งซื้อและมูลค่าหุ้น"
                           ]
                },
     "items":  [
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "NVIDIA",
-                      "tickers":  [
-                                      "MPWR",
-                                      "ON",
-                                      "NVTS",
-                                      "VRT",
-                                      "ETN",
-                                      "SU",
-                                      "FPS"
-                                  ],
-                      "title_en":  "NVIDIA Q3 revenue doubles to $115.8B as Vera Rubin AI racks ramp",
-                      "title_th":  "รายได้ Q3 ของ NVIDIA พุ่งเท่าตัวแตะ $115.8 พันล้าน รับแรงส่งแร็ก AI รุ่น Vera Rubin",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-                      "why_en":  "Data-center revenue of $107.6 billion and Q4 guidance of about $130 billion confirm sustained hyperscaler capex, driving direct demand for higher-density rack power, liquid cooling, and power chips.",
-                      "why_th":  "รายได้กลุ่มดาต้าเซ็นเตอร์ที่ $107.6 พันล้านและคาดการณ์ Q4 ราว $130 พันล้านตอกย้ำงบลงทุน AI ของกลุ่ม hyperscaler ที่ยังเดินหน้าต่อเนื่อง หนุนความต้องการระบบจ่ายไฟความหนาแน่นสูง ระบบหล่อเย็นด้วยของเหลว และชิปจัดการพลังงานโดยตรง"
-                  },
-                  {
-                      "date":  "2026-11-09",
-                      "impact":  "positive",
-                      "publisher":  "Business Wire",
-                      "tickers":  [
-                                      "CEG"
-                                  ],
-                      "title_en":  "Constellation Energy beats Q3 estimates, raises 2026 guidance and buys gas plant",
-                      "title_th":  "Constellation Energy งบ Q3 ดีกว่าคาด ปรับเพิ่มคาดการณ์ปี 2026 พร้อมซื้อโรงไฟฟ้าก๊าซ",
-                      "url":  "https://www.businesswire.com/news/home/20261108197880/en/Constellation-Reports-Third-Quarter-2026-Results",
-                      "why_en":  "Adjusted EPS of $5.06 lifted full-year guidance to $12.50–$12.80, while the $715 million Rhode Island gas plant acquisition and 270 MW Peak+ deal expand firm capacity for AI data centers.",
-                      "why_th":  "กำไรต่อหุ้นปรับปรุงที่ $5.06 หนุนให้บริษัทปรับเพิ่มกรอบคาดการณ์ทั้งปีเป็น $12.50–$12.80 ขณะที่ดีลซื้อโรงไฟฟ้าก๊าซใน Rhode Island มูลค่า $715 ล้านและสัญญา Peak+ ขนาด 270 MW ช่วยเพิ่มกำลังผลิตไฟฟ้าเสถียรสำหรับดาต้าเซ็นเตอร์ AI"
-                  },
-                  {
-                      "date":  "2026-11-16",
-                      "impact":  "mixed",
-                      "publisher":  "PJM Inside Lines",
-                      "tickers":  [
-                                      "CEG",
-                                      "VST",
-                                      "ETN",
-                                      "SU",
-                                      "FPS",
-                                      "VRT"
-                                  ],
-                      "title_en":  "PJM proposes 12-month Fast Energization and ride-through rules for large data centers",
-                      "title_th":  "PJM เสนอเกณฑ์ Fast Energization เหลือ 12 เดือน พร้อมบังคับมาตรฐาน ride-through สำหรับดาต้าเซ็นเตอร์ขนาดใหญ่",
-                      "url":  "https://insidelines.pjm.com/pjm-plan-would-cut-interconnection-process-time-in-half/",
-                      "why_en":  "Halving interconnection studies to 12 months accelerates grid hookups for PJM power generators and electrical suppliers, but stricter upfront deposits and ride-through mandates for 50 MW+ sites add compliance hurdles.",
-                      "why_th":  "การย่นเวลาศึกษาเชื่อมสายส่งลงครึ่งหนึ่งเหลือ 12 เดือนช่วยให้โรงไฟฟ้าและผู้ผลิตอุปกรณ์ไฟฟ้าในเขต PJM เร่งรับรู้ดีมานด์ได้เร็วขึ้น แต่เกณฑ์วางเงินประกันที่เข้มงวดและข้อบังคับ ride-through สำหรับไซต์ 50 MW ขึ้นไปเพิ่มภาระการปฏิบัติตามกฎระเบียบในระยะสั้น"
-                  },
                   {
                       "date":  "2026-11-19",
                       "impact":  "positive",
@@ -92,11 +42,65 @@
                                       "FPS",
                                       "VRT"
                                   ],
-                      "title_en":  "IEA projects global data-center electricity use doubling to 1,000 TWh by 2030",
+                      "title_en":  "IEA projects data center electricity demand doubling to 1,000 TWh by 2030",
                       "title_th":  "IEA คาดการใช้ไฟฟ้าดาต้าเซ็นเตอร์ทั่วโลกพุ่งเท่าตัวแตะ 1,000 TWh ภายในปี 2030",
                       "url":  "https://www.iea.org/reports/world-energy-outlook-2026",
-                      "why_en":  "With AI driving roughly three-quarters of the surge, the World Energy Outlook underpins multi-year demand across nuclear and gas power generation, grid gear, switchgear, and thermal systems.",
-                      "why_th":  "โดย AI เป็นแรงขับเคลื่อนราวสามในสี่ของการเติบโต รายงาน World Energy Outlook จึงตอกย้ำดีมานด์ระยะยาวตลอดทั้งชั้น ทั้งโรงไฟฟ้านิวเคลียร์และก๊าซ อุปกรณ์โครงข่ายไฟฟ้า สวิตช์เกียร์ และระบบระบายความร้อน"
+                      "why_en":  "The report cites 180 GW of planned U.S. gas capacity and $4 trillion in projected data center energy investments through 2030, reinforcing multi-year demand across power generators, turbine makers, and electrical equipment suppliers.",
+                      "why_th":  "รายงานระบุว่ามีแผนสร้างโรงไฟฟ้าก๊าซในสหรัฐฯ เพื่อรองรับดาต้าเซ็นเตอร์ราว 180 GW และเม็ดเงินลงทุนโครงสร้างพื้นฐานพลังงานรวม 4 ล้านล้านดอลลาร์ฯ ถึงปี 2030 ซึ่งช่วยหนุนอุปสงค์ระยะยาวทั้งฝั่งผู้ผลิตไฟฟ้า กังหันก๊าซ และอุปกรณ์จ่ายไฟ"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "mixed",
+                      "publisher":  "PJM Interconnection",
+                      "tickers":  [
+                                      "CEG",
+                                      "VST",
+                                      "GEV",
+                                      "ETN",
+                                      "SU",
+                                      "FPS",
+                                      "VRT"
+                                  ],
+                      "title_en":  "PJM files FERC plan to halve interconnection studies and tighten data center rules",
+                      "title_th":  "PJM ยื่นแผนต่อ FERC ลดเวลาศึกษาเชื่อมต่อกริดลงครึ่งหนึ่งพร้อมคุมเข้มดาต้าเซ็นเตอร์",
+                      "url":  "https://insidelines.pjm.com/pjm-plan-would-cut-interconnection-process-time-in-half/",
+                      "why_en":  "Cutting interconnection study timelines from two years to 12 months could speed grid hookups for generators and equipment vendors, while mandatory fault ride-through rules for loads of 50 MW or more raise compliance and power-conditioning requirements.",
+                      "why_th":  "การย่นระยะเวลาศึกษาการเชื่อมต่อกริดจาก 2 ปีเหลือ 12 เดือนช่วยปลดล็อกกำลังผลิตและอุปกรณ์เข้าสู่ระบบได้เร็วขึ้น แต่เกณฑ์บังคับให้โหลดตั้งแต่ 50 MW ขึ้นไปต้องทนแรงดันไฟตกได้โดยไม่ตัดออกจากระบบจะเพิ่มต้นทุนและมาตรฐานอุปกรณ์ปรับคุณภาพไฟฟ้า"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "NVIDIA",
+                      "tickers":  [
+                                      "CEG",
+                                      "VST",
+                                      "GEV",
+                                      "ETN",
+                                      "SU",
+                                      "FPS",
+                                      "MPWR",
+                                      "ON",
+                                      "NVTS",
+                                      "VRT"
+                                  ],
+                      "title_en":  "NVIDIA Q3 data center revenue jumps 110% to $107.6 billion as Rubin ramps",
+                      "title_th":  "รายได้ดาต้าเซ็นเตอร์ NVIDIA ไตรมาส 3 พุ่ง 110% แตะ 107.6 พันล้านดอลลาร์ฯ รับแรงส่ง Vera Rubin",
+                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+                      "why_en":  "Total quarterly revenue of $115.8 billion and the rapid Vera Rubin rollout confirm sustained hyperscaler AI infrastructure buildouts, supporting demand from grid power down to 800-volt power chips and liquid cooling.",
+                      "why_th":  "รายได้รวมไตรมาสละ 115.8 พันล้านดอลลาร์ฯ และการเร่งส่งมอบแพลตฟอร์ม Vera Rubin ยืนยันว่าการลงทุนโครงสร้างพื้นฐาน AI ของกลุ่ม hyperscaler ยังเดินหน้าเต็มกำลัง หนุนความต้องการตั้งแต่ไฟฟ้าต้นน้ำไปจนถึงชิปจ่ายไฟ 800 โวลต์และระบบระบายความร้อนด้วยของเหลว"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "impact":  "mixed",
+                      "publisher":  "Tom\u0027s Hardware",
+                      "tickers":  [
+                                      "GEV"
+                                  ],
+                      "title_en":  "SoftBank takes $3.73 billion charge after canceling over 13 GW of power equipment",
+                      "title_th":  "SoftBank บันทึกขาดทุน 3.73 พันล้านดอลลาร์ฯ หลังยกเลิกการจองอุปกรณ์ไฟฟ้ากว่า 13 GW",
+                      "url":  "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-loses-37-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
+                      "why_en":  "The restructuring of SoftBank\u0027s U.S. data center turbine reservations sparked demand concerns around GE Vernova, though forfeited deposits and tight gas turbine supply left GEV\u0027s broader backlog intact.",
+                      "why_th":  "การปรับแผนและยกเลิกสิทธิ์จองกังหันก๊าซสำหรับดาต้าเซ็นเตอร์สหรัฐฯ ของ SoftBank สร้างความกังวลต่อทิศทางคำสั่งซื้อของ GE Vernova ในระยะสั้น แม้เงินมัดจำที่ไม่คืนและภาวะกังหันก๊าซตึงตัวจะทำให้แบ็กล็อกรวมของ GEV ยังไม่ได้รับผลกระทบโดยตรงก็ตาม"
                   },
                   {
                       "date":  "2026-11-12",
@@ -105,140 +109,144 @@
                       "tickers":  [
                                       "FPS"
                                   ],
-                      "title_en":  "Forgent Power Solutions Q1 revenue jumps 69% to $479M; raises FY2027 guidance",
-                      "title_th":  "Forgent Power Solutions รายได้ Q1 พุ่ง 69% แตะ $479 ล้าน พร้อมปรับเพิ่มคาดการณ์ปีงบ 2027",
+                      "title_en":  "Forgent Power posts record Q1 revenue of $479 million and raises FY27 outlook",
+                      "title_th":  "Forgent Power ทำรายได้ไตรมาส 1 สูงสุดเป็นประวัติการณ์ที่ 479 ล้านดอลลาร์ฯ พร้อมปรับเพิ่มคาดการณ์ปีงบ 2027",
                       "url":  "https://www.businesswire.com/news/home/20261112850710/en/",
-                      "why_en":  "Orders nearly doubled on direct AI lab wins and management raised fiscal 2027 revenue guidance to $2.45–$2.65 billion, with backlog already covering the full year and extending into FY2028.",
-                      "why_th":  "ยอดคำสั่งซื้อเกือบเพิ่มเป็นสองเท่าจากดีลตรงกับแล็บ AI ส่งผลให้ผู้บริหารปรับเพิ่มคาดการณ์รายได้ปีงบ 2027 เป็น $2.45–$2.65 พันล้าน โดยมีแบ็กล็อกรองรับเต็มทั้งปีและยาวไปถึงปีงบ 2028 แล้ว"
-                  },
-                  {
-                      "date":  "2026-11-11",
-                      "impact":  "positive",
-                      "publisher":  "BloombergNEF",
-                      "tickers":  [
-                                      "GEV",
-                                      "ETN",
-                                      "SU",
-                                      "FPS",
-                                      "CEG",
-                                      "VST"
-                                  ],
-                      "title_en":  "BloombergNEF tracks 181 GW of proposed on-site gas power for data centers",
-                      "title_th":  "BloombergNEF พบโครงการโรงไฟฟ้าก๊าซหน้างานสำหรับดาต้าเซ็นเตอร์พุ่งแตะ 181 GW",
-                      "url":  "https://about.bnef.com/insights/data-center-power-demand-is-set-to-surge-raising-new-climate-challenges-bloombergnef/",
-                      "why_en":  "With over 90% of proposed Bring Your Own Power capacity in the U.S., developers bypassing grid queues create a huge multi-year pipeline for gas turbines, switchgear, and power-generation partners.",
-                      "why_th":  "กำลังผลิตกว่า 90% อยู่ในสหรัฐฯ สะท้อนว่าผู้พัฒนาดาต้าเซ็นเตอร์กำลังหันมาสร้างไฟฟ้าใช้เองเพื่อเลี่ยงคิวเชื่อมสายส่ง สร้างไปป์ไลน์คำสั่งซื้อระยะยาวขนาดใหญ่ให้ผู้ผลิตกังหันก๊าซ สวิตช์เกียร์ และพันธมิตรโรงไฟฟ้า"
-                  },
-                  {
-                      "date":  "2026-11-18",
-                      "impact":  "mixed",
-                      "publisher":  "GlobeNewswire",
-                      "tickers":  [
-                                      "ON"
-                                  ],
-                      "title_en":  "Synaptics stockholders approve $5.7B all-cash acquisition by onsemi",
-                      "title_th":  "ผู้ถือหุ้น Synaptics อนุมัติดีลขายกิจการเงินสด $5.7 พันล้านให้ onsemi",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/18/3389430/0/en/Synaptics-Stockholders-Approve-Merger-with-onsemi.html",
-                      "why_en":  "Approval by 98.34% of votes cast clears a key hurdle toward a mid-2027 close to pair onsemi\u0027s power chips with Synaptics\u0027 edge AI compute, though the $5.7 billion cash outlay adds integration risk.",
-                      "why_th":  "เสียงเห็นชอบถึง 98.34% ช่วยปลดล็อกด่านสำคัญสู่การปิดดีลกลางปี 2027 เพื่อผสานชิปพลังงานของ onsemi เข้ากับชิปประมวลผล edge AI ของ Synaptics แม้การใช้เงินสด $5.7 พันล้านจะเพิ่มความเสี่ยงด้านงบดุลและการควบรวมก็ตาม"
+                      "why_en":  "Revenue surged 69% year-on-year and full-year guidance rose to $2.45–$2.65 billion—fully covered by backlog—even as Q1 gross margin temporarily dipped to 33.1% ahead of a production ramp.",
+                      "why_th":  "รายได้โตถึง 69% จากปีก่อนและบริษัทปรับเป้าทั้งปีขึ้นเป็น 2.45–2.65 พันล้านดอลลาร์ฯ โดยมีแบ็กล็อกรองรับครบ 100% แม้ว่าอัตรากำไรขั้นต้นไตรมาสแรกจะอ่อนตัวลงชั่วคราวมาอยู่ที่ 33.1% จากต้นทุนเตรียมขยายกำลังการผลิต"
                   },
                   {
                       "date":  "2026-11-17",
                       "impact":  "positive",
-                      "publisher":  "The Texas Tribune",
+                      "publisher":  "Vertiv",
                       "tickers":  [
-                                      "VST",
-                                      "CEG",
-                                      "GEV",
-                                      "ETN",
-                                      "FPS",
                                       "VRT"
                                   ],
-                      "title_en":  "Texas resumes data-center environmental permit reviews after three-month pause",
-                      "title_th":  "รัฐเท็กซัสกลับมาพิจารณาใบอนุญาตสิ่งแวดล้อมดาต้าเซ็นเตอร์หลังระงับนาน 3 เดือน",
-                      "url":  "https://www.texastribune.org/2026/11/17/texas-tceq-data-center-environmental-permits/",
-                      "why_en":  "Lifting the permitting freeze begun in August–September clears a key bottleneck for ERCOT-area AI builds, supporting power demand for Texas-heavy generator Vistra and data-center electrical and cooling vendors.",
-                      "why_th":  "การยกเลิกคำสั่งชะลอใบอนุญาตที่เริ่มตั้งแต่เดือนสิงหาคม–กันยายนช่วยคลายคอขวดการสร้างศูนย์ข้อมูล AI ในโครงข่าย ERCOT เป็นบวกต่อความต้องการไฟฟ้าของผู้ผลิตที่มีฐานใหญ่ในเท็กซัสอย่าง Vistra รวมถึงผู้ขายอุปกรณ์ไฟฟ้าและระบบหล่อเย็น"
+                      "title_en":  "Vertiv expands 800 VDC power portfolio across rack, compute pod, and data hall",
+                      "title_th":  "Vertiv ขยายชุดระบบไฟฟ้า 800 VDC ครอบคลุมระดับแร็ค พอดประมวลผล และโถงดาต้าเซ็นเตอร์",
+                      "url":  "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-advances-800-vdc-power-architectures-to-support-growing-ai-data-center-demands/",
+                      "why_en":  "Broadening high-voltage direct-current power systems across all three facility tiers positions Vertiv to capture higher power content per megawatt as next-generation AI racks outgrow traditional AC distribution.",
+                      "why_th":  "การขยายโซลูชันไฟฟ้ากระแสตรงแรงดันสูง 800 VDC ครบทั้งสามระดับโครงสร้างช่วยให้ Vertiv มีโอกาสคว้ามูลค่าอุปกรณ์ต่อเมกะวัตต์สูงขึ้นเมื่อแร็ค AI รุ่นใหม่มีความหนาแน่นพลังงานเกินขีดจำกัดของระบบไฟฟ้ากระแสสลับแบบเดิม"
                   },
                   {
-                      "date":  "2026-11-13",
+                      "date":  "2026-11-16",
+                      "impact":  "positive",
+                      "publisher":  "Vertiv",
+                      "tickers":  [
+                                      "VRT"
+                                  ],
+                      "title_en":  "Vertiv launches ATLAS Lab with NVIDIA to validate AI factory infrastructure pre-silicon",
+                      "title_th":  "Vertiv เปิดตัว ATLAS Lab ร่วมกับ NVIDIA เพื่อทดสอบระบบไฟฟ้าและทำความเย็นก่อนชิปวางจำหน่าย",
+                      "url":  "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-atlas-proves-ai-infrastructure-ahead-of-silicon/",
+                      "why_en":  "Co-testing power, liquid cooling, and controls on NVIDIA\u0027s DSX platform ahead of chip launches deepens Vertiv\u0027s design-in advantage with hyperscalers and shortens deployment lead times.",
+                      "why_th":  "การทดสอบระบบจ่ายไฟ ระบบหล่อเย็นด้วยของเหลว และระบบควบคุมร่วมกับแพลตฟอร์ม NVIDIA DSX ล่วงหน้าก่อนชิปออกสู่ตลาดช่วยเสริมความได้เปรียบด้านการออกแบบร่วมกับลูกค้า hyperscaler และลดระยะเวลาติดตั้งจริง"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "positive",
+                      "publisher":  "GIGABYTE",
+                      "tickers":  [
+                                      "SU"
+                                  ],
+                      "title_en":  "Schneider Electric and Giga Computing unveil Vera Rubin NVL72 AI factory blueprint",
+                      "title_th":  "Schneider Electric ผนึก Giga Computing เปิดพิมพ์เขียว AI Factory สำหรับ NVIDIA Vera Rubin NVL72",
+                      "url":  "https://www.gigabyte.com/Press/News/2471",
+                      "why_en":  "Integrating Schneider Electric\u0027s power distribution and hybrid liquid cooling directly into GIGABYTE\u0027s next-generation NVIDIA compute architecture strengthens its pipeline for high-density AI deployments.",
+                      "why_th":  "การผสานระบบจ่ายไฟและระบบหล่อเย็นแบบไฮบริดของ Schneider Electric เข้ากับสถาปัตยกรรมประมวลผล NVIDIA รุ่นใหม่ของ GIGABYTE ช่วยเพิ่มโอกาสในการรับงานสร้างดาต้าเซ็นเตอร์ AI ความหนาแน่นสูง"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "impact":  "positive",
+                      "publisher":  "GlobeNewswire",
+                      "tickers":  [
+                                      "ON"
+                                  ],
+                      "title_en":  "onsemi launches fourth-generation EliteSiC M4 silicon carbide power platform",
+                      "title_th":  "onsemi เปิดตัวแพลตฟอร์มซิลิคอนคาร์ไบด์รุ่นที่ 4 EliteSiC M4 สำหรับดาต้าเซ็นเตอร์และพลังงาน",
+                      "url":  "https://www.globenewswire.com/news-release/2026/11/10/3190886/0/en/onsemi-s-EliteSiC-M4-Pushes-Power-Density-Higher-as-Energy-Demands-Grow.html",
+                      "why_en":  "Delivering up to 30% higher power density and 35% lower energy losses for AI data centers and EVs strengthens onsemi\u0027s competitiveness, with 750V bare die shipping now and 1200V slated for 2027.",
+                      "why_th":  "ชิปรุ่นใหม่ให้กำลังไฟฟ้าหนาแน่นขึ้นสูงสุด 30% และลดการสูญเสียพลังงานลง 35% สำหรับดาต้าเซ็นเตอร์ AI และรถยนต์ไฟฟ้า โดยเริ่มส่งมอบรุ่น 750V ทันทีและเตรียมออกรุ่น 1200V ในปี 2027 ช่วยยกระดับขีดความสามารถในการแข่งขันของ onsemi"
+                  },
+                  {
+                      "date":  "2026-11-19",
                       "impact":  "positive",
                       "publisher":  "PR Newswire",
                       "tickers":  [
                                       "VRT"
                                   ],
-                      "title_en":  "Vertiv raises annual dividend 60% to $0.40 per share",
-                      "title_th":  "Vertiv ประกาศปรับขึ้นเงินปันผลรายปี 60% เป็น $0.40 ต่อหุ้น",
-                      "url":  "https://www.prnewswire.com/news-releases/vertiv-declares-quarterly-dividend-302938565.html",
-                      "why_en":  "Raising the quarterly payout to $0.10 per share signals management\u0027s confidence in durable free cash flow from strong hyperscaler orders for AI power and thermal infrastructure.",
-                      "why_th":  "การเพิ่มเงินปันผลรายไตรมาสเป็น $0.10 ต่อหุ้นสะท้อนความมั่นใจของผู้บริหารต่อกระแสเงินสดอิสระที่แข็งแกร่งจากคำสั่งซื้อระบบไฟฟ้าและระบบระบายความร้อน AI ของกลุ่ม hyperscaler"
-                  },
-                  {
-                      "date":  "2026-11-19",
-                      "impact":  "positive",
-                      "publisher":  "Solenis",
-                      "tickers":  [
-                                      "VRT"
-                                  ],
-                      "title_en":  "Vertiv partners with Solenis on integrated liquid-cooling fluid management for AI sites",
-                      "title_th":  "Vertiv จับมือ Solenis พัฒนาระบบบริหารของเหลวครบวงจรสำหรับหล่อเย็นดาต้าเซ็นเตอร์ AI",
-                      "url":  "https://www.solenis.com/en/resources/news-releases/2026/solenis-and-vertiv-partner-to-advance-liquid-cooling-management-for-ai-data-centers/",
-                      "why_en":  "Combining Vertiv\u0027s cooling hardware and Next Predict analytics across 130+ countries with Solenis\u0027s fluid chemistry strengthens Vertiv\u0027s recurring service moat as AI racks shift to direct-to-chip liquid cooling.",
-                      "why_th":  "การผสานฮาร์ดแวร์หล่อเย็นและระบบวิเคราะห์ Next Predict ของ Vertiv ในกว่า 130 ประเทศเข้ากับเคมีบำบัดของเหลวของ Solenis ช่วยเสริมจุดแข็งด้านบริการประจำท่ามกลางการเปลี่ยนผ่านสู่ระบบ direct-to-chip liquid cooling ของแร็ก AI"
-                  },
-                  {
-                      "date":  "2026-11-10",
-                      "impact":  "positive",
-                      "publisher":  "GE Vernova",
-                      "tickers":  [
-                                      "GEV"
-                                  ],
-                      "title_en":  "GE Vernova invests $34.5M to expand Louisiana transformer plant for grid demand",
-                      "title_th":  "GE Vernova ลงทุน $34.5 ล้านขยายโรงงานหม้อแปลงในลุยเซียนา รองรับดีมานด์สายส่ง",
-                      "url":  "https://www.gevernova.com/news/press-releases/ge-vernova-invest-345-million-shreveport-facility-expansion-meet-growing-grid",
-                      "why_en":  "Adding 175 jobs—a nearly 30% workforce increase—toward full capacity by 2028 eases U.S. transformer bottlenecks and extends GE Vernova\u0027s nearly $1.3 billion U.S. manufacturing investment push.",
-                      "why_th":  "การเพิ่มพนักงาน 175 ตำแหน่ง (เกือบ 30%) เพื่อเดินเครื่องเต็มกำลังในปี 2028 ช่วยบรรเทาคอขวดหม้อแปลงไฟฟ้าในสหรัฐฯ และเป็นส่วนหนึ่งของแผนลงทุนภาคการผลิตในสหรัฐฯ มูลค่าเกือบ $1.3 พันล้านของ GE Vernova"
-                  },
-                  {
-                      "date":  "2026-11-10",
-                      "impact":  "positive",
-                      "publisher":  "GlobeNewswire",
-                      "tickers":  [
-                                      "ON"
-                                  ],
-                      "title_en":  "onsemi launches EliteSiC M4 platform with up to 30% higher power density",
-                      "title_th":  "onsemi เปิดตัวแพลตฟอร์มซิลิคอนคาร์ไบด์ EliteSiC M4 เพิ่มความหนาแน่นพลังงานสูงสุด 30%",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/10/3091176/0/en/onsemi-s-EliteSiC-M4-Pushes-Power-Density-Higher-As-Energy-Demands-Grow.html",
-                      "why_en":  "The fourth-generation trench SiC platform cuts power losses by up to 35% with 1200 V options starting in 2027, strengthening onsemi\u0027s competitiveness in high-voltage AI data-center power conversion.",
-                      "why_th":  "แพลตฟอร์ม SiC แบบ trench รุ่นที่ 4 ช่วยลดการสูญเสียพลังงานได้สูงสุด 35% และจะทยอยเปิดตัวรุ่นแรงดันสูงถึง 1200 V ตั้งแต่ปี 2027 เสริมศักยภาพการแข่งขันของ onsemi ในระบบแปลงไฟแรงดันสูงของดาต้าเซ็นเตอร์ AI"
-                  },
-                  {
-                      "date":  "2026-11-19",
-                      "impact":  "negative",
-                      "publisher":  "StreetInsider",
-                      "tickers":  [
-                                      "SU",
-                                      "ETN",
-                                      "VRT"
-                                  ],
-                      "title_en":  "Schneider Electric warns high European power costs risk pushing AI investment away",
-                      "title_th":  "Schneider Electric เตือนค่าไฟยุโรปแพงและสายส่งไม่พอเสี่ยงผลักงบลงทุน AI ไหลออกนอกภูมิภาค",
-                      "url":  "https://www.streetinsider.com/Reuters/Schneider+Electric+warns+high+power+costs+could+push+AI+investment+out+of+Europe/23971203.html",
-                      "why_en":  "Chief Digital Officer Peter Weckesser told Reuters that expensive power, underinvested grids, and fragmented rules threaten to divert European AI data-center buildouts toward the U.S. and Middle East.",
-                      "why_th":  "Peter Weckesser ประธานเจ้าหน้าที่ฝ่ายดิจิทัลให้สัมภาษณ์ Reuters ว่าค่าไฟที่สูง การลงทุนโครงข่ายสายส่งที่ล่าช้า และกฎระเบียบที่กระจัดกระจายเสี่ยงทำให้โครงการดาต้าเซ็นเตอร์ AI ในยุโรปย้ายไปสหรัฐฯ และตะวันออกกลางแทน"
+                      "title_en":  "Vertiv partners with Solenis on AI data center liquid cooling fluid management",
+                      "title_th":  "Vertiv จับมือ Solenis พัฒนาการจัดการของเหลวในระบบระบายความร้อนดาต้าเซ็นเตอร์ AI",
+                      "url":  "https://www.prnewswire.com/news-releases/solenis-and-vertiv-partner-to-advance-liquid-cooling-management-for-ai-data-centers-302945426.html",
+                      "why_en":  "Combining Vertiv\u0027s thermal hardware with Solenis\u0027 water-chemistry services addresses coolant reliability risks in high-density liquid-cooled clusters and supports recurring lifecycle service revenue.",
+                      "why_th":  "การผสานอุปกรณ์ระบายความร้อนของ Vertiv เข้ากับความเชี่ยวชาญด้านเคมีบำบัดน้ำของ Solenis ช่วยลดความเสี่ยงด้านเสถียรภาพของระบบหล่อเย็นในคลัสเตอร์ AI ความหนาแน่นสูงและต่อยอดรายได้บริการระยะยาว"
                   },
                   {
                       "date":  "2026-11-12",
                       "impact":  "mixed",
-                      "publisher":  "GlobeNewswire",
+                      "publisher":  "Navitas Semiconductor",
                       "tickers":  [
                                       "NVTS"
                                   ],
-                      "title_en":  "Navitas files second GaN patent infringement lawsuit against Renesas Electronics",
-                      "title_th":  "Navitas ยื่นฟ้องละเมิดสิทธิบัตรชิป GaN รอบสองต่อ Renesas Electronics",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/12/3091016/0/en/Navitas-Files-Patent-Infringement-Lawsuit-Against-Newly-Announced-Renesas-GaN-Products.html",
-                      "why_en":  "Asserting six patents over Renesas\u0027s new 650 V and 100 V GaN transistors defends Navitas\u0027s core IP in data-center power chips, while underscoring rising GaN competition and legal costs.",
-                      "why_th":  "การฟ้องละเมิด 6 สิทธิบัตรต่อทรานซิสเตอร์ GaN รุ่นใหม่ขนาด 650 V และ 100 V ของ Renesas ช่วยปกป้องทรัพย์สินทางปัญญาหลักของ Navitas ในตลาดชิปพลังงานดาต้าเซ็นเตอร์ แต่ก็สะท้อนการแข่งขันและค่าใช้จ่ายด้านคดีที่เพิ่มขึ้น"
+                      "title_en":  "Navitas files second GaN patent infringement lawsuit against Renesas in Texas",
+                      "title_th":  "Navitas ยื่นฟ้อง Renesas คดีละเมิดสิทธิบัตรชิป GaN เป็นคดีที่สองในรัฐเท็กซัส",
+                      "url":  "https://navitassemi.com/navitas-files-patent-infringement-lawsuit-against-newly-announced-renesas-gan-products/",
+                      "why_en":  "Asserting six counts against Renesas\u0027 newly launched 650V SuperGaN and 100V REXGaN chips defends Navitas\u0027 core GaN intellectual property moat, though escalating dual-front litigation adds legal expense and uncertainty.",
+                      "why_th":  "การยื่นฟ้องเพิ่ม 6 ข้อกล่าวหาต่อชิป 650V SuperGaN และ 100V REXGaN รุ่นใหม่ของ Renesas ช่วยปกป้องสิทธิบัตรหลักด้าน GaN ของ Navitas แต่ข้อพิพาททางกฎหมายที่ยืดเยื้อหลายคดีก็เพิ่มภาระค่าใช้จ่ายและความไม่แน่นอนทางธุรกิจ"
+                  },
+                  {
+                      "date":  "2026-11-23",
+                      "impact":  "negative",
+                      "publisher":  "TipRanks",
+                      "tickers":  [
+                                      "VRT"
+                                  ],
+                      "title_en":  "Baird downgrades Vertiv to Neutral and lowers price target to $200",
+                      "title_th":  "Baird ปรับลดคำแนะนำหุ้น Vertiv เป็น Neutral พร้อมหั่นราคาเป้าหมายเหลือ 200 ดอลลาร์ฯ",
+                      "url":  "https://www.tipranks.com/news/the-fly/vertiv-downgraded-to-neutral-from-outperform-at-baird",
+                      "why_en":  "Cutting the target from $320 reflects rising investor concern over Vertiv\u0027s heavy concentration in AI data center sentiment despite strong near-term order trends.",
+                      "why_th":  "การลดราคาเป้าหมายจาก 320 ดอลลาร์ฯ สะท้อนความกังวลของตลาดต่อการพึ่งพากระแสลงทุนดาต้าเซ็นเตอร์ AI ในสัดส่วนที่สูงมากของ Vertiv แม้ยอดคำสั่งซื้อระยะสั้นจะยังคงแข็งแกร่งก็ตาม"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "positive",
+                      "publisher":  "Investing.com",
+                      "tickers":  [
+                                      "CEG"
+                                  ],
+                      "title_en":  "BMO raises Constellation Energy target to $335 on nuclear contracting outlook",
+                      "title_th":  "BMO ปรับเพิ่มราคาเป้าหมาย Constellation Energy เป็น 335 ดอลลาร์ฯ รับแนวโน้มสัญญาไฟฟ้านิวเคลียร์",
+                      "url":  "https://www.investing.com/news/stock-market-news/bmo-raises-constellation-energy-stock-price-target-on-contracting-outlook-4325492",
+                      "why_en":  "The target increase from $316—followed by Barclays lifting its target to $371 on November 19—highlights analyst confidence in CEG\u0027s long-term data center power agreements and earnings visibility.",
+                      "why_th":  "การขยับเป้าหมายขึ้นจาก 316 ดอลลาร์ฯ ตามด้วยการที่ Barclays ปรับเพิ่มเป็น 371 ดอลลาร์ฯ ในวันที่ 19 พฤศจิกายน สะท้อนความเชื่อมั่นของนักวิเคราะห์ต่อสัญญาขายไฟฟ้าระยะยาวให้ดาต้าเซ็นเตอร์และความชัดเจนของกำไร CEG"
+                  },
+                  {
+                      "date":  "2026-11-11",
+                      "impact":  "mixed",
+                      "publisher":  "GuruFocus",
+                      "tickers":  [
+                                      "ETN"
+                                  ],
+                      "title_en":  "JPMorgan reinstates Eaton at Neutral with $395 target amid industrial caution",
+                      "title_th":  "JPMorgan กลับมาจัดอันดับ Eaton ที่ Neutral เป้าหมาย 395 ดอลลาร์ฯ ท่ามกลางมุมมองระมัดระวังต่อกลุ่มอุตสาหกรรม",
+                      "url":  "https://www.gurufocus.com/news/2984535/etn-reinstated-by-jp-morgan--price-target-announced-at-395",
+                      "why_en":  "While JPMorgan raised its prior $350 valuation mark on Eaton\u0027s data center and grid backlog, the Neutral stance underscores mounting valuation caution across AI-linked electrical equipment peers.",
+                      "why_th":  "แม้ JPMorgan จะปรับกรอบประเมินมูลค่าขึ้นจากเดิม 350 ดอลลาร์ฯ ตามแบ็กล็อกกลุ่มดาต้าเซ็นเตอร์และระบบกริดของ Eaton แต่คำแนะนำระดับ Neutral สะท้อนความระมัดระวังต่อระดับมูลค่าหุ้นในกลุ่มอุปกรณ์ไฟฟ้าที่อิงกระแส AI"
+                  },
+                  {
+                      "date":  "2026-11-20",
+                      "impact":  "positive",
+                      "publisher":  "The Futurum Group",
+                      "tickers":  [
+                                      "SU",
+                                      "ETN",
+                                      "VRT",
+                                      "FPS"
+                                  ],
+                      "title_en":  "Schneider Electric-Omdia survey finds 55% of enterprises prefer on-premises AI infrastructure",
+                      "title_th":  "ผลสำรวจ Schneider Electric-Omdia ชี้องค์กร 55% เลือกลงทุนโครงสร้างพื้นฐาน AI แบบติดตั้งในองค์กร",
+                      "url":  "https://futurumgroup.com/insights/55-of-enterprises-choose-on-prem-ai-is-the-cloud-first-era-over/",
+                      "why_en":  "Sovereignty and compliance-driven enterprise builds broaden data center power and cooling demand beyond hyperscalers, creating an additional growth channel for electrical and thermal infrastructure vendors.",
+                      "why_th":  "การที่องค์กรหันมาลงทุนโครงสร้างพื้นฐาน AI ของตนเองเพื่อตอบโจทย์อธิปไตยข้อมูลและกฎระเบียบช่วยขยายฐานความต้องการระบบจ่ายไฟและทำความเย็นออกไปนอกกลุ่ม hyperscaler สร้างแหล่งเติบโตเพิ่มเติมให้ผู้ผลิตอุปกรณ์ไฟฟ้าและระบบระบายความร้อน"
                   }
               ]
 }

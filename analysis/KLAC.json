@@ -2,47 +2,45 @@
     "ticker":  "KLAC",
     "name":  "KLA",
     "symbol":  "NASDAQ:KLAC",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-22T15:44:09Z",
-    "costUsd":  0.8496659,
+    "generatedAt":  "2026-11-24T04:35:39Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:KLAC",
                        "yahoo":  "KLAC",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-22T15:40:46Z",
-                       "price":  126.87,
-                       "open":  138.98,
-                       "high":  139.14,
-                       "low":  125.72,
-                       "volume":  22642500,
-                       "avgVolume20":  14954300,
-                       "changePct":  -10.33,
-                       "historyDays":  501,
-                       "ema50":  164.2,
-                       "ema100":  174.53,
-                       "ema200":  171.14,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:31:24Z",
+                       "price":  145.85,
+                       "open":  150.1,
+                       "high":  150.86,
+                       "low":  139.87,
+                       "volume":  17534500,
+                       "avgVolume20":  15296270,
+                       "changePct":  14.96,
+                       "historyDays":  500,
+                       "ema50":  163.48,
+                       "ema100":  173.96,
+                       "ema200":  170.88,
                        "bb":  {
-                                  "upper":  169.22,
-                                  "middle":  149.56,
-                                  "lower":  129.9
+                                  "upper":  169.11,
+                                  "middle":  149.39,
+                                  "lower":  129.66
                               },
                        "macd":  {
-                                    "macd":  -8.26,
-                                    "signal":  -7.55,
-                                    "hist":  -0.71
+                                    "macd":  -7.61,
+                                    "signal":  -7.57,
+                                    "hist":  -0.05
                                 },
-                       "rsi14":  32.74,
+                       "rsi14":  45.75,
                        "high52w":  307.37,
                        "low52w":  107.2,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         212.51
-                                     ],
                                      [
                                          "2026-06-04",
                                          213.11
@@ -518,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          126.87
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         145.85
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          178.06,
                                           179.44,
                                           179.97,
                                           181.18,
@@ -640,133 +641,114 @@
                                           167.61,
                                           166.72,
                                           165.73,
-                                          164.2
+                                          164.2,
+                                          163.48
                                       ]
                    },
     "en":  {
-               "headline":  "Sector rout drives KLA below all EMAs; record guidance keeps moat intact",
-               "summary":  "KLA fell 10.33% on 20 Nov 2026 to US$126.87 on about 1.5x normal volume, closing below its lower Bollinger Band and far beneath all three EMAs. The trigger was a sector-wide AI-trade rout (Nasdaq −5.3%, Nvidia −14% that day), not company news. Fundamentals still look strong: on 28 Oct KLA reported record revenue of US$4.14B (+29% y/y) and guided the December quarter to US$4.7B. Technically the trend is down and momentum is still worsening; the moat thesis is unchanged, but sentiment, rate hikes and China are the near-term swing factors.",
-               "pros":  [
-                            "Fiscal Q1 2027 revenue of US$4.14B (+29% y/y) beat guidance, and the December quarter is guided to a record US$4.7B.",
-                            "Semiconductor Process Control alone brought in US$3.75B, so the core inspection franchise is driving growth.",
-                            "Peer Applied Materials guided its next quarter to US$11.1B on 12 Nov, above estimates, confirming equipment demand.",
-                            "RSI 32.74 and a close below the lower Bollinger Band (129.90) show the selloff is stretched.",
-                            "US$935.8M of buybacks in the September quarter supports per-share value."
-                        ],
+               "caution":  "Single-day relief rallies of nearly 15% are common inside sharp tech downtrends and do not guarantee a durable bottom. On Nov 23, 2026, KLAC still closed below its $150.10 open, under the $149.39 Bollinger middle band, and well below EMA 50 ($163.48) and EMA 200 ($170.88). With China representing 25% of Q1 FY2027 revenue—flagged as an ongoing U.S. BIS export-control risk in KLA\u0027s Oct 29, 2026 Form 10-Q—geopolitical headlines or customer cleanroom delays could quickly trigger renewed swings toward $129.66 support.",
                "cons":  [
-                            "At 126.87 the price is about 23% below the EMA50 (164.20), and the EMA50 sits under the EMA200, a confirmed downtrend.",
-                            "MACD (-8.26) is below its signal line (-7.55) with a negative histogram, so downside momentum is still building.",
-                            "The 20 Nov drop came on 22.6M shares vs a 15.0M average and closed near the day\u0027s low of 125.72.",
-                            "Markets price ~97.5% odds of a December Fed hike while AI chip stocks are being de-rated.",
-                            "Tighter US export controls on China tool sales remain an open risk to a large region."
+                            "Price ($145.85 on Nov 23, 2026) remains 10.8% below EMA 50 and 52.5% under its $307.37 52-week high.",
+                            "China still represents 25% of Q1 FY2027 revenue, keeping KLA exposed to potential U.S. BIS export-control tightening.",
+                            "Seven major brokerages cut KLAC price targets on Oct 29, 2026 due to sector-wide valuation multiple compression.",
+                            "The Nov 23 bounce faded from its $150.10 open to close at $145.85, showing overhead supply near $150."
                         ],
-               "opportunityCheck":  "Mostly reasonable. The position score fits: process control was US$3.75B of US$4.14B quarterly revenue and the CEO calls it critical to the AI buildout. I would nudge AI revenue exposure up to about 12, because leading-edge logic, HBM and advanced packaging are now the main growth drivers behind the US$4.7B guide. Market growth looks fair given management\u0027s view of 2027 wafer-fab equipment spending above US$200B, but the November rout shows that growth is cyclical and rate-sensitive, so I would not raise it.",
-               "technical":  "Trend is bearish. The 126.87 close sits below the EMA50 (164.20), EMA100 (174.53) and EMA200 (171.14); EMAs are smoothed average prices. The EMA50 has slipped under both longer averages, the classic sign that the medium-term trend has turned down. MACD (a trend-momentum gauge) is -8.26 vs a signal of -7.55 with a histogram of -0.71, so downside momentum re-accelerated on 20 Nov instead of fading. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 32.74, near oversold but not there. Price closed below the lower Bollinger Band (129.90; middle 149.56), which signals a stretched move, though in heavy selloffs price can keep \u0027walking the band\u0027 lower. The stock is about 18% above the 52-week low of 107.20 and 59% below the 52-week high of 307.37. Volume of 22.6M vs a 15.0M 20-day average confirms real selling, and the close was near the day\u0027s low of 125.72. Support: 125.72, then 107.20. Resistance: 129.90, then about 139 (20 Nov open/high), then 149.56.",
-               "fundamental":  "KLA sells the quality-control layer of chipmaking: inspection and metrology tools that every new node, HBM stack and advanced package needs more of. Fiscal Q1 2027 (quarter to 30 Sep, reported 28 Oct) brought record revenue of US$4.14B, up 13% q/q and 29% y/y, with non-GAAP EPS of US$1.22, above guidance. Semiconductor Process Control was US$3.75B. December-quarter guidance is US$4.7B ±0.2B with non-GAAP EPS of US$1.44 ±0.11 and non-GAAP gross margin around 62.5%. Management expects sequential growth for several quarters and 2027 wafer-fab equipment spending above US$200B. Capital returns were US$1.24B in the quarter. Nothing in November changed this picture, and Applied Materials\u0027 12 Nov guidance above consensus supports it.",
+               "fundamental":  "KLA dominates semiconductor process control—representing 91% ($3.75 billion) of Q1 FY2027 revenue—making it indispensable as AI accelerators and high-bandwidth memory require tighter defect inspection at every new chip node. Reported Oct 28, 2026 (post its June 12, 2026 10-for-1 split), Q1 revenue hit a record $4.14 billion (+29% YoY), non-GAAP EPS reached $1.22, non-GAAP gross margin was 62.7%, operating margin hit a record 46.1%, and free cash flow totaled $1.34 billion alongside $850 million in recurring services (+14% YoY). Management guided Q2 FY2027 revenue to $4.7 billion ± $200 million and non-GAAP EPS to $1.44 ± $0.11. Taiwan led sales at 34%, while China was 25% and is projected to fall to the low-20s% in calendar 2027 as non-China AI fab spending accelerates. Opening Building 22B in Singapore on Nov 19, 2026 further expands AI and packaging tool capacity.",
+               "headline":  "Record AI-driven results clash with a deep technical downtrend despite a 15% bounce",
                "news":  [
-                            "28 Oct 2026: KLA reported fiscal Q1 2027 revenue of US$4.14B (+29% y/y), above the guidance midpoint, and guided the December quarter to US$4.7B ±US$200M.",
-                            "3 Nov 2026: KLA received an analyst upgrade to Buy citing the strong quarter and AI chip demand (GuruFocus). The stock also rose 6.61% on 6 Nov and 6.50% on 11 Nov in sector rebounds.",
-                            "4 Nov 2026: Shareholders approved all proposals at the annual meeting, and the quarterly dividend was held at US$0.23 per share, payable 1 Dec to holders of record on 16 Nov.",
-                            "12 Nov 2026: Applied Materials posted record revenue of US$10.41B (+53% y/y) and guided its next quarter to US$11.1B, above estimates, a positive read-through for equipment demand.",
-                            "16 Nov 2026: KLA closed at US$143.96, down 10.99% over a month as chip stocks cooled on rate and inflation worries.",
-                            "20 Nov 2026: KLA fell 10.33% to US$126.87 in a broad AI and chip rout: Nasdaq −5.3%, Nvidia −14% (−23% for the week after its 17 Nov earnings and a CEO change), and ~97.5% odds of a December Fed hike. No KLA-specific negative news was found."
+                            "Oct 28, 2026: KLA reported record Q1 FY2027 revenue of $4.14 billion (+29% YoY) and non-GAAP EPS of $1.22, beating guidance while guiding Q2 revenue up sharply to $4.7 billion ± $200 million. Management also highlighted advanced packaging revenue tracking above $1.1 billion in calendar 2026 (+70% YoY) and forecast global wafer-fab equipment exceeding $200 billion in 2027.",
+                            "Oct 29–30, 2026: Following earnings, multiple Wall Street firms kept Buy or Overweight ratings but lowered price targets—including Cantor Fitzgerald ($325 to $225), Needham ($270 to $200), Wells Fargo ($245 to $210), and Citigroup ($290 to $275)—reflecting sector-wide multiple compression, while JPMorgan nudged its target up to $240.",
+                            "Nov 5, 2026: KLA\u0027s board declared a regular quarterly cash dividend of $0.23 per share, payable Dec 1, 2026 to shareholders of record on Nov 16, 2026, following $1.24 billion in total Q1 capital returns.",
+                            "Nov 19, 2026: KLA opened Building 22B at its Ang Mo Kio campus in Singapore, adding 210,000 square feet of Class 100 cleanrooms and labs to double the site to 420,000 square feet for AI, advanced packaging, and silicon-photonics tools.",
+                            "Nov 23, 2026: KLAC jumped 14.96% to $145.85 on 17.53 million shares during a broad semiconductor-equipment relief rally alongside Applied Materials and Lam Research, snapping back from an autumn selloff driven by tech-valuation resets and China export-control fears."
                         ],
-               "caution":  "This selloff is macro-driven, and macro selloffs can run further than fundamentals justify. With a December Fed hike widely expected and AI leaders such as Nvidia in turmoil, investors may question chip-equipment spending even if KLA\u0027s order book is solid. Price is below every EMA with a negative MACD, so there is no technical sign of a bottom yet; the 52-week low of 107.20 is the next major reference. China export-control changes remain an unresolved risk.",
-               "opportunity":  "The drop was not about KLA. The company just guided to a record US$4.7B quarter, its process-control position is dominant, and its largest peer confirmed strong demand on 12 Nov. RSI near 33 and a close under the lower Bollinger Band show the stock is stretched to the downside. For long-term holders, early signs that selling is exhausting would be MACD crossing back above its signal line and price reclaiming the 129.90–139 zone; the next earnings report, usually in late January, is the next fundamental check.",
+               "opportunity":  "The 52.5% share-price pullback from KLAC\u0027s $307.37 52-week high has occurred while fundamentals are accelerating, not weakening. Record 46.1% non-GAAP operating margins, $4.7 billion Q2 FY2027 revenue guidance, and 70%+ YoY growth in advanced packaging inspection ($1.1 billion+ in calendar 2026) confirm rising process-control intensity per AI chip. Meanwhile, Singapore\u0027s Building 22B expansion (opened Nov 19, 2026) prepares capacity for a projected $200 billion+ 2027 WFE cycle, and China\u0027s revenue share is organically diluting toward the low-20s% as non-China leading-edge fab investment grows.",
+               "opportunityCheck":  "The page\u0027s near-top market-position rating fits KLA\u0027s inspection dominance and 46.1% non-GAAP operating margin reported on Oct 28, 2026. However, AI revenue exposure and market growth now look understated: Q1 FY2027 sales grew 29% YoY with Q2 guided to $4.7 billion, advanced packaging is scaling above $1.1 billion (+70% YoY) in calendar 2026, and management sees wafer-fab equipment surpassing $200 billion in 2027. I would raise both AI revenue exposure and market growth, while nudging optionality up slightly for Singapore\u0027s new silicon-photonics capacity.",
+               "pros":  [
+                            "Record Q1 FY2027 revenue hit $4.14 billion (+29% YoY) on Oct 28, 2026 with a 46.1% non-GAAP operating margin.",
+                            "Q2 FY2027 revenue guidance of $4.7 billion signals roughly 13.5% sequential acceleration from leading-edge AI logic and memory demand.",
+                            "Advanced packaging process-control revenue is tracking above $1.1 billion in calendar 2026, growing over 70% YoY.",
+                            "Building 22B opened in Singapore on Nov 19, 2026, adding 210,000 square feet for AI and silicon-photonics tool production."
+                        ],
                "risks":  [
-                             "The AI-trade de-rating deepens if Nvidia\u0027s turmoil spreads into hyperscaler capex plans.",
-                             "A December Fed rate hike pressures high-multiple semiconductor stocks.",
-                             "Stricter US export controls cut KLA\u0027s China tool sales.",
-                             "The wafer-fab equipment cycle could peak if memory or logic customers pause orders.",
-                             "A technical breakdown below 125.72 could open a move toward the 107.20 52-week low."
-                         ]
+                             "Tighter U.S. BIS export controls or tariffs on semiconductor equipment shipments to China (25% of Q1 FY2027 revenue).",
+                             "Semiconductor capex cyclicality or hyperscaler AI spending pauses reducing wafer-fab equipment orders.",
+                             "Customer cleanroom construction delays pushing out high-margin tool installations and revenue recognition.",
+                             "Continued tech valuation multiple compression if interest rates stay elevated, keeping shares below key EMAs."
+                         ],
+               "summary":  "KLA posted record Q1 FY2027 revenue of $4.14 billion (+29% year-over-year) on Oct 28, 2026 and guided Q2 to $4.7 billion, powered by AI chip inspection and $1.1 billion+ in calendar-2026 advanced packaging sales. Yet KLAC sits at $145.85 as of Nov 23, 2026—still 52.5% below its $307.37 high—after sector-wide multiple compression and Oct 29 analyst target cuts. A 14.96% relief rally on Nov 23 eased oversold pressure, but the trend remains bearish while the long-term moat stays intact.",
+               "technical":  "As of Nov 23, 2026, KLAC trades at $145.85 in a bearish trend despite surging 14.96% on the day. Price sits well below all three exponential moving averages (EMAs, which track average price trends): EMA 50 ($163.48), EMA 200 ($170.88), and EMA 100 ($173.96). With EMA 50 already below EMA 200, medium-term structure remains negative. Momentum is stabilizing but not yet bullish: MACD (a trend-momentum gauge comparing fast and slow averages) sits deeply negative at -7.61 versus its -7.57 signal line, though a -0.05 histogram shows downward pressure nearly stalling. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) recovered to 45.75, still below the neutral 50 mark. Within Bollinger Bands (a volatility channel around the 20-day average), price rebounded off the $129.66 lower band but stopped just under the $149.39 middle band and below its $150.10 open. At 19% of its $107.20–$307.37 52-week range, volume of 17.53 million shares (+14.6% above the 15.30 million 20-day average) shows active buying, facing resistance at $149.39–$150.86 and $163.48, with support at $139.87 and $129.66."
            },
     "th":  {
-               "headline":  "หุ้นชิปถูกเทขาย ดัน KLA หลุด EMA ทุกเส้น แต่ไกด์รายได้ทำสถิติ moat ยังแน่น",
-               "summary":  "KLAC ร่วง 10.33% เมื่อ 20 พ.ย. 2026 ปิดที่ 126.87 ดอลลาร์ ด้วยวอลุ่มราว 1.5 เท่าของค่าเฉลี่ย ราคาหลุดกรอบล่าง Bollinger Band และอยู่ต่ำกว่า EMA ทั้งสามเส้นอย่างชัดเจน สาเหตุคือแรงเทขายหุ้น AI และชิปทั้งกลุ่ม (Nasdaq −5.3%, Nvidia −14% ในวันเดียว) ไม่ใช่ข่าวร้ายของบริษัท ด้านพื้นฐานยังแข็งแรง: วันที่ 28 ต.ค. KLA รายงานรายได้สูงสุดเป็นประวัติการณ์ 4.14 พันล้านดอลลาร์ (+29% y/y) และไกด์ไตรมาส ธ.ค. ไว้ที่ 4.7 พันล้านดอลลาร์ ทางเทคนิคยังเป็นขาลงและโมเมนตัมยังอ่อนลง ส่วน moat ไม่เปลี่ยน ตัวแปรระยะสั้นคือ sentiment ดอกเบี้ย และจีน",
-               "pros":  [
-                            "รายได้ไตรมาส 1 ปีงบ 2027 อยู่ที่ 4.14 พันล้านดอลลาร์ (+29% y/y) ดีกว่าไกด์ และไตรมาส ธ.ค. ไกด์ไว้ที่ระดับสูงสุดใหม่ 4.7 พันล้านดอลลาร์",
-                            "ธุรกิจ Semiconductor Process Control ทำรายได้ถึง 3.75 พันล้านดอลลาร์ แปลว่าธุรกิจตรวจสอบหลักคือตัวขับการเติบโต",
-                            "Applied Materials คู่แข่งรายใหญ่ไกด์ไตรมาสถัดไปที่ 11.1 พันล้านดอลลาร์เมื่อ 12 พ.ย. สูงกว่าคาด ยืนยันดีมานด์เครื่องจักร",
-                            "RSI 32.74 และการปิดต่ำกว่ากรอบล่าง Bollinger (129.90) บ่งว่าแรงขายยืดตัวไปมากแล้ว",
-                            "ซื้อหุ้นคืน 935.8 ล้านดอลลาร์ในไตรมาส ก.ย. ช่วยหนุนมูลค่าต่อหุ้น"
-                        ],
+               "caution":  "การดีดตัววันเดียวเกือบ 15% เกิดขึ้นได้บ่อยระหว่างขาลงของหุ้นเทค และยังไม่ใช่สัญญาณยืนยันว่าจุดต่ำสุดผ่านพ้นแล้ว ณ วันที่ 23 พ.ย. 2026 ราคา KLAC ยังปิดต่ำกว่าราคาเปิด $150.10 ต่ำกว่าเส้นกลาง Bollinger Bands ($149.39) และห่างจาก EMA 50 ($163.48) กับ EMA 200 ($170.88) มาก ขณะที่สัดส่วนรายได้จากจีน 25% ใน Q1 FY2027 ยังถูกระบุเป็นความเสี่ยงด้านกฎคุมส่งออก BIS สหรัฐฯ ในแบบแสดงรายการ 10-Q วันที่ 29 ต.ค. 2026 ทำให้ข่าวภูมิรัฐศาสตร์หรือความล่าช้าของห้องคลีนรูมลูกค้าอาจกดราคากลับไปทดสอบแนวรับ $129.66 ได้ง่าย",
                "cons":  [
-                            "ราคา 126.87 ต่ำกว่า EMA50 (164.20) ราว 23% และ EMA50 อยู่ใต้ EMA200 ยืนยันแนวโน้มขาลง",
-                            "MACD (-8.26) อยู่ใต้เส้น signal (-7.55) และ histogram ติดลบ แรงขายยังเพิ่มขึ้น",
-                            "วันที่ 20 พ.ย. ร่วงด้วยวอลุ่ม 22.6 ล้านหุ้น เทียบค่าเฉลี่ย 15.0 ล้าน และปิดใกล้จุดต่ำสุดของวันที่ 125.72",
-                            "ตลาดให้โอกาส Fed ขึ้นดอกเบี้ยเดือน ธ.ค. ราว 97.5% ขณะที่หุ้นชิป AI ถูกลดมูลค่า",
-                            "การคุมเข้มส่งออกเครื่องจักรผลิตชิปไปจีนของสหรัฐฯ ยังเป็นความเสี่ยงต่อตลาดใหญ่"
+                            "ราคา $145.85 ณ วันที่ 23 พ.ย. 2026 ยังต่ำกว่า EMA 50 ถึง 10.8% และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $307.37 ถึง 52.5%",
+                            "จีนยังคิดเป็น 25% ของรายได้ Q1 FY2027 ทำให้ KLA ยังมีความเสี่ยงหากสหรัฐฯ ขยายมาตรการคุมส่งออกของ BIS",
+                            "โบรกเกอร์ชั้นนำ 7 แห่งปรับลดราคาเป้าหมาย KLAC เมื่อ 29 ต.ค. 2026 ตามการลดมูลค่า (multiple compression) ของทั้งกลุ่มชิป",
+                            "แรงรีบาวด์วันที่ 23 พ.ย. แผ่วลงจากราคาเปิด $150.10 มาปิดที่ $145.85 สะท้อนแรงขายที่ยังรออยู่แถว $150"
                         ],
-               "opportunityCheck":  "โดยรวมสมเหตุสมผล คะแนนด้านตำแหน่งในตลาดเหมาะสม เพราะ process control คิดเป็น 3.75 จาก 4.14 พันล้านดอลลาร์ของรายได้ไตรมาส และ CEO ย้ำว่าเป็นหัวใจของการสร้างโครงสร้าง AI ผมจะขยับคะแนน AI revenue exposure ขึ้นเป็นราว 12 เพราะชิปลอจิกขั้นสูง HBM และ advanced packaging กลายเป็นแรงขับหลักของไกด์ 4.7 พันล้านดอลลาร์แล้ว ส่วนการเติบโตของตลาดถือว่าพอดี แม้ผู้บริหารมองการลงทุนเครื่องจักรผลิตชิปปี 2027 เกิน 2 แสนล้านดอลลาร์ แต่การเทขายเดือน พ.ย. ชี้ว่าการเติบโตนี้ยังเป็นวัฏจักรและอ่อนไหวต่อดอกเบี้ย จึงไม่ควรเพิ่ม",
-               "technical":  "แนวโน้มเป็นขาลง ราคาปิด 126.87 อยู่ต่ำกว่า EMA50 (164.20), EMA100 (174.53) และ EMA200 (171.14) — EMA คือราคาเฉลี่ยแบบถ่วงน้ำหนัก ที่สำคัญ EMA50 หลุดลงมาอยู่ใต้ EMA เส้นยาวทั้งสองเส้น เป็นสัญญาณคลาสสิกว่าแนวโน้มระยะกลางกลับเป็นขาลงแล้ว ด้านโมเมนตัม MACD (ตัวชี้วัดแรงส่งของเทรนด์) อยู่ที่ -8.26 ต่ำกว่า signal -7.55 และ histogram -0.71 แปลว่าแรงขายกลับมาเร่งตัวในวันที่ 20 พ.ย. ไม่ได้อ่อนลง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 32.74 ใกล้โซน oversold แต่ยังไม่ถึง ราคาปิดต่ำกว่ากรอบล่าง Bollinger Band (129.90 เส้นกลาง 149.56) ซึ่งบ่งว่าราคายืดตัวมาก แต่ในช่วงเทขายหนัก ราคาอาจไหลเลียบกรอบล่างต่อได้ ราคาสูงกว่าจุดต่ำสุด 52 สัปดาห์ (107.20) ราว 18% และต่ำกว่าจุดสูงสุด 52 สัปดาห์ (307.37) ราว 59% วอลุ่ม 22.6 ล้านหุ้น เทียบค่าเฉลี่ย 20 วันที่ 15.0 ล้าน ยืนยันว่าเป็นแรงขายจริง และปิดใกล้ low ของวันที่ 125.72 แนวรับ 125.72 และ 107.20 แนวต้าน 129.90, ราว 139 (ราคาเปิด/สูงสุดวันที่ 20 พ.ย.) และ 149.56",
-               "fundamental":  "KLA ขาย \"ชั้นควบคุมคุณภาพ\" ของการผลิตชิป คือเครื่องตรวจหาข้อบกพร่องและเครื่องวัด ซึ่งทุกโหนดใหม่ ทุกชั้น HBM และงาน advanced packaging ต้องใช้มากขึ้น ไตรมาส 1 ปีงบ 2027 (สิ้นสุด 30 ก.ย. ประกาศ 28 ต.ค.) รายได้ทำสถิติ 4.14 พันล้านดอลลาร์ เพิ่ม 13% q/q และ 29% y/y กำไรต่อหุ้น non-GAAP 1.22 ดอลลาร์ ดีกว่าไกด์ ส่วน Semiconductor Process Control อยู่ที่ 3.75 พันล้านดอลลาร์ ไกด์ไตรมาส ธ.ค. รายได้ 4.7 ±0.2 พันล้านดอลลาร์ EPS non-GAAP 1.44 ±0.11 ดอลลาร์ และอัตรากำไรขั้นต้นราว 62.5% ผู้บริหารคาดรายได้โตต่อเนื่องหลายไตรมาส และมองว่าการลงทุนเครื่องจักรผลิตชิปปี 2027 จะเกิน 2 แสนล้านดอลลาร์ ในไตรมาสนี้คืนเงินผู้ถือหุ้น 1.24 พันล้านดอลลาร์ ข่าวเดือน พ.ย. ไม่ได้เปลี่ยนภาพนี้ และไกด์ของ Applied Materials ที่สูงกว่าคาดเมื่อ 12 พ.ย. ยิ่งช่วยยืนยัน",
+               "fundamental":  "KLA ครองความเป็นผู้นำด้านระบบตรวจสอบและวัดคุมคุณภาพชิป ซึ่งคิดเป็น 91% ($3.75 พันล้าน) ของรายได้ Q1 FY2027 และยิ่งจำเป็นมากขึ้นเมื่อชิป AI กับหน่วยความจำ HBM ซับซ้อนขึ้นทุกโหนดการผลิต งบที่ประกาศวันที่ 28 ต.ค. 2026 (หลังแตกพาร์ 10 ต่อ 1 เมื่อ 12 มิ.ย. 2026) ทำรายได้สูงสุดเป็นประวัติการณ์ที่ $4.14 พันล้าน (+29% YoY) Non-GAAP EPS ที่ $1.22 อัตรากำไรขั้นต้น Non-GAAP 62.7% อัตรากำไรจากการดำเนินงานสูงสุดเป็นประวัติการณ์ที่ 46.1% กระแสเงินสดอิสระ $1.34 พันล้าน และรายได้บริการประจำ $850 ล้าน (+14% YoY) ผู้บริหารคาดการณ์รายได้ Q2 FY2027 ที่ $4.7 พันล้าน ± $200 ล้าน และ Non-GAAP EPS ที่ $1.44 ± $0.11 โดยไต้หวันเป็นตลาดใหญ่สุดที่ 34% ส่วนจีนอยู่ที่ 25% และคาดว่าจะลดลงสู่ช่วง 20% ต้นๆ ในปี 2027 พร้อมเสริมกำลังผลิตในสิงคโปร์ผ่าน Building 22B เมื่อ 19 พ.ย. 2026",
+               "headline":  "งบนิวไฮจากดีมานด์ AI สวนทางกราฟขาลง แม้ดีดแรงเกือบ 15%",
                "news":  [
-                            "28 ต.ค. 2026: KLA รายงานรายได้ไตรมาส 1 ปีงบ 2027 ที่ 4.14 พันล้านดอลลาร์ (+29% y/y) สูงกว่ากึ่งกลางไกด์ และไกด์ไตรมาส ธ.ค. ที่ 4.7 พันล้านดอลลาร์ ±200 ล้าน",
-                            "3 พ.ย. 2026: KLA ถูกนักวิเคราะห์อัปเกรดเป็น Buy จากผลประกอบการที่แข็งแกร่งและดีมานด์ชิป AI (รายงานโดย GuruFocus) และหุ้นยังเด้ง 6.61% วันที่ 6 พ.ย. และ 6.50% วันที่ 11 พ.ย. ตามการรีบาวด์ของกลุ่ม",
-                            "4 พ.ย. 2026: ที่ประชุมผู้ถือหุ้นอนุมัติทุกวาระ และคงเงินปันผลรายไตรมาสที่ 0.23 ดอลลาร์ต่อหุ้น จ่าย 1 ธ.ค. ให้ผู้ถือหุ้น ณ 16 พ.ย.",
-                            "12 พ.ย. 2026: Applied Materials รายงานรายได้สูงสุดเป็นประวัติการณ์ 10.41 พันล้านดอลลาร์ (+53% y/y) และไกด์ไตรมาสถัดไป 11.1 พันล้านดอลลาร์ สูงกว่าคาด เป็นสัญญาณบวกต่อดีมานด์เครื่องจักรผลิตชิป",
-                            "16 พ.ย. 2026: KLA ปิดที่ 143.96 ดอลลาร์ ลดลง 10.99% ในรอบเดือน ขณะที่หุ้นชิปอ่อนตัวจากความกังวลเรื่องดอกเบี้ยและเงินเฟ้อ",
-                            "20 พ.ย. 2026: KLA ร่วง 10.33% สู่ 126.87 ดอลลาร์ ท่ามกลางการเทขายหุ้น AI และชิปทั้งตลาด (Nasdaq −5.3%, Nvidia −14% และ −23% ทั้งสัปดาห์ หลังงบ 17 พ.ย. และการเปลี่ยน CEO) และโอกาส Fed ขึ้นดอกเบี้ยเดือน ธ.ค. ราว 97.5% ไม่พบข่าวลบเฉพาะของ KLA"
+                            "28 ต.ค. 2026: KLA รายงานรายได้ Q1 FY2027 สูงสุดเป็นประวัติการณ์ที่ $4.14 พันล้าน (+29% YoY) และ Non-GAAP EPS $1.22 สูงกว่าคาดการณ์ พร้อมตั้งเป้ารายได้ Q2 ที่ $4.7 พันล้าน ± $200 ล้าน โดยยอดขายด้าน advanced packaging มุ่งแตะกว่า $1.1 พันล้านในปีปฏิทิน 2026 (+70% YoY) และคาดตลาด WFE ทั่วโลกทะลุ $200 พันล้านในปี 2027",
+                            "29–30 ต.ค. 2026: หลังประกาศงบ นักวิเคราะห์หลายแห่งยังคงคำแนะนำเชิงบวกแต่ปรับลดราคาเป้าหมายตามการหดตัวของค่า P/E ทั้งกลุ่ม เช่น Cantor Fitzgerald ($325 เหลือ $225), Needham ($270 เหลือ $200), Wells Fargo ($245 เหลือ $210) และ Citigroup ($290 เหลือ $275) ขณะที่ JPMorgan ขยับเป้าขึ้นเป็น $240",
+                            "5 พ.ย. 2026: บอร์ด KLA ประกาศจ่ายเงินปันผลประจำไตรมาสที่ $0.23 ต่อหุ้น กำหนดจ่ายวันที่ 1 ธ.ค. 2026 สำหรับผู้ถือหุ้นที่มีรายชื่อ ณ วันที่ 16 พ.ย. 2026 ต่อเนื่องจากเงินคืนผู้ถือหุ้นรวม $1.24 พันล้านใน Q1",
+                            "19 พ.ย. 2026: KLA เปิดอาคาร Building 22B ที่แคมปัส Ang Mo Kio ในสิงคโปร์ เพิ่มพื้นที่คลีนรูมระดับ Class 100 และห้องแล็บอีก 210,000 ตารางฟุต ขยายพื้นที่รวมเป็น 420,000 ตารางฟุต รองรับเครื่องจักรสำหรับชิป AI, advanced packaging และ silicon photonics",
+                            "23 พ.ย. 2026: หุ้น KLAC พุ่งขึ้น 14.96% ปิดที่ $145.85 ด้วยปริมาณซื้อขาย 17.53 ล้านหุ้น ท่ามกลางแรงดีดตัวกลับของหุ้นอุปกรณ์เซมิคอนดักเตอร์ทั้งกลุ่มอย่าง Applied Materials และ Lam Research หลังถูกเทขายหนักช่วงฤดูใบไม้ร่วงจากแรงกดดันเรื่องมูลค่าหุ้นและข่าวคุมส่งออกจีน"
                         ],
-               "caution":  "แรงขายรอบนี้มาจากปัจจัยมหภาค และแรงขายแบบนี้มักลากไปไกลเกินกว่าที่พื้นฐานสมควร เมื่อตลาดคาดว่า Fed จะขึ้นดอกเบี้ยเดือน ธ.ค. และผู้นำ AI อย่าง Nvidia อยู่ในภาวะปั่นป่วน นักลงทุนอาจตั้งคำถามกับการลงทุนเครื่องจักรผลิตชิป แม้ยอดสั่งซื้อของ KLA ยังแน่นอยู่ ราคายังอยู่ใต้ EMA ทุกเส้นและ MACD ติดลบ จึงยังไม่มีสัญญาณทางเทคนิคว่าถึงจุดต่ำสุด ระดับอ้างอิงสำคัญถัดไปคือจุดต่ำสุด 52 สัปดาห์ที่ 107.20 นอกจากนี้กฎคุมการส่งออกไปจีนยังเป็นความเสี่ยงที่ยังไม่คลี่คลาย",
-               "opportunity":  "การร่วงครั้งนี้ไม่ได้เกิดจาก KLA เอง บริษัทเพิ่งไกด์รายได้ไตรมาสสูงสุดใหม่ 4.7 พันล้านดอลลาร์ ยังครองตลาด process control และคู่แข่งรายใหญ่สุดยืนยันดีมานด์ที่แข็งแรงเมื่อ 12 พ.ย. RSI ใกล้ 33 และการปิดใต้กรอบล่าง Bollinger บ่งว่าราคายืดตัวลงมามาก สำหรับนักลงทุนระยะยาว สัญญาณแรกว่าแรงขายเริ่มหมดคือ MACD ตัดกลับขึ้นเหนือ signal และราคากลับขึ้นยืนเหนือโซน 129.90–139 ส่วนจุดตรวจพื้นฐานถัดไปคืองบไตรมาสหน้าซึ่งปกติประกาศปลายเดือน ม.ค.",
+               "opportunity":  "การปรับฐานลงถึง 52.5% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $307.37 เกิดขึ้นในจังหวะที่ปัจจัยพื้นฐานของ KLA กำลังเร่งตัว ไม่ใช่ชะลอตัว อัตรากำไรจากการดำเนินงาน Non-GAAP ที่ทำสถิติ 46.1% เป้ารายได้ Q2 FY2027 ที่ $4.7 พันล้าน และยอดขายอุปกรณ์ตรวจสอบสำหรับ advanced packaging ที่โตกว่า 70% YoY ทะลุ $1.1 พันล้านในปี 2026 ยืนยันความจำเป็นที่เพิ่มขึ้นต่อชิป AI หนึ่งชิ้น ขณะเดียวกันการเปิด Building 22B ในสิงคโปร์เมื่อ 19 พ.ย. 2026 ช่วยเตรียมกำลังผลิตสำหรับวัฏจักร WFE ปี 2027 ที่คาดว่าจะเกิน $200 พันล้าน โดยสัดส่วนรายได้จีนกำลังลดลงตามธรรมชาติสู่ช่วง 20% ต้นๆ",
+               "opportunityCheck":  "คะแนนด้านตำแหน่งทางการตลาดที่เกือบเต็มสอดคล้องกับความแข็งแกร่งของ KLA และอัตรากำไรจากการดำเนินงาน Non-GAAP 46.1% ที่รายงานเมื่อ 28 ต.ค. 2026 แต่คะแนนด้านสัดส่วนรายได้จาก AI และการเติบโตของตลาดดูต่ำกว่าความเป็นจริง เพราะรายได้ Q1 FY2027 โต 29% YoY พร้อมเป้ารายได้ Q2 ที่ $4.7 พันล้าน งาน advanced packaging โตกว่า 70% YoY ทะลุ $1.1 พันล้านในปี 2026 และผู้บริหารคาดตลาด WFE ปี 2027 ทะลุ $200 พันล้าน จึงควรขยับคะแนนสัดส่วนรายได้จาก AI และการเติบโตของตลาดขึ้น พร้อมปรับเพิ่มด้านโอกาสต่อยอดเล็กน้อยจากฐานผลิต silicon photonics แห่งใหม่ในสิงคโปร์",
+               "pros":  [
+                            "รายได้ Q1 FY2027 ทำนิวไฮที่ $4.14 พันล้าน (+29% YoY) เมื่อ 28 ต.ค. 2026 พร้อมอัตรากำไรจากการดำเนินงาน Non-GAAP สูงสุดเป็นประวัติการณ์ 46.1%",
+                            "คาดการณ์รายได้ Q2 FY2027 ที่ $4.7 พันล้าน สะท้อนการเร่งตัวราว 13.5% จากไตรมาสก่อนตามดีมานด์ชิป AI และหน่วยความจำขั้นสูง",
+                            "รายได้ระบบตรวจสอบสำหรับ advanced packaging มุ่งหน้าสู่ระดับกว่า $1.1 พันล้านในปีปฏิทิน 2026 เติบโตกว่า 70% YoY",
+                            "เปิดอาคาร Building 22B ในสิงคโปร์เมื่อ 19 พ.ย. 2026 เพิ่มพื้นที่ผลิต 210,000 ตารางฟุต รองรับเครื่องจักร AI และ silicon photonics"
+                        ],
                "risks":  [
-                             "ถ้าความปั่นป่วนของ Nvidia ลามไปถึงแผนลงทุนของ hyperscaler หุ้นกลุ่ม AI อาจถูกลดมูลค่าลงลึกกว่านี้",
-                             "Fed ขึ้นดอกเบี้ยเดือน ธ.ค. กดดันหุ้นเซมิคอนดักเตอร์ที่ซื้อขายด้วย valuation สูง",
-                             "สหรัฐฯ คุมเข้มการส่งออกเครื่องจักรผลิตชิปไปจีนมากขึ้น ทำให้ยอดขายในจีนของ KLA ลดลง",
-                             "วัฏจักรการลงทุนเครื่องจักรผลิตชิปอาจถึงจุดสูงสุด หากลูกค้าฝั่งหน่วยความจำหรือลอจิกชะลอคำสั่งซื้อ",
-                             "ถ้าราคาหลุด 125.72 อาจเปิดทางลงไปทดสอบจุดต่ำสุด 52 สัปดาห์ที่ 107.20"
-                         ]
+                             "มาตรการคุมส่งออกของ BIS สหรัฐฯ หรือภาษีนำเข้าที่เข้มงวดขึ้นต่อการส่งออกเครื่องจักรชิปไปจีน (25% ของรายได้ Q1 FY2027)",
+                             "ความผันผวนตามวัฏจักรการลงทุนโรงงานชิป หรือการชะลองบลงทุนโครงสร้างพื้นฐาน AI ของกลุ่ม hyperscaler",
+                             "ความล่าช้าในการสร้างห้องคลีนรูมของโรงงานลูกค้า ซึ่งอาจทำให้การส่งมอบและรับรู้รายได้เลื่อนออกไป",
+                             "แรงกดดันด้านมูลค่าหุ้นเทคหากดอกเบี้ยยังทรงตัวสูง ทำให้ราคายังติดอยู่ใต้เส้นค่าเฉลี่ยสำคัญ"
+                         ],
+               "summary":  "KLA รายงานรายได้ Q1 FY2027 สูงสุดเป็นประวัติการณ์ที่ $4.14 พันล้าน (+29% YoY) เมื่อ 28 ต.ค. 2026 และคาดการณ์ Q2 พุ่งแตะ $4.7 พันล้าน จากแรงหนุนการตรวจสอบชิป AI และรายได้ advanced packaging กว่า $1.1 พันล้านในปี 2026 แต่ราคาหุ้น KLAC ณ วันที่ 23 พ.ย. 2026 อยู่ที่ $145.85 ยังต่ำกว่าจุดสูงสุด $307.37 ถึง 52.5% หลังถูกกดดันจากการปรับลดมูลค่าหุ้นเทคและการหั่นเป้านักวิเคราะห์วันที่ 29 ต.ค. แม้ดีดแรง 14.96% เมื่อ 23 พ.ย. แต่ภาพเทคนิคยังเป็นขาลง ขณะที่คูเมืองระยะยาวยังแข็งแกร่งเหมือนเดิม",
+               "technical":  "ณ วันที่ 23 พ.ย. 2026 ราคา KLAC อยู่ที่ $145.85 ยังอยู่ในแนวโน้มขาลงแม้จะพุ่งขึ้น 14.96% ในวันเดียว โดยราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนัก (EMA ซึ่งใช้ดูทิศทางแนวโน้ม) ครบทั้ง 3 เส้น ได้แก่ EMA 50 ($163.48), EMA 200 ($170.88) และ EMA 100 ($173.96) และการที่ EMA 50 ตัดลงต่ำกว่า EMA 200 สะท้อนโครงสร้างระยะกลางที่ยังอ่อนแอ ด้านโมเมนตัมเริ่มชะลอแรงลงแต่ยังไม่กลับตัวเป็นขาขึ้น โดย MACD (เครื่องมือวัดโมเมนตัมจากค่าเฉลี่ยระยะสั้นเทียบระยะยาว) ยังติดลบหนักที่ -7.61 เทียบเส้น signal ที่ -7.57 แต่ค่า histogram แคบลงเหลือ -0.05 บ่งชี้แรงขายเริ่มแผ่ว ส่วน RSI 14 (ดัชนีวัดแรงซื้อขายระดับ 0–100 โดยต่ำกว่า 30 คือเขตขายมากเกินไป) ฟื้นมาที่ 45.75 แต่ยังต่ำกว่าระดับกลาง 50 ด้านความผันผวนในกรอบ Bollinger Bands (ช่องความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาดีดจากกรอบล่าง $129.66 แต่ยังไม่ผ่านเส้นกลาง $149.39 และปิดต่ำกว่าราคาเปิด $150.10 ราคาอยู่ช่วง 19% ล่างสุดของกรอบ 52 สัปดาห์ ($107.20–$307.37) บนปริมาณซื้อขาย 17.53 ล้านหุ้น (สูงกว่าค่าเฉลี่ย 20 วันที่ 15.30 ล้านหุ้นอยู่ 14.6%) โดยมีแนวต้านที่ $149.39–$150.86 และ $163.48 และแนวรับที่ $139.87 กับ $129.66"
            },
     "sources":  [
                     {
+                        "date":  "2026-10-28",
+                        "publisher":  "KLA Investor Relations",
                         "title":  "KLA Corporation Reports Fiscal 2027 First Quarter Results",
-                        "publisher":  "KLA Corporation (Investor Relations)",
-                        "url":  "https://ir.kla.com/news-events/press-releases/detail/523/kla-corporation-reports-fiscal-2027-first-quarter-results",
-                        "date":  "2026-10-28"
+                        "url":  "https://ir.kla.com/news-events/press-releases/detail/1441/kla-corporation-reports-fiscal-2027-first-quarter-results"
                     },
                     {
-                        "title":  "Stock market today: Dow and S\u0026P 500 enter correction, Nasdaq sinks 5% to erase 2026 gains as AI trade melts down",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-19-dow-sp-500-nasdaq-anthropic-nvidia-141644188.html",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-19",
+                        "publisher":  "Singapore Economic Development Board (EDB)",
+                        "title":  "KLA Celebrates Building 22B Opening in Singapore and Outlines Plans for Further Expansion",
+                        "url":  "https://www.edb.gov.sg/en/news-and-insights/press-releases/kla-celebrates-building-22b-opening-in-singapore-and-outlines-plans-for-further-expansion.html"
                     },
                     {
-                        "title":  "KLA Corporation (KLAC) Shares Pull Back Amid Semiconductor Sell-Off",
-                        "publisher":  "Yahoo Finance (Insider Monkey)",
-                        "url":  "https://finance.yahoo.com/markets/stocks/articles/kla-corporation-klac-shares-pull-165930827.html",
-                        "date":  "2026-11-17"
+                        "date":  "2026-11-05",
+                        "publisher":  "KLA Investor Relations",
+                        "title":  "KLA Investor Relations — Press Releases (Regular Cash Dividend Declaration)",
+                        "url":  "https://ir.kla.com/news-events/press-releases"
                     },
                     {
-                        "title":  "KLA Corporation (KLAC) Shares Drop 10.15% Amid Semiconductor Sector Sell-Off",
-                        "publisher":  "GuruFocus",
-                        "url":  "https://www.gurufocus.com/news/9213323/kla-corporation-klac-shares-drop-1015-amid-semiconductor-sector-selloff",
-                        "date":  "2026-11-20"
+                        "date":  "2026-10-29",
+                        "publisher":  "KLA Investor Relations",
+                        "title":  "KLA Corporation SEC Filings (Form 10-Q for Q1 FY2027)",
+                        "url":  "https://ir.kla.com/sec-filings/default.aspx"
                     },
                     {
-                        "title":  "KLA Corporation (KLAC) Holds 2026 Annual Meeting: Directors Elected, PwC Ratified, and $0.23 Dividend Declared",
-                        "publisher":  "GuruFocus",
-                        "url":  "https://www.gurufocus.com/news/9182622/kla-corporation-klac-holds-2026-annual-meeting-directors-elected-pwc-ratified-and-023-dividend-declared",
-                        "date":  "2026-11-04"
+                        "date":  "2026-11-24",
+                        "publisher":  "Stock Analysis",
+                        "title":  "KLA (KLAC) Stock Forecast \u0026 Analyst Price Targets",
+                        "url":  "https://stockanalysis.com/stocks/klac/forecast/"
                     },
                     {
-                        "title":  "KLA Corporation (KLAC) Upgraded to Buy Amid Strong Q1 Results and AI Chip Demand",
-                        "publisher":  "GuruFocus",
-                        "url":  "https://www.gurufocus.com/news/9166273/kla-corporation-klac-upgraded-to-buy-amid-strong-q1-results-and-ai-chip-demand",
-                        "date":  "2026-11-03"
-                    },
-                    {
-                        "title":  "Applied Materials Announces Fourth Quarter and Fiscal Year 2026 Results",
-                        "publisher":  "Applied Materials (Investor Relations)",
-                        "url":  "https://ir.appliedmaterials.com/news-releases/news-release-details/applied-materials-announces-fourth-quarter-and-fiscal-year-2026",
-                        "date":  "2026-11-12"
-                    },
-                    {
-                        "title":  "[KLA Q1 2027 Earnings Call] KLA Posts Record $4.14B Revenue, First-Ever 46% Operating Margin; Guides December to $4.7B as 2027 WFE Tops $200B",
-                        "publisher":  "BigGo Finance",
-                        "url":  "https://finance.biggo.com/news/US_KLAC_2026-10-28",
-                        "date":  "2026-10-28"
+                        "date":  "2026-10-29",
+                        "publisher":  "Benzinga",
+                        "title":  "KLA (KLAC) Analyst Ratings \u0026 Price Target History",
+                        "url":  "https://www.benzinga.com/stock/klac/forecast"
                     }
                 ]
 }

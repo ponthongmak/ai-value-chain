@@ -2,47 +2,45 @@
     "ticker":  "SMCI",
     "name":  "Super Micro Computer",
     "symbol":  "NASDAQ:SMCI",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-22T15:45:24Z",
-    "costUsd":  0.6946378,
+    "generatedAt":  "2026-11-24T04:39:49Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NASDAQ:SMCI",
                        "yahoo":  "SMCI",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-22T15:43:00Z",
-                       "price":  21.65,
-                       "open":  23.1,
-                       "high":  23.52,
-                       "low":  21.47,
-                       "volume":  48309700,
-                       "avgVolume20":  46514820,
-                       "changePct":  -9.19,
-                       "historyDays":  501,
-                       "ema50":  32.17,
-                       "ema100":  33.38,
-                       "ema200":  33.89,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:35:04Z",
+                       "price":  24.53,
+                       "open":  26.27,
+                       "high":  26.37,
+                       "low":  24.15,
+                       "volume":  62407300,
+                       "avgVolume20":  48477760,
+                       "changePct":  13.3,
+                       "historyDays":  500,
+                       "ema50":  31.87,
+                       "ema100":  33.21,
+                       "ema200":  33.8,
                        "bb":  {
-                                  "upper":  36.74,
-                                  "middle":  28.9,
-                                  "lower":  21.05
+                                  "upper":  36.35,
+                                  "middle":  28.49,
+                                  "lower":  20.63
                               },
                        "macd":  {
-                                    "macd":  -3.31,
-                                    "signal":  -2.85,
-                                    "hist":  -0.46
+                                    "macd":  -3.19,
+                                    "signal":  -2.92,
+                                    "hist":  -0.27
                                 },
-                       "rsi14":  28.04,
+                       "rsi14":  37.86,
                        "high52w":  51.4,
                        "low52w":  19.48,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         47.42
-                                     ],
                                      [
                                          "2026-06-04",
                                          46.9
@@ -518,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          21.65
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         24.53
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          33.39,
                                           33.92,
                                           34.23,
                                           34.61,
@@ -640,131 +641,108 @@
                                           33.31,
                                           32.96,
                                           32.6,
-                                          32.17
+                                          32.17,
+                                          31.87
                                       ]
                    },
     "en":  {
-               "headline":  "Record sales collide with export probes; SMCI sinks to oversold near 52-week low",
-               "summary":  "Super Micro closed at $21.65 on 20 Nov 2026, down 9.19% on the day and 19.4% for the week. Business results were strong: on 3 Nov it reported fiscal Q1 sales of $19.9B, almost four times a year earlier, and raised FY2027 guidance to $72–82B. The stock still fell. On 12 Nov, reports said the Justice Department is examining alleged smuggling of Supermicro servers to China, and turmoil at Nvidia dragged on AI hardware stocks. The selling is about legal risk and thin margins, not demand. The chart is firmly bearish but oversold.",
-               "pros":  [
-                            "Fiscal Q1 sales hit $19.9B (vs $5.0B a year earlier), and FY27 guidance was raised to $72–82B.",
-                            "Q2 guidance of $19.5–21.5B and non-GAAP EPS of $1.66–1.90 means even the low end comes to about $6.6 a year, roughly 3x the share price.",
-                            "Management says it was among the first to ship Nvidia Vera Rubin NVL72 racks, which shows its speed-to-market edge still works.",
-                            "RSI 28 and a price just above the lower Bollinger Band point to an oversold stock, $2.17 above its 52-week low."
-                        ],
+               "caution":  "The Nov 23 surge looks more like a sharp relief rally than a confirmed trend reversal, especially after shares gave back gains from $26.37 to $24.53 beneath all three EMAs. Investors face twin overhangs: escalating Manhattan DOJ export-control scrutiny (Nov 12) that could trigger fines or restrict customer wins, and persistent cash-conversion strain (-$434M Q1 operating cash flow) as SMCI funds $80B-scale server builds on thin 12.7% gross margins. Post-contract price hikes also risk fraying key hyperscaler relationships.",
                "cons":  [
-                            "Bloomberg and Semafor reported on 12 Nov that the DOJ is examining alleged smuggling of Supermicro hardware to China; no charges have been filed.",
-                            "Co-founder Wally Liaw faces a March 2027 trial over about $2.5B of servers routed to China, and the company has a grand jury subpoena.",
-                            "One customer was 44% of Q1 revenue, up from 28% in FY26.",
-                            "Gross margin guidance is 12–12.5% for Q2 and 11.8–12.2% for FY27, so pricing power is thin.",
-                            "Operating cash flow was −$434M in Q1, and bank and convertible debt totals $8.6B."
+                            "Bloomberg reported on Nov 12 that Manhattan DOJ prosecutors are probing whether third parties smuggled SMCI servers into China.",
+                            "GAAP gross margin compressed sequentially from 17.5% in Q4 FY2026 to 12.7% in Q1 FY2027 on lower-margin AI rack mix.",
+                            "Rapid inventory and receivables buildout drove -$434M in Q1 operating cash flow (-$481M free cash flow) despite $1.59B GAAP net income.",
+                            "Shares trade 23%–27% below EMA 50/100/200 ($31.87–$33.80), and the Nov 23 rally faded intraday from $26.37 to $24.53."
                         ],
-               "opportunityCheck":  "Exposure looks right: AI was about 71% of Q1 revenue, and management expects 70–80% for FY27. The market-growth score fits the raised guidance, and the low bottleneck score fits a 12% gross margin. I would lower the position score. One customer now makes up 44% of sales, and repeated export-control investigations could make cautious hyperscalers, government buyers and Nvidia itself hesitant to rely on Supermicro. Optionality looks fair. If anything, the overall score leans slightly high because legal risk is not captured anywhere.",
-               "technical":  "The trend is clearly down. Price ($21.65) sits about a third below all three EMAs (exponential moving averages, which track the trend): EMA50 $32.17, EMA100 $33.38, EMA200 $33.89. Their order (50 below 100 below 200) is the textbook downtrend setup. Momentum is negative. MACD (a trend-momentum gauge) is at −3.31, below its signal line at −2.85, and the histogram is −0.46, so selling pressure is still building rather than fading. RSI 14 (a 0–100 momentum gauge where under 30 means oversold) reads 28.04, which is oversold. Price is close to the lower Bollinger Band at $21.05, the bottom of the band that holds most of a stock\u0027s normal price swings. The 52-week range is $19.48–51.40, so the stock is about 58% below its high and only $2.17 above its low. Volume of 48.3M was just 4% above the 20-day average of 46.5M. The −9.19% drop on 20 Nov was not a panic flush. Support sits at $21.05 and then $19.48–20.53, the March lows. Resistance is near $27 (the 12 Nov close) and $28.90 (the middle band). Oversold readings can bring a bounce, but they do not end a downtrend by themselves.",
-               "fundamental":  "Supermicro assembles AI servers and liquid-cooled racks around Nvidia and AMD GPUs. It wins on getting new platforms to customers fast, not on owning scarce technology. Fiscal Q1 2027, the quarter to 30 Sep 2026 reported on 3 Nov, was a blowout. Sales were $19.9B, net income $1.59B and non-GAAP EPS $1.81. Management raised FY27 revenue guidance to $72–82B from $65–72B. The quality behind those numbers is weaker. About $2.3B of Q1 revenue was catch-up from delayed deployments. Gross margin was 12.7% and is guided lower. One customer, which Raymond James believes is SpaceX, supplied 44% of sales. Working capital consumed cash: operating cash flow was −$434M against $8.6B of debt. The stock trades at about 0.33x trailing sales (Trefis). That valuation shows the market discounting legal risk and how long these earnings can last.",
+               "fundamental":  "Operationally, SMCI is scaling at extraordinary speed in the AI server assembly layer. On Nov 3, 2026, Q1 FY2027 revenue rose 298% YoY to $19.9B (up from $11.1B in Q4 FY2026) with $1.81 non-GAAP EPS, while Q2 guidance reached $19.5B–$21.5B and full-year FY2027 guidance jumped to $72B–$82B. First-to-market launches—including Nov 18 PCIe Gen 6 AMD EPYC 9006 all-flash storage and Nov 16 NVIDIA Vera rack integrations—confirm strong engineering execution. Yet the business model\u0027s thin-margin reality remains clear: GAAP gross margin fell from 17.5% to 12.7%, and working-capital demands produced -$434M in operating cash flow despite $6.9B cash on hand. Meanwhile, the Nov 12 DOJ smuggling probe keeps legal risk elevated, putting the long-term moat thesis on watch rather than broken.",
+               "headline":  "SMCI Rebounds 13.3% on Price-Hike Report, Yet Technicals and DOJ Probe Weigh",
                "news":  [
-                            "3 Nov 2026: Fiscal Q1 sales were $19.9B, EPS was $1.81 non-GAAP, and FY27 revenue guidance was raised to $72–82B. Q2 guidance is $19.5–21.5B. The company had pre-announced the revenue beat on 20 Oct.",
-                            "4 Nov 2026: Shares fell toward a three-month low despite the beat. Analysts focused on the 44% customer concentration and gross-margin guidance of 11.8–12.2% for FY27. Raymond James raised its target to $65 and kept an Outperform rating.",
-                            "12 Nov 2026: The stock fell 11.3% to $26.99 after Bloomberg and Semafor reported that the Manhattan US Attorney\u0027s office is examining whether entities linked to Alice Huang smuggled Supermicro hardware to China. Supermicro says it cooperated and that Megaspeed was never a customer. Singapore\u0027s Home Affairs ministry called Supermicro\u0027s cooperation \u0027limited.\u0027",
-                            "12 Nov 2026: Analyst downgrades of Nvidia amid its leadership turmoil weighed on AI server stocks, which compounded Supermicro\u0027s fall.",
-                            "16–20 Nov 2026: Selling continued for the rest of the period, including a 5% drop on 16 Nov. On 20 Nov the stock fell another 9.19%. A market recap tied that day\u0027s drop to reports of a congressional probe into AI chip exports. I could not confirm that any congressional inquiry targets Supermicro directly; Senate and House export scrutiny so far centres on Nvidia and Megaspeed."
+                            "2026-11-22/23: A Financial Times report revealed SMCI, Dell, HPE, and Lenovo are seeking 25%–45% higher payments at delivery on NVIDIA AI servers due to memory and circuit-board shortages. Alongside a broader tech rebound, SMCI jumped 13.3% to $24.53 on Nov 23.",
+                            "2026-11-18: At SC26, Supermicro began shipping its first PCIe Gen 6 Petascale all-flash storage servers powered by 6th Gen AMD EPYC 9006 CPUs, doubling sequential read bandwidth for AI workloads. Days earlier on Nov 16, NVIDIA named Supermicro a launch partner for Vera CPU science racks.",
+                            "2026-11-12: Bloomberg reported that Manhattan federal prosecutors are probing whether businesswoman Alice Huang and logistics firm Megaspeed International helped smuggle Supermicro AI servers into China. The report triggered an ~11%–12% single-day selloff despite SMCI\u0027s Aug 20 internal board review.",
+                            "2026-11-03 \u0026 2026-11-06: SMCI posted Q1 FY2027 sales of $19.9B (+298% YoY) and $1.81 non-GAAP EPS, raising FY2027 revenue guidance to $72B–$82B before filing its Form 10-Q on Nov 6. Investors still focused on GAAP gross margin falling sequentially to 12.7% and -$434M operating cash flow.",
+                            "2026-10-15 \u0026 2026-10-20: Supermicro named former Western Digital executive Mark Long as permanent CFO on Oct 15 to bolster internal controls and compliance, followed by an Oct 20 preliminary revenue upgrade to $18.5B–$19.5B ahead of Q1 earnings."
                         ],
-               "caution":  "This is the third export-control cloud in 2026. Co-founder Liaw was charged in March and his trial is set for March 2027. The company has a grand jury subpoena plus SEC and BIS inquiries, and now a reported DOJ probe. Any charge against the company, or any curb on its Nvidia allocation, would hit a business that keeps only about 12 cents of gross profit per dollar of sales. Revenue is concentrated in one customer, cash flow is negative and debt is $8.6B, so a single order slip could swing results sharply. The chart shows no sign of a bottom yet.",
-               "opportunity":  "The business keeps delivering. Sales almost quadrupled year on year, FY27 guidance is $72–82B, and the company was among the first to ship Vera Rubin NVL72 racks. At $21.65 the market is pricing in a lot of legal damage: about 0.33x sales and only a few times annualized EPS guidance. If the probes end without charges against the company, the gap between earnings and price could narrow. The next hard data point is Q2 results, scheduled for 2 Feb 2027.",
+               "opportunity":  "For long-term AI infrastructure holders, the disconnect between SMCI\u0027s depressed stock price ($24.53, near its $19.48 52-week low) and explosive operational scale ($72B–$82B FY2027 revenue outlook) is notable. If CFO Mark Long tightens compliance controls, the DOJ probe resolves without severe operational penalties, and SMCI sustains ~12%–13%+ gross margins by passing through memory and PCB costs while scaling PCIe Gen 6 storage and liquid-cooled NVIDIA Vera racks, positive free cash flow inflection could restore market confidence.",
+               "opportunityCheck":  "Overall, the page\u0027s AI-opportunity profile fits SMCI well: very high AI revenue exposure and rapid market growth align with its $72B–$82B FY2027 sales outlook, while weak pricing power matches Q1\u0027s drop to a 12.7% gross margin and reactive cost surcharges. However, we would nudge \"position in that market\" slightly lower. Although SMCI ships cutting-edge NVIDIA Vera and AMD EPYC 9006 racks fast, the Nov 12 DOJ export-control probe and post-contract price renegotiations risk nudging compliance-sensitive hyperscalers toward Dell, HPE, or Asian ODMs.",
+               "pros":  [
+                            "Q1 FY2027 revenue (Nov 3) jumped 298% YoY to $19.9B, prompting management to lift FY2027 revenue guidance to $72B–$82B.",
+                            "A Nov 22 Financial Times report showed SMCI and peers passing 25%–45% component-cost spikes to buyers at delivery, supporting margins.",
+                            "SC26 launches on Nov 18 shipped first-to-market PCIe Gen 6 AMD EPYC 9006 all-flash storage alongside Nov 16 NVIDIA Vera rack support.",
+                            "Permanent CFO Mark Long joined on Oct 15, 2026 to strengthen financial controls, backed by $6.9B in cash as of Sep 30."
+                        ],
                "risks":  [
-                             "The DOJ or export probes could lead to charges or penalties against the company itself.",
-                             "Nvidia could cut or delay GPU allocation, or customers could move to Dell or HPE.",
-                             "Losing or delaying the 44% customer would cut revenue sharply.",
-                             "Gross margin could slip below 12% as price competition intensifies.",
-                             "Weak cash generation and $8.6B of debt could force dilutive financing.",
-                             "Governance history includes a 2006 export guilty plea, the 2024 auditor resignation and a CFO change in October 2026."
-                         ]
+                             "DOJ export-control probe (reported Nov 12) and ongoing SEC subpoenas could lead to financial penalties, stricter trade oversight, or lost tier-1 buyers.",
+                             "Working-capital strain (-$434M Q1 operating cash flow) may require external financing or dilution if inventory and receivables keep outpacing collections.",
+                             "Component inflation in memory and circuit boards, plus fierce competition from Dell, HPE, and Asian ODMs, threatens SMCI\u0027s thin 12.7% gross margin.",
+                             "Heavy customer concentration among a handful of hyperscalers leaves quarterly revenue and margin mix vulnerable to sudden CapEx pauses."
+                         ],
+               "summary":  "Super Micro Computer (SMCI) surged 13.3% to $24.53 on Nov 23, 2026 after a Nov 22 Financial Times report said AI server makers are seeking 25%–45% delivery surcharges to offset memory and circuit-board shortages. Still, the stock remains in a deep bearish trend—down 52% from its $51.40 52-week high—after a Nov 12 Bloomberg report of a Manhattan DOJ export-control smuggling probe. Q1 FY2027 revenue (Nov 3) quadrupled to $19.9B with FY2027 guidance raised to $72B–$82B, yet gross margin dropped to 12.7% with -$434M operating cash flow, placing the moat thesis on watch.",
+               "technical":  "SMCI\u0027s chart as of Nov 23, 2026 remains firmly bearish despite a +13.3% single-day bounce to $24.53. Price sits well below its EMA 50 ($31.87), EMA 100 ($33.21), and EMA 200 ($33.80)—exponential moving averages that track trend—in a textbook bearish stack, turning that $31.87–$33.80 zone into heavy overhead resistance. Momentum is still weak: MACD (12/26/9, a trend-momentum crossover gauge) sits at -3.19 below its -2.92 signal line with a -0.27 negative histogram, signaling no bullish crossover yet. RSI 14 (a 0–100 momentum gauge where under 30 is oversold) recovered to 37.86, leaving oversold territory but staying below the 50 neutral line. Within Bollinger Bands (20/2, a volatility range around the 20-day average), price sits in the lower half between the $20.63 lower band and $28.49 middle band, and near the bottom 16% of its $19.48–$51.40 52-week range. Volume hit 62.41M shares—29% above the 48.48M 20-day average—confirming strong participation, though shares faded from a $26.27 open and $26.37 high. Key support lies at $20.63 and $19.48, with near-term resistance at $26.37 and $28.49."
            },
     "th":  {
-               "headline":  "ยอดขายทำสถิติใหม่ แต่ติดคดีส่งออก SMCI ร่วงจนเข้าโซน oversold ใกล้จุดต่ำสุด 52 สัปดาห์",
-               "summary":  "Super Micro ปิดที่ $21.65 เมื่อ 20 พ.ย. 2026 ลดลง 9.19% ในวันเดียว และ 19.4% ทั้งสัปดาห์ ผลประกอบการเองแข็งแรงมาก วันที่ 3 พ.ย. บริษัทรายงานยอดขาย Q1 ปีบัญชี 2027 ที่ $19.9B เกือบ 4 เท่าของปีก่อน และปรับเป้าทั้งปี FY27 ขึ้นเป็น $72–82B แต่หุ้นกลับร่วงลง วันที่ 12 พ.ย. มีรายงานว่ากระทรวงยุติธรรมสหรัฐ (DOJ) กำลังตรวจสอบการลักลอบส่งเซิร์ฟเวอร์ Supermicro เข้าจีน ประกอบกับความวุ่นวายที่ Nvidia ที่ฉุดหุ้นฮาร์ดแวร์ AI ทั้งกลุ่ม แรงขายรอบนี้มาจากความเสี่ยงทางกฎหมายกับมาร์จิ้นที่บาง ไม่ใช่ดีมานด์ที่หาย กราฟยังเป็นขาลงชัดเจน แต่อยู่ในโซนขายมากเกินไปแล้ว",
-               "pros":  [
-                            "ยอดขาย Q1 อยู่ที่ $19.9B (ปีก่อน $5.0B) และปรับเป้า FY27 ขึ้นเป็น $72–82B",
-                            "ไกด์ Q2 ยอดขาย $19.5–21.5B และ EPS non-GAAP $1.66–1.90 ต่อให้ใช้ตัวเลขต่ำสุดก็ได้ราว $6.6 ต่อปี หรือประมาณ 3 เท่าของราคาหุ้น",
-                            "ผู้บริหารบอกว่าเป็นรายแรก ๆ ที่ส่งแร็ก Nvidia Vera Rubin NVL72 ได้ แสดงว่าจุดแข็งเรื่องความเร็วออกสู่ตลาดยังใช้ได้",
-                            "RSI 28 และราคาที่อยู่ติดขอบล่าง Bollinger บอกว่าหุ้นถูกขายมากเกินไป ราคาห่างจุดต่ำสุด 52 สัปดาห์แค่ $2.17"
-                        ],
+               "caution":  "การพุ่งขึ้นในวันที่ 23 พ.ย. ยังดูเป็นการรีบาวด์ระยะสั้นมากกว่าจุดกลับตัวที่ชัดเจน โดยเฉพาะเมื่อราคาอ่อนตัวลงจากจุดสูงสุดระหว่างวันที่ $26.37 มาปิด $24.53 ใต้เส้น EMA ทั้งสามเส้น นักลงทุนยังเผชิญแรงกดดันสองด้าน ทั้งคดีสอบสวนการส่งออกของ DOJ (12 พ.ย.) ที่อาจนำไปสู่ค่าปรับหรือกระทบความเชื่อมั่นลูกค้า และกระแสเงินสดจากการดำเนินงานที่ติดลบ -$434M ขณะต้องแบกรับการผลิตระดับ $80B บนอัตรากำไรขั้นต้นบางเพียง 12.7% อีกทั้งการขอขึ้นราคาหลังเซ็นสัญญายังเสี่ยงสร้างแรงเสียดทานกับลูกค้าไฮเปอร์สเกลเลอร์รายใหญ่",
                "cons":  [
-                            "Bloomberg และ Semafor รายงานเมื่อ 12 พ.ย. ว่า DOJ กำลังตรวจสอบการลักลอบส่งฮาร์ดแวร์ Supermicro เข้าจีน แต่ยังไม่มีการตั้งข้อหา",
-                            "ผู้ร่วมก่อตั้ง Wally Liaw จะขึ้นศาลเดือน มี.ค. 2027 ในคดีส่งเซิร์ฟเวอร์มูลค่าราว $2.5B เข้าจีน และบริษัทเองได้รับหมายเรียกจากคณะลูกขุนใหญ่",
-                            "ลูกค้ารายเดียวคิดเป็น 44% ของรายได้ Q1 เพิ่มจาก 28% ใน FY26",
-                            "ไกด์ gross margin ไตรมาส Q2 อยู่ที่ 12–12.5% และทั้งปี FY27 ที่ 11.8–12.2% อำนาจกำหนดราคาจึงต่ำ",
-                            "กระแสเงินสดจากการดำเนินงาน Q1 ติดลบ $434M และหนี้ธนาคารรวมหุ้นกู้แปลงสภาพอยู่ที่ $8.6B"
+                            "Bloomberg รายงานเมื่อ 12 พ.ย. ว่าอัยการ DOJ นิวยอร์กกำลังสอบสวนบุคคลที่สามต้องสงสัยลักลอบส่งเซิร์ฟเวอร์ SMCI เข้าจีน",
+                            "อัตรากำไรขั้นต้นแบบ GAAP ลดลงจาก 17.5% ใน Q4 FY2026 เหลือ 12.7% ใน Q1 FY2027 จากสัดส่วนแร็ค AI ที่มาร์จินต่ำกว่า",
+                            "การเร่งสะสมสินค้าคงคลังและลูกหนี้การค้าทำให้กระแสเงินสดดำเนินงาน Q1 ติดลบ -$434M (กระแสเงินสดอิสระ -$481M) แม้กำไรสุทธิแตะ $1.59B",
+                            "ราคาหุ้นยังอยู่ต่ำกว่า EMA 50/100/200 ($31.87–$33.80) ถึง 23%–27% และการดีดตัววันที่ 23 พ.ย. ถูกขายทำกำไรจาก $26.37 ลงมาปิด $24.53"
                         ],
-               "opportunityCheck":  "คะแนนด้าน exposure ดูสมเหตุสมผล เพราะ AI คิดเป็นราว 71% ของรายได้ Q1 และผู้บริหารคาดว่าจะเป็น 70–80% ใน FY27 คะแนนการเติบโตของตลาดก็สอดคล้องกับไกด์ที่ปรับขึ้น ส่วนคะแนน bottleneck ที่ต่ำก็เข้ากับ gross margin ราว 12% ข้อที่ควรปรับลดคือ position เพราะลูกค้ารายเดียวกินสัดส่วนถึง 44% และการถูกสอบสวนเรื่องส่งออกซ้ำแล้วซ้ำเล่าอาจทำให้ hyperscaler ภาครัฐ และ Nvidia เองลังเลที่จะพึ่งพา Supermicro ส่วน optionality ดูพอเหมาะ โดยรวมคะแนนอาจสูงไปเล็กน้อย เพราะยังไม่มีหัวข้อไหนสะท้อนความเสี่ยงทางกฎหมาย",
-               "technical":  "แนวโน้มเป็นขาลงชัดเจน ราคา $21.65 ต่ำกว่า EMA (เส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนัก ใช้ดูทิศทางแนวโน้ม) ทั้งสามเส้นราวหนึ่งในสาม ได้แก่ EMA50 $32.17, EMA100 $33.38 และ EMA200 $33.89 ลำดับที่เส้น 50 อยู่ใต้ 100 และ 100 อยู่ใต้ 200 คือรูปแบบขาลงแบบคลาสสิก โมเมนตัมเป็นลบ MACD (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ −3.31 ต่ำกว่าเส้น signal ที่ −2.85 และ histogram อยู่ที่ −0.46 แปลว่าแรงขายยังเพิ่มขึ้น ยังไม่ได้อ่อนลง RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 28.04 จึงเข้าโซน oversold แล้ว ราคาอยู่ใกล้ขอบล่าง Bollinger Band ที่ $21.05 ซึ่งเป็นขอบล่างของกรอบที่ราคามักแกว่งอยู่ตามปกติ กรอบ 52 สัปดาห์คือ $19.48–51.40 ราคาตอนนี้ต่ำกว่าจุดสูงสุดราว 58% และสูงกว่าจุดต่ำสุดเพียง $2.17 วอลุ่ม 48.3M หุ้นสูงกว่าค่าเฉลี่ย 20 วันที่ 46.5M แค่ 4% การร่วง −9.19% เมื่อ 20 พ.ย. จึงยังไม่ใช่การเทขายแบบตื่นตระหนก แนวรับแรกอยู่ที่ $21.05 ถัดไปคือ $19.48–20.53 ซึ่งเป็นจุดต่ำเมื่อเดือน มี.ค. แนวต้านอยู่ราว $27 (ราคาปิด 12 พ.ย.) และ $28.90 (เส้นกลาง Bollinger) ภาวะ oversold อาจทำให้ราคาเด้งได้ แต่ลำพังตัวมันเองไม่ได้ยืนยันว่าขาลงจบแล้ว",
-               "fundamental":  "Supermicro ประกอบเซิร์ฟเวอร์ AI และแร็กระบายความร้อนด้วยของเหลวโดยใช้ GPU ของ Nvidia และ AMD จุดแข็งคือนำแพลตฟอร์มใหม่ไปส่งถึงลูกค้าได้เร็ว ไม่ได้ถือเทคโนโลยีที่หายาก ผล Q1 ปีบัญชี 2027 (ไตรมาสสิ้นสุด 30 ก.ย. 2026 ประกาศ 3 พ.ย.) ออกมาโดดเด่นมาก ยอดขาย $19.9B กำไรสุทธิ $1.59B และ EPS non-GAAP $1.81 บริษัทปรับเป้ารายได้ FY27 ขึ้นเป็น $72–82B จากเดิม $65–72B แต่คุณภาพของตัวเลขอ่อนกว่าที่เห็น ราว $2.3B ของรายได้ Q1 เป็นงานค้างที่เลื่อนมาส่งในไตรมาสนี้ gross margin อยู่ที่ 12.7% และไกด์ว่าจะลดลงอีก ลูกค้ารายเดียว (Raymond James เชื่อว่าคือ SpaceX) คิดเป็น 44% ของยอดขาย เงินทุนหมุนเวียนดูดเงินสดจนกระแสเงินสดจากการดำเนินงานติดลบ $434M ขณะที่มีหนี้ $8.6B หุ้นซื้อขายที่ราว 0.33 เท่าของยอดขายย้อนหลัง (ข้อมูลจาก Trefis) ระดับนี้สะท้อนว่าตลาดหักส่วนลดให้ความเสี่ยงทางกฎหมายและความไม่แน่นอนว่ากำไรจะยั่งยืนแค่ไหน",
+               "fundamental":  "ในเชิงธุรกิจหลัก SMCI กำลังขยายขนาดได้อย่างรวดเร็วมากในห่วงโซ่การประกอบเซิร์ฟเวอร์ AI โดยงบ Q1 FY2027 (3 พ.ย. 2026) ทำรายได้ $19.9B (+298% YoY เพิ่มจาก $11.1B ใน Q4 FY2026) กำไร Non-GAAP EPS $1.81 พร้อมให้คาดการณ์รายได้ Q2 ที่ $19.5B–$21.5B และปรับเป้ารายได้ทั้งปี FY2027 ขึ้นเป็น $72B–$82B การเปิดตัวสินค้าใหม่อย่างสตอเรจ PCIe Gen 6 ชิป AMD EPYC 9006 (18 พ.ย.) และแร็ค NVIDIA Vera (16 พ.ย.) สะท้อนจุดแข็งด้านความเร็วสู่ตลาด อย่างไรก็ดี ข้อจำกัดด้านมาร์จินบางยังชัดเจน เมื่ออัตรากำไรขั้นต้น GAAP ลดลงจาก 17.5% เหลือ 12.7% และเงินทุนหมุนเวียนดึงกระแสเงินสดดำเนินงานติดลบ -$434M แม้มีเงินสดในมือ $6.9B เมื่อรวมกับข่าวสอบสวนของ DOJ (12 พ.ย.) จึงต้องจัดสถานะสมมติฐานความได้เปรียบระยะยาวไว้ที่ระดับเฝ้าระวัง (watch)",
+               "headline":  "SMCI ดีดกลับ 13.3% รับข่าวขึ้นราคาเซิร์ฟเวอร์ แต่กราฟและคดี DOJ ยังกดดัน",
                "news":  [
-                            "3 พ.ย. 2026: ยอดขาย Q1 อยู่ที่ $19.9B, EPS non-GAAP $1.81 และปรับเป้ารายได้ FY27 ขึ้นเป็น $72–82B ไกด์ Q2 อยู่ที่ $19.5–21.5B บริษัทแจ้งล่วงหน้าแล้วเมื่อ 20 ต.ค. ว่ารายได้จะสูงกว่าเป้า",
-                            "4 พ.ย. 2026: หุ้นลงไปใกล้จุดต่ำสุดในรอบ 3 เดือน แม้ผลประกอบการจะดีกว่าคาด นักวิเคราะห์กังวลเรื่องลูกค้ารายเดียวที่คิดเป็น 44% และไกด์ gross margin FY27 ที่ 11.8–12.2% ส่วน Raymond James ปรับเป้าราคาขึ้นเป็น $65 และคงคำแนะนำ Outperform",
-                            "12 พ.ย. 2026: หุ้นร่วง 11.3% ไปปิดที่ $26.99 หลัง Bloomberg และ Semafor รายงานว่าสำนักงานอัยการสหรัฐที่แมนฮัตตันกำลังตรวจสอบว่ากลุ่มบริษัทที่เชื่อมโยงกับ Alice Huang ลักลอบนำฮาร์ดแวร์ Supermicro เข้าจีนหรือไม่ Supermicro ยืนยันว่าให้ความร่วมมือเต็มที่และ Megaspeed ไม่เคยเป็นลูกค้า แต่กระทรวงมหาดไทยสิงคโปร์ระบุว่า Supermicro ให้ความร่วมมือ \u0027อย่างจำกัด\u0027",
-                            "12 พ.ย. 2026: นักวิเคราะห์หลายรายลดอันดับหุ้น Nvidia ท่ามกลางความวุ่นวายในทีมผู้บริหาร ซึ่งฉุดหุ้นเซิร์ฟเวอร์ AI ทั้งกลุ่มและซ้ำเติมการร่วงของ Supermicro",
-                            "16–20 พ.ย. 2026: แรงขายต่อเนื่องตลอดช่วงนี้ รวมถึงวันที่ 16 พ.ย. ที่ร่วงอีก 5% วันที่ 20 พ.ย. หุ้นลงอีก 9.19% บทสรุปตลาดฉบับหนึ่งโยงสาเหตุไปที่ข่าวสภาคองเกรสสอบสวนการส่งออกชิป AI แต่ยังยืนยันไม่ได้ว่ามีการสอบสวนของคองเกรสที่มุ่งเป้า Supermicro โดยตรง เพราะการตรวจสอบของวุฒิสภาและสภาผู้แทนฯ ตอนนี้เน้นที่ Nvidia และ Megaspeed"
+                            "22–23 พ.ย. 2026: Financial Times รายงานว่า SMCI, Dell, HPE และ Lenovo ขอปรับเพิ่มราคาเซิร์ฟเวอร์ AI ชิป NVIDIA อีก 25%–45% ณ วันส่งมอบจากภาวะขาดแคลนหน่วยความจำและแผงวงจร หนุนหุ้น SMCI ดีดขึ้น 13.3% ปิด $24.53 ในวันที่ 23 พ.ย. ตามการฟื้นตัวของกลุ่มเทค",
+                            "18 พ.ย. 2026: ในงาน SC26 บริษัทเริ่มส่งมอบเซิร์ฟเวอร์สตอเรจ All-Flash มาตรฐาน PCIe Gen 6 รุ่นแรกที่ใช้ซีพียู AMD EPYC 9006 ซึ่งเพิ่มแบนด์วิดท์อ่านข้อมูลเท่าตัว และเมื่อ 16 พ.ย. NVIDIA ยังระบุชื่อ SMCI เป็นพันธมิตรเปิดตัวแร็ค Vera CPU สำหรับงานคำนวณวิทยาศาสตร์",
+                            "12 พ.ย. 2026: Bloomberg รายงานว่าอัยการกลางแมนแฮตตันกำลังสอบสวนว่า Alice Huang และบริษัทโลจิสติกส์ Megaspeed International ช่วยลักลอบส่งเซิร์ฟเวอร์ AI ของ SMCI เข้าจีนหรือไม่ กดหุ้นร่วงราว 11%–12% ในวันเดียว แม้บอร์ดบริษัทเพิ่งสรุปผลสอบภายในเมื่อ 20 ส.ค.",
+                            "3 และ 6 พ.ย. 2026: SMCI รายงานรายได้ Q1 FY2027 แตะ $19.9B (+298% YoY) และ Non-GAAP EPS $1.81 พร้อมปรับเป้ารายได้ทั้งปี FY2027 เป็น $72B–$82B ก่อนยื่นแบบ 10-Q ในวันที่ 6 พ.ย. แต่ตลาดยังกังวลอัตรากำไรขั้นต้น GAAP ที่ลดลงเหลือ 12.7% และกระแสเงินสดดำเนินงานติดลบ -$434M",
+                            "15 และ 20 ต.ค. 2026: บริษัทแต่งตั้ง Mark Long อดีตผู้บริหาร Western Digital เป็น CFO ถาวรเมื่อ 15 ต.ค. เพื่อยกระดับระบบควบคุมภายในและการปฏิบัติตามกฎระเบียบ ก่อนปรับเพิ่มคาดการณ์รายได้เบื้องต้น Q1 เป็น $18.5B–$19.5B ในวันที่ 20 ต.ค."
                         ],
-               "caution":  "นี่เป็นเรื่องควบคุมการส่งออกเรื่องที่สามในปี 2026 ผู้ร่วมก่อตั้ง Liaw ถูกตั้งข้อหาเมื่อ มี.ค. และจะขึ้นศาล มี.ค. 2027 บริษัทได้รับหมายเรียกจากคณะลูกขุนใหญ่ มีการสอบถามจาก SEC และ BIS และล่าสุดมีข่าวว่า DOJ กำลังสอบสวน หากบริษัทถูกตั้งข้อหาเอง หรือ Nvidia ลดการจัดสรร GPU ให้ ธุรกิจที่เหลือกำไรขั้นต้นแค่ราว 12 เซนต์ต่อยอดขาย 1 ดอลลาร์จะได้รับผลกระทบหนัก รายได้ยังกระจุกอยู่กับลูกค้ารายเดียว กระแสเงินสดติดลบ และมีหนี้ $8.6B ออร์เดอร์ที่เลื่อนเพียงรายการเดียวจึงอาจทำให้ผลประกอบการผันผวนมาก กราฟเองก็ยังไม่มีสัญญาณว่าถึงจุดต่ำสุด",
-               "opportunity":  "ธุรกิจยังส่งมอบได้ตามที่บอก ยอดขายโตเกือบ 4 เท่าจากปีก่อน ไกด์ FY27 อยู่ที่ $72–82B และบริษัทเป็นรายแรก ๆ ที่ส่งแร็ก Vera Rubin NVL72 ได้ ที่ราคา $21.65 ตลาดตั้งราคาเผื่อความเสียหายทางกฎหมายไว้มาก ทั้งราว 0.33 เท่าของยอดขาย และเพียงไม่กี่เท่าของ EPS ตามไกด์เมื่อคิดเป็นรายปี หากการสอบสวนจบลงโดยไม่มีข้อหาต่อตัวบริษัท ช่องว่างระหว่างกำไรกับราคาหุ้นอาจแคบลง ตัวเลขชี้วัดถัดไปคือผล Q2 ที่กำหนดประกาศ 2 ก.พ. 2027",
+               "opportunity":  "สำหรับผู้ถือหุ้นโครงสร้างพื้นฐาน AI ระยะยาว ช่องว่างระหว่างราคาหุ้นที่อ่อนตัวลง ($24.53 ใกล้จุดต่ำสุดรอบ 52 สัปดาห์ที่ $19.48) กับขนาดธุรกิจที่พุ่งสู่เป้ารายได้ $72B–$82B ในปี FY2027 เป็นจุดที่น่าติดตาม หาก CFO Mark Long ยกระดับการควบคุมภายในได้สำเร็จ คดี DOJ จบลงโดยไม่กระทบการดำเนินงานรุนแรง และ SMCI รักษาอัตรากำไรขั้นต้นแถว 12%–13%+ ผ่านการส่งต่อต้นทุนหน่วยความจำและแผงวงจร พร้อมขยายยอดขายสตอเรจ PCIe Gen 6 และแร็คระบายความร้อนด้วยของเหลว NVIDIA Vera จนกระแสเงินสดอิสระพลิกบวก ความเชื่อมั่นตลาดอาจกลับมาฟื้นตัวได้",
+               "opportunityCheck":  "ภาพรวมคะแนนโอกาส AI บนหน้าเว็บไซต์สะท้อนตัวตนของ SMCI ได้ค่อนข้างตรงแล้ว ทั้งสัดส่วนรายได้ AI และการเติบโตของตลาดที่สูงมากซึ่งสอดคล้องกับเป้ารายได้ $72B–$82B ในปี FY2027 รวมถึงอำนาจกำหนดราคาที่ต่ำซึ่งตรงกับอัตรากำไรขั้นต้น Q1 ที่หล่นมา 12.7% และการขึ้นราคาแบบตั้งรับต้นทุน อย่างไรก็ตาม เราเห็นควรปรับลดคะแนนด้าน “ตำแหน่งทางการตลาด” (position) ลงเล็กน้อย แม้ SMCI จะส่งมอบแร็ค NVIDIA Vera และ AMD EPYC 9006 ได้เร็ว แต่ข่าวสอบสวนการส่งออกของ DOJ เมื่อ 12 พ.ย. และการขอปรับราคาหลังเซ็นสัญญา อาจผลักลูกค้าไฮเปอร์สเกลเลอร์ที่เคร่งครัดกฎระเบียบให้หันไปหา Dell, HPE หรือ ODM เอเชียมากขึ้น",
+               "pros":  [
+                            "รายได้ Q1 FY2027 (3 พ.ย.) พุ่ง 298% YoY แตะ $19.9B ทำให้ผู้บริหารปรับเป้ารายได้ทั้งปี FY2027 ขึ้นเป็น $72B–$82B",
+                            "รายงาน Financial Times (22 พ.ย.) เผย SMCI และคู่แข่งส่งต่อต้นทุนชิ้นส่วนที่พุ่งขึ้น 25%–45% ให้ผู้ซื้อ ณ วันส่งมอบ ช่วยพยุงมาร์จิน",
+                            "งาน SC26 วันที่ 18 พ.ย. เริ่มส่งมอบสตอเรจ All-Flash PCIe Gen 6 ชิป AMD EPYC 9006 เป็นรายแรก พร้อมร่วมเปิดตัวแร็ค NVIDIA Vera (16 พ.ย.)",
+                            "ได้ Mark Long เข้ารับตำแหน่ง CFO ถาวรเมื่อ 15 ต.ค. 2026 เพื่อเสริมธรรมาภิบาลและการควบคุมภายใน โดยมีเงินสดในมือ $6.9B ณ 30 ก.ย."
+                        ],
                "risks":  [
-                             "การสอบสวนของ DOJ หรือเรื่องควบคุมการส่งออกอาจนำไปสู่การตั้งข้อหาหรือค่าปรับต่อตัวบริษัทเอง",
-                             "Nvidia อาจลดหรือชะลอการจัดสรร GPU หรือลูกค้าอาจย้ายไปใช้ Dell หรือ HPE",
-                             "ถ้าเสียหรือเลื่อนออร์เดอร์จากลูกค้าที่คิดเป็น 44% รายได้จะลดลงมาก",
-                             "gross margin อาจหลุดต่ำกว่า 12% เมื่อการแข่งขันด้านราคาดุเดือดขึ้น",
-                             "กระแสเงินสดที่อ่อนแอกับหนี้ $8.6B อาจบีบให้ต้องระดมทุนจนผู้ถือหุ้นเดิมถูก dilute",
-                             "ประวัติด้านธรรมาภิบาลมีทั้งการรับสารภาพคดีส่งออกปี 2006 ผู้สอบบัญชีลาออกปี 2024 และการเปลี่ยน CFO เมื่อ ต.ค. 2026"
-                         ]
+                             "การสอบสวนด้านควบคุมการส่งออกของ DOJ (รายงาน 12 พ.ย.) และหมายเรียกจาก SEC อาจนำไปสู่ค่าปรับ ข้อจำกัดการค้า หรือการเสียลูกค้ารายใหญ่",
+                             "แรงกดดันเงินทุนหมุนเวียน (กระแสเงินสดดำเนินงาน Q1 ติดลบ -$434M) อาจบีบให้บริษัทต้องกู้ยืมเพิ่มหรือเพิ่มทุนหากเก็บเงินไม่ทันสต็อกสินค้า",
+                             "ต้นทุนหน่วยความจำและแผงวงจรที่พุ่งสูง รวมถึงการแข่งขันดุเดือดจาก Dell, HPE และ ODM เอเชีย กดดันอัตรากำไรขั้นต้นบางที่ 12.7%",
+                             "การพึ่งพาลูกค้าไฮเปอร์สเกลเลอร์เพียงไม่กี่รายทำให้รายได้และมาร์จินรายไตรมาสผันผวนแรงหากลูกค้าชะลองบลงทุน CapEx"
+                         ],
+               "summary":  "หุ้น Super Micro Computer (SMCI) พุ่งขึ้น 13.3% ปิดที่ $24.53 เมื่อ 23 พ.ย. 2026 หลังรายงาน Financial Times (22 พ.ย.) ระบุผู้ผลิตเซิร์ฟเวอร์ AI ขอปรับเพิ่มราคาส่งมอบ 25%–45% เพื่อชดเชยต้นทุนหน่วยความจำและแผงวงจร ทว่าโครงสร้างราคายังอยู่ในขาลงชัดเจน (ต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $51.40 ถึง 52%) จากแรงกดดันข่าว Bloomberg (12 พ.ย.) เรื่องอัยการ DOJ สอบสวนการลักลอบส่งออก แม้รายได้ Q1 FY2027 (3 พ.ย.) โตเกือบสี่เท่าสู่ $19.9B และปรับเป้ารายได้ทั้งปีเป็น $72B–$82B แต่อัตรากำไรขั้นต้นหล่นมา 12.7% พร้อมกระแสเงินสดดำเนินงานติดลบ -$434M ทำให้ต้องเฝ้าระวังสมมติฐานระยะยาว",
+               "technical":  "โครงสร้างทางเทคนิคของ SMCI ณ วันที่ 23 พ.ย. 2026 ยังเป็นขาลงชัดเจน แม้ราคาจะดีดกลับ +13.3% ในวันเดียวมาที่ $24.53 โดยราคายังอยู่ต่ำกว่า EMA 50 ($31.87), EMA 100 ($33.21) และ EMA 200 ($33.80) ซึ่งเป็นเส้นค่าเฉลี่ยเคลื่อนที่ใช้วัดแนวโน้ม เรียงตัวเป็นขาลงเต็มรูปแบบ ทำให้โซน $31.87–$33.80 กลายเป็นแนวต้านหนาแน่นด้านบน ด้านโมเมนตัมยังอ่อนแรง: MACD (12/26/9 ตัวชี้วัดโมเมนตัมและจุดตัดแนวโน้ม) อยู่ที่ -3.19 ต่ำกว่าเส้น Signal ที่ -2.92 โดยมีค่า Histogram ติดลบ -0.27 ยังไม่เกิดสัญญาณกลับตัวเป็นขาขึ้น ส่วน RSI 14 (มาตรวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นตัวมาที่ 37.86 พ้นเขตขายมากเกินไปแต่ยังต่ำกว่าระดับกลาง 50 ด้านความผันผวนตาม Bollinger Bands (20/2 กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาอยู่ครึ่งล่างระหว่างกรอบล่าง $20.63 และเส้นกลาง $28.49 และอยู่ช่วง 16% ล่างของกรอบ 52 สัปดาห์ ($19.48–$51.40) ปริมาณซื้อขายอยู่ที่ 62.41M หุ้น สูงกว่าค่าเฉลี่ย 20 วัน (48.48M) ราว 29% แต่ราคาลดช่วงบวกลงจากราคาเปิด $26.27 และจุดสูงสุด $26.37 โดยมีแนวรับสำคัญที่ $20.63 และ $19.48 ส่วนแนวต้านระยะสั้นอยู่ที่ $26.37 และ $28.49"
            },
     "sources":  [
                     {
+                        "date":  "2026-11-03",
+                        "publisher":  "Supermicro Investor Relations",
                         "title":  "Supermicro Announces First Quarter of Fiscal Year 2027 Financial Results",
+                        "url":  "https://ir.supermicro.com/news/news-details/2026/Supermicro-Announces-First-Quarter-of-Fiscal-Year-2027-Financial-Results/default.aspx"
+                    },
+                    {
+                        "date":  "2026-11-06",
+                        "publisher":  "U.S. Securities and Exchange Commission",
+                        "title":  "Super Micro Computer, Inc. Form 10-Q (Q1 FY2027, EDGAR Filings)",
+                        "url":  "https://www.sec.gov/edgar/browse/?CIK=0001375365"
+                    },
+                    {
+                        "date":  "2026-11-12",
+                        "publisher":  "Bloomberg",
+                        "title":  "US Probing If Alice Huang Helped Smuggle Super Micro Products",
+                        "url":  "https://www.bloomberg.com/news/articles/2026-11-12/us-probing-if-alice-huang-helped-smuggle-super-micro-products"
+                    },
+                    {
+                        "date":  "2026-11-18",
                         "publisher":  "Supermicro",
-                        "url":  "https://www.supermicro.com/en/pressreleases/supermicro-announces-first-quarter-fiscal-year-2027-financial-results",
-                        "date":  "2026-11-03"
+                        "title":  "Supermicro Ships First All-Flash Storage Servers, Delivering PCIe Gen 6 Performance and Broad Software-Defined Storage Support for AI Training and Inference",
+                        "url":  "https://www.supermicro.com/en/pressreleases/supermicro-ships-first-all-flash-storage-servers-delivering-pcie-gen-6-performance"
                     },
                     {
-                        "title":  "What Explains The Move In Super Micro Stock?",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/smci/articles/624901/what-explains-the-move-in-super-micro-stock/2026-11-13",
-                        "date":  "2026-11-13"
-                    },
-                    {
-                        "title":  "Before Megaspeed, there was Supermicro: The other Nvidia partner tied to China chip smuggling—and to Jensen Huang",
-                        "publisher":  "Fortune",
-                        "url":  "https://fortune.com/2026/11/12/jensen-huang-affair-megaspeed-supermicro-nvidia-smuggling-doj/",
-                        "date":  "2026-11-12"
-                    },
-                    {
-                        "title":  "Supermicro, Nvidia Reportedly Face DOJ Scrutiny In Separate Inquiries — SMCI Stock Plunges",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/markets/stocks/articles/supermicro-nvidia-reportedly-face-doj-175845243.html",
-                        "date":  "2026-11-12"
-                    },
-                    {
-                        "title":  "This One Customer Is Now 44% of Super Micro\u0027s Revenue",
-                        "publisher":  "24/7 Wall St.",
-                        "url":  "https://247wallst.com/investing/2026/11/04/this-one-customer-is-now-44-of-super-micros-revenue/",
-                        "date":  "2026-11-04"
-                    },
-                    {
-                        "title":  "SMCI Stock Near 3-Month Low: Super Micro\u0027s Earnings Beat Fails To Ease Analyst Concerns Over Margins",
-                        "publisher":  "Stocktwits",
-                        "url":  "https://stocktwits.com/news-articles/markets/equity/smci-stock-near-3-month-low-super-micro-s-earnings-beat-fails-to-ease-analyst-concerns-over-margins/cNGL18LR93M",
-                        "date":  "2026-11-04"
-                    },
-                    {
-                        "title":  "Super Micro Falls 5% as Reported DOJ Smuggling Probe Weighs for a Third Session; Dell and Hewlett Packard Enterprise Drop 4%",
-                        "publisher":  "24/7 Wall St.",
-                        "url":  "https://247wallst.com/investing/2026/11/16/super-micro-falls-5-as-reported-doj-smuggling-probe-weighs-for-a-third-session-dell-and-hewlett-packard-enterprise-drop-4/",
-                        "date":  "2026-11-16"
-                    },
-                    {
-                        "title":  "Weekly Recap",
-                        "publisher":  "Longbridge",
-                        "url":  "https://longbridge.com/en/news/306360887",
-                        "date":  "2026-11-21"
+                        "date":  "2026-11-22",
+                        "publisher":  "Seeking Alpha (citing Financial Times)",
+                        "title":  "Tech suppliers jack up AI server prices after contracts inked - FT",
+                        "url":  "https://seekingalpha.com/news/4434225-tech-suppliers-jack-up-ai-server-prices-after-contracts-inked-ft"
                     }
                 ]
 }

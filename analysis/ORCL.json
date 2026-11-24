@@ -2,47 +2,45 @@
     "ticker":  "ORCL",
     "name":  "Oracle",
     "symbol":  "NYSE:ORCL",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-22T15:53:16Z",
-    "costUsd":  0.7067642,
+    "generatedAt":  "2026-11-24T04:52:30Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NYSE:ORCL",
                        "yahoo":  "ORCL",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-22T15:50:49Z",
-                       "price":  101.19,
-                       "open":  108.48,
-                       "high":  108.99,
-                       "low":  100.25,
-                       "volume":  47315400,
-                       "avgVolume20":  42119575,
-                       "changePct":  -8.48,
-                       "historyDays":  501,
-                       "ema50":  129.77,
-                       "ema100":  139.53,
-                       "ema200":  153.67,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:44:53Z",
+                       "price":  113.68,
+                       "open":  116.44,
+                       "high":  118.7,
+                       "low":  112.28,
+                       "volume":  40488200,
+                       "avgVolume20":  43017310,
+                       "changePct":  12.34,
+                       "historyDays":  500,
+                       "ema50":  129.14,
+                       "ema100":  139.02,
+                       "ema200":  153.22,
                        "bb":  {
-                                  "upper":  141.85,
-                                  "middle":  122.51,
-                                  "lower":  103.16
+                                  "upper":  141.53,
+                                  "middle":  121.89,
+                                  "lower":  102.24
                               },
                        "macd":  {
-                                    "macd":  -6.27,
-                                    "signal":  -4.82,
-                                    "hist":  -1.45
+                                    "macd":  -6.05,
+                                    "signal":  -5.07,
+                                    "hist":  -0.99
                                 },
-                       "rsi14":  31.83,
+                       "rsi14":  43.4,
                        "high52w":  250.25,
                        "low52w":  100.25,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         230.33
-                                     ],
                                      [
                                          "2026-06-04",
                                          236.34
@@ -518,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          101.19
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         113.68
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          186.22,
                                           188.19,
                                           189.19,
                                           190.07,
@@ -640,125 +641,112 @@
                                           132.5,
                                           131.77,
                                           130.94,
-                                          129.77
+                                          129.77,
+                                          129.14
                                       ]
                    },
     "en":  {
-               "headline":  "Oracle at a 52-week low as funding worries outweigh a $664B backlog",
-               "summary":  "ORCL closed at $101.19 on 20 Nov 2026, down 8.48% that day and 19.3% for the week. That puts it 60% below its 52-week high of $250.25. The selling followed Oracle\u0027s $20B raise on 2 Nov: $10B of stock priced at $116 and $10B of bonds paying 7.0–8.65% interest. It also came during a sell-off in chip stocks. The business is still growing fast. In fiscal Q1 (reported 10 Sep), OCI revenue rose 121% and the backlog reached $664B. The market\u0027s worry is the debt, the lease commitments and the dependence on OpenAI, not demand.",
-               "pros":  [
-                            "Backlog (RPO) reached $664B in fiscal Q1 FY27, and about 90% of it is cloud infrastructure.",
-                            "OCI revenue rose 121% to $7.4B, and management raised FY27 revenue guidance to at least $90B.",
-                            "Oracle says the OpenAI build is fully funded, the Abilene campus is nearly complete and Vera Rubin rack deliveries are on track.",
-                            "Bernstein estimates the non-AI business alone is worth about $133 a share, well above today\u0027s price."
-                        ],
+               "caution":  "The sharpest near-term risk is financial leverage colliding with peak AI construction costs. Carrying $125.3 billion in borrowings as of August 31, 2026—plus $10 billion in new 7.00%–8.65% notes and roughly $288 billion in uncommenced lease commitments—leaves little cushion with S\u0026P at BBB- and Moody\u0027s on Negative outlook. Any delay in Texas campus handovers, OpenAI monetization hiccup, or higher capex revealed in mid-December\u0027s Q2 FY27 earnings could reignite \"fallen angel\" downgrade fears and test $100.25 support.",
                "cons":  [
-                            "New bonds pay 7.0–8.65% interest, which is expensive money for a company that wants to be a hyperscaler.",
-                            "About $260–288B of data-center leases sit off the balance sheet and run 15–19 years.",
-                            "Free cash flow is negative, with capex of $28.5B in Q1, and Oracle does not expect it to turn positive before the second half of FY28.",
-                            "Much of the backlog depends on one customer, OpenAI, so any slowdown there would hit Oracle directly."
+                            "Heavy AI capex ($28.5 billion in Q1 FY27) pushed free cash flow to -$5.4 billion, with positive FCF not expected until 2H FY28.",
+                            "November 2\u0027s $20 billion raise diluted shareholders at $116 per share and added $10 billion in senior notes yielding 7.00%–8.65%.",
+                            "Total borrowings stood at $125.3 billion before November\u0027s notes, leaving S\u0026P at BBB- (one notch above junk) and Moody\u0027s on Negative outlook.",
+                            "Revenue backlog is heavily concentrated in OpenAI, creating counterparty risk alongside ongoing technical weakness 54.6% below the $250.25 52-week high."
                         ],
-               "opportunityCheck":  "Most of the sub-scores fit what I found. The one I would move is position, down by 1–2 points. Oracle is winning large AI contracts, but it pays 7–8.65% to borrow while Microsoft, Google and Amazon fund their buildouts from cash flow, and a large share of its backlog depends on OpenAI. That is a weaker position than the backlog size suggests. AI exposure could arguably go up a point, because about 90% of RPO is cloud infrastructure. The bottleneck score of 11 already looks appropriately modest.",
-               "technical":  "The trend is clearly down. At $101.19, the price is below the 50-day EMA ($129.77), the 100-day ($139.53) and the 200-day ($153.67). EMAs are exponential moving averages, which weight recent prices more. They are also stacked bearishly, with the shortest on the bottom, which is a textbook downtrend. MACD is -6.27, below its signal line at -4.82, with a histogram of -1.45. MACD is a trend-momentum gauge, and a negative histogram means selling pressure is still building. RSI 14 is 31.83. RSI is a 0–100 momentum gauge where under 30 counts as oversold, so the stock is close to oversold but not there yet. The price closed below the lower Bollinger Band at $103.16, the band that marks the edge of normal 20-day volatility. That shows stretched selling and often comes before a short bounce, but it does not confirm a turn. The day\u0027s low of $100.25 is also the 52-week low, and the $100 area is the nearest support. Old support near $115–116, which was the 17 Nov close and the offering price, is now overhead resistance. Volume was 47.3M shares, about 12% above the 20-day average of 42.1M, so the drop came on real selling, not thin trading.",
-               "fundamental":  "Oracle combines a sticky database and applications business with a fast-growing AI cloud. In fiscal Q1 FY27 (quarter ended 31 Aug, reported 10 Sep 2026), revenue was $19.3B, up about 30%. OCI revenue rose 121% to $7.4B, RPO reached $664B and FY27 guidance was raised to at least $90B. The cost of that growth is high. Capex was $28.5B in the quarter and free cash flow was negative. At its 28 Oct Investor Day, Oracle kept its FY30 targets of $225B+ revenue and $21+ EPS. It capped new capital raises at $20B, then used all of that on 2 Nov. Next comes the fiscal Q2 report, due around mid-December 2026. Investors will look for proof that capex is turning into revenue and that the cash burn is slowing.",
+               "fundamental":  "Oracle straddles two worlds in the AI value chain: sticky enterprise databases and cloud applications ($4.2 billion SaaS revenue, +10% year-over-year in Q1 FY27) paired with hyperscale GPU cluster hosting via OCI. Q1 FY27 results on September 10, 2026 showed total revenue up 30% to $19.3 billion, OCI surging 121% to $7.4 billion on 850 MW of new capacity, non-GAAP EPS up 30% to $1.92, and backlog reaching $664 billion. At its October 28 Investor Day, management targeted $225 billion+ revenue and $21+ non-GAAP EPS by FY30, with FCF turning positive in 2H FY28 and topping $30 billion in FY29. However, $28.5 billion in quarterly capex, $125.3 billion in existing borrowings before November 2\u0027s $10 billion high-coupon bond sale, and heavy OpenAI reliance place the long-term moat thesis on watch until cash generation inflects.",
+               "headline":  "Oracle bounces 12.3% off 52-week lows as funding clarity clashes with heavy debt",
                "news":  [
-                            "28 Oct 2026: At Investor Day, Oracle reaffirmed its FY30 goals of $225B+ revenue, a 40%+ margin and $21+ EPS. It capped new financing at $20B, split evenly between equity and debt, and targeted positive free cash flow in the second half of FY28. The shares jumped about 11% that day, then gave back the gain by 30 Oct as chip stocks sold off.",
-                            "2 Nov 2026: Oracle priced 86.2M shares at $116, an 11.2% discount to the previous close, plus $10B of notes due 2029–2046 with coupons of 7.000–8.650%. Both deals closed on 4 Nov. On the same day, Stephens upgraded the stock to Overweight with a $213 target.",
-                            "10–13 Nov 2026: Bernstein kept its Outperform rating and $325 target and estimated a value of about $133 a share even if the AI business failed. DBS cut its target to $290 from $310, and President Capital trimmed its target to $323.",
-                            "20 Nov 2026: Oracle said its OpenAI contract, which covers 4.5 GW of extra US capacity, is fully funded through the November raise plus vendor financing. It did not say how large the vendor financing is or who the vendors are. The stock still fell 8.48% to $101.19, 12.8% below the offering price, as AI chip stocks sold off."
+                            "Nov 23, 2026: ORCL jumped 12.34% to $113.68 after Nvidia reinstated co-founder Jensen Huang as CEO following U.S. government input confirming no national security risk. The news sparked a broad AI-infrastructure relief rally that amplified follow-through from Oracle\u0027s funding update.",
+                            "Nov 20, 2026: Oracle issued a formal statement confirming its OpenAI contract is fully funded after completing its final capital raise for this cycle, without relying on optional vendor financing. It added that the Abilene, Texas campus is nearly complete, the Shackelford gigawatt campus is fully permitted, and Nvidia Vera Rubin rack handovers remain on track.",
+                            "Nov 2–4, 2026: Oracle priced and closed a $20 billion capital raise—86.21 million shares at $116 ($10 billion) plus $10 billion in five-tranche senior notes paying 7.00%–8.65% due 2029–2046. Fitch affirmed Oracle at BBB (Stable) on November 2, while equity dilution and elevated coupons weighed on shares through November 20.",
+                            "Oct 28, 2026: At Investor Day in Las Vegas, co-CEOs Clay Magouyrk and Mike Sicilia guided FY30 revenue above $225 billion and non-GAAP EPS above $21, with capex peaking in FY27–FY28 and free cash flow turning positive in 2H FY28. Management also pledged to cap additional capital-market raises through FY30 at $20 billion."
                         ],
-               "caution":  "This is a balance-sheet story more than a demand story. Oracle has now used its whole self-imposed $20B financing cap, so any new raise before FY30 would hurt management\u0027s credibility. The new bonds pay up to 8.65%, a sign that lenders see real risk. About $260–288B of long-term leases are locked in whatever happens to AI demand. If OpenAI slows its spending, both the backlog and the lease burden become a problem. Technically, a break below the $100 area would leave no recent support underneath.",
-               "opportunity":  "Expectations are now much lower. The stock trades below the $116 offering price and near Bernstein\u0027s $133 estimate of what the non-AI business alone is worth. If fiscal Q2 results in mid-December show OCI growth staying above 100% and capex starting to turn into revenue, the \u0027funding crisis\u0027 story could fade quickly. RSI is near 30 and the price is below the lower Bollinger Band, so the selling looks stretched in the short term. A long-term holder gets a 121%-growth AI cloud with the database franchise underneath, at a much lower price.",
+               "opportunity":  "For long-term AI infrastructure holders, Oracle\u0027s sell-off from $250.25 to $113.68 reflects balance-sheet anxiety rather than faltering demand. With financing through FY30 reportedly completed, the Abilene campus nearly finished, Shackelford permitted, and Nvidia Vera Rubin racks arriving soon, execution milestones can quickly convert Oracle\u0027s $664 billion backlog into high-margin cloud revenue. If Q2 FY27 earnings in mid-December confirm steady capex discipline and accelerating OCI conversion toward the 2H FY28 free-cash-flow inflection, sentiment could improve meaningfully.",
+               "opportunityCheck":  "The sub-scores are broadly reasonable, but two adjustments fit the latest evidence better. AI revenue exposure deserves a bump higher: OCI already generates $7.4 billion quarterly (+121% year-over-year) and drives a $664 billion backlog, making AI cloud Oracle\u0027s primary growth engine. Conversely, bottleneck and pricing power should edge lower: issuing bonds at 7.00%–8.65% and diluting equity to build Nvidia GPU clusters for a concentrated anchor tenant like OpenAI shows Oracle absorbs capital-intensity bottlenecks rather than dictating pricing power.",
+               "pros":  [
+                            "OCI revenue surged 121% year-over-year to $7.4 billion in Q1 FY27 (reported September 10, 2026) with 97.9% GPU utilization.",
+                            "Remaining Performance Obligations reached a record $664 billion, supporting management\u0027s October 28 FY30 target of $225 billion+ revenue.",
+                            "Oracle confirmed on November 20 that its OpenAI buildout is fully funded after completing November 2\u0027s $20 billion capital raise.",
+                            "Physical execution is advancing, with the Abilene campus nearly complete, Shackelford fully permitted, and Nvidia Vera Rubin rack handovers on track."
+                        ],
                "risks":  [
-                             "OpenAI concentration: delays or contract changes at OpenAI would hit both the backlog and the cash flow plan.",
-                             "Financing risk: another equity or debt raise would break the $20B cap and dilute shareholders.",
-                             "Credit pressure: debt costs of 7–8.65% plus a rating downgrade could squeeze margins.",
-                             "Execution: data-center or GPU delivery delays would push revenue out while lease costs keep running.",
-                             "Sector sentiment: Oracle has been trading as a high-beta AI-capex stock, so chip-sector sell-offs drag it down."
-                         ]
+                             "Credit downgrade to junk status (S\u0026P sits at BBB- and Moody\u0027s carries a Negative outlook on Baa2) if leverage climbs further.",
+                             "Customer concentration in OpenAI across Oracle\u0027s $664 billion RPO if AI lab funding or compute demand slows.",
+                             "Execution or power-delivery bottlenecks across multi-gigawatt Texas data centers delaying revenue conversion and the 2H FY28 FCF turn.",
+                             "Elevated interest burden from $125.3 billion+ debt and 7.00%–8.65% new bond coupons compressing net margins."
+                         ],
+               "summary":  "Oracle (ORCL) jumped 12.34% to $113.68 on November 23, 2026, snapping a slide to a $100.25 52-week low after Nvidia reinstated CEO Jensen Huang and Oracle confirmed on November 20 that its OpenAI buildout is fully funded. Demand is surging—Q1 FY27 cloud infrastructure revenue rose 121% year-over-year to $7.4 billion with a $664 billion backlog—but November 2\u0027s $20 billion stock-and-debt raise at 7.00%–8.65% bond coupons exposed balance-sheet strain. Technicals remain bearish below all key moving averages, putting the moat thesis on watch.",
+               "technical":  "Despite surging 12.34% to $113.68 on November 23, 2026, Oracle\u0027s chart remains structurally bearish. Price sits well below its bearishly stacked exponential moving averages—smoothed trend lines—with EMA 50 at $129.14, EMA 100 at $139.02, and EMA 200 at $153.22, confirming a firmly established downtrend. Momentum has stabilized only modestly: MACD (a 12/26/9 trend-momentum gauge) sits at -6.05 below its -5.07 signal line with a -0.99 histogram, while RSI 14 (a 0–100 momentum gauge; below 30 is oversold) recovered to 43.4 but stays under the neutral 50 mark. Within the 20-day Bollinger Bands (volatility channels around a 20-day average), ORCL rebounded off the $102.24 lower band—near its $100.25 52-week low—yet remains 54.6% beneath its $250.25 52-week high and below the $121.89 middle band. Volume of 40.49 million trailed the 43.02 million 20-day average, and price faded from its $116.44 open ($118.70 high), signaling limited conviction. Key support stands at $102.24–$100.25, with layered resistance at $118.70, $121.89, and EMA 50 at $129.14."
            },
     "th":  {
-               "headline":  "Oracle หลุดลงไปทำจุดต่ำสุดรอบ 52 สัปดาห์ ตลาดกังวลเรื่องเงินทุนมากกว่า backlog",
-               "summary":  "ORCL ปิดที่ $101.19 วันที่ 20 พ.ย. 2026 ร่วง 8.48% ในวันเดียว ทั้งสัปดาห์ลดลง 19.3% และต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ที่ $250.25 อยู่ราว 60% แรงขายตามมาหลังบริษัทระดมทุน $20B เมื่อ 2 พ.ย. แบ่งเป็นหุ้นเพิ่มทุน $10B ที่ราคา $116 และหุ้นกู้ $10B ดอกเบี้ย 7.0–8.65% ประกอบกับหุ้นชิปถูกเทขายพร้อมกัน ส่วนตัวธุรกิจยังโตแรง ไตรมาส 1 (รายงาน 10 ก.ย.) รายได้ OCI โต 121% และ backlog แตะ $664B สิ่งที่ตลาดกังวลจึงเป็นหนี้ ภาระเช่า และการพึ่ง OpenAI มากกว่าความต้องการลูกค้า",
-               "pros":  [
-                            "Backlog (RPO) แตะ $664B ในไตรมาส 1 ปีงบ FY27 ราว 90% เป็นงานคลาวด์โครงสร้างพื้นฐาน",
-                            "รายได้ OCI โต 121% เป็น $7.4B และผู้บริหารปรับเป้ารายได้ FY27 ขึ้นเป็นอย่างน้อย $90B",
-                            "Oracle ยืนยันว่าโครงการ OpenAI มีเงินทุนครบ ศูนย์ Abilene ใกล้เสร็จ และการส่งมอบแร็ค Vera Rubin เป็นไปตามแผน",
-                            "Bernstein ประเมินว่าธุรกิจที่ไม่ใช่ AI อย่างเดียวมีมูลค่าราว $133 ต่อหุ้น สูงกว่าราคาปัจจุบันชัดเจน"
-                        ],
+               "caution":  "ความเสี่ยงเร่งด่วนที่สุดคือภาระหนี้สูงที่ชนกับช่วงลงทุนสร้างศูนย์ข้อมูล AI สูงสุด หนี้เงินกู้ ณ 31 ส.ค. 2026 อยู่ที่ $125.3 พันล้าน บวกหุ้นกู้ใหม่ $10 พันล้านดอกเบี้ย 7.00%–8.65% และภาระผูกพันสัญญาเช่าศูนย์ข้อมูลที่ยังไม่เริ่มนับอีกราว $288 พันล้าน ทำให้มีพื้นที่รองรับจำกัดเมื่อ S\u0026P คงอันดับที่ BBB- และ Moody\u0027s ให้มุมมองเชิงลบ หากการส่งมอบในรัฐเท็กซัสล่าช้า OpenAI สร้างรายได้ช้ากว่าคาด หรืองบ Q2 FY27 ช่วงกลางธ.ค. เผยงบลงทุนบานปลาย ตลาดอาจกลับมากังวลความเสี่ยงถูกลดอันดับสู่ระดับเก็งกำไรและกดราคากลับไปทดสอบแนวรับ $100.25",
                "cons":  [
-                            "หุ้นกู้ชุดใหม่จ่ายดอกเบี้ย 7.0–8.65% ถือเป็นต้นทุนเงินที่แพงสำหรับบริษัทที่อยากเป็น hyperscaler",
-                            "ภาระเช่าศูนย์ข้อมูลราว $260–288B อยู่นอกงบดุล และผูกพันยาว 15–19 ปี",
-                            "กระแสเงินสดอิสระติดลบ capex ไตรมาส 1 สูงถึง $28.5B และบริษัทคาดว่าจะไม่กลับเป็นบวกก่อนครึ่งหลังของ FY28",
-                            "Backlog ส่วนใหญ่ผูกกับลูกค้ารายเดียวคือ OpenAI ถ้าฝั่งนั้นชะลอ Oracle จะโดนเต็มๆ"
+                            "งบลงทุน AI สูงถึง $28.5 พันล้านใน Q1 FY27 กดกระแสเงินสดอิสระติดลบ $5.4 พันล้าน และคาดว่าจะกลับมาเป็นบวกได้ช่วงครึ่งหลังปีงบ FY28",
+                            "การระดมทุน $20 พันล้านเมื่อ 2 พ.ย. ทำให้เกิด dilution จากหุ้นเพิ่มทุนที่ $116 และเพิ่มภาระหุ้นกู้ $10 พันล้านดอกเบี้ยสูง 7.00%–8.65%",
+                            "หนี้เงินกู้เดิมสูงถึง $125.3 พันล้านก่อนออกหุ้นกู้เดือนพ.ย. ทำให้อันดับเครดิต S\u0026P อยู่ที่ BBB- (เหนือระดับขยะเพียงขั้นเดียว) และ Moody\u0027s ให้แนวโน้มลบ",
+                            "Backlog กระจุกตัวสูงกับ OpenAI เพิ่มความเสี่ยงคู่สัญญา ขณะที่ราคาหุ้นยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($250.25) ถึง 54.6%"
                         ],
-               "opportunityCheck":  "คะแนนย่อยส่วนใหญ่สอดคล้องกับข้อมูลที่พบ ตัวที่ควรปรับคือ position ลดลง 1–2 แต้ม Oracle ชนะสัญญา AI ใหญ่ๆ ก็จริง แต่ต้องกู้เงินที่ดอกเบี้ย 7–8.65% ขณะที่ Microsoft, Google และ Amazon ใช้กระแสเงินสดของตัวเองลงทุน และ backlog ก้อนใหญ่ยังพึ่ง OpenAI สถานะการแข่งขันจริงจึงอ่อนกว่าที่ขนาด backlog บอก ส่วน AI exposure อาจขยับขึ้นได้ 1 แต้ม เพราะ RPO ราว 90% เป็นงานคลาวด์โครงสร้างพื้นฐาน คะแนน bottleneck ที่ 11 ถือว่าพอเหมาะอยู่แล้ว",
-               "technical":  "แนวโน้มเป็นขาลงชัดเจน ราคา $101.19 อยู่ใต้ EMA 50 วัน ($129.77) EMA 100 ($139.53) และ EMA 200 ($153.67) EMA คือเส้นค่าเฉลี่ยเคลื่อนที่แบบให้น้ำหนักราคาล่าสุดมากกว่า และเส้นทั้งสามยังเรียงตัวแบบขาลง คือเส้นสั้นอยู่ล่างสุด เป็นภาพขาลงแบบตำรา MACD อยู่ที่ -6.27 ต่ำกว่าเส้น signal ที่ -4.82 และ histogram เป็น -1.45 MACD ใช้วัดโมเมนตัมของแนวโน้ม histogram ที่ติดลบแปลว่าแรงขายยังเพิ่มขึ้นอยู่ RSI 14 อยู่ที่ 31.83 RSI เป็นมาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป ตอนนี้จึงใกล้โซนนั้นแต่ยังไม่ถึง ราคาปิดต่ำกว่าเส้นล่างของ Bollinger Band ที่ $103.16 ซึ่งเป็นขอบของความผันผวนปกติ 20 วัน แสดงว่าแรงขายยืดเกินไปแล้ว มักตามมาด้วยการเด้งระยะสั้น แต่ยังไม่ใช่สัญญาณกลับตัว จุดต่ำสุดของวันที่ $100.25 คือจุดต่ำสุดรอบ 52 สัปดาห์ด้วย แนวรับใกล้สุดจึงอยู่แถว $100 ส่วนโซน $115–116 (ราคาปิด 17 พ.ย. และราคาเพิ่มทุน) กลายเป็นแนวต้าน วอลุ่ม 47.3M หุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 42.1M ราว 12% แสดงว่าการลงครั้งนี้มีแรงขายจริง ไม่ใช่แค่ตลาดบาง",
-               "fundamental":  "Oracle มีธุรกิจฐานข้อมูลและแอปพลิเคชันที่ลูกค้าย้ายออกยาก ควบคู่กับคลาวด์ AI ที่โตเร็ว ไตรมาส 1 ปีงบ FY27 (สิ้นสุด 31 ส.ค. รายงาน 10 ก.ย. 2026) รายได้ $19.3B โตราว 30% รายได้ OCI โต 121% เป็น $7.4B RPO แตะ $664B และเป้ารายได้ FY27 ถูกปรับขึ้นเป็นอย่างน้อย $90B แต่การเติบโตนี้มีต้นทุนสูง capex ไตรมาสเดียว $28.5B และกระแสเงินสดอิสระติดลบ ในงาน Investor Day 28 ต.ค. บริษัทยืนเป้า FY30 รายได้ $225B ขึ้นไปและ EPS $21 ขึ้นไป พร้อมจำกัดการระดมทุนใหม่ไว้ที่ $20B แล้วก็ใช้โควตานี้หมดเมื่อ 2 พ.ย. ด่านต่อไปคืองบไตรมาส 2 ที่คาดว่าจะออกราวกลางเดือน ธ.ค. 2026 นักลงทุนจะดูว่า capex เริ่มเปลี่ยนเป็นรายได้และการเผาเงินสดชะลอลงหรือยัง",
+               "fundamental":  "Oracle ยืนอยู่ในสองจุดสำคัญของห่วงโซ่มูลค่า AI คือธุรกิจฐานข้อมูลและซอฟต์แวร์องค์กรที่ลูกค้าย้ายออกยาก (รายได้ SaaS $4.2 พันล้าน โต 10% YoY ใน Q1 FY27) ควบคู่กับธุรกิจให้เช่าคลัสเตอร์ GPU ขนาดยักษ์ผ่าน OCI ผลประกอบการ Q1 FY27 เมื่อ 10 ก.ย. 2026 เผยรายได้รวมโต 30% สู่ $19.3 พันล้าน โดย OCI พุ่ง 121% แตะ $7.4 พันล้านหลังเพิ่มกำลังไฟ 850 MW กำไรต่อหุ้น non-GAAP โต 30% เป็น $1.92 และ Backlog แตะ $664 พันล้าน ด้านงาน Investor Day วันที่ 28 ต.ค. ผู้บริหารตั้งเป้ารายได้ปีงบ FY30 เกิน $225 พันล้านและ EPS non-GAAP เกิน $21 โดยกระแสเงินสดอิสระจะพลิกบวกช่วงครึ่งหลังปีงบ FY28 และเกิน $30 พันล้านในปีงบ FY29 อย่างไรก็ดี งบลงทุน $28.5 พันล้านต่อไตรมาส หนี้เงินกู้ $125.3 พันล้านก่อนออกหุ้นกู้ใหม่ $10 พันล้าน และการพึ่งพา OpenAI ทำให้ต้องจัดสถานะความแข็งแกร่งทางธุรกิจไว้ที่ระดับเฝ้าระวังจนกว่ากระแสเงินสดจะกลับตัวชัดเจน",
+               "headline":  "ORCL ดีดแรง 12.3% จากจุดต่ำสุดรอบปี แต่ความชัดเจนแหล่งทุนยังสู้ภาระหนี้ไม่ขาด",
                "news":  [
-                            "28 ต.ค. 2026: งาน Investor Day ยืนยันเป้า FY30 รายได้ $225B ขึ้นไป มาร์จิ้น 40% ขึ้นไป และ EPS $21 ขึ้นไป จำกัดการระดมทุนใหม่ที่ $20B แบ่งหุ้นกับหนี้อย่างละครึ่ง และตั้งเป้ากระแสเงินสดอิสระเป็นบวกในครึ่งหลังของ FY28 หุ้นพุ่งราว 11% ในวันนั้น แต่คืนกำไรหมดภายใน 30 ต.ค. เมื่อหุ้นชิปถูกเทขาย",
-                            "2 พ.ย. 2026: Oracle ขายหุ้นเพิ่มทุน 86.2 ล้านหุ้นที่ $116 ต่ำกว่าราคาปิดก่อนหน้า 11.2% และออกหุ้นกู้ $10B ครบกำหนดปี 2029–2046 คูปอง 7.000–8.650% ปิดดีลทั้งคู่วันที่ 4 พ.ย. วันเดียวกันนั้น Stephens อัปเกรดเป็น Overweight เป้า $213",
-                            "10–13 พ.ย. 2026: Bernstein คงเรตติ้ง Outperform เป้า $325 และประเมินว่าหุ้นยังมีมูลค่าราว $133 แม้ธุรกิจ AI จะล้มเหลว ด้าน DBS ลดเป้าจาก $310 เหลือ $290 และ President Capital ลดเป้าเหลือ $323",
-                            "20 พ.ย. 2026: Oracle ประกาศว่าสัญญา OpenAI ซึ่งครอบคลุมกำลังผลิตเพิ่ม 4.5 GW ในสหรัฐฯ มีเงินทุนครบแล้ว จากการระดมทุนเดือน พ.ย. รวมกับ vendor financing แต่ไม่เปิดเผยว่า vendor financing มีขนาดเท่าไรหรือมาจากใคร หุ้นยังร่วง 8.48% ลงไปที่ $101.19 ต่ำกว่าราคาเพิ่มทุน 12.8% ท่ามกลางการเทขายหุ้นชิป AI"
+                            "23 พ.ย. 2026: หุ้น ORCL พุ่ง 12.34% ปิดที่ $113.68 หลัง Nvidia ประกาศดึง Jensen Huang กลับมารับตำแหน่ง CEO อีกครั้งหลังทางการสหรัฐฯ ยืนยันไม่มีประเด็นความมั่นคงแห่งชาติ จุดกระแสฟื้นตัวทั้งกลุ่มโครงสร้างพื้นฐาน AI และหนุนแรงซื้อต่อเนื่องจากถ้อยแถลงด้านแหล่งทุนของ Oracle",
+                            "20 พ.ย. 2026: Oracle ออกแถลงการณ์ยืนยันว่ามีแหล่งเงินทุนครบถ้วนสำหรับสัญญาสร้างศูนย์ข้อมูลให้ OpenAI แล้วหลังปิดดีลระดมทุนรอบสุดท้าย โดยไม่ต้องพึ่งพาสินเชื่อผู้ขายที่เป็นทางเลือก พร้อมอัปเดตว่าโครงการ Abilene ในรัฐเท็กซัสใกล้เสร็จสมบูรณ์ โครงการ Shackelford ระดับกิกะวัตต์ได้ใบอนุญาตครบแล้ว และการส่งมอบแร็ค Nvidia Vera Rubin ยังเป็นไปตามแผน",
+                            "2–4 พ.ย. 2026: Oracle กำหนดราคาและปิดการระดมทุนรวม $20 พันล้าน แบ่งเป็นหุ้นสามัญเพิ่มทุน 86.21 ล้านหุ้นที่ $116 ($10 พันล้าน) และหุ้นกู้ไม่ด้อยสิทธิ 5 ชุดมูลค่า $10 พันล้าน ดอกเบี้ย 7.00%–8.65% ครบกำหนดปี 2029–2046 โดย Fitch คงอันดับเครดิต BBB (Stable) แต่แรงกดดันจาก dilution และต้นทุนดอกเบี้ยสูงฉุดราคาหุ้นต่อเนื่องถึง 20 พ.ย.",
+                            "28 ต.ค. 2026: ในงาน Investor Day ที่ลาสเวกัส ซีอีโอร่วม Clay Magouyrk และ Mike Sicilia ตั้งเป้ารายได้ปีงบ FY30 เกิน $225 พันล้าน และ EPS non-GAAP เกิน $21 พร้อมระบุว่างบลงทุนจะแตะจุดสูงสุดในปีงบ FY27–FY28 ก่อนกระแสเงินสดอิสระพลิกบวกครึ่งหลัง FY28 และให้คำมั่นว่าจะจำกัดการระดมทุนจากตลาดเพิ่มเติมจนถึงปีงบ FY30 ไว้ไม่เกิน $20 พันล้าน"
                         ],
-               "caution":  "เรื่องนี้เป็นปัญหางบดุลมากกว่าปัญหาความต้องการลูกค้า Oracle ใช้โควตาระดมทุน $20B ที่ตั้งไว้เองหมดแล้ว ถ้าต้องระดมทุนเพิ่มอีกก่อน FY30 ความน่าเชื่อถือของผู้บริหารจะเสียหาย หุ้นกู้ใหม่จ่ายดอกเบี้ยสูงถึง 8.65% สะท้อนว่าเจ้าหนี้มองเห็นความเสี่ยงจริง ภาระเช่าระยะยาวราว $260–288B ผูกพันไว้ไม่ว่าดีมานด์ AI จะเป็นอย่างไร ถ้า OpenAI ชะลอการใช้จ่าย ทั้ง backlog และภาระเช่าจะกลายเป็นปัญหาพร้อมกัน ด้านเทคนิค ถ้าหลุดโซน $100 จะไม่มีแนวรับในช่วงหลังรองรับอยู่ข้างล่างเลย",
-               "opportunity":  "ความคาดหวังของตลาดลดลงมากแล้ว หุ้นซื้อขายต่ำกว่าราคาเพิ่มทุน $116 และใกล้ระดับ $133 ที่ Bernstein ประเมินว่าธุรกิจที่ไม่ใช่ AI อย่างเดียวก็มีมูลค่าเท่านั้น ถ้างบไตรมาส 2 กลางเดือน ธ.ค. แสดงว่า OCI ยังโตเกิน 100% และ capex เริ่มเปลี่ยนเป็นรายได้ เรื่องเล่าว่าบริษัท \u0027มีวิกฤตเงินทุน\u0027 อาจจางลงเร็ว RSI ใกล้ 30 และราคาหลุดใต้เส้นล่าง Bollinger Band บ่งว่าแรงขายระยะสั้นยืดเกินไปแล้ว นักลงทุนระยะยาวจะได้คลาวด์ AI ที่โต 121% โดยมีธุรกิจฐานข้อมูลรองรับอยู่ ในราคาที่ถูกลงมาก",
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI การปรับฐานของ ORCL จาก $250.25 ลงมาที่ $113.68 สะท้อนความกังวลด้านงบดุลมากกว่าความต้องการใช้งานที่ชะลอตัว เมื่อแหล่งเงินทุนถึงปีงบ FY30 ถูกจัดเตรียมไว้แล้ว โครงการ Abilene ใกล้เสร็จ โครงการ Shackelford ได้รับอนุญาตครบ และแร็ค Nvidia Vera Rubin กำลังทยอยเข้าติดตั้ง ความคืบหน้าเหล่านี้จะช่วยแปลง Backlog มูลค่า $664 พันล้านเป็นรายได้คลาวด์ได้เร็วขึ้น หากงบ Q2 FY27 ช่วงกลางธ.ค. ยืนยันวินัยงบลงทุนและการรับรู้รายได้ OCI ที่เร่งตัวสู่จุดเปลี่ยนกระแสเงินสดในปีงบ FY28 มุมมองตลาดมีโอกาสฟื้นตัวได้ชัดเจนขึ้น",
+               "opportunityCheck":  "คะแนนประเมินโอกาส AI โดยรวมสมเหตุสมผล แต่มีสองมิติที่ควรปรับให้สอดคล้องกับข้อมูลล่าสุด ด้านสัดส่วนรายได้ AI ควรถูกขยับขึ้น เพราะ OCI ทำรายได้ถึง $7.4 พันล้านต่อไตรมาส (+121% YoY) และหนุน Backlog แตะ $664 พันล้านจนกลายเป็นเครื่องยนต์เติบโตหลักของบริษัทแล้ว ในทางกลับกัน ด้านคอขวดและอำนาจกำหนดราคาควรปรับลดลงเล็กน้อย เนื่องจากการต้องออกหุ้นกู้ดอกเบี้ย 7.00%–8.65% และเพิ่มทุนเพื่อซื้อคลัสเตอร์ GPU จาก Nvidia ให้ลูกค้ารายใหญ่อย่าง OpenAI สะท้อนว่า Oracle เป็นฝ่ายแบกรับคอขวดด้านเงินทุนมากกว่าจะเป็นผู้คุมอำนาจตั้งราคา",
+               "pros":  [
+                            "รายได้ OCI พุ่ง 121% YoY แตะ $7.4 พันล้านใน Q1 FY27 (ประกาศ 10 ก.ย. 2026) พร้อมอัตราการใช้ GPU สูงถึง 97.9%",
+                            "ยอดงานในมือ (RPO) ทำสถิติสูงสุดใหม่ที่ $664 พันล้าน รองรับเป้ารายได้ปีงบ FY30 เกิน $225 พันล้านจากงาน Investor Day วันที่ 28 ต.ค.",
+                            "Oracle ยืนยันเมื่อ 20 พ.ย. ว่าจัดหาเงินทุนรองรับสัญญา OpenAI ครบถ้วนแล้วหลังปิดการระดมทุน $20 พันล้านเมื่อต้นเดือนพ.ย.",
+                            "การก่อสร้างคืบหน้าตามแผน โดยศูนย์ข้อมูล Abilene ใกล้เสร็จสมบูรณ์ โครงการ Shackelford ได้รับอนุญาตครบ และแร็ค Nvidia Vera Rubin เตรียมส่งมอบเร็วๆ นี้"
+                        ],
                "risks":  [
-                             "พึ่ง OpenAI มากเกินไป: ถ้า OpenAI เลื่อนหรือแก้สัญญา จะกระทบทั้ง backlog และแผนกระแสเงินสด",
-                             "ความเสี่ยงด้านเงินทุน: ถ้าต้องเพิ่มทุนหรือกู้อีกจะเกินเพดาน $20B และทำให้ผู้ถือหุ้นเดิมถูกลดสัดส่วน",
-                             "แรงกดดันด้านเครดิต: ต้นทุนหนี้ 7–8.65% บวกกับความเสี่ยงถูกลดอันดับเครดิต อาจกดมาร์จิ้น",
-                             "การดำเนินงาน: ถ้าการสร้างศูนย์ข้อมูลหรือการส่งมอบ GPU ล่าช้า รายได้จะเลื่อนออกไปขณะที่ค่าเช่ายังเดินอยู่",
-                             "อารมณ์ตลาดต่อกลุ่ม: หุ้น Oracle เคลื่อนไหวเหมือนหุ้น AI-capex ที่มี beta สูง เมื่อหุ้นชิปถูกเทขายก็โดนลากลงไปด้วย"
-                         ]
+                             "ความเสี่ยงถูกหั่นอันดับเครดิตหลุดระดับลงทุน (S\u0026P อยู่ที่ BBB- และ Moody\u0027s ให้แนวโน้มลบที่ Baa2) หากสัดส่วนหนี้ยังขยับขึ้นต่อ",
+                             "การกระจุกตัวของรายได้ Backlog มูลค่า $664 พันล้านกับ OpenAI หากการระดมทุนหรือความต้องการประมวลผลของลูกค้าหลักชะลอตัว",
+                             "ความล่าช้าในการก่อสร้างหรือจ่ายไฟฟ้าในศูนย์ข้อมูลระดับกิกะวัตต์ที่รัฐเท็กซัส ซึ่งอาจเลื่อนจังหวะการพลิกบวกของกระแสเงินสดอิสระในปีงบ FY28",
+                             "ภาระดอกเบี้ยจ่ายที่เพิ่มขึ้นจากหนี้รวมกว่า $125.3 พันล้านและหุ้นกู้ใหม่ดอกเบี้ย 7.00%–8.65% กดดันอัตรากำไรสุทธิ"
+                         ],
+               "summary":  "หุ้น Oracle (ORCL) พุ่ง 12.34% ปิดที่ $113.68 เมื่อ 23 พ.ย. 2026 ฟื้นตัวจากจุดต่ำสุดรอบ 52 สัปดาห์ที่ $100.25 หลัง Nvidia ดึง Jensen Huang กลับเป็น CEO และ Oracle ยืนยันเมื่อ 20 พ.ย. ว่ามีเงินทุนรองรับสัญญา OpenAI ครบแล้ว แม้ความต้องการจะเติบโตแรง—รายได้ OCI ใน Q1 FY27 พุ่ง 121% YoY สู่ $7.4 พันล้าน พร้อม Backlog $664 พันล้าน—แต่การระดมทุน $20 พันล้านเมื่อ 2 พ.ย. ด้วยหุ้นกู้ดอกเบี้ย 7.00%–8.65% สะท้อนแรงตึงตัวของงบดุล ภาพเทคนิคยังเป็นขาลงใต้เส้นค่าเฉลี่ยทุกเส้น ทำให้สถานะความได้เปรียบระยะยาวอยู่ในโหมดเฝ้าระวัง",
+               "technical":  "แม้ ORCL จะรีบาวด์แรง 12.34% มาปิดที่ $113.68 ในวันที่ 23 พ.ย. 2026 แต่โครงสร้างกราฟยังเป็นขาลงชัดเจน ราคาอยู่ต่ำกว่าเส้น EMA 50/100/200 (เส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนักเพื่อดูแนวโน้ม) ที่เรียงตัวขาลงครบทั้งสามเส้น ได้แก่ EMA 50 ที่ $129.14, EMA 100 ที่ $139.02 และ EMA 200 ที่ $153.22 ด้านโมเมนตัมเพิ่งเริ่มทรงตัว โดย MACD (ดัชนีวัดโมเมนตัมแนวโน้มแบบ 12/26/9) อยู่ที่ -6.05 ต่ำกว่าเส้น signal ที่ -5.07 และมี histogram ติดลบ -0.99 ส่วน RSI 14 (ดัชนีวัดแรงซื้อขายระดับ 0–100 ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นขึ้นสู่ 43.4 แต่ยังไม่ผ่านระดับกึ่งกลาง 50 เมื่อเทียบกรอบ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาเด้งขึ้นจากขอบล่างที่ $102.24 ใกล้จุดต่ำสุดรอบ 52 สัปดาห์ที่ $100.25 แต่ยังห่างจากจุดสูงสุดรอบปี ($250.25) ถึง 54.6% และต่ำกว่าเส้นกลางที่ $121.89 อีกทั้งปริมาณซื้อขาย 40.49 ล้านหุ้นยังต่ำกว่าค่าเฉลี่ย 20 วันที่ 43.02 ล้านหุ้น พร้อมปิดต่ำกว่าราคาเปิดที่ $116.44 (จุดสูงสุดระหว่างวัน $118.70) สะท้อนแรงซื้อยังไม่หนาแน่น โดยมีแนวรับสำคัญที่ $102.24–$100.25 และแนวต้านเป็นชั้นที่ $118.70, $121.89 และ EMA 50 ที่ $129.14"
            },
     "sources":  [
                     {
-                        "title":  "Oracle (ORCL) Q1 earnings report 2027",
-                        "publisher":  "CNBC",
-                        "url":  "https://www.cnbc.com/2026/09/10/oracle-orcl-q1-earnings-report-2027.html",
-                        "date":  "2026-09-10"
+                        "date":  "2026-11-20",
+                        "publisher":  "Oracle",
+                        "title":  "Oracle Statement on OpenAI Contract Funding",
+                        "url":  "https://www.oracle.com/corporate/pressreleases/oracle-statement-112026.html"
                     },
                     {
+                        "date":  "2026-11-02",
+                        "publisher":  "Oracle",
+                        "title":  "Oracle Announces Pricing of $20 Billion of Common Stock and Senior Notes",
+                        "url":  "https://www.oracle.com/news/announcement/oracle-announces-pricing-of-20-billion-of-common-stock-and-senior-notes-110226/"
+                    },
+                    {
+                        "date":  "2026-10-28",
+                        "publisher":  "Oracle",
                         "title":  "Oracle Investor Day 2026: Accelerating Value Creation",
-                        "publisher":  "Oracle Investor Relations",
-                        "url":  "https://investor.oracle.com/investor-news/news-details/2026/Oracle-Investor-Day-2026-Accelerating-Value-Creation/default.aspx",
-                        "date":  "2026-10-28"
+                        "url":  "https://www.oracle.com/news/announcement/oracle-investor-day-2026-accelerating-value-creation-102826/"
                     },
                     {
-                        "title":  "Oracle Corp Form 8-K (common stock and notes offering)",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001341439/000119312526447507/d131790d8k.htm",
-                        "date":  "2026-11-04"
+                        "date":  "2026-09-10",
+                        "publisher":  "Oracle",
+                        "title":  "Oracle Announces Q1 Results Driven by Triple Digit Growth in Cloud Infrastructure Revenues",
+                        "url":  "https://www.oracle.com/news/announcement/oracle-announces-q1-results-driven-by-triple-digit-growth-in-cloud-infrastructure-revenues-2026-09-10/"
                     },
                     {
-                        "title":  "Oracle says its OpenAI infrastructure contract is fully funded after a final capital raise",
-                        "publisher":  "MLQ.ai",
-                        "url":  "https://mlq.ai/news/oracle-says-its-openai-infrastructure-contract-is-fully-funded-after-a-final-capital-raise/",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-02",
+                        "publisher":  "Fitch Ratings",
+                        "title":  "Fitch Rates Oracle Senior Notes Offering, Affirms IDR at \u0027BBB\u0027; Outlook Stable",
+                        "url":  "https://www.fitchratings.com/research/corporate-finance/fitch-rates-oracle-senior-notes-offering-affirms-idr-at-bbb-outlook-stable-02-11-2026"
                     },
                     {
-                        "title":  "Oracle Shares Fall as AI Data-Center Bets Weigh",
-                        "publisher":  "Wisevoter",
-                        "url":  "https://wisevoter.com/world/us/2026/11/21/oracle-shares-fall-ai-data-center-risk",
-                        "date":  "2026-11-21"
-                    },
-                    {
-                        "title":  "Bernstein\u0027s $325 Target Says Oracle\u0027s Selloff Went Too Far",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/markets/stocks/articles/bernstein-325-target-says-oracle-154405105.html",
-                        "date":  "2026-11-10"
-                    },
-                    {
-                        "title":  "DBS\u0027s $290 Oracle Target Still Implies 126% Upside, Even After a Cut",
-                        "publisher":  "TIKR",
-                        "url":  "https://www.tikr.com/blog/dbss-290-oracle-target-still-implies-126-upside-even-after-a-cut",
-                        "date":  "2026-11-12"
-                    },
-                    {
-                        "title":  "Oracle Shares Edge Lower Despite Fresh Analyst Upgrade",
-                        "publisher":  "Tradingpedia",
-                        "url":  "https://www.tradingpedia.com/2026/11/02/oracle-shares-edge-lower-despite-fresh-analyst-upgrade/",
-                        "date":  "2026-11-02"
+                        "date":  "2026-11-23",
+                        "publisher":  "The Motley Fool",
+                        "title":  "Why Oracle Stock Is Rising Today",
+                        "url":  "https://www.fool.com/investing/2026/11/23/why-oracle-stock-is-rising-today/"
                     }
                 ]
 }

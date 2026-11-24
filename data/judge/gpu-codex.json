@@ -1,0 +1,84 @@
+{
+    "sector":  "gpu",
+    "judge":  "codex",
+    "provider":  "codex",
+    "model":  "gpt-6.2-sol",
+    "effort":  "high",
+    "account":  "Codex (ChatGPT)",
+    "generatedAt":  "2026-11-24T05:11:05Z",
+    "costUsd":  null,
+    "stocks":  {
+                   "CRWV":  {
+                                "m":  [
+                                          14,
+                                          13,
+                                          12,
+                                          16,
+                                          4
+                                      ],
+                                "o":  [
+                                          19,
+                                          17,
+                                          17,
+                                          15,
+                                          16
+                                      ],
+                                "why_en":  "Large NVIDIA clusters and long contracts support CoreWeave’s AI cloud lead, while thin operating margins and heavy financing costs leave durable returns unproven. [Q3 results](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx)",
+                                "why_th":  "คลัสเตอร์ NVIDIA ขนาดใหญ่และสัญญาระยะยาวช่วยให้ CoreWeave เป็นผู้นำในตลาดคลาวด์ AI แต่กำไรจากการดำเนินงานที่บางและต้นทุนทางการเงินสูงทำให้ยังพิสูจน์ผลตอบแทนระยะยาวไม่ได้"
+                            },
+                   "EQIX":  {
+                                "m":  [
+                                          11,
+                                          18,
+                                          19,
+                                          17,
+                                          13
+                                      ],
+                                "o":  [
+                                          7,
+                                          15,
+                                          15,
+                                          13,
+                                          14
+                                      ],
+                                "why_en":  "Dense interconnection makes relocation costly and gives Equinix a platform for AI inference, while most revenue still comes from broader colocation and connectivity services. [Q3 results](https://investor.equinix.com/news-events/press-releases/detail/1128/equinix-reports-third-quarter-results-and-raises-2026)",
+                                "why_th":  "เครือข่ายที่เชื่อมโยงกันหนาแน่นทำให้ลูกค้าย้ายออกได้ยากและช่วยให้ Equinix ต่อยอดสู่บริการรันโมเดล AI ขณะที่รายได้ส่วนใหญ่ยังมาจากบริการให้เช่าพื้นที่ศูนย์ข้อมูลและเชื่อมต่อเครือข่ายโดยรวม"
+                            },
+                   "IREN":  {
+                                "m":  [
+                                          10,
+                                          11,
+                                          6,
+                                          13,
+                                          2
+                                      ],
+                                "o":  [
+                                          15,
+                                          17,
+                                          12,
+                                          15,
+                                          12
+                                      ],
+                                "why_en":  "Owned sites with secured power and rising AI cloud revenue support expansion, while operating losses and further funding needs limit IREN’s moat. [Q1 filing](https://www.sec.gov/Archives/edgar/data/1878848/000187884826000065/irenreportsq1-fy27result.htm)",
+                                "why_th":  "พื้นที่ของ IREN ที่มีสิทธิใช้ไฟฟ้าแล้วและรายได้คลาวด์ AI ที่เพิ่มขึ้นช่วยให้ธุรกิจขยายตัว แต่ผลขาดทุนจากการดำเนินงานและความจำเป็นต้องหาเงินทุนเพิ่มยังจำกัดความได้เปรียบระยะยาว"
+                            },
+                   "NBIS":  {
+                                "m":  [
+                                          14,
+                                          12,
+                                          10,
+                                          13,
+                                          3
+                                      ],
+                                "o":  [
+                                          19,
+                                          17,
+                                          15,
+                                          13,
+                                          16
+                                      ],
+                                "why_en":  "In-house cloud software helps retain customers, and managed inference extends an almost entirely AI-driven business, while sustained profitability remains unproven. [Q3 shareholder letter](https://assets.nebius.com/assets/721c566e-9ba5-4935-ad24-b1209116a4cc/Nebius-SHL-2026-Q3.pdf)",
+                                "why_th":  "ซอฟต์แวร์คลาวด์ที่ Nebius พัฒนาเองช่วยรักษาฐานลูกค้า และบริการรันโมเดลแบบจัดการให้ช่วยต่อยอดธุรกิจที่มีรายได้จาก AI เกือบทั้งหมด แต่บริษัทยังต้องพิสูจน์ว่าสามารถทำกำไรได้ต่อเนื่อง"
+                            }
+               }
+}

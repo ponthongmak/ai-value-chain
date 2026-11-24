@@ -6,45 +6,41 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T05:50:59Z",
+    "generatedAt":  "2026-11-24T03:47:55Z",
     "costUsd":  null,
-    "stance":  "bearish",
+    "stance":  "neutral",
     "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:MPWR",
                        "yahoo":  "MPWR",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-23T05:46:31Z",
-                       "price":  1142.05,
-                       "open":  1260.38,
-                       "high":  1271.13,
-                       "low":  1132.78,
-                       "volume":  1789900,
-                       "avgVolume20":  1168900,
-                       "changePct":  -11.87,
-                       "historyDays":  501,
-                       "ema50":  1294.62,
-                       "ema100":  1306.32,
-                       "ema200":  1265.55,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:43:34Z",
+                       "price":  1333.88,
+                       "open":  1310.73,
+                       "high":  1341.98,
+                       "low":  1278.24,
+                       "volume":  1395200,
+                       "avgVolume20":  1192665,
+                       "changePct":  16.8,
+                       "historyDays":  500,
+                       "ema50":  1296.16,
+                       "ema100":  1306.86,
+                       "ema200":  1266.19,
                        "bb":  {
-                                  "upper":  1473.64,
-                                  "middle":  1279.92,
-                                  "lower":  1086.21
+                                  "upper":  1476.12,
+                                  "middle":  1288.26,
+                                  "lower":  1100.39
                               },
                        "macd":  {
-                                    "macd":  1.55,
-                                    "signal":  11.5,
-                                    "hist":  -9.95
+                                    "macd":  4.72,
+                                    "signal":  10.15,
+                                    "hist":  -5.43
                                 },
-                       "rsi14":  39.78,
+                       "rsi14":  52.32,
                        "high52w":  1714.09,
                        "low52w":  833.18,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         1689.89
-                                     ],
                                      [
                                          "2026-06-04",
                                          1652.6
@@ -520,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          1142.05
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         1333.88
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          1472.05,
                                           1479.13,
                                           1479.2,
                                           1482.34,
@@ -642,119 +641,108 @@
                                           1300.65,
                                           1301.05,
                                           1300.85,
-                                          1294.62
+                                          1294.62,
+                                          1296.16
                                       ]
                    },
     "en":  {
-               "caution":  "Short-term momentum is decisively against the stock: MPWR broke below its 50-, 100-, and 200-day EMAs on 1.53x volume, and an RSI 14 of 39.78 shows selling pressure is not yet technically oversold. Beyond chart damage, investors face two real overhangs—supply-chain shockwaves from NVIDIA’s SEC accounting probe and broader hyperscaler CapEx skepticism, plus MPS’s own unremediated deferred-tax internal-control weakness and Rosen Law Firm inquiry. A break beneath the $1,086.21 lower Bollinger Band would expose deeper support toward the $833.18 52-week low.",
+               "caution":  "Headline-driven swings pose a sharp near-term risk: MPWR dropped nearly 12% on November 20 before surging 16.8% on November 23 solely on Nvidia leadership developments, while bipartisan U.S. congressional scrutiny over Nvidia governance lingers. Technically, a failed hold above the $1,288–$1,307 moving-average cluster could quickly expose EMA 200 support at $1,266.19. Fundamentally, investors should watch competitive pressure in power modules after the November 9 Reed Semiconductor patent verdict, alongside U.S.–China tariff and export-control exposure across MPWR\u0027s Asia supply chain.",
                "cons":  [
-                            "Shares sank 11.87% to $1,142.05 on Nov 20, 2026 on 1.53x average volume, breaking decisively below the 50-, 100-, and 200-day EMAs.",
-                            "Heavy exposure to AI server spending makes MPWR vulnerable to supply-chain contagion from NVIDIA’s Nov 20 SEC probe shock and hyperscaler CapEx doubts.",
-                            "The Nov 3 Q3 Form 10-Q confirmed an unremediated material weakness in deferred-tax internal controls, alongside a Rosen Law Firm fiduciary investigation.",
-                            "Now 33.4% below its $1,714.09 52-week high, the stock faces heavy overhead technical resistance between $1,265 and $1,306."
+                            "Shares remain 22.2% below their $1,714.09 52-week high after extreme double-digit swings tied to Nvidia\u0027s November 12–23 CEO turmoil.",
+                            "Technical momentum is not yet fully repaired, with EMA 50 ($1,296.16) still below EMA 100 ($1,306.86) and the MACD histogram negative at -5.43.",
+                            "A Delaware jury ruled on November 9, 2026 that rival Reed Semiconductor did not infringe two asserted MPS power-management patents.",
+                            "Heavy manufacturing and shipment ties to China expose gross margins and supply continuity to U.S.–China tariffs and export-control shocks."
                         ],
-               "fundamental":  "Monolithic Power Systems designs integrated power-management chips and modules that solve the “last-inch” challenge of stepping down high voltages cleanly beside 1,000W+ AI processors. Its Oct 29, 2026 Q3 results underscored that moat: revenue jumped 63.1% YoY (+22.6% sequentially) to a record $1,202.4 million, Non-GAAP EPS reached $8.19 (GAAP $5.51), and Non-GAAP gross margin edged up to 55.7%. Enterprise Data led with $506.7 million (+164.6% YoY), while Communications added $187.4 million alongside steady automotive and industrial demand. Management guided Q4 revenue to $1,315–$1,385 million (Non-GAAP gross margin 55.5%–56.1%), lifted its annual Enterprise Data growth floor to 150%, and is expanding annualized capacity from over $6 billion toward $8 billion by H2 2027, with GaN/SiC 800V data-center modules sampling for 2027–2028 ramps.",
-               "headline":  "Record Q3 AI growth collides with an 11.9% chip-rout breakdown",
+               "fundamental":  "MPWR occupies a vital slot in the AI value chain, supplying high-density power-management chips and modules that convert high voltages down to the heavy currents AI accelerators require. Its October 29, 2026 Q3 report proved this moat is scaling rapidly: revenue reached $1,202.4 million (+63.1% YoY, +22.6% QoQ) with GAAP EPS of $5.51 and Non-GAAP EPS of $8.19. Enterprise Data jumped 164.6% YoY to $506.7 million, Communications rose 134.7% to $187.4 million, and Automotive grew 19.2% to $180.7 million as 48V solutions began ramping. Management guided Q4 revenue to $1,315–$1,385 million with Non-GAAP gross margins of 55.5%–56.1%, expanded capacity past $6 billion annually toward $8 billion in 2H 2027, authorized $500 million in additional buybacks, and promoted Tony Balow to permanent CFO. November\u0027s price swings reflect Nvidia-ecosystem noise rather than fundamental deterioration.",
+               "headline":  "Record $1.2B quarter reinforces AI moat, but Nvidia-driven whipsaws keep technicals neutral",
                "news":  [
-                            "Oct 29, 2026: MPS reported its first $1 billion+ quarter with Q3 revenue of $1,202.4 million (+63.1% YoY) and Non-GAAP EPS of $8.19, beating consensus. Management guided Q4 revenue to $1,315–$1,385 million and raised its annual Enterprise Data growth floor from 130% to 150%.",
-                            "Oct 29, 2026: MPS appointed VP of Finance Tony Balow as permanent CFO and moved Interim CFO Robert Dean into the Chief Accounting Officer role. The appointments formalize finance leadership following former CFO Bernie Blegen’s retirement.",
-                            "Oct 30, 2026: Wall Street analysts stayed constructive after Q3 results, with Truist raising its price target to $1,906 (Buy), Needham reiterating Buy at $2,000, and TD Cowen keeping Buy at $1,700.",
-                            "Nov 3, 2026: MPS’s Q3 Form 10-Q noted that a previously identified material weakness in deferred-tax internal controls remained unremediated, with remediation targeted by year-end 2026. The same day, Rosen Law Firm announced a fiduciary-duty investigation into MPS directors and officers.",
-                            "Nov 20, 2026: MPWR fell 11.87% to $1,142.05 in a sharp AI semiconductor rout as key supply-chain partner NVIDIA plunged roughly 14% following reports of an SEC accounting probe and lingering post-CEO transition uncertainty."
+                            "Oct 29, 2026 — Q3 2026 earnings \u0026 Q4 outlook: MPWR posted its first $1 billion-plus quarter with $1,202.4 million in revenue (+63.1% YoY) and Non-GAAP EPS of $8.19, led by Enterprise Data up 164.6% YoY to $506.7 million. Management guided Q4 revenue to $1,315–$1,385 million, raised its annual Enterprise Data growth floor to 150%, and authorized $500 million in extra share repurchases.",
+                            "Oct 29, 2026 — Finance leadership transition: MPWR appointed VP of Finance Tony Balow (a 23-year Intel veteran) as permanent CFO and moved former Interim CFO Rob Dean to Chief Accounting Officer, effective immediately.",
+                            "Oct 30, 2026 — Post-earnings analyst actions: Rosenblatt upgraded MPWR from Neutral to Buy (raising its target from $1,575 to $1,700) and Truist Securities raised its target to $1,906 following the Q3 beat and capacity expansion update.",
+                            "Nov 9, 2026 — Delaware patent-trial setback: A U.S. District Court jury found that rival Reed Semiconductor did not infringe either of two asserted MPWR power-management circuitry patents.",
+                            "Nov 12–23, 2026 — Direct AI supply-chain whipsaw: Following Jensen Huang\u0027s November 12 resignation from key AI-ecosystem bellwether Nvidia and a broad chip sell-off that cut MPWR nearly 12% on November 20, Nvidia\u0027s board reinstated Huang on November 23, sparking a sector surge that lifted MPWR 16.8% to $1,333.88."
                         ],
-               "opportunity":  "The 33.4% pullback from the $1,714.09 high reflects sector-wide de-risking rather than deteriorating operations at MPS. Enterprise Data surged 164.6% YoY to $506.7 million, Q4 revenue guidance jumped to $1,315–$1,385 million, and Non-GAAP gross margins held steady at 55.7%. As megawatt-scale AI racks transition toward 800-volt DC power across next-generation GPUs and custom hyperscaler ASICs in 2027–2028, MPS’s power-conversion lead and planned $8 billion capacity expansion keep its multi-year thesis intact. Watch whether price stabilizes near $1,086 support and whether deferred-tax controls clear remediation by year-end.",
-               "opportunityCheck":  "The page’s AI-opportunity framework looks directionally sound, but the AI revenue exposure rating now appears too low and should be moved up. In Q3 2026, Enterprise Data reached 42.1% of total revenue after growing 164.6% year-over-year, and management raised the segment’s annual growth floor to 150%—meaning AI server power delivery is rapidly approaching half the business. Bottleneck and pricing power also warrant a slight upward nudge given steady 55.7% Non-GAAP gross margins through rapid scaling, while market growth, position, and optionality look appropriately balanced around upcoming 800-volt architectures.",
+               "opportunity":  "With shares still 22.2% below their $1,714.09 52-week high despite record Q3 results and $1.35 billion midpoint Q4 revenue guidance, non-fundamental volatility has opened a gap between business momentum and price. Long-term AI infrastructure holders can track three structural catalysts: annualized capacity scaling from over $6 billion toward $8 billion by 2H 2027, rising module content across multiple cloud hyperscalers, and early sampling of 800-volt and gallium nitride (GaN) data-center power solutions for late 2027–2028, complemented by ramping 48V automotive power orders.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile is directionally sound, but the AI revenue exposure rating looks too low and should be raised. On October 29, 2026, Enterprise Data reached 42.1% of Q3 sales ($506.7 million, +164.6% YoY) while Communications jumped 134.7% YoY to $187.4 million on AI optical modules and switches, putting over half of revenue near AI infrastructure. Optionality also has modest upside from 800V data-center and GaN sampling. Meanwhile, keeping bottleneck and pricing power moderate still looks appropriate given steady ~55.7% margins and the November 9 patent-trial setback.",
                "pros":  [
-                            "Q3 2026 revenue crossed $1 billion for the first time at $1,202.4 million (+63.1% YoY), with Q4 guided higher to $1,315–$1,385 million.",
-                            "Enterprise Data jumped 164.6% YoY to $506.7 million (42.1% of sales), prompting management to raise its annual segment growth floor to 150%.",
-                            "Non-GAAP gross margin held firm at 55.7% in Q3 while capacity scales past $6 billion toward $8 billion by the second half of 2027.",
-                            "Next-generation GaN and SiC 800-volt data-center samples and custom AI ASIC wins diversify power-delivery growth beyond a single GPU platform."
+                            "Q3 2026 revenue hit a record $1,202.4 million (+63.1% YoY) on October 29, with Enterprise Data surging 164.6% YoY to $506.7 million (42.1% of sales).",
+                            "Q4 2026 revenue guidance of $1,315–$1,385 million and a raised 150% annual Enterprise Data growth floor show accelerating AI server and optical-module demand.",
+                            "Non-GAAP gross margin held strong at 55.7% (guiding 55.5%–56.1% in Q4), supported by capacity exceeding $6 billion annualized and scaling toward $8 billion by 2H 2027.",
+                            "Next-generation 800-volt data-center architecture, GaN sampling for late 2027–2028, ramping 48V automotive orders, and an extra $500 million buyback bolster multi-year growth."
                         ],
                "risks":  [
-                             "Direct AI supply-chain contagion if NVIDIA’s SEC probe or hyperscaler CapEx tightening delays AI server rack orders.",
-                             "Governance and reporting risk if the deferred-tax internal-control material weakness misses its end-2026 remediation target.",
-                             "Customer concentration and multi-sourcing pressure in high-density AI power stages from large analog and power-chip rivals.",
-                             "Continued valuation multiple compression across AI infrastructure stocks amid elevated interest rates and technical resistance at $1,265–$1,306."
+                             "High sensitivity to AI-ecosystem sentiment and Nvidia-related governance or spending shocks, as seen in November\u0027s double-digit daily swings.",
+                             "Competitive pressure and IP enforcement challenges in power-management circuitry following the November 9, 2026 Reed Semiconductor non-infringement verdict.",
+                             "Geopolitical, tariff, and export-control risks stemming from third-party foundry/assembly reliance and high shipment attribution in China.",
+                             "Potential cyclicality in hyperscaler AI capital expenditure and valuation sensitivity if Enterprise Data growth slows from its 150%+ pace."
                          ],
-               "summary":  "Monolithic Power Systems plunged 11.87% to $1,142.05 on Nov 20, 2026, dragged into an AI semiconductor sell-off triggered by an SEC accounting probe report and leadership turmoil at key customer NVIDIA. That drop contrasts sharply with MPS’s Oct 29 Q3 2026 report: revenue jumped 63.1% year-over-year to a record $1.202 billion, Enterprise Data surged 164.6% to $506.7 million, and Q4 revenue guidance reached $1.315–$1.385 billion. Technically, the chart turned bearish below all major moving averages, yet MPS’s long-term power-conversion moat remains intact.",
-               "technical":  "As of Nov 20, 2026, MPWR’s technical posture is clearly bearish after an 11.87% single-day drop to $1,142.05. Price now sits well beneath all three Exponential Moving Averages (EMAs — trend lines tracking average prices): EMA 50 ($1,294.62), EMA 100 ($1,306.32), and EMA 200 ($1,265.55). EMA 50 has already slipped under EMA 100, and Friday’s intraday bounce stalled at $1,271.13 near the EMA 200 before closing near the $1,132.78 low, turning the $1,265–$1,306 zone into heavy resistance. Momentum confirms downside control: MACD (a trend-momentum gauge) stands at 1.55 versus its 11.50 signal line, leaving a steep -9.95 histogram, while RSI 14 (a 0–100 momentum gauge where under 30 is oversold) sits at 39.78—weak, yet not oversold. Within Bollinger Bands (a volatility channel around the 20-day average), price trades far below the $1,279.92 midline toward the $1,086.21 lower band, marking near-term support. Sitting 33.4% below its $1,714.09 52-week high ($833.18 low), the breakdown carried 1.79 million shares—1.53x the 1.17 million 20-day average—confirming institutional selling."
+               "summary":  "Monolithic Power Systems (MPWR) jumped 16.8% to $1,333.88 on November 23, 2026 after Nvidia reinstated CEO Jensen Huang, reversing a sharp mid-November tech sell-off. Fundamentally, MPWR\u0027s October 29 Q3 2026 report confirmed surging AI demand: revenue crossed $1 billion for the first time at $1,202.4 million (+63.1% YoY), led by Enterprise Data up 164.6% YoY to $506.7 million, with Q4 guided to $1,315–$1,385 million. While the long-term moat remains intact, high volatility, unstacked moving averages, and a November 9 patent-trial loss keep the near-term technical picture neutral.",
+               "technical":  "As of November 23, 2026, MPWR closed at $1,333.88 (+16.8% on the day), rebounding sharply above its three exponential moving averages (EMA — trend lines weighting recent prices): EMA 50 ($1,296.16), EMA 100 ($1,306.86), and EMA 200 ($1,266.19). While trading above EMA 200 preserves the longer-term uptrend, EMA 50 still sits below EMA 100, signaling an incomplete medium-term recovery. Momentum remains mixed: MACD (a trend-momentum gauge comparing fast and slow averages) is positive at 4.72 but trails its 10.15 signal line, leaving a negative -5.43 histogram. RSI 14 (a 0–100 momentum gauge; under 30 is oversold, over 70 overbought) sits neutrally at 52.32. Volatility is wide across the Bollinger Bands (a 20-day volatility channel) from $1,100.39 to $1,476.12, with price just above the $1,288.26 midline and at 56.8% of its $833.18–$1,714.09 52-week range (22.2% below the peak). Volume of 1.40 million shares beat the 1.19 million 20-day average by 17%, offering moderate confirmation. Near-term support clusters at $1,288–$1,307 and $1,266.19; resistance sits near $1,476.12 and $1,714.09."
            },
     "th":  {
-               "caution":  "โมเมนตัมระยะสั้นอยู่ในฝั่งขาลงชัดเจนหลัง MPWR หลุด EMA 50, 100 และ 200 พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย 1.53 เท่า ขณะที่ RSI 14 ที่ 39.78 สะท้อนว่าแรงขายยังไม่ถึงเขตขายมากเกินไป นอกเหนือจากภาพกราฟที่เสียทรง นักลงทุนยังต้องเผชิญแรงกดดันจากทั้งข่าว SEC สอบสวนบัญชี NVIDIA ความกังวลต่องบลงทุน AI ของไฮเปอร์สเกลเลอร์ รวมถึงจุดอ่อนการควบคุมภายในด้านภาษีรอตัดบัญชีที่ยังแก้ไม่เสร็จและคำประกาศตรวจสอบจาก Rosen Law Firm หากหลุดแนวรับขอบล่าง Bollinger Band ที่ $1,086.21 แนวรับถัดไปอาจถอยลึกเข้าใกล้จุดต่ำสุดรอบ 52 สัปดาห์ที่ $833.18",
+               "caution":  "ความเสี่ยงระยะสั้นที่เด่นชัดคือความผันผวนตามกระแสข่าว โดย MPWR ร่วงเกือบ 12% เมื่อวันที่ 20 พ.ย. ก่อนพุ่งกลับ 16.8% ในวันที่ 23 พ.ย. จากประเด็นผู้บริหาร Nvidia ขณะที่แรงกดดันจากสภาคองเกรสสหรัฐฯ ต่อธรรมาภิบาลของ Nvidia ยังไม่คลี่คลาย ในเชิงเทคนิค หากราคายืนเหนือกลุ่มแนวรับ $1,288–$1,307 ไม่อยู่ อาจถอยลงไปทดสอบแนวรับ EMA 200 ที่ $1,266.19 ส่วนเชิงพื้นฐานต้องติดตามการแข่งขันด้านโมดูลจ่ายไฟหลังผลคดีสิทธิบัตร Reed Semiconductor วันที่ 9 พ.ย. รวมถึงความเสี่ยงด้านภาษีนำเข้าและมาตรการควบคุมการส่งออกสหรัฐฯ–จีนในห่วงโซ่อุปทานเอเชีย",
                "cons":  [
-                            "ราคาดิ่ง 11.87% สู่ $1,142.05 เมื่อวันที่ 20 พ.ย. 2026 ด้วยวอลุ่มสูงกว่าค่าเฉลี่ย 1.53 เท่า หลุดแนวรับสำคัญทั้ง EMA 50, 100 และ 200 พร้อมกัน",
-                            "การพึ่งพาอุปสงค์เซิร์ฟเวอร์ AI สูงทำให้ MPWR เสี่ยงต่อแรงกระเพื่อมในซัพพลายเชนจากข่าว SEC สอบบัญชี NVIDIA และความกังวลต่องบลงทุน AI ของลูกค้ากลุ่มคลาวด์",
-                            "รายงาน 10-Q เมื่อวันที่ 3 พ.ย. 2026 ระบุว่าจุดอ่อนสำคัญด้านการควบคุมภายในเรื่องภาษีรอตัดบัญชียังไม่ถูกแก้ไขเสร็จสิ้น และมีสำนักงานกฎหมาย Rosen Law Firm ประกาศสอบสวนฝ่ายบริหาร",
-                            "ราคาที่ร่วงลงมาแล้ว 33.4% จากจุดสูงสุด 52 สัปดาห์ที่ $1,714.09 เผชิญโซนแนวต้านทางเทคนิคหนาแน่นในช่วง $1,265–$1,306"
+                            "ราคายังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($1,714.09) อยู่ 22.2% หลังเหวี่ยงแรงระดับสองหลักจากความปั่นป่วนเรื่องตำแหน่ง CEO ของ Nvidia ช่วง 12–23 พ.ย. 2026",
+                            "โมเมนตัมทางเทคนิคยังไม่ฟื้นตัวเต็มที่ โดย EMA 50 ($1,296.16) ยังอยู่ใต้ EMA 100 ($1,306.86) และ MACD histogram ยังติดลบที่ -5.43",
+                            "คณะลูกขุนศาลเดลาแวร์ตัดสินเมื่อวันที่ 9 พ.ย. 2026 ว่าคู่แข่งอย่าง Reed Semiconductor ไม่ได้ละเมิดสิทธิบัตรวงจรจัดการพลังงาน 2 ฉบับของ MPS",
+                            "การพึ่งพาฐานผลิตและการส่งมอบสินค้าที่เชื่อมโยงกับจีนในสัดส่วนสูง ทำให้กำไรขั้นต้นและซัพพลายเชนเปราะบางต่อภาษีการค้าและข้อจำกัดการส่งออกสหรัฐฯ–จีน"
                         ],
-               "fundamental":  "Monolithic Power Systems ออกแบบชิปและโมดูลจัดการพลังงานประสิทธิภาพสูงเพื่อแก้ปัญหาคอขวด “ช่วงสุดท้าย” ในการแปลงแรงดันไฟฟ้าสูงให้จ่ายไฟอย่างแม่นยำข้างชิป AI ที่กินไฟเกิน 1,000 วัตต์ งบ Q3 2026 วันที่ 29 ต.ค. ตอกย้ำความแข็งแกร่งของคูเมืองธุรกิจชัดเจน โดยรายได้พุ่ง 63.1% YoY (+22.6% QoQ) แตะระดับสูงสุดเป็นประวัติการณ์ $1,202.4 ล้าน กำไรต่อหุ้น Non-GAAP อยู่ที่ $8.19 (GAAP $5.51) และอัตรากำไรขั้นต้น Non-GAAP ขยับขึ้นเป็น 55.7% กลุ่ม Enterprise Data นำการเติบโตที่ $506.7 ล้าน (+164.6% YoY) ส่วน Communications ทำได้ $187.4 ล้านควบคู่กับกลุ่มยานยนต์และอุตสาหกรรมที่ยังมั่นคง ผู้บริหารให้คาดการณ์รายได้ Q4 ที่ $1,315–$1,385 ล้าน (อัตรากำไรขั้นต้น Non-GAAP 55.5%–56.1%) พร้อมขยายกำลังการผลิตจากกว่า $6 พันล้านสู่ $8 พันล้านภายในครึ่งหลังปี 2027 และเริ่มส่งตัวอย่างชิป GaN/SiC สำหรับระบบไฟ 800 โวลต์ที่จะเริ่มผลิตจำนวนมากช่วงปี 2027–2028",
-               "headline":  "งบ AI Q3 แกร่งทุบสถิติ แต่กราฟพังตามแรงเทขายกลุ่มชิป 11.9%",
+               "fundamental":  "MPWR มีบทบาทสำคัญในห่วงโซ่โครงสร้างพื้นฐาน AI ด้วยชิปและโมดูลจัดการพลังงานประสิทธิภาพสูงที่แปลงแรงดันไฟให้เหมาะกับกระแสไฟมหาศาลของชิปประมวลผล AI งบ Q3 2026 วันที่ 29 ต.ค. พิสูจน์ความแข็งแกร่งของปราการธุรกิจอย่างชัดเจน ด้วยรายได้ $1,202.4 ล้าน (+63.1% YoY, +22.6% QoQ) กำไรต่อหุ้น GAAP $5.51 และ Non-GAAP $8.19 โดย Enterprise Data พุ่ง 164.6% YoY สู่ $506.7 ล้าน กลุ่ม Communications โต 134.7% เป็น $187.4 ล้าน และ Automotive โต 19.2% เป็น $180.7 ล้านจากการเริ่มรับคำสั่งซื้อระบบ 48V ผู้บริหารคาดรายได้ Q4 ที่ $1,315–$1,385 ล้าน อัตรากำไรขั้นต้น Non-GAAP 55.5%–56.1% ขยายกำลังการผลิตทะลุ $6 พันล้านต่อปีมุ่งสู่ $8 พันล้านในครึ่งหลังปี 2027 พร้อมอนุมัติซื้อหุ้นคืนเพิ่ม $500 ล้าน และแต่งตั้ง Tony Balow เป็น CFO ถาวร ความผันผวนในเดือน พ.ย. จึงเป็นเสียงรบกวนจากข่าว Nvidia มากกว่าพื้นฐานที่เปลี่ยนไป",
+               "headline":  "งบ Q3 ทะลุ $1.2B ย้ำปราการ AI แกร่ง แต่หุ้นผันผวนตามข่าว Nvidia ทำให้เทคนิคยังเป็นกลาง",
                "news":  [
-                            "29 ต.ค. 2026: MPS รายงานรายได้ไตรมาสทะลุพันล้านดอลลาร์ครั้งแรกที่ $1,202.4 ล้าน (+63.1% YoY) และกำไร Non-GAAP $8.19 ต่อหุ้นสูงกว่าคาด พร้อมคาดรายได้ Q4 ที่ $1,315–$1,385 ล้าน และปรับเป้าขั้นต่ำการเติบโตของ Enterprise Data จาก 130% เป็น 150%",
-                            "29 ต.ค. 2026: บริษัทแต่งตั้ง Tony Balow รองประธานฝ่ายการเงินขึ้นเป็น CFO ถาวร และให้ Robert Dean อดีตรักษาการ CFO ไปดำรงตำแหน่งประธานเจ้าหน้าที่ฝ่ายบัญชี (CAO) เพื่อวางโครงสร้างผู้บริหารการเงินหลังอดีต CFO เกษียณอายุ",
-                            "30 ต.ค. 2026: นักวิเคราะห์วอลล์สตรีทยังคงมุมมองบวกหลังงบ Q3 โดย Truist ปรับเป้าราคาขึ้นเป็น $1,906 (Buy) ขณะที่ Needham คงคำแนะนำ Buy เป้า $2,000 และ TD Cowen คง Buy เป้า $1,700",
-                            "3 พ.ย. 2026: เอกสาร 10-Q ไตรมาส 3 เปิดเผยว่าจุดอ่อนสำคัญด้านการควบคุมภายในเรื่องบัญชีภาษีรอตัดบัญชียังอยู่ระหว่างการแก้ไขโดยตั้งเป้าเสร็จสิ้นปลายปี 2026 และวันเดียวกัน Rosen Law Firm ประกาศสอบสวนประเด็นหน้าที่ความรับผิดชอบของกรรมการและผู้บริหาร",
-                            "20 พ.ย. 2026: หุ้น MPWR ร่วงหนัก 11.87% มาที่ $1,142.05 ท่ามกลางแรงเทขายหุ้นเซิร์ฟเวอร์และชิป AI ทั้งกระดาน หลังลูกค้าหลักอย่าง NVIDIA ดิ่งราว 14% จากรายงานข่าว SEC สอบสวนวิธีทางบัญชีและความกังวลหลังการเปลี่ยนผ่านซีอีโอ"
+                            "29 ต.ค. 2026 — งบ Q3 2026 และคาดการณ์ Q4: MPWR ทำรายได้ทะลุ $1 พันล้านต่อไตรมาสเป็นครั้งแรกที่ $1,202.4 ล้าน (+63.1% YoY) และ Non-GAAP EPS $8.19 นำโดยกลุ่ม Enterprise Data โต 164.6% YoY เป็น $506.7 ล้าน พร้อมคาดรายได้ Q4 ที่ $1,315–$1,385 ล้าน ปรับพื้นการเติบโตทั้งปีของ Enterprise Data เป็น 150% และอนุมัติวงเงินซื้อหุ้นคืนเพิ่ม $500 ล้าน",
+                            "29 ต.ค. 2026 — แต่งตั้งผู้บริหารการเงิน: MPWR เลื่อนตำแหน่ง Tony Balow (รองประธานฝ่ายการเงินและอดีตผู้บริหาร Intel 23 ปี) ขึ้นเป็น CFO ถาวร และแต่งตั้ง Rob Dean อดีตรักษาการ CFO เป็น Chief Accounting Officer โดยมีผลทันที",
+                            "30 ต.ค. 2026 — นักวิเคราะห์ปรับมุมมองหลังงบออก: Rosenblatt ปรับคำแนะนำ MPWR จาก Neutral เป็น Buy (เพิ่มเป้าหมายจาก $1,575 เป็น $1,700) ขณะที่ Truist Securities ขยับเป้าหมายขึ้นเป็น $1,906 รับงบ Q3 และการขยายกำลังการผลิต",
+                            "9 พ.ย. 2026 — พ่ายคดีสิทธิบัตรที่ศาลเดลาแวร์: คณะลูกขุนศาลรัฐบาลกลางสหรัฐฯ ตัดสินว่าคู่แข่งอย่าง Reed Semiconductor ไม่ได้ละเมิดสิทธิบัตรวงจรจัดการพลังงานทั้ง 2 ฉบับที่ MPWR ยื่นฟ้อง",
+                            "12–23 พ.ย. 2026 — ราคาเหวี่ยงแรงตามข่าวซัพพลายเชน AI: หลัง Jensen Huang ลาออกจากตำแหน่ง CEO ของ Nvidia เมื่อ 12 พ.ย. และแรงเทขายหุ้นชิปกด MPWR ร่วงเกือบ 12% ในวันที่ 20 พ.ย. บอร์ด Nvidia ได้ประกาศดึง Huang กลับมารับตำแหน่งในวันที่ 23 พ.ย. จุดแรงซื้อคืนทั้งกลุ่มจน MPWR พุ่ง 16.8% สู่ $1,333.88"
                         ],
-               "opportunity":  "การปรับฐานลงมา 33.4% จากจุดสูงสุด $1,714.09 สะท้อนการลดความเสี่ยงของหุ้นกลุ่มชิป AI ทั้งตลาดมากกว่าการชะลอตัวของธุรกิจ MPS เอง เห็นได้จากกลุ่ม Enterprise Data ที่พุ่ง 164.6% YoY แตะ $506.7 ล้าน แนวโน้มรายได้ Q4 ที่เร่งตัวสู่ $1,315–$1,385 ล้าน และอัตรากำไรขั้นต้น Non-GAAP ที่ยืนมั่นคง 55.7% เมื่อแร็ค AI ระดับเมกะวัตต์กำลังเปลี่ยนผ่านสู่ระบบไฟ 800 โวลต์ทั้งในฝั่ง GPU และชิป AI ASIC เฉพาะทางช่วงปี 2027–2028 ความได้เปรียบด้านเทคโนโลยีแปลงพลังงานและแผนขยายกำลังการผลิตสู่ $8 พันล้านจึงยังคงธีมระยะยาวไว้ได้ จุดสำคัญที่ควรจับตาคือการตั้งฐานแถวแนวรับ $1,086 และการปิดจุดอ่อนด้านการควบคุมภายในให้สำเร็จภายในสิ้นปีนี้",
-               "opportunityCheck":  "โครงสร้างคะแนนโอกาสด้าน AI ของหน้าเว็บอยู่ในทิศทางที่เหมาะสม แต่คะแนนสัดส่วนรายได้จาก AI ดูต่ำเกินจริงและควรปรับขึ้น เพราะไตรมาส 3 ปี 2026 กลุ่ม Enterprise Data ขยับขึ้นมาคิดเป็น 42.1% ของรายได้รวมแล้วหลังโตแรง 164.6% YoY อีกทั้งผู้บริหารยังยกเพดานการเติบโตขั้นต่ำทั้งปีขึ้นเป็น 150% สะท้อนว่าธุรกิจจ่ายไฟเซิร์ฟเวอร์ AI กำลังเข้าใกล้ครึ่งหนึ่งของบริษัท ด้านอำนาจต่อรองราคาและบทบาทคอขวดก็สมควรขยับขึ้นเล็กน้อยจากอัตรากำไรขั้นต้น Non-GAAP ที่นิ่งสูง 55.7% ส่วนคะแนนการเติบโตของตลาด ตำแหน่งผู้นำ และโอกาสต่อยอดในระบบ 800 โวลต์ถือว่าสมดุลดีแล้ว",
+               "opportunity":  "แม้ราคาหุ้นจะยังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($1,714.09) อยู่ 22.2% แต่พื้นฐานกลับทำสถิติใหม่พร้อมแนวโน้มรายได้ Q4 เฉลี่ย $1.35 พันล้าน ช่องว่างจากความผันผวนที่ไม่ได้มาจากปัจจัยพื้นฐานจึงเปิดประเด็นให้นักลงทุนระยะยาวติดตาม 3 ปัจจัยหลัก ได้แก่ การขยายกำลังการผลิตจากกว่า $6 พันล้านสู่ $8 พันล้านต่อปีภายในครึ่งหลังปี 2027 การเพิ่มมูลค่าโมดูลต่อเครื่องในกลุ่มลูกค้าระดับไฮเปอร์สเกลหลายราย และการส่งตัวอย่างเทคโนโลยี 800-volt กับ GaN สำหรับดาต้าเซ็นเตอร์ช่วงปลายปี 2027–2028 เสริมด้วยคำสั่งซื้อระบบไฟรถยนต์ 48V ที่เริ่มเติบโต",
+               "opportunityCheck":  "โครงสร้างคะแนนโอกาสด้าน AI บนหน้าเว็บสะท้อนทิศทางได้เหมาะสมโดยรวม แต่สัดส่วนรายได้จาก AI (AI revenue exposure) ดูประเมินต่ำเกินไปและควรปรับเพิ่ม เพราะงบ Q3 วันที่ 29 ต.ค. 2026 แสดงให้เห็นว่า Enterprise Data คิดเป็น 42.1% ของรายได้ทั้งหมดแล้ว ($506.7 ล้าน โต 164.6% YoY) ขณะที่ Communications พุ่ง 134.7% YoY สู่ $187.4 ล้านจากโมดูลออปติคอลและสวิตช์ AI ทำให้เกินครึ่งของรายได้ผูกกับโครงสร้างพื้นฐาน AI ส่วนด้าน optionality มีแรงหนุนเพิ่มจากชิป 800V และ GaN ขณะที่คะแนนด้านคอขวดและอำนาจกำหนดราคาในระดับกลางยังดูสมเหตุสมผล เมื่อเทียบกับอัตรากำไรขั้นต้นที่ทรงตัวราว 55.7% และผลคดีสิทธิบัตรวันที่ 9 พ.ย.",
                "pros":  [
-                            "รายได้ Q3 2026 ทะลุพันล้านดอลลาร์ครั้งแรกที่ $1,202.4 ล้าน (+63.1% YoY) พร้อมให้กรอบรายได้ Q4 โตต่อที่ $1,315–$1,385 ล้าน",
-                            "กลุ่ม Enterprise Data พุ่ง 164.6% YoY สู่ $506.7 ล้าน (คิดเป็น 42.1% ของรายได้รวม) จนผู้บริหารปรับเป้าการเติบโตขั้นต่ำของกลุ่มนี้ขึ้นเป็น 150%",
-                            "อัตรากำไรขั้นต้น Non-GAAP ยืนแข็งแกร่งที่ 55.7% ขณะที่บริษัทเดินหน้าขยายกำลังการผลิตจากกว่า $6 พันล้านสู่ $8 พันล้านภายในครึ่งหลังปี 2027",
-                            "การส่งตัวอย่างโมดูลไฟ 800 โวลต์แบบ GaN/SiC และงานออกแบบชิปจ่ายไฟให้ AI ASIC เฉพาะทาง ช่วยกระจายการเติบโตไม่ให้ผูกติดกับแพลตฟอร์ม GPU เดียว"
+                            "รายได้ Q3 2026 วันที่ 29 ต.ค. ทำสถิติใหม่ $1,202.4 ล้าน (+63.1% YoY) โดย Enterprise Data พุ่ง 164.6% YoY สู่ $506.7 ล้าน (42.1% ของยอดขาย)",
+                            "คาดการณ์รายได้ Q4 2026 ที่ $1,315–$1,385 ล้าน และการปรับพื้นการเติบโตทั้งปีของ Enterprise Data ขึ้นเป็น 150% ยืนยันดีมานด์เซิร์ฟเวอร์ AI และโมดูลออปติคอลที่เร่งตัว",
+                            "อัตรากำไรขั้นต้น Non-GAAP แข็งแกร่งที่ 55.7% (คาด Q4 ที่ 55.5%–56.1%) รองรับด้วยกำลังการผลิตทะลุ $6 พันล้านต่อปีและกำลังขยายสู่ $8 พันล้านในครึ่งหลังปี 2027",
+                            "การเริ่มส่งตัวอย่างสถาปัตยกรรม 800-volt และ GaN สำหรับปี 2027–2028 คำสั่งซื้อระบบไฟรถยนต์ 48V และวงเงินซื้อหุ้นคืนเพิ่ม $500 ล้านช่วยหนุนการเติบโตระยะยาว"
                         ],
                "risks":  [
-                             "แรงกระเพื่อมโดยตรงในซัพพลายเชน AI หากการสอบสวนของ SEC ต่อ NVIDIA หรือการชะลองบลงทุนของกลุ่มคลาวด์ทำให้คำสั่งซื้อแร็คเซิร์ฟเวอร์ล่าช้า",
-                             "ความเสี่ยงด้านธรรมาภิบาลและรายงานการเงิน หากไม่สามารถแก้ไขจุดอ่อนด้านการควบคุมภายในเรื่องภาษีรอตัดบัญชีได้ตามกำหนดสิ้นปี 2026",
-                             "ความเสี่ยงจากการกระจุกตัวของลูกค้ารายใหญ่และแรงกดดันด้านการแบ่งซัพพลายเออร์หลายรายในชิ้นส่วนจ่ายไฟ AI จากคู่แข่งชิปอนาล็อกรายใหญ่",
-                             "การปรับลดมูลค่า (valuation multiple) ของหุ้นโครงสร้างพื้นฐาน AI ที่อาจยืดเยื้อท่ามกลางอัตราดอกเบี้ยสูงและแนวต้านทางเทคนิคหนาแน่นช่วง $1,265–$1,306"
+                             "ราคาหุ้นอ่อนไหวสูงต่อบรรยากาศลงทุนกลุ่ม AI และข่าวความไม่แน่นอนของลูกค้าหลักอย่าง Nvidia ดังที่เห็นจากความผันผวนระดับสองหลักในเดือน พ.ย.",
+                             "แรงกดดันด้านการแข่งขันและข้อจำกัดในการปกป้องสิทธิบัตรวงจรจัดการพลังงาน หลังคำตัดสินคดี Reed Semiconductor เมื่อวันที่ 9 พ.ย. 2026",
+                             "ความเสี่ยงด้านภูมิรัฐศาสตร์ ภาษีนำเข้า และข้อจำกัดการส่งออก จากการพึ่งพาโรงงานผลิตภายนอกและยอดส่งมอบที่กระจุกตัวในจีน",
+                             "ความผันผวนของงบลงทุน AI จากผู้ให้บริการคลาวด์รายใหญ่ และความอ่อนไหวด้านมูลค่าหุ้นหากการเติบโตของ Enterprise Data ชะลอลงจากระดับ 150%+"
                          ],
-               "summary":  "หุ้น Monolithic Power Systems ร่วงแรง 11.87% ปิดที่ $1,142.05 เมื่อวันที่ 20 พ.ย. 2026 ตามแรงเทขายหุ้นชิป AI ทั้งกลุ่ม หลังมีรายงานว่า SEC สอบสวนบัญชีของลูกค้ารายสำคัญอย่าง NVIDIA ควบคู่กับความไม่แน่นอนหลังเปลี่ยนผ่านซีอีโอ ภาพดังกล่าวสวนทางกับงบ Q3 2026 เมื่อวันที่ 29 ต.ค. ที่แข็งแกร่งเกินคาด รายได้โต 63.1% YoY แตะสถิติสูงสุด $1,202.4 ล้าน กลุ่ม Enterprise Data พุ่ง 164.6% สู่ $506.7 ล้าน และคาดรายได้ Q4 ที่ $1,315–$1,385 ล้าน เชิงเทคนิคกราฟพลิกเป็นขาลงชัดเจนใต้เส้นค่าเฉลี่ยหลักทั้งหมด แต่คูเมืองด้านเทคโนโลยีแปลงพลังงานระยะยาวยังคงแข็งแกร่งไม่เปลี่ยน",
-               "technical":  "ณ วันที่ 20 พ.ย. 2026 ภาพเทคนิคของ MPWR อยู่ในภาวะขาลงชัดเจนหลังราคาดิ่ง 11.87% ในวันเดียวลงมาปิดที่ $1,142.05 ราคาหลุดต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — เส้นวัดแนวโน้มราคาเฉลี่ย) ทั้ง 3 เส้น ได้แก่ EMA 50 ($1,294.62), EMA 100 ($1,306.32) และ EMA 200 ($1,265.55) โดย EMA 50 ตัดลงต่ำกว่า EMA 100 แล้ว และจังหวะดีดตัวระหว่างวันของวันศุกร์ติดแนวต้าน $1,271.13 ใกล้ EMA 200 ก่อนไหลลงมาปิดใกล้จุดต่ำสุดวันนั้นที่ $1,132.78 ทำให้ช่วง $1,265–$1,306 กลายเป็นแนวต้านหนาแน่น ด้านโมเมนตัม MACD (ตัววัดทิศทางและแรงส่ง) อยู่ที่ 1.55 ต่ำกว่าเส้น Signal ที่ 11.50 เกิดแท่ง Histogram ติดลบกว้าง -9.95 ส่วน RSI 14 (มาตรวัดแรงซื้อขาย 0–100 หากต่ำกว่า 30 คือเขตขายมากเกินไป) อยู่ที่ 39.78 บ่งชี้แรงขายคุมเกมแต่ยังไม่ถึงเขตขายมากเกินไป ในกรอบ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาถอยต่ำกว่าเส้นกลาง $1,279.92 เข้าใกล้ขอบล่าง $1,086.21 ซึ่งเป็นแนวรับระยะสั้น ทั้งนี้ราคาย่อลง 33.4% จากจุดสูงสุด 52 สัปดาห์ที่ $1,714.09 (จุดต่ำสุด $833.18) พร้อมปริมาณซื้อขาย 1.79 ล้านหุ้น หรือ 1.53 เท่าของค่าเฉลี่ย 20 วัน (1.17 ล้านหุ้น) ยืนยันแรงขายจากสถาบัน"
+               "summary":  "หุ้น Monolithic Power Systems (MPWR) พุ่งขึ้น 16.8% สู่ $1,333.88 เมื่อวันที่ 23 พ.ย. 2026 หลัง Nvidia ประกาศดึง Jensen Huang กลับมาเป็น CEO พลิกฟื้นจากแรงเทขายหุ้นชิปกลางเดือน พ.ย. ด้านพื้นฐาน งบ Q3 2026 วันที่ 29 ต.ค. ยืนยันดีมานด์ AI ที่ร้อนแรง รายได้ทะลุ $1 พันล้านเป็นครั้งแรกที่ $1,202.4 ล้าน (+63.1% YoY) นำโดย Enterprise Data ที่โต 164.6% YoY เป็น $506.7 ล้าน พร้อมคาดรายได้ Q4 ที่ $1,315–$1,385 ล้าน แม้ปราการธุรกิจระยะยาวยังแข็งแกร่ง แต่ความผันผวนสูง เส้นค่าเฉลี่ยยังไม่เรียงตัวสมบูรณ์ และผลแพ้คดีสิทธิบัตรวันที่ 9 พ.ย. ทำให้ภาพเทคนิคระยะสั้นยังเป็นกลาง",
+               "technical":  "ณ วันที่ 23 พ.ย. 2026 ราคา MPWR ปิดที่ $1,333.88 (+16.8% ในวันเดียว) ดีดตัวกลับขึ้นมายืนเหนือเส้นค่าเฉลี่ยเคลื่อนที่ EMA (เส้นค่าเฉลี่ยที่ให้น้ำหนักราคาล่าสุดเพื่อดูแนวโน้ม) ทั้งสามเส้น ได้แก่ EMA 50 ($1,296.16), EMA 100 ($1,306.86) และ EMA 200 ($1,266.19) แม้การยืนเหนือ EMA 200 จะช่วยรักษาแนวโน้มขาขึ้นระยะยาว แต่ EMA 50 ยังอยู่ต่ำกว่า EMA 100 สะท้อนว่าการฟื้นตัวระยะกลางยังไม่สมบูรณ์ ด้านโมเมนตัมยังก้ำกึ่ง โดย MACD (ตัวชี้วัดโมเมนตัมที่เทียบค่าเฉลี่ยเร็วกับช้า) เป็นบวกที่ 4.72 แต่ยังอยู่ใต้เส้น Signal ที่ 10.15 ทำให้ Histogram ติดลบที่ -5.43 ส่วน RSI 14 (ตัววัดโมเมนตัม 0–100 ต่ำกว่า 30 คือขายมากเกินไป สูงกว่า 70 คือซื้อมากเกินไป) อยู่ที่ระดับกลาง 52.32 กรอบ Bollinger Bands (ช่องวัดความผันผวนรอบค่าเฉลี่ย 20 วัน) กว้างมากที่ $1,100.39–$1,476.12 โดยราคาอยู่เหนือเส้นกลาง $1,288.26 เล็กน้อย และอยู่ที่ 56.8% ของกรอบ 52 สัปดาห์ ($833.18–$1,714.09 หรือต่ำกว่าจุดสูงสุด 22.2%) ปริมาณซื้อขาย 1.40 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 1.19 ล้านหุ้นอยู่ 17% ช่วยยืนยันแรงรีบาวด์ระดับปานกลาง แนวรับระยะสั้นกระจุกตัวที่ $1,288–$1,307 และ $1,266.19 ส่วนแนวต้านอยู่ใกล้ $1,476.12 และ $1,714.09"
            },
     "sources":  [
                     {
                         "date":  "2026-10-29",
                         "publisher":  "GlobeNewswire",
-                        "title":  "Monolithic Power Systems Reports Third Quarter Results",
+                        "title":  "Monolithic Power Systems Reports Third Quarter Results on October 29, 2026",
                         "url":  "https://www.globenewswire.com/news-release/2026/10/29/3391800/0/en/monolithic-power-systems-reports-third-quarter-results-on-october-29-2026.html"
-                    },
-                    {
-                        "date":  "2026-10-30",
-                        "publisher":  "The Motley Fool",
-                        "title":  "Monolithic Power Systems (MPWR) Q3 2026 Earnings Call Transcript",
-                        "url":  "https://www.fool.com/earnings/call-transcripts/2026/10/30/monolithic-power-systems-mpwr-q3-2026-earnings-call/"
                     },
                     {
                         "date":  "2026-10-29",
                         "publisher":  "GlobeNewswire",
                         "title":  "Monolithic Power Systems Announces Appointments of Chief Financial Officer and Chief Accounting Officer",
-                        "url":  "https://www.globenewswire.com/news-release/2026/10/29/3179116/0/en/Monolithic-Power-Systems-Announces-Appointments-of-Chief-Financial-Officer-and-Chief-Accounting-Officer.html"
-                    },
-                    {
-                        "date":  "2026-10-30",
-                        "publisher":  "Investing.com",
-                        "title":  "Monolithic Power Systems stock price target kept at $1,700 by TD Cowen",
-                        "url":  "https://www.investing.com/news/analyst-upgrades/monolithic-power-systems-stock-price-target-kept-at-1700-by-td-cowen-93CH-3375765"
+                        "url":  "https://www.globenewswire.com/news-release/2026/10/29/3178225/0/en/Monolithic-Power-Systems-Announces-Appointments-of-Chief-Financial-Officer-and-Chief-Accounting-Officer.html"
                     },
                     {
                         "date":  "2026-11-03",
-                        "publisher":  "GlobeNewswire",
-                        "title":  "Rosen Law Firm Announces Investigation of Breaches of Fiduciary Duties by the Directors and Officers of Monolithic Power Systems, Inc.",
-                        "url":  "https://www.globenewswire.com/news-release/2026/11/03/3182604/0/en/Monolithic-Power-Investor-News-Rosen-Law-Firm-Announces-Investigation-of-Breaches-of-Fiduciary-Duties-by-the-Directors-and-Officers-of-Monolithic-Power-Systems-Inc-MPWR.html"
+                        "publisher":  "U.S. Securities and Exchange Commission (SEC EDGAR)",
+                        "title":  "Monolithic Power Systems, Inc. (CIK 0001280452) SEC Filings (Q3 2026 Form 10-Q)",
+                        "url":  "https://www.sec.gov/edgar/browse/?CIK=0001280452"
                     },
                     {
-                        "date":  "2026-11-20",
-                        "publisher":  "Seeking Alpha",
-                        "title":  "Monolithic Power Systems retreats 12%, weighed down by tech selloff",
-                        "url":  "https://seekingalpha.com/news/4430267-monolithic-power-systems-retreats-12-weighed-down-by-tech-selloff"
+                        "date":  "2026-11-09",
+                        "publisher":  "Business Wire",
+                        "title":  "Reed Semiconductor Prevails in Patent Lawsuit Brought by Monolithic Power Systems",
+                        "url":  "https://www.businesswire.com/news/home/20261109405626/en/Reed-Semiconductor-Prevails-in-Patent-Lawsuit-Brought-by-Monolithic-Power-Systems"
                     },
                     {
-                        "date":  "2026-11-20",
-                        "publisher":  "Forbes",
-                        "title":  "SEC Probe Into Nvidia Is Focused On Accounting Practices, According To Report",
-                        "url":  "https://www.forbes.com/sites/fionariley/2026/11/20/sec-probe-into-nvidia-is-focused-on-accounting-practices-according-to-report/"
+                        "date":  "2026-11-23",
+                        "publisher":  "The Guardian",
+                        "title":  "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+                        "url":  "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-nvidia-ceo-trump-intervenes"
                     }
                 ]
 }

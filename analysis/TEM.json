@@ -2,46 +2,45 @@
     "ticker":  "TEM",
     "name":  "Tempus AI",
     "symbol":  "NASDAQ:TEM",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:07:49Z",
-    "costUsd":  0.6447296,
+    "generatedAt":  "2026-11-24T04:12:35Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:TEM",
                        "yahoo":  "TEM",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:05:43Z",
-                       "price":  54.04,
-                       "open":  57.78,
-                       "high":  58.35,
-                       "low":  53.26,
-                       "volume":  7416700,
-                       "avgVolume20":  6677645,
-                       "changePct":  -9.34,
-                       "ema50":  69.46,
-                       "ema100":  66.04,
-                       "ema200":  62.86,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:08:38Z",
+                       "price":  57.04,
+                       "open":  60.31,
+                       "high":  60.31,
+                       "low":  56.72,
+                       "volume":  6622100,
+                       "avgVolume20":  6821630,
+                       "changePct":  5.55,
+                       "historyDays":  500,
+                       "ema50":  68.98,
+                       "ema100":  65.87,
+                       "ema200":  62.79,
                        "bb":  {
-                                  "upper":  87.29,
-                                  "middle":  72.09,
-                                  "lower":  56.88
+                                  "upper":  88.03,
+                                  "middle":  71.58,
+                                  "lower":  55.13
                               },
                        "macd":  {
-                                    "macd":  -2.88,
-                                    "signal":  -0.43,
-                                    "hist":  -2.45
+                                    "macd":  -3.45,
+                                    "signal":  -1.03,
+                                    "hist":  -2.42
                                 },
-                       "rsi14":  32.94,
+                       "rsi14":  37.01,
                        "high52w":  89.09,
                        "low52w":  40.77,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         47.51
-                                     ],
                                      [
                                          "2026-06-04",
                                          52.26
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          54.04
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         57.04
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          50.1,
                                           50.18,
                                           50.04,
                                           49.98,
@@ -639,96 +641,124 @@
                                           70.8,
                                           70.52,
                                           70.09,
-                                          69.46
+                                          69.46,
+                                          68.98
                                       ]
                    },
     "en":  {
-               "headline":  "TEM breaks below all key averages despite a strong Q3 and data deals",
-               "technical":  "The trend has turned down. TEM closed at 54.04 USD on 2026-11-20, down 9.34% on the day, and is now below all three EMAs (exponential moving averages, smoothed trend lines): EMA50 at 69.46, EMA100 at 66.04 and EMA200 at 62.86. The EMAs are still stacked 50 \u003e 100 \u003e 200, a leftover of the earlier uptrend, but the close below the EMA200 is a clear long-term warning. Momentum is weak. MACD (the gap between a fast and a slow average) is -2.88, below its signal line at -0.43, and the histogram is -2.45, so sellers are in control. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 32.94, close to oversold but not there yet. Price closed below the lower Bollinger Band (56.88; middle 72.09, upper 87.29), which shows a stretched, emotional move that often bounces but can keep falling in a strong downtrend. TEM sits about 39% below its 52-week high of 89.09 and 33% above its 52-week low of 40.77. Volume was 7.42M shares, only about 1.1x the 20-day average, so the selling is real but not a panic. Nearby resistance is 56.88 and then 62.86. Support is thin down to the 40.77 low.",
-               "fundamental":  "Tempus sells cancer genomic tests (Diagnostics) and licenses the resulting de-identified clinical and molecular data and AI tools to drug makers (Data and Applications). The flywheel is that every test adds to the data library. Q3 2026 results, published 2026-11-02, back the thesis. Revenue was $411.5M (+23%). Data and Applications grew 33% to $108.1M at a 71.5% gross margin, oncology test volume rose 32%, and data-licensing bookings passed $550M year to date. Adjusted EBITDA was $25.6M, up from $1.5M a year earlier, and full-year revenue guidance rose to $1.60–1.605B. The weak spots are the unchanged ~$65M EBITDA guidance, a continuing GAAP net loss ($14.9M in Q3), about $50.8M of quarterly stock-based compensation, and the pending Personalis deal, which adds a loss-making MRD test business.",
-               "news":  [
-                            "2026-11-02: Q3 revenue was $411.5M (+23% YoY), adjusted EBITDA $25.6M and net loss $14.9M. Full-year 2026 revenue guidance was raised to $1.60–1.605B, and adjusted EBITDA guidance stayed at about $65M.",
-                            "Data deals disclosed around Q3: Bristol Myers Squibb will license oncology data for up to $137.5M over five years, Pathos signed a five-year $55M neurology dataset deal, and the Merck/Moderna collaboration on an individualized cancer vaccine was expanded. The stock rose about 10.7% on 2026-11-02.",
-                            "2026-11-03: Jefferies upgraded TEM from Underperform to Hold and raised its target from $35 to $70. It argued that about 8x expected 2027 revenue leaves little room for further valuation gains until acquisition economics are proven.",
-                            "Personalis acquisition (about $1.5B enterprise value, announced July 2026): regulatory review is complete, and Personalis shareholders vote on 2026-11-30. Tempus will pay at least half in Class A stock, and management has said Personalis currently loses money on its tests.",
-                            "2026-11-10 to 2026-11-17: TEM fell for six straight sessions, a cumulative drop of 24.9%. On 2026-11-20 it lost another 9.34% during a broad AI and Nasdaq sell-off. No new company-specific negative news was found to explain the slide.",
-                            "The Q3 release also reported two FDA 510(k) clearances, for the Tempus ECG-PH and ECG-MR AI cardiology tools, and about 12,000 MRD tests (+300%)."
+               "caution":  "The gap between strong fundamentals and weak price action reflects real near-term overhangs. Closing the ~$1.5 billion Personalis buyout in early December will bring loss-making MRD operations onto Tempus\u0027s income statement and either issue new shares (up to a 0.3356 exchange-ratio cap) or draw up to 50% in cash from its $854.4 million liquidity cushion. Meanwhile, Tempus remains GAAP unprofitable, swings sharply during AI-sector rotations, and sits below all key EMAs, meaning technical resistance around $62.79–$68.98 could cap rebounds until post-merger visibility improves.",
+               "cons":  [
+                            "Shares at $57.04 trade below all major moving averages, including the 200-day EMA at $62.79, confirming a sharp technical breakdown.",
+                            "The ~$1.5 billion Personalis buyout—facing a November 30 shareholder vote—brings near-term operating losses and potential share dilution or cash drain.",
+                            "Tempus remains GAAP unprofitable with a -$14.9 million Q3 2026 net loss despite improving margins.",
+                            "Pre-arranged Rule 10b5-1 insider sales, including CEO Eric Lefkofsky\u0027s 250,000-share sale on November 19–20, weighed on sentiment during a high-beta AI pullback."
                         ],
-               "caution":  "The chart is clearly broken: price is below the EMA200 with negative MACD, and falling below the lower Bollinger Band can mark the start of a deeper move rather than the end. The stock still has a high valuation for a company that only recently reached EBITDA breakeven. A weak AI sector hits it hard, as 2026-11-20 showed. The Personalis deal will issue new shares and add losses, and 2026 EBITDA guidance was not raised. In 2025–26 the stock already fell 46.7% from peak to trough, so very large swings are normal for TEM.",
-               "opportunity":  "The selling does not match the business news. Within about three weeks of a record quarter, a guidance raise, new data-licensing deals with BMS and Pathos, and a Jefferies upgrade, the price dropped about 30% from its early-November level. RSI near 33 and a close below the lower Bollinger Band show stretched, oversold-leaning conditions. Higher reimbursement rates for 2027 (estimated at $80–85M a year) and the Personalis MRD test could support margins. A recovery above 56.88 and then the EMA200 at 62.86 would be the first signs that sellers are tiring.",
+               "fundamental":  "Within the AI value chain, Tempus operates at the healthcare application and proprietary-data layer rather than compute hardware. Each clinical genomic test expands its de-identified multimodal dataset, which biopharma partners license alongside its Lens AI platform to speed up drug discovery. Q3 2026 results on November 2 validated that flywheel: revenue rose 23% year-over-year to $411.5 million, non-GAAP gross margin reached 66%, Diagnostics grew 20% on 32% oncology volume growth, and Data \u0026 Applications rose 33% to $108.1 million. GAAP net loss narrowed to -$14.9 million from -$80.0 million a year earlier, backed by $854.4 million in cash and marketable securities. Multi-year renewals through 2031 with AstraZeneca and Bristol Myers Squibb plus the pending Personalis MRD acquisition deepen the data moat, even though the buyout temporarily adds losses and integration risk.",
+               "headline":  "Strong Q3 and $200M AstraZeneca Renewal Clash with Steep Technical Pullback",
+               "news":  [
+                            "November 2, 2026: Tempus reported Q3 revenue of $411.5 million (+23% YoY), Adjusted EBITDA of $25.6 million, and a narrowed GAAP net loss of -$14.9 million, while raising FY2026 revenue guidance to $1.60–$1.605 billion and projecting an $80 million 2027 pricing lift from xT CDx.",
+                            "November 18, 2026: An SEC Form 8-K disclosed a five-year renewal of AstraZeneca\u0027s Master Services Agreement (signed November 16) covering 2027–2031 with a $200 million fee commitment ($40 million annual target, $32 million minimum).",
+                            "November 23, 2026: Proxy advisors ISS and Glass Lewis recommended Personalis shareholders vote FOR Tempus\u0027s $16.25-per-share (~$1.5 billion) acquisition ahead of the November 30 special meeting, targeting an early December close.",
+                            "November 2–10, 2026: Following Q3 results, multiple Wall Street firms lifted targets, including Jefferies upgrading TEM from Underperform to Hold ($70 target) on November 3 alongside higher targets from Mizuho, BTIG, Baird, and Canaccord.",
+                            "October 26, 2026: Tempus received EU IVDR Class C certification for its xR RNA-sequencing solid-tumor assay, securing European clinical and biopharma access past 2028.",
+                            "October 23, 2026: Tempus expanded its multi-year oncology collaboration with Bristol Myers Squibb through 2031, licensing multimodal data and granting access to its GPU-backed Lens AI platform."
+                        ],
+               "opportunity":  "For long-term AI-infrastructure investors looking at downstream healthcare exposure, Tempus\u0027s proprietary clinical-genomic dataset is proving harder to replicate. Securing $200 million from AstraZeneca through 2031, expanding Bristol Myers Squibb onto Lens, and surpassing $550 million in year-to-date data bookings strengthen revenue visibility beyond standalone test volume. Two concrete 2027 catalysts sit ahead: the projected $80 million oncology pricing uplift from FDA-approved xT CDx reimbursement starting January 1, 2027, and cross-selling Personalis\u0027s minimal residual disease tests across Tempus\u0027s existing oncology network once integrated.",
+               "opportunityCheck":  "The page\u0027s sub-scores look slightly conservative on market position and bottleneck pricing power. Over the past month, Tempus locked in a five-year $200 million AstraZeneca renewal, expanded with Bristol Myers Squibb on its Lens AI platform, earned EU IVDR certification for xR, and outlined an $80 million 2027 reimbursement uplift from FDA-approved xT CDx. Moving bottleneck pricing power and market position modestly higher would better reflect growing biopharma lock-in and regulated diagnostic pricing. Optionality already looks generous and should stay capped until Personalis integrates cleanly and GAAP profitability arrives.",
+               "pros":  [
+                            "Q3 2026 revenue grew 23% year-over-year to $411.5 million as Adjusted EBITDA jumped to $25.6 million from $1.5 million a year earlier.",
+                            "Data and Applications revenue climbed 33% to $108.1 million, backed by over $550 million in year-to-date data bookings and a $200 million five-year AstraZeneca renewal disclosed November 18.",
+                            "Migrating solid-tumor DNA volume to FDA-approved xT CDx starting January 1, 2027 is projected to add roughly $80 million in 2027 oncology pricing uplift.",
+                            "EU IVDR certification for the xR RNA assay (October 26) and an expanded Bristol Myers Squibb Lens AI agreement (October 23) broaden global clinical and pharma adoption."
+                        ],
                "risks":  [
-                             "Dilution and added losses if the Personalis deal closes in Q4 2026 with at least half paid in shares",
-                             "A long-duration growth stock that is sensitive to AI-sector sentiment and interest-rate moves",
-                             "Still GAAP loss-making, with about $50M of quarterly stock-based compensation",
-                             "Execution risk in proving MRD economics and acquisition synergies",
-                             "Reimbursement and regulatory changes affecting genomic test payments"
+                             "Personalis integration risk, near-term operating loss absorption, and share dilution or cash outlay following the November 30, 2026 shareholder vote.",
+                             "Ongoing GAAP net losses (-$14.9 million in Q3 2026) and execution risk around realizing the projected $80 million xT CDx reimbursement uplift in 2027.",
+                             "High-beta share swings (down 36% from its $89.09 52-week high) amplified by institutional trimming and recurring Rule 10b5-1 insider sales.",
+                             "Intense precision-oncology competition from Guardant Health, Foundation Medicine, Natera, and Caris Life Sciences across genomic profiling and MRD testing.",
+                             "Diagnostic reimbursement changes, FDA and EU regulatory compliance, and strict clinical data-privacy rules."
                          ],
-               "summary":  "Tempus AI\u0027s business improved in the latest period, while its stock fell. Q3 revenue grew 23%, the high-margin data business grew 33%, and new pharma data deals support the clinical-and-genomic-data moat, so the thesis remains intact. Technically, TEM is bearish: at 54.04 USD it is below all three EMAs, MACD is negative and price closed under the lower Bollinger Band, with RSI near oversold at 32.94. The drop looks driven by an AI-sector sell-off and worries about Personalis dilution, not by a business failure. Next watch points are the 2026-11-30 Personalis vote and Q4 results in February 2027."
+               "summary":  "Tempus AI (NASDAQ:TEM) closed at $57.04 on November 23, 2026, down 36% from its $89.09 52-week high despite a strong operational month. On November 2, Q3 revenue rose 23% year-over-year to $411.5 million, Adjusted EBITDA reached $25.6 million, and full-year revenue guidance increased to $1.60–$1.605 billion. Five-year oncology data renewals with AstraZeneca ($200 million, November 18) and Bristol Myers Squibb (October 23) reinforce its data-library moat. However, high-beta tech selling, executive 10b5-1 sales, and overhang ahead of the November 30 Personalis merger vote keep the chart firmly bearish.",
+               "technical":  "As of November 23, 2026, TEM closed at $57.04, sitting in a clear intermediate-term downtrend. Although the three exponential moving averages (EMAs, trend lines giving greater weight to recent prices) remain stacked in bullish order—EMA 50 at $68.98 above EMA 100 at $65.87 and EMA 200 at $62.79—price has broken decisively below all three, turning the $62.79–$68.98 band into layered overhead resistance. Momentum confirms seller control: the MACD (a 12/26/9 trend-momentum indicator) sits deeply negative at -3.45 below its -1.03 signal line, with a -2.42 histogram showing downward pressure remains intact. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) stands at 37.01—weak, yet not fully washed out. Volatility is elevated, with price hugging the lower Bollinger Band (a 20-day volatility channel) at $55.13 versus the $71.58 middle band and $88.03 upper band, placing TEM in the lower third of its $40.77–$89.09 52-week range. While November 23 produced a 5.55% gain, shares faded from a $60.31 open on 6.62 million shares—slightly below the 6.82 million 20-day average—leaving near-term support near $55.13 lacking strong volume conviction."
            },
     "th":  {
-               "headline":  "TEM หลุดเส้นค่าเฉลี่ยทุกเส้น แม้ผล Q3 แข็งแรงและได้ดีลข้อมูลใหม่",
-               "technical":  "แนวโน้มกลับเป็นขาลงแล้ว TEM ปิดวันที่ 2026-11-20 ที่ 54.04 USD ลดลง 9.34% ในวันเดียว และอยู่ต่ำกว่า EMA ทั้งสามเส้น (EMA คือเส้นค่าเฉลี่ยที่บอกแนวโน้ม): EMA50 ที่ 69.46, EMA100 ที่ 66.04 และ EMA200 ที่ 62.86 เส้น EMA ยังเรียง 50 \u003e 100 \u003e 200 ซึ่งเป็นร่องรอยจากขาขึ้นเดิม แต่การหลุด EMA200 เป็นสัญญาณเตือนระยะยาวที่ชัดเจน โมเมนตัมอ่อน MACD (ส่วนต่างของค่าเฉลี่ยเร็วกับช้า) อยู่ที่ -2.88 ต่ำกว่าเส้นสัญญาณที่ -0.43 และ histogram เป็นลบที่ -2.45 แปลว่าฝั่งขายคุมเกม RSI 14 (มาตรวัดแรงส่ง 0–100 ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 32.94 ใกล้แต่ยังไม่ถึงโซน oversold ราคาปิดต่ำกว่า Bollinger Band เส้นล่าง (56.88; เส้นกลาง 72.09 เส้นบน 87.29) แสดงว่าราคาถูกเทขายแรงเกินปกติ ซึ่งมักเด้งกลับได้ แต่ถ้าขาลงแรงก็ลงต่อได้เช่นกัน ราคาอยู่ต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ 89.09 ราว 39% และสูงกว่าจุดต่ำสุดที่ 40.77 ราว 33% วอลุ่ม 7.42 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันเพียงราว 1.1 เท่า แรงขายจึงมีจริงแต่ยังไม่ถึงขั้นตื่นตระหนก แนวต้านใกล้คือ 56.88 และ 62.86 ส่วนแนวรับด้านล่างบางมากจนถึงระดับ 40.77",
-               "fundamental":  "Tempus ขายบริการตรวจพันธุกรรมมะเร็ง (Diagnostics) แล้วนำข้อมูลทางคลินิกและโมเลกุลที่ไม่ระบุตัวตนพร้อมเครื่องมือ AI ไปให้บริษัทยาใช้ (Data and Applications) ยิ่งตรวจมาก คลังข้อมูลก็ยิ่งใหญ่ขึ้น ผล Q3 2026 ที่ประกาศวันที่ 2026-11-02 สนับสนุนแนวคิดนี้ รายได้ $411.5M (+23%) ธุรกิจ Data and Applications โต 33% เป็น $108.1M ที่ gross margin 71.5% ปริมาณตรวจมะเร็งเพิ่ม 32% และยอดจองไลเซนส์ข้อมูลทั้งปีเกิน $550M แล้ว Adjusted EBITDA อยู่ที่ $25.6M จาก $1.5M ปีก่อน และบริษัทปรับเป้ารายได้ทั้งปีขึ้นเป็น $1.60–1.605B จุดอ่อนคือเป้า EBITDA ~$65M ไม่ได้ปรับขึ้น ยังขาดทุนสุทธิตามบัญชี ($14.9M ใน Q3) มีค่าตอบแทนเป็นหุ้นราว $50.8M ต่อไตรมาส และดีล Personalis จะนำธุรกิจตรวจ MRD ที่ยังขาดทุนเข้ามา",
-               "news":  [
-                            "2026-11-02: รายได้ Q3 อยู่ที่ $411.5M (+23% YoY) Adjusted EBITDA $25.6M ขาดทุนสุทธิ $14.9M บริษัทปรับเป้ารายได้ปี 2026 ขึ้นเป็น $1.60–1.605B ส่วนเป้า Adjusted EBITDA คงไว้ที่ราว $65M",
-                            "ดีลข้อมูลที่เปิดเผยช่วง Q3: Bristol Myers Squibb ซื้อไลเซนส์ข้อมูลมะเร็งมูลค่าสูงสุด $137.5M ใน 5 ปี Pathos เซ็นดีลข้อมูลระบบประสาท 5 ปีมูลค่า $55M และมีการขยายความร่วมมือกับ Merck/Moderna เรื่องวัคซีนมะเร็งเฉพาะบุคคล หุ้นบวกราว 10.7% ในวันที่ 2026-11-02",
-                            "2026-11-03: Jefferies ปรับคำแนะนำ TEM จาก Underperform เป็น Hold และขึ้นราคาเป้าหมายจาก $35 เป็น $70 แต่มองว่ามูลค่าราว 8 เท่าของรายได้ปี 2027 ทำให้ valuation ขยายต่อได้จำกัด จนกว่าจะพิสูจน์ความคุ้มค่าของการซื้อกิจการได้",
-                            "ดีลซื้อ Personalis (มูลค่ากิจการราว $1.5B ประกาศเดือนกรกฎาคม 2026) ผ่านการตรวจสอบของหน่วยงานกำกับแล้ว ผู้ถือหุ้น Personalis จะโหวตวันที่ 2026-11-30 Tempus จะจ่ายเป็นหุ้น Class A อย่างน้อยครึ่งหนึ่ง และผู้บริหารยอมรับว่า Personalis ยังขาดทุนต่อการตรวจแต่ละครั้ง",
-                            "ช่วง 2026-11-10 ถึง 2026-11-17 TEM ลงติดกัน 6 วัน รวม -24.9% แล้ววันที่ 2026-11-20 ลงอีก 9.34% ท่ามกลางการเทขายหุ้น AI และ Nasdaq ทั้งตลาด ยังไม่พบข่าวร้ายเฉพาะบริษัทที่อธิบายการร่วงรอบนี้",
-                            "รายงาน Q3 ยังระบุว่าได้รับ FDA 510(k) สองรายการสำหรับเครื่องมือ AI ด้านหัวใจ Tempus ECG-PH และ ECG-MR และมีการตรวจ MRD ราว 12,000 ครั้ง (+300%)"
+               "caution":  "ความต่างระหว่างพื้นฐานที่แข็งแกร่งกับราคาหุ้นที่อ่อนแรงสะท้อนแรงกดดันระยะสั้นจริง การปิดดีลซื้อ Personalis มูลค่าราว $1.5 พันล้านในช่วงต้นเดือนธันวาคมจะทำให้ Tempus ต้องรับรู้ผลขาดทุนจากธุรกิจ MRD ในช่วงแรก และต้องเลือกระหว่างการออกหุ้นใหม่ (จำกัดอัตราแลกหุ้นสูงสุดที่ 0.3356) หรือจ่ายเงินสดสูงสุด 50% จากสภาพคล่องที่มีอยู่ $854.4 ล้าน ขณะเดียวกัน บริษัทยังมีขาดทุนสุทธิแบบ GAAP หุ้นผันผวนแรงตามกลุ่ม AI และราคายังอยู่ใต้เส้น EMA สำคัญทั้งหมด ทำให้แนวต้านช่วง $62.79–$68.98 อาจกดดันการฟื้นตัวจนกว่าความชัดเจนหลังควบรวมจะดีขึ้น",
+               "cons":  [
+                            "ราคาหุ้นที่ $57.04 หลุดต่ำกว่าเส้นค่าเฉลี่ยสำคัญทั้งหมดรวมถึง EMA 200 ที่ $62.79 ยืนยันโครงสร้างกราฟขาลงระยะกลางชัดเจน",
+                            "ดีลซื้อกิจการ Personalis มูลค่าราว $1.5 พันล้านซึ่งจะโหวตวันที่ 30 พ.ย. 2026 จะเพิ่มภาระขาดทุนระยะสั้น รวมถึงความเสี่ยง Dilution หรือการใช้เงินสดจำนวนมาก",
+                            "Tempus ยังไม่ทำกำไรสุทธิในเกณฑ์ GAAP โดยมีผลขาดทุนสุทธิ -$14.9 ล้านในไตรมาส 3 ปี 2026 แม้ขาดทุนจะลดลงมากแล้วก็ตาม",
+                            "การขายหุ้นตามแผน Rule 10b5-1 ของผู้บริหาร รวมถึงซีอีโอ Eric Lefkofsky ที่ขาย 250,000 หุ้นวันที่ 19–20 พ.ย. ซ้ำเติมจิตวิทยาตลาดช่วงหุ้น AI ถูกเทขาย"
                         ],
-               "caution":  "กราฟเสียทรงชัดเจน ราคาหลุด EMA200 และ MACD เป็นลบ การหลุด Bollinger Band เส้นล่างอาจเป็นจุดเริ่มของการลงลึก ไม่จำเป็นต้องเป็นจุดจบเสมอไป มูลค่าหุ้นยังสูงสำหรับบริษัทที่เพิ่งพ้นจุดคุ้มทุนระดับ EBITDA และหุ้นโดนกระทบแรงเมื่อกลุ่ม AI ถูกขายอย่างที่เห็นในวันที่ 2026-11-20 ดีล Personalis จะเพิ่มหุ้นใหม่และเพิ่มผลขาดทุน ส่วนเป้า EBITDA ปี 2026 ก็ไม่ได้ปรับขึ้น ในช่วงปี 2025–26 หุ้นเคยลงจากยอดถึงก้นมาแล้ว 46.7% ความผันผวนรุนแรงจึงเป็นเรื่องปกติของ TEM",
-               "opportunity":  "การเทขายสวนทางกับข่าวธุรกิจ ภายในราวสามสัปดาห์หลังรายงานไตรมาสที่ทำสถิติใหม่ ปรับเป้ารายได้ขึ้น ได้ดีลข้อมูลใหม่กับ BMS และ Pathos และ Jefferies ปรับคำแนะนำขึ้น ราคากลับลดลงราว 30% จากระดับต้นเดือนพฤศจิกายน RSI ใกล้ 33 และราคาที่ปิดใต้ Bollinger Band เส้นล่างบ่งชี้ภาวะตึงตัวที่เอียงไปทาง oversold อัตราเบิกจ่ายค่าตรวจที่สูงขึ้นในปี 2027 (ประเมินไว้ $80–85M ต่อปี) และการตรวจ MRD ของ Personalis อาจช่วยหนุนมาร์จิ้นได้ หากราคากลับขึ้นเหนือ 56.88 และ EMA200 ที่ 62.86 ได้ จะเป็นสัญญาณแรกว่าแรงขายเริ่มหมด",
+               "fundamental":  "ในห่วงโซ่มูลค่า AI บริษัท Tempus อยู่ในชั้นแอปพลิเคชันการแพทย์และคลังข้อมูลเฉพาะทาง ไม่ใช่ผู้ผลิตฮาร์ดแวร์ประมวลผล ทุกการตรวจพันธุกรรมผู้ป่วยช่วยขยายคลังข้อมูลคลินิกและโมเลกุลที่บริษัทยานำไปซื้อสิทธิ์ใช้งานควบคู่แพลตฟอร์ม Lens AI เพื่อเร่งการพัฒนายา งบ Q3 2026 เมื่อวันที่ 2 พ.ย. ตอกย้ำวงจรนี้ โดยรายได้โต 23% YoY เป็น $411.5 ล้าน อัตรากำไรขั้นต้น Non-GAAP แตะ 66% ธุรกิจ Diagnostics โต 20% จากปริมาณตรวจมะเร็งที่พุ่ง 32% และกลุ่ม Data \u0026 Applications โต 33% เป็น $108.1 ล้าน ขาดทุนสุทธิ GAAP แคบลงเหลือ -$14.9 ล้านจาก -$80.0 ล้านปีก่อน โดยมีเงินสดและหลักทรัพย์ในความต้องการตลาด $854.4 ล้าน การต่อสัญญาถึงปี 2031 กับ AstraZeneca และ Bristol Myers Squibb รวมถึงดีล Personalis ช่วยเสริมคูเมืองข้อมูลระยะยาว แม้ดีลควบรวมจะเพิ่มความเสี่ยงด้านการบูรณาการและขาดทุนชั่วคราว",
+               "headline":  "งบ Q3 และดีล AstraZeneca $200M แกร่ง แต่กราฟยังอ่อนแรง",
+               "news":  [
+                            "2 พ.ย. 2026: Tempus รายงานรายได้ Q3 ที่ $411.5 ล้าน (+23% YoY) Adjusted EBITDA พุ่งเป็น $25.6 ล้าน ขาดทุนสุทธิ GAAP ลดเหลือ -$14.9 ล้าน พร้อมปรับเพิ่มคาดการณ์รายได้ปี 2026 เป็น $1.60–$1.605 พันล้าน และคาดว่าราคาเฉลี่ยจาก xT CDx จะหนุนรายได้เพิ่มราว $80 ล้านในปี 2027",
+                            "18 พ.ย. 2026: เอกสาร Form 8-K ต่อ SEC เปิดเผยการต่อสัญญา Master Services Agreement กับ AstraZeneca ออกไป 5 ปี (ลงนาม 16 พ.ย.) ช่วงปี 2027–2031 มูลค่าผูกพัน $200 ล้าน (เป้าหมาย $40 ล้าน/ปี ขั้นต่ำ $32 ล้าน/ปี)",
+                            "23 พ.ย. 2026: ที่ปรึกษาผู้ถือหุ้น ISS และ Glass Lewis แนะนำผู้ถือหุ้น Personalis โหวตเห็นชอบดีลเข้าซื้อของ Tempus ที่ $16.25/หุ้น (มูลค่าราว $1.5 พันล้าน) ก่อนประชุมวิสามัญวันที่ 30 พ.ย. โดยคาดปิดดีลต้นเดือนธันวาคม",
+                            "2–10 พ.ย. 2026: หลังงบ Q3 โบรกเกอร์หลายแห่งปรับเพิ่มราคาเป้าหมาย โดย Jefferies ปรับคำแนะนำจาก Underperform เป็น Hold (เป้า $70) เมื่อวันที่ 3 พ.ย. ขณะที่ Mizuho, BTIG, Baird และ Canaccord ต่างขยับเป้าขึ้นเช่นกัน",
+                            "26 ต.ค. 2026: Tempus ได้รับการรับรองมาตรฐาน EU IVDR ระดับ Class C สำหรับชุดตรวจอาร์เอ็นเอ xR ในผู้ป่วยเนื้องอกแข็ง ช่วยรักษาสิทธิ์ทำตลาดในยุโรปต่อเนื่องหลังปี 2028",
+                            "23 ต.ค. 2026: Tempus ขยายความร่วมมือด้านมะเร็งวิทยากับ Bristol Myers Squibb ถึงปี 2031 โดยให้สิทธิ์ใช้ข้อมูลหลากหลายมิติควบคู่แพลตฟอร์ม Lens AI ที่เชื่อมต่อคลัสเตอร์ GPU เฉพาะทาง"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวสายโครงสร้างพื้นฐาน AI ที่ต้องการขยายสู่กลุ่มการแพทย์ปลายน้ำ คลังข้อมูลคลินิกและพันธุกรรมของ Tempus เริ่มพิสูจน์ว่าลอกเลียนแบบได้ยาก การได้ข้อผูกพัน $200 ล้านจาก AstraZeneca ถึงปี 2031 การขยายงานกับ Bristol Myers Squibb บน Lens และยอดจองข้อมูลสะสมตั้งแต่ต้นปีที่ทะลุ $550 ล้าน ช่วยเพิ่มความสม่ำเสมอของรายได้นอกเหนือจากยอดตรวจโรค ปี 2027 ยังมีสองตัวเร่งสำคัญคือรายได้ที่คาดเพิ่มราว $80 ล้านจากการปรับเบิกจ่ายชุดตรวจ xT CDx ตั้งแต่วันที่ 1 ม.ค. 2027 และโอกาสขายพ่วงชุดตรวจ MRD ของ Personalis ในเครือข่ายโรงพยาบาลเดิมหลังปิดดีล",
+               "opportunityCheck":  "คะแนนย่อยบนหน้าเพจดูอนุรักษนิยมไปเล็กน้อยในด้านสถานะทางการตลาดและอำนาจตั้งราคาจากจุดคอขวด ช่วงหนึ่งเดือนที่ผ่านมา Tempus ต่อสัญญา AstraZeneca มูลค่า $200 ล้านถึงปี 2031 ขยายความร่วมมือกับ Bristol Myers Squibb บนแพลตฟอร์ม Lens AI ผ่านมาตรฐาน EU IVDR สำหรับ xR และคาดว่าจะได้แรงหนุนราคาเฉลี่ย $80 ล้านในปี 2027 จาก xT CDx ที่ผ่าน FDA ดังนั้นควรขยับคะแนนด้านสถานะตลาดและอำนาจตั้งราคาขึ้นเล็กน้อยเพื่อสะท้อนการผูกปิ่นโตกับบริษัทยา ส่วนด้านโอกาสต่อยอดในอนาคตถือว่าสูงพอสมควรแล้ว ควรรอดูการควบรวม Personalis และกำไรแบบ GAAP ก่อนขยับเพิ่ม",
+               "pros":  [
+                            "รายได้ Q3 2026 โต 23% YoY เป็น $411.5 ล้าน ขณะที่ Adjusted EBITDA พุ่งเป็น $25.6 ล้าน จากเพียง $1.5 ล้านในปีก่อน",
+                            "รายได้กลุ่ม Data \u0026 Applications โต 33% เป็น $108.1 ล้าน หนุนด้วยยอดจองข้อมูลสะสมตั้งแต่ต้นปีเกิน $550 ล้าน และดีลต่อสัญญา AstraZeneca 5 ปี มูลค่า $200 ล้านเมื่อวันที่ 18 พ.ย.",
+                            "การย้ายปริมาณตรวจ DNA เนื้องอกแข็งไปใช้ชุดตรวจ xT CDx ที่ผ่าน FDA ตั้งแต่วันที่ 1 ม.ค. 2027 คาดว่าจะสร้างแรงหนุนราคาเฉลี่ยราว $80 ล้านในปี 2027",
+                            "การผ่านมาตรฐาน EU IVDR สำหรับชุดตรวจ xR (26 ต.ค.) และการขยายดีล Lens AI กับ Bristol Myers Squibb (23 ต.ค.) ช่วยขยายตลาดทั้งโรงพยาบาลและบริษัทยาทั่วโลก"
+                        ],
                "risks":  [
-                             "หุ้นถูก dilute และผลขาดทุนเพิ่มขึ้น หากดีล Personalis ปิดใน Q4 2026 โดยจ่ายเป็นหุ้นอย่างน้อยครึ่งหนึ่ง",
-                             "เป็นหุ้นเติบโตระยะยาวที่อ่อนไหวต่ออารมณ์ตลาดกลุ่ม AI และทิศทางดอกเบี้ย",
-                             "ยังขาดทุนตามบัญชี และมีค่าตอบแทนเป็นหุ้นราว $50M ต่อไตรมาส",
-                             "ความเสี่ยงด้านการลงมือทำ ทั้งการพิสูจน์ความคุ้มค่าของธุรกิจ MRD และ synergy จากการซื้อกิจการ",
-                             "การเปลี่ยนแปลงด้านการเบิกจ่ายและกฎระเบียบที่กระทบรายได้จากการตรวจพันธุกรรม"
+                             "ความเสี่ยงจากการควบรวม Personalis การแบกรับผลขาดทุนระยะสั้น รวมถึง Dilution หรือการใช้เงินสดหลังการโหวตวันที่ 30 พ.ย. 2026",
+                             "ผลขาดทุนสุทธิแบบ GAAP ที่ยังมีอยู่ (-$14.9 ล้านใน Q3 2026) และความเสี่ยงหากการปรับราคาเบิกจ่าย xT CDx $80 ล้านในปี 2027 ล่าช้ากว่าคาด",
+                             "ความผันผวนสูงของหุ้นกลุ่มเบต้าสูง (ปรับฐาน 36% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $89.09) ซ้ำเติมจากการลดพอร์ตของกองทุนและการขายตามแผน Rule 10b5-1 ของผู้บริหาร",
+                             "การแข่งขันรุนแรงในตลาดตรวจพันธุกรรมมะเร็งและ MRD จากคู่แข่งอย่าง Guardant Health, Foundation Medicine, Natera และ Caris Life Sciences",
+                             "การเปลี่ยนแปลงเกณฑ์เบิกจ่ายทางการแพทย์ กฎระเบียบของ FDA/EU และกฎหมายคุ้มครองข้อมูลสุขภาพผู้ป่วย"
                          ],
-               "summary":  "ช่วงที่ผ่านมาธุรกิจของ Tempus AI ดีขึ้น สวนทางกับราคาหุ้นที่ร่วงลง รายได้ Q3 โต 23% ธุรกิจข้อมูลมาร์จิ้นสูงโต 33% และดีลข้อมูลใหม่กับบริษัทยาช่วยเสริมคูเมืองด้านคลังข้อมูลคลินิกและพันธุกรรม ภาพระยะยาวจึงยังไม่เปลี่ยน แต่ทางเทคนิค TEM เป็นขาลง ที่ 54.04 USD ราคาอยู่ต่ำกว่า EMA ทั้งสามเส้น MACD เป็นลบ ปิดใต้ Bollinger Band เส้นล่าง และ RSI 32.94 ใกล้ oversold การร่วงรอบนี้ดูมาจากการเทขายกลุ่ม AI และความกังวลเรื่อง dilution จากดีล Personalis มากกว่าปัญหาของตัวธุรกิจ จุดที่ต้องติดตามต่อคือการโหวต Personalis วันที่ 2026-11-30 และงบ Q4 ในเดือนกุมภาพันธ์ 2027"
+               "summary":  "Tempus AI (NASDAQ:TEM) ปิดที่ $57.04 เมื่อวันที่ 23 พ.ย. 2026 ลดลง 36% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $89.09 แม้พื้นฐานในเดือนที่ผ่านมาจะเด่นมาก โดยงบ Q3 เมื่อวันที่ 2 พ.ย. ทำรายได้ $411.5 ล้าน (+23% YoY) Adjusted EBITDA พุ่งเป็น $25.6 ล้าน และปรับเพิ่มเป้ารายได้ทั้งปีเป็น $1.60–$1.605 พันล้าน พร้อมต่อสัญญาข้อมูล 5 ปีกับ AstraZeneca ($200 ล้าน, 18 พ.ย.) และ Bristol Myers Squibb (23 ต.ค.) อย่างไรก็ตาม แรงขายกลุ่มเทค การขายหุ้นตามแผน 10b5-1 ของผู้บริหาร และความกังวลก่อนโหวตซื้อ Personalis วันที่ 30 พ.ย. ยังกดดันให้ภาพเทคนิคเป็นขาลงชัดเจน",
+               "technical":  "ณ วันที่ 23 พ.ย. 2026 ราคา TEM ปิดที่ $57.04 อยู่ในแนวโน้มขาลงระยะกลางชัดเจน แม้เส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA เส้นแนวโน้มที่ให้น้ำหนักราคาล่าสุดมากกว่า) ทั้งสามเส้นยังเรียงตัวแบบขาขึ้น โดย EMA 50 อยู่ที่ $68.98 เหนือ EMA 100 ($65.87) และ EMA 200 ($62.79) แต่ราคาหุ้นหลุดลงมาต่ำกว่าทุกเส้น ทำให้กรอบ $62.79–$68.98 กลายเป็นแนวต้านหนาแน่นหลายชั้น ด้านโมเมนตัมยังอยู่ฝั่งผู้ขาย โดย MACD (ตัวชี้วัดแนวโน้มและแรงส่ง 12/26/9) ติดลบหนักที่ -3.45 ต่ำกว่าเส้น Signal ที่ -1.03 พร้อมแท่ง Histogram ที่ -2.42 ยืนยันแรงกดดันขาลงยังไม่คลาย ขณะที่ RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 คือเขตขายมากเกินไป) อยู่ที่ 37.01 สะท้อนภาวะอ่อนแรงแต่ยังไม่ถึงจุดขายทิ้งสุดขีด ด้านความผันผวน ราคาเกาะใกล้ขอบล่างของ Bollinger Bands (กรอบความผันผวน 20 วัน) ที่ $55.13 เทียบกับเส้นกลาง $71.58 และขอบบน $88.03 และอยู่ในโซนล่างของกรอบรอบ 52 สัปดาห์ ($40.77–$89.09) แม้ราคาวันที่ 23 พ.ย. จะบวก 5.55% แต่ถูกขายย่อจากราคาเปิด $60.31 ด้วยปริมาณซื้อขาย 6.62 ล้านหุ้น ซึ่งต่ำกว่าค่าเฉลี่ย 20 วันเล็กน้อยที่ 6.82 ล้านหุ้น ทำให้แนวรับใกล้ $55.13 ยังขาดแรงซื้อยืนยันชัดเจน"
            },
     "sources":  [
                     {
+                        "date":  "2026-11-02",
+                        "publisher":  "Tempus AI, Inc.",
                         "title":  "Tempus Reports Third Quarter 2026 Results",
-                        "publisher":  "Tempus AI Investor Relations",
-                        "url":  "https://investors.tempus.com/news/news-details/2026/Tempus-Reports-Third-Quarter-2026-Results/default.aspx",
-                        "date":  "2026-11-02"
+                        "url":  "https://investors.tempus.com/news/news-details/2026/Tempus-Reports-Third-Quarter-2026-Results/default.aspx"
                     },
                     {
-                        "title":  "TEM Stock Jumps As Tempus AI Lands Major Pharma Deals",
-                        "publisher":  "StocksToTrade",
-                        "url":  "https://stockstotrade.com/news/tempus-ai-inc-tem-news-2026_11_02/",
-                        "date":  "2026-11-02"
+                        "date":  "2026-11-18",
+                        "publisher":  "SEC EDGAR (Tempus AI, Inc.)",
+                        "title":  "Form 8-K: Fifth Amendment to Master Services Agreement with AstraZeneca",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1717115/000119312526466240/d138111d8k.htm"
                     },
                     {
-                        "title":  "TEMPUS AI Aktie: Jefferies stuft nach starkem Q3 auf Hold hoch",
-                        "publisher":  "Goldesel",
-                        "url":  "https://goldesel.de/aktien/news/tempus-ai-aktie-jefferies-stuft-nach-starkem-q3-auf-hold-hoch",
-                        "date":  "2026-11-03"
+                        "date":  "2026-11-23",
+                        "publisher":  "SEC EDGAR (Personalis, Inc.)",
+                        "title":  "Form 8-K: ISS and Glass Lewis Recommend Personalis Stockholders Vote FOR Acquisition by Tempus AI",
+                        "url":  "https://www.sec.gov/Archives/edgar/data/1573983/000157398326000085/psnl-20261123.htm"
                     },
                     {
-                        "title":  "Tempus AI Stock Extends A 6-Day Losing Streak To A 25% Loss",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/tem/articles/626094/tempus-ai-stock-extends-a-6-day-losing-streak-to-a-25-loss/2026-11-18",
-                        "date":  "2026-11-18"
+                        "date":  "2026-10-26",
+                        "publisher":  "Tempus AI, Inc.",
+                        "title":  "Tempus Receives IVDR Certification for xR RNA Sequencing for Solid Tumor Profiling",
+                        "url":  "https://investors.tempus.com/news/news-details/2026/Tempus-Receives-IVDR-Certification-for-xR-RNA-Sequencing-for-Solid-Tumor-Profiling/default.aspx"
                     },
                     {
-                        "title":  "What\u0027s Going To Happen With Tempus AI Stock Soon?",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/tem/articles/626794/whats-going-to-happen-with-tempus-ai-stock-soon/2026-11-19",
-                        "date":  "2026-11-19"
+                        "date":  "2026-10-23",
+                        "publisher":  "Tempus AI, Inc.",
+                        "title":  "Tempus Expands Strategic Collaboration with Bristol Myers Squibb",
+                        "url":  "https://www.tempus.com/news/tempus-expands-strategic-collaboration-with-bristol-myers-squibb"
                     },
                     {
-                        "title":  "Tempus AI Falls 10% as Market Selloff Hits AI Stocks",
-                        "publisher":  "Timothy Sykes",
-                        "url":  "https://www.timothysykes.com/news/tempus-ai-inc-tem-news-2026-11-20/%26gsessionid=Rx4YZFwTtstpj-GDiOCMIctDO_6mrqIsSGcWMAFM1x6nhc9QcxkY0g/",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-03",
+                        "publisher":  "Investing.com",
+                        "title":  "Jefferies upgrades Tempus AI stock rating to Hold, raises price target to $70",
+                        "url":  "https://www.investing.com/news/analyst-ratings/jefferies-upgrades-tempus-ai-stock-rating-to-hold-raises-price-target-to-70-3942261"
                     },
                     {
-                        "title":  "Tempus to acquire cancer test maker Personalis for $1.5B",
-                        "publisher":  "BioPharma Dive",
-                        "url":  "https://www.biopharmadive.com/news/tempus-to-acquire-cancer-test-maker-personalis-for-15b/825698/"
+                        "date":  "2026-07-20",
+                        "publisher":  "Tempus AI, Inc.",
+                        "title":  "Tempus to Acquire Personalis, More Tightly Integrating Molecular Residual Disease (MRD) into Its AI-Enabled Precision Oncology Platform",
+                        "url":  "https://investors.tempus.com/news/news-details/2026/Tempus-to-Acquire-Personalis-More-Tightly-Integrating-Molecular-Residual-Disease-MRD-into-Its-AI-Enabled-Precision-Oncology-Platform/default.aspx"
                     }
                 ]
 }

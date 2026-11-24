@@ -1,0 +1,48 @@
+{
+    "sector":  "fm",
+    "judge":  "codex",
+    "provider":  "codex",
+    "model":  "gpt-6.2-sol",
+    "effort":  "high",
+    "account":  "Codex (ChatGPT)",
+    "generatedAt":  "2026-11-24T05:14:09Z",
+    "costUsd":  null,
+    "stocks":  {
+                   "ANT":  {
+                               "m":  [
+                                         18,
+                                         13,
+                                         12,
+                                         16,
+                                         4
+                                     ],
+                               "o":  [
+                                         20,
+                                         17,
+                                         18,
+                                         11,
+                                         16
+                                     ],
+                               "why_en":  "Claude’s frontier models and enterprise coding adoption support expansion into AI agents, with continued operating losses limiting evidence of durable returns. [Prospectus](https://ipo.anthropic.com/documents/us/prospectus.pdf)",
+                               "why_th":  "โมเดล Claude ระดับแนวหน้าและการใช้งานด้านเขียนโค้ดในองค์กรช่วยให้ Anthropic ต่อยอดสู่เอเจนต์ AI ขณะที่ผลขาดทุนจากการดำเนินงานต่อเนื่องทำให้ความยั่งยืนของผลตอบแทนยังไม่ชัดเจน [หนังสือชี้ชวน](https://ipo.anthropic.com/documents/us/prospectus.pdf)"
+                           },
+                   "SPCX":  {
+                                "m":  [
+                                          19,
+                                          14,
+                                          13,
+                                          18,
+                                          8
+                                      ],
+                                "o":  [
+                                          13,
+                                          17,
+                                          15,
+                                          14,
+                                          12
+                                      ],
+                                "why_en":  "Reusable rockets and Starlink’s scale underpin SpaceX’s moat, and contracted AI compute capacity and Cursor expand its AI opportunity amid uneven operating margins. [Quarterly filing](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm)",
+                                "why_th":  "จรวดที่ใช้ซ้ำได้และเครือข่าย Starlink ขนาดใหญ่เป็นฐานความได้เปรียบของ SpaceX ส่วนสัญญาให้บริการประมวลผล AI และ Cursor เพิ่มโอกาสเติบโตด้าน AI ท่ามกลางอัตรากำไรจากการดำเนินงานที่ผันผวน [รายงานรายไตรมาส](https://www.sec.gov/Archives/edgar/data/1181412/000162828026066880/spcx-20260930.htm)"
+                            }
+               }
+}

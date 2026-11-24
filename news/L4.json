@@ -4,35 +4,53 @@
     "model":  "gemini-4-neon-high",
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T05:31:58Z",
+    "generatedAt":  "2026-11-24T03:26:02Z",
     "period":  [
-                   "2026-11-09",
-                   "2026-11-23"
+                   "2026-11-10",
+                   "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "Compute demand stayed red-hot over the past two weeks—underscored by NVIDIA\u0027s $107.6B Data Center quarter, Anthropic\u0027s record $81.3B Nasdaq IPO, and triple-digit neocloud revenue growth—but financing and physical power bottlenecks moved to center stage. While hyperscalers leaned on creative capital structures like Amazon\u0027s $5B Blackstone leaseback and Oracle\u0027s $20B raise to fund a projected $1T+ 2027 capex wave, heavily leveraged GPU clouds faced sharper scrutiny after NVIDIA trimmed neocloud commitments to $32B and power delays hit Nebius. Adding fresh policy risk, President Trump threatened heavy taxes on U.S. firms building data centers overseas.",
-                  "th":  "ความต้องการพลังประมวลผล AI ยังร้อนแรงตลอดสองสัปดาห์ที่ผ่านมา สะท้อนจากรายได้ Data Center ของ NVIDIA ที่พุ่งแตะ $107.6B การเข้าตลาด Nasdaq ของ Anthropic ด้วยมูลค่าระดมทุนสถิติใหม่ $81.3B และรายได้กลุ่ม neocloud ที่โตหลายร้อยเปอร์เซ็นต์ แต่โจทย์เรื่องเงินทุนและข้อจำกัดด้านไฟฟ้ากลายเป็นจุดโฟกัสหลักของตลาด บิ๊กคลาวด์หันไปใช้โครงสร้างการเงินที่ยืดหยุ่นขึ้น เช่น ดีลขายแล้วเช่ากลับ $5B ของ AWS กับ Blackstone และการระดมทุน $20B ของ Oracle เพื่อรองรับงบลงทุนปี 2027 ที่คาดว่าจะทะลุ $1T ขณะที่กลุ่ม neocloud ที่มีหนี้สูงถูกจับตาหนักขึ้นหลัง NVIDIA ลดวงเงินค้ำประกันเหลือ $32B และ Nebius เผชิญปัญหาไฟล่าช้า ซ้ำเติมด้วยความเสี่ยงนโยบายใหม่หลังประธานาธิบดี Trump ขู่เก็บภาษีหนักบริษัทสหรัฐฯ ที่สร้างดาต้าเซ็นเตอร์ในต่างประเทศ"
+                  "en":  "Neocloud Q3 results from CoreWeave, Nebius, and Cerebras confirmed triple-digit AI compute growth and record backlogs, though rising interest costs, soaring 2026–2027 capex, and third-party site delays kept financing discipline in focus. Hyperscalers and colocation leaders responded with creative capital and supply-chain moves—from Amazon\u0027s $5 billion Blackstone JV and $7.5 billion Decart deal to Oracle\u0027s fully funded OpenAI buildout, Microsoft\u0027s Maia 300 and Intel EMIB pact, and Equinix\u0027s €2.5 billion green bond. At the layer level, the IEA projected $4 trillion in data center investment through 2030 alongside severe grid strain, while President Trump\u0027s threat to tax overseas U.S. data centers introduced a new policy overhang.",
+                  "th":  "งบไตรมาส 3 ของกลุ่ม Neocloud อย่าง CoreWeave, Nebius และ Cerebras ยืนยันความต้องการประมวลผล AI ที่ยังเติบโตระดับสามหลักพร้อม Backlog สูงเป็นประวัติการณ์ แต่ภาระดอกเบี้ย งบลงทุนปี 2026–2027 ที่พุ่งแรง และความล่าช้าของศูนย์ข้อมูลจากพาร์ตเนอร์ทำให้ตลาดจับตาวินัยทางการเงินมากขึ้น ด้าน Hyperscaler และผู้ให้บริการ Colocation เร่งจัดโครงสร้างเงินทุนและห่วงโซ่อุปทานเชิงรุก ทั้งดีลร่วมทุน $5 พันล้านกับ Blackstone และการซื้อ Decart มูลค่า $7.5 พันล้านของ Amazon การปิดดีลระดมทุนครบสำหรับโครงการ OpenAI ของ Oracle การเปิดตัว Maia 300 และดีลแพ็กเกจจิ้ง EMIB กับ Intel ของ Microsoft รวมถึงพันธบัตรสีเขียว €2.5 พันล้านของ Equinix ขณะเดียวกัน ภาพรวมอุตสาหกรรมได้รับทั้งแรงหนุนจาก IEA ที่ประเมินเม็ดเงินลงทุนดาต้าเซ็นเตอร์อีก $4 ล้านล้านภายในปี 2030 และแรงกดดันใหม่จากข้อจำกัดโครงข่ายไฟฟ้า รวมถึงคำขู่ของประธานาธิบดี Trump ว่าจะเก็บภาษีหนักบริษัทสหรัฐฯ ที่สร้างดาต้าเซ็นเตอร์ในต่างประเทศ"
               },
     "themes":  {
                    "en":  [
-                              "Neocloud Debt \u0026 Power Crunch",
-                              "Hyperscaler Capex Financing Shift",
-                              "Vera Rubin \u0026 Custom Silicon",
-                              "Overseas Data Center Tax Risk"
+                              "Neocloud Hypergrowth \u0026 Capex",
+                              "Creative Infrastructure Financing",
+                              "Custom Silicon \u0026 Inference",
+                              "Power \u0026 Policy Headwinds"
                           ],
                    "th":  [
-                              "แรงกดดันหนี้และกำลังไฟของ Neocloud",
-                              "บิ๊กคลาวด์เร่งระดมทุนรับ Capex",
-                              "Vera Rubin และชิปคลาวด์รุ่นใหม่",
-                              "ความเสี่ยงภาษีดาต้าเซ็นเตอร์ต่างประเทศ"
+                              "Neocloud โตแรงแต่ลงทุนสูง",
+                              "โครงสร้างการเงินรับสร้างดาต้าเซ็นเตอร์",
+                              "ชิปออกแบบเองและ Inference",
+                              "ข้อจำกัดไฟฟ้าและความเสี่ยงนโยบาย"
                           ]
                },
     "items":  [
                   {
-                      "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "NVIDIA Newsroom",
+                      "date":  "2026-11-20",
+                      "impact":  "negative",
+                      "publisher":  "Axios",
+                      "tickers":  [
+                                      "AMZN",
+                                      "MSFT",
+                                      "GOOGL",
+                                      "ORCL",
+                                      "EQIX",
+                                      "CRWV"
+                                  ],
+                      "title_en":  "Trump threatens heavy taxes on US firms building overseas AI data centers",
+                      "title_th":  "Trump ขู่เก็บภาษีหนักบริษัทสหรัฐฯ ที่สร้างดาต้าเซ็นเตอร์ AI ในต่างประเทศ",
+                      "url":  "https://www.axios.com/2026/11/20/trump-tax-us-companies-data-centers-overseas",
+                      "why_en":  "Penalizing foreign buildouts would complicate global cloud expansion and sovereign-AI compliance for US hyperscalers and colocation operators already facing domestic power bottlenecks.",
+                      "why_th":  "หากมีบทลงโทษทางภาษีจริงจะเพิ่มอุปสรรคต่อการขยายคลาวด์และการปฏิบัติตามกฎข้อมูลระดับประเทศ (Sovereign AI) ในต่างแดนของกลุ่ม Hyperscaler และผู้ให้บริการ Colocation สหรัฐฯ ที่กำลังเผชิญคอขวดไฟฟ้าในประเทศอยู่แล้ว"
+                  },
+                  {
+                      "date":  "2026-11-19",
+                      "impact":  "mixed",
+                      "publisher":  "International Energy Agency",
                       "tickers":  [
                                       "AMZN",
                                       "MSFT",
@@ -40,129 +58,68 @@
                                       "ORCL",
                                       "CRWV",
                                       "NBIS",
-                                      "IREN"
+                                      "IREN",
+                                      "CBRS",
+                                      "EQIX",
+                                      "DOCN"
                                   ],
-                      "title_en":  "NVIDIA Q3 Data Center Revenue Hits $107.6B as Vera Rubin Begins Shipping",
-                      "title_th":  "รายได้ Data Center ไตรมาส 3 ของ NVIDIA พุ่งแตะ $107.6B พร้อมเริ่มส่งมอบ Vera Rubin",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-                      "why_en":  "Data Center revenue jumped 110% YoY to $107.6B with nearly $20B in initial Vera Rubin shipments, confirming relentless cloud AI demand and a rapid next-gen rack ramp across hyperscalers and neoclouds.",
-                      "why_th":  "รายได้กลุ่ม Data Center โตถึง 110% YoY แตะ $107.6B พร้อมยอดส่งมอบ Vera Rubin ล็อตแรกเกือบ $20B ตอกย้ำดีมานด์คลาวด์ AI ที่ยังแข็งแกร่งและการเร่งติดตั้งแร็กรุ่นใหม่ในทั้งกลุ่ม hyperscaler และ neocloud"
-                  },
-                  {
-                      "date":  "2026-11-19",
-                      "impact":  "negative",
-                      "publisher":  "Capacity Global",
-                      "tickers":  [
-                                      "CRWV",
-                                      "NBIS",
-                                      "IREN"
-                                  ],
-                      "title_en":  "NVIDIA Trims Conditional Neocloud Commitments From $36B to $32B",
-                      "title_th":  "NVIDIA ลดวงเงินค้ำประกันและสัญญาเช่ากลุ่ม Neocloud จาก $36B เหลือ $32B",
-                      "url":  "https://capacityglobal.com/nvidia-trims-neocloud-commitments-to-32bn-what-tighter-vendor-support-means-for-data-centre-landlords/",
-                      "why_en":  "Interim CEO Colette Kress adopted a stricter, milestone-gated stance on vendor support, raising refinancing pressure and borrowing costs for debt-reliant GPU clouds that depend on NVIDIA\u0027s credit backing.",
-                      "why_th":  "ซีอีโอรักษาการ Colette Kress หันมาเข้มงวดกับการค้ำประกันแบบมีเงื่อนไขมากขึ้น ส่งผลให้กลุ่ม GPU cloud ที่พึ่งพาเงินกู้ต้องเผชิญแรงกดดันด้านการรีไฟแนนซ์และต้นทุนดอกเบี้ยที่สูงขึ้น"
+                      "title_en":  "IEA projects $4 trillion in global data center investment through 2030",
+                      "title_th":  "IEA คาดเม็ดเงินลงทุนดาต้าเซ็นเตอร์ทั่วโลกเพิ่มอีก $4 ล้านล้านภายในปี 2030",
+                      "url":  "https://www.iea.org/reports/world-energy-outlook-2026",
+                      "why_en":  "The World Energy Outlook 2026 forecasts AI driving 75% of a doubling in data center electricity use to 1,000 TWh by 2030, confirming massive structural demand alongside acute grid bottlenecks.",
+                      "why_th":  "รายงาน World Energy Outlook 2026 ชี้ว่า AI จะเป็นแรงขับเคลื่อน 75% ของการใช้ไฟฟ้าดาต้าเซ็นเตอร์ที่เพิ่มขึ้นเท่าตัวเป็น 1,000 TWh ภายในปี 2030 สะท้อนดีมานด์ระยะยาวที่แข็งแกร่งควบคู่ความเสี่ยงคอขวดโครงข่ายไฟฟ้าในทำเลหลัก"
                   },
                   {
                       "date":  "2026-11-10",
                       "impact":  "mixed",
-                      "publisher":  "CoreWeave Investor Relations",
+                      "publisher":  "CoreWeave",
                       "tickers":  [
                                       "CRWV"
                                   ],
-                      "title_en":  "CoreWeave Q3 Revenue Jumps 168% to $3.66B as Debt Nears $47B",
-                      "title_th":  "รายได้ไตรมาส 3 ของ CoreWeave โต 168% แตะ $3.66B แต่หนี้รวมพุ่งใกล้ $47B",
+                      "title_en":  "CoreWeave Q3 revenue jumps 168% to $3.66 billion as backlog hits $132.5 billion",
+                      "title_th":  "CoreWeave รายได้ Q3 โต 168% แตะ $3.66 พันล้าน ดัน Backlog พุ่ง $132.5 พันล้าน",
                       "url":  "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx",
-                      "why_en":  "CoreWeave lifted FY26 revenue guidance to $13.0B–$13.3B on a $132.5B backlog, but GAAP net loss widened to $709M as quarterly net interest expense hit $846M on $46.9B of debt.",
-                      "why_th":  "CoreWeave ปรับเพิ่มคาดการณ์รายได้ปี 2026 เป็น $13.0B–$13.3B จากแบ็กล็อกมหาศาล $132.5B แต่ขาดทุนสุทธิ GAAP ขยายกว้างเป็น $709M หลังดอกเบี้ยจ่ายรายไตรมาสพุ่งแตะ $846M บนภาระหนี้ $46.9B"
+                      "why_en":  "CoreWeave raised 2026 revenue guidance to $13.0–$13.3 billion and reached a 10% adjusted operating margin ahead of schedule, though $846 million in quarterly interest expense widened its GAAP loss to $709 million.",
+                      "why_th":  "CoreWeave ปรับเพิ่มเป้ารายได้ปี 2026 เป็น $13.0–$13.3 พันล้าน และทำอัตรากำไรจากการดำเนินงานที่ปรับปรุงแล้วแตะ 10% เร็วกว่าแผน แม้ดอกเบี้ยจ่ายไตรมาสเดียวสูงถึง $846 ล้านจะกดดันให้ขาดทุนสุทธิตาม GAAP เพิ่มเป็น $709 ล้าน"
                   },
                   {
                       "date":  "2026-11-12",
                       "impact":  "mixed",
-                      "publisher":  "Business Wire",
+                      "publisher":  "Nebius Group",
                       "tickers":  [
-                                      "NBIS",
-                                      "MSFT"
+                                      "NBIS"
                                   ],
-                      "title_en":  "Nebius Q3 Revenue Surges 571%, Trims FY26 Outlook on Power Delays",
-                      "title_th":  "รายได้ไตรมาส 3 ของ Nebius พุ่ง 571% แต่หั่นเป้าปี 2026 หลังไฟฟ้าล่าช้า",
-                      "url":  "https://www.businesswire.com/news/home/20261112217688/en/Nebius-reports-third-quarter-2026-financial-results",
-                      "why_en":  "Third-party power bottlenecks in New Jersey for a Microsoft contract pushed Nebius\u0027s $7B ARR target to February 2027 and narrowed FY26 revenue to the low end of $3.0B–$3.4B even as 2027 capex jumps to $40B–$45B.",
-                      "why_th":  "ปัญหาไฟฟ้าล่าช้าที่ศูนย์ข้อมูลคู่ค้าในนิวเจอร์ซีย์ซึ่งรองรับสัญญา Microsoft ทำให้ Nebius ต้องเลื่อนเป้า ARR $7B ไปเดือนกุมภาพันธ์ 2027 และปรับรายได้ปี 2026 ลงสู่กรอบล่างของ $3.0B–$3.4B สวนทางงบลงทุนปี 2027 ที่พุ่งเป็น $40B–$45B"
-                  },
-                  {
-                      "date":  "2026-11-18",
-                      "impact":  "positive",
-                      "publisher":  "Anthropic",
-                      "tickers":  [
-                                      "AMZN",
-                                      "GOOGL"
-                                  ],
-                      "title_en":  "Anthropic Prices Record $81.3B Nasdaq IPO at $1.5 Trillion Valuation",
-                      "title_th":  "Anthropic เคาะราคา IPO สถิติใหม่ $81.3B บน Nasdaq ที่มูลค่า $1.5 ล้านล้าน",
-                      "url":  "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-                      "why_en":  "The landmark IPO validates frontier AI monetization and unlocks huge equity value for Amazon (~14.7% stake) and Alphabet (~13.7% stake), Anthropic\u0027s core AWS Trainium and Google Cloud TPU partners.",
-                      "why_th":  "การเข้าตลาดหุ้นครั้งประวัติศาสตร์นี้ช่วยยืนยันศักยภาพการทำเงินของโมเดล AI แนวหน้า พร้อมปลดล็อกมูลค่าหุ้นก้อนโตให้ Amazon (ถือหุ้นราว 14.7%) และ Alphabet (ถือหุ้นราว 13.7%) ซึ่งเป็นพันธมิตรหลักด้านชิป AWS Trainium และ Google Cloud TPU ของ Anthropic"
-                  },
-                  {
-                      "date":  "2026-11-20",
-                      "impact":  "negative",
-                      "publisher":  "Business Insider",
-                      "tickers":  [
-                                      "AMZN",
-                                      "MSFT",
-                                      "GOOGL",
-                                      "ORCL",
-                                      "EQIX"
-                                  ],
-                      "title_en":  "Trump Threatens Tax on U.S. Companies Building Data Centers Overseas",
-                      "title_th":  "Trump ขู่เก็บภาษีหนักบริษัทสหรัฐฯ ที่ออกไปสร้างดาต้าเซ็นเตอร์ในต่างประเทศ",
-                      "url":  "https://www.businessinsider.com/trump-threatens-a-tremendous-tax-on-tech-companies-building-data-centers-outside-the-us-6b00b8e5d6c5d341c9b4bc96",
-                      "why_en":  "Even without a formal legal mechanism yet, the threat introduces capital-allocation and policy risk for U.S. hyperscalers and colocation operators expanding international capacity to meet local data residency rules.",
-                      "why_th":  "แม้ยังไม่มีกรอบกฎหมายรองรับที่ชัดเจน แต่คำขู่ดังกล่าวสร้างความไม่แน่นอนด้านนโยบายและการจัดสรรเงินทุนให้บิ๊กคลาวด์และผู้ให้บริการ colocation สหรัฐฯ ที่ต้องขยายศูนย์ข้อมูลในต่างประเทศเพื่อรองรับกฎหมายจัดเก็บข้อมูลท้องถิ่น"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "negative",
-                      "publisher":  "Fitch Ratings",
-                      "tickers":  [
-                                      "AMZN",
-                                      "MSFT",
-                                      "GOOGL",
-                                      "ORCL"
-                                  ],
-                      "title_en":  "Fitch Warns Booming Hyperscaler Debt Issuance Raises Bond Market Volatility",
-                      "title_th":  "Fitch เตือนการออกหุ้นกู้มหาศาลของกลุ่ม Hyperscaler เพิ่มความผันผวนตลาดบอนด์",
-                      "url":  "https://www.fitchratings.com/research/corporate-finance/booming-hyperscaler-issuance-set-to-raise-bond-market-volatility-17-11-2026",
-                      "why_en":  "With combined hyperscaler AI capex expected to top $1 trillion in 2027 and strain free cash flow, heavier corporate debt issuance is intensifying credit scrutiny on AI investment returns.",
-                      "why_th":  "เมื่อเม็ดเงินลงทุน AI ของกลุ่มบิ๊กคลาวด์รวมกันมีแนวโน้มทะลุ $1 ล้านล้านในปี 2027 จนกดดันกระแสเงินสดอิสระ การหันมาออกหุ้นกู้จำนวนมากจึงทำให้ตลาดเครดิตจับตาความคุ้มค่าของผลตอบแทน AI เข้มงวดขึ้น"
+                      "title_en":  "Nebius Q3 revenue surges 571% to $980.8 million, raises 2026 capex to $27 billion",
+                      "title_th":  "Nebius รายได้ Q3 พุ่ง 571% แตะ $980.8 ล้าน พร้อมปรับงบลงทุนปี 2026 เป็น $27 พันล้าน",
+                      "url":  "https://nebius.com/newsroom/nebius-reports-third-quarter-2026-financial-results",
+                      "why_en":  "Nebius guided 2027 revenue to $12–$13 billion on a $38.7 billion backlog, but third-party New Jersey colocation delays pushed 2026 sales toward the low end of $3.0–$3.4 billion as 2027 capex jumps to $40–$45 billion.",
+                      "why_th":  "Nebius ให้เป้ารายได้ปี 2027 สูงถึง $12–$13 พันล้านจาก Backlog $38.7 พันล้าน แต่ความล่าช้าของศูนย์ข้อมูลเช่าในนิวเจอร์ซีย์ทำให้รายได้ปี 2026 เอียงไปทางกรอบล่างของ $3.0–$3.4 พันล้าน ขณะที่งบลงทุนปี 2027 พุ่งสู่ $40–$45 พันล้าน"
                   },
                   {
                       "date":  "2026-11-20",
                       "impact":  "positive",
-                      "publisher":  "Oracle",
+                      "publisher":  "Investing.com",
                       "tickers":  [
                                       "ORCL"
                                   ],
-                      "title_en":  "Oracle Says OpenAI Infrastructure Deal Is Fully Funded After Capital Raise",
-                      "title_th":  "Oracle ประกาศสัญญาโครงสร้างพื้นฐาน OpenAI มีเงินทุนครบแล้วหลังปิดดีลระดมทุน",
-                      "url":  "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/",
-                      "why_en":  "Closing a final $20B stock-and-notes raise eases near-term funding fears for Oracle\u0027s OpenAI buildout, with its Abilene campus nearly done and Shackelford County\u0027s gigawatt site fully permitted.",
-                      "why_th":  "การปิดดีลระดมทุนรอบสุดท้ายมูลค่า $20B ทั้งหุ้นและหุ้นกู้ช่วยคลายกังวลเรื่องแหล่งเงินทุนสำหรับโครงการ OpenAI โดยแคมปัสที่ Abilene ใกล้เสร็จสมบูรณ์และไซต์ระดับกิกะวัตต์ที่ Shackelford County ได้ใบอนุญาตครบแล้ว"
+                      "title_en":  "Oracle says OpenAI infrastructure contract is fully funded ahead of Vera Rubin handovers",
+                      "title_th":  "Oracle ยืนยันจัดหาเงินทุนโครงการ OpenAI ครบแล้ว พร้อมรับมอบแร็ค Vera Rubin เร็วๆ นี้",
+                      "url":  "https://www.investing.com/news/stock-market-news/oracle-says-openai-contract-is-fully-funded-addresses-market-financing-scrutiny-93CH-3129532",
+                      "why_en":  "Securing full financing after November\u0027s $20 billion stock and bond raises eases funding-gap concerns as its Abilene campus nears completion and Shackelford prepares for NVIDIA Vera Rubin racks.",
+                      "why_th":  "การยืนยันว่ามีเงินทุนครบถ้วนหลังระดมทุนหุ้นและหุ้นกู้ $20 พันล้านในต้นเดือนช่วยคลายกังวลด้านสภาพคล่อง โดยแคมปัส Abilene ใกล้เสร็จสมบูรณ์และไซต์ Shackelford เตรียมรับมอบแร็ค NVIDIA Vera Rubin ในอีกไม่กี่สัปดาห์ข้างหน้า"
                   },
                   {
-                      "date":  "2026-11-12",
+                      "date":  "2026-11-23",
                       "impact":  "positive",
-                      "publisher":  "Business Wire",
+                      "publisher":  "TechCrunch",
                       "tickers":  [
-                                      "CBRS",
-                                      "MSFT"
+                                      "AMZN"
                                   ],
-                      "title_en":  "Cerebras Posts Record Q3 Revenue, Discloses Microsoft as Cloud Customer",
-                      "title_th":  "Cerebras ทำรายได้ไตรมาส 3 นิวไฮ พร้อมเปิดเผย Microsoft เป็นลูกค้าคลาวด์รายใหม่",
-                      "url":  "https://www.businesswire.com/news/home/20261112006132/en/Cerebras-Systems-Delivers-Record-Revenue-in-Third-Quarter-2026-Raises-Full-Year-Outlook",
-                      "why_en":  "Cerebras raised FY26 adjusted revenue guidance to $940M–$960M on $26.1B in RPO and added Microsoft alongside AWS and Oracle as a hyperscale cloud customer for its wafer-scale inference systems.",
-                      "why_th":  "Cerebras ปรับเพิ่มเป้าแนวโน้มรายได้ปี 2026 เป็น $940M–$960B จากยอดสัญญาคงค้าง RPO $26.1B พร้อมดึง Microsoft เข้ามาเป็นลูกค้าคลาวด์รายใหญ่ต่อจาก AWS และ Oracle ตอกย้ำการยอมรับระบบ wafer-scale inference"
+                      "title_en":  "Amazon buys Decart AI optimization stack and team for reported $7.5 billion",
+                      "title_th":  "Amazon ซื้อเทคโนโลยีเพิ่มประสิทธิภาพ AI และทีมงาน Decart มูลค่าตามข่าว $7.5 พันล้าน",
+                      "url":  "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+                      "why_en":  "Acquiring Decart\u0027s optimization software and engineers strengthens AWS\u0027s custom Trainium chip software ecosystem to compete more effectively against NVIDIA GPUs and Google TPUs.",
+                      "why_th":  "การได้ซอฟต์แวร์ Decart Optimization Stack และทีมวิศวกรเข้ามาช่วยเสริมความแข็งแกร่งให้ระบบนิเวศชิป Trainium ของ AWS เพื่อแข่งขันกับ NVIDIA GPU และ Google TPU ได้มีประสิทธิภาพยิ่งขึ้น"
                   },
                   {
                       "date":  "2026-11-16",
@@ -171,76 +128,117 @@
                       "tickers":  [
                                       "AMZN"
                                   ],
-                      "title_en":  "AWS Strikes $5B Leaseback Deal With Blackstone for 647 MW Portfolio",
-                      "title_th":  "AWS ทำดีลขายแล้วเช่ากลับมูลค่า $5B กับ Blackstone สำหรับพอร์ตดาต้าเซ็นเตอร์ 647 MW",
-                      "url":  "https://blackstone.com/press/press-releases/blackstone-digital-infrastructure-trust-announces-5-billion-acquisition-of-stabilized-data-center-portfolio/",
-                      "why_en":  "Selling a 75% stake in 13 powered shells across Indiana and Mississippi under a 12-year leaseback lets Amazon recycle capital while scaling toward roughly $220B in 2026 capex.",
-                      "why_th":  "การขายหุ้น 75% ในอาคารศูนย์ข้อมูล 13 แห่งในอินดีแอนาและมิสซิสซิปปีพร้อมสัญญาเช่ากลับ 12 ปี ช่วยให้ Amazon หมุนเวียนเงินทุนกลับมารองรับแผนงบลงทุนปี 2026 ที่พุ่งราว $220B ได้คล่องตัวขึ้น"
+                      "title_en":  "Blackstone trust agrees to acquire 75% stake in $5 billion AWS data center JVs",
+                      "title_th":  "กองทุน Blackstone เข้าซื้อหุ้น 75% ในบริษัทร่วมทุนดาต้าเซ็นเตอร์ AWS มูลค่า $5 พันล้าน",
+                      "url":  "https://www.blackstone.com/news/press/blackstone-digital-infrastructure-trust-announces-5-billion-acquisition-of-stabilized-data-center-portfolio/",
+                      "why_en":  "Selling a 75% stake in 13 powered shells totaling 647 MW while leasing them back for 12 to 32 years recycles capital for AWS\u0027s hyperscale AI expansion.",
+                      "why_th":  "การขายสัดส่วน 75% ในอาคารดาต้าเซ็นเตอร์ 13 แห่งรวมกำลังไฟ 647 MW แล้วเช่ากลับระยะยาว 12–32 ปี ช่วยให้ AWS หมุนเวียนเงินทุนกลับไปขยายโครงสร้างพื้นฐาน AI โดยไม่แบกสินทรัพย์อสังหาริมทรัพย์ทั้งหมดไว้ในงบดุล"
+                  },
+                  {
+                      "date":  "2026-11-20",
+                      "impact":  "positive",
+                      "publisher":  "Microsoft",
+                      "tickers":  [
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Microsoft unveils Azure Maia 300 AI chip and Cobalt 200 VMs at Ignite 2026",
+                      "title_th":  "Microsoft เปิดตัวชิป AI Azure Maia 300 และเริ่มให้บริการ Cobalt 200 VM ในงาน Ignite 2026",
+                      "url":  "https://azure.microsoft.com/en-us/blog/ignite-2026-the-next-era-of-enterprise-ai-starts-with-the-infrastructure-beneath-it/",
+                      "why_en":  "Introducing custom Maia 300 accelerators for agentic AI workloads and expanding Cobalt 200 Arm VMs across 24 regions by year-end lowers Azure\u0027s dependence on third-party chips.",
+                      "why_th":  "การเปิดตัวชิปเร่งประมวลผล Maia 300 สำหรับงาน Agentic AI ควบคู่การเปิดใช้งาน Cobalt 200 VM ครบ 24 รีเจียนภายในสิ้นปี ช่วยเพิ่มประสิทธิภาพต่อต้นทุนและลดการพึ่งพาชิปจากผู้ผลิตภายนอกของ Azure"
+                  },
+                  {
+                      "date":  "2026-11-18",
+                      "impact":  "positive",
+                      "publisher":  "Microsoft",
+                      "tickers":  [
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Microsoft signs Intel Foundry EMIB packaging and Xeon supply deal for Azure",
+                      "title_th":  "Microsoft เซ็นสัญญาใช้แพ็กเกจจิ้ง EMIB ของ Intel Foundry และสำรองชิป Xeon สำหรับ Azure",
+                      "url":  "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure/",
+                      "why_en":  "Becoming the first announced customer for Intel Foundry\u0027s EMIB packaging on custom Azure silicon alongside multi-year Diamond Rapids Xeon supply diversifies Microsoft\u0027s constrained hardware supply chain.",
+                      "why_th":  "การเป็นลูกค้ารายแรกที่เปิดตัวการใช้เทคโนโลยีแพ็กเกจจิ้ง EMIB ของ Intel Foundry สำหรับชิป Azure พร้อมล็อกซัพพลาย Xeon รุ่น Diamond Rapids ระยะยาว ช่วยกระจายความเสี่ยงห่วงโซ่อุปทานฮาร์ดแวร์ที่กำลังตึงตัว"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "impact":  "positive",
+                      "publisher":  "Cerebras Systems",
+                      "tickers":  [
+                                      "CBRS",
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Cerebras Q3 core revenue jumps 70%, adds Microsoft deal and projects 3x 2027 sales",
+                      "title_th":  "Cerebras รายได้หลัก Q3 โต 70% ยืนยันดีล Microsoft และคาดรายได้ปี 2027 พุ่ง 3 เท่า",
+                      "url":  "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026",
+                      "why_en":  "Cerebras lifted 2026 core revenue guidance to $940–$960 million on a $26.1 billion backlog and 700 MW of contracted capacity, confirming wafer-scale inference adoption across Microsoft, AWS, and Oracle.",
+                      "why_th":  "Cerebras ปรับเพิ่มเป้ารายได้หลักปี 2026 เป็น $940–$960 ล้าน จาก Backlog $26.1 พันล้านและกำลังไฟในสัญญา 700 MW พร้อมดึง Microsoft เข้ามาเป็นลูกค้ารายใหญ่เคียงข้าง AWS และ Oracle ตอกย้ำการยอมรับชิปขนาดเวเฟอร์ในตลาด Inference"
+                  },
+                  {
+                      "date":  "2026-11-11",
+                      "impact":  "positive",
+                      "publisher":  "Bloomberg",
+                      "tickers":  [
+                                      "CRWV"
+                                  ],
+                      "title_en":  "CoreWeave plans $4 billion investment-grade loan to cut borrowing costs",
+                      "title_th":  "CoreWeave เตรียมกู้เงินระดับ Investment-Grade อย่างน้อย $4 พันล้านเพื่อลดต้นทุนดอกเบี้ย",
+                      "url":  "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan",
+                      "why_en":  "Structuring at least $4 billion in loans backed by AI hardware and customer contracts at roughly 7%–7.5% yields would meaningfully reduce financing costs for the heavily leveraged neocloud.",
+                      "why_th":  "การจัดโครงสร้างเงินกู้ไม่ต่ำกว่า $4 พันล้านโดยมีฮาร์ดแวร์และสัญญาลูกค้าค้ำประกันที่อัตราผลตอบแทนราว 7%–7.5% จะช่วยลดต้นทุนทางการเงินลงอย่างมีนัยสำคัญจากหนี้ High-Yield เดิมของบริษัท"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "impact":  "positive",
+                      "publisher":  "Equinix",
+                      "tickers":  [
+                                      "EQIX"
+                                  ],
+                      "title_en":  "Equinix issues record €2.5 billion green bonds to fund sustainable data centers",
+                      "title_th":  "Equinix ออกพันธบัตรสีเขียว €2.5 พันล้านสูงเป็นประวัติการณ์ หนุนขยายดาต้าเซ็นเตอร์ประหยัดพลังงาน",
+                      "url":  "https://investor.equinix.com/news-releases/news-release-details/equinix-issues-eu25-billion-green-bonds-advance-sustainability",
+                      "why_en":  "Locking in €2.5 billion at a 4.82% blended effective interest rate strengthens liquidity for high-density, liquid-cooled AI colocation expansions and lifts cumulative green bond issuance above $12 billion.",
+                      "why_th":  "การระดมทุน €2.5 พันล้านที่ต้นทุนดอกเบี้ยเฉลี่ยแท้จริง 4.82% ช่วยเสริมสภาพคล่องสำหรับขยายศูนย์ข้อมูล Colocation ความหนาแน่นสูงที่รองรับ Liquid Cooling สำหรับงาน AI ส่งผลให้ยอดออกพันธบัตรสีเขียวสะสมทะลุ $12 พันล้าน"
                   },
                   {
                       "date":  "2026-11-17",
                       "impact":  "positive",
-                      "publisher":  "Microsoft Azure Blog",
+                      "publisher":  "Cerebras Systems",
                       "tickers":  [
-                                      "MSFT"
+                                      "CBRS",
+                                      "AMZN"
                                   ],
-                      "title_en":  "Microsoft Launches Azure Cobalt 200 VMs and Vera Rubin Integration",
-                      "title_th":  "Microsoft เปิดตัว Azure Cobalt 200 VMs และเชื่อมต่อระบบ NVIDIA Vera Rubin ใน Azure",
-                      "url":  "https://azure.microsoft.com/en-us/blog/ignite-2026-the-next-era-of-enterprise-ai-starts-with-the-infrastructure-beneath-it/",
-                      "why_en":  "Unveiled at Ignite 2026, custom Arm-based Cobalt 200 delivers up to 50% better CPU performance across 24 regions alongside NVIDIA Vera Rubin NVL72 racks and standalone Azure AI Gateway to power enterprise agents.",
-                      "why_th":  "งาน Ignite 2026 เปิดตัวชิป Arm รุ่นใหม่ Cobalt 200 ที่แรงขึ้นสูงสุด 50% ใน 24 รีเจียน พร้อมผสานแร็ก NVIDIA Vera Rubin NVL72 และ Azure AI Gateway เพื่อรองรับเวิร์กโหลด agentic AI ระดับองค์กร"
+                      "title_en":  "Cerebras launches disaggregated AI inference with AWS delivering 5x tokens per megawatt",
+                      "title_th":  "Cerebras เปิดตัวระบบ Disaggregated Inference ร่วมกับ AWS เพิ่มเอาต์พุต 5 เท่าต่อเมกะวัตต์",
+                      "url":  "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+                      "why_en":  "Pairing GPUs for prefill with Cerebras CS-3 systems for decode increases token throughput per megawatt fivefold, directly addressing power efficiency limits in agentic AI inference.",
+                      "why_th":  "การแยกงานประมวลผลโดยใช้ GPU ทำ Prefill และให้ระบบ Cerebras CS-3 ทำ Decode ช่วยเพิ่มจำนวน Token ต่อเมกะวัตต์ขึ้นถึง 5 เท่า ตอบโจทย์ข้อจำกัดด้านพลังงานในการรัน Agentic AI ความเร็วสูง"
                   },
                   {
-                      "date":  "2026-11-09",
+                      "date":  "2026-11-10",
                       "impact":  "positive",
-                      "publisher":  "Google Blog",
+                      "publisher":  "Google Cloud",
                       "tickers":  [
                                       "GOOGL"
                                   ],
-                      "title_en":  "Google Cloud Unveils TPU 8i Max and Confidential TPU 8tx Systems",
-                      "title_th":  "Google Cloud เปิดตัวชิป AI รุ่นใหม่ TPU 8i Max และ TPU 8tx เน้นความปลอดภัยขั้นสูง",
-                      "url":  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-                      "why_en":  "Dual-chip TPU 8i Max doubles memory bandwidth for long-context agents, while AMD-paired TPU 8tx enables hardware-encrypted inference to win regulated government, finance, and healthcare workloads.",
-                      "why_th":  "TPU 8i Max แบบแพ็กเกจคู่ช่วยเพิ่มแบนด์วิดท์หน่วยความจำเป็นสองเท่าสำหรับ AI agent ที่ประมวลผลบริบทยาว ส่วน TPU 8tx ที่จับคู่กับซีพียู AMD ช่วยเปิดทางเจาะกลุ่มลูกค้าภาครัฐ การเงิน และสาธารณสุขที่เข้มงวดเรื่องความเป็นส่วนตัวข้อมูล"
-                  },
-                  {
-                      "date":  "2026-11-20",
-                      "impact":  "mixed",
-                      "publisher":  "Seeking Alpha",
-                      "tickers":  [
-                                      "GOOGL"
-                                  ],
-                      "title_en":  "Google Reportedly Cuts 2027 Broadcom TPU 8i Orders by 20%",
-                      "title_th":  "มีรายงานว่า Google ปรับลดออเดอร์ชิป Broadcom TPU 8i ปี 2027 ลง 20%",
-                      "url":  "https://seekingalpha.com/news/4427506-google-shifts-some-27-high-end-ai-chip-orders-from-broadcom-to-mediatek-ming-chi-kuo-says",
-                      "why_en":  "Analyst Ming-Chi Kuo reported Google trimmed roughly 1 million 2027 TPU 8i units—primarily TPU 8i Max—while shifting volume toward MediaTek\u0027s TPU 8t to balance power constraints and supplier diversification.",
-                      "why_th":  "นักวิเคราะห์ Ming-Chi Kuo ระบุว่า Google ปรับลดยอดสั่งผลิต TPU 8i จาก Broadcom ปี 2027 ลงราว 1 ล้านชิ้นโดยเฉพาะรุ่น TPU 8i Max เพื่อหันไปเพิ่มสัดส่วนรุ่น TPU 8t ของ MediaTek ช่วยกระจายซัพพลายเชนและรับมือข้อจำกัดด้านพลังงานในศูนย์ข้อมูล"
-                  },
-                  {
-                      "date":  "2026-11-09",
-                      "impact":  "positive",
-                      "publisher":  "Equinix Investor Relations",
-                      "tickers":  [
-                                      "EQIX"
-                                  ],
-                      "title_en":  "Equinix Closes Record €2.5B Green Bond Offering for Data Centers",
-                      "title_th":  "Equinix ปิดดีลออกกรีนบอนด์สถิติใหม่ €2.5B หนุนขยายดาต้าเซ็นเตอร์พลังงานสะอาด",
-                      "url":  "https://investor.equinix.com/news-and-events/news-releases/news-release-details/2026/Equinix-Issues-2.5-Billion-in-Green-Bonds-to-Advance-Sustainability-Initiatives/default.aspx",
-                      "why_en":  "Securing €2.5B (~$2.7B) across four tranches at a 4.82% blended effective rate strengthens Equinix\u0027s balance sheet to finance clean-energy procurement and high-density AI colocation builds.",
-                      "why_th":  "การระดมทุน €2.5B (ราว $2.7B) ด้วยอัตราดอกเบี้ยเฉลี่ยหลังป้องกันความเสี่ยงเพียง 4.82% ช่วยเสริมสภาพคล่องให้ Equinix เดินหน้าจัดหาพลังงานสะอาดและขยายพื้นที่ colocation ความหนาแน่นสูงรองรับงาน AI inference"
+                      "title_en":  "Google Cloud launches Gemini for Healthcare with major US health systems",
+                      "title_th":  "Google Cloud เปิดตัว Gemini for Healthcare ร่วมกับเครือโรงพยาบาลชั้นนำสหรัฐฯ",
+                      "url":  "https://www.googlecloudpresscorner.com/2026-11-10-Google-Cloud-Launches-Gemini-for-Healthcare",
+                      "why_en":  "Rolling out HIPAA-compliant agentic workflows integrated with Epic and Oracle Health alongside HCA Healthcare, Optum, and Stanford expands Google Cloud\u0027s high-margin enterprise AI footprint.",
+                      "why_th":  "การเปิดตัวเวิร์กโฟลว์ Agentic AI ที่รองรับมาตรฐาน HIPAA และเชื่อมต่อระบบเวชระเบียน Epic กับ Oracle Health โดยมีลูกค้าอย่าง HCA Healthcare, Optum และ Stanford ช่วยขยายฐานรายได้คลาวด์ AI ระดับองค์กรที่อัตรากำไรสูงให้ Google Cloud"
                   },
                   {
                       "date":  "2026-11-16",
                       "impact":  "positive",
-                      "publisher":  "DigitalOcean Investor Relations",
+                      "publisher":  "Business Wire",
                       "tickers":  [
                                       "DOCN"
                                   ],
-                      "title_en":  "DigitalOcean\u0027s Cloudways Launches Native WordPress AI Website Builder",
-                      "title_th":  "Cloudways ในเครือ DigitalOcean เปิดตัวเครื่องมือสร้างเว็บ WordPress ด้วย AI",
-                      "url":  "https://investors.digitalocean.com/news/news-details/2026/Cloudways-Launches-AI-Website-Builder-Enabling-Businesses-To-Create-And-Launch-WordPress-Websites-In-Minutes/default.aspx",
-                      "why_en":  "Generating exportable WordPress and WooCommerce sites in about 4 minutes using native Gutenberg blocks expands DigitalOcean\u0027s SMB AI-native cloud funnel without proprietary platform lock-in.",
-                      "why_th":  "เครื่องมือใหม่ที่สร้างเว็บไซต์ WordPress และ WooCommerce พร้อมใช้งานภายในราว 4 นาทีโดยไม่ผูกขาดแพลตฟอร์ม ช่วยขยายฐานลูกค้าเอสเอ็มอีและเอเจนซี่เข้าสู่ระบบนิเวศคลาวด์ AI ของ DigitalOcean ได้กว้างขึ้น"
+                      "title_en":  "DigitalOcean\u0027s Cloudways launches AI Website Builder for SMB WordPress deployments",
+                      "title_th":  "Cloudways ในเครือ DigitalOcean เปิดตัว AI Website Builder เจาะกลุ่มธุรกิจ SMB",
+                      "url":  "https://www.businesswire.com/news/home/20261116752002/en/Cloudways-Launches-AI-Website-Builder-Enabling-Businesses-To-Create-And-Launch-WordPress-Websites-In-Minutes",
+                      "why_en":  "Embedding AI site generation into its managed hosting platform supports SMB customer acquisition and cross-selling across DigitalOcean\u0027s core cloud infrastructure.",
+                      "why_th":  "การผสานเครื่องมือสร้างเว็บไซต์ด้วย AI เข้าในแพลตฟอร์มโฮสติ้ง Cloudways ช่วยเร่งการขยายฐานลูกค้า SMB และเพิ่มโอกาสขายพ่วงบริการคลาวด์หลักของ DigitalOcean"
                   }
               ]
 }

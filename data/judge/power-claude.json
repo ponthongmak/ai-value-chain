@@ -5,33 +5,33 @@
     "model":  "claude-opus-5-5",
     "effort":  "max",
     "account":  "Claude",
-    "generatedAt":  "2026-11-23T05:01:46Z",
-    "costUsd":  1.1217196,
+    "generatedAt":  "2026-11-24T05:07:32Z",
+    "costUsd":  1.740831,
     "stocks":  {
                    "CEG":  {
                                "m":  [
-                                         13,
+                                         12,
                                          11,
-                                         6,
+                                         5,
                                          17,
-                                         11
+                                         9
                                      ],
                                "o":  [
                                          11,
                                          13,
-                                         17,
+                                         16,
                                          16,
                                          14
                                      ],
-                               "why_en":  "Irreplaceable largest US nuclear fleet and hyperscaler PPAs (Microsoft, Meta, Amazon) give scarce clean firm power, but commodity pricing and volatile past returns limit moat.",
-                               "why_th":  "มีกองโรงไฟฟ้านิวเคลียร์ใหญ่ที่สุดในสหรัฐฯ ซึ่งสร้างทดแทนไม่ได้ และมีสัญญาขายไฟระยะยาวกับ Microsoft, Meta และ Amazon แต่ไฟฟ้าเป็นสินค้าโภคภัณฑ์และผลตอบแทนในอดีตผันผวน จึงจำกัดความแข็งแกร่งของคูเมือง"
+                               "why_en":  "Largest US nuclear fleet plus Calpine gives unmatched scale in scarce firm clean power and hyperscaler deals, but commodity exposure and a short record of high returns cap the moat.",
+                               "why_th":  "กองโรงไฟฟ้านิวเคลียร์ใหญ่ที่สุดในสหรัฐฯ รวมกับ Calpine ทำให้มีขนาดเหนือใครในไฟฟ้าสะอาดที่ผลิตได้ตลอด 24 ชั่วโมงซึ่งหายาก และได้ดีลกับไฮเปอร์สเกลเลอร์ แต่การพึ่งราคาไฟฟ้าในตลาดและประวัติผลตอบแทนสูงที่ยังสั้นจำกัดคูเมือง"
                            },
                    "ETN":  {
                                "m":  [
                                          14,
-                                         15,
+                                         14,
                                          12,
-                                         16,
+                                         15,
                                          16
                                      ],
                                "o":  [
@@ -41,26 +41,26 @@
                                          14,
                                          14
                                      ],
-                               "why_en":  "Durable, spec-driven electrical franchise with stable high margins; data-center revenue up about 65% and Boyd liquid cooling add AI exposure, though rivals share the bottleneck.",
-                               "why_th":  "แฟรนไชส์อุปกรณ์ไฟฟ้าที่วิศวกรระบุในสเปกและมีมาร์จิ้นสูงมั่นคง รายได้ศูนย์ข้อมูลโตราว 65% และธุรกิจระบายความร้อนด้วยของเหลวจาก Boyd เพิ่มการรับประโยชน์จาก AI แต่คู่แข่งหลายรายก็ได้ประโยชน์จากคอขวดเดียวกัน"
+                               "why_en":  "Decades of stable margins, a spec-in installed base and strong North American channels underpin the moat; fast-growing data center sales plus Boyd liquid cooling give solid AI upside.",
+                               "why_th":  "อัตรากำไรที่มั่นคงมาหลายทศวรรษ ฐานติดตั้งที่ถูกระบุในสเปกงานออกแบบ และช่องทางจัดจำหน่ายที่แข็งแกร่งในอเมริกาเหนือเป็นฐานของคูเมือง ขณะที่ยอดขายดาต้าเซ็นเตอร์ที่โตเร็วและระบบระบายความร้อนด้วยของเหลวจาก Boyd ให้โอกาสด้าน AI ที่ดี"
                            },
                    "FPS":  {
                                "m":  [
                                          8,
                                          8,
-                                         4,
+                                         3,
                                          7,
                                          5
                                      ],
                                "o":  [
                                          14,
-                                         15,
-                                         10,
+                                         16,
+                                         9,
                                          10,
                                          9
                                      ],
-                               "why_en":  "Fast-growing private-equity roll-up with $3B backlog and ~59% data-center sales, but small scale, undifferentiated custom switchgear and short track record give little moat.",
-                               "why_th":  "บริษัทที่กองทุนเอกชนควบรวมขึ้นมา เติบโตเร็ว มีงานค้างราว 3 พันล้านดอลลาร์ และรายได้จากศูนย์ข้อมูลราว 59% แต่ขนาดเล็ก สินค้าสั่งทำไม่โดดเด่น และประวัติสั้น จึงแทบไม่มีคูเมือง"
+                               "why_en":  "Fast-growing US switchgear maker riding data center demand and incumbents\u0027 capacity shortages, but a small, newly listed player with little proven technology, scale or durability.",
+                               "why_th":  "ผู้ผลิตสวิตช์เกียร์ในสหรัฐฯ ที่โตเร็วจากความต้องการของดาต้าเซ็นเตอร์และกำลังผลิตที่ไม่พอของผู้เล่นรายใหญ่ แต่ยังเป็นบริษัทเล็กที่เพิ่งเข้าตลาด ทั้งเทคโนโลยี ขนาด และความยั่งยืนยังพิสูจน์ได้น้อย"
                            },
                    "GEV":  {
                                "m":  [
@@ -68,71 +68,71 @@
                                          16,
                                          11,
                                          16,
-                                         9
+                                         7
                                      ],
                                "o":  [
-                                         10,
-                                         14,
-                                         16,
+                                         11,
+                                         15,
                                          17,
+                                         18,
                                          16
                                      ],
-                               "why_en":  "One of three heavy gas-turbine makers with the largest installed base; sold-out turbines (122 GW backlog plus reservations) give strong pricing power, though past profitability is weak.",
-                               "why_th":  "เป็นหนึ่งในสามผู้ผลิตกังหันก๊าซขนาดใหญ่ของโลกและมีฐานติดตั้งใหญ่ที่สุด กังหันขายหมดล่วงหน้า (งานค้างรวมการจอง 122 GW) ให้อำนาจกำหนดราคาสูง แต่ประวัติการทำกำไรยังอ่อน"
+                               "why_en":  "One of three heavy-duty gas turbine makers, with a vast service base and sold-out slots in a key AI bottleneck; short profit record and wind losses limit the moat.",
+                               "why_th":  "หนึ่งในสามผู้ผลิตกังหันก๊าซขนาดใหญ่ของโลก มีฐานงานบริการมหาศาลและคิวการผลิตที่จองเต็มในคอขวดสำคัญของไฟฟ้าสำหรับ AI แต่ประวัติการทำกำไรที่ยังสั้นและการขาดทุนของธุรกิจพลังงานลมจำกัดคูเมือง"
                            },
                    "SU":  {
                               "m":  [
                                         15,
-                                        16,
+                                        15,
                                         14,
                                         17,
-                                        17
+                                        16
                                     ],
                               "o":  [
                                         12,
                                         16,
                                         17,
-                                        14,
-                                        15
+                                        13,
+                                        14
                                     ],
-                              "why_en":  "Global data-center infrastructure leader with sticky installed base, software ecosystem and steady margins; data centers are about a quarter of sales with triple-digit order growth.",
-                              "why_th":  "ผู้นำโลกด้านโครงสร้างพื้นฐานศูนย์ข้อมูล มีฐานติดตั้งที่ลูกค้าเปลี่ยนยาก ระบบนิเวศซอฟต์แวร์ และมาร์จิ้นมั่นคง ศูนย์ข้อมูลคิดเป็นราวหนึ่งในสี่ของยอดขาย และคำสั่งซื้อโตระดับสามหลัก"
+                              "why_en":  "Global leader in electrical distribution and data center power and cooling, with a vast installed base, software ecosystem and long margin record; AI exposure is meaningful but diluted.",
+                              "why_th":  "ผู้นำระดับโลกด้านระบบจ่ายไฟฟ้าและระบบไฟฟ้า-ระบายความร้อนของดาต้าเซ็นเตอร์ มีฐานติดตั้งมหาศาล ระบบนิเวศซอฟต์แวร์ และประวัติอัตรากำไรที่ยาวนาน ส่วนรายได้จาก AI มีนัยสำคัญแต่ถูกเจือจางด้วยธุรกิจอื่น"
                           },
                    "VRT":  {
                                "m":  [
-                                         14,
                                          13,
+                                         12,
                                          11,
                                          13,
-                                         9
+                                         10
                                      ],
                                "o":  [
-                                         18,
                                          17,
                                          17,
-                                         15,
-                                         14
+                                         17,
+                                         14,
+                                         13
                                      ],
-                               "why_en":  "Purest AI data-center power and cooling play with doubling orders and NVIDIA ties, but margins only recently became high and rivals are crowding into liquid cooling.",
-                               "why_th":  "เป็นหุ้นระบบไฟฟ้าและระบายความร้อนสำหรับศูนย์ข้อมูล AI ที่ชัดที่สุด คำสั่งซื้อโตกว่าเท่าตัวและใกล้ชิดกับ NVIDIA แต่มาร์จิ้นเพิ่งสูงขึ้นไม่นาน และคู่แข่งกำลังแห่เข้าตลาดระบายความร้อนด้วยของเหลว"
+                               "why_en":  "Purest play on AI data center power and liquid cooling, with leading share and NVIDIA ties; but products face strong rivals and its high-margin record is short.",
+                               "why_th":  "หุ้นที่อิงระบบไฟฟ้าและระบายความร้อนด้วยของเหลวของดาต้าเซ็นเตอร์ AI โดยตรงที่สุด มีส่วนแบ่งตลาดชั้นนำและสัมพันธ์ใกล้ชิดกับ NVIDIA แต่สินค้าเผชิญคู่แข่งแข็งแกร่ง และประวัติอัตรากำไรสูงยังสั้น"
                            },
                    "VST":  {
                                "m":  [
+                                         9,
                                          10,
-                                         10,
-                                         6,
+                                         4,
                                          14,
-                                         8
+                                         7
                                      ],
                                "o":  [
-                                         10,
+                                         9,
+                                         12,
+                                         14,
                                          13,
-                                         14,
-                                         14,
                                          12
                                      ],
-                               "why_en":  "Large ERCOT/PJM gas and nuclear fleet with Meta and AWS nuclear deals benefits from AI load, but commodity exposure and volatile history make the moat thin.",
-                               "why_th":  "มีโรงไฟฟ้าก๊าซและนิวเคลียร์ขนาดใหญ่ในตลาด ERCOT และ PJM พร้อมสัญญานิวเคลียร์กับ Meta และ AWS ได้ประโยชน์จากความต้องการไฟของ AI แต่ความผันผวนของราคาไฟและประวัติกำไรที่ไม่แน่นอนทำให้คูเมืองบาง"
+                               "why_en":  "Large Texas and PJM gas-nuclear fleet with Amazon and Meta nuclear deals offers real AI upside, but volatile earnings, commodity exposure and slower Texas data center hookups limit both scores.",
+                               "why_th":  "กองโรงไฟฟ้าก๊าซและนิวเคลียร์ขนาดใหญ่ในเท็กซัสและ PJM พร้อมสัญญาไฟฟ้านิวเคลียร์กับ Amazon และ Meta ให้โอกาสด้าน AI จริง แต่กำไรที่ผันผวน การพึ่งราคาพลังงาน และการเชื่อมต่อดาต้าเซ็นเตอร์ในเท็กซัสที่ช้าลงจำกัดคะแนนทั้งสองด้าน"
                            }
                }
 }

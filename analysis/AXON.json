@@ -2,46 +2,45 @@
     "ticker":  "AXON",
     "name":  "Axon Enterprise",
     "symbol":  "NASDAQ:AXON",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:03:16Z",
-    "costUsd":  0.6129142999999999,
+    "generatedAt":  "2026-11-24T04:04:14Z",
+    "costUsd":  null,
     "stance":  "bearish",
-    "thesis":  "watch",
+    "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:AXON",
                        "yahoo":  "AXON",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:01:00Z",
-                       "price":  291.14,
-                       "open":  303.81,
-                       "high":  325.9,
-                       "low":  289.69,
-                       "volume":  2084000,
-                       "avgVolume20":  1719130,
-                       "changePct":  -5.16,
-                       "ema50":  395.64,
-                       "ema100":  437.16,
-                       "ema200":  476.47,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:00:30Z",
+                       "price":  307.6,
+                       "open":  308.01,
+                       "high":  310.12,
+                       "low":  298.72,
+                       "volume":  1256400,
+                       "avgVolume20":  1747750,
+                       "changePct":  5.65,
+                       "historyDays":  500,
+                       "ema50":  392.18,
+                       "ema100":  434.59,
+                       "ema200":  474.76,
                        "bb":  {
-                                  "upper":  474.41,
-                                  "middle":  357.44,
-                                  "lower":  240.48
+                                  "upper":  466.19,
+                                  "middle":  351.59,
+                                  "lower":  236.98
                               },
                        "macd":  {
-                                    "macd":  -34.49,
-                                    "signal":  -30.99,
-                                    "hist":  -3.5
+                                    "macd":  -33.01,
+                                    "signal":  -31.39,
+                                    "hist":  -1.62
                                 },
-                       "rsi14":  27.93,
+                       "rsi14":  35.03,
                        "high52w":  665.07,
                        "low52w":  289.69,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         481.48
-                                     ],
                                      [
                                          "2026-06-04",
                                          513.2
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          291.14
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         307.6
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          426.2,
                                           429.61,
                                           431.82,
                                           433.36,
@@ -639,89 +641,106 @@
                                           407.9,
                                           403.69,
                                           399.9,
-                                          395.64
+                                          395.64,
+                                          392.18
                                       ]
                    },
     "en":  {
-               "headline":  "AXON at two-year lows after Q3 miss, Dedrone delays and $1.2B Skydio bet",
-               "technical":  "The trend is clearly down. At USD 291.14, the price is below all three exponential moving averages (EMAs, which give more weight to recent prices): EMA50 at 395.64, EMA100 at 437.16 and EMA200 at 476.47. They are stacked in fully bearish order, with the shortest on the bottom, and the price is about 26% below EMA50. Momentum is still negative. MACD (a trend-momentum gauge built from two moving averages) is at -34.49, below its signal line at -30.99, so the histogram is -3.5. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 27.93, which says the stock is oversold, but oversold readings can last a long time in a downtrend. The Bollinger Bands (a 20-day average ± 2 standard deviations) are very wide, from 240.48 to 474.41 around a 357.44 middle, which reflects how violent the selloff has been. The price sits in the lower half of the bands, not yet at the lower band. On 20 Nov the stock touched 325.90 intraday but closed near its low of 289.69, a new 52-week low and 56% below the 665.07 high. Volume of 2.08M was 1.21x the 20-day average, so sellers were in control.",
-               "fundamental":  "Axon\u0027s software side still looks strong. In Q3 2026 (results released 5 Nov), annual recurring revenue (ARR) was USD 1.75B (+40%), net revenue retention (revenue from existing customers vs a year earlier) was 126%, and future contracted bookings were USD 15.8B (+39%). Software \u0026 Services grew 43% to USD 437M, and AI ARR passed USD 100M. The weak spots were elsewhere. Total revenue of USD 909M (+28%) missed consensus. Connected Devices growth slowed to 16%, and TASER and body cameras came in slightly below forecasts. GAAP gross margin fell to 56.7% from 60.1%, hit by counter-drone product mix and higher memory-chip costs. FY2026 revenue guidance was cut to USD 3.61–3.63B (~30% growth, from 32–34%). Free-cash-flow guidance fell to USD 350–400M from 450M, and debt (USD 2.97B) now exceeds cash (USD 1.66B).",
-               "news":  [
-                            "5 Nov 2026: Q3 revenue of USD 909M and adjusted EPS of USD 1.72 both missed estimates. Axon took about USD 130M of federal Dedrone counter-drone deployments out of its 2026 outlook and cut full-year growth guidance to ~30%.",
-                            "5 Nov 2026: Axon announced an additional USD 1.2B investment in drone maker Skydio, lifting its fully diluted stake to about 37% and making it Skydio\u0027s exclusive US/Canada public-safety distributor. A later filing indicates roughly 90% will be paid in cash.",
-                            "6 Nov 2026: The stock fell about 18% in one session, the S\u0026P 500\u0027s biggest decliner that day and Axon\u0027s lowest level since August 2024. Piper Sandler called it \u0027arguably Axon\u0027s worst quarter as a public company\u0027 but said it does not believe Axon has lost business.",
-                            "6 Nov 2026: Craig-Hallum downgraded the stock to Hold (target USD 390). Raymond James (to 475 from 675), JPMorgan (to 610 from 755), Northland (to 540 from 800) and others cut their targets but kept positive ratings.",
-                            "20 Nov 2026: Shares fell another 5.2% to USD 291.14, a fresh 52-week low, with no new company-specific news found. It looks like the post-earnings selloff continuing."
+               "caution":  "Catching a falling knife carries elevated risk while shares remain 21.6% below the 50-day EMA and rebound on light volume. Fundamentally, funding ~90% (~$1.08 billion) of a minority 37% Skydio stake in cash coincides with trimmed FY2026 free cash flow guidance ($350–$400 million), higher inventory, and memory cost inflation. Federal procurement remains lumpy, and if municipal budgets tighten or hardware margins compress further, valuation multiples could stay pressured and test below the $289.69 support floor.",
+               "cons":  [
+                            "Q3 2026 revenue ($909 million) and adjusted EPS ($1.72) missed estimates, while $130 million in delayed federal Dedrone deals cut full-year growth guidance to ~30%.",
+                            "Full-year free cash flow guidance dropped to $350–$400 million (from $450 million) amid deliberate inventory builds, memory cost headwinds, and rapid SG\u0026A growth.",
+                            "Shifting the $1.2 billion Skydio investment to ~90% cash per the November 18 Form 8-K limits dilution but heavily increases near-term cash outflow.",
+                            "Major banks slashed price targets in November (including Barclays to $507 and Needham to $500) as valuation multiples compressed sharply."
                         ],
-               "caution":  "The chart has not shown any sign of bottoming. Price is far below every EMA, MACD is still under its signal, and the 20 Nov close came at a new low on above-average volume. An oversold RSI alone is not a buy signal in a strong downtrend. On the business side, cash is getting tighter: free cash flow is lower, net debt has risen, and the Skydio deal is mostly paid in cash. Federal counter-drone revenue has proved lumpy and hard to time, and investors may stay doubtful until the Q4 report in February 2027.",
-               "opportunity":  "The parts of Axon that drive long-term value held up. ARR grew 40%, customers spent 26% more than a year earlier, and the USD 15.8B contracted backlog rose 39%. The guidance cut was about federal deployment timing, not lost customers, and analysts who cut targets mostly kept Buy-type ratings. If the delayed Dedrone projects land in 2027 and Skydio deepens the drone-as-first-responder platform, today\u0027s discount to the 52-week high could later look like an overreaction. The 240–290 zone (lower band and 52-week low) is the nearest support area to watch.",
+               "fundamental":  "Axon sits at the applied-AI edge of public-safety infrastructure, monetizing proprietary video and audio captured by TASERs and body cameras inside Evidence.com. Q3 2026 results (November 5) confirmed strong core momentum: revenue rose 28% YoY to a record $909 million, GAAP net income turned positive at $57 million, and Adjusted EBITDA grew 33% to $236 million (25.9% margin). High-margin Software \u0026 Services accelerated 43% YoY to $437 million, lifting ARR past $1.8 billion and AI ARR above $100 million via Draft One and the AI Era Plan. The stock\u0027s repricing reflects near-term friction—$130 million in deferred federal Dedrone deals, inventory and memory cost pressure, and ~$1.08 billion in cash earmarked for Skydio—rather than a breakdown in recurring software demand.",
+               "headline":  "Axon Slides Near 52-Week Low on Guidance Cut Despite Surging AI Software",
+               "news":  [
+                            "On November 5, 2026, Axon posted record Q3 revenue of $909 million (+28% YoY) and $1.72 adjusted EPS, missing consensus, and trimmed FY2026 revenue growth guidance to ~30% ($3.61–$3.63 billion) after deferring $130 million in federal Dedrone deployments.",
+                            "Also on November 5, Axon announced a $1.2 billion investment in Skydio (raising its stake to 37%) plus exclusive U.S. and Canadian public-safety drone distribution; a November 18 Form 8-K shifted roughly 90% of payment to cash to curb dilution.",
+                            "On October 24, 2026, Axon unveiled Axon Body 5 and Body 5 Pro cameras featuring 25x prior on-device AI processing power, 4K video, Axon Assistant voice translation, and real-time Escalation Detection.",
+                            "From November 6 to November 9, 2026, Barclays ($507), RBC Capital ($615), JPMorgan ($610), and Needham ($500) lowered price targets on weaker free cash flow guidance ($350–$400 million) while keeping Buy or Overweight ratings, as shares hit a $289.69 low before bouncing 5.65% on November 23."
+                        ],
+               "opportunity":  "For long-term AI-infrastructure investors, the 53.7% drawdown separates federal contract timing and capital-allocation jitters from durable software execution. Axon is demonstrating real, paid enterprise AI adoption—crossing $100 million in AI ARR with 43% Software \u0026 Services growth and 126% net revenue retention—while seeding its next hardware cycle via Axon Body 5 and expanding into autonomous drones with Skydio. Tracking whether Q4 meets its $990 million–$1.01 billion revenue and ~$450 million free cash flow rebound targets, alongside price stabilization above $351.59, offers concrete checkpoints.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile broadly fits: Axon dominates its public-safety niche, while AI remains a modest slice of its ~$3.6 billion annual revenue base even after AI ARR crossed $100 million in Q3 2026. However, I would raise the bottleneck and pricing power sub-score. Bundling Axon Body 5, Evidence.com, and the AI Era Plan into multi-year municipal contracts drove 126% net revenue retention and 43% software growth, proving stronger lock-in and pricing leverage than currently credited. Optionality also merits a slight upward bump following the exclusive Skydio autonomous-drone distribution deal.",
+               "pros":  [
+                            "Software \u0026 Services revenue accelerated 43% YoY to $437 million in Q3 2026, pushing ARR past $1.8 billion with 126% net revenue retention.",
+                            "AI annual recurring revenue crossed $100 million as police agencies adopt Draft One report-writing and multi-year AI Era Plan bundles.",
+                            "The October 24 launch of Axon Body 5 adds 25x prior on-device AI compute, deepening hardware-to-Evidence.com ecosystem lock-in.",
+                            "Axon\u0027s $1.2 billion Skydio investment secures a 37% stake and exclusive U.S. and Canadian public-safety distribution for first-responder drones."
+                        ],
                "risks":  [
-                             "The three delayed federal Dedrone deployments (~USD 130M) could slip further or shrink.",
-                             "Gross-margin pressure from counter-drone hardware mix and rising memory-chip costs.",
-                             "Balance-sheet strain: debt above cash, free cash flow cut and a mostly cash-funded USD 1.2B Skydio stake.",
-                             "Hardware softness: TASER and body-camera sales came in slightly below forecasts.",
-                             "Valuation is still high (around 96x trailing earnings per Trefis), so further estimate cuts could hurt the stock more."
+                             "Further delays or cancellations in lumpy federal Dedrone counter-drone deployments beyond the $130 million already shifted out of 2026.",
+                             "Heavy near-term cash outflow and integration risk from funding ~90% of the $1.2 billion minority Skydio stake in cash amid lower FY2026 free cash flow guidance ($350–$400 million).",
+                             "Hardware gross-margin pressure from rising memory component prices, elevated inventory levels, and faster SG\u0026A expense growth.",
+                             "Public and civil-liberties scrutiny over transparency in AI-generated police reports (Draft One) potentially slowing municipal contract approvals."
                          ],
-               "summary":  "AXON is in a confirmed downtrend. All EMAs sit above the price in bearish order, MACD is negative, and the stock closed 20 Nov at a 52-week low of about USD 291 on heavy volume, although RSI 27.93 shows it is oversold. The news explains the move: a Q3 miss, about USD 130M of delayed federal Dedrone revenue, a lower cash outlook and a costly Skydio bet. The core software moat (ARR +40%, NRR 126%, USD 15.8B backlog) looks intact. Hardware execution and capital allocation now need close watching."
+               "summary":  "Axon Enterprise (NASDAQ:AXON) fell to $307.60 on November 23, 2026—down 53.7% from its $665.07 52-week high—after its November 5 Q3 2026 results missed consensus and cut full-year revenue growth guidance to ~30% due to $130 million in delayed federal Dedrone deployments. Lowered free cash flow guidance ($350–$400 million) and shifting its $1.2 billion Skydio investment to ~90% cash compounded selling pressure. Yet core demand stayed strong: Software \u0026 Services surged 43% YoY to $437 million and AI ARR topped $100 million, keeping the ecosystem moat intact despite bearish technicals.",
+               "technical":  "AXON remains in a steep bearish trend across all horizons as of November 23, 2026. At $307.60, price sits far below its three exponential moving averages (EMAs—weighted trendlines tracking average price): EMA 50 ($392.18), EMA 100 ($434.59), and EMA 200 ($474.76), stacked in full bearish alignment. Momentum stays negative. MACD (12/26/9—a trend-momentum gauge comparing short and long averages) stands at -33.01 below its -31.39 signal line, with a -1.62 histogram confirming sellers still dominate, though downward pressure is starting to flatten. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) reads 35.03, hovering just above oversold levels. Post-earnings volatility remains wide: shares sit in the lower half of the 20-day Bollinger Bands (a volatility channel around the 20-day average) between the $236.98 lower band and $351.59 middle band, and in the bottom 5% of the $289.69–$665.07 52-week range. Critically, November 23\u0027s +5.65% bounce came on 1.26 million shares—28% below the 1.75 million 20-day average—offering weak volume confirmation. Immediate support lies at $289.69 (then $236.98), with overhead resistance at $351.59 and $392.18."
            },
     "th":  {
-               "headline":  "AXON ร่วงต่ำสุดรอบ 2 ปี หลังงบ Q3 พลาดเป้า Dedrone เลื่อน และทุ่มเงินใน Skydio",
-               "technical":  "แนวโน้มเป็นขาลงชัดเจน ราคา USD 291.14 อยู่ใต้เส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โพเนนเชียล (EMA ซึ่งให้น้ำหนักกับราคาล่าสุดมากกว่า) ทั้งสามเส้น ได้แก่ EMA50 ที่ 395.64, EMA100 ที่ 437.16 และ EMA200 ที่ 476.47 เส้นทั้งสามเรียงตัวแบบขาลงเต็มรูปแบบ (เส้นสั้นอยู่ล่างสุด) และราคาต่ำกว่า EMA50 ราว 26% โมเมนตัมยังเป็นลบ MACD (ตัววัดแรงส่งของเทรนด์จากค่าเฉลี่ยสองเส้น) อยู่ที่ -34.49 ต่ำกว่าเส้น signal ที่ -30.99 ฮิสโตแกรมจึงเป็น -3.5 ส่วน RSI 14 (มาตรวัดโมเมนตัม 0–100 ถ้าต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 27.93 คือเข้าเขต oversold แล้ว แต่ในขาลงแรง ๆ ภาวะนี้ลากยาวได้ Bollinger Bands (ค่าเฉลี่ย 20 วัน ± 2 ส่วนเบี่ยงเบนมาตรฐาน) กว้างมาก ตั้งแต่ 240.48 ถึง 474.41 โดยมีเส้นกลางที่ 357.44 สะท้อนว่าแรงขายรุนแรง ราคาอยู่ครึ่งล่างของแบนด์แต่ยังไม่แตะขอบล่าง วันที่ 20 พ.ย. ราคาขึ้นไปแตะ 325.90 ระหว่างวัน แต่ปิดใกล้จุดต่ำสุดของวันที่ 289.69 ซึ่งเป็นจุดต่ำสุดใหม่รอบ 52 สัปดาห์ และต่ำกว่าจุดสูงสุด 665.07 ถึง 56% วอลุ่ม 2.08 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน 1.21 เท่า แปลว่าฝั่งขายคุมตลาด",
-               "fundamental":  "ฝั่งซอฟต์แวร์ของ Axon ยังแข็งแรง งบ Q3 2026 (ประกาศ 5 พ.ย.) มีรายได้ประจำต่อปี (ARR) USD 1.75B (+40%) อัตราการรักษารายได้จากลูกค้าเดิม (NRR) 126% และยอดสัญญาในอนาคต USD 15.8B (+39%) ธุรกิจ Software \u0026 Services โต 43% เป็น USD 437M และ AI ARR ทะลุ USD 100M แล้ว จุดอ่อนอยู่ที่ส่วนอื่น รายได้รวม USD 909M (+28%) ต่ำกว่าที่ตลาดคาด ฮาร์ดแวร์ Connected Devices โตช้าลงเหลือ 16% และยอดขาย TASER กับกล้องติดตัวต่ำกว่าคาดเล็กน้อย อัตรากำไรขั้นต้นแบบ GAAP ลดลงเหลือ 56.7% จาก 60.1% เพราะสัดส่วนสินค้าต่อต้านโดรนสูงขึ้นและราคาชิปหน่วยความจำแพงขึ้น บริษัทหั่นเป้ารายได้ปี 2026 เหลือ USD 3.61–3.63B (โตราว 30% จากเดิม 32–34%) ลดเป้ากระแสเงินสดอิสระเหลือ USD 350–400M จากเดิม 450M และตอนนี้หนี้สิน (USD 2.97B) สูงกว่าเงินสด (USD 1.66B)",
-               "news":  [
-                            "5 พ.ย. 2026: รายได้ Q3 USD 909M และ EPS ปรับปรุง USD 1.72 ต่ำกว่าคาดทั้งคู่ บริษัทตัดรายได้จากการติดตั้งระบบต่อต้านโดรน Dedrone ให้รัฐบาลกลางราว USD 130M ออกจากประมาณการปี 2026 และลดเป้าการเติบโตทั้งปีเหลือราว 30%",
-                            "5 พ.ย. 2026: ประกาศลงทุนเพิ่มใน Skydio ผู้ผลิตโดรน อีก USD 1.2B ทำให้ถือหุ้นแบบ fully diluted ราว 37% และได้สิทธิ์เป็นผู้จัดจำหน่ายแต่เพียงผู้เดียวในตลาดความปลอดภัยสาธารณะของสหรัฐฯ และแคนาดา เอกสารที่ยื่นภายหลังระบุว่าราว 90% จ่ายเป็นเงินสด",
-                            "6 พ.ย. 2026: หุ้นร่วงราว 18% ในวันเดียว ลงมากที่สุดใน S\u0026P 500 วันนั้น และต่ำสุดตั้งแต่ ส.ค. 2024 Piper Sandler เรียกไตรมาสนี้ว่า \u0027อาจแย่ที่สุดตั้งแต่เข้าตลาด\u0027 แต่ไม่คิดว่าบริษัทเสียลูกค้า",
-                            "6 พ.ย. 2026: Craig-Hallum ลดคำแนะนำเป็น Hold (เป้า USD 390) ส่วน Raymond James (จาก 675 เป็น 475), JPMorgan (จาก 755 เป็น 610), Northland (จาก 800 เป็น 540) และอีกหลายแห่งลดราคาเป้าหมาย แต่ยังคงมุมมองเชิงบวก",
-                            "20 พ.ย. 2026: หุ้นลงอีก 5.2% เหลือ USD 291.14 ทำจุดต่ำสุดใหม่รอบ 52 สัปดาห์ ไม่พบข่าวใหม่เฉพาะบริษัท ดูเป็นแรงขายต่อเนื่องหลังประกาศงบ"
+               "caution":  "การเข้าช้อนหุ้นที่ยังอยู่ต่ำกว่าเส้น EMA 50 ถึง 21.6% และรีบาวด์ด้วยวอลุ่มที่ต่ำกว่าค่าเฉลี่ยมีความเสี่ยงสูง ด้านพื้นฐาน การปรับสัดส่วนจ่ายเงินสดเกือบ 90% (ราว $1.08 พันล้าน) เพื่อถือหุ้นข้างน้อย 37% ใน Skydio เกิดขึ้นพร้อมจังหวะที่บริษัทหั่นเป้ากระแสเงินสดอิสระปี 2026 เหลือ $350–$400 ล้าน ท่ามกลางสต็อกสินค้าที่สูงขึ้นและต้นทุนชิปหน่วยความจำที่แพงขึ้น นอกจากนี้ งานภาครัฐยังมีความผันผวนสูง หากงบตำรวจท้องถิ่นตึงตัวหรือมาร์จิ้นฮาร์ดแวร์หดตัวต่อ ราคาอาจกดดันจนหลุดแนวรับ $289.69 ได้",
+               "cons":  [
+                            "รายได้ Q3 2026 ($909 ล้าน) และกำไรปรับปรุง ($1.72/หุ้น) ต่ำกว่าคาด พร้อมหั่นเป้ารายได้ทั้งปีเหลือโต ~30% หลังดีล Dedrone ภาครัฐ $130 ล้านถูกเลื่อน",
+                            "บริษัทลดเป้ากระแสเงินสดอิสระปี 2026 เหลือ $350–$400 ล้าน (จาก $450 ล้าน) เพราะเร่งตุนสต็อกสินค้า ต้นทุนหน่วยความจำสูงขึ้น และค่าใช้จ่าย SG\u0026A โตเร็ว",
+                            "การยื่นแบบ 8-K วันที่ 18 พ.ย. ปรับดีลลงทุน Skydio $1.2 พันล้านเป็นจ่ายเงินสด ~90% แม้ลดการออกหุ้นใหม่แต่ดึงสภาพคล่องระยะสั้นออกไปมาก",
+                            "นักวิเคราะห์หลายสำนักหั่นราคาเป้าหมายในเดือน พ.ย. (เช่น Barclays เหลือ $507 และ Needham เหลือ $500) ท่ามกลางแรงกดดันด้านมูลค่าหุ้น"
                         ],
-               "caution":  "กราฟยังไม่มีสัญญาณว่าเจอจุดต่ำสุด ราคาห่างทุกเส้น EMA มาก MACD ยังอยู่ใต้ signal และวันที่ 20 พ.ย. ปิดที่จุดต่ำสุดใหม่พร้อมวอลุ่มสูงกว่าปกติ RSI ที่ oversold อย่างเดียวไม่ใช่สัญญาณซื้อในขาลงแรง ฝั่งธุรกิจ สถานะเงินสดตึงขึ้น ทั้งกระแสเงินสดอิสระที่ลดลง หนี้สุทธิที่เพิ่มขึ้น และดีล Skydio ที่จ่ายเป็นเงินสดเป็นหลัก รายได้ต่อต้านโดรนจากรัฐบาลกลางก็มาเป็นก้อนและคาดเดาจังหวะยาก นักลงทุนอาจยังลังเลจนกว่าจะเห็นงบ Q4 ในเดือน ก.พ. 2027",
-               "opportunity":  "ส่วนที่สร้างมูลค่าระยะยาวยังไปได้ดี ARR โต 40% ลูกค้าเดิมใช้จ่ายเพิ่มขึ้น 26% จากปีก่อน และ backlog สัญญา USD 15.8B โต 39% การลดเป้าเกิดจากจังหวะการติดตั้งของรัฐบาลกลาง ไม่ใช่การเสียลูกค้า และนักวิเคราะห์ที่ลดเป้าส่วนใหญ่ยังคงคำแนะนำเชิงบวก หากโครงการ Dedrone ที่เลื่อนออกไปเกิดขึ้นในปี 2027 และ Skydio ช่วยต่อยอดแพลตฟอร์มโดรนเผชิญเหตุ (drone as first responder) ระดับราคาที่ห่างจากจุดสูงสุดมากขนาดนี้อาจกลายเป็นการตอบสนองที่มากเกินไป โซน 240–290 (ขอบล่าง Bollinger และจุดต่ำสุด 52 สัปดาห์) เป็นแนวรับใกล้ที่สุดที่ควรติดตาม",
+               "fundamental":  "Axon อยู่ในชั้น Applied AI ของโครงสร้างพื้นฐานความปลอดภัยสาธารณะ โดยนำข้อมูลภาพและเสียงจากปืนไฟฟ้า TASER และกล้องติดตัวมาต่อยอดรายได้บนคลาวด์ Evidence.com งบ Q3 2026 (5 พ.ย.) สะท้อนธุรกิจหลักที่ยังแกร่ง รายได้รวมทำสถิติ $909 ล้าน (+28% YoY) พลิกมีกำไรสุทธิ GAAP $57 ล้าน และ Adjusted EBITDA โต 33% เป็น $236 ล้าน (มาร์จิ้น 25.9%) จุดเด่นคือกลุ่ม Software \u0026 Services ที่เร่งตัวถึง 43% YoY เป็น $437 ล้าน ดัน ARR ทะลุ $1.8 พันล้าน และ AI ARR เกิน $100 ล้านจาก Draft One และ AI Era Plan แรงขายรอบนี้จึงเกิดจากปัจจัยสะดุดระยะสั้น ทั้งงาน Dedrone ภาครัฐที่เลื่อน $130 ล้าน สต็อกสินค้า ต้นทุนเมมโมรี่ และเงินสดราว $1.08 พันล้านที่ต้องจ่ายดีล Skydio มากกว่าจะเป็นการเสื่อมถอยของธุรกิจซอฟต์แวร์หลัก",
+               "headline":  "AXON ร่วงใกล้จุดต่ำสุดรอบปีหลังหั่นเป้า แม้รายได้ซอฟต์แวร์ AI ยังเร่งตัว",
+               "news":  [
+                            "5 พ.ย. 2026: Axon รายงานรายได้ Q3 สูงสุดเป็นประวัติการณ์ที่ $909 ล้าน (+28% YoY) และกำไรปรับปรุง $1.72/หุ้น แต่ต่ำกว่าคาด พร้อมหั่นเป้าการเติบโตทั้งปี 2026 เหลือ ~30% ($3.61–$3.63 พันล้าน) หลังเลื่อนรับรู้รายได้ดีล Dedrone ภาครัฐ $130 ล้าน",
+                            "5 พ.ย. และ 18 พ.ย. 2026: บริษัทประกาศลงทุน $1.2 พันล้านใน Skydio เพิ่มสัดส่วนถือหุ้นเป็น 37% พร้อมสิทธิ์จัดจำหน่ายโดรนตำรวจแต่เพียงผู้เดียวในสหรัฐฯ-แคนาดา ก่อนยื่นแบบ 8-K ปรับสัดส่วนจ่ายเป็นเงินสด ~90% เพื่อลด Dilution",
+                            "24 ต.ค. 2026: เปิดตัวกล้องติดตัวรุ่นใหม่ Axon Body 5 และ Body 5 Pro ที่เพิ่มพลังประมวลผล AI บนเครื่องขึ้น 25 เท่า รองรับวิดีโอ 4K ระบบแปลภาษา Axon Assistant และตรวจจับเหตุบานปลายแบบเรียลไทม์",
+                            "6–9 พ.ย. 2026: Barclays ($507), RBC Capital ($615), JPMorgan ($610) และ Needham ($500) พาเหรดหั่นราคาเป้าหมายหลังเป้ากระแสเงินสดอิสระลดลงเหลือ $350–$400 ล้าน แม้ส่วนใหญ่ยังคงคำแนะนำเชิงบวก ขณะที่ราคาหุ้นลงแตะจุดต่ำสุด $289.69 ก่อนเด้ง +5.65% วันที่ 23 พ.ย."
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวสายโครงสร้างพื้นฐาน AI การปรับฐานลงมา 53.7% ช่วยแยกแรงกังวลระยะสั้นเรื่องจังหวะส่งมอบงานภาครัฐและการใช้เงินสด ออกจากธุรกิจซอฟต์แวร์ที่ยังเร่งตัวได้ดี Axon พิสูจน์การสร้างรายได้ AI จากลูกค้าองค์กรได้จริงด้วย AI ARR ทะลุ $100 ล้าน ควบคู่ Software \u0026 Services โต 43% และ NRR 126% พร้อมวางรากฐานรอบอัปเกรดฮาร์ดแวร์ด้วย Axon Body 5 และโดรนอัตโนมัติ Skydio จุดติดตามสำคัญคือรายได้ Q4 ตามเป้า $990 ล้าน–$1.01 พันล้าน การฟื้นตัวของ FCF สู่ ~$450 ล้าน และการยืนเหนือแนวต้าน $351.59",
+               "opportunityCheck":  "คะแนนโอกาสด้าน AI บนหน้าเพจโดยรวมสมเหตุสมผลดี เพราะ Axon ครองตลาดเฉพาะทางด้านตำรวจได้อย่างแข็งแกร่ง ขณะที่รายได้จาก AI ยังเป็นสัดส่วนไม่มากนักเทียบกับฐานรายได้รวม ~$3.6 พันล้านต่อปีแม้ AI ARR จะทะลุ $100 ล้านแล้วใน Q3 2026 อย่างไรก็ตาม ควรขยับคะแนนด้านคอขวดและอำนาจการตั้งราคาขึ้น เนื่องจากการขายพ่วง Axon Body 5, Evidence.com และ AI Era Plan ในสัญญาระยะยาวสามารถสร้าง NRR สูงถึง 126% และดันซอฟต์แวร์โต 43% สะท้อนอำนาจล็อกลูกค้าและตั้งราคาที่แข็งแกร่งกว่าเดิม รวมถึงอาจขยับคะแนนโอกาสต่อยอด (optionality) ขึ้นเล็กน้อยจากดีลสิทธิ์จัดจำหน่ายโดรนอัตโนมัติ Skydio",
+               "pros":  [
+                            "รายได้ Software \u0026 Services เร่งตัว 43% YoY สู่ $437 ล้านใน Q3 2026 ดัน ARR ทะลุ $1.8 พันล้าน พร้อมอัตราการรักษารายได้สุทธิ (NRR) สูงถึง 126%",
+                            "รายได้ประจำจาก AI (AI ARR) ทะลุหลัก $100 ล้าน จากแรงหนุนของฟีเจอร์เขียนรายงาน Draft One และแพ็กเกจเหมาจ่าย AI Era Plan",
+                            "การเปิดตัว Axon Body 5 วันที่ 24 ต.ค. ที่เพิ่มพลังประมวลผล AI บนเครื่อง 25 เท่า ช่วยตอกย้ำการล็อกลูกค้าให้อยู่ในระบบ Evidence.com",
+                            "ดีลลงทุน $1.2 พันล้านใน Skydio ทำให้ถือหุ้น 37% พร้อมสิทธิ์ขายโดรนช่วยงานตำรวจ (DFR) แต่เพียงผู้เดียวในสหรัฐฯ และแคนาดา"
+                        ],
                "risks":  [
-                             "โครงการ Dedrone ของรัฐบาลกลางทั้งสามโครงการ (~USD 130M) อาจเลื่อนออกไปอีกหรือมูลค่าลดลง",
-                             "อัตรากำไรขั้นต้นถูกกดดันจากสัดส่วนฮาร์ดแวร์ต่อต้านโดรนและราคาชิปหน่วยความจำที่สูงขึ้น",
-                             "งบดุลตึงตัว หนี้สูงกว่าเงินสด กระแสเงินสดอิสระถูกลดเป้า และเงินลงทุน Skydio USD 1.2B ส่วนใหญ่จ่ายเป็นเงินสด",
-                             "ฮาร์ดแวร์อ่อนตัว ยอดขาย TASER และกล้องติดตัวต่ำกว่าคาดเล็กน้อย",
-                             "มูลค่าหุ้นยังแพง (ราว 96 เท่าของกำไรย้อนหลังตาม Trefis) ถ้าประมาณการถูกลดลงอีก หุ้นอาจโดนกดดันหนักขึ้น"
+                             "ความเสี่ยงที่โครงการระบบต้านโดรน Dedrone ของรัฐบาลกลางสหรัฐฯ จะล่าช้าหรือถูกยกเลิกเพิ่มเติม นอกเหนือจาก $130 ล้านที่เลื่อนออกจากปี 2026 แล้ว",
+                             "แรงกดดันต่อสภาพคล่องและความเสี่ยงด้านการบูรณาการธุรกิจ จากการจ่ายเงินสด ~90% ในดีลถือหุ้นข้างน้อย Skydio $1.2 พันล้าน ช่วงที่เป้า FCF ปี 2026 ลดเหลือ $350–$400 ล้าน",
+                             "อัตรากำไรขั้นต้นฝั่งฮาร์ดแวร์ถูกบีบจากราคาชิ้นส่วนหน่วยความจำที่สูงขึ้น สต็อกสินค้าคงคลังที่บวมขึ้น และค่าใช้จ่าย SG\u0026A ที่โตเร็วกว่ารายได้",
+                             "แรงตรวจสอบจากองค์กรสิทธิพลเมืองและข้อกฎหมายเรื่องความโปร่งใสของรายงานตำรวจที่สร้างด้วย AI (Draft One) ซึ่งอาจทำให้การอนุมัติสัญญาของหน่วยงานท้องถิ่นช้าลง"
                          ],
-               "summary":  "AXON อยู่ในขาลงที่ยืนยันแล้ว เส้น EMA ทุกเส้นอยู่เหนือราคาและเรียงตัวแบบขาลง MACD เป็นลบ และวันที่ 20 พ.ย. ปิดที่จุดต่ำสุดรอบ 52 สัปดาห์ราว USD 291 ด้วยวอลุ่มสูง แม้ RSI 27.93 จะบอกว่าอยู่ในเขต oversold แล้ว ข่าวอธิบายการร่วงได้ชัด ทั้งงบ Q3 ที่พลาดเป้า รายได้ Dedrone ราว USD 130M ที่เลื่อนออกไป ประมาณการเงินสดที่ลดลง และการลงทุน Skydio ก้อนใหญ่ คูเมืองหลักด้านซอฟต์แวร์ (ARR +40%, NRR 126%, backlog USD 15.8B) ยังดูแข็งแรง แต่ต้องจับตาการดำเนินงานฝั่งฮาร์ดแวร์และการจัดสรรเงินทุนใกล้ชิดขึ้น"
+               "summary":  "หุ้น Axon Enterprise (NASDAQ:AXON) ร่วงลงมาอยู่ที่ $307.60 ณ วันที่ 23 พ.ย. 2026 หรือลดลง 53.7% จากจุดสูงสุดรอบปี $665.07 หลังงบ Q3 2026 วันที่ 5 พ.ย. ต่ำกว่าคาดและบริษัทหั่นเป้าการเติบโตทั้งปีเหลือ ~30% เพราะงาน Dedrone ภาครัฐ $130 ล้านถูกเลื่อน ประกอบกับการลดเป้ากระแสเงินสดอิสระเหลือ $350–$400 ล้าน และปรับดีล Skydio $1.2 พันล้านเป็นจ่ายเงินสด ~90% อย่างไรก็ดี ธุรกิจหลักยังโตเด่น โดย Software \u0026 Services พุ่ง 43% YoY เป็น $437 ล้าน และ AI ARR ทะลุ $100 ล้าน คูเมืองระยะยาวยังแข็งแกร่งแม้กราฟจะเป็นขาลงชัดเจน",
+               "technical":  "ณ วันที่ 23 พ.ย. 2026 กราฟ AXON ยังอยู่ในขาลงเต็มรูปแบบ ราคาปิดที่ $307.60 อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบให้น้ำหนักล่าสุด (EMA) ทั้ง 3 เส้นและเรียงตัวแบบขาลงชัดเจน ได้แก่ EMA 50 ($392.18), EMA 100 ($434.59) และ EMA 200 ($474.76) ด้านโมเมนตัมยังอ่อนแรง โดย MACD (12/26/9 — เครื่องมือวัดทิศทางและแรงส่งจากส่วนต่างค่าเฉลี่ยระยะสั้นกับระยะยาว) ติดลบหนักที่ -33.01 ต่ำกว่าเส้น Signal (-31.39) และมีค่า Histogram -1.62 สะท้อนแรงขายยังคุมเกมแม้ความชันเริ่มชะลอ ส่วน RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 35.03 ใกล้เขตขายมากเกินไป ด้านความผันผวนยังสูงหลังงบออก ราคาเคลื่อนไหวในครึ่งล่างของกรอบ Bollinger Bands 20 วัน (แถบวัดความผันผวนรอบค่าเฉลี่ย 20 วัน) ระหว่างกรอบล่าง $236.98 กับเส้นกลาง $351.59 และอยู่โซนล่างสุด 5% ของกรอบรอบ 52 สัปดาห์ ($289.69–$665.07) จุดสำคัญคือการดีดตัว +5.65% วันที่ 23 พ.ย. มีวอลุ่มเพียง 1.26 ล้านหุ้น ต่ำกว่าค่าเฉลี่ย 20 วัน (1.75 ล้านหุ้น) ถึง 28% จึงยังไม่ยืนยันการกลับตัว แนวรับสำคัญอยู่ที่ $289.69 (ถัดไป $236.98) และแนวต้านที่ $351.59 กับ $392.18"
            },
     "sources":  [
                     {
-                        "title":  "Axon Enterprise Form 8-K Exhibit 99.1 – Q3 2026 Shareholder Letter",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001069183/000162828026071086/axon-20261105xex991.htm",
-                        "date":  "2026-11-05"
+                        "date":  "2026-11-05",
+                        "publisher":  "PR Newswire (Axon Enterprise)",
+                        "title":  "Axon Reports Record Q3 2026 Revenue of $909 Million, Up 28% Year Over Year",
+                        "url":  "https://www.prnewswire.com/news-releases/axon-reports-record-q3-2026-revenue-of-909-million-up-28-year-over-year-302919864.html"
                     },
                     {
-                        "title":  "Axon sinks to lowest in two years after Q3 miss, sales guidance cut on Dedrone deployment delays",
-                        "publisher":  "Seeking Alpha via TradingView",
-                        "url":  "https://www.tradingview.com/news/seekingalpha:1897253ab094b:0-axon-sinks-to-lowest-in-two-years-after-q3-miss-sales-guidance-cut-on-dedrone-deployment-delays/",
-                        "date":  "2026-11-06"
+                        "date":  "2026-11-05",
+                        "publisher":  "PR Newswire (Axon Enterprise)",
+                        "title":  "Axon Invests $1.2 Billion in Skydio to Build the Future of Drone as First Responder",
+                        "url":  "https://www.prnewswire.com/news-releases/axon-invests-1-2-billion-in-skydio-to-build-the-future-of-drone-as-first-responder-302974864.html"
                     },
                     {
-                        "title":  "Raymond James cuts Axon stock price target on federal delays",
-                        "publisher":  "Investing.com",
-                        "url":  "https://www.investing.com/news/analyst-ratings/raymond-james-cuts-axon-stock-price-target-on-federal-delays-93CH-5009043",
-                        "date":  "2026-11-06"
+                        "date":  "2026-10-24",
+                        "publisher":  "PR Newswire (Axon Enterprise)",
+                        "title":  "Axon Announces Body 5: Next-Generation Camera Built for the AI Era",
+                        "url":  "https://www.prnewswire.com/news-releases/axon-announces-body-5-next-generation-camera-built-for-the-ai-era-302286694.html"
                     },
                     {
-                        "title":  "Why Did Axon Stock Fall?",
-                        "publisher":  "Yahoo Finance (Trefis)",
-                        "url":  "https://finance.yahoo.com/markets/stocks/articles/why-did-axon-stock-fall-210622272.html",
-                        "date":  "2026-11-14"
+                        "date":  "2026-11-18",
+                        "publisher":  "U.S. SEC EDGAR",
+                        "title":  "Axon Enterprise, Inc. Form 8-K Filings (Skydio Investment Cash Consideration Update)",
+                        "url":  "https://www.sec.gov/edgar/browse/?CIK=0001069183"
                     },
                     {
-                        "title":  "Axon Enterprise Inc (AXON) Shares Fall 5.2% -- What GF Score of 80 Tells Investors",
-                        "publisher":  "GuruFocus",
-                        "url":  "https://www.gurufocus.com/news/9213624/axon-enterprise-inc-axon-shares-fall-52-what-gf-score-of-80-tells-investors",
-                        "date":  "2026-11-20"
-                    },
-                    {
-                        "title":  "Northland cuts Axon stock price target on revenue estimate reduction",
-                        "publisher":  "Investing.com",
-                        "url":  "https://www.investing.com/news/analyst-ratings/northland-cuts-axon-stock-price-target-on-revenue-estimate-reduction-93CH-5008708",
-                        "date":  "2026-11-06"
+                        "date":  "2026-11-05",
+                        "publisher":  "Axon Enterprise Investor Relations",
+                        "title":  "Axon Enterprise Q3 2026 Financial Results and Shareholder Letter",
+                        "url":  "https://investor.axon.com/"
                     }
                 ]
 }

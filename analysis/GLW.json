@@ -6,7 +6,7 @@
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-23T06:05:21Z",
+    "generatedAt":  "2026-11-24T04:00:24Z",
     "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
@@ -14,37 +14,33 @@
                        "symbol":  "NYSE:GLW",
                        "yahoo":  "GLW",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-23T06:00:10Z",
-                       "price":  94.38,
-                       "open":  103.11,
-                       "high":  103.88,
-                       "low":  93.49,
-                       "volume":  16243500,
-                       "avgVolume20":  10986880,
-                       "changePct":  -10.94,
-                       "historyDays":  501,
-                       "ema50":  130.51,
-                       "ema100":  141.81,
-                       "ema200":  140.58,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:56:12Z",
+                       "price":  108.31,
+                       "open":  107,
+                       "high":  112,
+                       "low":  104.5,
+                       "volume":  12847500,
+                       "avgVolume20":  10939235,
+                       "changePct":  14.76,
+                       "historyDays":  500,
+                       "ema50":  129.64,
+                       "ema100":  141.14,
+                       "ema200":  140.25,
                        "bb":  {
-                                  "upper":  135.74,
-                                  "middle":  116.02,
-                                  "lower":  96.29
+                                  "upper":  134.28,
+                                  "middle":  115.05,
+                                  "lower":  95.82
                               },
                        "macd":  {
-                                    "macd":  -9.26,
-                                    "signal":  -8.56,
-                                    "hist":  -0.7
+                                    "macd":  -8.72,
+                                    "signal":  -8.59,
+                                    "hist":  -0.13
                                 },
-                       "rsi14":  30.51,
+                       "rsi14":  42.67,
                        "high52w":  271.78,
                        "low52w":  77.39,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         200.76
-                                     ],
                                      [
                                          "2026-06-04",
                                          197.7
@@ -520,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          94.38
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         108.31
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          171.81,
                                           172.82,
                                           173.01,
                                           173.58,
@@ -642,121 +641,112 @@
                                           134.06,
                                           133.05,
                                           131.99,
-                                          130.51
+                                          130.51,
+                                          129.64
                                       ]
                    },
     "en":  {
-               "caution":  "Even after a 65% drop from June\u0027s peak, catching a falling stock carries timing risk while GLW trades well below all major moving averages on expanding volume. The unutilized $2 billion at-the-market equity program creates an ongoing dilution overhang whenever management raises capital to fund fiber factory expansions. Moreover, with nearly all profit growth concentrated in Optical Communications, any slowdown in hyperscaler AI capex or prolonged weakness in Glass Innovations and Solar could pressure earnings multiples further.",
+               "caution":  "Short-term volatility remains elevated because GLW trades as a high-beta proxy for AI infrastructure sentiment, as seen in the November 20 drop of 10.9% and November 23 surge of 14.76%. Until price reclaims the $115.05 Bollinger middle band and $129.64 EMA 50, rallies face heavy overhead supply from trapped buyers who entered near the $271.78 peak. Investors should also monitor whether Corning taps its $2 billion equity shelf, how quickly Solar reaches profitability, and whether hyperscaler data-center permitting delays slow 2027 fiber shipments.",
                "cons":  [
-                            "Shares remain in a steep downtrend, down 65.3% from June\u0027s $271.78 high and trading well below the EMA 50 ($130.51) and EMA 200 ($140.58).",
-                            "Corning\u0027s $2 billion at-the-market equity program announced on September 11, 2026 creates potential share dilution overhang even though no shares were sold through September 30.",
-                            "Growth is heavily skewed toward AI optics, while Glass Innovations sales fell 3% YoY to $1.51 billion and Solar posted a $7 million net loss in Q3 2026.",
-                            "High sensitivity to hyperscaler AI spending sentiment triggered a 10.94% single-day plunge on November 20, 2026 alongside optical peers."
+                            "Shares remain in a steep downtrend 60% off their $271.78 52-week high and 16%–23% below the EMA 50, EMA 100, and EMA 200.",
+                            "Full-year 2026 capital expenditures of roughly $2 billion and a September 2026 $2 billion at-the-market equity shelf weigh on near-term sentiment.",
+                            "Non-optical segments lag, with Glass Innovations sales slipping 3% year-over-year to $1.5 billion and Solar posting a $7 million net loss on slower factory ramps.",
+                            "Heavy correlation with AI hardware sentiment caused violent whipsaws, including a 10.9% single-day drop on November 20 before the November 23 rebound."
                         ],
-               "fundamental":  "Corning occupies a critical physical layer of the AI value chain, supplying high-density optical fiber, multicore cables, and GlassWorks AI connectivity needed as GPU clusters outgrow copper links. On October 27, 2026, Q3 core sales rose 19% YoY to $5.08 billion and core EPS jumped 36% to $0.91, with core gross margin reaching 40.5% and ROIC climbing to 16.7%. Optical Communications led with $2.38 billion in revenue (+44% YoY), driven by an 84% surge in Enterprise Networks and \u003e100% growth in Gen AI products. Management guided Q4 core sales to $5.2–$5.3 billion and core EPS to $0.96–$1.00. Multi-billion-dollar 2026 contracts with Meta, Verizon, and AT\u0026T reinforce Corning\u0027s materials-science and manufacturing scale moat, though softer Glass Innovations (-3% YoY) and a $7 million Solar loss show non-AI units remain uneven.",
-               "headline":  "Corning plunges 11% in tech selloff despite booming AI fiber earnings",
+               "fundamental":  "Corning\u0027s materials-science and optical-fiber scale moat is strengthening as AI clusters shift from copper to high-density fiber interconnects. On October 27, 2026, Q3 core sales rose 19% year-over-year to $5.08 billion and core EPS jumped 36% to $0.91, powered by Optical Communications growing 44% to $2.38 billion with $532 million in segment net income (+80%). Management guided Q4 core sales to $5.2–$5.3 billion and core EPS to $0.96–$1.00, keeping its \"20-30-40\" Springboard roadmap ($30 billion annualized sales by 2028, $40 billion by 2030, including a $10 billion Photonics target) ahead of pace. Multi-year agreements with Meta, NVIDIA, Verizon, and AT\u0026T include customer-funded capacity mechanisms that de-risk Corning\u0027s $2 billion 2026 CapEx plan, while Q3 adjusted free cash flow reached $661 million ($2.27 billion year-to-date). Glass Innovations ($1.5 billion sales) remains steady, and Solar ($436 million, +37%) is ramping under supportive U.S. Section 232 trade policy.",
+               "headline":  "Strong AI optical growth stays intact despite steep technical downtrend",
                "news":  [
-                            "Nov 20, 2026 — GLW tumbled 10.94% to $94.38 on 1.48x normal volume despite no adverse company filing, caught in a broad AI-hardware selloff that also hit optical peers Coherent and Credo.",
-                            "Nov 11, 2026 — Jefferies initiated coverage with a Buy rating and $134 target on long-term data-center fiber demand, following Fox Advisors\u0027 November 5 upgrade to Overweight and Bernstein\u0027s November target trim to $120.",
-                            "Oct 29, 2026 — Corning\u0027s Q3 Form 10-Q confirmed zero shares were sold through September 30 under the $2 billion Goldman Sachs at-the-market equity program announced on September 11, though the shelf remains active.",
-                            "Oct 27, 2026 — Corning beat Q3 2026 guidance with $5.08 billion in core sales (+19% YoY) and $0.91 core EPS (+36% YoY), led by a 44% jump in Optical Communications, and guided Q4 core EPS to $0.96–$1.00.",
-                            "Oct 27, 2026 (Q3 update) — Management highlighted four multi-billion-dollar optical deals signed during Q3, notably September\u0027s agreements with Verizon (\u003e80 million fiber miles for 2027–2032) and AT\u0026T (\u003e$3 billion)."
+                            "October 27, 2026: Corning beat Q3 2026 expectations with core sales up 19% year-over-year to $5.08 billion, core EPS up 36% to $0.91, and Optical Communications surging 44% to $2.38 billion; however, shares slipped as investors scrutinized its $2 billion 2026 CapEx plan and valuation.",
+                            "October 28 – November 17, 2026: Wall Street actions turned mixed after earnings—Jefferies initiated coverage with a Buy rating ($134 target) on November 11 citing optical-fiber supply tightness and Fox Advisors upgraded to Outperform on November 5, while UBS ($192), Truist ($175), Morgan Stanley ($155), and Bernstein ($120, Market Perform) trimmed targets on multiple compression.",
+                            "November 13, 2026: Shares traded ex-dividend for Corning\u0027s regular $0.28 per share quarterly cash dividend ($1.12 annualized), scheduled for payment on December 11, 2026.",
+                            "November 11–23, 2026: Leadership turmoil at strategic optical-manufacturing partner NVIDIA—where CEO Jensen Huang stepped down mid-month before being reinstated by the board on November 23—whipsawed AI hardware stocks, driving GLW down 10.9% on November 20 before a +14.76% relief rebound on November 23."
                         ],
-               "opportunity":  "For long-term AI-infrastructure holders, the market\u0027s sharp multiple reset has separated GLW\u0027s share price from accelerating fundamentals. Optical Communications is expanding margins rapidly as AI clusters shift from copper to high-density fiber, and long-term commitments from Meta, Verizon, and AT\u0026T provide rare multi-year revenue visibility through 2030–2032. As fiber penetrates deeper inside data-center racks via multicore cables and co-packaged optics later this decade, Corning\u0027s U.S. and European manufacturing scale positions it as a durable physical bottleneck beneficiary once technical selling exhausts itself.",
-               "opportunityCheck":  "The current AI-opportunity sub-scores understate Corning\u0027s AI revenue exposure and slightly undervalue its bottleneck pricing power. With Q3 2026 Optical Communications reaching $2.38 billion—nearly half of total core sales—and Gen AI products more than doubling year-over-year, AI infrastructure is now the primary profit driver rather than a secondary contributor, so AI revenue exposure should move meaningfully higher. Bottleneck and pricing power also warrant a modest lift, as 80% segment profit growth and multi-year supply commitments from Meta, Verizon, and AT\u0026T prove tight fiber capacity. Market growth, competitive position, and optionality look appropriately calibrated.",
+               "opportunity":  "The 60% drawdown from mid-2026 highs has compressed valuation multiples sharply while Corning\u0027s underlying earnings power accelerated to an annualized run rate above $20 billion. Multi-year supply commitments from Meta, NVIDIA, Verizon, and AT\u0026T provide rare revenue visibility and shared capital risk across U.S. optical expansions, while emerging co-packaged optics under the Photonics platform add long-term upside. Technically, defending the $95.82 lower Bollinger Band with a narrowing MACD histogram signals early base-building if broader AI-infrastructure sentiment stabilizes ahead of Q4 earnings on January 27, 2027.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile looks slightly conservative on two fronts after Q3 2026 results. AI revenue exposure should move higher: Optical Communications now represents nearly half of total core sales at $2.38 billion, with Gen-AI enterprise sales more than doubling and anchoring management\u0027s $40 billion 2030 Springboard target. Bottleneck and pricing power also deserves a modest upward revision, given tight fiber supply, customer-funded capacity agreements with Meta, NVIDIA, Verizon, and AT\u0026T, and a 310 basis-point jump in core operating margin to 22.7%. Market growth, market position, and optionality look appropriately calibrated.",
                "pros":  [
-                            "Optical Communications sales jumped 44% year-over-year to $2.38 billion in Q3 2026, with Gen AI fiber products growing over 100% and segment net income surging 80% to $532 million.",
-                            "Management guided Q4 2026 core sales to $5.2–$5.3 billion (+19% YoY) and core EPS to $0.96–$1.00 (+36% YoY) after beating Q3 consensus at $0.91.",
-                            "Multi-year fiber agreements signed in 2026 with Meta (up to $6 billion), Verizon (over 80 million miles through 2032), and AT\u0026T (over $3 billion) lock in long-term demand.",
-                            "Core operating margin expanded 310 basis points to 22.7% in Q3 2026, while adjusted free cash flow reached $661 million."
+                            "Q3 2026 core sales grew 19% year-over-year to $5.08 billion and core EPS rose 36% to $0.91, with Q4 guidance projecting another 19% sales gain.",
+                            "Optical Communications surged 44% year-over-year to $2.38 billion in Q3 2026, led by Generative AI enterprise sales more than doubling.",
+                            "Multi-year customer-backed deals with Meta ($6 billion), NVIDIA (up to $3.2 billion equity/capacity pact), Verizon, and AT\u0026T ($3 billion+) lock in optical demand.",
+                            "Core operating margin expanded 310 basis points year-over-year to 22.7%, lifting Q3 adjusted free cash flow to $661 million."
                         ],
                "risks":  [
-                             "Hyperscaler AI data-center capex digestion or order deferrals",
-                             "Potential share dilution from the active $2 billion at-the-market equity program",
-                             "Heavy capital expenditures for North Carolina and Poland fiber plant expansions pressuring near-term free cash flow",
-                             "Continued profit drag in Glass Innovations (TV/smartphone glass) and Solar ramp-up losses",
-                             "High valuation beta causing sharp drawdowns during broader tech sector selloffs"
+                             "Sustained technical downtrend below the EMA 50 ($129.64), EMA 100 ($141.14), and EMA 200 ($140.25) with heavy overhead resistance.",
+                             "Capital intensity ($2 billion FY2026 CapEx) and potential dilution overhang from the September 2026 $2 billion at-the-market equity program.",
+                             "Customer concentration and hyperscaler AI data-center spending or permitting delays affecting optical fiber order timing.",
+                             "Execution drag in non-optical units, including slower factory ramps in Solar ($7 million Q3 net loss) and soft Glass Innovations demand (-3% YoY)."
                          ],
-               "summary":  "Corning (GLW) fell 10.94% to $94.38 on November 20, 2026, extending a 65% retreat from its June 30 peak of $271.78 during a broad AI hardware selloff. Technically, the posture is bearish, with shares below all major moving averages and sitting just above oversold territory. Fundamentally, however, the long-term moat remains intact: Q3 2026 results on October 27 beat estimates as Optical Communications surged 44% year-over-year to $2.38 billion and Gen AI product sales more than doubled. The drop reflects valuation compression and capital-raising overhang rather than operational weakness.",
-               "technical":  "GLW closed at $94.38 on November 20, 2026, down 10.94% on the day, confirming a firmly bearish technical trend. Price sits far below all three exponential moving averages (EMAs, trend-tracking averages): EMA 50 ($130.51), EMA 100 ($141.81), and EMA 200 ($140.58). With EMA 50 already below EMA 200 and EMA 100 rolling over, the medium- and long-term trend remains downward. Momentum confirms selling pressure: MACD (a trend-momentum spread) stands at -9.26 below its -8.56 signal line, leaving a negative -0.70 histogram. Meanwhile, RSI 14 (a 0–100 momentum gauge where under 30 signals oversold conditions) has dropped to 30.51, showing stretched near-term selling without a reversal signal yet. Volatility is elevated: GLW closed below its lower Bollinger Band ($96.29; middle $116.02, upper $135.74)—a volatility channel measuring price stretch—and sits in the bottom 9% of its 52-week range ($77.39–$271.78). Volume of 16.24 million shares ran 48% above the 20-day average (10.99 million), confirming distribution. Near-term support sits at the $93.49 intraday low and $77.39 52-week low, while resistance lies at $96.29, $116.02, and $130.51."
+               "summary":  "Corning (GLW) rallied 14.76% to $108.31 on November 23, 2026, riding a relief surge after strategic partner NVIDIA reinstated CEO Jensen Huang, yet shares remain 60% below their $271.78 52-week high. Fundamentals remain robust: Q3 2026 results on October 27 beat guidance as core sales rose 19% year-over-year to $5.08 billion and Optical Communications jumped 44% to $2.38 billion. While technicals remain bearish beneath all key moving averages, Corning\u0027s multi-year AI fiber contracts keep its long-term moat firmly intact.",
+               "technical":  "Corning\u0027s technical posture remains bearish despite the sharp +14.76% rebound to $108.31 on November 23, 2026. Price sits well below all three exponential moving averages (EMAs, which track weighted average price trends): EMA 50 ($129.64), EMA 100 ($141.14), and EMA 200 ($140.25). With EMA 50 below EMA 200—a bearish crossover—the primary and intermediate trends point downward. Momentum is stabilizing but not yet positive: MACD (12/26/9, a trend-momentum gauge) sits deeply negative at -8.72 versus its -8.59 signal line, though the narrowing -0.13 histogram hints at fading selling pressure. RSI 14 (a 0–100 momentum oscillator where below 30 signals oversold conditions) recovered to 42.67, still shy of the neutral 50 mark. Within Bollinger Bands (20-day, 2 standard deviations, measuring volatility channels), GLW bounced off the $95.82 lower band but stays below the $115.05 middle band, which acts as initial resistance alongside the $129.64 EMA 50. At just 16% above its $77.39 52-week low and 60% below its $271.78 peak, volume of 12.85 million shares—17% above the 10.94 million 20-day average—offers moderate confirmation of dip-buying near $95–$105 support."
            },
     "th":  {
-               "caution":  "แม้ว่าราคาหุ้นจะปรับฐานลงมาแล้วถึง 65% จากจุดสูงสุดในเดือนมิถุนายน แต่การรับมีดในช่วงที่หุ้นยังหลุดต่ำกว่าเส้นค่าเฉลี่ยหลักทั้งหมดพร้อมวอลุ่มขายสูงยังมีความเสี่ยงด้านจังหวะเวลา โครงการขายหุ้นเพิ่มทุนแบบทยอยขาย (ATM) วงเงิน $2 พันล้านที่ยังเปิดอยู่เป็นแรงกดดันด้าน dilution หากบริษัทต้องการเงินทุนขยายโรงงานไฟเบอร์เพิ่ม นอกจากนี้ เมื่อกำไรเกือบทั้งหมดพึ่งพา Optical Communications หากกลุ่ม hyperscaler ชะลองบลงทุน AI หรือธุรกิจ Glass Innovations และ Solar อ่อนแอต่อ ตลาดอาจกด valuation ลงได้อีก",
+               "caution":  "ความผันผวนระยะสั้นยังสูงมาก เพราะ GLW เคลื่อนไหวตามอารมณ์ตลาดหุ้นโครงสร้างพื้นฐาน AI อย่างรุนแรง ดังเห็นจากการร่วง 10.9% วันที่ 20 พ.ย. แล้วดีดกลับ 14.76% วันที่ 23 พ.ย. ตราบใดที่ราคายังไม่ผ่านเส้นกลาง Bollinger Bands ($115.05) และ EMA 50 ($129.64) การรีบาวด์มีโอกาสเผชิญแรงขายจากนักลงทุนที่ติดอยู่ใกล้จุดสูงสุด $271.78 นอกจากนี้ควรติดตามว่าบริษัทจะใช้โครงการขายหุ้นเพิ่มทุน $2 พันล้านหรือไม่ รวมถึงความเร็วในการพลิกกำไรของธุรกิจ Solar และความเสี่ยงการเลื่อนโครงการดาต้าเซ็นเตอร์ในปี 2027",
                "cons":  [
-                            "แนวโน้มกราฟยังเป็นขาลงชัดเจน โดยร่วงลง 65.3% จากจุดสูงสุดเดือนมิถุนายนที่ $271.78 และอยู่ต่ำกว่า EMA 50 ($130.51) กับ EMA 200 ($140.58) มาก",
-                            "โครงการทยอยขายหุ้นเพิ่มทุน (ATM) วงเงิน $2 พันล้านที่ประกาศเมื่อ 11 ก.ย. 2026 สร้างความกังวลด้าน dilution แม้จะยังไม่มีการขายหุ้นจริงจนถึงสิ้น ก.ย.",
-                            "การเติบโตกระจุกตัวในธุรกิจไฟเบอร์ AI ขณะที่ Glass Innovations ยอดขายลดลง 3% YoY เหลือ $1.51 พันล้าน และ Solar ยังขาดทุนสุทธิ $7 ล้านใน Q3 2026",
-                            "หุ้นอ่อนไหวสูงต่อกระแสการลงทุน AI ทำให้ร่วงแรงถึง 10.94% ในวันเดียวเมื่อ 20 พ.ย. 2026 ตามแรงเทขายกลุ่มออปติคอลทั้งอุตสาหกรรม"
+                            "ราคาหุ้นยังอยู่ในแนวโน้มขาลงลึก ร่วงจากจุดสูงสุดรอบ 52 สัปดาห์ที่ $271.78 ถึง 60% และต่ำกว่า EMA 50, EMA 100 และ EMA 200 อยู่ 16%–23%",
+                            "แผนงบลงทุนปี 2026 ราว $2 พันล้าน และโครงการเปิดช่องออกหุ้นเพิ่มทุน (ATM) มูลค่า $2 พันล้านเมื่อ ก.ย. 2026 กดดันความเชื่อมั่นระยะสั้น",
+                            "ธุรกิจนอกกลุ่มสายใยแก้วนำแสงยังชะลอตัว โดย Glass Innovations ลดลง 3% YoY เหลือ $1.5 พันล้าน และ Solar ขาดทุนสุทธิ $7 ล้านจากการเร่งกำลังผลิตที่ช้ากว่าคาด",
+                            "ราคาหุ้นผันผวนรุนแรงตามเซนติเมนต์ฮาร์ดแวร์ AI โดยเพิ่งร่วง 10.9% ในวันเดียวเมื่อ 20 พ.ย. ก่อนดีดกลับวันที่ 23 พ.ย."
                         ],
-               "fundamental":  "Corning ครองจุดสำคัญในโครงสร้างพื้นฐานกายภาพของห่วงโซ่มูลค่า AI ผ่านสายไฟเบอร์ความหนาแน่นสูง สายแบบ multicore และชุดเชื่อมต่อ GlassWorks AI เมื่อคลัสเตอร์ GPU เริ่มเกินขีดจำกัดของสายทองแดง งบ Q3 2026 เมื่อ 27 ต.ค. รายงานยอดขาย core โต 19% YoY เป็น $5.08 พันล้าน และ core EPS พุ่ง 36% เป็น $0.91 โดยอัตรากำไรขั้นต้น core แตะ 40.5% และ ROIC ขยับเป็น 16.7% กลุ่ม Optical Communications ทำรายได้ $2.38 พันล้าน (+44% YoY) จาก Enterprise Networks ที่โต 84% และสินค้า Gen AI ที่โตเกิน 100% ผู้บริหารคาด Q4 รายได้ $5.2–$5.3 พันล้าน และ core EPS $0.96–$1.00 สัญญาระยะยาวหลายพันล้านดอลลาร์กับ Meta, Verizon และ AT\u0026T ยิ่งตอกย้ำปราการด้านวัสดุศาสตร์และกำลังการผลิต แม้ธุรกิจเดิมอย่าง Glass Innovations (-3% YoY) และ Solar (ขาดทุน $7 ล้าน) จะยังชะลอตัวก็ตาม",
-               "headline":  "Corning ร่วง 11% ตามแรงเทขายกลุ่มเทค แม้งบไฟเบอร์ AI โตแกร่ง",
+               "fundamental":  "ความได้เปรียบเชิงโครงสร้างด้านวัสดุศาสตร์และขนาดกำลังผลิตสายใยแก้วนำแสงของ Corning แข็งแกร่งขึ้นชัดเจนเมื่อดาต้าเซ็นเตอร์ AI เปลี่ยนจากสายทองแดงสู่การเชื่อมต่อแบบออปติคอลความหนาแน่นสูง งบ Q3 2026 (27 ต.ค.) รายได้หลักโต 19% YoY เป็น $5.08 พันล้าน และ Core EPS โต 36% เป็น $0.91 โดยกลุ่ม Optical Communications พุ่ง 44% เป็น $2.38 พันล้าน และทำกำไรสุทธิกลุ่มถึง $532 ล้าน (+80%) ผู้บริหารคาด Q4 รายได้หลัก $5.2–$5.3 พันล้าน และ Core EPS $0.96–$1.00 ช่วยให้แผน \"20-30-40\" Springboard (เป้าอัตราส่วนรายได้ต่อปี $30 พันล้านในปี 2028 และ $40 พันล้านในปี 2030 รวมถึงกลุ่ม Photonics $10 พันล้าน) เดินหน้าเร็วกว่าแผน สัญญาระยะยาวกับ Meta, NVIDIA, Verizon และ AT\u0026T ที่มีลูกค้าร่วมลงขันขยายโรงงานช่วยลดความเสี่ยงจากงบลงทุน $2 พันล้านในปี 2026 ขณะที่กระแสเงินสดอิสระปรับปรุง Q3 อยู่ที่ $661 ล้าน (9 เดือน $2.27 พันล้าน) ด้าน Glass Innovations ($1.5 พันล้าน) ทรงตัว ส่วน Solar ($436 ล้าน, +37%) กำลังทยอยเร่งผลิตภายใต้แรงหนุนจากมาตรการภาษี Section 232 ของสหรัฐฯ",
+               "headline":  "ธุรกิจไฟเบอร์ AI ยังโตแกร่ง แม้กราฟเทคนิคยังเป็นขาลงชัดเจน",
                "news":  [
-                            "20 พ.ย. 2026 — หุ้น GLW ร่วง 10.94% ปิดที่ $94.38 ด้วยวอลุ่มสูงกว่าปกติ 1.48 เท่าแม้ไม่มีข่าวลบเฉพาะบริษัท โดยถูกเทขายตามกลุ่มฮาร์ดแวร์ AI และหุ้นออปติคอลอย่าง Coherent และ Credo",
-                            "11 พ.ย. 2026 — Jefferies เริ่มบทวิเคราะห์ด้วยคำแนะนำ Buy เป้า $134 จากดีมานด์ไฟเบอร์ดาต้าเซ็นเตอร์ ตามหลัง Fox Advisors ที่ปรับขึ้นเป็น Overweight (5 พ.ย.) ขณะที่ Bernstein หั่นเป้าลงเป็น $120 ในเดือน พ.ย.",
-                            "29 ต.ค. 2026 — แบบฟอร์ม 10-Q ไตรมาส 3 ยืนยันว่ายังไม่มีการออกขายหุ้นภายใต้โครงการ ATM วงเงิน $2 พันล้านกับ Goldman Sachs (ประกาศ 11 ก.ย.) จนถึงสิ้น ก.ย. 2026 แต่วงเงินยังคงเปิดใช้งานอยู่",
-                            "27 ต.ค. 2026 — งบ Q3 2026 ออกมาดีกว่าคาดการณ์ด้วยยอดขาย core $5.08 พันล้าน (+19% YoY) และ core EPS $0.91 (+36% YoY) นำโดย Optical Communications ที่โต 44% พร้อมให้เป้างบ Q4 core EPS ที่ $0.96–$1.00",
-                            "27 ต.ค. 2026 (อัปเดตงบ Q3) — ผู้บริหารระบุว่าเซ็นสัญญาไฟเบอร์ระดับหลายพันล้านดอลลาร์เพิ่มถึง 4 ดีลใน Q3 โดยเฉพาะดีลเดือน ก.ย. กับ Verizon (กว่า 80 ล้านไมล์ ช่วงปี 2027–2032) และ AT\u0026T (กว่า $3 พันล้าน)"
+                            "27 ต.ค. 2026: Corning ประกาศงบ Q3 2026 ดีกว่าคาด โดยรายได้หลักโต 19% YoY เป็น $5.08 พันล้าน Core EPS โต 36% เป็น $0.91 และกลุ่ม Optical Communications พุ่ง 44% เป็น $2.38 พันล้าน แต่ราคาหุ้นอ่อนตัวลงจากความกังวลเรื่องงบลงทุนปี 2026 มูลค่า $2 พันล้านและระดับมูลค่าหุ้นที่เคยตึงตัว",
+                            "28 ต.ค. – 17 พ.ย. 2026: นักวิเคราะห์วอลล์สตรีทปรับมุมมองผสมผสานหลังงบ โดย Jefferies เริ่มให้คำแนะนำ Buy (เป้า $134) วันที่ 11 พ.ย. จากภาวะสายใยแก้วนำแสงตึงตัว และ Fox Advisors ปรับขึ้นเป็น Outperform วันที่ 5 พ.ย. ขณะที่ UBS ($192), Truist ($175), Morgan Stanley ($155) และ Bernstein ($120, Market Perform) ปรับลดราคาเป้าหมายตามการหดตัวของค่า P/E ตลาด",
+                            "13 พ.ย. 2026: หุ้นขึ้นเครื่องหมาย XD สำหรับเงินปันผลประจำไตรมาสที่ $0.28 ต่อหุ้น (คิดเป็น $1.12 ต่อปี) โดยมีกำหนดจ่ายเงินปันผลในวันที่ 11 ธ.ค. 2026",
+                            "11–23 พ.ย. 2026: ความปั่นป่วนด้านผู้บริหารของพันธมิตรสำคัญอย่าง NVIDIA หลัง Jensen Huang ลงจากตำแหน่งกลางเดือนก่อนที่บอร์ดจะมีมติคืนตำแหน่ง CEO ในวันที่ 23 พ.ย. ทำให้หุ้นฮาร์ดแวร์ AI เหวี่ยงแรง โดย GLW ร่วง 10.9% วันที่ 20 พ.ย. แล้วดีดกลับ +14.76% วันที่ 23 พ.ย."
                         ],
-               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI การปรับลดมูลค่าครั้งใหญ่ทำให้ราคาหุ้น GLW แยกขาดจากพื้นฐานที่กำลังเร่งตัว ธุรกิจ Optical Communications กำลังขยายมาร์จิ้นรวดเร็วตามการเปลี่ยนผ่านจากสายทองแดงสู่ไฟเบอร์ในคลัสเตอร์ AI พร้อมสัญญาระยะยาวกับ Meta, Verizon และ AT\u0026T ที่ช่วยล็อกฐานรายได้ไปจนถึงปี 2030–2032 เมื่อสายไฟเบอร์ขยายลึกเข้าไปถึงระดับแร็คเซิร์ฟเวอร์ผ่าน multicore fiber และ co-packaged optics ในช่วงปลายทศวรรษ กำลังการผลิตในสหรัฐฯ และยุโรปของ Corning จะเป็นจุดคอขวดสำคัญที่ได้เปรียบเมื่อแรงขายทางเทคนิคเริ่มคลี่คลาย",
-               "opportunityCheck":  "คะแนนย่อยโอกาส AI ปัจจุบันประเมินสัดส่วนรายได้จาก AI ของ Corning ต่ำเกินไป และให้คะแนนอำนาจต่อรองจากจุดคอขวดต่ำกว่าความเป็นจริงเล็กน้อย เมื่อ Optical Communications ใน Q3 2026 แตะ $2.38 พันล้านหรือเกือบครึ่งหนึ่งของรายได้ core ทั้งหมด และยอดขายสินค้า Gen AI โตกว่าเท่าตัว โครงสร้างพื้นฐาน AI จึงกลายเป็นเครื่องยนต์ทำกำไรหลักแล้วและควรปรับเพิ่มคะแนนสัดส่วนรายได้ AI อย่างมีนัยสำคัญ ส่วนคะแนนคอขวดและอำนาจตั้งราคาก็ควรขยับขึ้นเช่นกัน เพราะกำไรกลุ่มนี้พุ่งถึง 80% พร้อมสัญญาระยะยาวจาก Meta, Verizon และ AT\u0026T สะท้อนอุปทานไฟเบอร์ที่ตึงตัว ขณะที่การเติบโตของตลาด ตำแหน่งการแข่งขัน และโอกาสต่อยอดถือว่าสมเหตุสมผลแล้ว",
+               "opportunity":  "การปรับฐานกว่า 60% จากจุดสูงสุดกลางปี 2026 ช่วยลดความตึงตัวของมูลค่าหุ้นลงมาก สวนทางกับฐานกำไรที่เร่งตัวสู่ระดับยอดขายเกิน $20 พันล้านต่อปี สัญญาระยะยาวกับ Meta, NVIDIA, Verizon และ AT\u0026T ช่วยสร้างความชัดเจนของรายได้และแบ่งเบาภาระเงินลงทุนขยายโรงงานในสหรัฐฯ พร้อมแรงหนุนระยะยาวจากเทคโนโลยี Photonics และ co-packaged optics ในเชิงเทคนิค การดีดตัวจากกรอบล่าง Bollinger Bands ที่ $95.82 พร้อม MACD histogram ที่แคบลงเป็นสัญญาณเริ่มต้นของการสร้างฐาน หากอารมณ์ตลาดกลุ่มโครงสร้างพื้นฐาน AI นิ่งขึ้นก่อนประกาศงบ Q4 วันที่ 27 ม.ค. 2027",
+               "opportunityCheck":  "คะแนนโอกาสด้าน AI บนหน้าเว็บยังดูอนุรักษนิยมเล็กน้อยในสองมิติหลังเห็นงบ Q3 2026 ด้านสัดส่วนรายได้ AI ควรขยับขึ้น เพราะกลุ่ม Optical Communications คิดเป็นเกือบครึ่งหนึ่งของรายได้หลักทั้งหมดที่ $2.38 พันล้าน โดยยอดขาย Gen-AI สำหรับองค์กรโตเกินเท่าตัวและเป็นหัวหอกสู่เป้า Springboard $40 พันล้านในปี 2030 ส่วนด้านคอขวดและอำนาจการตั้งราคาก็สมควรปรับเพิ่มเล็กน้อย จากภาวะอุปทานสายไฟเบอร์ตึงตัว สัญญาที่ลูกค้าร่วมลงขันขยายกำลังผลิตกับ Meta, NVIDIA, Verizon และ AT\u0026T รวมถึงอัตรากำไรจากการดำเนินงานหลักที่พุ่งขึ้น 310 bps เป็น 22.7% ขณะที่การเติบโตของตลาด ตำแหน่งทางการแข่งขัน และทางเลือกธุรกิจใหม่ถือว่าประเมินได้เหมาะสมแล้ว",
                "pros":  [
-                            "รายได้ Optical Communications พุ่ง 44% YoY แตะ $2.38 พันล้านใน Q3 2026 โดยสินค้าไฟเบอร์ Gen AI โตเกิน 100% และกำไรสุทธิกลุ่มนี้พุ่ง 80% เป็น $532 ล้าน",
-                            "ผู้บริหารให้เป้า Q4 2026 ยอดขาย core ที่ $5.2–$5.3 พันล้าน (+19% YoY) และ core EPS ที่ $0.96–$1.00 (+36% YoY) หลังงบ Q3 ออกมาดีกว่าคาดที่ $0.91",
-                            "สัญญาระยะยาวในปี 2026 กับ Meta (สูงสุด $6 พันล้าน), Verizon (กว่า 80 ล้านไมล์ถึงปี 2032) และ AT\u0026T (กว่า $3 พันล้าน) ช่วยสร้างความชัดเจนของรายได้หลายปีข้างหน้า",
-                            "อัตรากำไรจากการดำเนินงาน core ขยายตัว 310 bps แตะ 22.7% ใน Q3 2026 พร้อมกระแสเงินสดอิสระปรับปรุงแล้ว $661 ล้าน"
+                            "งบ Q3 2026 รายได้หลักโต 19% YoY เป็น $5.08 พันล้าน และ Core EPS พุ่ง 36% เป็น $0.91 พร้อมแนวโน้ม Q4 ที่คาดรายได้โตต่ออีกราว 19%",
+                            "กลุ่ม Optical Communications โตแรง 44% YoY เป็น $2.38 พันล้านใน Q3 2026 นำโดยยอดขายผลิตภัณฑ์ Generative AI ที่โตเกิน 100%",
+                            "สัญญาระยะยาวกับลูกค้ารายใหญ่ทั้ง Meta ($6 พันล้าน), NVIDIA (ความร่วมมือขยายโรงงานและสิทธิถือหุ้นสูงสุด $3.2 พันล้าน), Verizon และ AT\u0026T (กว่า $3 พันล้าน) ช่วยล็อกคำสั่งซื้อล่วงหน้า",
+                            "อัตรากำไรจากการดำเนินงานหลักขยายตัว 310 bps YoY สู่ 22.7% หนุนกระแสเงินสดอิสระปรับปรุง Q3 แตะ $661 ล้าน"
                         ],
                "risks":  [
-                             "ความเสี่ยงที่กลุ่ม hyperscaler ชะลอหรือเลื่อนงบลงทุนดาต้าเซ็นเตอร์ AI",
-                             "ความเสี่ยงด้าน share dilution จากโครงการทยอยขายหุ้นเพิ่มทุน ATM วงเงิน $2 พันล้านที่ยังเปิดอยู่",
-                             "งบลงทุนก่อสร้างโรงงานไฟเบอร์ในสหรัฐฯ และโปแลนด์ที่สูงอาจกดดันกระแสเงินสดอิสระระยะสั้น",
-                             "แรงฉุดจากธุรกิจ Glass Innovations (กระจกทีวีและสมาร์ตโฟน) ที่ซบเซาและธุรกิจ Solar ที่ยังขาดทุนช่วงเร่งผลิต",
-                             "ค่าเบต้าของ valuation ที่สูงทำให้หุ้นผันผวนรุนแรงเมื่อตลาดหุ้นเทคปรับฐาน"
+                             "โครงสร้างกราฟยังเป็นขาลงใต้เส้น EMA 50 ($129.64), EMA 100 ($141.14) และ EMA 200 ($140.25) โดยมีแนวต้านด้านบนหนาแน่น",
+                             "ภาระงบลงทุนสูง ($2 พันล้านในปี 2026) และความกังวลเรื่อง dilution จากโครงการออกหุ้นเพิ่มทุน ATM มูลค่า $2 พันล้านเมื่อ ก.ย. 2026",
+                             "การพึ่งพาลูกค้าไฮเปอร์สเกลเลอร์และความเสี่ยงหากการอนุมัติหรือการใช้จ่ายสร้างดาต้าเซ็นเตอร์ AI ชะลอตัว",
+                             "แรงฉุดจากธุรกิจนอกกลุ่มออปติคอล ทั้งโรงงาน Solar ที่ยังเร่งผลิตช้า (ขาดทุนสุทธิ $7 ล้านใน Q3) และยอดขาย Glass Innovations ที่ลดลง 3% YoY"
                          ],
-               "summary":  "หุ้น Corning (GLW) ร่วง 10.94% ปิดที่ $94.38 เมื่อวันที่ 20 พ.ย. 2026 รวมปรับฐานลงแล้ว 65% จากจุดสูงสุดวันที่ 30 มิ.ย. ที่ $271.78 ท่ามกลางแรงเทขายกลุ่มฮาร์ดแวร์ AI ภาพเทคนิคยังเป็นขาลงชัดเจน โดยราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยหลักทั้งหมดและเข้าใกล้เขตขายมากเกินไป แต่พื้นฐานและปราการธุรกิจระยะยาวยังแข็งแกร่ง หลังงบ Q3 2026 วันที่ 27 ต.ค. ออกมาดีกว่าคาดจาก Optical Communications ที่โต 44% YoY แตะ $2.38 พันล้าน และสินค้า Gen AI โตกว่าเท่าตัว การปรับลงจึงมาจากการลดพีอีและกังวลเรื่องเพิ่มทุนมากกว่าพื้นฐานเสื่อมถอย",
-               "technical":  "GLW ปิดที่ $94.38 เมื่อ 20 พ.ย. 2026 ลดลง 10.94% ในวันเดียว ยืนยันแนวโน้มเทคนิคขาลงชัดเจน ราคาอยู่ต่ำกว่าเส้น EMA (เส้นค่าเฉลี่ยเคลื่อนที่บอกแนวโน้ม) ทั้ง 3 เส้นมาก ได้แก่ EMA 50 ($130.51), EMA 100 ($141.81) และ EMA 200 ($140.58) โดย EMA 50 ตัดลงต่ำกว่า EMA 200 ไปแล้ว ขณะที่ EMA 100 กำลังหักหัวลง สะท้อนขาลงทั้งระยะกลางและยาว ด้านโมเมนตัม MACD (ตัวชี้วัดโมเมนตัมแนวโน้ม) อยู่ที่ -9.26 ต่ำกว่าเส้น signal ที่ -8.56 และ histogram ติดลบ -0.70 แรงขายยังคุมตลาด ส่วน RSI 14 (ดัชนีวัดแรงซื้อขายช่วง 0–100 ต่ำกว่า 30 คือเขตขายมากเกินไป) ลดลงมาที่ 30.51 สะท้อนแรงขายที่ตึงตัวแต่ยังไม่เกิดสัญญาณกลับตัว ด้านความผันผวนราคาปิดหลุดกรอบล่างของ Bollinger Bands ($96.29; เส้นกลาง $116.02 กรอบบน $135.74) ซึ่งเป็นกรอบวัดการเหวี่ยงของราคา และอยู่ในโซนล่าง 9% ของกรอบรอบ 52 สัปดาห์ ($77.39–$271.78) วอลุ่ม 16.24 ล้านหุ้นสูงกว่าค่าเฉลี่ย 20 วัน (10.99 ล้านหุ้น) ถึง 48% ยืนยันแรงขายหนัก แนวรับใกล้สุดอยู่ที่จุดต่ำสุดระหว่างวัน $93.49 และฐาน 52 สัปดาห์ $77.39 ส่วนแนวต้านอยู่ที่ $96.29, $116.02 และ $130.51"
+               "summary":  "Corning (GLW) พุ่งแรง 14.76% ปิดที่ $108.31 เมื่อวันที่ 23 พ.ย. 2026 ตามแรงฟื้นตัวหลังพันธมิตรสำคัญอย่าง NVIDIA คืนตำแหน่ง CEO ให้ Jensen Huang แต่ราคายังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($271.78) ถึง 60% ด้านพื้นฐานยังแกร่ง โดยงบ Q3 2026 (27 ต.ค.) ดีกว่าคาด รายได้หลักโต 19% YoY แตะ $5.08 พันล้าน และกลุ่ม Optical Communications พุ่ง 44% เป็น $2.38 พันล้าน แม้กราฟเทคนิคยังเป็นขาลงใต้เส้นค่าเฉลี่ยหลักทั้งหมด แต่สัญญาไฟเบอร์ AI ระยะยาวทำให้ปราการธุรกิจยังแข็งแกร่งเหมือนเดิม",
+               "technical":  "ภาพรวมเทคนิคของ GLW ยังอยู่ในภาวะขาลง (bearish) แม้ราคาจะรีบาวด์แรง +14.76% สู่ $108.31 ในวันที่ 23 พ.ย. 2026 ราคายังอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — เส้นวัดแนวโน้มราคาที่ให้น้ำหนักข้อมูลล่าสุดมากกว่า) ทั้ง 3 เส้น ได้แก่ EMA 50 ($129.64), EMA 100 ($141.14) และ EMA 200 ($140.25) โดย EMA 50 อยู่ต่ำกว่า EMA 200 สะท้อนแนวโน้มหลักและระยะกลางที่เป็นขาลง ด้านโมเมนตัมเริ่มชะลอแรงลงแต่ยังไม่กลับเป็นบวก โดย MACD (12/26/9 — ตัววัดแนวโน้มและแรงส่ง) ยังติดลบลึกที่ -8.72 ต่ำกว่าเส้น signal (-8.59) แม้แท่ง histogram ที่แคบลงเหลือ -0.13 จะบ่งชี้แรงขายเริ่มแผ่ว ส่วน RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 โดยต่ำกว่า 30 คือภาวะขายมากเกินไป) ฟื้นขึ้นมาที่ 42.67 แต่ยังต่ำกว่าระดับกลาง 50 ด้าน Bollinger Bands (กรอบความผันผวน 20 วัน ±2 SD) ราคาดีดตัวจากกรอบล่างที่ $95.82 แต่ยังอยู่ใต้เส้นกลาง $115.05 ซึ่งเป็นแนวต้านแรกถัดด้วย EMA 50 ($129.64) ขณะที่ราคาอยู่เหนือจุดต่ำสุดรอบ 52 สัปดาห์ ($77.39) เพียง 16% และต่ำกว่าจุดสูงสุด ($271.78) 60% โดยมีปริมาณซื้อขาย 12.85 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (10.94 ล้านหุ้น) ราว 17% ยืนยันแรงรับซื้อระดับปานกลางบริเวณแนวรับ $95–$105"
            },
     "sources":  [
                     {
                         "date":  "2026-10-27",
-                        "publisher":  "Corning",
+                        "publisher":  "Corning Incorporated",
                         "title":  "Corning Delivers Outstanding Third-Quarter Results",
                         "url":  "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/corning-delivers-outstanding-third-quarter-results.html"
                     },
                     {
                         "date":  "2026-10-27",
-                        "publisher":  "Corning Investor Relations",
-                        "title":  "Q3 2026 Earnings Release",
-                        "url":  "https://s203.q4cdn.com/212458750/files/doc_financials/2026/q3/Q3-2026-Earnings-Release.pdf"
+                        "publisher":  "U.S. Securities and Exchange Commission (EDGAR)",
+                        "title":  "Corning Incorporated (CIK 0000024741) SEC Filings",
+                        "url":  "https://www.sec.gov/edgar/browse/?CIK=0000024741"
                     },
                     {
-                        "date":  "2026-10-29",
-                        "publisher":  "U.S. SEC (EDGAR)",
-                        "title":  "Form 10-Q for the Quarterly Period Ended September 30, 2026",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/24741/000002474126000279/glw-20260930.htm"
+                        "date":  "2026-11-23",
+                        "publisher":  "NVIDIA Newsroom",
+                        "title":  "NVIDIA Board Reinstates Jensen Huang as President, CEO, and Board Director",
+                        "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director"
                     },
                     {
-                        "date":  "2026-10-27",
-                        "publisher":  "Fortune",
-                        "title":  "Corning Q3 2026 Earnings Call Transcript",
-                        "url":  "https://fortune.com/transcript/corning-q3-2026-earnings-call-transcript/"
+                        "date":  "2026-11-17",
+                        "publisher":  "Benzinga",
+                        "title":  "Corning (GLW) Analyst Ratings and Price Targets",
+                        "url":  "https://www.benzinga.com/quote/GLW/price-target"
                     },
                     {
-                        "date":  "2026-11-11",
-                        "publisher":  "Investing.com",
-                        "title":  "Jefferies initiates Corning stock coverage with buy rating on fiber demand",
-                        "url":  "https://www.investing.com/news/analyst-ratings/jefferies-initiates-corning-stock-coverage-with-buy-rating-on-fiber-demand-93ch-3831828"
+                        "date":  "2026-11-17",
+                        "publisher":  "Stock Analysis",
+                        "title":  "Corning (GLW) Stock Forecast \u0026 Analyst Ratings",
+                        "url":  "https://stockanalysis.com/stocks/glw/forecast/"
                     },
                     {
-                        "date":  "2026-09-08",
-                        "publisher":  "Corning",
-                        "title":  "Verizon and Corning Announce Multi-Year, Multi-Billion-Dollar Supply Agreement for Broadband Expansion and Next-Gen AI Infrastructure",
-                        "url":  "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/09/verizon-and-corning-announce-multi-year-multi-billion-dollar-supply-agreement-for-broadband-expansion-and-next-gen-ai-infrastructure.html"
-                    },
-                    {
-                        "date":  "2026-09-29",
-                        "publisher":  "Corning",
-                        "title":  "AT\u0026T and Corning Team Up to Engineer the Connected World with Fiber",
-                        "url":  "https://www.corning.com/worldwide/en/about-us/news-events/news-releases/2026/09/att-and-corning-team-up-to-engineer-the-connected-world-with-fiber.html"
+                        "date":  "2026-11-23",
+                        "publisher":  "MarketBeat",
+                        "title":  "Corning (GLW) Stock Forecast and Price Target",
+                        "url":  "https://www.marketbeat.com/stocks/NYSE/GLW/forecast/"
                     }
                 ]
 }

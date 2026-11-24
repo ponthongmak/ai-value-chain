@@ -1,0 +1,210 @@
+{
+    "sector":  "soft",
+    "judge":  "codex",
+    "provider":  "codex",
+    "model":  "gpt-6.2-sol",
+    "effort":  "high",
+    "account":  "Codex (ChatGPT)",
+    "generatedAt":  "2026-11-24T05:00:17Z",
+    "costUsd":  null,
+    "stocks":  {
+                   "AMZN":  {
+                                "m":  [
+                                          18,
+                                          16,
+                                          18,
+                                          20,
+                                          14
+                                      ],
+                                "o":  [
+                                          12,
+                                          19,
+                                          19,
+                                          16,
+                                          18
+                                      ],
+                                "why_en":  "AWS\u0027s scale and ecosystem make it hard to displace, while Trainium and Bedrock position Amazon to capture growing AI inference demand. ([ir.aboutamazon.com](https://ir.aboutamazon.com/news-release/news-release-details/2026/Amazon-com-Announces-Third-Quarter-Results/?utm_source=openai))",
+                                "why_th":  "ขนาดและระบบนิเวศของ AWS ทำให้คู่แข่งเข้ามาแทนที่ได้ยาก ขณะที่ Trainium และ Bedrock ช่วยให้ Amazon รับประโยชน์จากความต้องการรันโมเดล AI ที่เพิ่มขึ้น"
+                            },
+                   "AXON":  {
+                                "m":  [
+                                          15,
+                                          18,
+                                          12,
+                                          13,
+                                          8
+                                      ],
+                                "o":  [
+                                          6,
+                                          14,
+                                          16,
+                                          11,
+                                          14
+                                      ],
+                                "why_en":  "Integrated cameras and evidence workflows make switching costly, while AI report writing is gaining traction but remains a small part of the business. ([filecache.investorroom.com](https://filecache.investorroom.com/mr5ir_axon/645/AXON_Q3_2026_ShareholderLetter.pdf?utm_source=openai))",
+                                "why_th":  "กล้องที่เชื่อมกับระบบจัดการหลักฐานทำให้การย้ายไปใช้ระบบอื่นมีต้นทุนสูง ส่วน AI ช่วยเขียนรายงานได้รับความนิยมเพิ่มขึ้น แต่ยังเป็นส่วนเล็กของธุรกิจ"
+                            },
+                   "CRWD":  {
+                                "m":  [
+                                          16,
+                                          17,
+                                          16,
+                                          15,
+                                          9
+                                      ],
+                                "o":  [
+                                          7,
+                                          16,
+                                          16,
+                                          11,
+                                          15
+                                      ],
+                                "why_en":  "Falcon\u0027s embedded security workflows and threat telemetry support retention, while protecting AI workloads opens a new market whose revenue is not separately disclosed. ([ir.crowdstrike.com](https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-reports-third-quarter-fiscal-year-2027-financial?utm_source=openai))",
+                                "why_th":  "Falcon ฝังอยู่ในงานรักษาความปลอดภัยและมีข้อมูลภัยคุกคามจำนวนมาก จึงช่วยรักษาฐานลูกค้า ส่วนการปกป้องระบบ AI เปิดตลาดใหม่ที่บริษัทยังไม่ได้แยกรายงานรายได้"
+                            },
+                   "DOCN":  {
+                                "m":  [
+                                          11,
+                                          10,
+                                          10,
+                                          10,
+                                          9
+                                      ],
+                                "o":  [
+                                          12,
+                                          19,
+                                          11,
+                                          8,
+                                          14
+                                      ],
+                                "why_en":  "Developer simplicity differentiates DigitalOcean without deep lock-in, while rising spending by AI customers supports its inference opportunity despite limited scale. ([investors.digitalocean.com](https://investors.digitalocean.com/news/news-details/2026/DigitalOcean-Announces-Third-Quarter-2026-Financial-Results/default.aspx?utm_source=openai))",
+                                "why_th":  "ความใช้งานง่ายทำให้ DigitalOcean โดดเด่นในหมู่นักพัฒนา แต่ลูกค้ายังย้ายออกได้ไม่ยาก ขณะที่ยอดใช้จ่ายของลูกค้า AI ที่เพิ่มขึ้นหนุนโอกาสด้านบริการรันโมเดลแม้ขนาดธุรกิจยังจำกัด"
+                            },
+                   "GOOGL":  {
+                                 "m":  [
+                                           20,
+                                           14,
+                                           19,
+                                           19,
+                                           18
+                                       ],
+                                 "o":  [
+                                           13,
+                                           19,
+                                           18,
+                                           18,
+                                           19
+                                       ],
+                                 "why_en":  "Search and YouTube provide durable distribution, while Gemini and TPUs differentiate Google Cloud and create new ways to monetize AI. ([sec.gov](https://www.sec.gov/Archives/edgar/data/1652044/000165204426000080/googexhibit991q32026.htm?utm_source=openai))",
+                                 "why_th":  "Search และ YouTube เป็นช่องทางเข้าถึงผู้ใช้ที่แข็งแกร่งในระยะยาว ขณะที่ Gemini และชิป TPU ทำให้ Google Cloud แตกต่างจากคู่แข่งและเปิดช่องทางใหม่ในการสร้างรายได้จาก AI"
+                             },
+                   "META":  {
+                                "m":  [
+                                          17,
+                                          14,
+                                          20,
+                                          19,
+                                          17
+                                      ],
+                                "o":  [
+                                          11,
+                                          13,
+                                          17,
+                                          11,
+                                          17
+                                      ],
+                                "why_en":  "Meta\u0027s social networks reinforce its advertising moat, while AI already improves ad monetization and assistants offer upside that is not yet proven. ([investor.atmeta.com](https://investor.atmeta.com/investor-news/press-release-details/2026/Meta-Reports-Third-Quarter-2026-Results/default.aspx?utm_source=openai))",
+                                "why_th":  "เครือข่ายสังคมของ Meta เสริมความได้เปรียบในธุรกิจโฆษณา โดย AI ช่วยเพิ่มรายได้จากโฆษณาแล้ว ส่วนผู้ช่วย AI ยังต้องพิสูจน์ว่าจะสร้างรายได้เพิ่มได้แค่ไหน"
+                            },
+                   "MSFT":  {
+                                "m":  [
+                                          18,
+                                          20,
+                                          19,
+                                          19,
+                                          20
+                                      ],
+                                "o":  [
+                                          14,
+                                          19,
+                                          19,
+                                          16,
+                                          18
+                                      ],
+                                "why_en":  "Microsoft\u0027s deeply embedded enterprise software makes switching costly, while Azure and paid Copilot products capture both infrastructure and application spending on AI. ([microsoft.com](https://www.microsoft.com/en-us/Investor/earnings/FY-2027-Q1/press-release-webcast?utm_source=openai))",
+                                "why_th":  "ซอฟต์แวร์ Microsoft ฝังลึกในงานองค์กรจนเปลี่ยนระบบได้ยาก ขณะที่ Azure และบริการ Copilot แบบเสียเงินสร้างรายได้จาก AI ทั้งฝั่งโครงสร้างพื้นฐานและแอปพลิเคชัน"
+                            },
+                   "NET":  {
+                               "m":  [
+                                         15,
+                                         14,
+                                         15,
+                                         16,
+                                         7
+                                     ],
+                               "o":  [
+                                         7,
+                                         18,
+                                         13,
+                                         10,
+                                         16
+                                     ],
+                               "why_en":  "Cloudflare\u0027s global edge network is hard to replicate, but sustained operating profitability is unproven and AI growth depends on converting developer adoption into revenue. ([cloudflare.net](https://www.cloudflare.net/news/news-details/2026/Cloudflare-Announces-Third-Quarter-2026-Financial-Results/default.aspx?utm_source=openai))",
+                               "why_th":  "เครือข่ายเอดจ์ทั่วโลกของ Cloudflare เลียนแบบได้ยาก แต่บริษัทยังไม่พิสูจน์ว่าทำกำไรจากการดำเนินงานได้ต่อเนื่อง และโอกาสเติบโตด้าน AI ขึ้นอยู่กับการเปลี่ยนการใช้งานของนักพัฒนาให้เป็นรายได้"
+                           },
+                   "ORCL":  {
+                                "m":  [
+                                          16,
+                                          19,
+                                          14,
+                                          17,
+                                          16
+                                      ],
+                                "o":  [
+                                          14,
+                                          19,
+                                          16,
+                                          15,
+                                          14
+                                      ],
+                                "why_en":  "Mission-critical databases make switching costly, while large OCI GPU clusters capture demand for scarce AI capacity at the cost of heavy capital investment. ([investor.oracle.com](https://investor.oracle.com/files/content_files/1q27-pressrelease-September_FINAL.pdf?utm_source=openai))",
+                                "why_th":  "ฐานข้อมูลที่รองรับงานสำคัญทำให้ลูกค้าเปลี่ยนระบบได้ยาก ส่วนคลัสเตอร์ GPU ขนาดใหญ่ของ OCI ตอบโจทย์ความต้องการกำลังประมวลผล AI ที่มีจำกัด แต่ต้องใช้เงินลงทุนสูง"
+                            },
+                   "PLTR":  {
+                                "m":  [
+                                          16,
+                                          18,
+                                          12,
+                                          13,
+                                          11
+                                      ],
+                                "o":  [
+                                          16,
+                                          18,
+                                          17,
+                                          12,
+                                          16
+                                      ],
+                                "why_en":  "Palantir is hard to replace once embedded in operations, and AIP extends that foothold into AI workflows, though its record of high margins is short. ([investors.palantir.com](https://investors.palantir.com/files/2026%20Q3%20PLTR%2010-Q.pdf?utm_source=openai))",
+                                "why_th":  "เมื่อ Palantir ฝังอยู่ในกระบวนการทำงานแล้วก็เปลี่ยนออกได้ยาก และ AIP ต่อยอดฐานลูกค้าเดิมสู่งานที่ใช้ AI แม้บริษัทเพิ่งมีอัตรากำไรสูงได้ไม่นาน"
+                            },
+                   "TEM":  {
+                               "m":  [
+                                         14,
+                                         12,
+                                         11,
+                                         12,
+                                         4
+                                     ],
+                               "o":  [
+                                         11,
+                                         16,
+                                         14,
+                                         13,
+                                         16
+                                     ],
+                               "why_en":  "Linked clinical and genomic data are hard to recreate and support AI licensing to drugmakers, but diagnostics still dominate sales and operating losses persist. ([investors.tempus.com](https://investors.tempus.com/news/news-details/2026/Tempus-Reports-Third-Quarter-2026-Results/default.aspx?utm_source=openai))",
+                               "why_th":  "ข้อมูลคลินิกที่เชื่อมกับข้อมูลจีโนมสร้างซ้ำได้ยากและช่วยให้ Tempus ขายสิทธิ์ใช้ข้อมูลและโมเดล AI แก่บริษัทยา แต่รายได้หลักยังมาจากการตรวจวินิจฉัยและบริษัทยังขาดทุนจากการดำเนินงาน"
+                           }
+               }
+}

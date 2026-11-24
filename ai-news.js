@@ -5,81 +5,31 @@ window.AI_NEWS = {"L1":{
     "model":  "gemini-4-neon-high",
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T05:25:23Z",
+    "generatedAt":  "2026-11-24T03:23:04Z",
     "period":  [
-                   "2026-11-09",
-                   "2026-11-23"
+                   "2026-11-10",
+                   "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "Power and physical infrastructure demand stayed red-hot over the past two weeks, anchored by NVIDIA\u0027s $115.8 billion quarter, the IEA\u0027s forecast of data-center power use doubling to 1,000 TWh by 2030, and 181 GW of proposed on-site gas projects tracked by BloombergNEF. Strong execution showed up across the layer as Constellation Energy and Forgent Power Solutions beat earnings and raised guidance, Vertiv hiked its dividend 60%, and GE Vernova expanded U.S. transformer capacity. On the policy front, Texas ended its data-center permitting pause while PJM proposed faster 12-month grid hookups paired with stricter deposit and ride-through rules.",
-                  "th":  "ความต้องการพลังงานและโครงสร้างพื้นฐานทางกายภาพสำหรับ AI ยังคงร้อนแรงตลอดสองสัปดาห์ที่ผ่านมา โดยได้แรงหนุนจากรายได้ไตรมาส 3 ของ NVIDIA ที่พุ่งแตะ $115.8 พันล้าน, คาดการณ์ของ IEA ว่าการใช้ไฟฟ้าดาต้าเซ็นเตอร์จะเพิ่มเป็นสองเท่าแตะ 1,000 TWh ภายในปี 2030 และรายงานของ BloombergNEF ที่พบโครงการโรงไฟฟ้าก๊าซหน้างาน (BYOP) สูงถึง 181 GW ด้านผลประกอบการและการลงทุนยังแข็งแกร่ง โดย Constellation Energy และ Forgent Power Solutions รายงานกำไรดีกว่าคาดพร้อมปรับเพิ่มคาดการณ์ทั้งปี ขณะที่ Vertiv เพิ่มเงินปันผล 60% และ GE Vernova ขยายโรงงานหม้อแปลงในสหรัฐฯ ส่วนฝั่งนโยบาย รัฐเท็กซัสกลับมาพิจารณาใบอนุญาตดาต้าเซ็นเตอร์อีกครั้ง ขณะที่ PJM เสนอเร่งกระบวนการเชื่อมสายส่งให้เหลือ 12 เดือนควบคู่กับเกณฑ์เงินวางประกันและมาตรฐานความเสถียรที่เข้มงวดขึ้น"
+                  "en":  "Power and physical infrastructure demand received strong long-term validation as the IEA forecast data center electricity use doubling to 1,000 TWh by 2030 and NVIDIA posted $107.6 billion in quarterly data center revenue amid the Vera Rubin ramp. At the same time, PJM\u0027s FERC filings for faster 12-month interconnection studies and mandatory fault ride-through rules, alongside SoftBank\u0027s cancellation of over 13 GW in reserved U.S. power equipment, underscored real grid bottlenecks and execution scrutiny. Equipment and power-chip suppliers stayed on offense—led by Forgent Power\u0027s guidance raise, Vertiv\u0027s 800 VDC and ATLAS Lab launches, Schneider Electric\u0027s Vera Rubin blueprint, and onsemi\u0027s EliteSiC M4 debut—even as cautious broker calls reflected heightened valuation sensitivity.",
+                  "th":  "ความต้องการด้านพลังงานและโครงสร้างพื้นฐานทางกายภาพได้รับการยืนยันในระยะยาว หลัง IEA คาดการณ์ว่าการใช้ไฟฟ้าของดาต้าเซ็นเตอร์จะเพิ่มขึ้นเท่าตัวเป็น 1,000 TWh ภายในปี 2030 และ NVIDIA รายงานรายได้กลุ่มดาต้าเซ็นเตอร์ไตรมาสล่าสุดแตะ 107.6 พันล้านดอลลาร์สหรัฐฯ พร้อมการเดินเครื่องแพลตฟอร์ม Vera Rubin ขณะเดียวกัน การที่ PJM ยื่นข้อเสนอต่อ FERC เพื่อเร่งการศึกษาการเชื่อมต่อกริดเหลือ 12 เดือนควบคู่กับมาตรฐานเสถียรภาพระบบไฟที่เข้มงวดขึ้น รวมถึงการที่ SoftBank ยกเลิกการจองอุปกรณ์ผลิตไฟฟ้าในสหรัฐฯ กว่า 13 GW สะท้อนข้อจำกัดด้านกริดและความระมัดระวังในการประเมินคำสั่งซื้อ ฝั่งผู้ผลิตอุปกรณ์และชิปพลังงานยังคงเดินหน้าขยายตลาด ทั้ง Forgent Power ที่ปรับเพิ่มคาดการณ์รายได้ Vertiv ที่เปิดตัวระบบ 800 VDC และ ATLAS Lab Schneider Electric กับพิมพ์เขียว Vera Rubin และ onsemi ที่เปิดตัว EliteSiC M4 แม้บทวิเคราะห์บางแห่งจะเริ่มระมัดระวังด้านมูลค่าหุ้นมากขึ้นก็ตาม"
               },
     "themes":  {
                    "en":  [
-                              "AI Power Demand Surge",
-                              "Grid Bottlenecks \u0026 BYOP",
-                              "Data-Center Grid Regulation",
-                              "High-Density Power \u0026 Cooling"
+                              "Data center power surge",
+                              "Grid interconnection \u0026 rules",
+                              "800V DC \u0026 liquid cooling",
+                              "Order \u0026 valuation scrutiny"
                           ],
                    "th":  [
-                              "ดีมานด์ไฟฟ้า AI พุ่งแรง",
-                              "คอขวดสายส่งและโรงไฟฟ้าหน้างาน",
-                              "กฎระเบียบสายส่งสำหรับดาต้าเซ็นเตอร์",
-                              "ระบบไฟและหล่อเย็นความหนาแน่นสูง"
+                              "ความต้องการไฟฟ้าดาต้าเซ็นเตอร์พุ่งสูง",
+                              "กฎระเบียบและการเชื่อมต่อกริด",
+                              "ระบบไฟ 800V DC และหล่อเย็นด้วยของเหลว",
+                              "ความระมัดระวังต่อคำสั่งซื้อและมูลค่าหุ้น"
                           ]
                },
     "items":  [
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "NVIDIA",
-                      "tickers":  [
-                                      "MPWR",
-                                      "ON",
-                                      "NVTS",
-                                      "VRT",
-                                      "ETN",
-                                      "SU",
-                                      "FPS"
-                                  ],
-                      "title_en":  "NVIDIA Q3 revenue doubles to $115.8B as Vera Rubin AI racks ramp",
-                      "title_th":  "รายได้ Q3 ของ NVIDIA พุ่งเท่าตัวแตะ $115.8 พันล้าน รับแรงส่งแร็ก AI รุ่น Vera Rubin",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-                      "why_en":  "Data-center revenue of $107.6 billion and Q4 guidance of about $130 billion confirm sustained hyperscaler capex, driving direct demand for higher-density rack power, liquid cooling, and power chips.",
-                      "why_th":  "รายได้กลุ่มดาต้าเซ็นเตอร์ที่ $107.6 พันล้านและคาดการณ์ Q4 ราว $130 พันล้านตอกย้ำงบลงทุน AI ของกลุ่ม hyperscaler ที่ยังเดินหน้าต่อเนื่อง หนุนความต้องการระบบจ่ายไฟความหนาแน่นสูง ระบบหล่อเย็นด้วยของเหลว และชิปจัดการพลังงานโดยตรง"
-                  },
-                  {
-                      "date":  "2026-11-09",
-                      "impact":  "positive",
-                      "publisher":  "Business Wire",
-                      "tickers":  [
-                                      "CEG"
-                                  ],
-                      "title_en":  "Constellation Energy beats Q3 estimates, raises 2026 guidance and buys gas plant",
-                      "title_th":  "Constellation Energy งบ Q3 ดีกว่าคาด ปรับเพิ่มคาดการณ์ปี 2026 พร้อมซื้อโรงไฟฟ้าก๊าซ",
-                      "url":  "https://www.businesswire.com/news/home/20261108197880/en/Constellation-Reports-Third-Quarter-2026-Results",
-                      "why_en":  "Adjusted EPS of $5.06 lifted full-year guidance to $12.50–$12.80, while the $715 million Rhode Island gas plant acquisition and 270 MW Peak+ deal expand firm capacity for AI data centers.",
-                      "why_th":  "กำไรต่อหุ้นปรับปรุงที่ $5.06 หนุนให้บริษัทปรับเพิ่มกรอบคาดการณ์ทั้งปีเป็น $12.50–$12.80 ขณะที่ดีลซื้อโรงไฟฟ้าก๊าซใน Rhode Island มูลค่า $715 ล้านและสัญญา Peak+ ขนาด 270 MW ช่วยเพิ่มกำลังผลิตไฟฟ้าเสถียรสำหรับดาต้าเซ็นเตอร์ AI"
-                  },
-                  {
-                      "date":  "2026-11-16",
-                      "impact":  "mixed",
-                      "publisher":  "PJM Inside Lines",
-                      "tickers":  [
-                                      "CEG",
-                                      "VST",
-                                      "ETN",
-                                      "SU",
-                                      "FPS",
-                                      "VRT"
-                                  ],
-                      "title_en":  "PJM proposes 12-month Fast Energization and ride-through rules for large data centers",
-                      "title_th":  "PJM เสนอเกณฑ์ Fast Energization เหลือ 12 เดือน พร้อมบังคับมาตรฐาน ride-through สำหรับดาต้าเซ็นเตอร์ขนาดใหญ่",
-                      "url":  "https://insidelines.pjm.com/pjm-plan-would-cut-interconnection-process-time-in-half/",
-                      "why_en":  "Halving interconnection studies to 12 months accelerates grid hookups for PJM power generators and electrical suppliers, but stricter upfront deposits and ride-through mandates for 50 MW+ sites add compliance hurdles.",
-                      "why_th":  "การย่นเวลาศึกษาเชื่อมสายส่งลงครึ่งหนึ่งเหลือ 12 เดือนช่วยให้โรงไฟฟ้าและผู้ผลิตอุปกรณ์ไฟฟ้าในเขต PJM เร่งรับรู้ดีมานด์ได้เร็วขึ้น แต่เกณฑ์วางเงินประกันที่เข้มงวดและข้อบังคับ ride-through สำหรับไซต์ 50 MW ขึ้นไปเพิ่มภาระการปฏิบัติตามกฎระเบียบในระยะสั้น"
-                  },
                   {
                       "date":  "2026-11-19",
                       "impact":  "positive",
@@ -93,11 +43,65 @@ window.AI_NEWS = {"L1":{
                                       "FPS",
                                       "VRT"
                                   ],
-                      "title_en":  "IEA projects global data-center electricity use doubling to 1,000 TWh by 2030",
+                      "title_en":  "IEA projects data center electricity demand doubling to 1,000 TWh by 2030",
                       "title_th":  "IEA คาดการใช้ไฟฟ้าดาต้าเซ็นเตอร์ทั่วโลกพุ่งเท่าตัวแตะ 1,000 TWh ภายในปี 2030",
                       "url":  "https://www.iea.org/reports/world-energy-outlook-2026",
-                      "why_en":  "With AI driving roughly three-quarters of the surge, the World Energy Outlook underpins multi-year demand across nuclear and gas power generation, grid gear, switchgear, and thermal systems.",
-                      "why_th":  "โดย AI เป็นแรงขับเคลื่อนราวสามในสี่ของการเติบโต รายงาน World Energy Outlook จึงตอกย้ำดีมานด์ระยะยาวตลอดทั้งชั้น ทั้งโรงไฟฟ้านิวเคลียร์และก๊าซ อุปกรณ์โครงข่ายไฟฟ้า สวิตช์เกียร์ และระบบระบายความร้อน"
+                      "why_en":  "The report cites 180 GW of planned U.S. gas capacity and $4 trillion in projected data center energy investments through 2030, reinforcing multi-year demand across power generators, turbine makers, and electrical equipment suppliers.",
+                      "why_th":  "รายงานระบุว่ามีแผนสร้างโรงไฟฟ้าก๊าซในสหรัฐฯ เพื่อรองรับดาต้าเซ็นเตอร์ราว 180 GW และเม็ดเงินลงทุนโครงสร้างพื้นฐานพลังงานรวม 4 ล้านล้านดอลลาร์ฯ ถึงปี 2030 ซึ่งช่วยหนุนอุปสงค์ระยะยาวทั้งฝั่งผู้ผลิตไฟฟ้า กังหันก๊าซ และอุปกรณ์จ่ายไฟ"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "mixed",
+                      "publisher":  "PJM Interconnection",
+                      "tickers":  [
+                                      "CEG",
+                                      "VST",
+                                      "GEV",
+                                      "ETN",
+                                      "SU",
+                                      "FPS",
+                                      "VRT"
+                                  ],
+                      "title_en":  "PJM files FERC plan to halve interconnection studies and tighten data center rules",
+                      "title_th":  "PJM ยื่นแผนต่อ FERC ลดเวลาศึกษาเชื่อมต่อกริดลงครึ่งหนึ่งพร้อมคุมเข้มดาต้าเซ็นเตอร์",
+                      "url":  "https://insidelines.pjm.com/pjm-plan-would-cut-interconnection-process-time-in-half/",
+                      "why_en":  "Cutting interconnection study timelines from two years to 12 months could speed grid hookups for generators and equipment vendors, while mandatory fault ride-through rules for loads of 50 MW or more raise compliance and power-conditioning requirements.",
+                      "why_th":  "การย่นระยะเวลาศึกษาการเชื่อมต่อกริดจาก 2 ปีเหลือ 12 เดือนช่วยปลดล็อกกำลังผลิตและอุปกรณ์เข้าสู่ระบบได้เร็วขึ้น แต่เกณฑ์บังคับให้โหลดตั้งแต่ 50 MW ขึ้นไปต้องทนแรงดันไฟตกได้โดยไม่ตัดออกจากระบบจะเพิ่มต้นทุนและมาตรฐานอุปกรณ์ปรับคุณภาพไฟฟ้า"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "NVIDIA",
+                      "tickers":  [
+                                      "CEG",
+                                      "VST",
+                                      "GEV",
+                                      "ETN",
+                                      "SU",
+                                      "FPS",
+                                      "MPWR",
+                                      "ON",
+                                      "NVTS",
+                                      "VRT"
+                                  ],
+                      "title_en":  "NVIDIA Q3 data center revenue jumps 110% to $107.6 billion as Rubin ramps",
+                      "title_th":  "รายได้ดาต้าเซ็นเตอร์ NVIDIA ไตรมาส 3 พุ่ง 110% แตะ 107.6 พันล้านดอลลาร์ฯ รับแรงส่ง Vera Rubin",
+                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+                      "why_en":  "Total quarterly revenue of $115.8 billion and the rapid Vera Rubin rollout confirm sustained hyperscaler AI infrastructure buildouts, supporting demand from grid power down to 800-volt power chips and liquid cooling.",
+                      "why_th":  "รายได้รวมไตรมาสละ 115.8 พันล้านดอลลาร์ฯ และการเร่งส่งมอบแพลตฟอร์ม Vera Rubin ยืนยันว่าการลงทุนโครงสร้างพื้นฐาน AI ของกลุ่ม hyperscaler ยังเดินหน้าเต็มกำลัง หนุนความต้องการตั้งแต่ไฟฟ้าต้นน้ำไปจนถึงชิปจ่ายไฟ 800 โวลต์และระบบระบายความร้อนด้วยของเหลว"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "impact":  "mixed",
+                      "publisher":  "Tom\u0027s Hardware",
+                      "tickers":  [
+                                      "GEV"
+                                  ],
+                      "title_en":  "SoftBank takes $3.73 billion charge after canceling over 13 GW of power equipment",
+                      "title_th":  "SoftBank บันทึกขาดทุน 3.73 พันล้านดอลลาร์ฯ หลังยกเลิกการจองอุปกรณ์ไฟฟ้ากว่า 13 GW",
+                      "url":  "https://www.tomshardware.com/tech-industry/artificial-intelligence/softbank-loses-37-billion-on-canceled-ai-data-center-gas-turbine-orders-days-after-denying-elon-musks-claim-it-was-defaulting-company-kills-reserved-13-gigawatts-of-power-more-than-six-hoover-dams-worth-of-capacity",
+                      "why_en":  "The restructuring of SoftBank\u0027s U.S. data center turbine reservations sparked demand concerns around GE Vernova, though forfeited deposits and tight gas turbine supply left GEV\u0027s broader backlog intact.",
+                      "why_th":  "การปรับแผนและยกเลิกสิทธิ์จองกังหันก๊าซสำหรับดาต้าเซ็นเตอร์สหรัฐฯ ของ SoftBank สร้างความกังวลต่อทิศทางคำสั่งซื้อของ GE Vernova ในระยะสั้น แม้เงินมัดจำที่ไม่คืนและภาวะกังหันก๊าซตึงตัวจะทำให้แบ็กล็อกรวมของ GEV ยังไม่ได้รับผลกระทบโดยตรงก็ตาม"
                   },
                   {
                       "date":  "2026-11-12",
@@ -106,140 +110,144 @@ window.AI_NEWS = {"L1":{
                       "tickers":  [
                                       "FPS"
                                   ],
-                      "title_en":  "Forgent Power Solutions Q1 revenue jumps 69% to $479M; raises FY2027 guidance",
-                      "title_th":  "Forgent Power Solutions รายได้ Q1 พุ่ง 69% แตะ $479 ล้าน พร้อมปรับเพิ่มคาดการณ์ปีงบ 2027",
+                      "title_en":  "Forgent Power posts record Q1 revenue of $479 million and raises FY27 outlook",
+                      "title_th":  "Forgent Power ทำรายได้ไตรมาส 1 สูงสุดเป็นประวัติการณ์ที่ 479 ล้านดอลลาร์ฯ พร้อมปรับเพิ่มคาดการณ์ปีงบ 2027",
                       "url":  "https://www.businesswire.com/news/home/20261112850710/en/",
-                      "why_en":  "Orders nearly doubled on direct AI lab wins and management raised fiscal 2027 revenue guidance to $2.45–$2.65 billion, with backlog already covering the full year and extending into FY2028.",
-                      "why_th":  "ยอดคำสั่งซื้อเกือบเพิ่มเป็นสองเท่าจากดีลตรงกับแล็บ AI ส่งผลให้ผู้บริหารปรับเพิ่มคาดการณ์รายได้ปีงบ 2027 เป็น $2.45–$2.65 พันล้าน โดยมีแบ็กล็อกรองรับเต็มทั้งปีและยาวไปถึงปีงบ 2028 แล้ว"
-                  },
-                  {
-                      "date":  "2026-11-11",
-                      "impact":  "positive",
-                      "publisher":  "BloombergNEF",
-                      "tickers":  [
-                                      "GEV",
-                                      "ETN",
-                                      "SU",
-                                      "FPS",
-                                      "CEG",
-                                      "VST"
-                                  ],
-                      "title_en":  "BloombergNEF tracks 181 GW of proposed on-site gas power for data centers",
-                      "title_th":  "BloombergNEF พบโครงการโรงไฟฟ้าก๊าซหน้างานสำหรับดาต้าเซ็นเตอร์พุ่งแตะ 181 GW",
-                      "url":  "https://about.bnef.com/insights/data-center-power-demand-is-set-to-surge-raising-new-climate-challenges-bloombergnef/",
-                      "why_en":  "With over 90% of proposed Bring Your Own Power capacity in the U.S., developers bypassing grid queues create a huge multi-year pipeline for gas turbines, switchgear, and power-generation partners.",
-                      "why_th":  "กำลังผลิตกว่า 90% อยู่ในสหรัฐฯ สะท้อนว่าผู้พัฒนาดาต้าเซ็นเตอร์กำลังหันมาสร้างไฟฟ้าใช้เองเพื่อเลี่ยงคิวเชื่อมสายส่ง สร้างไปป์ไลน์คำสั่งซื้อระยะยาวขนาดใหญ่ให้ผู้ผลิตกังหันก๊าซ สวิตช์เกียร์ และพันธมิตรโรงไฟฟ้า"
-                  },
-                  {
-                      "date":  "2026-11-18",
-                      "impact":  "mixed",
-                      "publisher":  "GlobeNewswire",
-                      "tickers":  [
-                                      "ON"
-                                  ],
-                      "title_en":  "Synaptics stockholders approve $5.7B all-cash acquisition by onsemi",
-                      "title_th":  "ผู้ถือหุ้น Synaptics อนุมัติดีลขายกิจการเงินสด $5.7 พันล้านให้ onsemi",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/18/3389430/0/en/Synaptics-Stockholders-Approve-Merger-with-onsemi.html",
-                      "why_en":  "Approval by 98.34% of votes cast clears a key hurdle toward a mid-2027 close to pair onsemi\u0027s power chips with Synaptics\u0027 edge AI compute, though the $5.7 billion cash outlay adds integration risk.",
-                      "why_th":  "เสียงเห็นชอบถึง 98.34% ช่วยปลดล็อกด่านสำคัญสู่การปิดดีลกลางปี 2027 เพื่อผสานชิปพลังงานของ onsemi เข้ากับชิปประมวลผล edge AI ของ Synaptics แม้การใช้เงินสด $5.7 พันล้านจะเพิ่มความเสี่ยงด้านงบดุลและการควบรวมก็ตาม"
+                      "why_en":  "Revenue surged 69% year-on-year and full-year guidance rose to $2.45–$2.65 billion—fully covered by backlog—even as Q1 gross margin temporarily dipped to 33.1% ahead of a production ramp.",
+                      "why_th":  "รายได้โตถึง 69% จากปีก่อนและบริษัทปรับเป้าทั้งปีขึ้นเป็น 2.45–2.65 พันล้านดอลลาร์ฯ โดยมีแบ็กล็อกรองรับครบ 100% แม้ว่าอัตรากำไรขั้นต้นไตรมาสแรกจะอ่อนตัวลงชั่วคราวมาอยู่ที่ 33.1% จากต้นทุนเตรียมขยายกำลังการผลิต"
                   },
                   {
                       "date":  "2026-11-17",
                       "impact":  "positive",
-                      "publisher":  "The Texas Tribune",
+                      "publisher":  "Vertiv",
                       "tickers":  [
-                                      "VST",
-                                      "CEG",
-                                      "GEV",
-                                      "ETN",
-                                      "FPS",
                                       "VRT"
                                   ],
-                      "title_en":  "Texas resumes data-center environmental permit reviews after three-month pause",
-                      "title_th":  "รัฐเท็กซัสกลับมาพิจารณาใบอนุญาตสิ่งแวดล้อมดาต้าเซ็นเตอร์หลังระงับนาน 3 เดือน",
-                      "url":  "https://www.texastribune.org/2026/11/17/texas-tceq-data-center-environmental-permits/",
-                      "why_en":  "Lifting the permitting freeze begun in August–September clears a key bottleneck for ERCOT-area AI builds, supporting power demand for Texas-heavy generator Vistra and data-center electrical and cooling vendors.",
-                      "why_th":  "การยกเลิกคำสั่งชะลอใบอนุญาตที่เริ่มตั้งแต่เดือนสิงหาคม–กันยายนช่วยคลายคอขวดการสร้างศูนย์ข้อมูล AI ในโครงข่าย ERCOT เป็นบวกต่อความต้องการไฟฟ้าของผู้ผลิตที่มีฐานใหญ่ในเท็กซัสอย่าง Vistra รวมถึงผู้ขายอุปกรณ์ไฟฟ้าและระบบหล่อเย็น"
+                      "title_en":  "Vertiv expands 800 VDC power portfolio across rack, compute pod, and data hall",
+                      "title_th":  "Vertiv ขยายชุดระบบไฟฟ้า 800 VDC ครอบคลุมระดับแร็ค พอดประมวลผล และโถงดาต้าเซ็นเตอร์",
+                      "url":  "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-advances-800-vdc-power-architectures-to-support-growing-ai-data-center-demands/",
+                      "why_en":  "Broadening high-voltage direct-current power systems across all three facility tiers positions Vertiv to capture higher power content per megawatt as next-generation AI racks outgrow traditional AC distribution.",
+                      "why_th":  "การขยายโซลูชันไฟฟ้ากระแสตรงแรงดันสูง 800 VDC ครบทั้งสามระดับโครงสร้างช่วยให้ Vertiv มีโอกาสคว้ามูลค่าอุปกรณ์ต่อเมกะวัตต์สูงขึ้นเมื่อแร็ค AI รุ่นใหม่มีความหนาแน่นพลังงานเกินขีดจำกัดของระบบไฟฟ้ากระแสสลับแบบเดิม"
                   },
                   {
-                      "date":  "2026-11-13",
+                      "date":  "2026-11-16",
+                      "impact":  "positive",
+                      "publisher":  "Vertiv",
+                      "tickers":  [
+                                      "VRT"
+                                  ],
+                      "title_en":  "Vertiv launches ATLAS Lab with NVIDIA to validate AI factory infrastructure pre-silicon",
+                      "title_th":  "Vertiv เปิดตัว ATLAS Lab ร่วมกับ NVIDIA เพื่อทดสอบระบบไฟฟ้าและทำความเย็นก่อนชิปวางจำหน่าย",
+                      "url":  "https://www.vertiv.com/en-us/about/news-and-events/corporate-news/2026/vertiv-atlas-proves-ai-infrastructure-ahead-of-silicon/",
+                      "why_en":  "Co-testing power, liquid cooling, and controls on NVIDIA\u0027s DSX platform ahead of chip launches deepens Vertiv\u0027s design-in advantage with hyperscalers and shortens deployment lead times.",
+                      "why_th":  "การทดสอบระบบจ่ายไฟ ระบบหล่อเย็นด้วยของเหลว และระบบควบคุมร่วมกับแพลตฟอร์ม NVIDIA DSX ล่วงหน้าก่อนชิปออกสู่ตลาดช่วยเสริมความได้เปรียบด้านการออกแบบร่วมกับลูกค้า hyperscaler และลดระยะเวลาติดตั้งจริง"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "positive",
+                      "publisher":  "GIGABYTE",
+                      "tickers":  [
+                                      "SU"
+                                  ],
+                      "title_en":  "Schneider Electric and Giga Computing unveil Vera Rubin NVL72 AI factory blueprint",
+                      "title_th":  "Schneider Electric ผนึก Giga Computing เปิดพิมพ์เขียว AI Factory สำหรับ NVIDIA Vera Rubin NVL72",
+                      "url":  "https://www.gigabyte.com/Press/News/2471",
+                      "why_en":  "Integrating Schneider Electric\u0027s power distribution and hybrid liquid cooling directly into GIGABYTE\u0027s next-generation NVIDIA compute architecture strengthens its pipeline for high-density AI deployments.",
+                      "why_th":  "การผสานระบบจ่ายไฟและระบบหล่อเย็นแบบไฮบริดของ Schneider Electric เข้ากับสถาปัตยกรรมประมวลผล NVIDIA รุ่นใหม่ของ GIGABYTE ช่วยเพิ่มโอกาสในการรับงานสร้างดาต้าเซ็นเตอร์ AI ความหนาแน่นสูง"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "impact":  "positive",
+                      "publisher":  "GlobeNewswire",
+                      "tickers":  [
+                                      "ON"
+                                  ],
+                      "title_en":  "onsemi launches fourth-generation EliteSiC M4 silicon carbide power platform",
+                      "title_th":  "onsemi เปิดตัวแพลตฟอร์มซิลิคอนคาร์ไบด์รุ่นที่ 4 EliteSiC M4 สำหรับดาต้าเซ็นเตอร์และพลังงาน",
+                      "url":  "https://www.globenewswire.com/news-release/2026/11/10/3190886/0/en/onsemi-s-EliteSiC-M4-Pushes-Power-Density-Higher-as-Energy-Demands-Grow.html",
+                      "why_en":  "Delivering up to 30% higher power density and 35% lower energy losses for AI data centers and EVs strengthens onsemi\u0027s competitiveness, with 750V bare die shipping now and 1200V slated for 2027.",
+                      "why_th":  "ชิปรุ่นใหม่ให้กำลังไฟฟ้าหนาแน่นขึ้นสูงสุด 30% และลดการสูญเสียพลังงานลง 35% สำหรับดาต้าเซ็นเตอร์ AI และรถยนต์ไฟฟ้า โดยเริ่มส่งมอบรุ่น 750V ทันทีและเตรียมออกรุ่น 1200V ในปี 2027 ช่วยยกระดับขีดความสามารถในการแข่งขันของ onsemi"
+                  },
+                  {
+                      "date":  "2026-11-19",
                       "impact":  "positive",
                       "publisher":  "PR Newswire",
                       "tickers":  [
                                       "VRT"
                                   ],
-                      "title_en":  "Vertiv raises annual dividend 60% to $0.40 per share",
-                      "title_th":  "Vertiv ประกาศปรับขึ้นเงินปันผลรายปี 60% เป็น $0.40 ต่อหุ้น",
-                      "url":  "https://www.prnewswire.com/news-releases/vertiv-declares-quarterly-dividend-302938565.html",
-                      "why_en":  "Raising the quarterly payout to $0.10 per share signals management\u0027s confidence in durable free cash flow from strong hyperscaler orders for AI power and thermal infrastructure.",
-                      "why_th":  "การเพิ่มเงินปันผลรายไตรมาสเป็น $0.10 ต่อหุ้นสะท้อนความมั่นใจของผู้บริหารต่อกระแสเงินสดอิสระที่แข็งแกร่งจากคำสั่งซื้อระบบไฟฟ้าและระบบระบายความร้อน AI ของกลุ่ม hyperscaler"
-                  },
-                  {
-                      "date":  "2026-11-19",
-                      "impact":  "positive",
-                      "publisher":  "Solenis",
-                      "tickers":  [
-                                      "VRT"
-                                  ],
-                      "title_en":  "Vertiv partners with Solenis on integrated liquid-cooling fluid management for AI sites",
-                      "title_th":  "Vertiv จับมือ Solenis พัฒนาระบบบริหารของเหลวครบวงจรสำหรับหล่อเย็นดาต้าเซ็นเตอร์ AI",
-                      "url":  "https://www.solenis.com/en/resources/news-releases/2026/solenis-and-vertiv-partner-to-advance-liquid-cooling-management-for-ai-data-centers/",
-                      "why_en":  "Combining Vertiv\u0027s cooling hardware and Next Predict analytics across 130+ countries with Solenis\u0027s fluid chemistry strengthens Vertiv\u0027s recurring service moat as AI racks shift to direct-to-chip liquid cooling.",
-                      "why_th":  "การผสานฮาร์ดแวร์หล่อเย็นและระบบวิเคราะห์ Next Predict ของ Vertiv ในกว่า 130 ประเทศเข้ากับเคมีบำบัดของเหลวของ Solenis ช่วยเสริมจุดแข็งด้านบริการประจำท่ามกลางการเปลี่ยนผ่านสู่ระบบ direct-to-chip liquid cooling ของแร็ก AI"
-                  },
-                  {
-                      "date":  "2026-11-10",
-                      "impact":  "positive",
-                      "publisher":  "GE Vernova",
-                      "tickers":  [
-                                      "GEV"
-                                  ],
-                      "title_en":  "GE Vernova invests $34.5M to expand Louisiana transformer plant for grid demand",
-                      "title_th":  "GE Vernova ลงทุน $34.5 ล้านขยายโรงงานหม้อแปลงในลุยเซียนา รองรับดีมานด์สายส่ง",
-                      "url":  "https://www.gevernova.com/news/press-releases/ge-vernova-invest-345-million-shreveport-facility-expansion-meet-growing-grid",
-                      "why_en":  "Adding 175 jobs—a nearly 30% workforce increase—toward full capacity by 2028 eases U.S. transformer bottlenecks and extends GE Vernova\u0027s nearly $1.3 billion U.S. manufacturing investment push.",
-                      "why_th":  "การเพิ่มพนักงาน 175 ตำแหน่ง (เกือบ 30%) เพื่อเดินเครื่องเต็มกำลังในปี 2028 ช่วยบรรเทาคอขวดหม้อแปลงไฟฟ้าในสหรัฐฯ และเป็นส่วนหนึ่งของแผนลงทุนภาคการผลิตในสหรัฐฯ มูลค่าเกือบ $1.3 พันล้านของ GE Vernova"
-                  },
-                  {
-                      "date":  "2026-11-10",
-                      "impact":  "positive",
-                      "publisher":  "GlobeNewswire",
-                      "tickers":  [
-                                      "ON"
-                                  ],
-                      "title_en":  "onsemi launches EliteSiC M4 platform with up to 30% higher power density",
-                      "title_th":  "onsemi เปิดตัวแพลตฟอร์มซิลิคอนคาร์ไบด์ EliteSiC M4 เพิ่มความหนาแน่นพลังงานสูงสุด 30%",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/10/3091176/0/en/onsemi-s-EliteSiC-M4-Pushes-Power-Density-Higher-As-Energy-Demands-Grow.html",
-                      "why_en":  "The fourth-generation trench SiC platform cuts power losses by up to 35% with 1200 V options starting in 2027, strengthening onsemi\u0027s competitiveness in high-voltage AI data-center power conversion.",
-                      "why_th":  "แพลตฟอร์ม SiC แบบ trench รุ่นที่ 4 ช่วยลดการสูญเสียพลังงานได้สูงสุด 35% และจะทยอยเปิดตัวรุ่นแรงดันสูงถึง 1200 V ตั้งแต่ปี 2027 เสริมศักยภาพการแข่งขันของ onsemi ในระบบแปลงไฟแรงดันสูงของดาต้าเซ็นเตอร์ AI"
-                  },
-                  {
-                      "date":  "2026-11-19",
-                      "impact":  "negative",
-                      "publisher":  "StreetInsider",
-                      "tickers":  [
-                                      "SU",
-                                      "ETN",
-                                      "VRT"
-                                  ],
-                      "title_en":  "Schneider Electric warns high European power costs risk pushing AI investment away",
-                      "title_th":  "Schneider Electric เตือนค่าไฟยุโรปแพงและสายส่งไม่พอเสี่ยงผลักงบลงทุน AI ไหลออกนอกภูมิภาค",
-                      "url":  "https://www.streetinsider.com/Reuters/Schneider+Electric+warns+high+power+costs+could+push+AI+investment+out+of+Europe/23971203.html",
-                      "why_en":  "Chief Digital Officer Peter Weckesser told Reuters that expensive power, underinvested grids, and fragmented rules threaten to divert European AI data-center buildouts toward the U.S. and Middle East.",
-                      "why_th":  "Peter Weckesser ประธานเจ้าหน้าที่ฝ่ายดิจิทัลให้สัมภาษณ์ Reuters ว่าค่าไฟที่สูง การลงทุนโครงข่ายสายส่งที่ล่าช้า และกฎระเบียบที่กระจัดกระจายเสี่ยงทำให้โครงการดาต้าเซ็นเตอร์ AI ในยุโรปย้ายไปสหรัฐฯ และตะวันออกกลางแทน"
+                      "title_en":  "Vertiv partners with Solenis on AI data center liquid cooling fluid management",
+                      "title_th":  "Vertiv จับมือ Solenis พัฒนาการจัดการของเหลวในระบบระบายความร้อนดาต้าเซ็นเตอร์ AI",
+                      "url":  "https://www.prnewswire.com/news-releases/solenis-and-vertiv-partner-to-advance-liquid-cooling-management-for-ai-data-centers-302945426.html",
+                      "why_en":  "Combining Vertiv\u0027s thermal hardware with Solenis\u0027 water-chemistry services addresses coolant reliability risks in high-density liquid-cooled clusters and supports recurring lifecycle service revenue.",
+                      "why_th":  "การผสานอุปกรณ์ระบายความร้อนของ Vertiv เข้ากับความเชี่ยวชาญด้านเคมีบำบัดน้ำของ Solenis ช่วยลดความเสี่ยงด้านเสถียรภาพของระบบหล่อเย็นในคลัสเตอร์ AI ความหนาแน่นสูงและต่อยอดรายได้บริการระยะยาว"
                   },
                   {
                       "date":  "2026-11-12",
                       "impact":  "mixed",
-                      "publisher":  "GlobeNewswire",
+                      "publisher":  "Navitas Semiconductor",
                       "tickers":  [
                                       "NVTS"
                                   ],
-                      "title_en":  "Navitas files second GaN patent infringement lawsuit against Renesas Electronics",
-                      "title_th":  "Navitas ยื่นฟ้องละเมิดสิทธิบัตรชิป GaN รอบสองต่อ Renesas Electronics",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/12/3091016/0/en/Navitas-Files-Patent-Infringement-Lawsuit-Against-Newly-Announced-Renesas-GaN-Products.html",
-                      "why_en":  "Asserting six patents over Renesas\u0027s new 650 V and 100 V GaN transistors defends Navitas\u0027s core IP in data-center power chips, while underscoring rising GaN competition and legal costs.",
-                      "why_th":  "การฟ้องละเมิด 6 สิทธิบัตรต่อทรานซิสเตอร์ GaN รุ่นใหม่ขนาด 650 V และ 100 V ของ Renesas ช่วยปกป้องทรัพย์สินทางปัญญาหลักของ Navitas ในตลาดชิปพลังงานดาต้าเซ็นเตอร์ แต่ก็สะท้อนการแข่งขันและค่าใช้จ่ายด้านคดีที่เพิ่มขึ้น"
+                      "title_en":  "Navitas files second GaN patent infringement lawsuit against Renesas in Texas",
+                      "title_th":  "Navitas ยื่นฟ้อง Renesas คดีละเมิดสิทธิบัตรชิป GaN เป็นคดีที่สองในรัฐเท็กซัส",
+                      "url":  "https://navitassemi.com/navitas-files-patent-infringement-lawsuit-against-newly-announced-renesas-gan-products/",
+                      "why_en":  "Asserting six counts against Renesas\u0027 newly launched 650V SuperGaN and 100V REXGaN chips defends Navitas\u0027 core GaN intellectual property moat, though escalating dual-front litigation adds legal expense and uncertainty.",
+                      "why_th":  "การยื่นฟ้องเพิ่ม 6 ข้อกล่าวหาต่อชิป 650V SuperGaN และ 100V REXGaN รุ่นใหม่ของ Renesas ช่วยปกป้องสิทธิบัตรหลักด้าน GaN ของ Navitas แต่ข้อพิพาททางกฎหมายที่ยืดเยื้อหลายคดีก็เพิ่มภาระค่าใช้จ่ายและความไม่แน่นอนทางธุรกิจ"
+                  },
+                  {
+                      "date":  "2026-11-23",
+                      "impact":  "negative",
+                      "publisher":  "TipRanks",
+                      "tickers":  [
+                                      "VRT"
+                                  ],
+                      "title_en":  "Baird downgrades Vertiv to Neutral and lowers price target to $200",
+                      "title_th":  "Baird ปรับลดคำแนะนำหุ้น Vertiv เป็น Neutral พร้อมหั่นราคาเป้าหมายเหลือ 200 ดอลลาร์ฯ",
+                      "url":  "https://www.tipranks.com/news/the-fly/vertiv-downgraded-to-neutral-from-outperform-at-baird",
+                      "why_en":  "Cutting the target from $320 reflects rising investor concern over Vertiv\u0027s heavy concentration in AI data center sentiment despite strong near-term order trends.",
+                      "why_th":  "การลดราคาเป้าหมายจาก 320 ดอลลาร์ฯ สะท้อนความกังวลของตลาดต่อการพึ่งพากระแสลงทุนดาต้าเซ็นเตอร์ AI ในสัดส่วนที่สูงมากของ Vertiv แม้ยอดคำสั่งซื้อระยะสั้นจะยังคงแข็งแกร่งก็ตาม"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "positive",
+                      "publisher":  "Investing.com",
+                      "tickers":  [
+                                      "CEG"
+                                  ],
+                      "title_en":  "BMO raises Constellation Energy target to $335 on nuclear contracting outlook",
+                      "title_th":  "BMO ปรับเพิ่มราคาเป้าหมาย Constellation Energy เป็น 335 ดอลลาร์ฯ รับแนวโน้มสัญญาไฟฟ้านิวเคลียร์",
+                      "url":  "https://www.investing.com/news/stock-market-news/bmo-raises-constellation-energy-stock-price-target-on-contracting-outlook-4325492",
+                      "why_en":  "The target increase from $316—followed by Barclays lifting its target to $371 on November 19—highlights analyst confidence in CEG\u0027s long-term data center power agreements and earnings visibility.",
+                      "why_th":  "การขยับเป้าหมายขึ้นจาก 316 ดอลลาร์ฯ ตามด้วยการที่ Barclays ปรับเพิ่มเป็น 371 ดอลลาร์ฯ ในวันที่ 19 พฤศจิกายน สะท้อนความเชื่อมั่นของนักวิเคราะห์ต่อสัญญาขายไฟฟ้าระยะยาวให้ดาต้าเซ็นเตอร์และความชัดเจนของกำไร CEG"
+                  },
+                  {
+                      "date":  "2026-11-11",
+                      "impact":  "mixed",
+                      "publisher":  "GuruFocus",
+                      "tickers":  [
+                                      "ETN"
+                                  ],
+                      "title_en":  "JPMorgan reinstates Eaton at Neutral with $395 target amid industrial caution",
+                      "title_th":  "JPMorgan กลับมาจัดอันดับ Eaton ที่ Neutral เป้าหมาย 395 ดอลลาร์ฯ ท่ามกลางมุมมองระมัดระวังต่อกลุ่มอุตสาหกรรม",
+                      "url":  "https://www.gurufocus.com/news/2984535/etn-reinstated-by-jp-morgan--price-target-announced-at-395",
+                      "why_en":  "While JPMorgan raised its prior $350 valuation mark on Eaton\u0027s data center and grid backlog, the Neutral stance underscores mounting valuation caution across AI-linked electrical equipment peers.",
+                      "why_th":  "แม้ JPMorgan จะปรับกรอบประเมินมูลค่าขึ้นจากเดิม 350 ดอลลาร์ฯ ตามแบ็กล็อกกลุ่มดาต้าเซ็นเตอร์และระบบกริดของ Eaton แต่คำแนะนำระดับ Neutral สะท้อนความระมัดระวังต่อระดับมูลค่าหุ้นในกลุ่มอุปกรณ์ไฟฟ้าที่อิงกระแส AI"
+                  },
+                  {
+                      "date":  "2026-11-20",
+                      "impact":  "positive",
+                      "publisher":  "The Futurum Group",
+                      "tickers":  [
+                                      "SU",
+                                      "ETN",
+                                      "VRT",
+                                      "FPS"
+                                  ],
+                      "title_en":  "Schneider Electric-Omdia survey finds 55% of enterprises prefer on-premises AI infrastructure",
+                      "title_th":  "ผลสำรวจ Schneider Electric-Omdia ชี้องค์กร 55% เลือกลงทุนโครงสร้างพื้นฐาน AI แบบติดตั้งในองค์กร",
+                      "url":  "https://futurumgroup.com/insights/55-of-enterprises-choose-on-prem-ai-is-the-cloud-first-era-over/",
+                      "why_en":  "Sovereignty and compliance-driven enterprise builds broaden data center power and cooling demand beyond hyperscalers, creating an additional growth channel for electrical and thermal infrastructure vendors.",
+                      "why_th":  "การที่องค์กรหันมาลงทุนโครงสร้างพื้นฐาน AI ของตนเองเพื่อตอบโจทย์อธิปไตยข้อมูลและกฎระเบียบช่วยขยายฐานความต้องการระบบจ่ายไฟและทำความเย็นออกไปนอกกลุ่ม hyperscaler สร้างแหล่งเติบโตเพิ่มเติมให้ผู้ผลิตอุปกรณ์ไฟฟ้าและระบบระบายความร้อน"
                   }
               ]
 },
@@ -249,69 +257,56 @@ window.AI_NEWS = {"L1":{
     "model":  "gemini-4-neon-high",
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T05:25:53Z",
+    "generatedAt":  "2026-11-24T03:19:54Z",
     "period":  [
-                   "2026-11-09",
-                   "2026-11-23"
+                   "2026-11-10",
+                   "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "AI chip fundamentals stayed exceptionally strong—led by NVIDIA doubling Q3 revenue to $115.8B, TSMC approving $40.93B in capex, and Applied Materials growing Q4 revenue 53%—even as governance and regulatory shocks rattled the layer. Jensen Huang\u0027s abrupt resignation and a Reuters-reported SEC accounting probe hit NVIDIA, while Washington expanded AI chip export controls to five countries and offshore cloud compute and pushed the MATCH Act targeting ASML. Across memory and packaging, SK hynix, Micron, and KLA accelerated capacity expansions even as a U.S. judge allowed a DRAM price-fixing antitrust suit to proceed against the top three memory makers.",
-                  "th":  "พื้นฐานธุรกิจชิป AI ยังเติบโตแข็งแกร่งมาก นำโดย NVIDIA ที่รายได้ไตรมาส 3 พุ่งเท่าตัวแตะ $115.8B, TSMC อนุมัติงบลงทุน $40.93B และ Applied Materials ที่รายได้โต 53% ท่ามกลางแรงสั่นสะเทือนด้านธรรมาภิบาลและกฎระเบียบ การลาออกกะทันหันของ Jensen Huang และข่าว SEC สอบสวนบัญชี NVIDIA กดดันความเชื่อมั่น ขณะที่สหรัฐฯ ขยายมาตรการคุมส่งออกชิป AI สู่ 5 ประเทศและการเข้าถึงคลาวด์นอกสหรัฐฯ พร้อมผลักดันร่างกฎหมาย MATCH Act ที่กระทบ ASML ด้านกลุ่มหน่วยความจำและแพ็กเกจจิ้งทั้ง SK hynix, Micron และ KLA ยังเร่งขยายกำลังผลิต แม้ศาลสหรัฐฯ จะสั่งเดินหน้าคดีผูกขาดราคา DRAM กับผู้ผลิตหน่วยความจำรายใหญ่ทั้งสามรายก็ตาม"
+                  "en":  "AI chip demand remained extraordinary in mid-November as NVIDIA doubled Q3 revenue to $115.8 billion alongside a rapid Vera Rubin ramp, TSMC posted record October sales, and Applied Materials beat estimates with stronger 2027 equipment momentum. At the same time, governance drama over Jensen Huang\u0027s brief departure and swift reinstatement, new U.S. BIS remote-compute and Southeast Asia export controls, and reports of Google trimming 2027 Broadcom TPU orders drove sharp sector volatility. Across memory and wafer-fab equipment, SK hynix, Samsung, Micron, and KLA accelerated HBM4 and advanced packaging capacity to meet multi-year AI infrastructure commitments.",
+                  "th":  "ความต้องการชิป AI ยังเติบโตอย่างร้อนแรงในช่วงกลางเดือนพฤศจิกายน โดย NVIDIA ทำรายได้ไตรมาส 3 พุ่งเท่าตัวแตะ 115.8 พันล้านดอลลาร์พร้อมการเร่งส่งมอบ Vera Rubin ขณะที่ TSMC ทำยอดขายเดือนตุลาคมสูงสุดเป็นประวัติการณ์ และ Applied Materials ส่งสัญญาณการลงทุนเครื่องจักรผลิตชิปที่เร่งตัวสู่ปี 2027 อย่างไรก็ตาม กลุ่มชิปเผชิญความผันผวนรุนแรงจากเหตุการณ์ลาออกและกลับมาดำรงตำแหน่ง CEO อย่างรวดเร็วของ Jensen Huang เกณฑ์คุมส่งออกชิป AI ฉบับใหม่ของสหรัฐฯ ที่ครอบคลุมการเช่าใช้คลาวด์และประเทศในเอเชียตะวันออกเฉียงใต้ รวมถึงรายงานข่าว Google ปรับลดยอดสั่งซื้อ TPU จาก Broadcom ด้านกลุ่มหน่วยความจำและเครื่องจักรอย่าง SK hynix, Samsung, Micron และ KLA ต่างเร่งขยายกำลังผลิต HBM4 และบรรจุภัณฑ์ขั้นสูงเพื่อรองรับคำสั่งซื้อระยะยาวต่อเนื่อง"
               },
     "themes":  {
                    "en":  [
-                              "NVIDIA governance and SEC shock",
-                              "Expanded US AI export curbs",
-                              "Record AI foundry and WFE spend",
-                              "HBM expansion meets antitrust scrutiny"
+                              "Vera Rubin \u0026 AI Boom",
+                              "NVIDIA CEO Whiplash",
+                              "Remote-Compute Export Curbs",
+                              "HBM4 \u0026 Packaging Scale-Up"
                           ],
                    "th":  [
-                              "แรงสั่นสะเทือนผู้บริหารและคดี SEC ของ NVIDIA",
-                              "สหรัฐฯ ขยายมาตรการคุมส่งออกชิป AI",
-                              "งบลงทุนโรงงานและเครื่องจักรชิป AI ทำสถิติใหม่",
-                              "เร่งขยายกำลังผลิต HBM ท่ามกลางคดีผูกขาดราคา"
+                              "แรงส่ง Vera Rubin และดีมานด์ AI",
+                              "จุดเปลี่ยน CEO ของ NVIDIA",
+                              "เกณฑ์คุมส่งออกคลาวด์ AI สหรัฐฯ",
+                              "เร่งขยายกำลังผลิต HBM4 และแพ็กเกจจิ้ง"
                           ]
                },
     "items":  [
                   {
-                      "date":  "2026-11-12",
-                      "impact":  "negative",
-                      "publisher":  "NVIDIA Newsroom",
+                      "date":  "2026-11-23",
+                      "impact":  "positive",
+                      "publisher":  "NVIDIA",
                       "tickers":  [
                                       "NVDA"
                                   ],
-                      "title_en":  "Jensen Huang resigns as NVIDIA CEO; CFO Colette Kress named interim chief",
-                      "title_th":  "Jensen Huang ลาออกจาก CEO ของ NVIDIA ตั้ง CFO Colette Kress รักษาการแทน",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-                      "why_en":  "Huang\u0027s immediate exit from the CEO role and board after 33 years creates major leadership and strategic-continuity risk at the core supplier of AI compute while NVIDIA searches for a permanent successor.",
-                      "why_th":  "การลงจากตำแหน่ง CEO และบอร์ดอย่างกะทันหันหลังนำทัพมายาวนาน 33 ปี สร้างความเสี่ยงด้านผู้นำและความต่อเนื่องเชิงกลยุทธ์ต่อแกนหลักของอุตสาหกรรมชิป AI ระหว่างรอสรรหาผู้สืบทอดถาวร"
-                  },
-                  {
-                      "date":  "2026-11-20",
-                      "impact":  "negative",
-                      "publisher":  "Reuters",
-                      "tickers":  [
-                                      "NVDA"
-                                  ],
-                      "title_en":  "US SEC investigating NVIDIA accounting practices, Reuters reports",
-                      "title_th":  "Reuters รายงาน SEC สหรัฐฯ กำลังสอบสวนแนวปฏิบัติทางบัญชีของ NVIDIA",
-                      "url":  "https://www.reuters.com/technology/nvidias-accounting-focus-us-sec-investigation-sources-say-2026-11-20/",
-                      "why_en":  "An enforcement inquiry focused on accounting and revenue disclosures compounds governance overhang after the CEO transition and coincided with a roughly 13% single-day drop in NVDA shares.",
-                      "why_th":  "การตรวจสอบด้านบัญชีและการเปิดเผยรายได้ซ้ำเติมความกังวลด้านธรรมาภิบาลหลังการเปลี่ยนตัว CEO และเป็นปัจจัยกดดันให้หุ้น NVDA ร่วงลงราว 13% ในวันเดียว"
+                      "title_en":  "NVIDIA board unanimously reinstates Jensen Huang as CEO",
+                      "title_th":  "บอร์ด NVIDIA มีมติเอกฉันท์ให้ Jensen Huang กลับมาเป็น CEO",
+                      "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+                      "why_en":  "Bringing Huang back 11 days after his resignation removes acute leadership overhang and restores continuity across NVIDIA\u0027s AI roadmap and hyperscaler supply partnerships.",
+                      "why_th":  "การกลับมาของ Huang ภายใน 11 วันหลังลาออกช่วยขจัดความไม่แน่นอนด้านผู้นำ และรักษาความต่อเนื่องของแผนพัฒนาชิป AI รวมถึงความร่วมมือกับกลุ่มคลาวด์รายใหญ่"
                   },
                   {
                       "date":  "2026-11-17",
                       "impact":  "positive",
-                      "publisher":  "NVIDIA Newsroom",
+                      "publisher":  "NVIDIA",
                       "tickers":  [
                                       "NVDA"
                                   ],
-                      "title_en":  "NVIDIA Q3 FY27 revenue doubles to $115.8B; Q4 guided to $130B",
-                      "title_th":  "NVIDIA รายได้ไตรมาส 3 ปีงบฯ 27 โตเท่าตัวแตะ $115.8B คาดไตรมาส 4 แตะ $130B",
+                      "title_en":  "NVIDIA Q3 revenue doubles to $115.8B as Vera Rubin ramps",
+                      "title_th":  "รายได้ไตรมาส 3 ของ NVIDIA โตเท่าตัวแตะ $115.8B หนุนโดย Vera Rubin",
                       "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-                      "why_en":  "Data Center revenue rose 110% year-over-year to $107.6 billion on Vera Rubin demand, confirming massive hyperscaler spend even as Q4 gross margin is guided down to 71%–72% from 74.8% with zero China data center compute assumed.",
-                      "why_th":  "รายได้ Data Center พุ่ง 110% YoY แตะ $107.6B จากดีมานด์แพลตฟอร์ม Vera Rubin สะท้อนการใช้จ่ายของกลุ่ม hyperscaler ที่ยังมหาศาล แม้แนวโน้มอัตรากำไรขั้นต้นไตรมาส 4 จะชะลอลงสู่ 71%–72% จาก 74.8% โดยไม่รวมรายได้ชิปศูนย์ข้อมูลจากจีน"
+                      "why_en":  "Data center sales surged 110% YoY to $107.6 billion with Vera Rubin NVL72 nearing $20 billion in its debut quarter, while $130.0 billion Q4 guidance confirms unabated AI compute demand.",
+                      "why_th":  "รายได้กลุ่ม Data Center พุ่ง 110% YoY แตะ 107.6 พันล้านดอลลาร์ โดย Vera Rubin NVL72 ทำยอดขายเกือบ 20 พันล้านดอลลาร์ตั้งแต่ไตรมาสแรกที่เริ่มส่งมอบ พร้อมคาดการณ์รายได้ไตรมาส 4 ที่ 130.0 พันล้านดอลลาร์สะท้อนดีมานด์ที่ยังแข็งแกร่งมาก"
                   },
                   {
                       "date":  "2026-11-19",
@@ -320,169 +315,177 @@ window.AI_NEWS = {"L1":{
                       "tickers":  [
                                       "NVDA",
                                       "AMD",
+                                      "CBRS",
                                       "AVGO",
                                       "MRVL",
-                                      "CBRS",
-                                      "TSM"
+                                      "TSM",
+                                      "SMSN"
                                   ],
-                      "title_en":  "US expands AI chip export curbs to five countries and remote cloud access",
-                      "title_th":  "สหรัฐฯ ขยายมาตรการคุมส่งออกชิป AI สู่ 5 ประเทศและคุมการใช้คลาวด์จากระยะไกล",
-                      "url":  "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
-                      "why_en":  "The BIS interim final rule requires export licenses for advanced AI chips shipped to Singapore, Malaysia, Indonesia, Thailand, and Brazil—and for offshore data centers above 12 million TPP serving Chinese entities—adding compliance friction across the AI chip supply chain.",
-                      "why_th":  "กฎชั่วคราวของ BIS กำหนดให้ต้องขอใบอนุญาตส่งออกชิป AI ขั้นสูงไปยังสิงคโปร์ มาเลเซีย อินโดนีเซีย ไทย และบราซิล รวมถึงศูนย์ข้อมูลนอกสหรัฐฯ ที่มีกำลังประมวลผลเกิน 12 ล้าน TPP ที่ให้บริการบริษัทจีน เพิ่มต้นทุนการปฏิบัติตามกฎและจำกัดดีมานด์นอกประเทศตลอดห่วงโซ่ชิป AI"
+                      "title_en":  "US BIS restricts remote AI chip access and tightens regional licensing",
+                      "title_th":  "สหรัฐฯ ออกเกณฑ์คุมการเข้าถึงชิป AI ผ่านคลาวด์และเพิ่มใบอนุญาตส่งออกในภูมิภาค",
+                      "url":  "https://www.federalregister.gov/d/2026-23529",
+                      "why_en":  "The interim rule requires licenses for remote compute above 12 million TPP for restricted-country entities and adds licensing for shipments to Singapore, Malaysia, Thailand, Indonesia, and Brazil, raising compliance friction across AI chipmakers and foundries.",
+                      "why_th":  "เกณฑ์ใหม่กำหนดให้ต้องขอใบอนุญาตหากให้บริการเช่าใช้พลังประมวลผลเกิน 12 ล้าน TPP แก่องค์กรจากประเทศต้องห้าม และเพิ่มข้อกำหนดใบอนุญาตส่งออกไปสิงคโปร์ มาเลเซีย ไทย อินโดนีเซีย และบราซิล ซึ่งเพิ่มต้นทุนและข้อจำกัดให้ผู้ผลิตชิปและโรงงานรับจ้างผลิต"
                   },
                   {
-                      "date":  "2026-11-11",
+                      "date":  "2026-11-10",
                       "impact":  "positive",
-                      "publisher":  "Focus Taiwan",
+                      "publisher":  "TSMC",
                       "tickers":  [
-                                      "TSM",
-                                      "ASML",
-                                      "AMAT",
-                                      "LRCX",
-                                      "KLAC"
+                                      "TSM"
                                   ],
-                      "title_en":  "TSMC board approves $40.93B capex and lifts quarterly dividend to NT$9",
-                      "title_th":  "บอร์ด TSMC อนุมัติงบลงทุน $40.93B พร้อมเพิ่มเงินปันผลรายไตรมาสเป็น NT$9",
-                      "url":  "https://focustaiwan.tw/business/202611110006",
-                      "why_en":  "Authorizing $40.93 billion for leading-edge fabs, advanced CoWoS packaging, and R\u0026D—alongside raising the Q3 dividend from NT$7 to NT$9—signals multi-year AI wafer demand and sustained tool orders for equipment suppliers.",
-                      "why_th":  "การอนุมัติงบลงทุนถึง $40.93B สำหรับโรงงานโหนดขั้นสูง แพ็กเกจจิ้ง CoWoS และ R\u0026D ควบคู่กับการขึ้นปันผลจาก NT$7 เป็น NT$9 สะท้อนดีมานด์เวเฟอร์ AI ระยะยาวและหนุนยอดสั่งซื้อเครื่องจักรผลิตชิปต่อเนื่อง"
+                      "title_en":  "TSMC October revenue hits record NT$586.89 billion, up 59.7% YoY",
+                      "title_th":  "รายได้เดือนตุลาคมของ TSMC ทำสถิติใหม่ที่ NT$586.89 พันล้าน โต 59.7% YoY",
+                      "url":  "https://pr.tsmc.com/english/news/3349",
+                      "why_en":  "Record monthly sales (+14.7% MoM) lifted January–October revenue 43.3% YoY to NT$4.49 trillion, confirming tight utilization in leading-edge logic and CoWoS AI packaging.",
+                      "why_th":  "ยอดขายรายเดือนที่โต 14.7% จากเดือนก่อนหน้าดันรายได้สะสม 10 เดือนแรกโต 43.3% YoY แตะ 4.49 ล้านล้านดอลลาร์ไต้หวัน ยืนยันอัตราการใช้กำลังการผลิตที่หนาแน่นทั้งชิปขั้นสูงและบรรจุภัณฑ์ CoWoS"
                   },
                   {
                       "date":  "2026-11-20",
-                      "impact":  "positive",
-                      "publisher":  "Anthropic",
+                      "impact":  "negative",
+                      "publisher":  "Investing.com",
                       "tickers":  [
-                                      "AVGO",
-                                      "NVDA",
-                                      "AMD",
-                                      "TSM",
+                                      "AVGO"
+                                  ],
+                      "title_en":  "Report says Google cut 2027 Broadcom TPU 8i shipments by 20%",
+                      "title_th":  "รายงานระบุ Google ลดแผนสั่งซื้อชิป TPU 8i ปี 2027 จาก Broadcom ลง 20%",
+                      "url":  "https://www.investing.com/news/stock-market-news/google-reportedly-cuts-broadcomdesigned-tpu-plans-eyes-more-mediatek-chips-93CH-3694292",
+                      "why_en":  "Analyst Ming-Chi Kuo estimated Google trimmed Broadcom-designed TPU 8i orders by about 1 million units while boosting MediaTek TPU 8t volume, highlighting customer-concentration and custom-ASIC competition risks.",
+                      "why_th":  "นักวิเคราะห์ Ming-Chi Kuo ระบุว่า Google ปรับลดยอดสั่งซื้อ TPU 8i ที่ออกแบบร่วมกับ Broadcom ราว 1 ล้านชิ้นเพื่อหันไปเพิ่มคำสั่งซื้อ TPU 8t จาก MediaTek สะท้อนความเสี่ยงจากการพึ่งพาลูกค้ารายใหญ่และการแข่งขันในตลาดชิป ASIC"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "impact":  "positive",
+                      "publisher":  "Applied Materials",
+                      "tickers":  [
+                                      "AMAT"
+                                  ],
+                      "title_en":  "Applied Materials Q4 revenue jumps 53% to $10.41 billion",
+                      "title_th":  "Applied Materials ทำรายได้ไตรมาส 4 พุ่ง 53% แตะ $10.41 พันล้าน",
+                      "url":  "https://ir.appliedmaterials.com/static-files/ad12d807-bb15-4518-bc3c-8081e5351c35",
+                      "why_en":  "Beating estimates with $4.16 EPS and guiding Q1 FY2027 revenue to $11.10 billion (+/- $500M) points to accelerating fab equipment spending across advanced logic, DRAM, and packaging.",
+                      "why_th":  "กำไรต่อหุ้นที่ 4.16 ดอลลาร์สูงกว่าคาดพร้อมแนวโน้มรายได้ไตรมาส 1 ปีบัญชี 2027 ที่ 11.10 พันล้านดอลลาร์ (+/- 500 ล้านดอลลาร์) สะท้อนรอบการลงทุนเครื่องจักรผลิตชิปขั้นสูง DRAM และแพ็กเกจจิ้งที่เร่งตัวขึ้น"
+                  },
+                  {
+                      "date":  "2026-11-18",
+                      "impact":  "positive",
+                      "publisher":  "Investing.com",
+                      "tickers":  [
+                                      "AMAT",
+                                      "ASML",
+                                      "LRCX",
+                                      "KLAC"
+                                  ],
+                      "title_en":  "Bernstein raises 2028 wafer-fab equipment spending forecast to $279 billion",
+                      "title_th":  "Bernstein ปรับเพิ่มคาดการณ์ตลาดเครื่องจักรผลิตชิปปี 2028 แตะ $279 พันล้าน",
+                      "url":  "https://www.investing.com/news/stock-market-news/bernstein-names-top-semiconductor-equipment-stocks-as-chip-spending-accelerates-932CH-3829422",
+                      "why_en":  "Lifting global WFE projections to $217 billion in 2027 and $279 billion in 2028 underscores multi-year structural tool demand for AI logic, HBM, and advanced packaging across leading equipment makers.",
+                      "why_th":  "การปรับเพิ่มคาดการณ์ยอดใช้จ่ายเครื่องจักร WFE ทั่วโลกเป็น 217 พันล้านดอลลาร์ในปี 2027 และ 279 พันล้านดอลลาร์ในปี 2028 ตอกย้ำวัฏจักรการลงทุนระยะยาวในชิป AI และหน่วยความจำ HBM ของผู้ผลิตเครื่องจักรชั้นนำ"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "AMD",
+                      "tickers":  [
+                                      "AMD"
+                                  ],
+                      "title_en":  "AMD completes $2.9 billion Taalas acquisition to expand AI inference",
+                      "title_th":  "AMD ปิดดีลซื้อกิจการ Taalas มูลค่า $2.9 พันล้าน เสริมทัพชิป AI Inference",
+                      "url":  "https://newsroom.amd.com/news/2026-11-17-amd-completes-acquisition-of-taalas-to-advance-ai-inference-innovation",
+                      "why_en":  "Integrating Taalas (in a deal including up to $1.4 billion in milestone payouts) adds hardwired single-model silicon alongside Instinct GPUs to improve AI inference speed and efficiency.",
+                      "why_th":  "การเข้าซื้อ Taalas (ซึ่งรวมมูลค่าตามเป้าหมายสูงสุด 1.4 พันล้านดอลลาร์) ช่วยเพิ่มเทคโนโลยีชิปที่ฝังโมเดล AI ลงบนซิลิคอนโดยตรงมาเสริมกับ Instinct GPU เพื่อเพิ่มความเร็วและลดต้นทุนงาน Inference"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "impact":  "positive",
+                      "publisher":  "AMD",
+                      "tickers":  [
+                                      "AMD"
+                                  ],
+                      "title_en":  "AMD advances Instinct MI400 series on Helios rack-scale AI systems",
+                      "title_th":  "AMD เผยความคืบหน้าชิป Instinct MI400 และระบบแร็ค Helios สำหรับงาน AI",
+                      "url":  "https://newsroom.amd.com/news/2026-11-12-amd-advances-the-instinct-mi400-series-for-ai-and-scientific-computing",
+                      "why_en":  "Detailing the HBM4-equipped MI430X and Helios rack-scale performance for MI450X and MI455X strengthens AMD\u0027s merchant-GPU roadmap for both sovereign supercomputers and hyperscale AI buyers.",
+                      "why_th":  "การเปิดรายละเอียดชิป MI430X ที่ใช้หน่วยความจำ HBM4 รวมถึงประสิทธิภาพของ MI450X และ MI455X บนระบบแร็ค Helios ช่วยเสริมความแข็งแกร่งให้แผนผลิตภัณฑ์ GPU ทางเลือกหลักรองจาก NVIDIA"
+                  },
+                  {
+                      "date":  "2026-11-13",
+                      "impact":  "mixed",
+                      "publisher":  "DIGITIMES",
+                      "tickers":  [
+                                      "SKH",
+                                      "SMSN"
+                                  ],
+                      "title_en":  "SK hynix HBM4 yield tops 70% as Samsung expands Onyang packaging",
+                      "title_th":  "อัตราผลิตดี HBM4 ของ SK hynix ทะลุ 70% ขณะที่ Samsung ขยายฐานแพ็กเกจจิ้ง Onyang",
+                      "url":  "https://www.digitimes.com/news/20261113VL215/sk-hynix-hbm4-yield-samsung-packaging.html",
+                      "why_en":  "Surpassing 70% HBM4 production yields strengthens SK hynix\u0027s volume readiness for next-gen AI accelerators, while Samsung\u0027s packaging scale-up at Onyang intensifies competition for 2027 HBM4 share.",
+                      "why_th":  "อัตราผลผลิตดี (yield) ที่เกิน 70% ตอกย้ำความพร้อมของ SK hynix ในการส่งมอบ HBM4 ปริมาณมากให้ชิป AI รุ่นใหม่ ขณะที่ Samsung เร่งขยายกำลังผลิตแพ็กเกจจิ้งที่โรงงาน Onyang ทำให้การแข่งขันชิงส่วนแบ่งตลาดปี 2027 ดุเดือดขึ้น"
+                  },
+                  {
+                      "date":  "2026-11-19",
+                      "impact":  "positive",
+                      "publisher":  "Singapore Economic Development Board",
+                      "tickers":  [
                                       "MU"
                                   ],
-                      "title_en":  "Anthropic closes IPO and $26B private placement with Broadcom, NVIDIA, AMD, TSMC, Micron",
-                      "title_th":  "Anthropic ปิดดีล IPO พร้อมขายหุ้นเฉพาะเจาะจง $26B ให้ Broadcom, NVIDIA, AMD, TSMC และ Micron",
-                      "url":  "https://anthropic.com/news/anthropic-announces-closing-of-initial-public-offering-including-full-exercise-of-underwriters-option-to-purchase-additional-shares-and-closing-of-concurrent-private-placement",
-                      "why_en":  "Anthropic\u0027s public listing and $26.0 billion concurrent Class N placement at $83 per share deepen capital ties with key ASIC, GPU, foundry, and memory suppliers while strengthening a major frontier AI customer\u0027s funding runway.",
-                      "why_th":  "การเข้าตลาดหุ้นและการระดมทุนเฉพาะเจาะจง $26.0B ที่ราคา $83 ต่อหุ้น ช่วยเสริมฐานเงินทุนให้ลูกค้ารายใหญ่ด้านโมเดล AI และกระชับความร่วมมือระยะยาวกับซัพพลายเออร์หลักทั้งฝั่ง ASIC, GPU, foundry และหน่วยความจำ"
+                      "title_en":  "Micron moves first tool into $7 billion Singapore HBM packaging plant",
+                      "title_th":  "Micron เริ่มติดตั้งเครื่องจักรชุดแรกในโรงงานแพ็กเกจจิ้ง HBM มูลค่า $7 พันล้านที่สิงคโปร์",
+                      "url":  "https://www.edb.gov.sg/en/news-and-insights/micron-marks-first-tool-move-in-at-singapore-hbm-advanced-packaging-facility.html",
+                      "why_en":  "Installing the first cleanroom process tool keeps Micron\u0027s $7 billion HBM packaging facility on schedule for early-2027 initial output as its 2027 HBM capacity remains heavily committed.",
+                      "why_th":  "การนำเครื่องจักรเข้าห้องปลอดเชื้อชุดแรกช่วยให้โรงงานแพ็กเกจจิ้ง HBM มูลค่า 7 พันล้านดอลลาร์เดินหน้าตามแผนเพื่อเริ่มผลิตช่วงต้นปี 2027 รองรับคำสั่งซื้อ HBM ปี 2027 ที่ถูกจองไว้เกือบเต็มแล้ว"
                   },
                   {
                       "date":  "2026-11-12",
                       "impact":  "positive",
                       "publisher":  "GlobeNewswire",
                       "tickers":  [
-                                      "AMAT"
-                                  ],
-                      "title_en":  "Applied Materials Q4 revenue jumps 53% to $10.41B with strong Q1 outlook",
-                      "title_th":  "Applied Materials รายได้ไตรมาส 4 พุ่ง 53% แตะ $10.41B พร้อมคาดการณ์ไตรมาส 1 แข็งแกร่ง",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/12/3387854/0/en/Applied-Materials-Announces-Fourth-Quarter-and-Fiscal-Year-2026-Results.html",
-                      "why_en":  "Record quarterly revenue of $10.41 billion, 50.6% non-GAAP gross margin, and ~$11.1 billion Q1 revenue guidance highlight accelerating wafer-fab equipment spending in leading-edge logic, DRAM, and advanced packaging.",
-                      "why_th":  "รายได้สูงสุดเป็นประวัติการณ์ที่ $10.41B อัตรากำไรขั้นต้น non-GAAP ที่ 50.6% และคาดการณ์รายได้ไตรมาส 1 ราว $11.1B ยืนยันวัฏจักรการลงทุนเครื่องจักรผลิตชิปที่เร่งตัวในกลุ่มลอจิกขั้นสูง DRAM และแพ็กเกจจิ้งขั้นสูง"
-                  },
-                  {
-                      "date":  "2026-11-12",
-                      "impact":  "positive",
-                      "publisher":  "Cerebras Systems",
-                      "tickers":  [
                                       "CBRS"
                                   ],
-                      "title_en":  "Cerebras Q3 core revenue grows 70% to $230.9M as Microsoft signs on",
-                      "title_th":  "Cerebras รายได้หลักไตรมาส 3 โต 70% แตะ $230.9M พร้อมคว้า Microsoft เป็นลูกค้าคลาวด์รายใหม่",
-                      "url":  "https://investors.cerebras.ai/news/news-details/2026/Cerebras-Systems-Delivers-Record-Revenue-in-Third-Quarter-2026-Raises-Full-Year-Outlook/default.aspx",
-                      "why_en":  "Signing Microsoft alongside AWS and Oracle, posting its first non-GAAP profit of $29.8 million, and raising 2026 core revenue guidance to $940–$960 million validate hyperscale demand for wafer-scale AI inference.",
-                      "why_th":  "การได้ Microsoft เพิ่มเป็นลูกค้า hyperscaler รายที่สามต่อจาก AWS และ Oracle การพลิกมีกำไร non-GAAP ครั้งแรก $29.8M และการปรับเป้ารายได้หลักทั้งปี 2026 ขึ้นเป็น $940–$960M พิสูจน์การยอมรับเทคโนโลยี wafer-scale ในงาน AI inference"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "negative",
-                      "publisher":  "POLITICO Europe",
-                      "tickers":  [
-                                      "ASML"
-                                  ],
-                      "title_en":  "Dutch government rejects US MATCH Act targeting ASML DUV tools and China servicing",
-                      "title_th":  "รัฐบาลเนเธอร์แลนด์คัดค้านร่างกฎหมาย MATCH Act ของสหรัฐฯ ที่มุ่งจำกัดเครื่อง DUV และบริการของ ASML ในจีน",
-                      "url":  "https://www.politico.eu/article/dutch-resist-unacceptable-us-bid-to-tighten-semiconductor-export-controls-asml/",
-                      "why_en":  "Although The Hague called the bill\u0027s extraterritorial 150-day mandate unacceptable, the US legislative push threatens new DUV tool sales and recurring maintenance revenue in China, which represents roughly a third of ASML\u0027s sales.",
-                      "why_th":  "แม้เนเธอร์แลนด์จะปฏิเสธข้อกำหนดนอกอาณาเขตที่ให้เวลา 150 วันในการคุมเข้มตามสหรัฐฯ แต่แรงกดดันจากสภาคองเกรสยังสร้างความเสี่ยงต่อยอดขายเครื่อง DUV และรายได้บริการซ่อมบำรุงในจีนซึ่งคิดเป็นราว 1 ใน 3 ของรายได้ ASML"
-                  },
-                  {
-                      "date":  "2026-11-15",
-                      "impact":  "negative",
-                      "publisher":  "Tom\u0027s Hardware",
-                      "tickers":  [
-                                      "SKH",
-                                      "SMSN",
-                                      "MU"
-                                  ],
-                      "title_en":  "US judge lets DRAM price-fixing suit proceed against Samsung, SK hynix, Micron",
-                      "title_th":  "ศาลสหรัฐฯ ไม่รับคำร้องยกฟ้อง สั่งเดินหน้าคดีฮั้วราคา DRAM ต่อ Samsung, SK hynix และ Micron",
-                      "url":  "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-dram-collusion-plausible-after-500-percent-price-surge",
-                      "why_en":  "Denying dismissal sends the class-action suit against the trio controlling over 91% of global DRAM revenue into fact discovery, raising legal-cost, disclosure, and potential damages risks tied to their HBM capacity shift.",
-                      "why_th":  "การที่คดีฟ้องร้องแบบกลุ่มต่อผู้ผลิตที่ครองส่วนแบ่งรายได้ DRAM โลกกว่า 91% เข้าสู่ชั้นสืบพยานเอกสาร เพิ่มความเสี่ยงด้านค่าใช้จ่ายทางกฎหมาย การเปิดเผยข้อมูลกลยุทธ์ราคา และค่าเสียหายที่อาจเกิดขึ้นจากการโยกกำลังผลิตไป HBM"
+                      "title_en":  "Cerebras posts record Q3 revenue and raises 2026 core guidance",
+                      "title_th":  "Cerebras ทำรายได้ไตรมาส 3 สูงสุดเป็นประวัติการณ์พร้อมปรับเพิ่มเป้ารายได้ปี 2026",
+                      "url":  "https://www.globenewswire.com/news-release/2026/11/12/3091480/0/en/Cerebras-Systems-Delivers-Record-Revenue-in-Third-Quarter.html",
+                      "why_en":  "Core revenue climbed 70% YoY to $230.9 million (GAAP $210.8 million, +55% YoY) on surging wafer-scale AI inference demand, prompting management to raise 2026 core revenue guidance to $940–$960 million.",
+                      "why_th":  "รายได้หลักพุ่ง 70% YoY แตะ 230.9 ล้านดอลลาร์ (รายได้ตามบัญชี GAAP 210.8 ล้านดอลลาร์ โต 55% YoY) จากความต้องการประมวลผล AI Inference บนชิปขนาดแผ่นเวเฟอร์ ทำให้บริษัทปรับเพิ่มเป้ารายได้หลักทั้งปี 2026 เป็น 940–960 ล้านดอลลาร์"
                   },
                   {
                       "date":  "2026-11-20",
                       "impact":  "positive",
-                      "publisher":  "Samsung Newsroom",
+                      "publisher":  "Singapore Economic Development Board",
                       "tickers":  [
-                                      "SMSN"
+                                      "KLAC"
                                   ],
-                      "title_en":  "Samsung Electronics names Sang Joon Hwang Memory head in chip leadership overhaul",
-                      "title_th":  "Samsung Electronics ปรับทัพผู้บริหารชิป ตั้ง Sang Joon Hwang คุมธุรกิจหน่วยความจำเต็มตัว",
-                      "url":  "https://news.samsung.com/global/samsung-electronics-announces-new-leadership",
-                      "why_en":  "Promoting DRAM and HBM veteran Sang Joon Hwang to President of Memory frees Vice Chairman Young Hyun Jun from dual operational duties to focus on overall Device Solutions strategy and turning around foundry execution.",
-                      "why_th":  "การเลื่อนตำแหน่ง Sang Joon Hwang ผู้เชี่ยวชาญด้าน DRAM และ HBM ขึ้นเป็นประธานธุรกิจหน่วยความจำ ช่วยให้รองประธาน Young Hyun Jun ลดภาระควบตำแหน่งและโฟกัสกลยุทธ์กลุ่ม DS รวมถึงการฟื้นฟูธุรกิจ foundry ได้เต็มที่ขึ้น"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "The Korea Herald",
-                      "tickers":  [
-                                      "SKH"
-                                  ],
-                      "title_en":  "SK hynix 9M capex hits record 31.22 trillion won for HBM4 expansion",
-                      "title_th":  "SK hynix ทุ่มงบลงทุน 9 เดือนแรกสูงสุดเป็นประวัติการณ์ 31.22 ล้านล้านวอน เร่งขยายกำลังผลิต HBM4",
-                      "url":  "https://www.koreaherald.com/view.php?ud=20261117050308",
-                      "why_en":  "Spending 31.22 trillion won (~$23.4 billion) in nine months—already exceeding its entire prior-year capex of 30.17 trillion won—accelerates Cheongju M15X and Yongin capacity to defend its HBM4 leadership.",
-                      "why_th":  "เม็ดเงินลงทุน 31.22 ล้านล้านวอน (ราว $23.4B) ใน 9 เดือนซึ่งแซงยอดทั้งปีก่อนที่ 30.17 ล้านล้านวอนแล้ว ช่วยเร่งขยายโรงงาน Cheongju M15X และ Yongin เพื่อรักษาความเป็นผู้นำตลาด HBM4"
-                  },
-                  {
-                      "date":  "2026-11-18",
-                      "impact":  "positive",
-                      "publisher":  "Singapore EDB",
-                      "tickers":  [
-                                      "MU"
-                                  ],
-                      "title_en":  "Micron installs first tools at $7B Singapore HBM advanced packaging plant",
-                      "title_th":  "Micron เริ่มติดตั้งเครื่องจักรชุดแรกที่โรงงานแพ็กเกจจิ้ง HBM มูลค่า $7B ในสิงคโปร์",
-                      "url":  "https://www.edb.gov.sg/en/news-and-insights/press-releases/micron-marks-first-tool-move-in-at-singapore-hbm-advanced-packaging-facility.html",
-                      "why_en":  "First tool move-in keeps Micron\u0027s $7 billion facility—its first HBM advanced packaging site outside Taiwan—on schedule for early 2027 output, adding geographic resilience amid labor friction in Taiwan.",
-                      "why_th":  "การเริ่มติดตั้งเครื่องจักรช่วยให้โรงงานมูลค่า $7B ซึ่งเป็นฐานแพ็กเกจจิ้ง HBM นอกไต้หวันแห่งแรกของ Micron เดินหน้าตามแผนผลิตต้นปี 2027 ช่วยกระจายความเสี่ยงกำลังผลิตท่ามกลางข้อพิพาทแรงงานในไต้หวัน"
+                      "title_en":  "KLA opens 210,000-square-foot Singapore expansion for AI process control",
+                      "title_th":  "KLA เปิดอาคารผลิตใหม่ขนาด 210,000 ตร.ฟุตในสิงคโปร์ รองรับเครื่องตรวจจับชิป AI",
+                      "url":  "https://www.edb.gov.sg/en/news-and-insights/kla-celebrates-building-22b-opening-in-singapore-and-outlines-plans-for-further-expansion.html",
+                      "why_en":  "Doubling its Ang Mo Kio site to 420,000 square feet expands KLA\u0027s manufacturing capacity for process-control tools used in AI chips, advanced packaging, and silicon photonics.",
+                      "why_th":  "การขยายพื้นที่ฐานการผลิตในสิงคโปร์เพิ่มขึ้นเท่าตัวเป็น 420,000 ตารางฟุต ช่วยเพิ่มกำลังผลิตเครื่องมือตรวจสอบและควบคุมคุณภาพสำหรับชิป AI บรรจุภัณฑ์ขั้นสูง และซิลิคอนโฟโตนิกส์"
                   },
                   {
                       "date":  "2026-11-16",
                       "impact":  "positive",
-                      "publisher":  "AMD",
+                      "publisher":  "Business Wire",
                       "tickers":  [
-                                      "AMD"
+                                      "MRVL"
                                   ],
-                      "title_en":  "AMD-powered Lux AI supercomputer opens at Oak Ridge with MI355X GPUs",
-                      "title_th":  "ซูเปอร์คอมพิวเตอร์ AI รุ่น Lux ที่ใช้ชิป AMD Instinct MI355X เปิดใช้งานที่ Oak Ridge",
-                      "url":  "https://www.amd.com/en/newsroom/press-releases/2026-11-16-amd-powered-lux-supercomputer-opens-to-scien.html",
-                      "why_en":  "Debuting at No. 14 on the TOP500 with 220.79 petaflops and over 4,000 Instinct MI355X GPUs alongside EPYC CPUs and ROCm software strengthens AMD\u0027s sovereign AI and HPC reference footprint.",
-                      "why_th":  "การเปิดตัวติดอันดับ 14 ของโลกใน TOP500 ด้วยพลังประมวลผล 220.79 petaflops จากการ์ด Instinct MI355X กว่า 4,000 ตัวร่วมกับซีพียู EPYC และซอฟต์แวร์ ROCm ช่วยตอกย้ำจุดยืนของ AMD ในตลาด AI ภาครัฐและ HPC"
+                      "title_en":  "Marvell partners with Penguin Solutions on CXL AI memory scaling",
+                      "title_th":  "Marvell จับมือ Penguin Solutions พัฒนาโซลูชันขยายหน่วยความจำ CXL สำหรับงาน AI",
+                      "url":  "https://www.businesswire.com/news/home/20261116246473/en/Marvell-and-Penguin-Solutions-Collaborate-to-Address-Data-Center-AI-Memory-and-Accelerate-Inference-at-Scale",
+                      "why_en":  "Combining Marvell\u0027s Structera X CXL memory controllers and photonic fabric with Penguin\u0027s data center platform targets AI inference memory bottlenecks such as large KV-cache workloads.",
+                      "why_th":  "การผสานชิปควบคุมหน่วยความจำ Structera X CXL และเทคโนโลยีโฟโตนิกส์ของ Marvell เข้ากับแพลตฟอร์มของ Penguin มุ่งปลดล็อกคอขวดด้านหน่วยความจำสำหรับการรัน AI Inference ขนาดใหญ่ในดาต้าเซ็นเตอร์"
                   },
                   {
-                      "date":  "2026-11-20",
+                      "date":  "2026-11-23",
                       "impact":  "positive",
-                      "publisher":  "Channel NewsAsia",
+                      "publisher":  "GlobeNewswire",
                       "tickers":  [
-                                      "KLAC"
+                                      "ASML"
                                   ],
-                      "title_en":  "KLA doubles Singapore manufacturing hub to 420,000 sq ft for AI tools",
-                      "title_th":  "KLA ขยายฐานผลิตในสิงคโปร์เพิ่มเท่าตัวเป็น 420,000 ตร.ฟุต รองรับเครื่องมือผลิตชิป AI",
-                      "url":  "https://www.channelnewsasia.com/singapore/us-semicon-equipment-maker-kla-expands-singapore-presence-400-new-jobs-expected-4752256",
-                      "why_en":  "Opening the 210,000-sq-ft Building 22B adds cleanroom capacity and 400 jobs at KLA\u0027s largest global manufacturing base to support rising demand in advanced packaging, silicon photonics, and AI process control.",
-                      "why_th":  "การเปิดอาคาร Building 22B ขนาด 210,000 ตร.ฟุต ช่วยเพิ่มพื้นที่คลีนรูมและการจ้างงาน 400 ตำแหน่งที่ฐานผลิตใหญ่ที่สุดของ KLA เพื่อรองรับดีมานด์เครื่องมือตรวจสอบคุณภาพในกลุ่มแพ็กเกจจิ้งขั้นสูง ซิลิคอนโฟโตนิกส์ และชิป AI"
+                      "title_en":  "ASML repurchases 445,000 shares for €557 million during chip pullback",
+                      "title_th":  "ASML เร่งซื้อหุ้นคืน 445,000 หุ้นมูลค่า €557 ล้าน ช่วงหุ้นกลุ่มชิปปรับฐาน",
+                      "url":  "https://www.globenewswire.com/news-release/2026/11/23/3408663/0/en/ASML-reports-transactions-under-its-current-share-buyback-program.html",
+                      "why_en":  "Accelerating weekly buybacks to €557 million between Nov 16 and Nov 20 underscores balance-sheet strength and management confidence in long-term EUV lithography demand despite sector volatility.",
+                      "why_th":  "การเร่งซื้อหุ้นคืนมูลค่าถึง 557 ล้านยูโรภายในสัปดาห์เดียวระหว่างวันที่ 16–20 พฤศจิกายน สะท้อนฐานะการเงินที่แข็งแกร่งและความมั่นใจของผู้บริหารต่อความต้องการเครื่อง EUV ระยะยาวท่ามกลางความผันผวนของกลุ่มชิป"
                   }
               ]
 },
@@ -492,31 +495,44 @@ window.AI_NEWS = {"L1":{
     "model":  "gemini-4-neon-high",
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T05:25:30Z",
+    "generatedAt":  "2026-11-24T03:19:23Z",
     "period":  [
-                   "2026-11-09",
-                   "2026-11-23"
+                   "2026-11-10",
+                   "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "AI infrastructure demand remained strong—highlighted by NVIDIA\u0027s $115.8 billion Q3 revenue and a wave of SC26 inference and interconnect launches from Arista, Marvell, Astera Labs, SiTime, and Supermicro—but governance and policy shocks dominated the period. Jensen Huang\u0027s sudden resignation, an SEC accounting probe into NVIDIA, stricter US BIS remote-compute export controls, and a reported 20% cut to Google\u0027s 2027 Broadcom TPU 8i orders weighed heavily on compute and server stocks. Meanwhile, soaring memory costs pushed AI server makers to reprice signed contracts by up to 45%, while a potential US import ban on Chinese optical transceivers created a regulatory tailwind for Coherent and Lumentum.",
-                  "th":  "ความต้องการโครงสร้างพื้นฐาน AI ยังคงแข็งแกร่ง นำโดยรายได้ Q3 ของ NVIDIA ที่พุ่งแตะ $115.8 พันล้าน และคลื่นผลิตภัณฑ์ด้าน AI inference กับชิปเชื่อมต่อความเร็วสูงในงาน SC26 จาก Arista, Marvell, Astera Labs, SiTime และ Supermicro ทว่าแรงสั่นสะเทือนด้านธรรมาภิบาลและนโยบายรัฐกลับเป็นปัจจัยหลักที่ครอบงำตลาดในช่วงนี้ ทั้งการลาออกกะทันหันของ Jensen Huang การสอบสวนทางบัญชีของ SEC ต่อ NVIDIA กฎควบคุมการเข้าถึงพลังประมวลผล AI ระยะไกลของสหรัฐฯ (BIS) และรายงานว่า Google ลดยอดสั่งซื้อชิป TPU 8i ปี 2027 ของ Broadcom ลง 20% ขณะเดียวกัน ต้นทุนหน่วยความจำที่พุ่งสูงทำให้ผู้ผลิตเซิร์ฟเวอร์ AI ต้องขอปรับขึ้นราคาหลังเซ็นสัญญาสูงสุดถึง 45% ส่วนแผนจำกัดการนำเข้า optical transceiver จากจีนของสหรัฐฯ กลายเป็นแรงหนุนสำคัญต่อ Coherent และ Lumentum"
+                  "en":  "The past two weeks were dominated by dramatic swings at NVIDIA—which posted $115.8 billion in Q3 revenue with nearly $20 billion from its first Vera Rubin NVL72 quarter before reinstating CEO Jensen Huang 11 days after his resignation. Meanwhile, supply-chain and policy pressures intensified across Layer 3 as the U.S. advanced FCC curbs on Chinese optical transceivers and server makers raised delivery prices up to 45% amid severe memory shortages. At Supercomputing 2026 (SC26), networking, interconnect, timing, and server vendors rolled out next-generation rack-scale inference, optical memory, and PCIe Gen 6 platforms while Credo and Marvell settled their AEC patent dispute.",
+                  "th":  "ช่วงสองสัปดาห์ที่ผ่านมา Layer 3 เด่นที่สุดด้วยเหตุการณ์พลิกผันของ NVIDIA ที่รายงานรายได้ Q3 ทะลุ $115.8 พันล้าน โดย Vera Rubin NVL72 ทำยอดขายเกือบ $20 พันล้านในไตรมาสแรก ก่อนที่บอร์ดจะดึงซีอีโอ Jensen Huang กลับมาดำรงตำแหน่งอีกครั้งหลังลาออกไปได้เพียง 11 วัน ขณะเดียวกันแรงกดดันด้านซัพพลายเชนและนโยบายเข้มข้นขึ้น ทั้งการที่สหรัฐฯ เดินหน้าจำกัดการนำเข้า optical transceiver จากจีน และผู้ผลิตเซิร์ฟเวอร์ AI อย่าง Dell กับ Supermicro ต้องปรับราคาส่งมอบขึ้นสูงสุด 45% จากภาวะขาดแคลนเมมโมรี นอกจากนี้ งาน Supercomputing 2026 (SC26) ยังเต็มไปด้วยการเปิดตัวแพลตฟอร์มระดับแร็ก การเชื่อมต่อด้วยแสง และชิปเชื่อมต่อรุ่นใหม่ พร้อมข่าวดีที่ Credo กับ Marvell ยุติข้อพิพาทสิทธิบัตรสาย AEC ร่วมกันได้สำเร็จ"
               },
     "themes":  {
                    "en":  [
-                              "NVIDIA Governance \u0026 SEC Probe",
-                              "US Export \u0026 Optics Curbs",
-                              "AI Server Cost Repricing",
-                              "SC26 Inference Interconnect Launches"
+                              "NVIDIA leadership \u0026 Rubin ramp",
+                              "U.S. optical transceiver curbs",
+                              "Memory-driven server price hikes",
+                              "SC26 rack-scale interconnect launches"
                           ],
                    "th":  [
-                              "ธรรมาภิบาล NVIDIA และสอบสวน SEC",
-                              "สหรัฐฯ คุมส่งออก AI และออปติกส์จีน",
-                              "ต้นทุนเมมโมรี่ดันราคาเซิร์ฟเวอร์ AI",
-                              "เปิดตัวเทคโนโลยีเชื่อมโยง SC26"
+                              "ซีอีโอ NVIDIA และยอด Vera Rubin",
+                              "สหรัฐฯ จำกัด Optical Transceiver จีน",
+                              "เซิร์ฟเวอร์ AI ขึ้นราคาจากวิกฤตเมมโมรี",
+                              "เปิดตัวโซลูชันเชื่อมต่อแร็กในงาน SC26"
                           ]
                },
     "items":  [
+                  {
+                      "date":  "2026-11-23",
+                      "impact":  "positive",
+                      "publisher":  "NVIDIA",
+                      "tickers":  [
+                                      "NVDA"
+                                  ],
+                      "title_en":  "NVIDIA board reinstates Jensen Huang as CEO 11 days after resignation",
+                      "title_th":  "บอร์ด NVIDIA ดึง Jensen Huang กลับมานั่งซีอีโอหลังลาออกเพียง 11 วัน",
+                      "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+                      "why_en":  "Unanimously reinstating Huang after senior U.S. government input removes major leadership and execution risk for NVIDIA\u0027s rack-scale AI roadmap.",
+                      "why_th":  "มติเอกฉันท์ในการดึง Jensen Huang กลับมาหลังได้รับข้อมูลจากรัฐบาลสหรัฐฯ ช่วยปลดล็อกความเสี่ยงด้านภาวะผู้นำและความต่อเนื่องของโรดแมปเซิร์ฟเวอร์ AI ระดับแร็กของ NVIDIA"
+                  },
                   {
                       "date":  "2026-11-17",
                       "impact":  "positive",
@@ -524,66 +540,29 @@ window.AI_NEWS = {"L1":{
                       "tickers":  [
                                       "NVDA"
                                   ],
-                      "title_en":  "NVIDIA Q3 revenue jumps 103% to $115.8B with $130B Q4 outlook",
-                      "title_th":  "NVIDIA รายได้ Q3 พุ่ง 103% แตะ $115.8 พันล้าน พร้อมคาดการณ์ Q4 ที่ $130 พันล้าน",
+                      "title_en":  "NVIDIA Q3 revenue doubles to $115.8B as Vera Rubin nears $20B",
+                      "title_th":  "NVIDIA รายได้ Q3 พุ่งเท่าตัวแตะ $115.8B ดันยอด Vera Rubin เกือบ $20B",
                       "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-                      "why_en":  "Beating Q3 estimates alongside a $130 billion Q4 revenue guide and a $150 billion buyback shows hyperscale AI spending and the Rubin ramp remain intact despite executive turmoil.",
-                      "why_th":  "งบ Q3 ที่ออกมาสูงกว่าคาด พร้อมคาดการณ์รายได้ Q4 ที่ $130 พันล้าน และโครงการซื้อหุ้นคืนเพิ่มอีก $150 พันล้าน สะท้อนว่าความต้องการจากกลุ่ม hyperscaler และการเร่งผลิตชิปรุ่น Rubin ยังเดินหน้าต่อได้แม้บริษัทเผชิญความปั่นป่วนระดับผู้บริหาร"
+                      "why_en":  "Q3 FY27 revenue jumped 103% YoY with $107.6 billion from Data Center, $130 billion Q4 guidance, and a $150 billion buyback expansion, confirming brisk demand for Vera Rubin NVL72 racks.",
+                      "why_th":  "รายได้ไตรมาส 3 ปีงบ 2027 โต 103% YoY โดยมีรายได้ Data Center $107.6 พันล้าน คาดการณ์ไตรมาส 4 ที่ $130 พันล้าน และเพิ่มวงเงินซื้อหุ้นคืน $150 พันล้าน ตอกย้ำดีมานด์แร็ก Vera Rubin NVL72 ที่โตเร็วที่สุดในประวัติศาสตร์บริษัท"
                   },
                   {
-                      "date":  "2026-11-20",
-                      "impact":  "negative",
+                      "date":  "2026-11-17",
+                      "impact":  "mixed",
                       "publisher":  "Reuters",
                       "tickers":  [
-                                      "NVDA"
-                                  ],
-                      "title_en":  "US SEC investigating NVIDIA\u0027s accounting practices, Reuters reports",
-                      "title_th":  "Reuters รายงาน SEC สหรัฐฯ กำลังสอบสวนแนวปฏิบัติทางบัญชีของ NVIDIA",
-                      "url":  "https://www.reuters.com/technology/nvidias-accounting-focus-us-sec-investigation-sources-say-2026-11-20/",
-                      "why_en":  "An active SEC accounting inquiry adds serious regulatory and governance overhang on top of export-control scrutiny, even though core chip demand continues to surge.",
-                      "why_th":  "การสอบสวนด้านบัญชีของ SEC เพิ่มแรงกดดันด้านกฎระเบียบและธรรมาภิบาลซ้ำเติมความเสี่ยงเรื่องการคุมส่งออก แม้ธุรกิจชิปหลักจะยังเติบโตอย่างร้อนแรงก็ตาม"
-                  },
-                  {
-                      "date":  "2026-11-12",
-                      "impact":  "negative",
-                      "publisher":  "NVIDIA",
-                      "tickers":  [
-                                      "NVDA"
-                                  ],
-                      "title_en":  "NVIDIA CEO Jensen Huang resigns; CFO Colette Kress named interim chief",
-                      "title_th":  "Jensen Huang ลาออกจากตำแหน่ง CEO ของ NVIDIA ตั้ง CFO Colette Kress รักษาการ",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-                      "why_en":  "The abrupt exit of NVIDIA\u0027s co-founder and longtime leader raises execution and talent-retention uncertainty during the critical transition to Rubin rack-scale systems.",
-                      "why_th":  "การก้าวลงจากตำแหน่งอย่างกะทันหันของผู้ร่วมก่อตั้งและผู้นำหลักสร้างความไม่แน่นอนต่อการดำเนินกลยุทธ์และการรักษาบุคลากรสำคัญในช่วงเปลี่ยนผ่านสู่ระบบระดับแร็กรุ่น Rubin"
-                  },
-                  {
-                      "date":  "2026-11-19",
-                      "impact":  "negative",
-                      "publisher":  "Federal Register",
-                      "tickers":  [
-                                      "NVDA",
+                                      "COHR",
+                                      "LITE",
+                                      "MRVL",
+                                      "ANET",
                                       "AVGO",
-                                      "DELL",
-                                      "SMCI"
+                                      "NVDA"
                                   ],
-                      "title_en":  "US BIS curbs remote AI compute access and adds five-country licenses",
-                      "title_th":  "BIS สหรัฐฯ ออกกฎคุมการเข้าถึงพลังประมวลผล AI ระยะไกล และเพิ่มใบอนุญาตส่งออก 5 ประเทศ",
-                      "url":  "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
-                      "why_en":  "Requiring export licenses above 12 million TPP for restricted-entity remote compute and for shipments to Brazil, Indonesia, Malaysia, Singapore, and Thailand adds compliance friction to overseas AI cluster buildouts.",
-                      "why_th":  "การบังคับขอใบอนุญาตเมื่อดาต้าเซ็นเตอร์ต่างประเทศให้บริการประมวลผลระยะไกลแก่หน่วยงานต้องห้ามเกินเกณฑ์ 12 ล้าน TPP พร้อมเพิ่มข้อกำหนดใบอนุญาตสำหรับการส่งออกไปยังบราซิล อินโดนีเซีย มาเลเซีย สิงคโปร์ และไทย เพิ่มอุปสรรคด้านกฎเกณฑ์ต่อการขยายคลัสเตอร์ AI นอกสหรัฐฯ"
-                  },
-                  {
-                      "date":  "2026-11-20",
-                      "impact":  "negative",
-                      "publisher":  "Seeking Alpha",
-                      "tickers":  [
-                                      "AVGO"
-                                  ],
-                      "title_en":  "Google reportedly cuts 2027 Broadcom TPU 8i orders by 20%",
-                      "title_th":  "มีรายงาน Google ลดคำสั่งซื้อชิป TPU 8i ปี 2027 จาก Broadcom ลง 20%",
-                      "url":  "https://seekingalpha.com/news/4536762-google-shifts-2027-ai-chip-orders-from-broadcom-to-mediatek-ming-chi-kuo-says",
-                      "why_en":  "A reported 1-million-unit cut focused on higher-priced TPU 8i Max inference chips underscores Broadcom\u0027s customer concentration risk as Google shifts power capacity toward MediaTek-designed training TPUs.",
-                      "why_th":  "รายงานการลดยอดส่งมอบลงราว 1 ล้านชิ้น โดยเน้นไปที่รุ่นราคาสูงอย่าง TPU 8i Max สำหรับงาน inference ตอกย้ำความเสี่ยงด้านการพึ่งพาลูกค้ารายใหญ่ของ Broadcom ขณะที่ Google โยกกำลังไฟไปให้ชิปเทรนนิ่งที่ร่วมออกแบบกับ MediaTek มากขึ้น"
+                      "title_en":  "U.S. advances FCC curbs on Chinese optical transceivers despite hyperscaler pushback",
+                      "title_th":  "สหรัฐฯ เดินหน้าให้ FCC จำกัด Optical Transceiver จีน แม้บิ๊กเทคคัดค้านหนัก",
+                      "url":  "https://www.reuters.com/world/us/trumps-china-data-center-curb-advances-despite-amazon-google-meta-lobbying-2026-11-17/",
+                      "why_en":  "Restricting new Chinese transceivers—which account for roughly two-thirds of global supply—boosts share and pricing power for COHR and LITE, but risks higher costs and buildout bottlenecks across U.S. AI clusters.",
+                      "why_th":  "การจำกัดอุปกรณ์รับส่งสัญญาณแสงรุ่นใหม่จากจีนซึ่งครองส่วนแบ่งตลาดโลกราว 2 ใน 3 ช่วยหนุนส่วนแบ่งตลาดและอำนาจต่อรองราคาให้ COHR และ LITE แต่สร้างความเสี่ยงด้านต้นทุนและคอขวดซัพพลายเชนต่อการขยายคลัสเตอร์ AI ในสหรัฐฯ"
                   },
                   {
                       "date":  "2026-11-22",
@@ -593,51 +572,24 @@ window.AI_NEWS = {"L1":{
                                       "DELL",
                                       "SMCI"
                                   ],
-                      "title_en":  "Dell and Supermicro hike AI server prices up to 45% post-contract",
-                      "title_th":  "Dell และ Supermicro ขอขึ้นราคาเซิร์ฟเวอร์ AI สูงสุด 45% หลังเซ็นสัญญาแล้ว",
+                      "title_en":  "Dell and Supermicro raise AI server prices up to 45% on memory shortages",
+                      "title_th":  "Dell และ Supermicro ปรับราคาเซิร์ฟเวอร์ AI ขึ้นสูงสุด 45% หลังเมมโมรีขาดตลาดหนัก",
                       "url":  "https://www.ft.com/content/dd2a6594-6146-4ff1-ac8e-54749c1fc99f",
-                      "why_en":  "Passing through a 400%+ jump in memory costs helps protect server margins, but triggered buyer backlash including an XTX Markets lawsuit against Dell over $62M–$70M in extra charges on a $549M order.",
-                      "why_th":  "การขอปรับขึ้นราคาเพื่อส่งผ่านต้นทุนหน่วยความจำที่พุ่งกว่า 400% ช่วยพยุงอัตรากำไรของผู้ผลิตเซิร์ฟเวอร์ แต่ก่อให้เกิดแรงต้านจากลูกค้า รวมถึงคดีที่ XTX Markets ฟ้อง Dell จากการเรียกเก็บเงินเพิ่ม $62–$70 ล้าน บนสัญญาเดิมมูลค่า $549 ล้าน"
+                      "why_en":  "Passing through 25%–45% post-contract hikes helps defend server makers\u0027 margins after memory prices surged over 400% since early 2024, though it strains customer relationships and raises legal dispute risks.",
+                      "why_th":  "การปรับขึ้นราคาส่งมอบ 25%–45% หลังเซ็นสัญญาช่วยพยุงอัตรากำไรของ DELL และ SMCI ท่ามกลางต้นทุนเมมโมรีที่พุ่งกว่า 400% ตั้งแต่ต้นปี 2024 แต่เพิ่มแรงตึงเครียดกับลูกค้าและความเสี่ยงด้านคดีความ"
                   },
                   {
-                      "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "MarketWatch",
+                      "date":  "2026-11-20",
+                      "impact":  "negative",
+                      "publisher":  "Investing.com",
                       "tickers":  [
-                                      "COHR",
-                                      "LITE"
+                                      "AVGO"
                                   ],
-                      "title_en":  "US advances potential import ban on Chinese optical transceivers",
-                      "title_th":  "สหรัฐฯ เดินหน้าแผนจำกัดการนำเข้า optical transceiver จากจีนแม้บิ๊กเทคคัดค้าน",
-                      "url":  "https://www.marketwatch.com/story/coherent-and-lumentum-stocks-climb-as-potential-u-s-import-ban-threatens-chinese-rivals-9a5737be",
-                      "why_en":  "Curbing Chinese rivals that supply roughly two-thirds of global optical transceivers would strengthen market share and pricing power for US suppliers Coherent and Lumentum despite near-term supply-chain friction.",
-                      "why_th":  "การสกัดคู่แข่งจีนที่ครองส่วนแบ่งตลาด optical transceiver โลกราวสองในสามจะช่วยหนุนส่วนแบ่งตลาดและอำนาจตั้งราคาให้ผู้ผลิตฝั่งสหรัฐฯ อย่าง Coherent และ Lumentum แม้ห่วงโซ่อุปทานอาจตึงตัวในระยะสั้นก็ตาม"
-                  },
-                  {
-                      "date":  "2026-11-19",
-                      "impact":  "positive",
-                      "publisher":  "U.S. SEC",
-                      "tickers":  [
-                                      "COHR"
-                                  ],
-                      "title_en":  "Coherent board authorizes $2 billion share repurchase program",
-                      "title_th":  "บอร์ด Coherent อนุมัติโครงการซื้อหุ้นคืนมูลค่า $2 พันล้าน",
-                      "url":  "https://www.sec.gov/Archives/edgar/data/820318/000119312526467737/d867801d8k.htm",
-                      "why_en":  "The $2 billion buyback signals management confidence in cash generation as AI data center demand keeps Coherent\u0027s 2027 optical transceiver capacity heavily booked.",
-                      "why_th":  "วงเงินซื้อหุ้นคืน $2 พันล้าน สะท้อนความมั่นใจของผู้บริหารต่อกระแสเงินสดในมือ ท่ามกลางคำสั่งซื้อ optical transceiver สำหรับดาต้าเซ็นเตอร์ AI ที่จองกำลังการผลิตปี 2027 ไว้แน่นแล้ว"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "Arista Networks",
-                      "tickers":  [
-                                      "ANET"
-                                  ],
-                      "title_en":  "Arista unveils 5nm R4 Series switches for distributed AI inferencing",
-                      "title_th":  "Arista เปิดตัวสวิตช์ตระกูล R4 Series สถาปัตยกรรม 5nm รองรับงาน distributed AI inferencing",
-                      "url":  "https://www.arista.com/en/company/news/press-release/21575-arista-announces-new-etherlink-offerings-for-distributed-inferencing",
-                      "why_en":  "Cutting power draw by up to 60% and adding 400G/800G coherent transport extends Arista\u0027s Etherlink footprint beyond back-end training clusters into front-end distributed AI inference.",
-                      "why_th":  "การลดการใช้พลังงานลงสูงสุด 60% พร้อมรองรับการส่งข้อมูลข้ามศูนย์ข้อมูลแบบ coherent 400G/800G ช่วยขยายตลาด Etherlink ของ Arista จากคลัสเตอร์เทรนนิ่งสู่เครือข่าย distributed AI inference ส่วนหน้า"
+                      "title_en":  "Report says Google trims 2027 Broadcom TPU 8i plans by 1 million units",
+                      "title_th":  "มีรายงาน Google หั่นแผนผลิตชิป TPU 8i ของ Broadcom ปี 2027 ลง 1 ล้านชิ้น",
+                      "url":  "https://www.investing.com/news/stock-market-news/google-reportedly-cuts-broadcomdesigned-tpu-plans-eyes-more-mediatek-chips-5042253",
+                      "why_en":  "Analyst Ming-Chi Kuo\u0027s estimate of a roughly 20% cut in 2027 TPU 8i orders alongside higher MediaTek allocation highlights rising custom-ASIC competition at Broadcom\u0027s largest AI customer.",
+                      "why_th":  "รายงานของนักวิเคราะห์ Ming-Chi Kuo ที่ระบุว่า Google ลดยอดสั่งผลิต TPU 8i ราว 20% และหันไปเพิ่มออร์เดอร์ชิปจาก MediaTek สะท้อนแรงแข่งขันด้านชิป ASIC ที่เข้มข้นขึ้นในลูกค้ารายใหญ่ที่สุดของ AVGO"
                   },
                   {
                       "date":  "2026-11-17",
@@ -647,63 +599,102 @@ window.AI_NEWS = {"L1":{
                                       "CRDO",
                                       "MRVL"
                                   ],
-                      "title_en":  "Credo and Marvell settle active electrical cable patent dispute",
-                      "title_th":  "Credo และ Marvell บรรลุข้อตกลงยุติข้อพิพาทสิทธิบัตรสายเชื่อมต่อ AEC",
+                      "title_en":  "Credo and Marvell settle Active Electrical Cable patent disputes",
+                      "title_th":  "Credo และ Marvell บรรลุข้อตกลงยุติข้อพิพาทสิทธิบัตรสาย AEC ทั้งหมด",
                       "url":  "https://www.businesswire.com/news/home/20261117966700/en/",
-                      "why_en":  "Resolving all of Marvell\u0027s pending USPTO challenges to Credo\u0027s AEC patents removes a key intellectual-property overhang on Credo\u0027s flagship copper connectivity business and ends litigation friction for both firms.",
-                      "why_th":  "การยุติคำร้องคัดค้านสิทธิบัตร AEC ทั้งหมดของ Marvell ต่อ USPTO ช่วยปลดล็อกความเสี่ยงทางกฎหมายสำคัญของธุรกิจสายเชื่อมต่อทองแดงหลักของ Credo และลดภาระข้อพิพาทของทั้งสองบริษัท"
+                      "why_en":  "Marvell\u0027s withdrawal of its USPTO challenges under a confidential settlement clears a major IP overhang on Credo\u0027s flagship AEC copper interconnects while ending litigation uncertainty for both firms.",
+                      "why_th":  "การที่ Marvell ยอมถอนคำร้องคัดค้านสิทธิบัตรต่อ USPTO ภายใต้ข้อตกลงยอมความช่วยปลดล็อกความกังวลด้านกฎหมายต่อสายเชื่อมต่อทองแดง AEC ซึ่งเป็นสินค้าหลักของ CRDO และลดความไม่แน่นอนของทั้งสองบริษัท"
                   },
                   {
-                      "date":  "2026-11-16",
+                      "date":  "2026-11-19",
                       "impact":  "positive",
-                      "publisher":  "Marvell Technology",
+                      "publisher":  "SEC",
                       "tickers":  [
-                                      "MRVL"
+                                      "COHR"
                                   ],
-                      "title_en":  "Marvell partners with Penguin Solutions on CXL and photonic AI memory",
-                      "title_th":  "Marvell จับมือ Penguin Solutions พัฒนาโซลูชันขยายหน่วยความจำ AI ด้วย CXL และ Photonic Fabric",
-                      "url":  "https://investor.marvell.com/news-and-events/press-releases/2026/11-16-2026-marvell-and-penguin-solutions-collaborate-to-address-data-center-ai-memory-and-accelerate-inference-at-scale",
-                      "why_en":  "Combining Marvell\u0027s Structera X controllers and Photonic Fabric with Penguin\u0027s MemoryAI appliances advances commercialization of multi-rack memory pooling, with photonic systems slated to sample in 2H 2027.",
-                      "why_th":  "การผสานชิปควบคุม Structera X และ Photonic Fabric ของ Marvell เข้ากับอุปกรณ์ MemoryAI ของ Penguin ช่วยผลักดันเทคโนโลยีแชร์หน่วยความจำข้ามแร็กสู่การใช้งานจริง โดยตั้งเป้าส่งตัวอย่างระบบโฟโตนิกส์ในช่วงครึ่งหลังปี 2027"
-                  },
-                  {
-                      "date":  "2026-11-16",
-                      "impact":  "positive",
-                      "publisher":  "Astera Labs",
-                      "tickers":  [
-                                      "ALAB"
-                                  ],
-                      "title_en":  "Astera Labs and Hyve integrate Orion rack-scale architecture for AI inference",
-                      "title_th":  "Astera Labs ร่วมมือ Hyve Solutions นำสถาปัตยกรรม Orion ลงแร็กเซิร์ฟเวอร์ AI inference",
-                      "url":  "https://ir.asteralabs.com/news-releases/news-release-details/hyve-solutions-and-astera-labs-collaborate-bring-ai-inference",
-                      "why_en":  "Pre-validating Astera\u0027s Scorpio X-Series switches in Hyve\u0027s Apex racks—delivering up to 89% higher tokens per second—expands Astera\u0027s reach into neoclouds and enterprise deployments starting early 2027.",
-                      "why_th":  "การนำสวิตช์ Scorpio X-Series ผ่านการรับรองร่วมกับแร็ก Apex ของ Hyve ซึ่งเพิ่มความเร็วในการประมวลผล token ได้สูงสุด 89% ช่วยขยายฐานลูกค้ากลุ่ม neocloud และองค์กรให้ Astera ตั้งแต่ต้นปี 2027"
+                      "title_en":  "Coherent board authorizes $2 billion open-ended share repurchase program",
+                      "title_th":  "บอร์ด Coherent อนุมัติโครงการซื้อหุ้นคืนวงเงิน $2 พันล้านแบบไม่กำหนดวันหมดอายุ",
+                      "url":  "https://www.sec.gov/Archives/edgar/data/820318/000119312526467737/d867801d8k.htm",
+                      "why_en":  "The $2.0 billion buyback authorization disclosed in an 8-K filing underscores management\u0027s confidence in cash generation as 800G and 1.6T optical transceiver demand scales.",
+                      "why_th":  "การเปิดวงเงินซื้อหุ้นคืน $2.0 พันล้านตามเอกสาร 8-K สะท้อนความเชื่อมั่นของผู้บริหารต่อกระแสเงินสดและฐานะการเงิน ท่ามกลางดีมานด์ optical transceiver ระดับ 800G และ 1.6T ที่ขยายตัวแรง"
                   },
                   {
                       "date":  "2026-11-17",
                       "impact":  "positive",
-                      "publisher":  "SiTime",
+                      "publisher":  "Business Wire",
                       "tickers":  [
-                                      "SITM"
+                                      "ANET"
                                   ],
-                      "title_en":  "SiTime launches FemtoClock 4 and VersaClock 8 for 224G and PCIe 7",
-                      "title_th":  "SiTime เปิดตัวชิปจับเวลา FemtoClock 4 และ VersaClock 8 รองรับ 224G และ PCIe 7",
-                      "url":  "https://www.sitime.com/company/news/press-release/sitime-addresses-2-billion-opportunity-data-center-bandwidth-upgrades-two-new-clock-families",
-                      "why_en":  "New precision timing families built for 224G SerDes switches and PCIe 7 server links position SiTime to capture a $2 billion five-year serviceable market in AI data center upgrades.",
-                      "why_th":  "ชิปจับเวลาความแม่นยำสูงรุ่นใหม่สำหรับสวิตช์ 224G SerDes และบัส PCIe 7 ช่วยเปิดโอกาสให้ SiTime เจาะตลาดที่เข้าถึงได้มูลค่า $2 พันล้านภายใน 5 ปีจากการอัปเกรดแบนด์วิดท์ดาต้าเซ็นเตอร์ AI"
+                      "title_en":  "Arista expands Etherlink R4 switches for distributed AI inferencing",
+                      "title_th":  "Arista ขยายพอร์ต Etherlink R4 รองรับระบบ Distributed AI Inferencing",
+                      "url":  "https://www.businesswire.com/news/home/20261117628006/en/Arista-Announces-New-Etherlink-Offerings-for-Distributed-Inferencing",
+                      "why_en":  "The new 5nm R4 routing platforms cut power use by up to 60% and add 25.6 Tbps coherent optical transport, positioning Arista to capture front-end agentic AI inference networks.",
+                      "why_th":  "เราเตอร์ตระกูล R4 สถาปัตยกรรม 5nm รุ่นใหม่ช่วยลดการใช้พลังงานสูงสุด 60% พร้อมรองรับการส่งข้อมูลด้วยแสง 25.6 Tbps ช่วยให้ ANET ขยายตลาดสู่เครือข่ายประมวลผล AI เชิงเอเจนต์แบบกระจายศูนย์"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "positive",
+                      "publisher":  "GlobeNewswire",
+                      "tickers":  [
+                                      "ALAB"
+                                  ],
+                      "title_en":  "Astera Labs and Hyve partner on Orion rack-scale AI inference systems",
+                      "title_th":  "Astera Labs จับมือ Hyve พัฒนาแร็กเซิร์ฟเวอร์ AI Inference บนสถาปัตยกรรม Orion",
+                      "url":  "https://www.globenewswire.com/news-release/2026/11/16/3388716/0/en/Hyve-Solutions-and-Astera-Labs-Collaborate-to-Bring-AI-Inference-Capacity-to-Customers-Faster.html",
+                      "why_en":  "Integrating Astera\u0027s Orion architecture and Scorpio X-Series PCIe switches into Hyve Apex servers delivers up to 89% higher inference throughput ahead of Q1 2027 shipments.",
+                      "why_th":  "การนำสถาปัตยกรรม Orion และสวิตช์ Scorpio X-Series ของ ALAB ไปติดตั้งในเซิร์ฟเวอร์ Hyve Apex ช่วยเพิ่มความเร็วการประมวลผลโทเค็นได้สูงสุด 89% โดยเตรียมเริ่มส่งมอบในไตรมาส 1 ปี 2027"
+                  },
+                  {
+                      "date":  "2026-11-13",
+                      "impact":  "positive",
+                      "publisher":  "Business Wire",
+                      "tickers":  [
+                                      "MRVL"
+                                  ],
+                      "title_en":  "Marvell showcases Photonic Fabric and CXL 3.2 optical memory at SC26",
+                      "title_th":  "Marvell โชว์เทคโนโลยี Photonic Fabric และหน่วยความจำ CXL 3.2 ในงาน SC26",
+                      "url":  "https://www.businesswire.com/news/home/20261113005322/en/Marvell-Scales-Connectivity-Address-AI-Infrastructure%E2%80%99s-Next-Bottleneck-Supercomputing-2026",
+                      "why_en":  "Marvell\u0027s optical shared-memory architecture pools up to 32 TB across racks via Photonic Fabric and Structera CXL 3.2 expanders, targeting AI inference memory bottlenecks.",
+                      "why_th":  "สถาปัตยกรรมหน่วยความจำร่วมผ่านแสงของ MRVL ที่ขยายได้สูงสุด 32 TB ข้ามแร็กด้วย Photonic Fabric และ Structera CXL 3.2 ช่วยปลดล็อกคอขวดหน่วยความจำสำหรับงาน AI inference ขนาดใหญ่"
+                  },
+                  {
+                      "date":  "2026-11-16",
+                      "impact":  "positive",
+                      "publisher":  "Dell Technologies",
+                      "tickers":  [
+                                      "DELL"
+                                  ],
+                      "title_en":  "Dell unveils direct liquid-cooled AI storage and Factory upgrades at SC26",
+                      "title_th":  "Dell เปิดตัวสตอเรจระบายความร้อนด้วยของเหลวและอัปเกรด AI Factory ในงาน SC26",
+                      "url":  "https://www.dell.com/en-us/dt/corporate/newsroom/news/all/company-news/2026/11/dell-technologies-delivers-the-trusted-data-and-ai-infrastructure-foundation-needed-to-scale-enterprise-ai.htm",
+                      "why_en":  "New 2U fanless direct liquid-cooled nodes supporting 32 NVMe drives (shipping 1H 2027) and OpenManage Rack Scale for 100,000 devices strengthen Dell\u0027s turnkey enterprise AI rack offering.",
+                      "why_th":  "สตอเรจไร้พัดลมขนาด 2U ที่ระบายความร้อนด้วยของเหลวโดยตรงรองรับไดรฟ์ NVMe 32 ลูก (เริ่มส่งมอบครึ่งแรกปี 2027) พร้อมซอฟต์แวร์จัดการระดับแร็ก OpenManage รองรับสูงสุด 100,000 อุปกรณ์ ช่วยเสริมจุดแข็งโซลูชันแร็ก AI แบบครบวงจรของ DELL"
                   },
                   {
                       "date":  "2026-11-18",
                       "impact":  "positive",
-                      "publisher":  "Super Micro Computer",
+                      "publisher":  "Supermicro",
                       "tickers":  [
                                       "SMCI"
                                   ],
                       "title_en":  "Supermicro ships first PCIe Gen 6 all-flash storage servers for AI",
-                      "title_th":  "Supermicro เริ่มส่งมอบเซิร์ฟเวอร์จัดเก็บข้อมูล PCIe Gen 6 all-flash รุ่นแรกสำหรับงาน AI",
-                      "url":  "https://www.supermicro.com/en/pressrelease/supermicro-ships-first-all-flash-storage-servers-delivering-pcie-gen-6-performance",
-                      "why_en":  "Becoming first to ship PCIe Gen 6 all-flash AI storage servers reinforces Supermicro\u0027s time-to-market advantage as high-density training and inference clusters require faster data feeding.",
-                      "why_th":  "การเป็นรายแรกที่เริ่มส่งมอบเซิร์ฟเวอร์จัดเก็บข้อมูลแบบ all-flash มาตรฐาน PCIe Gen 6 ตอกย้ำจุดแข็งด้านความเร็วในการออกผลิตภัณฑ์ของ Supermicro เพื่อรองรับคลัสเตอร์ AI ที่ต้องการการป้อนข้อมูลความเร็วสูงขึ้น"
+                      "title_th":  "Supermicro เริ่มส่งมอบสตอเรจเซิร์ฟเวอร์ All-Flash รองรับ PCIe Gen 6 รายแรกของอุตสาหกรรม",
+                      "url":  "https://www.supermicro.com/en/pressreleases/supermicro-ships-first-all-flash-storage-servers-delivering-pcie-gen-6-performance-and-broad",
+                      "why_en":  "The 2U AMD EPYC-based servers double sequential read bandwidth and hold up to 3.93 PB across 32 NVMe drives, reinforcing Supermicro\u0027s speed-to-market advantage in AI data pipelines.",
+                      "why_th":  "เซิร์ฟเวอร์ขนาด 2U ที่ใช้ซีพียู AMD EPYC รุ่นใหม่เพิ่มแบนด์วิดท์การอ่านข้อมูลสูงสุด 100% และจุได้ถึง 3.93 PB บนไดรฟ์ NVMe 32 ลูก ตอกย้ำความได้เปรียบด้านความเร็วในการออกสินค้าใหม่ของ SMCI"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "Business Wire",
+                      "tickers":  [
+                                      "SITM"
+                                  ],
+                      "title_en":  "SiTime launches two AI data-center clock families targeting $2B market",
+                      "title_th":  "SiTime เปิดตัวชิปนาฬิกาสำหรับดาต้าเซ็นเตอร์ AI สองตระกูล เจาะตลาด $2 พันล้าน",
+                      "url":  "https://www.businesswire.com/news/home/20261117222922/en/",
+                      "why_en":  "FemtoClock 4 for 224G Ethernet switches and VersaClock 8 for PCIe 7 accelerators expand SiTime\u0027s reach into a $2 billion five-year data-center bandwidth upgrade market.",
+                      "why_th":  "ชิป FemtoClock 4 สำหรับสวิตช์ Ethernet 224G และ VersaClock 8 สำหรับการเชื่อมต่อ PCIe 7 ช่วยขยายโอกาสการเติบโตของ SITM ในตลาดอัปเกรดแบนด์วิดท์ดาต้าเซ็นเตอร์มูลค่า $2 พันล้านในช่วง 5 ปีข้างหน้า"
                   },
                   {
                       "date":  "2026-11-12",
@@ -712,11 +703,11 @@ window.AI_NEWS = {"L1":{
                       "tickers":  [
                                       "OSS"
                                   ],
-                      "title_en":  "One Stop Systems wins 10th defense order, lifting program total to $6M",
-                      "title_th":  "One Stop Systems คว้าคำสั่งซื้อด้านกลาโหมครั้งที่ 10 ดันมูลค่าโครงการสะสมแตะ $6 ล้าน",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/12/3091931/0/en/OSS-Receives-10th-Order-Since-May-2025-from-Leading-Defense-and-Intelligence-Contractor.html",
-                      "why_en":  "A $1 million follow-on production order for Gen 5 PCIe short-depth servers brings cumulative awards under the defense program since May 2025 to $6 million with further demand expected into 2027–2028.",
-                      "why_th":  "คำสั่งซื้อผลิตต่อเนื่องมูลค่า $1 ล้านสำหรับเซิร์ฟเวอร์ Gen 5 PCIe แบบทนทาน ดันยอดคำสั่งซื้อสะสมในโครงการกลาโหมนี้ตั้งแต่พฤษภาคม 2025 แตะ $6 ล้าน พร้อมแนวโน้มคำสั่งซื้อต่อเนื่องถึงปี 2027–2028"
+                      "title_en":  "One Stop Systems wins $1 million follow-on defense edge-compute order",
+                      "title_th":  "One Stop Systems คว้าออร์เดอร์ซ้ำด้านกลาโหมมูลค่า $1 ล้าน ดันยอดสะสมใกล้ $6 ล้าน",
+                      "url":  "https://www.globenewswire.com/news-release/2026/11/12/3389025/0/en/OSS-Receives-10th-Order-Since-May-2025-from-Leading-Defense-and-Intelligence-Contractor.html",
+                      "why_en":  "The 10th follow-on production order since May 2025 lifts cumulative funding for OSS\u0027s rugged Gen 5 PCIe GNSS testing platform to roughly $6 million, validating repeat defense demand.",
+                      "why_th":  "คำสั่งซื้อต่อเนื่องครั้งที่ 10 นับตั้งแต่พฤษภาคม 2025 ดันมูลค่างานสะสมของแพลตฟอร์มทดสอบ GNSS แบบสมบุกสมบันระดับ Gen 5 PCIe ขึ้นเป็นราว $6 ล้าน สะท้อนรายได้ประจำจากลูกค้าภาคกลาโหมที่มั่นคงขึ้นของ OSS"
                   }
               ]
 },
@@ -726,35 +717,53 @@ window.AI_NEWS = {"L1":{
     "model":  "gemini-4-neon-high",
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T05:31:58Z",
+    "generatedAt":  "2026-11-24T03:26:02Z",
     "period":  [
-                   "2026-11-09",
-                   "2026-11-23"
+                   "2026-11-10",
+                   "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "Compute demand stayed red-hot over the past two weeks—underscored by NVIDIA\u0027s $107.6B Data Center quarter, Anthropic\u0027s record $81.3B Nasdaq IPO, and triple-digit neocloud revenue growth—but financing and physical power bottlenecks moved to center stage. While hyperscalers leaned on creative capital structures like Amazon\u0027s $5B Blackstone leaseback and Oracle\u0027s $20B raise to fund a projected $1T+ 2027 capex wave, heavily leveraged GPU clouds faced sharper scrutiny after NVIDIA trimmed neocloud commitments to $32B and power delays hit Nebius. Adding fresh policy risk, President Trump threatened heavy taxes on U.S. firms building data centers overseas.",
-                  "th":  "ความต้องการพลังประมวลผล AI ยังร้อนแรงตลอดสองสัปดาห์ที่ผ่านมา สะท้อนจากรายได้ Data Center ของ NVIDIA ที่พุ่งแตะ $107.6B การเข้าตลาด Nasdaq ของ Anthropic ด้วยมูลค่าระดมทุนสถิติใหม่ $81.3B และรายได้กลุ่ม neocloud ที่โตหลายร้อยเปอร์เซ็นต์ แต่โจทย์เรื่องเงินทุนและข้อจำกัดด้านไฟฟ้ากลายเป็นจุดโฟกัสหลักของตลาด บิ๊กคลาวด์หันไปใช้โครงสร้างการเงินที่ยืดหยุ่นขึ้น เช่น ดีลขายแล้วเช่ากลับ $5B ของ AWS กับ Blackstone และการระดมทุน $20B ของ Oracle เพื่อรองรับงบลงทุนปี 2027 ที่คาดว่าจะทะลุ $1T ขณะที่กลุ่ม neocloud ที่มีหนี้สูงถูกจับตาหนักขึ้นหลัง NVIDIA ลดวงเงินค้ำประกันเหลือ $32B และ Nebius เผชิญปัญหาไฟล่าช้า ซ้ำเติมด้วยความเสี่ยงนโยบายใหม่หลังประธานาธิบดี Trump ขู่เก็บภาษีหนักบริษัทสหรัฐฯ ที่สร้างดาต้าเซ็นเตอร์ในต่างประเทศ"
+                  "en":  "Neocloud Q3 results from CoreWeave, Nebius, and Cerebras confirmed triple-digit AI compute growth and record backlogs, though rising interest costs, soaring 2026–2027 capex, and third-party site delays kept financing discipline in focus. Hyperscalers and colocation leaders responded with creative capital and supply-chain moves—from Amazon\u0027s $5 billion Blackstone JV and $7.5 billion Decart deal to Oracle\u0027s fully funded OpenAI buildout, Microsoft\u0027s Maia 300 and Intel EMIB pact, and Equinix\u0027s €2.5 billion green bond. At the layer level, the IEA projected $4 trillion in data center investment through 2030 alongside severe grid strain, while President Trump\u0027s threat to tax overseas U.S. data centers introduced a new policy overhang.",
+                  "th":  "งบไตรมาส 3 ของกลุ่ม Neocloud อย่าง CoreWeave, Nebius และ Cerebras ยืนยันความต้องการประมวลผล AI ที่ยังเติบโตระดับสามหลักพร้อม Backlog สูงเป็นประวัติการณ์ แต่ภาระดอกเบี้ย งบลงทุนปี 2026–2027 ที่พุ่งแรง และความล่าช้าของศูนย์ข้อมูลจากพาร์ตเนอร์ทำให้ตลาดจับตาวินัยทางการเงินมากขึ้น ด้าน Hyperscaler และผู้ให้บริการ Colocation เร่งจัดโครงสร้างเงินทุนและห่วงโซ่อุปทานเชิงรุก ทั้งดีลร่วมทุน $5 พันล้านกับ Blackstone และการซื้อ Decart มูลค่า $7.5 พันล้านของ Amazon การปิดดีลระดมทุนครบสำหรับโครงการ OpenAI ของ Oracle การเปิดตัว Maia 300 และดีลแพ็กเกจจิ้ง EMIB กับ Intel ของ Microsoft รวมถึงพันธบัตรสีเขียว €2.5 พันล้านของ Equinix ขณะเดียวกัน ภาพรวมอุตสาหกรรมได้รับทั้งแรงหนุนจาก IEA ที่ประเมินเม็ดเงินลงทุนดาต้าเซ็นเตอร์อีก $4 ล้านล้านภายในปี 2030 และแรงกดดันใหม่จากข้อจำกัดโครงข่ายไฟฟ้า รวมถึงคำขู่ของประธานาธิบดี Trump ว่าจะเก็บภาษีหนักบริษัทสหรัฐฯ ที่สร้างดาต้าเซ็นเตอร์ในต่างประเทศ"
               },
     "themes":  {
                    "en":  [
-                              "Neocloud Debt \u0026 Power Crunch",
-                              "Hyperscaler Capex Financing Shift",
-                              "Vera Rubin \u0026 Custom Silicon",
-                              "Overseas Data Center Tax Risk"
+                              "Neocloud Hypergrowth \u0026 Capex",
+                              "Creative Infrastructure Financing",
+                              "Custom Silicon \u0026 Inference",
+                              "Power \u0026 Policy Headwinds"
                           ],
                    "th":  [
-                              "แรงกดดันหนี้และกำลังไฟของ Neocloud",
-                              "บิ๊กคลาวด์เร่งระดมทุนรับ Capex",
-                              "Vera Rubin และชิปคลาวด์รุ่นใหม่",
-                              "ความเสี่ยงภาษีดาต้าเซ็นเตอร์ต่างประเทศ"
+                              "Neocloud โตแรงแต่ลงทุนสูง",
+                              "โครงสร้างการเงินรับสร้างดาต้าเซ็นเตอร์",
+                              "ชิปออกแบบเองและ Inference",
+                              "ข้อจำกัดไฟฟ้าและความเสี่ยงนโยบาย"
                           ]
                },
     "items":  [
                   {
-                      "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "NVIDIA Newsroom",
+                      "date":  "2026-11-20",
+                      "impact":  "negative",
+                      "publisher":  "Axios",
+                      "tickers":  [
+                                      "AMZN",
+                                      "MSFT",
+                                      "GOOGL",
+                                      "ORCL",
+                                      "EQIX",
+                                      "CRWV"
+                                  ],
+                      "title_en":  "Trump threatens heavy taxes on US firms building overseas AI data centers",
+                      "title_th":  "Trump ขู่เก็บภาษีหนักบริษัทสหรัฐฯ ที่สร้างดาต้าเซ็นเตอร์ AI ในต่างประเทศ",
+                      "url":  "https://www.axios.com/2026/11/20/trump-tax-us-companies-data-centers-overseas",
+                      "why_en":  "Penalizing foreign buildouts would complicate global cloud expansion and sovereign-AI compliance for US hyperscalers and colocation operators already facing domestic power bottlenecks.",
+                      "why_th":  "หากมีบทลงโทษทางภาษีจริงจะเพิ่มอุปสรรคต่อการขยายคลาวด์และการปฏิบัติตามกฎข้อมูลระดับประเทศ (Sovereign AI) ในต่างแดนของกลุ่ม Hyperscaler และผู้ให้บริการ Colocation สหรัฐฯ ที่กำลังเผชิญคอขวดไฟฟ้าในประเทศอยู่แล้ว"
+                  },
+                  {
+                      "date":  "2026-11-19",
+                      "impact":  "mixed",
+                      "publisher":  "International Energy Agency",
                       "tickers":  [
                                       "AMZN",
                                       "MSFT",
@@ -762,129 +771,68 @@ window.AI_NEWS = {"L1":{
                                       "ORCL",
                                       "CRWV",
                                       "NBIS",
-                                      "IREN"
+                                      "IREN",
+                                      "CBRS",
+                                      "EQIX",
+                                      "DOCN"
                                   ],
-                      "title_en":  "NVIDIA Q3 Data Center Revenue Hits $107.6B as Vera Rubin Begins Shipping",
-                      "title_th":  "รายได้ Data Center ไตรมาส 3 ของ NVIDIA พุ่งแตะ $107.6B พร้อมเริ่มส่งมอบ Vera Rubin",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-                      "why_en":  "Data Center revenue jumped 110% YoY to $107.6B with nearly $20B in initial Vera Rubin shipments, confirming relentless cloud AI demand and a rapid next-gen rack ramp across hyperscalers and neoclouds.",
-                      "why_th":  "รายได้กลุ่ม Data Center โตถึง 110% YoY แตะ $107.6B พร้อมยอดส่งมอบ Vera Rubin ล็อตแรกเกือบ $20B ตอกย้ำดีมานด์คลาวด์ AI ที่ยังแข็งแกร่งและการเร่งติดตั้งแร็กรุ่นใหม่ในทั้งกลุ่ม hyperscaler และ neocloud"
-                  },
-                  {
-                      "date":  "2026-11-19",
-                      "impact":  "negative",
-                      "publisher":  "Capacity Global",
-                      "tickers":  [
-                                      "CRWV",
-                                      "NBIS",
-                                      "IREN"
-                                  ],
-                      "title_en":  "NVIDIA Trims Conditional Neocloud Commitments From $36B to $32B",
-                      "title_th":  "NVIDIA ลดวงเงินค้ำประกันและสัญญาเช่ากลุ่ม Neocloud จาก $36B เหลือ $32B",
-                      "url":  "https://capacityglobal.com/nvidia-trims-neocloud-commitments-to-32bn-what-tighter-vendor-support-means-for-data-centre-landlords/",
-                      "why_en":  "Interim CEO Colette Kress adopted a stricter, milestone-gated stance on vendor support, raising refinancing pressure and borrowing costs for debt-reliant GPU clouds that depend on NVIDIA\u0027s credit backing.",
-                      "why_th":  "ซีอีโอรักษาการ Colette Kress หันมาเข้มงวดกับการค้ำประกันแบบมีเงื่อนไขมากขึ้น ส่งผลให้กลุ่ม GPU cloud ที่พึ่งพาเงินกู้ต้องเผชิญแรงกดดันด้านการรีไฟแนนซ์และต้นทุนดอกเบี้ยที่สูงขึ้น"
+                      "title_en":  "IEA projects $4 trillion in global data center investment through 2030",
+                      "title_th":  "IEA คาดเม็ดเงินลงทุนดาต้าเซ็นเตอร์ทั่วโลกเพิ่มอีก $4 ล้านล้านภายในปี 2030",
+                      "url":  "https://www.iea.org/reports/world-energy-outlook-2026",
+                      "why_en":  "The World Energy Outlook 2026 forecasts AI driving 75% of a doubling in data center electricity use to 1,000 TWh by 2030, confirming massive structural demand alongside acute grid bottlenecks.",
+                      "why_th":  "รายงาน World Energy Outlook 2026 ชี้ว่า AI จะเป็นแรงขับเคลื่อน 75% ของการใช้ไฟฟ้าดาต้าเซ็นเตอร์ที่เพิ่มขึ้นเท่าตัวเป็น 1,000 TWh ภายในปี 2030 สะท้อนดีมานด์ระยะยาวที่แข็งแกร่งควบคู่ความเสี่ยงคอขวดโครงข่ายไฟฟ้าในทำเลหลัก"
                   },
                   {
                       "date":  "2026-11-10",
                       "impact":  "mixed",
-                      "publisher":  "CoreWeave Investor Relations",
+                      "publisher":  "CoreWeave",
                       "tickers":  [
                                       "CRWV"
                                   ],
-                      "title_en":  "CoreWeave Q3 Revenue Jumps 168% to $3.66B as Debt Nears $47B",
-                      "title_th":  "รายได้ไตรมาส 3 ของ CoreWeave โต 168% แตะ $3.66B แต่หนี้รวมพุ่งใกล้ $47B",
+                      "title_en":  "CoreWeave Q3 revenue jumps 168% to $3.66 billion as backlog hits $132.5 billion",
+                      "title_th":  "CoreWeave รายได้ Q3 โต 168% แตะ $3.66 พันล้าน ดัน Backlog พุ่ง $132.5 พันล้าน",
                       "url":  "https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-Third-Quarter-2026-Results/default.aspx",
-                      "why_en":  "CoreWeave lifted FY26 revenue guidance to $13.0B–$13.3B on a $132.5B backlog, but GAAP net loss widened to $709M as quarterly net interest expense hit $846M on $46.9B of debt.",
-                      "why_th":  "CoreWeave ปรับเพิ่มคาดการณ์รายได้ปี 2026 เป็น $13.0B–$13.3B จากแบ็กล็อกมหาศาล $132.5B แต่ขาดทุนสุทธิ GAAP ขยายกว้างเป็น $709M หลังดอกเบี้ยจ่ายรายไตรมาสพุ่งแตะ $846M บนภาระหนี้ $46.9B"
+                      "why_en":  "CoreWeave raised 2026 revenue guidance to $13.0–$13.3 billion and reached a 10% adjusted operating margin ahead of schedule, though $846 million in quarterly interest expense widened its GAAP loss to $709 million.",
+                      "why_th":  "CoreWeave ปรับเพิ่มเป้ารายได้ปี 2026 เป็น $13.0–$13.3 พันล้าน และทำอัตรากำไรจากการดำเนินงานที่ปรับปรุงแล้วแตะ 10% เร็วกว่าแผน แม้ดอกเบี้ยจ่ายไตรมาสเดียวสูงถึง $846 ล้านจะกดดันให้ขาดทุนสุทธิตาม GAAP เพิ่มเป็น $709 ล้าน"
                   },
                   {
                       "date":  "2026-11-12",
                       "impact":  "mixed",
-                      "publisher":  "Business Wire",
+                      "publisher":  "Nebius Group",
                       "tickers":  [
-                                      "NBIS",
-                                      "MSFT"
+                                      "NBIS"
                                   ],
-                      "title_en":  "Nebius Q3 Revenue Surges 571%, Trims FY26 Outlook on Power Delays",
-                      "title_th":  "รายได้ไตรมาส 3 ของ Nebius พุ่ง 571% แต่หั่นเป้าปี 2026 หลังไฟฟ้าล่าช้า",
-                      "url":  "https://www.businesswire.com/news/home/20261112217688/en/Nebius-reports-third-quarter-2026-financial-results",
-                      "why_en":  "Third-party power bottlenecks in New Jersey for a Microsoft contract pushed Nebius\u0027s $7B ARR target to February 2027 and narrowed FY26 revenue to the low end of $3.0B–$3.4B even as 2027 capex jumps to $40B–$45B.",
-                      "why_th":  "ปัญหาไฟฟ้าล่าช้าที่ศูนย์ข้อมูลคู่ค้าในนิวเจอร์ซีย์ซึ่งรองรับสัญญา Microsoft ทำให้ Nebius ต้องเลื่อนเป้า ARR $7B ไปเดือนกุมภาพันธ์ 2027 และปรับรายได้ปี 2026 ลงสู่กรอบล่างของ $3.0B–$3.4B สวนทางงบลงทุนปี 2027 ที่พุ่งเป็น $40B–$45B"
-                  },
-                  {
-                      "date":  "2026-11-18",
-                      "impact":  "positive",
-                      "publisher":  "Anthropic",
-                      "tickers":  [
-                                      "AMZN",
-                                      "GOOGL"
-                                  ],
-                      "title_en":  "Anthropic Prices Record $81.3B Nasdaq IPO at $1.5 Trillion Valuation",
-                      "title_th":  "Anthropic เคาะราคา IPO สถิติใหม่ $81.3B บน Nasdaq ที่มูลค่า $1.5 ล้านล้าน",
-                      "url":  "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
-                      "why_en":  "The landmark IPO validates frontier AI monetization and unlocks huge equity value for Amazon (~14.7% stake) and Alphabet (~13.7% stake), Anthropic\u0027s core AWS Trainium and Google Cloud TPU partners.",
-                      "why_th":  "การเข้าตลาดหุ้นครั้งประวัติศาสตร์นี้ช่วยยืนยันศักยภาพการทำเงินของโมเดล AI แนวหน้า พร้อมปลดล็อกมูลค่าหุ้นก้อนโตให้ Amazon (ถือหุ้นราว 14.7%) และ Alphabet (ถือหุ้นราว 13.7%) ซึ่งเป็นพันธมิตรหลักด้านชิป AWS Trainium และ Google Cloud TPU ของ Anthropic"
-                  },
-                  {
-                      "date":  "2026-11-20",
-                      "impact":  "negative",
-                      "publisher":  "Business Insider",
-                      "tickers":  [
-                                      "AMZN",
-                                      "MSFT",
-                                      "GOOGL",
-                                      "ORCL",
-                                      "EQIX"
-                                  ],
-                      "title_en":  "Trump Threatens Tax on U.S. Companies Building Data Centers Overseas",
-                      "title_th":  "Trump ขู่เก็บภาษีหนักบริษัทสหรัฐฯ ที่ออกไปสร้างดาต้าเซ็นเตอร์ในต่างประเทศ",
-                      "url":  "https://www.businessinsider.com/trump-threatens-a-tremendous-tax-on-tech-companies-building-data-centers-outside-the-us-6b00b8e5d6c5d341c9b4bc96",
-                      "why_en":  "Even without a formal legal mechanism yet, the threat introduces capital-allocation and policy risk for U.S. hyperscalers and colocation operators expanding international capacity to meet local data residency rules.",
-                      "why_th":  "แม้ยังไม่มีกรอบกฎหมายรองรับที่ชัดเจน แต่คำขู่ดังกล่าวสร้างความไม่แน่นอนด้านนโยบายและการจัดสรรเงินทุนให้บิ๊กคลาวด์และผู้ให้บริการ colocation สหรัฐฯ ที่ต้องขยายศูนย์ข้อมูลในต่างประเทศเพื่อรองรับกฎหมายจัดเก็บข้อมูลท้องถิ่น"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "negative",
-                      "publisher":  "Fitch Ratings",
-                      "tickers":  [
-                                      "AMZN",
-                                      "MSFT",
-                                      "GOOGL",
-                                      "ORCL"
-                                  ],
-                      "title_en":  "Fitch Warns Booming Hyperscaler Debt Issuance Raises Bond Market Volatility",
-                      "title_th":  "Fitch เตือนการออกหุ้นกู้มหาศาลของกลุ่ม Hyperscaler เพิ่มความผันผวนตลาดบอนด์",
-                      "url":  "https://www.fitchratings.com/research/corporate-finance/booming-hyperscaler-issuance-set-to-raise-bond-market-volatility-17-11-2026",
-                      "why_en":  "With combined hyperscaler AI capex expected to top $1 trillion in 2027 and strain free cash flow, heavier corporate debt issuance is intensifying credit scrutiny on AI investment returns.",
-                      "why_th":  "เมื่อเม็ดเงินลงทุน AI ของกลุ่มบิ๊กคลาวด์รวมกันมีแนวโน้มทะลุ $1 ล้านล้านในปี 2027 จนกดดันกระแสเงินสดอิสระ การหันมาออกหุ้นกู้จำนวนมากจึงทำให้ตลาดเครดิตจับตาความคุ้มค่าของผลตอบแทน AI เข้มงวดขึ้น"
+                      "title_en":  "Nebius Q3 revenue surges 571% to $980.8 million, raises 2026 capex to $27 billion",
+                      "title_th":  "Nebius รายได้ Q3 พุ่ง 571% แตะ $980.8 ล้าน พร้อมปรับงบลงทุนปี 2026 เป็น $27 พันล้าน",
+                      "url":  "https://nebius.com/newsroom/nebius-reports-third-quarter-2026-financial-results",
+                      "why_en":  "Nebius guided 2027 revenue to $12–$13 billion on a $38.7 billion backlog, but third-party New Jersey colocation delays pushed 2026 sales toward the low end of $3.0–$3.4 billion as 2027 capex jumps to $40–$45 billion.",
+                      "why_th":  "Nebius ให้เป้ารายได้ปี 2027 สูงถึง $12–$13 พันล้านจาก Backlog $38.7 พันล้าน แต่ความล่าช้าของศูนย์ข้อมูลเช่าในนิวเจอร์ซีย์ทำให้รายได้ปี 2026 เอียงไปทางกรอบล่างของ $3.0–$3.4 พันล้าน ขณะที่งบลงทุนปี 2027 พุ่งสู่ $40–$45 พันล้าน"
                   },
                   {
                       "date":  "2026-11-20",
                       "impact":  "positive",
-                      "publisher":  "Oracle",
+                      "publisher":  "Investing.com",
                       "tickers":  [
                                       "ORCL"
                                   ],
-                      "title_en":  "Oracle Says OpenAI Infrastructure Deal Is Fully Funded After Capital Raise",
-                      "title_th":  "Oracle ประกาศสัญญาโครงสร้างพื้นฐาน OpenAI มีเงินทุนครบแล้วหลังปิดดีลระดมทุน",
-                      "url":  "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/",
-                      "why_en":  "Closing a final $20B stock-and-notes raise eases near-term funding fears for Oracle\u0027s OpenAI buildout, with its Abilene campus nearly done and Shackelford County\u0027s gigawatt site fully permitted.",
-                      "why_th":  "การปิดดีลระดมทุนรอบสุดท้ายมูลค่า $20B ทั้งหุ้นและหุ้นกู้ช่วยคลายกังวลเรื่องแหล่งเงินทุนสำหรับโครงการ OpenAI โดยแคมปัสที่ Abilene ใกล้เสร็จสมบูรณ์และไซต์ระดับกิกะวัตต์ที่ Shackelford County ได้ใบอนุญาตครบแล้ว"
+                      "title_en":  "Oracle says OpenAI infrastructure contract is fully funded ahead of Vera Rubin handovers",
+                      "title_th":  "Oracle ยืนยันจัดหาเงินทุนโครงการ OpenAI ครบแล้ว พร้อมรับมอบแร็ค Vera Rubin เร็วๆ นี้",
+                      "url":  "https://www.investing.com/news/stock-market-news/oracle-says-openai-contract-is-fully-funded-addresses-market-financing-scrutiny-93CH-3129532",
+                      "why_en":  "Securing full financing after November\u0027s $20 billion stock and bond raises eases funding-gap concerns as its Abilene campus nears completion and Shackelford prepares for NVIDIA Vera Rubin racks.",
+                      "why_th":  "การยืนยันว่ามีเงินทุนครบถ้วนหลังระดมทุนหุ้นและหุ้นกู้ $20 พันล้านในต้นเดือนช่วยคลายกังวลด้านสภาพคล่อง โดยแคมปัส Abilene ใกล้เสร็จสมบูรณ์และไซต์ Shackelford เตรียมรับมอบแร็ค NVIDIA Vera Rubin ในอีกไม่กี่สัปดาห์ข้างหน้า"
                   },
                   {
-                      "date":  "2026-11-12",
+                      "date":  "2026-11-23",
                       "impact":  "positive",
-                      "publisher":  "Business Wire",
+                      "publisher":  "TechCrunch",
                       "tickers":  [
-                                      "CBRS",
-                                      "MSFT"
+                                      "AMZN"
                                   ],
-                      "title_en":  "Cerebras Posts Record Q3 Revenue, Discloses Microsoft as Cloud Customer",
-                      "title_th":  "Cerebras ทำรายได้ไตรมาส 3 นิวไฮ พร้อมเปิดเผย Microsoft เป็นลูกค้าคลาวด์รายใหม่",
-                      "url":  "https://www.businesswire.com/news/home/20261112006132/en/Cerebras-Systems-Delivers-Record-Revenue-in-Third-Quarter-2026-Raises-Full-Year-Outlook",
-                      "why_en":  "Cerebras raised FY26 adjusted revenue guidance to $940M–$960M on $26.1B in RPO and added Microsoft alongside AWS and Oracle as a hyperscale cloud customer for its wafer-scale inference systems.",
-                      "why_th":  "Cerebras ปรับเพิ่มเป้าแนวโน้มรายได้ปี 2026 เป็น $940M–$960B จากยอดสัญญาคงค้าง RPO $26.1B พร้อมดึง Microsoft เข้ามาเป็นลูกค้าคลาวด์รายใหญ่ต่อจาก AWS และ Oracle ตอกย้ำการยอมรับระบบ wafer-scale inference"
+                      "title_en":  "Amazon buys Decart AI optimization stack and team for reported $7.5 billion",
+                      "title_th":  "Amazon ซื้อเทคโนโลยีเพิ่มประสิทธิภาพ AI และทีมงาน Decart มูลค่าตามข่าว $7.5 พันล้าน",
+                      "url":  "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+                      "why_en":  "Acquiring Decart\u0027s optimization software and engineers strengthens AWS\u0027s custom Trainium chip software ecosystem to compete more effectively against NVIDIA GPUs and Google TPUs.",
+                      "why_th":  "การได้ซอฟต์แวร์ Decart Optimization Stack และทีมวิศวกรเข้ามาช่วยเสริมความแข็งแกร่งให้ระบบนิเวศชิป Trainium ของ AWS เพื่อแข่งขันกับ NVIDIA GPU และ Google TPU ได้มีประสิทธิภาพยิ่งขึ้น"
                   },
                   {
                       "date":  "2026-11-16",
@@ -893,76 +841,117 @@ window.AI_NEWS = {"L1":{
                       "tickers":  [
                                       "AMZN"
                                   ],
-                      "title_en":  "AWS Strikes $5B Leaseback Deal With Blackstone for 647 MW Portfolio",
-                      "title_th":  "AWS ทำดีลขายแล้วเช่ากลับมูลค่า $5B กับ Blackstone สำหรับพอร์ตดาต้าเซ็นเตอร์ 647 MW",
-                      "url":  "https://blackstone.com/press/press-releases/blackstone-digital-infrastructure-trust-announces-5-billion-acquisition-of-stabilized-data-center-portfolio/",
-                      "why_en":  "Selling a 75% stake in 13 powered shells across Indiana and Mississippi under a 12-year leaseback lets Amazon recycle capital while scaling toward roughly $220B in 2026 capex.",
-                      "why_th":  "การขายหุ้น 75% ในอาคารศูนย์ข้อมูล 13 แห่งในอินดีแอนาและมิสซิสซิปปีพร้อมสัญญาเช่ากลับ 12 ปี ช่วยให้ Amazon หมุนเวียนเงินทุนกลับมารองรับแผนงบลงทุนปี 2026 ที่พุ่งราว $220B ได้คล่องตัวขึ้น"
+                      "title_en":  "Blackstone trust agrees to acquire 75% stake in $5 billion AWS data center JVs",
+                      "title_th":  "กองทุน Blackstone เข้าซื้อหุ้น 75% ในบริษัทร่วมทุนดาต้าเซ็นเตอร์ AWS มูลค่า $5 พันล้าน",
+                      "url":  "https://www.blackstone.com/news/press/blackstone-digital-infrastructure-trust-announces-5-billion-acquisition-of-stabilized-data-center-portfolio/",
+                      "why_en":  "Selling a 75% stake in 13 powered shells totaling 647 MW while leasing them back for 12 to 32 years recycles capital for AWS\u0027s hyperscale AI expansion.",
+                      "why_th":  "การขายสัดส่วน 75% ในอาคารดาต้าเซ็นเตอร์ 13 แห่งรวมกำลังไฟ 647 MW แล้วเช่ากลับระยะยาว 12–32 ปี ช่วยให้ AWS หมุนเวียนเงินทุนกลับไปขยายโครงสร้างพื้นฐาน AI โดยไม่แบกสินทรัพย์อสังหาริมทรัพย์ทั้งหมดไว้ในงบดุล"
+                  },
+                  {
+                      "date":  "2026-11-20",
+                      "impact":  "positive",
+                      "publisher":  "Microsoft",
+                      "tickers":  [
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Microsoft unveils Azure Maia 300 AI chip and Cobalt 200 VMs at Ignite 2026",
+                      "title_th":  "Microsoft เปิดตัวชิป AI Azure Maia 300 และเริ่มให้บริการ Cobalt 200 VM ในงาน Ignite 2026",
+                      "url":  "https://azure.microsoft.com/en-us/blog/ignite-2026-the-next-era-of-enterprise-ai-starts-with-the-infrastructure-beneath-it/",
+                      "why_en":  "Introducing custom Maia 300 accelerators for agentic AI workloads and expanding Cobalt 200 Arm VMs across 24 regions by year-end lowers Azure\u0027s dependence on third-party chips.",
+                      "why_th":  "การเปิดตัวชิปเร่งประมวลผล Maia 300 สำหรับงาน Agentic AI ควบคู่การเปิดใช้งาน Cobalt 200 VM ครบ 24 รีเจียนภายในสิ้นปี ช่วยเพิ่มประสิทธิภาพต่อต้นทุนและลดการพึ่งพาชิปจากผู้ผลิตภายนอกของ Azure"
+                  },
+                  {
+                      "date":  "2026-11-18",
+                      "impact":  "positive",
+                      "publisher":  "Microsoft",
+                      "tickers":  [
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Microsoft signs Intel Foundry EMIB packaging and Xeon supply deal for Azure",
+                      "title_th":  "Microsoft เซ็นสัญญาใช้แพ็กเกจจิ้ง EMIB ของ Intel Foundry และสำรองชิป Xeon สำหรับ Azure",
+                      "url":  "https://news.microsoft.com/source/2026/11/18/microsoft-and-intel-deepen-collaboration-to-deliver-differentiated-azure-infrastructure/",
+                      "why_en":  "Becoming the first announced customer for Intel Foundry\u0027s EMIB packaging on custom Azure silicon alongside multi-year Diamond Rapids Xeon supply diversifies Microsoft\u0027s constrained hardware supply chain.",
+                      "why_th":  "การเป็นลูกค้ารายแรกที่เปิดตัวการใช้เทคโนโลยีแพ็กเกจจิ้ง EMIB ของ Intel Foundry สำหรับชิป Azure พร้อมล็อกซัพพลาย Xeon รุ่น Diamond Rapids ระยะยาว ช่วยกระจายความเสี่ยงห่วงโซ่อุปทานฮาร์ดแวร์ที่กำลังตึงตัว"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "impact":  "positive",
+                      "publisher":  "Cerebras Systems",
+                      "tickers":  [
+                                      "CBRS",
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Cerebras Q3 core revenue jumps 70%, adds Microsoft deal and projects 3x 2027 sales",
+                      "title_th":  "Cerebras รายได้หลัก Q3 โต 70% ยืนยันดีล Microsoft และคาดรายได้ปี 2027 พุ่ง 3 เท่า",
+                      "url":  "https://investors.cerebras.ai/news-releases/news-release-details/cerebras-systems-delivers-record-revenue-third-quarter-2026",
+                      "why_en":  "Cerebras lifted 2026 core revenue guidance to $940–$960 million on a $26.1 billion backlog and 700 MW of contracted capacity, confirming wafer-scale inference adoption across Microsoft, AWS, and Oracle.",
+                      "why_th":  "Cerebras ปรับเพิ่มเป้ารายได้หลักปี 2026 เป็น $940–$960 ล้าน จาก Backlog $26.1 พันล้านและกำลังไฟในสัญญา 700 MW พร้อมดึง Microsoft เข้ามาเป็นลูกค้ารายใหญ่เคียงข้าง AWS และ Oracle ตอกย้ำการยอมรับชิปขนาดเวเฟอร์ในตลาด Inference"
+                  },
+                  {
+                      "date":  "2026-11-11",
+                      "impact":  "positive",
+                      "publisher":  "Bloomberg",
+                      "tickers":  [
+                                      "CRWV"
+                                  ],
+                      "title_en":  "CoreWeave plans $4 billion investment-grade loan to cut borrowing costs",
+                      "title_th":  "CoreWeave เตรียมกู้เงินระดับ Investment-Grade อย่างน้อย $4 พันล้านเพื่อลดต้นทุนดอกเบี้ย",
+                      "url":  "https://www.bloomberg.com/news/articles/2026-11-11/coreweave-plans-to-raise-at-least-4-billion-in-high-grade-loan",
+                      "why_en":  "Structuring at least $4 billion in loans backed by AI hardware and customer contracts at roughly 7%–7.5% yields would meaningfully reduce financing costs for the heavily leveraged neocloud.",
+                      "why_th":  "การจัดโครงสร้างเงินกู้ไม่ต่ำกว่า $4 พันล้านโดยมีฮาร์ดแวร์และสัญญาลูกค้าค้ำประกันที่อัตราผลตอบแทนราว 7%–7.5% จะช่วยลดต้นทุนทางการเงินลงอย่างมีนัยสำคัญจากหนี้ High-Yield เดิมของบริษัท"
+                  },
+                  {
+                      "date":  "2026-11-10",
+                      "impact":  "positive",
+                      "publisher":  "Equinix",
+                      "tickers":  [
+                                      "EQIX"
+                                  ],
+                      "title_en":  "Equinix issues record €2.5 billion green bonds to fund sustainable data centers",
+                      "title_th":  "Equinix ออกพันธบัตรสีเขียว €2.5 พันล้านสูงเป็นประวัติการณ์ หนุนขยายดาต้าเซ็นเตอร์ประหยัดพลังงาน",
+                      "url":  "https://investor.equinix.com/news-releases/news-release-details/equinix-issues-eu25-billion-green-bonds-advance-sustainability",
+                      "why_en":  "Locking in €2.5 billion at a 4.82% blended effective interest rate strengthens liquidity for high-density, liquid-cooled AI colocation expansions and lifts cumulative green bond issuance above $12 billion.",
+                      "why_th":  "การระดมทุน €2.5 พันล้านที่ต้นทุนดอกเบี้ยเฉลี่ยแท้จริง 4.82% ช่วยเสริมสภาพคล่องสำหรับขยายศูนย์ข้อมูล Colocation ความหนาแน่นสูงที่รองรับ Liquid Cooling สำหรับงาน AI ส่งผลให้ยอดออกพันธบัตรสีเขียวสะสมทะลุ $12 พันล้าน"
                   },
                   {
                       "date":  "2026-11-17",
                       "impact":  "positive",
-                      "publisher":  "Microsoft Azure Blog",
+                      "publisher":  "Cerebras Systems",
                       "tickers":  [
-                                      "MSFT"
+                                      "CBRS",
+                                      "AMZN"
                                   ],
-                      "title_en":  "Microsoft Launches Azure Cobalt 200 VMs and Vera Rubin Integration",
-                      "title_th":  "Microsoft เปิดตัว Azure Cobalt 200 VMs และเชื่อมต่อระบบ NVIDIA Vera Rubin ใน Azure",
-                      "url":  "https://azure.microsoft.com/en-us/blog/ignite-2026-the-next-era-of-enterprise-ai-starts-with-the-infrastructure-beneath-it/",
-                      "why_en":  "Unveiled at Ignite 2026, custom Arm-based Cobalt 200 delivers up to 50% better CPU performance across 24 regions alongside NVIDIA Vera Rubin NVL72 racks and standalone Azure AI Gateway to power enterprise agents.",
-                      "why_th":  "งาน Ignite 2026 เปิดตัวชิป Arm รุ่นใหม่ Cobalt 200 ที่แรงขึ้นสูงสุด 50% ใน 24 รีเจียน พร้อมผสานแร็ก NVIDIA Vera Rubin NVL72 และ Azure AI Gateway เพื่อรองรับเวิร์กโหลด agentic AI ระดับองค์กร"
+                      "title_en":  "Cerebras launches disaggregated AI inference with AWS delivering 5x tokens per megawatt",
+                      "title_th":  "Cerebras เปิดตัวระบบ Disaggregated Inference ร่วมกับ AWS เพิ่มเอาต์พุต 5 เท่าต่อเมกะวัตต์",
+                      "url":  "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+                      "why_en":  "Pairing GPUs for prefill with Cerebras CS-3 systems for decode increases token throughput per megawatt fivefold, directly addressing power efficiency limits in agentic AI inference.",
+                      "why_th":  "การแยกงานประมวลผลโดยใช้ GPU ทำ Prefill และให้ระบบ Cerebras CS-3 ทำ Decode ช่วยเพิ่มจำนวน Token ต่อเมกะวัตต์ขึ้นถึง 5 เท่า ตอบโจทย์ข้อจำกัดด้านพลังงานในการรัน Agentic AI ความเร็วสูง"
                   },
                   {
-                      "date":  "2026-11-09",
+                      "date":  "2026-11-10",
                       "impact":  "positive",
-                      "publisher":  "Google Blog",
+                      "publisher":  "Google Cloud",
                       "tickers":  [
                                       "GOOGL"
                                   ],
-                      "title_en":  "Google Cloud Unveils TPU 8i Max and Confidential TPU 8tx Systems",
-                      "title_th":  "Google Cloud เปิดตัวชิป AI รุ่นใหม่ TPU 8i Max และ TPU 8tx เน้นความปลอดภัยขั้นสูง",
-                      "url":  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-                      "why_en":  "Dual-chip TPU 8i Max doubles memory bandwidth for long-context agents, while AMD-paired TPU 8tx enables hardware-encrypted inference to win regulated government, finance, and healthcare workloads.",
-                      "why_th":  "TPU 8i Max แบบแพ็กเกจคู่ช่วยเพิ่มแบนด์วิดท์หน่วยความจำเป็นสองเท่าสำหรับ AI agent ที่ประมวลผลบริบทยาว ส่วน TPU 8tx ที่จับคู่กับซีพียู AMD ช่วยเปิดทางเจาะกลุ่มลูกค้าภาครัฐ การเงิน และสาธารณสุขที่เข้มงวดเรื่องความเป็นส่วนตัวข้อมูล"
-                  },
-                  {
-                      "date":  "2026-11-20",
-                      "impact":  "mixed",
-                      "publisher":  "Seeking Alpha",
-                      "tickers":  [
-                                      "GOOGL"
-                                  ],
-                      "title_en":  "Google Reportedly Cuts 2027 Broadcom TPU 8i Orders by 20%",
-                      "title_th":  "มีรายงานว่า Google ปรับลดออเดอร์ชิป Broadcom TPU 8i ปี 2027 ลง 20%",
-                      "url":  "https://seekingalpha.com/news/4427506-google-shifts-some-27-high-end-ai-chip-orders-from-broadcom-to-mediatek-ming-chi-kuo-says",
-                      "why_en":  "Analyst Ming-Chi Kuo reported Google trimmed roughly 1 million 2027 TPU 8i units—primarily TPU 8i Max—while shifting volume toward MediaTek\u0027s TPU 8t to balance power constraints and supplier diversification.",
-                      "why_th":  "นักวิเคราะห์ Ming-Chi Kuo ระบุว่า Google ปรับลดยอดสั่งผลิต TPU 8i จาก Broadcom ปี 2027 ลงราว 1 ล้านชิ้นโดยเฉพาะรุ่น TPU 8i Max เพื่อหันไปเพิ่มสัดส่วนรุ่น TPU 8t ของ MediaTek ช่วยกระจายซัพพลายเชนและรับมือข้อจำกัดด้านพลังงานในศูนย์ข้อมูล"
-                  },
-                  {
-                      "date":  "2026-11-09",
-                      "impact":  "positive",
-                      "publisher":  "Equinix Investor Relations",
-                      "tickers":  [
-                                      "EQIX"
-                                  ],
-                      "title_en":  "Equinix Closes Record €2.5B Green Bond Offering for Data Centers",
-                      "title_th":  "Equinix ปิดดีลออกกรีนบอนด์สถิติใหม่ €2.5B หนุนขยายดาต้าเซ็นเตอร์พลังงานสะอาด",
-                      "url":  "https://investor.equinix.com/news-and-events/news-releases/news-release-details/2026/Equinix-Issues-2.5-Billion-in-Green-Bonds-to-Advance-Sustainability-Initiatives/default.aspx",
-                      "why_en":  "Securing €2.5B (~$2.7B) across four tranches at a 4.82% blended effective rate strengthens Equinix\u0027s balance sheet to finance clean-energy procurement and high-density AI colocation builds.",
-                      "why_th":  "การระดมทุน €2.5B (ราว $2.7B) ด้วยอัตราดอกเบี้ยเฉลี่ยหลังป้องกันความเสี่ยงเพียง 4.82% ช่วยเสริมสภาพคล่องให้ Equinix เดินหน้าจัดหาพลังงานสะอาดและขยายพื้นที่ colocation ความหนาแน่นสูงรองรับงาน AI inference"
+                      "title_en":  "Google Cloud launches Gemini for Healthcare with major US health systems",
+                      "title_th":  "Google Cloud เปิดตัว Gemini for Healthcare ร่วมกับเครือโรงพยาบาลชั้นนำสหรัฐฯ",
+                      "url":  "https://www.googlecloudpresscorner.com/2026-11-10-Google-Cloud-Launches-Gemini-for-Healthcare",
+                      "why_en":  "Rolling out HIPAA-compliant agentic workflows integrated with Epic and Oracle Health alongside HCA Healthcare, Optum, and Stanford expands Google Cloud\u0027s high-margin enterprise AI footprint.",
+                      "why_th":  "การเปิดตัวเวิร์กโฟลว์ Agentic AI ที่รองรับมาตรฐาน HIPAA และเชื่อมต่อระบบเวชระเบียน Epic กับ Oracle Health โดยมีลูกค้าอย่าง HCA Healthcare, Optum และ Stanford ช่วยขยายฐานรายได้คลาวด์ AI ระดับองค์กรที่อัตรากำไรสูงให้ Google Cloud"
                   },
                   {
                       "date":  "2026-11-16",
                       "impact":  "positive",
-                      "publisher":  "DigitalOcean Investor Relations",
+                      "publisher":  "Business Wire",
                       "tickers":  [
                                       "DOCN"
                                   ],
-                      "title_en":  "DigitalOcean\u0027s Cloudways Launches Native WordPress AI Website Builder",
-                      "title_th":  "Cloudways ในเครือ DigitalOcean เปิดตัวเครื่องมือสร้างเว็บ WordPress ด้วย AI",
-                      "url":  "https://investors.digitalocean.com/news/news-details/2026/Cloudways-Launches-AI-Website-Builder-Enabling-Businesses-To-Create-And-Launch-WordPress-Websites-In-Minutes/default.aspx",
-                      "why_en":  "Generating exportable WordPress and WooCommerce sites in about 4 minutes using native Gutenberg blocks expands DigitalOcean\u0027s SMB AI-native cloud funnel without proprietary platform lock-in.",
-                      "why_th":  "เครื่องมือใหม่ที่สร้างเว็บไซต์ WordPress และ WooCommerce พร้อมใช้งานภายในราว 4 นาทีโดยไม่ผูกขาดแพลตฟอร์ม ช่วยขยายฐานลูกค้าเอสเอ็มอีและเอเจนซี่เข้าสู่ระบบนิเวศคลาวด์ AI ของ DigitalOcean ได้กว้างขึ้น"
+                      "title_en":  "DigitalOcean\u0027s Cloudways launches AI Website Builder for SMB WordPress deployments",
+                      "title_th":  "Cloudways ในเครือ DigitalOcean เปิดตัว AI Website Builder เจาะกลุ่มธุรกิจ SMB",
+                      "url":  "https://www.businesswire.com/news/home/20261116752002/en/Cloudways-Launches-AI-Website-Builder-Enabling-Businesses-To-Create-And-Launch-WordPress-Websites-In-Minutes",
+                      "why_en":  "Embedding AI site generation into its managed hosting platform supports SMB customer acquisition and cross-selling across DigitalOcean\u0027s core cloud infrastructure.",
+                      "why_th":  "การผสานเครื่องมือสร้างเว็บไซต์ด้วย AI เข้าในแพลตฟอร์มโฮสติ้ง Cloudways ช่วยเร่งการขยายฐานลูกค้า SMB และเพิ่มโอกาสขายพ่วงบริการคลาวด์หลักของ DigitalOcean"
                   }
               ]
 },
@@ -972,123 +961,33 @@ window.AI_NEWS = {"L1":{
     "model":  "gemini-4-neon-high",
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T05:32:23Z",
+    "generatedAt":  "2026-11-24T03:28:22Z",
     "period":  [
-                   "2026-11-09",
-                   "2026-11-23"
+                   "2026-11-10",
+                   "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "Anthropic\u0027s record $81.3B Nasdaq IPO at a ~$1.5T valuation reshaped the foundation-model layer, delivering roughly $260B in combined paper gains to backers Amazon and Alphabet while intensifying Wall Street scrutiny of hyperscaler AI capex. Across the layer, labs raced to ship cheaper, faster agentic models—including Claude 5.2, Gemini 4 Neon and Hydrogen, Microsoft\u0027s in-house MAI Code 2 and Cyber 2, Meta\u0027s Muse Ember, and xAI\u0027s Grok Bot 1.0—even as SpaceX locked in $44B in GPU lease financing and Nvidia\u0027s $115.8B quarter confirmed unabated compute demand. Meanwhile, new U.S. export rules covering remote overseas cloud compute, power-driven TPU order shifts at Google, and privacy mishaps in Meta\u0027s Muse agent highlighted growing regulatory, power, and execution hurdles.",
-                  "th":  "ช่วง 2 สัปดาห์ที่ผ่านมา กลุ่ม Foundation Models คึกคักเป็นประวัติการณ์จากการเข้าตลาด Nasdaq ของ Anthropic ด้วยมูลค่าระดมทุน $81.3B ที่มูลค่ากิจการราว $1.5T ซึ่งสร้างกำไรทางบัญชีรวมราว $260B ให้ Amazon และ Alphabet พร้อมกระตุ้นให้ตลาดจับตางบลงทุน AI ของกลุ่มไฮเปอร์สเกลเลอร์ใกล้ชิดขึ้น ขณะเดียวกันทุกค่ายเร่งปล่อยโมเดลสายเอเจนต์ที่เร็วและคุ้มค่ากว่าเดิม ทั้ง Claude 5.2, Gemini 4 Neon/Hydrogen, โมเดล MAI ของ Microsoft, Muse Ember ของ Meta และ Grok Bot 1.0 ของ xAI ท่ามกลางดีลเช่าซื้อ GPU มูลค่า $44B ของ SpaceX และงบ $115.8B ของ Nvidia ที่ยืนยันดีมานด์คำนวณยังแรงไม่แผ่ว อย่างไรก็ดี กฎคุมส่งออกชิป AI ฉบับใหม่ของสหรัฐฯ ที่คลุมถึงการใช้คลาวด์ข้ามแดน ข้อจำกัดด้านไฟฟ้าที่ทำให้ Google ปรับออเดอร์ TPU และปัญหาข้อมูลรั่วในเอเจนต์ Muse ของ Meta สะท้อนความท้าทายด้านกฎระเบียบ พลังงาน และความปลอดภัยที่ต้องติดตามอย่างใกล้ชิด"
+                  "en":  "Anthropic\u0027s historic $119.5 billion IPO and concurrent private placement anchored a pivotal two weeks for foundation models, validating public-market appetite while handing Amazon and Alphabet huge equity windfalls. At the same time, SpaceX\u0027s $32 billion off-balance-sheet AI-chip debt sale and a bipartisan U.S. Senate disclosure bill spotlighted rising leverage and financing scrutiny across the layer, as SpaceX pivoted heavily toward leasing Colossus compute to Anthropic and Google. On the product and silicon front, Microsoft, Google, Amazon, and Anthropic pressed ahead with cheaper agentic models and custom-chip software, while Meta drew scrutiny over Muse privacy flaws and dropping its 2030 net-zero target amid surging data center power use.",
+                  "th":  "การเข้าจดทะเบียนในตลาดหลักทรัพย์ครั้งประวัติศาสตร์ของ Anthropic มูลค่ารวม 119.5 พันล้านดอลลาร์ กลายเป็นจุดเปลี่ยนสำคัญของกลุ่ม Foundation Models ในช่วงสองสัปดาห์ที่ผ่านมา ทั้งช่วยยืนยันความต้องการจากตลาดทุนและสร้างมูลค่าหุ้นก้อนโตให้ผู้ถือหุ้นใหญ่อย่าง Amazon และ Alphabet ขณะเดียวกัน การออกหุ้นกู้นอกงบดุลเพื่อซื้อชิป AI มูลค่า 32 พันล้านดอลลาร์ของ SpaceX และร่างกฎหมายเปิดเผยข้อมูลของวุฒิสภาสหรัฐฯ สะท้อนแรงจับตาต่อภาระการเงินที่เพิ่มขึ้น โดย SpaceX หันมาเน้นให้เช่าพลังประมวลผล Colossus แก่ Anthropic และ Google มากขึ้น ด้านผลิตภัณฑ์และชิปเฉพาะทาง Microsoft, Google, Amazon และ Anthropic ต่างเร่งเปิดตัวโมเดลแนว Agent ที่ต้นทุนถูกลงและเสริมซอฟต์แวร์ชิปของตนเอง ส่วน Meta เผชิญแรงกดดันทั้งจากปัญหาข้อมูลรั่วใน Muse และการยกเลิกเป้าหมาย Net-Zero ปี 2030 จากการใช้ไฟฟ้าดาต้าเซ็นเตอร์ที่พุ่งสูงขึ้น"
               },
     "themes":  {
                    "en":  [
-                              "Anthropic\u0027s historic $81.3B IPO",
-                              "Agentic model price-performance race",
-                              "Massive AI compute financing",
-                              "Overseas cloud export controls"
+                              "Record AI Capital Markets",
+                              "Off-Balance-Sheet Compute Scrutiny",
+                              "Custom Silicon \u0026 Agent Race",
+                              "Data Center Power Pressures"
                           ],
                    "th":  [
-                              "IPO ประวัติศาสตร์ $81.3B ของ Anthropic",
-                              "ศึกโมเดลเอเจนต์ลดต้นทุน-เพิ่มความเร็ว",
-                              "ระดมทุนมหาศาลขยายโครงสร้างพื้นฐาน AI",
-                              "คุมส่งออกชิป AI สู่คลาวด์ต่างแดน"
+                              "ตลาดทุน AI ทุบสถิติใหม่",
+                              "จับตาหนี้นอกงบค่าคอมพิวต์",
+                              "แข่งชิปเฉพาะทางและ AI Agent",
+                              "แรงกดดันพลังงานดาต้าเซ็นเตอร์"
                           ]
                },
     "items":  [
                   {
-                      "date":  "2026-11-18",
-                      "impact":  "positive",
-                      "publisher":  "Reuters",
-                      "tickers":  [
-                                      "ANT",
-                                      "AMZN",
-                                      "GOOGL"
-                                  ],
-                      "title_en":  "Anthropic prices record $81.3B Nasdaq IPO at $1.5T valuation, boosting Amazon and Alphabet stakes",
-                      "title_th":  "Anthropic เคาะราคา IPO ประวัติศาสตร์ $81.3B มูลค่ากิจการ $1.5T หนุนมูลค่าหุ้นที่ Amazon และ Alphabet ถือพุ่งแรง",
-                      "url":  "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/",
-                      "why_en":  "Raising $81.3B at $83 per share ahead of its Nov 19 Nasdaq debut gives Anthropic a massive war chest for frontier compute while lifting Amazon\u0027s ~14.7% stake to ~$161B+ and Alphabet\u0027s ~13.7% stake to ~$147B+ at IPO pricing.",
-                      "why_th":  "การระดมทุน $81.3B ที่ราคา $83 ต่อหุ้นก่อนเข้าเทรด Nasdaq วันที่ 19 พ.ย. เติมกระสุนเงินสดมหาศาลให้ Anthropic สำหรับลงทุนโครงสร้างพื้นฐาน AI พร้อมดันมูลค่าหุ้นที่ AMZN ถือ (~14.7%) ทะลุ $161B และ GOOGL (~13.7%) ทะลุ $147B ณ ราคา IPO"
-                  },
-                  {
                       "date":  "2026-11-20",
-                      "impact":  "positive",
-                      "publisher":  "Apollo Global Management",
-                      "tickers":  [
-                                      "SPCX"
-                                  ],
-                      "title_en":  "Apollo and Goldman Sachs price $44B Nvidia Vera Rubin GPU lease financing for SpaceX",
-                      "title_th":  "Apollo และ Goldman Sachs ปิดดีลจัดหาเงินทุนเช่าซื้อชิป Nvidia Vera Rubin มูลค่า $44B ให้ SpaceX",
-                      "url":  "https://www.apollo.com/insights-news/pressreleases/2026/apollo-and-goldman-sachs-announce-pricing-of-44-billion-spacex-gpu-financing",
-                      "why_en":  "The ~$44B Saturn Funding Trust structure secures off-balance-sheet Nvidia Vera Rubin GPU clusters for SpaceX and xAI, accelerating Colossus-scale compute expansion for Grok training and inference.",
-                      "why_th":  "โครงสร้างกองทรัสต์ Saturn Funding Trust มูลค่าราว $44B ช่วยให้ SpaceX และ xAI เข้าถึงคลัสเตอร์ชิป Nvidia Vera Rubin นอกงบดุล เพื่อเร่งขยายกำลังประมวลผลระดับ Colossus สำหรับเทรนและรันโมเดล Grok"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "Microsoft",
-                      "tickers":  [
-                                      "MSFT"
-                                  ],
-                      "title_en":  "Microsoft launches in-house MAI Code 2 and Cyber 2 models at Ignite 2026",
-                      "title_th":  "Microsoft เปิดตัวโมเดลพัฒนาเอง MAI Code 2 และ Cyber 2 ในงาน Ignite 2026",
-                      "url":  "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
-                      "why_en":  "MAI Code 2 delivers ~98% of GPT-6.1 Sol coding performance at ~40% of the cost alongside Copilot multi-model auto-routing and Maia 200 production silicon, improving Azure AI margins and cutting reliance on external labs.",
-                      "why_th":  "MAI Code 2 ทำประสิทธิภาพเขียนโค้ดได้ราว 98% ของ GPT-6.1 Sol ด้วยต้นทุนเพียง ~40% ควบคู่ระบบ Copilot auto-routing และชิป Maia 200 ที่ขึ้นไลน์ผลิตจริง ช่วยเพิ่มมาร์จิ้น Azure AI และลดการพึ่งพาแล็บภายนอก"
-                  },
-                  {
-                      "date":  "2026-11-19",
-                      "impact":  "negative",
-                      "publisher":  "U.S. Bureau of Industry and Security (Federal Register)",
-                      "tickers":  [
-                                      "AMZN",
-                                      "MSFT",
-                                      "GOOGL",
-                                      "ANT",
-                                      "META",
-                                      "SPCX"
-                                  ],
-                      "title_en":  "U.S. expands AI chip export controls to cover remote overseas data center compute",
-                      "title_th":  "สหรัฐฯ ขยายกฎคุมส่งออกชิป AI ครอบคลุมการเข้าถึงคลาวด์คอมพิวต์ในดาต้าเซ็นเตอร์ต่างประเทศ",
-                      "url":  "https://www.federalregister.gov/d/2026-23529",
-                      "why_en":  "The BIS interim final rule requires export licenses for remote access to U.S.-tech AI compute abroad and flags hubs including Singapore, Malaysia, Indonesia, Thailand, and Brazil for diversion risk, raising compliance costs for international cloud and model sales.",
-                      "why_th":  "กฎชั่วคราวของ BIS กำหนดให้ต้องขอใบอนุญาตส่งออกสำหรับการเข้าถึงกำลังประมวลผล AI เทคโนโลยีสหรัฐฯ ระยะไกลในต่างประเทศ และระบุชื่อศูนย์กลางอย่างสิงคโปร์ มาเลเซีย อินโดนีเซีย ไทย และบราซิลว่ามีความเสี่ยงรั่วไหล ซึ่งเพิ่มต้นทุนด้านกฎระเบียบต่อการขายคลาวด์และโมเดลนอกสหรัฐฯ"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "mixed",
-                      "publisher":  "NVIDIA",
-                      "tickers":  [
-                                      "MSFT",
-                                      "AMZN",
-                                      "GOOGL",
-                                      "META",
-                                      "ANT",
-                                      "SPCX"
-                                  ],
-                      "title_en":  "Nvidia posts $115.8B Q3 revenue on Vera Rubin ramp, confirming massive hyperscaler AI spend",
-                      "title_th":  "Nvidia ทำรายได้ไตรมาส 3 พุ่ง $115.8B จากยอดส่งมอบ Vera Rubin ยืนยันงบลงทุน AI ไฮเปอร์สเกลเลอร์ยังแรงต่อเนื่อง",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-                      "why_en":  "$107.6B in data center revenue (+110% YoY), ~$20B in early Vera Rubin shipments, and $130B Q4 guidance validate \u003e$200B/quarter buyer demand, though heavy GPU bills keep free cash flow and AI ROI under intense scrutiny.",
-                      "why_th":  "รายได้ดาต้าเซ็นเตอร์ $107.6B (+110% YoY) ยอดส่งมอบ Vera Rubin ราว $20B และคาดการณ์ไตรมาส 4 ที่ $130B ยืนยันว่ากลุ่มผู้พัฒนาโมเดลยังทุ่มงบซื้อโครงสร้างพื้นฐานเกิน $200B ต่อไตรมาส แต่ยิ่งกดดันกระแสเงินสดอิสระและการพิสูจน์ความคุ้มค่าการลงทุน AI"
-                  },
-                  {
-                      "date":  "2026-11-18",
-                      "impact":  "positive",
-                      "publisher":  "Google",
-                      "tickers":  [
-                                      "GOOGL"
-                                  ],
-                      "title_en":  "Google launches Gemini 4 Neon and Hydrogen models alongside real-time Genie 4",
-                      "title_th":  "Google เปิดตัวโมเดล Gemini 4 Neon และ Hydrogen พร้อมโลกจำลองเรียลไทม์ Genie 4",
-                      "url":  "https://blog.google/technology/ai/gemini-4-neon/",
-                      "why_en":  "Adding mid-tier 1M-context Gemini 4 Neon ($3/$15 per million tokens) days after fast Hydrogen ($1.50/$7.50) strengthens Google Cloud and Search competitiveness across coding, science, and agentic workloads.",
-                      "why_th":  "การส่ง Gemini 4 Neon รุ่นกลางที่รองรับบริบท 1M โทเคน ($3/$15 ต่อล้านโทเคน) ตามหลังรุ่นเร็ว Hydrogen ($1.50/$7.50) ช่วยยกระดับความคุ้มค่าของ Google Cloud และ Search ในงานเขียนโค้ด วิทยาศาสตร์ และเอเจนต์อัตโนมัติ"
-                  },
-                  {
-                      "date":  "2026-11-09",
                       "impact":  "positive",
                       "publisher":  "Anthropic",
                       "tickers":  [
@@ -1097,115 +996,192 @@ window.AI_NEWS = {"L1":{
                                       "GOOGL",
                                       "MSFT"
                                   ],
-                      "title_en":  "Anthropic releases 1M-context Claude Fable 5.2 and restricted Claude Mythos 5.2 models",
-                      "title_th":  "Anthropic ปล่อยโมเดลเรือธง Claude Fable 5.2 และรุ่นควบคุมพิเศษ Claude Mythos 5.2 รองรับบริบท 1M โทเคน",
-                      "url":  "https://anthropic.com/news/claude-fable-5-2-and-mythos-5-2",
-                      "why_en":  "Launching 1M-context, 128K-output flagship models at $8/$40 per million tokens across AWS, Google Cloud, and Azure reinforces Anthropic\u0027s coding and enterprise momentum while gating Mythos 5.2 for vetted cyber and life-science partners.",
-                      "why_th":  "โมเดลเรือธงรุ่นใหม่รองรับบริบท 1M โทเคนและเอาต์พุต 128K ที่ราคา $8/$40 ต่อล้านโทเคน พร้อมเปิดใช้งานบน AWS, Google Cloud และ Azure ช่วยตอกย้ำจุดแข็งของ Anthropic ในตลาดองค์กรและกลุ่มไซเบอร์-ชีววิทยาศาสตร์เฉพาะทาง"
+                      "title_en":  "Anthropic closes record $119.5B IPO and private placement on Nasdaq",
+                      "title_th":  "Anthropic ปิดดีล IPO และขายหุ้นเฉพาะเจาะจงทุบสถิติ 119.5 พันล้านดอลลาร์บน Nasdaq",
+                      "url":  "https://www.anthropic.com/news/anthropic-announces-closing-of-initial-public-offering-including-full-exercise-of-underwriters-option-to-purchase-additional-shares-and-closing-of-concurrent-private-placement",
+                      "why_en":  "Raising $93.5 billion in its $83-per-share Nasdaq debut plus $26 billion from strategic buyers including Google and Microsoft gives ANT unmatched balance-sheet firepower while crystallizing huge stake gains for major backers AMZN and GOOGL.",
+                      "why_th":  "การระดมทุน 93.5 พันล้านดอลลาร์ที่ราคา IPO 83 ดอลลาร์ต่อหุ้น บวกขายหุ้นเฉพาะเจาะจงอีก 26 พันล้านดอลลาร์ให้พันธมิตรอย่าง Google และ Microsoft ช่วยเติมกระสุนเงินทุนมหาศาลให้ ANT พร้อมปลดล็อกมูลค่าการลงทุนก้อนโตให้ผู้ถือหุ้นใหญ่อย่าง AMZN และ GOOGL"
                   },
                   {
-                      "date":  "2026-11-22",
+                      "date":  "2026-11-20",
+                      "impact":  "mixed",
+                      "publisher":  "Quartz",
+                      "tickers":  [
+                                      "SPCX"
+                                  ],
+                      "title_en":  "SpaceX raises $32B in AI-chip debt via off-balance-sheet trust",
+                      "title_th":  "SpaceX ระดมทุนหนี้ซื้อชิป AI มูลค่า 32 พันล้านดอลลาร์ผ่านกองทรัสต์นอกงบดุล",
+                      "url":  "https://qz.com/spacex-sold-32-billion-in-ai-chip-debt-most-at-yields-ab-1851892558",
+                      "why_en":  "Arranged by Goldman Sachs and Apollo through Saturn Funding Trust to lease $47.3 billion of NVIDIA Rubin chips, the deal scales SPCX\u0027s compute capacity fast but locks in five-year lease obligations backed by notes yielding above 8%.",
+                      "why_th":  "ดีลที่จัดโดย Goldman Sachs และ Apollo ผ่าน Saturn Funding Trust เพื่อเช่าชิป NVIDIA Rubin มูลค่า 47.3 พันล้านดอลลาร์ ช่วยให้ SPCX ขยายคลัสเตอร์ประมวลผลได้รวดเร็ว แต่แลกกับภาระสัญญาเช่า 5 ปีที่ต้นทุนดอกเบี้ยหุ้นกู้สูงกว่า 8%"
+                  },
+                  {
+                      "date":  "2026-11-23",
                       "impact":  "positive",
-                      "publisher":  "PYMNTS",
+                      "publisher":  "TechCrunch",
                       "tickers":  [
                                       "AMZN"
                                   ],
-                      "title_en":  "Amazon nears up-to-$7.5B deal to acquire real-time AI video startup Decart",
-                      "title_th":  "Amazon จ่อปิดดีลเข้าซื้อสตาร์ตอัป AI วิดีโอเรียลไทม์ Decart มูลค่าสูงสุด $7.5B",
-                      "url":  "https://www.pymnts.com/news/artificial-intelligence/2026/amazon-nears-7-5-billion-deal-for-ai-startup-decart/",
-                      "why_en":  "Acquiring Israeli real-time generative video specialist Decart for $7B–$7.5B would bolster Amazon\u0027s in-house Nova models, AWS Bedrock multimodal stack, and cloud gaming workloads against Google\u0027s Genie 4.",
-                      "why_th":  "การเข้าซื้อ Decart จากอิสราเอลที่มูลค่า $7B–$7.5B จะช่วยเติมเต็มเทคโนโลยีสร้างวิดีโอแบบเรียลไทม์ให้ตระกูลโมเดล Nova และแพลตฟอร์ม AWS Bedrock เพื่อแข่งขันด้านโมเดลมัลติโมดอลกับ Genie 4 ของ Google"
+                      "title_en":  "Amazon buys Decart AI optimization tech and team for reported $7.5B",
+                      "title_th":  "Amazon ทุ่มราว 7.5 พันล้านดอลลาร์ซื้อเทคโนโลยีและทีมเพิ่มประสิทธิภาพชิป AI ของ Decart",
+                      "url":  "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+                      "why_en":  "Acquiring the Decart Optimization Stack and roughly 120 engineers for Annapurna Labs strengthens AWS\u0027s Trainium software ecosystem so enterprise customers can run AI inference faster and cheaper outside NVIDIA GPUs.",
+                      "why_th":  "การซื้อระบบ Decart Optimization Stack พร้อมดึงวิศวกรราว 120 คนเข้าทีม Annapurna Labs ช่วยอุดช่องโหว่ด้านซอฟต์แวร์ของชิป Trainium บน AWS ให้ลูกค้าองค์กรรันงาน AI inference ได้เร็วและประหยัดขึ้นโดยลดการพึ่งพา GPU ของ NVIDIA"
                   },
                   {
-                      "date":  "2026-11-09",
+                      "date":  "2026-11-23",
+                      "impact":  "mixed",
+                      "publisher":  "Forbes",
+                      "tickers":  [
+                                      "SPCX",
+                                      "ANT",
+                                      "GOOGL"
+                                  ],
+                      "title_en":  "SpaceX compute leases top 52% of revenue as Musk warns on AI",
+                      "title_th":  "รายได้เช่าคอมพิวต์ SpaceX ทะลุ 52% ของรายได้รวม ท่ามกลางคำเตือนของ Musk เรื่องโมเดล AI",
+                      "url":  "https://www.forbes.com/sites/zacharyfolk/2026/11/23/musk-warned-spacex-employees-company-was-failing-to-compete-on-ai-in-august-report-says/",
+                      "why_en":  "Leasing Colossus GPUs to Anthropic and Google generated $7.56 billion of SpaceX\u0027s $14.58 billion Q3 revenue, proving lucrative neocloud demand for SPCX and extra compute supply for ANT and GOOGL even as SpaceX acknowledged trailing frontier rivals on Grok.",
+                      "why_th":  "การให้เช่า GPU บน Colossus แก่ Anthropic และ Google สร้างรายได้ 7.56 พันล้านดอลลาร์จากรายได้รวม 14.58 พันล้านดอลลาร์ในไตรมาส 3 สะท้อนธุรกิจ Neocloud ที่ทำเงินให้ SPCX และช่วยเพิ่มกำลังประมวลผลให้ ANT และ GOOGL แม้ SpaceX ยอมรับว่าโมเดล Grok ยังตามหลังคู่แข่งแถวหน้าอยู่"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "mixed",
+                      "publisher":  "NVIDIA",
+                      "tickers":  [
+                                      "GOOGL",
+                                      "META",
+                                      "MSFT",
+                                      "AMZN",
+                                      "SPCX",
+                                      "ANT"
+                                  ],
+                      "title_en":  "NVIDIA Q3 revenue jumps 103% to $115.8B as Vera Rubin ships",
+                      "title_th":  "รายได้ไตรมาส 3 ของ NVIDIA พุ่ง 103% แตะ 115.8 พันล้านดอลลาร์ รับยอดส่งมอบ Vera Rubin",
+                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
+                      "why_en":  "Data center revenue of $107.6 billion and an initial $20 billion Vera Rubin ramp confirm relentless enterprise AI demand while underscoring how heavily hyperscalers and frontier labs must keep spending on third-party GPUs.",
+                      "why_th":  "รายได้กลุ่ม Data Center ที่ 107.6 พันล้านดอลลาร์และยอดส่งมอบ Vera Rubin ล็อตแรก 20 พันล้านดอลลาร์ ยืนยันว่าความต้องการใช้งาน AI ยังร้อนแรง แต่ก็สะท้อนภาระงบลงทุนซื้อ GPU ก้อนโตที่ Hyperscaler และค่ายโมเดลแถวหน้ายังต้องแบกรับต่อเนื่อง"
+                  },
+                  {
+                      "date":  "2026-11-19",
+                      "impact":  "negative",
+                      "publisher":  "U.S. Senate",
+                      "tickers":  [
+                                      "ANT",
+                                      "GOOGL",
+                                      "META",
+                                      "SPCX",
+                                      "MSFT",
+                                      "AMZN"
+                                  ],
+                      "title_en":  "U.S. Senators introduce AUDIT AI Act targeting off-balance-sheet compute leases",
+                      "title_th":  "วุฒิสมาชิกสหรัฐฯ เสนอร่างกฎหมาย AUDIT AI Act บังคับเปิดเผยหนี้เช่าคอมพิวต์นอกงบดุล",
+                      "url":  "https://www.warner.senate.gov/2026/11/19/warner-kennedy-alsobrooks-rounds-introduce-bipartisan-legislation-to-increase-transparency-and-oversight-of-ai-investments/",
+                      "why_en":  "The bipartisan bill would direct the SEC to mandate disclosures of off-balance-sheet AI compute leases and SPV debt structures, increasing regulatory scrutiny and potential financing friction across capital-intensive model builders.",
+                      "why_th":  "ร่างกฎหมายจากสองพรรคใหญ่จะให้ SEC บังคับบริษัทจดทะเบียนเปิดเผยสัญญาเช่าคอมพิวต์ AI และหนี้ผ่าน SPV นอกงบดุล ซึ่งอาจเพิ่มแรงตรวจสอบจากนักลงทุนและทำให้การจัดโครงสร้างเงินทุนของกลุ่มพัฒนาโมเดลเข้มงวดขึ้น"
+                  },
+                  {
+                      "date":  "2026-11-18",
                       "impact":  "positive",
                       "publisher":  "Google",
                       "tickers":  [
                                       "GOOGL"
                                   ],
-                      "title_en":  "Google expands eighth-generation TPU lineup with TPU 8tx and TPU 8i Max",
-                      "title_th":  "Google ขยายทัพชิป TPU รุ่นที่ 8 เปิดตัว TPU 8tx และ TPU 8i Max รับยุคเอเจนต์ AI",
-                      "url":  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-                      "why_en":  "TPU 8i Max doubles per-package SRAM and HBM density for million-token agentic workloads while TPU 8tx adds hardware-encrypted confidential inference with AMD EPYC hosts, widening Alphabet\u0027s custom-silicon cost moat.",
-                      "why_th":  "TPU 8i Max เพิ่มความหนาแน่นหน่วยความจำ SRAM และ HBM เป็น 2 เท่าต่อแพ็กเกจสำหรับเอเจนต์บริบทยาว ส่วน TPU 8tx เพิ่มการประมวลผลแบบเข้ารหัสฮาร์ดแวร์ร่วมกับซีพียู AMD EPYC ช่วยขยายความได้เปรียบด้านต้นทุนชิปผลิตเองของ Alphabet"
+                      "title_en":  "Google DeepMind launches Gemini 4 Neon for coding and AI agents",
+                      "title_th":  "Google DeepMind เปิดตัว Gemini 4 Neon เจาะตลาดเขียนโค้ดและ AI Agent ต้นทุนคุ้มค่า",
+                      "url":  "https://blog.google/technology/developers/introducing-gemini-4-neon/",
+                      "why_en":  "Priced at $3 per million input tokens and $15 per million output tokens with a 1-million-token context window, Neon cuts per-task cost by roughly 32% versus Gemini 4 Carbon and extends Google\u0027s rapid four-model Gemini 4 rollout.",
+                      "why_th":  "ด้วยราคา API 3 ดอลลาร์ต่อล้าน input token และ 15 ดอลลาร์ต่อล้าน output token พร้อม context 1 ล้าน token รุ่น Neon ช่วยลดต้นทุนต่องานลงราว 32% เทียบกับ Gemini 4 Carbon และตอกย้ำจังหวะการออกโมเดลตระกูล Gemini 4 ที่รวดเร็วของ Google"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "Microsoft",
+                      "tickers":  [
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Microsoft unveils MAI Code 2, Licensed Weights, and Agent 365",
+                      "title_th":  "Microsoft เปิดตัว MAI Code 2, MAI Licensed Weights และอัปเกรด Agent 365 ในงาน Ignite 2026",
+                      "url":  "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+                      "why_en":  "Expanding its in-house MAI coding models, letting Azure enterprises customize MAI weights privately, and widening Agent 365 governance to rival clouds lowers MSFT\u0027s dependence on external models and deepens enterprise lock-in.",
+                      "why_th":  "การขยายโมเดลเขียนโค้ด MAI ของตัวเอง เปิดให้องค์กรปรับแต่ง weight บน Azure ได้โดยตรง และขยาย Agent 365 ให้กำกับดูแล agent จากค่ายอื่นได้ด้วย ช่วยลดการพึ่งพาโมเดลภายนอกของ MSFT และเพิ่มความเหนียวแน่นในกลุ่มลูกค้าองค์กร"
                   },
                   {
                       "date":  "2026-11-20",
-                      "impact":  "mixed",
-                      "publisher":  "Seeking Alpha",
-                      "tickers":  [
-                                      "GOOGL"
-                                  ],
-                      "title_en":  "Google reportedly cuts 2027 Broadcom TPU 8i orders 20% amid power limits",
-                      "title_th":  "รายงานชี้ Google หั่นคำสั่งซื้อชิป TPU 8i จาก Broadcom ปี 2027 ลง 20% ท่ามกลางข้อจำกัดด้านพลังงาน",
-                      "url":  "https://seekingalpha.com/news/4429715-google-shifts-some-27-high-end-ai-chip-orders-from-broadcom-to-mediatek-ming-chi-kuo-says",
-                      "why_en":  "Trimming planned 2027 TPU 8i shipments by ~1M units (from 5M to 4M) while increasing MediaTek-designed TPU 8t allocations shows Alphabet prioritizing frontier training under tight data center power budgets.",
-                      "why_th":  "การลดแผนสั่งซื้อ TPU 8i ปี 2027 ราว 1 ล้านชิ้น (จาก 5 ล้านเหลือ 4 ล้านชิ้น) แล้วหันไปเพิ่มสัดส่วน TPU 8t ที่ออกแบบร่วมกับ MediaTek สะท้อนว่า Alphabet ต้องจัดสรรกำลังไฟฟ้าในดาต้าเซ็นเตอร์ที่มีจำกัดให้เน้นงานเทรนโมเดลแนวหน้าก่อน"
-                  },
-                  {
-                      "date":  "2026-11-18",
-                      "impact":  "negative",
-                      "publisher":  "Reuters",
-                      "tickers":  [
-                                      "META"
-                                  ],
-                      "title_en":  "Reuters reveals privacy and cross-account data leaks in Meta\u0027s Muse AI agent",
-                      "title_th":  "Reuters เปิดโปงปัญหาข้อมูลสลับบัญชีและช่องโหว่ความเป็นส่วนตัวในเอเจนต์ AI \"Muse\" ของ Meta",
-                      "url":  "https://www.reuters.com/technology/artificial-intelligence/as-meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
-                      "why_en":  "Internal posts reviewed by Reuters showed the 10M+-download Muse agent reading Signal messages via notification permissions and mixing user bank balances across accounts, creating trust and regulatory headwinds for Meta\u0027s consumer AI push.",
-                      "why_th":  "บันทึกภายในที่ Reuters ตรวจสอบพบว่าเอเจนต์ Muse ซึ่งมียอดดาวน์โหลดทะลุ 10 ล้านครั้ง ดึงข้อความจากแอป Signal ผ่านสิทธิ์การแจ้งเตือนและแสดงข้อมูลบัญชีธนาคารสลับผู้ใช้ สร้างความเสี่ยงด้านความเชื่อมั่นและแรงกดดันจากหน่วยงานกำกับดูแลต่อแผนสร้างรายได้ AI ของ Meta"
-                  },
-                  {
-                      "date":  "2026-11-09",
                       "impact":  "positive",
+                      "publisher":  "Microsoft",
+                      "tickers":  [
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Microsoft debuts Maia 300 AI chips and Cobalt 200 Azure VMs",
+                      "title_th":  "Microsoft เผยโฉมชิป AI Maia 300 และเปิดใช้งานจริง Cobalt 200 VM บน Azure",
+                      "url":  "https://techcommunity.microsoft.com/blog/azurecompute/ignite-2026-the-next-era-of-enterprise-ai-starts-with-the-infrastructure-beneath-it/4574943",
+                      "why_en":  "Maia 300 targets roughly 40% more tokens per watt than leading GPU systems and up to 7x the rack-scale throughput of Maia 200, helping MSFT defend Azure AI margins as agentic inference scales.",
+                      "why_th":  "ชิป Maia 300 รุ่นใหม่ตั้งเป้าประมวลผล token ต่อวัตต์สูงกว่าระบบ GPU ชั้นนำราว 40% และให้ปริมาณงานระดับแร็กสูงกว่า Maia 200 ถึง 7 เท่า ช่วย MSFT คุมต้นทุนและรักษาอัตรากำไรของ Azure AI เมื่อการใช้งาน Agent ขยายตัว"
+                  },
+                  {
+                      "date":  "2026-11-23",
+                      "impact":  "positive",
+                      "publisher":  "TechCrunch",
+                      "tickers":  [
+                                      "ANT"
+                                  ],
+                      "title_en":  "Anthropic launches Claude Ship to review, fix, and approve GitHub code",
+                      "title_th":  "Anthropic เปิดตัว Claude Ship ให้ AI Agent ตรวจ แก้ไข และอนุมัติโค้ดบน GitHub อัตโนมัติ",
+                      "url":  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+                      "why_en":  "Extending Claude from code generation into automated pull-request maintenance and policy-based approvals embeds ANT deeper into enterprise software delivery workflows, supporting higher-margin recurring seats.",
+                      "why_th":  "การต่อยอด Claude จากการช่วยเขียนโค้ดไปสู่การดูแลและอนุมัติ Pull Request อัตโนมัติตามกติกาองค์กร ช่วยให้ ANT ฝังตัวลึกขึ้นในกระบวนการพัฒนาซอฟต์แวร์และหนุนรายได้แบบสมาชิกองค์กรที่มีอัตรากำไรสูง"
+                  },
+                  {
+                      "date":  "2026-11-23",
+                      "impact":  "mixed",
                       "publisher":  "TechCrunch",
                       "tickers":  [
                                       "META"
                                   ],
-                      "title_en":  "Meta Superintelligence Labs launches low-cost Muse Ember model for high-volume agents",
-                      "title_th":  "Meta Superintelligence Labs เปิดตัวโมเดลต้นทุนต่ำ Muse Ember สำหรับงานเอเจนต์ปริมาณมหาศาล",
-                      "url":  "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution/",
-                      "why_en":  "Priced around $0.10 per million input tokens, Muse Ember handles repetitive tool-calling and routing subtasks alongside flagship Muse Wonder, slashing inference costs across Meta\u0027s billion-user apps.",
-                      "why_th":  "Muse Ember ตั้งราคาเพียงราว $0.10 ต่อล้านโทเคนอินพุต เพื่อรับงานย่อยปริมาณสูงอย่างการเรียกเครื่องมือและการจัดเส้นทางคำสั่งควบคู่โมเดลหลัก Muse Wonder ช่วยลดต้นทุนการรันเอเจนต์บนแพลตฟอร์มที่มีผู้ใช้หลายพันล้านรายของ Meta"
+                      "title_en":  "Meta drops 2030 net-zero target as AI data center power surges",
+                      "title_th":  "Meta ถอยเป้า Net-Zero ปี 2030 หลังดาต้าเซ็นเตอร์ AI ดันการใช้ไฟและการปล่อยก๊าซพุ่งสูง",
+                      "url":  "https://techcrunch.com/2026/11/23/meta-throws-out-its-net-zero-goal-its-competitors-should-be-furious/",
+                      "why_en":  "After net emissions jumped 45% to 11.8 million metric tons CO2e and electricity use rose 35% year-over-year, dropping its 2030 timeline gives META flexibility to rely on natural gas for mega-campuses like Hyperion while heightening ESG and regulatory risk.",
+                      "why_th":  "หลังการปล่อยก๊าซเรือนกระจกพุ่งขึ้น 45% แตะ 11.8 ล้านตันคาร์บอนฯ และการใช้ไฟโต 35% การถอยกรอบเวลาปี 2030 เปิดทางให้ META ใช้พลังงานก๊าซธรรมชาติเร่งสร้างแคมปัสใหญ่อย่าง Hyperion ได้คล่องตัวขึ้น แต่แลกกับความเสี่ยงด้าน ESG และกฎระเบียบที่สูงขึ้น"
                   },
                   {
-                      "date":  "2026-11-20",
-                      "impact":  "positive",
-                      "publisher":  "The New York Times",
+                      "date":  "2026-11-19",
+                      "impact":  "negative",
+                      "publisher":  "TechCrunch",
                       "tickers":  [
-                                      "ANT"
+                                      "META"
                                   ],
-                      "title_en":  "Anthropic mathematician and Claude claim 17M-line Lean proof of Riemann Hypothesis",
-                      "title_th":  "นักคณิตศาสตร์ของ Anthropic ร่วมกับ Claude อ้างบทพิสูจน์ Riemann Hypothesis ยาว 17 ล้านบรรทัดในภาษา Lean",
-                      "url":  "https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html",
-                      "why_en":  "Although the 17-million-line formal proof still requires full mathematical community verification, the breakthrough signals a leap in Claude\u0027s formal reasoning moat for science, engineering, and software verification markets.",
-                      "why_th":  "แม้บทพิสูจน์ในภาษา Lean ยาว 17 ล้านบรรทัดยังอยู่ระหว่างการตรวจสอบจากวงการคณิตศาสตร์ แต่ผลงานนี้ช่วยตอกย้ำศักยภาพการให้เหตุผลเชิงตรรกะขั้นสูงของ Claude ซึ่งเป็นจุดขายสำคัญในตลาดวิจัยวิทยาศาสตร์ วิศวกรรม และตรวจสอบซอฟต์แวร์"
+                      "title_en":  "Meta AI agent Muse hit by conversation mix-ups and data-leak reports",
+                      "title_th":  "AI Agent รุ่น Muse ของ Meta เจอรายงานสลับบทสนทนาและเสี่ยงเปิดเผยข้อมูลส่วนตัวผู้ใช้",
+                      "url":  "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-could-be-exposing-private-data-report-says/",
+                      "why_en":  "Leaked internal reports that Meta\u0027s personal AI agent mixed up user threads and surfaced private financial and messaging details threaten consumer trust and invite privacy scrutiny just as Muse scales past 10 million downloads.",
+                      "why_th":  "รายงานภายในที่รั่วไหลว่า Muse สลับบทสนทนาข้ามบัญชีและดึงข้อมูลการเงินหรือข้อความส่วนตัวมาแสดง เสี่ยงบั่นทอนความเชื่อมั่นผู้บริโภคและดึงแรงตรวจสอบด้านความเป็นส่วนตัว ในจังหวะที่ยอดดาวน์โหลดเพิ่งทะลุ 10 ล้านครั้ง"
                   },
                   {
-                      "date":  "2026-11-12",
+                      "date":  "2026-11-23",
                       "impact":  "positive",
-                      "publisher":  "Amazon Web Services",
+                      "publisher":  "Google DeepMind",
                       "tickers":  [
-                                      "AMZN"
+                                      "GOOGL"
                                   ],
-                      "title_en":  "AWS launches SGLang-Neuron to serve frontier AI models on custom Trainium chips",
-                      "title_th":  "AWS เปิดตัว SGLang-Neuron รองรับการรันโมเดล AI แนวหน้าบนชิป Trainium เต็มรูปแบบ",
-                      "url":  "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
-                      "why_en":  "Making SGLang-Neuron publicly available on native PyTorch lowers software migration friction for model serving and RL rollouts on AWS Trainium, supporting AWS\u0027s push to improve AI cloud margins against Nvidia GPUs.",
-                      "why_th":  "การเปิดให้ใช้งาน SGLang-Neuron บน PyTorch โดยตรงช่วยลดความยุ่งยากในการย้ายโค้ดรันโมเดลและงาน RL มาอยู่บนชิป Trainium เสริมแรงผลักดันของ AWS ในการเพิ่มมาร์จิ้นคลาวด์ AI และลดการพึ่งพา GPU ของ Nvidia"
+                      "title_en":  "Google DeepMind uses Gemini 4 agents to discover verified quantum algorithms",
+                      "title_th":  "Google DeepMind ใช้ทีม Gemini 4 Agent ค้นพบอัลกอริทึมควอนตัมที่พิสูจน์ผลได้จริง",
+                      "url":  "https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/",
+                      "why_en":  "Gemini 4 agent teams paired with the Lean theorem prover cut laser-fusion quantum simulation costs 11.8-fold and sped up key math subroutines 290-fold, showcasing GOOGL\u0027s technical moat in scientific AI and quantum R\u0026D.",
+                      "why_th":  "ทีม Gemini 4 Agent ที่ทำงานร่วมกับระบบพิสูจน์ทางคณิตศาสตร์ Lean ช่วยลดต้นทุนจำลองฟิวชันควอนตัมลง 11.8 เท่าและเร่งความเร็วฟังก์ชันคำนวณหลักได้ถึง 290 เท่า ตอกย้ำความได้เปรียบเชิงเทคโนโลยีของ GOOGL ในสาย AI วิทยาศาสตร์และควอนตัม"
                   },
                   {
                       "date":  "2026-11-11",
                       "impact":  "positive",
-                      "publisher":  "xAI",
+                      "publisher":  "NAACP",
                       "tickers":  [
                                       "SPCX"
                                   ],
-                      "title_en":  "SpaceX xAI launches Grok Bot 1.0 collaborative AI teammates for enterprise teams",
-                      "title_th":  "SpaceX xAI เปิดตัว Grok Bot 1.0 ผู้ช่วย AI ร่วมทีมสำหรับองค์กรบน Slack และ Teams",
-                      "url":  "https://x.ai/news/grok-bot-1-0",
-                      "why_en":  "Turning Grok into shareable AI teammates inside Slack and Microsoft Teams pushes SpaceX\u0027s AI unit into recurring enterprise SaaS workflows to monetize its heavy Colossus infrastructure outlays.",
-                      "why_th":  "การต่อยอด Grok สู่เอเจนต์เพื่อนร่วมทีมใน Slack และ Microsoft Teams ช่วยขยายรายได้ซอฟต์แวร์องค์กรแบบต่อเนื่องให้หน่วย AI ของ SpaceX เพื่อรองรับเงินลงทุนมหาศาลในซูเปอร์คอมพิวเตอร์ Colossus"
+                      "title_en":  "Mississippi regulators uphold air permit for xAI Colossus gas plant",
+                      "title_th":  "หน่วยงานรัฐมิสซิสซิปปี้ยืนยันใบอนุญาตมลพิษทางอากาศให้โรงไฟฟ้าก๊าซของ xAI Colossus",
+                      "url":  "https://naacp.org/resources/mdeq-permit-board-doubles-down-unlawfully-flawed-permit-xais-massive-colossus-gas-plant",
+                      "why_en":  "The Mississippi DEQ Permit Board\u0027s decision to uphold air permits for xAI\u0027s gas turbines removes a near-term regulatory bottleneck to powering SpaceX\u0027s rapid Colossus AI cluster expansion.",
+                      "why_th":  "การที่คณะกรรมการสิ่งแวดล้อมรัฐมิสซิสซิปปี้ยืนยันใบอนุญาตสำหรับโรงไฟฟ้ากังหันก๊าซของ xAI ช่วยปลดล็อกอุปสรรคสำคัญด้านพลังงานในระยะสั้น สำหรับการขยายคลัสเตอร์ Colossus ของ SpaceX"
                   }
               ]
 },
@@ -1215,28 +1191,28 @@ window.AI_NEWS = {"L1":{
     "model":  "gemini-4-neon-high",
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T05:33:04Z",
+    "generatedAt":  "2026-11-24T03:29:29Z",
     "period":  [
-                   "2026-11-09",
-                   "2026-11-23"
+                   "2026-11-10",
+                   "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "The period was defined by Anthropic\u0027s historic $81.3 billion Nasdaq IPO, which reinforced hyperscaler equity and cloud ties for AMZN and GOOGL, alongside new U.S. BIS rules tightening remote AI cloud access and adding five chip-licensing destinations while exempting qualifying U.S. cloud operators. Across platforms and silicon, MSFT, GOOGL, ORCL, AMZN, and QCOM pushed harder into in-house models, custom AI chips, and agentic cloud infrastructure as ORCL confirmed full funding for its OpenAI buildout. Meanwhile, edge and security stocks saw active catalysts, led by reported CRWD-Zscaler acquisition talks, a 30x jump in AI-driven attack traffic on NET\u0027s network, and 110% revenue growth at AMBQ.",
-                  "th":  "ช่วงสองสัปดาห์นี้โดดเด่นด้วยไอพีโอประวัติศาสตร์มูลค่า 8.13 หมื่นล้านดอลลาร์ของ Anthropic บนตลาด Nasdaq ซึ่งตอกย้ำสายสัมพันธ์ด้านสัดส่วนการถือหุ้นและรายได้คลาวด์กับ AMZN และ GOOGL ควบคู่กับกฎใหม่ของ U.S. BIS ที่อุดช่องโหว่การเช่าพลังประมวลผล AI Cloud จากระยะไกลและเพิ่มใบอนุญาตส่งออกชิปใน 5 ประเทศ แต่ยังยกเว้นให้ผู้ให้บริการคลาวด์สหรัฐฯ ที่เข้าเกณฑ์ ขณะเดียวกัน MSFT, GOOGL, ORCL, AMZN และ QCOM เดินหน้าขยายโมเดลของตัวเอง ชิปคัสตอม และโครงสร้างพื้นฐานสำหรับ AI Agent โดย ORCL ยืนยันว่าจัดหาเงินทุนสำหรับสัญญา OpenAI ครบแล้ว ด้านกลุ่ม Edge และความปลอดภัยไซเบอร์มีความเคลื่อนไหวสำคัญ ทั้งกระแสข่าว CRWD เจรจาซื้อกิจการ Zscaler ปริมาณการโจมตีอัตโนมัติด้วย AI ที่พุ่ง 30 เท่าบนเครือข่ายของ NET และรายได้ไตรมาส 3 ของ AMBQ ที่เติบโตถึง 110%"
+                  "en":  "The past two weeks reshaped the AI platforms and edge layer, led by Anthropic\u0027s record $93.5B Nasdaq IPO—plus a $26B private placement from major cloud and chip partners—and CrowdStrike\u0027s $43.9B all-stock deal to acquire Zscaler. Across hyperscalers, competition shifted sharply toward autonomous enterprise AI agents, custom silicon optimization (Amazon\u0027s reported $7.5B Decart deal and Microsoft\u0027s Azure Cobalt 200 VMs), and seamless multicloud networking, even as Fitch warned that heavy AI bond issuance is raising debt-market scrutiny. At the edge, strong Q3 growth from Ambiq Micro and rising machine-initiated traffic on Cloudflare underscored accelerating real-world AI deployment beyond core data centers.",
+                  "th":  "ช่วงสองสัปดาห์ที่ผ่านมาเกิดการเปลี่ยนแปลงครั้งใหญ่ในกลุ่ม AI Platforms และ Edge นำโดยการเข้าจดทะเบียนในตลาด Nasdaq ของ Anthropic ด้วยมูลค่าระดมทุนสูงสุดเป็นประวัติการณ์ $93.5B พร้อมการขายหุ้นเพิ่มทุนแบบเจาะจงอีก $26B ให้พันธมิตรคลาวด์และชิปรายใหญ่ รวมถึงดีลยักษ์ที่ CrowdStrike ตกลงเข้าซื้อ Zscaler ด้วยหุ้นมูลค่า $43.9B ขณะเดียวกันผู้ให้บริการ Hyperscaler เร่งแข่งขันด้าน AI Agent อัตโนมัติสำหรับองค์กร การรีดประสิทธิภาพชิปเฉพาะทาง (เช่น ดีลซื้อเทคโนโลยี Decart มูลค่าประมาณ $7.5B ของ Amazon และชิป Azure Cobalt 200 ของ Microsoft) และการเชื่อมต่อ Multicloud แม้ Fitch จะเตือนว่าการออกหุ้นกู้เพื่อลงทุน AI จำนวนมากกำลังเพิ่มแรงกดดันด้านต้นทุนการกู้ยืม ส่วนฝั่ง Edge ทั้งยอดขายไตรมาส 3 ที่โตแรงของ Ambiq Micro และสัดส่วนทราฟฟิกจากเครื่องจักรที่พุ่งสูงบนเครือข่าย Cloudflare ต่างสะท้อนว่าการใช้งาน AI นอกศูนย์ข้อมูลกำลังเร่งตัวจริงจัง"
               },
     "themes":  {
                    "en":  [
-                              "Record Anthropic IPO",
-                              "Cloud AI Export Rules",
-                              "Enterprise Agent Infrastructure",
-                              "Custom Silicon \u0026 Edge AI"
+                              "Anthropic\u0027s historic IPO",
+                              "AI security megamerger",
+                              "Autonomous enterprise AI agents",
+                              "Hyperscaler capex and debt"
                           ],
                    "th":  [
-                              "ไอพีโอประวัติศาสตร์ของ Anthropic",
-                              "กฎคุมส่งออก AI Cloud",
-                              "โครงสร้างพื้นฐาน Enterprise Agent",
-                              "ชิปคัสตอมและ Edge AI"
+                              "IPO ประวัติศาสตร์ของ Anthropic",
+                              "เมกะดีลไซเบอร์ซีเคียวริตี้ AI",
+                              "AI Agent ระดับองค์กรอัตโนมัติ",
+                              "งบลงทุนและหนี้หุ้นกู้ Hyperscaler"
                           ]
                },
     "items":  [
@@ -1246,30 +1222,55 @@ window.AI_NEWS = {"L1":{
                       "publisher":  "Anthropic",
                       "tickers":  [
                                       "ANT",
+                                      "GOOGL",
                                       "AMZN",
-                                      "GOOGL"
+                                      "MSFT"
                                   ],
-                      "title_en":  "Anthropic closes record $81.3 billion Nasdaq IPO priced at $83 per share",
-                      "title_th":  "Anthropic ปิดดีลไอพีโอประวัติศาสตร์ 8.13 หมื่นล้านดอลลาร์บน Nasdaq ที่ราคา 83 ดอลลาร์ต่อหุ้น",
-                      "url":  "https://investor.anthropic.com/news-releases/news-release-details/anthropic-announces-closing-initial-public-offering-including",
-                      "why_en":  "The record listing gives ANT massive balance-sheet firepower for frontier compute while crystallizing major non-voting stakes for AMZN (14.7%) and GOOGL (~13.5%, including a $10 billion private placement) alongside multi-year cloud spend commitments.",
-                      "why_th":  "การเข้าตลาดหลักทรัพย์ครั้งใหญ่ที่สุดในประวัติศาสตร์ช่วยเสริมฐานเงินทุนมหาศาลให้ ANT สำหรับลงทุนพลังประมวลผล AI ขณะเดียวกันยังสะท้อนมูลค่าหุ้นที่ AMZN (14.7%) และ GOOGL (ราว 13.5% รวมการลงทุนเพิ่ม 1 หมื่นล้านดอลลาร์) ถืออยู่ ควบคู่กับสัญญาใช้บริการคลาวด์ระยะยาว"
+                      "title_en":  "Anthropic closes record $93.5B Nasdaq IPO and $26B tech-giant private placement",
+                      "title_th":  "Anthropic ปิดดีล IPO ประวัติศาสตร์ $93.5B บน Nasdaq พร้อมรับเงินเพิ่มทุน $26B จากยักษ์ใหญ่เทค",
+                      "url":  "https://www.anthropic.com/news/anthropic-announces-closing-of-initial-public-offering-including-full-exercise-of-underwriters-option-to-purchase-additional-shares-and-closing-of-concurrent-private-placement",
+                      "why_en":  "Pricing at $83 per share gives ANT a massive war chest while locking in strategic equity ties with Google ($10B private placement, ~13.7% stake), Microsoft ($1B), and Amazon (~14.7% stake worth over $150B).",
+                      "why_th":  "การกำหนดราคา IPO ที่ $83 ต่อหุ้นช่วยเสริมฐานเงินทุนมหาศาลให้ ANT พร้อมผูกความร่วมมือเชิงกลยุทธ์แน่นแฟ้นกับ Google (ลงทุนเพิ่ม $10B ถือหุ้นราว 13.7%), Microsoft (ลงทุนเพิ่ม $1B) และ Amazon (ถือหุ้นราว 14.7% มูลค่ากว่า $150B)"
                   },
                   {
-                      "date":  "2026-11-16",
+                      "date":  "2026-11-23",
                       "impact":  "mixed",
-                      "publisher":  "U.S. Bureau of Industry and Security",
+                      "publisher":  "CrowdStrike",
                       "tickers":  [
-                                      "MSFT",
-                                      "AMZN",
-                                      "GOOGL",
-                                      "ORCL"
+                                      "CRWD",
+                                      "NET"
                                   ],
-                      "title_en":  "U.S. BIS issues rule curbing remote AI cloud access and adding five chip-license countries",
-                      "title_th":  "U.S. BIS ออกกฎคุมการเข้าถึง AI Cloud จากระยะไกล และเพิ่มใบอนุญาตส่งออกชิปอีก 5 ประเทศ",
-                      "url":  "https://www.bis.gov/press-release/bis-issues-rule-addressing-remote-access-american-super-intelligence-technology",
-                      "why_en":  "The rule adds global compliance burdens on cloud clusters exceeding 12 million TPP serving Macau or Country Group D:5 clients and imposes chip licenses on Thailand, Malaysia, Singapore, Indonesia, and Brazil, though qualifying U.S. hyperscalers receive exemptions.",
-                      "why_th":  "กฎใหม่เพิ่มภาระการตรวจสอบลูกค้าสำหรับดาต้าเซ็นเตอร์ที่มีพลังประมวลผลเกิน 12 ล้าน TPP หากให้บริการลูกค้าจากมาเก๊าหรือกลุ่มประเทศ D:5 รวมถึงบังคับขอใบอนุญาตส่งออกชิปไปไทย มาเลเซีย สิงคโปร์ อินโดนีเซีย และบราซิล แต่ยังคงข้อยกเว้นให้ผู้ให้บริการคลาวด์สัญชาติสหรัฐฯ ที่เข้าเกณฑ์"
+                      "title_en":  "CrowdStrike agrees to acquire Zscaler in $43.9B all-stock cybersecurity deal",
+                      "title_th":  "CrowdStrike ตกลงซื้อกิจการ Zscaler ด้วยหุ้นมูลค่า $43.9B หวังครองตลาด Zero Trust และ AI Security",
+                      "url":  "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero",
+                      "why_en":  "The merger combines over $10B in ARR and expands CRWD\u0027s addressable market by more than $185B into Zero Trust network security, but introduces major integration and stock-dilution risks while raising competitive pressure on NET.",
+                      "why_th":  "ดีลนี้จะสร้างบริษัทรวมที่มี ARR เกิน $10B และขยายตลาดเป้าหมายของ CRWD เพิ่มอีกกว่า $185B สู่ระบบความปลอดภัยเครือข่าย Zero Trust แต่ก็มาพร้อมความเสี่ยงด้านการควบรวมและ dilution จากการจ่ายด้วยหุ้น พร้อมเพิ่มแรงกดดันการแข่งขันต่อ NET โดยตรง"
+                  },
+                  {
+                      "date":  "2026-11-23",
+                      "impact":  "positive",
+                      "publisher":  "TechCrunch",
+                      "tickers":  [
+                                      "AMZN"
+                                  ],
+                      "title_en":  "Amazon buys Decart AI chip optimization tech for reported $7.5B",
+                      "title_th":  "Amazon ทุ่มงบราว $7.5B ซื้อเทคโนโลยีและทีมผู้ก่อตั้ง Decart เพื่อยกระดับชิป Trainium",
+                      "url":  "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+                      "why_en":  "Acquiring Decart\u0027s compiler and kernel-fusion stack strengthens AWS Trainium software efficiency just as Amazon prepares to market its custom AI chips externally against Nvidia.",
+                      "why_th":  "การได้ซอฟต์แวร์คอมไพเลอร์และ kernel-fusion ของ Decart เข้ามาช่วยเพิ่มประสิทธิภาพการทำงานของชิป Trainium อย่างมีนัยสำคัญ ในจังหวะที่ AWS กำลังเตรียมทำตลาดขายชิป AI เฉพาะทางออกไปภายนอกเพื่อแข่งกับ Nvidia"
+                  },
+                  {
+                      "date":  "2026-11-23",
+                      "impact":  "positive",
+                      "publisher":  "CrowdStrike",
+                      "tickers":  [
+                                      "CRWD"
+                                  ],
+                      "title_en":  "CrowdStrike Q3 revenue climbs 28% as Falcon Guardian tops $100M ARR",
+                      "title_th":  "CrowdStrike รายได้ Q3 โต 28% แตะ $1.58B ด้าน Falcon Guardian ทะลุ $100M ARR ในปีแรก",
+                      "url":  "https://ir.crowdstrike.com/news-events/press-releases/detail/1271/crowdstrike-reports-third-quarter-fiscal-year-2027-financial-results",
+                      "why_en":  "Ending ARR rose 27% YoY to $6.26B on a record $419M in net new ARR, showing enterprises are rapidly paying for Falcon\u0027s AI-agent security modules alongside core endpoint protection.",
+                      "why_th":  "ยอด ARR รวมพุ่งขึ้น 27% YoY สู่ $6.26B จาก Net New ARR สูงสุดเป็นประวัติการณ์ที่ $419M สะท้อนว่าองค์กรยอมจ่ายเงินเพื่อโซลูชันป้องกัน AI Agent บนแพลตฟอร์ม Falcon ควบคู่กับระบบป้องกัน Endpoint เดิมอย่างรวดเร็ว"
                   },
                   {
                       "date":  "2026-11-20",
@@ -1278,24 +1279,11 @@ window.AI_NEWS = {"L1":{
                       "tickers":  [
                                       "ORCL"
                                   ],
-                      "title_en":  "Oracle confirms full funding for OpenAI infrastructure contract after $20 billion raise",
-                      "title_th":  "Oracle ยืนยันจัดหาเงินทุนครบสำหรับสัญญาโครงสร้างพื้นฐาน OpenAI หลังระดมทุน 2 หมื่นล้านดอลลาร์",
-                      "url":  "https://www.oracle.com/news/announcement/oracle-statement-november-20-2026/",
-                      "why_en":  "Securing full financing eases balance-sheet concerns around Oracle\u0027s capital-intensive AI buildout, with its Abilene campus nearly finished, Shackelford permitted, NVIDIA Vera Rubin racks on schedule, and free cash flow targeted to exceed $30 billion in FY29.",
-                      "why_th":  "การปิดดีลเงินทุนครบถ้วนช่วยคลายความกังวลเรื่องภาระหนี้และเงินลงทุนขยายดาต้าเซ็นเตอร์ของ ORCL โดยแคมปัส Abilene ใกล้เสร็จสมบูรณ์ แคมปัส Shackelford ได้รับใบอนุญาตแล้ว แร็ค NVIDIA Vera Rubin ยังส่งมอบตามแผน และบริษัทยังคงเป้ากระแสเงินสดอิสระเกิน 3 หมื่นล้านดอลลาร์ในปีงบประมาณ 2029"
-                  },
-                  {
-                      "date":  "2026-11-20",
-                      "impact":  "mixed",
-                      "publisher":  "Channel NewsAsia",
-                      "tickers":  [
-                                      "CRWD"
-                                  ],
-                      "title_en":  "CrowdStrike reportedly in talks to acquire cloud security rival Zscaler",
-                      "title_th":  "มีรายงาน CrowdStrike อยู่ระหว่างเจรจาซื้อกิจการคู่แข่งด้านคลาวด์ซีเคียวริตี้ Zscaler",
-                      "url":  "https://www.channelnewsasia.com/business/crowdstrike-talks-acquire-zscaler-sources-say-4785461",
-                      "why_en":  "Acquiring Zscaler (valued around $32 billion to $33.5 billion) would pair CRWD\u0027s endpoint Falcon platform with leading zero-trust network security in a ~$265 billion combined giant, but carries substantial integration and dilution risks if a deal proceeds.",
-                      "why_th":  "หากดีลซื้อ Zscaler (มูลค่าตลาดราว 3.2–3.35 หมื่นล้านดอลลาร์) เกิดขึ้นจริง จะช่วยผสานจุดแข็งด้าน Endpoint ของ Falcon เข้ากับระบบ Zero-Trust บนคลาวด์สู่บริษัทรวมมูลค่าราว 2.65 แสนล้านดอลลาร์ แต่ยังมีความเสี่ยงสูงด้านการควบรวมและ Dilution Dilution ต่อผู้ถือหุ้น"
+                      "title_en":  "Oracle says OpenAI infrastructure buildout is fully funded after $20B raise",
+                      "title_th":  "Oracle ยืนยันจัดหาเงินทุนครบแล้วสำหรับดีลโครงสร้างพื้นฐาน OpenAI หลังระดมทุน $20B",
+                      "url":  "https://www.oracle.com/news/announcement/oracle-statement-2026-11-20/",
+                      "why_en":  "Reassuring investors on financing—with its Abilene campus nearly complete, gigawatt-scale Shackelford permitted for NVIDIA Vera Rubin racks, and a \u003e$30B FY29 free cash flow target—reduces balance-sheet overhang on OCI\u0027s AI expansion.",
+                      "why_th":  "การยืนยันความพร้อมด้านเงินทุนควบคู่ความคืบหน้าศูนย์ข้อมูล Abilene และ Shackelford ที่พร้อมรับแร็ค NVIDIA Vera Rubin พร้อมตั้งเป้ากระแสเงินสดอิสระกว่า $30B ในปีงบการเงิน 2029 ช่วยคลายความกังวลของตลาดเรื่องภาระหนี้จากการขยาย OCI"
                   },
                   {
                       "date":  "2026-11-17",
@@ -1304,142 +1292,108 @@ window.AI_NEWS = {"L1":{
                       "tickers":  [
                                       "MSFT"
                                   ],
-                      "title_en":  "Microsoft unveils seven MAI models and Agent 365 cost controls at Ignite 2026",
-                      "title_th":  "Microsoft เปิดตัวโมเดล MAI ใหม่ 7 รุ่น พร้อมระบบคุมต้นทุน Agent 365 ในงาน Ignite 2026",
+                      "title_en":  "Microsoft Ignite debuts Azure Cobalt 200 VMs, MAI-Code-2 and Copilot Cowork",
+                      "title_th":  "Microsoft เปิดตัว Azure Cobalt 200, โมเดล MAI-Code-2 และ Copilot Cowork ในงาน Ignite 2026",
                       "url":  "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
-                      "why_en":  "Launching in-house models like MAI Code 2 (starting at $0.50/$2.50 per million tokens) and MAI Cyber 2 Flash alongside Agent 365 analytics and Cobalt 200 VMs lowers MSFT\u0027s reliance on third-party models and sharpens enterprise Copilot margins.",
-                      "why_th":  "การเปิดตัวโมเดลที่พัฒนาเองอย่าง MAI Code 2 (ราคาโปรโมชัน 0.50/2.50 ดอลลาร์ต่อล้านโทเคน) และ MAI Cyber 2 Flash ควบคู่กับเครื่องมือคุมต้นทุน Agent 365 และ Cobalt 200 VMs ช่วยลดการพึ่งพาโมเดลภายนอกและหนุนอัตรากำไรของ Azure และ Copilot ในองค์กร"
+                      "why_en":  "Rolling out Cobalt 200 VMs (up to 50% higher performance across 23 regions by year-end) alongside proprietary MAI coding models and Agent 365 analytics reduces reliance on third-party models while driving higher-value Copilot and Azure consumption.",
+                      "why_th":  "การเปิดใช้งานชิป Arm อย่าง Cobalt 200 ที่เร็วขึ้นสูงสุด 50% ครอบคลุม 23 รีเจียนภายในสิ้นปี ควบคู่โมเดลเขียนโค้ด MAI ที่พัฒนาเองและระบบวัดผล Agent 365 ช่วยลดการพึ่งพาโมเดลภายนอกและผลักดันการใช้งานทั้ง Copilot และ Azure ให้ลึกขึ้น"
                   },
                   {
-                      "date":  "2026-11-09",
+                      "date":  "2026-11-18",
                       "impact":  "positive",
                       "publisher":  "Google",
                       "tickers":  [
                                       "GOOGL"
                                   ],
-                      "title_en":  "Google launches TPU 8i Max and TPU 8tx for agentic and confidential AI",
-                      "title_th":  "Google เปิดตัวชิป TPU 8i Max และ TPU 8tx สำหรับงาน AI Agent และการประมวลผลความลับสูง",
-                      "url":  "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/tpu-8i-max-and-8tx/",
-                      "why_en":  "Expanding eighth-generation TPUs to four systems in one year—including dual-chip 8i Max (384 GB HBM, 17.2 TB/s bandwidth) and AMD EPYC-paired encrypted 8tx—strengthens Google Cloud\u0027s custom-silicon economics for regulated and multi-agent workloads.",
-                      "why_th":  "การขยายชิป TPU รุ่นที่ 8 เป็น 4 ระบบภายในปีเดียว ทั้ง 8i Max แบบชิปคู่ (หน่วยความจำ HBM 384 GB แบนด์วิดท์ 17.2 TB/s) และ 8tx ที่เข้ารหัสระดับฮาร์ดแวร์ร่วมกับ AMD EPYC ช่วยเสริมความได้เปรียบด้านต้นทุนของ Google Cloud สำหรับลูกค้าองค์กรและภาครัฐ"
+                      "title_en":  "Google DeepMind launches Gemini 4 Neon for coding and agentic workflows",
+                      "title_th":  "Google DeepMind เปิดตัว Gemini 4 Neon โมเดลให้เหตุผลสำหรับงานโค้ดดิ้งและ AI Agent",
+                      "url":  "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+                      "why_en":  "Priced at $3/$15 per million input/output tokens with a 1M-token context window across Gemini API, Workspace, and developer tools, Neon sharpens Google\u0027s price-performance competitiveness in enterprise software engineering.",
+                      "why_th":  "Gemini 4 Neon มาพร้อมหน้าต่างบริบท 1 ล้านโทเคนในราคา $3/$15 ต่อล้านโทเคนขาเข้า/ขาออก ใช้งานได้ทันทีผ่าน Gemini API และ Workspace ช่วยเพิ่มความสามารถในการแข่งขันด้านความคุ้มค่าของ Google ในตลาดพัฒนาซอฟต์แวร์องค์กร"
                   },
                   {
-                      "date":  "2026-11-20",
-                      "impact":  "positive",
-                      "publisher":  "24/7 Wall St.",
+                      "date":  "2026-11-17",
+                      "impact":  "negative",
+                      "publisher":  "Fitch Ratings",
                       "tickers":  [
-                                      "GOOGL"
+                                      "MSFT",
+                                      "AMZN",
+                                      "GOOGL",
+                                      "ORCL"
                                   ],
-                      "title_en":  "Google reportedly shifts 1 million 2027 TPU orders from Broadcom to MediaTek",
-                      "title_th":  "มีรายงาน Google โยกคำสั่งผลิต TPU ปี 2027 ราว 1 ล้านตัวจาก Broadcom ไป MediaTek",
-                      "url":  "https://247wallst.com/broadcom/2026/11/20/broadcom-plunges-11-as-google-reportedly-shifts-tpu-orders-to-mediatek/",
-                      "why_en":  "Reallocating roughly 1 million 2027 TPU units toward MediaTek gives GOOGL stronger supplier leverage, better power-efficiency options, and reduced single-vendor bottleneck risk as internal and cloud TPU demand scales.",
-                      "why_th":  "การกระจายคำสั่งผลิตชิป TPU ปี 2027 ราว 1 ล้านตัวไปยัง MediaTek ช่วยเพิ่มอำนาจต่อรองด้านต้นทุน ลดการพึ่งพาผู้ผลิตรายเดียว และเสริมประสิทธิภาพการใช้พลังงานให้โครงสร้างพื้นฐาน AI ของ GOOGL"
+                      "title_en":  "Fitch warns booming hyperscaler bond sales will lift debt-market volatility",
+                      "title_th":  "Fitch เตือนการออกหุ้นกู้จำนวนมากของกลุ่ม Hyperscaler จะเพิ่มความผันผวนและต้นทุนการกู้ยืมถึงปี 2027",
+                      "url":  "https://www.fitchratings.com/research/corporate-finance/booming-hyperscaler-issuance-set-to-raise-bond-market-volatility-17-11-2026",
+                      "why_en":  "Heavy reliance on investment-grade corporate bonds to fund AI data-center capex is concentrating credit risk in big tech and could tighten funding conditions and raise borrowing costs into 2027.",
+                      "why_th":  "การพึ่งพาตลาดหุ้นกู้ระดับ Investment Grade เพื่อรองรับงบลงทุนศูนย์ข้อมูล AI มหาศาลทำให้ความเสี่ยงกระจุกตัวในกลุ่มบิ๊กเทค และอาจทำให้เงื่อนไขการระดมทุนตึงตัวพร้อมต้นทุนดอกเบี้ยที่สูงขึ้นต่อเนื่องถึงปี 2027"
                   },
                   {
-                      "date":  "2026-11-09",
+                      "date":  "2026-11-23",
                       "impact":  "positive",
-                      "publisher":  "Anthropic",
+                      "publisher":  "TechCrunch",
                       "tickers":  [
                                       "ANT"
                                   ],
-                      "title_en":  "Anthropic releases Claude Fable 5.2 and Mythos 5.2 with 30% faster speeds",
-                      "title_th":  "Anthropic เปิดตัว Claude Fable 5.2 และ Mythos 5.2 เร็วขึ้นสูงสุด 30% เสริมงาน Agentic",
-                      "url":  "https://www.anthropic.com/news/introducing-claude-fable-5-2-and-claude-mythos-5-2",
-                      "why_en":  "Up to 30% faster output and upgraded multi-agent orchestration for coding, finance, and science strengthen ANT\u0027s commercial stickiness across API and enterprise developer customers right as it transitions to a public company.",
-                      "why_th":  "ความเร็วการประมวลผลที่เพิ่มขึ้นสูงสุด 30% พร้อมความสามารถสั่งงาน AI Agent หลายตัวพร้อมกันในงานเขียนโค้ด การเงิน และวิทยาศาสตร์ ช่วยย้ำความแข็งแกร่งด้านรายได้จากลูกค้าองค์กรและนักพัฒนาของ ANT ในจังหวะเข้าตลาดหุ้น"
+                      "title_en":  "Anthropic launches Claude Ship agents to review and approve GitHub code",
+                      "title_th":  "Anthropic เปิดตัว Claude Ship ชุด AI Agent ช่วยตรวจ แก้ไข และอนุมัติโค้ดบน GitHub อัตโนมัติ",
+                      "url":  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+                      "why_en":  "Extending Claude beyond code generation into automated pull-request review, fixes, and policy-enforced approvals deepens ANT\u0027s stickiness in enterprise software-engineering budgets right after its IPO.",
+                      "why_th":  "การขยายขีดความสามารถของ Claude จากการช่วยเขียนโค้ดไปสู่การรีวิว แก้บั๊ก และอนุมัติ Pull Request ตามนโยบายองค์กร ช่วยเพิ่มความเหนียวแน่นของรายได้จากทีมวิศวกรซอฟต์แวร์องค์กรให้ ANT ทันทีหลังเข้าตลาดหุ้น"
                   },
                   {
                       "date":  "2026-11-17",
                       "impact":  "positive",
-                      "publisher":  "Business Wire",
+                      "publisher":  "Amazon Web Services",
                       "tickers":  [
-                                      "QCOM"
+                                      "AMZN",
+                                      "MSFT",
+                                      "GOOGL",
+                                      "ORCL"
                                   ],
-                      "title_en":  "Qualcomm and Cirrascale launch cloud evaluations for Dragonfly AI200 inference racks",
-                      "title_th":  "Qualcomm จับมือ Cirrascale เปิดทดสอบระบบคลาวด์ชิป Dragonfly AI200 สำหรับงาน AI Inference",
-                      "url":  "https://www.businesswire.com/news/home/20261117481734/en/Qualcomm-and-Cirrascale-Collaborate-to-Advance-Next-Generation-Energy-Efficient-AI-Inference",
-                      "why_en":  "Opening enterprise evaluations for the rack-scale AI200 (768 GB LPDDR per card, up to ~43 TB per rack) marks a tangible commercial milestone toward QCOM\u0027s $5 billion FY27 data-center revenue goal beyond handsets.",
-                      "why_th":  "การเปิดให้ลูกค้าองค์กรและคลาวด์ทดลองใช้งานแร็ค AI200 (หน่วยความจำ 768 GB LPDDR ต่อการ์ด รวมสูงสุดราว 43 TB ต่อแร็ค) เป็นก้าวสำคัญเชิงพาณิชย์ของ QCOM สู่เป้ารายได้ดาต้าเซ็นเตอร์ 5 พันล้านดอลลาร์ในปีงบประมาณ 2027 เพื่อลดการพึ่งพาตลาดสมาร์ตโฟน"
+                      "title_en":  "AWS launches multicloud interconnect with Azure, linking top four AI clouds",
+                      "title_th":  "AWS เปิดให้บริการ AWS Interconnect เชื่อมตรงกับ Azure ครบวงจรทั้ง 4 คลาวด์ AI รายใหญ่",
+                      "url":  "https://aws.amazon.com/about-aws/whats-new/2026/11/aws-interconnect-multicloud-connectivity-microsoft-azure/",
+                      "why_en":  "Bringing managed AWS-to-Azure networking to general availability across three initial regions—joining Google Cloud and OCI—cuts cross-cloud deployment from weeks to minutes and lowers friction for enterprises running multi-cloud AI workloads.",
+                      "why_th":  "การเปิดใช้งานระบบเชื่อมต่อเครือข่ายส่วนตัวระหว่าง AWS กับ Azure ใน 3 รีเจียนแรกต่อจาก Google Cloud และ OCI ช่วยลดเวลาวางระบบข้ามคลาวด์จากหลายสัปดาห์เหลือเพียงไม่กี่นาที และเอื้อให้องค์กรรันเวิร์กโหลด AI ข้ามคลาวด์ได้ง่ายขึ้น"
                   },
                   {
                       "date":  "2026-11-10",
                       "impact":  "positive",
-                      "publisher":  "Ambiq Micro",
+                      "publisher":  "SEC",
                       "tickers":  [
                                       "AMBQ"
                                   ],
-                      "title_en":  "Ambiq Micro Q3 net sales jump 110% to $38.14 million, raising full-year outlook",
-                      "title_th":  "Ambiq Micro รายได้ไตรมาส 3 พุ่ง 110% แตะ 38.14 ล้านดอลลาร์ พร้อมปรับเพิ่มเป้าทั้งปี",
-                      "url":  "https://ambiq.com/am-press-releases/ambiq-reports-third-quarter-2026-financial-results/",
-                      "why_en":  "A 390 bps non-GAAP gross margin expansion to 48.7%, Q4 revenue guidance of $43.5M–$44.5M, and an upgraded ~$140M FY26 sales target show accelerating adoption of AMBQ\u0027s ultra-low-power SPOT chips in edge AI wearables.",
-                      "why_th":  "อัตรากำไรขั้นต้น Non-GAAP ที่ขยายตัว 390 bps สู่ 48.7% แนวโน้มรายได้ไตรมาส 4 ที่ 43.5–44.5 ล้านดอลลาร์ และการปรับเป้ารายได้ปี 2026 ขึ้นเป็นราว 140 ล้านดอลลาร์ สะท้อนความต้องการชิปประหยัดพลังงาน SPOT ในอุปกรณ์สวมใส่ Edge AI ที่เร่งตัวชัดเจน"
-                  },
-                  {
-                      "date":  "2026-11-13",
-                      "impact":  "positive",
-                      "publisher":  "Cloudflare",
-                      "tickers":  [
-                                      "NET",
-                                      "CRWD"
-                                  ],
-                      "title_en":  "Cloudflare reports 30x surge in automated AI pentesting and exploitation traffic",
-                      "title_th":  "Cloudflare เผยปริมาณการเจาะระบบและสแกนช่องโหว่อัตโนมัติด้วย AI พุ่ง 30 เท่าตั้งแต่เดือนตุลาคม",
-                      "url":  "https://blog.cloudflare.com/adapting-to-ai-penetration-testing-orchestrators/",
-                      "why_en":  "A 30x spike in daily autonomous AI exploitation requests across 50+ framework families underscores rising enterprise urgency for automated edge and endpoint defenses, supporting structural security demand for NET and CRWD.",
-                      "why_th":  "ปริมาณคำขอเจาะระบบอัตโนมัติจากเฟรมเวิร์ก AI กว่า 50 ตระกูลที่พุ่งขึ้นถึง 30 เท่าต่อวัน ตอกย้ำความจำเป็นขององค์กรในการลงทุนระบบป้องกันระดับ Edge และ Endpoint ซึ่งหนุนความต้องการระยะยาวของทั้ง NET และ CRWD"
-                  },
-                  {
-                      "date":  "2026-11-16",
-                      "impact":  "mixed",
-                      "publisher":  "The Guardian",
-                      "tickers":  [
-                                      "PLTR"
-                                  ],
-                      "title_en":  "UK confirms Palantir keeps £330 million NHS data contract until March 2029 exit",
-                      "title_th":  "รัฐบาลสหราชอาณาจักรยืนยันต่อสัญญา NHS มูลค่า 330 ล้านปอนด์กับ Palantir ถึงมีนาคม 2029 ก่อนสิ้นสุด",
-                      "url":  "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantirs-contract-with-nhs-in-england-in-2029",
-                      "why_en":  "Avoiding an early 2027 break clause protects near-term UK public-sector revenue for PLTR, but the government\u0027s commitment to exit and re-tender the Federated Data Platform in 2029 caps long-term NHS renewal upside.",
-                      "why_th":  "การที่รัฐบาลอังกฤษไม่ใช้สิทธิ์ยกเลิกสัญญาก่อนกำหนดในปี 2027 ช่วยรักษารายได้ภาครัฐระยะสั้นให้ PLTR แต่การประกาศเตรียมยุติสัญญาและเปิดประมูลใหม่ในปี 2029 จำกัดโอกาสต่ออายุระยะยาวในโครงการ NHS"
+                      "title_en":  "Ambiq Micro Q3 net sales surge 110% to $38.14M on edge AI demand",
+                      "title_th":  "Ambiq Micro ยอดขายสุทธิ Q3 พุ่ง 110% แตะ $38.14M รับดีมานด์ชิป Edge AI กินไฟต่ำ",
+                      "url":  "https://www.sec.gov/Archives/edgar/data/1500412/000119312526362548/d129754d10q.htm",
+                      "why_en":  "Doubling quarterly revenue to $38.14M while holding $363.5M in cash and zero debt confirms strong commercial pull for ultra-low-power on-device AI chips in wearables and battery-powered IoT devices.",
+                      "why_th":  "ยอดขายรายไตรมาสที่โตเกินเท่าตัวสู่ $38.14M ควบคู่เงินสดในมือ $363.5M และไม่มีหนี้สิน ยืนยันแรงส่งเชิงพาณิชย์ของชิปประมวลผล AI บนอุปกรณ์ที่ใช้พลังงานต่ำมากในกลุ่มอุปกรณ์สวมใส่และ IoT"
                   },
                   {
                       "date":  "2026-11-18",
                       "impact":  "mixed",
-                      "publisher":  "Los Angeles Times",
-                      "tickers":  [
-                                      "QCOM"
-                                  ],
-                      "title_en":  "Qualcomm discloses 517 California job cuts amid handset softness and data-center pivot",
-                      "title_th":  "Qualcomm แจ้งปลดพนักงาน 517 ตำแหน่งในแคลิฟอร์เนีย ท่ามกลางยอดขายมือถือชะลอและแผนรุกดาต้าเซ็นเตอร์",
-                      "url":  "https://www.latimes.com/socal/daily-pilot/news/story/2026-11-18/tech-layoffs-flare-up-in-san-diego-with-hundreds-of-layoffs-at-chipmaker",
-                      "why_en":  "Eliminating 442 roles in San Diego and 75 in Santa Clara highlights near-term pressure in QCOM\u0027s core handset segment, while signaling tighter cost discipline to fund its data-center AI expansion.",
-                      "why_th":  "การลดพนักงาน 442 ตำแหน่งในซานดิเอโกและ 75 ตำแหน่งในซานตาคลาราสะท้อนแรงกดดันระยะสั้นในธุรกิจชิปมือถือของ QCOM แต่ขณะเดียวกันก็แสดงถึงการคุมต้นทุนเพื่อโยกทรัพยากรไปขยายธุรกิจ AI ดาต้าเซ็นเตอร์"
-                  },
-                  {
-                      "date":  "2026-11-13",
-                      "impact":  "positive",
-                      "publisher":  "SEC EDGAR",
+                      "publisher":  "SEC",
                       "tickers":  [
                                       "AXON"
                                   ],
-                      "title_en":  "Axon shifts $1.2 billion Skydio drone investment to 90% cash in SEC filing",
-                      "title_th":  "Axon ปรับโครงสร้างการลงทุนใน Skydio มูลค่า 1.2 พันล้านดอลลาร์เป็นเงินสด 90% ลดการออกหุ้นใหม่",
-                      "url":  "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001078150/000107815026000078/axon-20261113.htm",
-                      "why_en":  "Raising the cash share of AXON\u0027s ~$1.2 billion Skydio drone deal from roughly 60% to 90% significantly reduces shareholder dilution while preserving its exclusive North American public-safety drone distribution partnership.",
-                      "why_th":  "การเพิ่มสัดส่วนชำระด้วยเงินสดจากราว 60% เป็น 90% ในดีลลงทุนบริษัทโดรน Skydio มูลค่า 1.2 พันล้านดอลลาร์ ช่วยลดผลกระทบ Dilution ต่อผู้ถือหุ้น AXON อย่างมีนัยสำคัญ ขณะที่ยังคงสิทธิ์จัดจำหน่ายโดรนภาครัฐแต่เพียงผู้เดียวในอเมริกาเหนือ"
+                      "title_en":  "Axon shifts $1.2B Skydio drone investment to about 90% cash",
+                      "title_th":  "Axon ปรับโครงสร้างดีลลงทุนโดรน Skydio มูลค่า $1.2B เป็นจ่ายเงินสดราว 90% ลดการออกหุ้นใหม่",
+                      "url":  "https://www.sec.gov/ix?doc=/Archives/edgar/data/0001069202/000162828026074663/axon-20261113.htm",
+                      "why_en":  "Raising the cash share from roughly 60% to 90% protects AXON shareholders from equity dilution while securing its exclusive North American public-safety drone partnership, though it commits significantly more cash upfront.",
+                      "why_th":  "การเพิ่มสัดส่วนเงินสดจากราว 60% เป็น 90% ช่วยลดผลกระทบ dilution ต่อผู้ถือหุ้น AXON พร้อมรักษาสิทธิ์ตัวแทนจำหน่ายโดรนด้านความปลอดภัยสาธารณะแต่เพียงผู้เดียวในอเมริกาเหนือ แต่ต้องใช้เงินสดในงบดุลเพิ่มขึ้นมากในระยะสั้น"
                   },
                   {
-                      "date":  "2026-11-17",
+                      "date":  "2026-11-18",
                       "impact":  "positive",
-                      "publisher":  "eWeek",
+                      "publisher":  "Seeking Alpha",
                       "tickers":  [
-                                      "AMZN"
+                                      "NET"
                                   ],
-                      "title_en":  "AWS extends Amazon Bedrock AgentCore memory retention to 10 years for enterprise agents",
-                      "title_th":  "AWS ขยายเวลาจัดเก็บความจำ Amazon Bedrock AgentCore เป็น 10 ปี รองรับ AI Agent องค์กร",
-                      "url":  "https://www.eweek.com/news/aws-lets-bedrock-ai-agents-keep-10-years-of-conversations-with-limits/",
-                      "why_en":  "Raising AgentCore event memory retention from 1 year to up to 10 years helps AWS capture long-horizon, compliance-heavy enterprise agent workloads on Bedrock and strengthens platform lock-in.",
-                      "why_th":  "การขยายระยะเวลาจัดเก็บประวัติการทำงานของ AI Agent จาก 1 ปีเป็นสูงสุด 10 ปี ช่วยให้ AWS ตอบโจทย์องค์กรที่มีข้อกำหนดด้านการตรวจสอบและกำกับดูแลระยะยาวได้ดีขึ้น เพิ่มแรงดึงดูดการใช้งานบนแพลตฟอร์ม Bedrock"
+                      "title_en":  "Cloudflare says machine-initiated traffic reached 68% of its global network",
+                      "title_th":  "Cloudflare เผยทราฟฟิกจากเครื่องจักรและ AI พุ่งแตะ 68% ของเครือข่ายทั่วโลก",
+                      "url":  "https://seekingalpha.com/article/4932062-cloudflare-inc-net-presents-at-rbc-global-technology-internet-media-and-telecommunications",
+                      "why_en":  "CFO Thomas Seifert\u0027s disclosure at the RBC conference highlights how automated AI agents and bots are rapidly expanding edge security, traffic-control, and Workers inference workloads across Cloudflare\u0027s network.",
+                      "why_th":  "ข้อมูลจาก CFO Thomas Seifert ในงานประชุมของ RBC ชี้ให้เห็นว่าปริมาณการใช้งานจาก AI Agent และบอทกำลังขยายฐานความต้องการด้านความปลอดภัยที่ขอบเครือข่าย การจัดการทราฟฟิก และการประมวลผล Workers AI ของ Cloudflare อย่างรวดเร็ว"
                   }
               ]
 },
@@ -1449,88 +1403,73 @@ window.AI_NEWS = {"L1":{
     "model":  "gemini-4-neon-high",
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T05:37:19Z",
+    "generatedAt":  "2026-11-24T03:32:43Z",
     "period":  [
-                   "2026-11-09",
-                   "2026-11-23"
+                   "2026-11-10",
+                   "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "Anthropic\u0027s historic $81.3B Nasdaq IPO (ticker ANT) and $26B strategic private placement defined the period, cementing frontier AI applications as a trillion-dollar public asset class alongside deep cloud ties to Google and Microsoft. Hyperscalers accelerated agentic software and custom silicon rollouts—spanning Microsoft\u0027s Ignite updates (Maia 300, Cobalt 200, Copilot Autopilot) and Google\u0027s Gemini 4 lineup—while Nvidia\u0027s $107.6B data center quarter underscored both relentless AI demand and heavy capex outlays. Across vertical and adjacent plays, Tempus AI and Ondas posted major commercial momentum, while Meta\u0027s Muse privacy bugs, Google\u0027s revived EU AdSense case, and Palantir\u0027s 2029 UK NHS exit highlighted execution and regulatory risks.",
-                  "th":  "ช่วงสองสัปดาห์ที่ผ่านมาโดดเด่นด้วยการเข้าจดทะเบียนในตลาด Nasdaq ของ Anthropic (ANT) มูลค่า IPO สูงเป็นประวัติการณ์ $81.3B พร้อมดีลขายหุ้นแบบเฉพาะเจาะจงให้พันธมิตรอีก $26B ตอกย้ำสถานะของกลุ่ม AI Applications ในตลาดทุนและสายสัมพันธ์ด้านคลาวด์กับ Google และ Microsoft ขณะเดียวกันผู้ให้บริการคลาวด์รายใหญ่เร่งเปิดตัวทั้ง Agentic AI และชิปพัฒนาเองอย่างต่อเนื่อง ตั้งแต่ Microsoft Ignite (Maia 300, Cobalt 200, Copilot Autopilot) ไปจนถึงโมเดลตระกูล Gemini 4 ของ Google ท่ามกลางรายได้ Data Center ของ Nvidia ที่พุ่งแตะ $107.6B ซึ่งสะท้อนทั้งอุปสงค์ที่แข็งแกร่งและภาระงบลงทุนที่สูงขึ้น ด้านหุ้นเฉพาะทางอย่าง TEM และ ONDS มีแรงส่งเชิงพาณิชย์ที่โดดเด่น สวนทางกับความเสี่ยงด้านความเป็นส่วนตัวและกฎระเบียบที่กดดัน META, GOOGL และ PLTR"
+                  "en":  "Anthropic\u0027s historic IPO at $83 per share and $26 billion strategic placement with hyperscalers and chipmakers anchored the period, alongside rapid enterprise agent rollouts from Microsoft Ignite, Google DeepMind\u0027s Gemini 4 Neon, and Anthropic\u0027s Claude Ship. At the same time, a BofA survey showing 52% of fund managers expect hyperscaler capex cuts and safety glitches in Meta\u0027s Muse agent highlighted growing scrutiny on AI returns and execution. Across adjacent sectors, Tempus AI, Ondas, Axon, Palantir, and IonQ delivered major multi-year contracts, backlog growth, and financing or leadership updates.",
+                  "th":  "ช่วง 2 สัปดาห์ที่ผ่านมาโดดเด่นด้วยดีล IPO ครั้งประวัติศาสตร์ของ Anthropic ที่ราคา $83 ต่อหุ้น พร้อมเงินลงทุนแบบเฉพาะเจาะจงอีก $26 พันล้าน จากกลุ่ม hyperscalers และผู้ผลิตชิป ควบคู่กับการเปิดตัวเครื่องมือ AI agent ระดับองค์กรจากทั้งงาน Microsoft Ignite, โมเดล Gemini 4 Neon ของ Google และ Claude Ship ของ Anthropic ขณะเดียวกัน ผลสำรวจของ BofA ที่ชี้ว่าผู้จัดการกองทุน 52% คาดว่า hyperscalers อาจชะลอ capex และปัญหาด้านความปลอดภัยของ Muse จาก Meta สะท้อนแรงกดดันด้านความคุ้มค่าการลงทุนที่เพิ่มขึ้น ส่วนหุ้นกลุ่มเฉพาะทางอย่าง Tempus AI, Ondas, Axon, Palantir และ IonQ ต่างมีความคืบหน้าสำคัญทั้งสัญญาขนาดใหญ่ แบ็กล็อกที่เติบโต และการปรับโครงสร้างเงินทุนและผู้บริหาร"
               },
     "themes":  {
                    "en":  [
-                              "Anthropic\u0027s Historic Nasdaq IPO",
-                              "Agentic AI \u0026 Custom Silicon",
-                              "Vertical AI Commercial Traction",
-                              "Privacy \u0026 Regulatory Scrutiny"
+                              "Historic Anthropic IPO",
+                              "Enterprise AI Agents Scale",
+                              "Hyperscaler Capex Scrutiny",
+                              "Defense \u0026 Healthcare AI Deals"
                           ],
                    "th":  [
-                              "Anthropic เข้าตลาด Nasdaq ครั้งประวัติศาสตร์",
-                              "Agentic AI และชิปพัฒนาเอง",
-                              "แรงส่งเชิงพาณิชย์ของ Vertical AI",
-                              "แรงกดดันด้านความเป็นส่วนตัวและกฎระเบียบ"
+                              "IPO ประวัติศาสตร์ของ Anthropic",
+                              "AI Agent องค์กรเร่งขยายตัว",
+                              "แรงกดดันงบลงทุน Hyperscaler",
+                              "ดีล AI กลาโหมและสุขภาพ"
                           ]
                },
     "items":  [
                   {
-                      "date":  "2026-11-20",
+                      "date":  "2026-11-18",
                       "impact":  "positive",
-                      "publisher":  "Anthropic",
+                      "publisher":  "Anthropic Investor Relations",
                       "tickers":  [
                                       "ANT",
-                                      "GOOGL",
-                                      "MSFT"
+                                      "MSFT",
+                                      "GOOGL"
                                   ],
-                      "title_en":  "Anthropic closes $81.3B Nasdaq IPO and $26B tech-partner private placement",
-                      "title_th":  "Anthropic ปิดดีล IPO ใน Nasdaq มูลค่า $81.3B พร้อมเพิ่มทุนพันธมิตร $26B",
-                      "url":  "https://www.anthropic.com/news/anthropic-announces-closing-of-initial-public-offering-including-full-exercise-of-underwriters-option-to-purchase-additional-shares-and-closing-of-concurrent-private-placement",
-                      "why_en":  "Listing under ticker ANT gives Anthropic over $104.8B in net proceeds to fund frontier compute while deepening equity and cloud commitments with strategic backers Google and Microsoft.",
-                      "why_th":  "การเข้าจดทะเบียนภายใต้ชื่อย่อ ANT ทำให้ Anthropic ได้รับเงินสุทธิกว่า $104.8B เพื่อรองรับการขยายโครงสร้างพื้นฐานประมวลผล พร้อมตอกย้ำความร่วมมือด้านหุ้นและคลาวด์กับ Google และ Microsoft"
+                      "title_en":  "Anthropic prices record IPO at $83 per share with $26B partner placement",
+                      "title_th":  "Anthropic กำหนดราคา IPO สถิติใหม่ที่ $83 ต่อหุ้น พร้อมดีลพันธมิตรอีก $26 พันล้าน",
+                      "url":  "https://investors.anthropic.com/news-releases/news-release-details/anthropic-prices-initial-public-offering",
+                      "why_en":  "Raising over $81 billion in the base IPO alongside a $26 billion private placement backed by Microsoft, Google, and top chipmakers gives Anthropic unmatched capital to scale Claude compute while deepening hyperscaler alignment.",
+                      "why_th":  "การระดมทุน IPO หลักกว่า $81 พันล้าน บวกเงินเพิ่มทุนแบบเฉพาะเจาะจง $26 พันล้าน จาก Microsoft, Google และผู้ผลิตชิปชั้นนำ ช่วยให้ Anthropic มีเงินทุนมหาศาลสำหรับขยายโครงสร้างประมวลผลของ Claude และผูกความร่วมมือกับกลุ่มคลาวด์แน่นแฟ้นยิ่งขึ้น"
                   },
                   {
                       "date":  "2026-11-17",
                       "impact":  "mixed",
-                      "publisher":  "NVIDIA Newsroom",
+                      "publisher":  "Fortune",
                       "tickers":  [
                                       "MSFT",
                                       "GOOGL",
-                                      "META",
-                                      "ANT"
+                                      "META"
                                   ],
-                      "title_en":  "Nvidia Q3 data center revenue jumps 110% to $107.6B on AI buildout",
-                      "title_th":  "รายได้ Data Center ไตรมาส 3 ของ Nvidia พุ่ง 110% แตะ $107.6B รับกระแสลงทุน AI",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-                      "why_en":  "Surging data center sales and $390B in Nvidia supply obligations confirm robust AI adoption, but highlight the steep capital spending burden facing MSFT, GOOGL, META, and ANT.",
-                      "why_th":  "ยอดขาย Data Center ที่เติบโตก้าวกระโดดและภาระผูกพันจัดซื้อชิ้นส่วน $390B ของ Nvidia ยืนยันอุปสงค์ AI ที่ยังแข็งแกร่ง แต่ก็สะท้อนภาระงบลงทุนมหาศาลที่ MSFT, GOOGL, META และ ANT ต้องแบกรับ"
+                      "title_en":  "BofA survey shows 52% of fund managers expect hyperscaler AI capex cuts",
+                      "title_th":  "ผลสำรวจ BofA ชี้ผู้จัดการกองทุน 52% คาด hyperscalers จะลดงบ capex ด้าน AI",
+                      "url":  "https://fortune.com/2026/11/17/is-the-bubble-popping-bofa-fund-manager-survey-sees-tech-cut-by-the-most-since-2006/",
+                      "why_en":  "Institutional skepticism jumped from 30% in October as net tech exposure fell to 12% overweight, pressuring big AI spenders to prove monetization ROI even as tighter spending discipline could eventually protect free cash flow.",
+                      "why_th":  "ความกังวลของนักลงทุนสถาบันพุ่งขึ้นจาก 30% ในเดือนตุลาคม พร้อมสัดส่วนการถือหุ้นเทคที่ลดลงเหลือ overweight เพียง 12% สร้างแรงกดดันให้ยักษ์ใหญ่ต้องพิสูจน์ผลตอบแทนจาก AI แม้การคุมงบลงทุนอาจช่วยพยุงกระแสเงินสดอิสระในระยะต่อไป"
                   },
                   {
                       "date":  "2026-11-17",
                       "impact":  "positive",
-                      "publisher":  "Microsoft Source",
+                      "publisher":  "Microsoft AI",
                       "tickers":  [
                                       "MSFT"
                                   ],
-                      "title_en":  "Microsoft unveils Maia 300 AI accelerator and Cobalt 200 cloud VMs",
-                      "title_th":  "Microsoft เปิดตัวชิป AI รุ่น Maia 300 และเครื่องเสมือน Cobalt 200 บน Azure",
-                      "url":  "https://news.microsoft.com/source/company-news/microsoft-ignite-2026-empowering-human-ambition-intelligence-and-trust/",
-                      "why_en":  "Custom silicon delivering 40% more tokens per watt on Maia 300 and up to 50% faster Cobalt 200 VMs lowers Azure inference costs and reduces reliance on third-party GPUs.",
-                      "why_th":  "ชิปพัฒนาเองที่ช่วยเพิ่มประสิทธิภาพการประมวลผลต่อวัตต์ 40% ใน Maia 300 และเพิ่มความเร็วสูงสุด 50% ใน Cobalt 200 ช่วยลดต้นทุนการรัน AI บน Azure และลดการพึ่งพา GPU จากภายนอก"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "Microsoft Copilot Blog",
-                      "tickers":  [
-                                      "MSFT",
-                                      "ANT"
-                                  ],
-                      "title_en":  "Microsoft adds autonomous Autopilot agents and multi-model routing to Copilot",
-                      "title_th":  "Microsoft เพิ่มฟีเจอร์ Autopilot และระบบสลับโมเดลอัตโนมัติใน Copilot",
-                      "url":  "https://www.microsoft.com/en-us/copilot/blog/2026/11/17/copilot-at-microsoft-ignite-expanding-whats-possible-with-intelligence-built-for-work/",
-                      "why_en":  "Auto routing across OpenAI and Anthropic models paired with usage-based billing broadens enterprise Copilot monetization for Microsoft and expands corporate distribution for Claude.",
-                      "why_th":  "ระบบสลับใช้โมเดลของทั้ง OpenAI และ Anthropic อัตโนมัติควบคู่การคิดค่าบริการตามการใช้งานจริง ช่วยเพิ่มช่องทางสร้างรายได้ระดับองค์กรให้ Microsoft และขยายฐานลูกค้าองค์กรให้ Claude"
+                      "title_en":  "Microsoft unveils seven MAI models and Maia 200 chip for enterprise AI",
+                      "title_th":  "Microsoft เปิดตัวโมเดล MAI 7 รุ่นใหม่ พร้อมชิป Maia 200 สำหรับองค์กร",
+                      "url":  "https://microsoft.ai/seven-new-world-class-models-at-scalable-price-performance/",
+                      "why_en":  "Launching in-house models such as MAI Code 2 alongside Maia 200 silicon delivering 1.7x more tokens per watt and MAI Licensed Weights reduces Microsoft\u0027s reliance on external labs and lowers enterprise inference costs.",
+                      "why_th":  "การเปิดตัวโมเดลที่พัฒนาเองอย่าง MAI Code 2 คู่กับชิป Maia 200 ที่ประมวลผลได้มากกว่าเดิม 1.7 เท่าต่อวัตต์ และบริการ MAI Licensed Weights ช่วยลดการพึ่งพาค่ายโมเดลภายนอกและกดต้นทุนการรัน AI ให้ลูกค้าองค์กร"
                   },
                   {
                       "date":  "2026-11-18",
@@ -1539,76 +1478,89 @@ window.AI_NEWS = {"L1":{
                       "tickers":  [
                                       "GOOGL"
                                   ],
-                      "title_en":  "Google rolls out Gemini 4 Neon, Hydrogen, and Carbon frontier models",
-                      "title_th":  "Google เปิดตัวโมเดลตระกูล Gemini 4 ทั้ง Neon, Hydrogen และ Carbon",
-                      "url":  "https://blog.google/technology/developers/introducing-gemini-4-neon/",
-                      "why_en":  "Releasing three specialized 1-million-token Gemini 4 models for cybersecurity, coding, and enterprise workflows strengthens Google Cloud\u0027s competitive position against Anthropic and Microsoft.",
-                      "why_th":  "การเปิดตัวโมเดล Gemini 4 ขนาดหน้าต่างบริบท 1 ล้านโทเคนครบ 3 รุ่นย่อยสำหรับงานความปลอดภัยไซเบอร์ เขียนโค้ด และองค์กร ช่วยเสริมความแข็งแกร่งให้ Google Cloud ในการแข่งขันกับ Anthropic และ Microsoft"
+                      "title_en":  "Google DeepMind launches Gemini 4 Neon for coding and complex reasoning",
+                      "title_th":  "Google DeepMind เปิดตัว Gemini 4 Neon เน้นงานโค้ดและการให้เหตุผลขั้นสูง",
+                      "url":  "https://blog.google/technology/google-deepmind/gemini-4-neon/",
+                      "why_en":  "Priced at $3 per million input tokens and $15 output with a 1M-token context window, Neon strengthens Alphabet\u0027s mid-tier developer and Gemini Enterprise competitiveness on price-performance.",
+                      "why_th":  "ด้วยราคา API เพียง $3 ต่อล้านอินพุตโทเคน และ $15 ต่อเอาต์พุตโทเคน พร้อมรองรับบริบท 1 ล้านโทเคน ทำให้ Gemini 4 Neon เสริมความได้เปรียบด้านความคุ้มค่าของ Alphabet ทั้งในกลุ่มนักพัฒนาและ Gemini Enterprise"
                   },
                   {
-                      "date":  "2026-11-21",
+                      "date":  "2026-11-17",
                       "impact":  "positive",
-                      "publisher":  "The Guardian",
+                      "publisher":  "Microsoft Blog",
+                      "tickers":  [
+                                      "MSFT"
+                                  ],
+                      "title_en":  "Microsoft launches Microsoft IQ, Agent 365, and Azure Cobalt 200 VMs",
+                      "title_th":  "Microsoft เปิดตัว Microsoft IQ, Agent 365 และ Azure Cobalt 200 VMs ในงาน Ignite",
+                      "url":  "https://blogs.microsoft.com/blog/2026/11/17/ignite-2026-building-the-frontier-ecosystem/",
+                      "why_en":  "Unifying enterprise context, agent governance analytics, and custom ARM-based Cobalt 200 VMs with up to 50% higher CPU performance deepens Azure and Microsoft 365 lock-in as businesses move AI agents into production.",
+                      "why_th":  "การรวมชั้นข้อมูลองค์กร เครื่องมือกำกับดูแลและวัดผลตอบแทน AI agent พร้อมชิป Cobalt 200 ที่เพิ่มประสิทธิภาพ CPU สูงสุด 50% ช่วยเพิ่มความเหนียวแน่นของลูกค้าบนระบบนิเวศ Azure และ Microsoft 365 เมื่อองค์กรนำ AI agent มาใช้งานจริง"
+                  },
+                  {
+                      "date":  "2026-11-23",
+                      "impact":  "positive",
+                      "publisher":  "TechCrunch",
                       "tickers":  [
                                       "ANT"
                                   ],
-                      "title_en":  "Two Lean groups verify Claude-assisted proof claim for Riemann hypothesis",
-                      "title_th":  "สองกลุ่มวิจัย Lean ยืนยันโค้ดพิสูจน์สมมติฐานรีมันน์ที่พัฒนาร่วมกับ Claude",
-                      "url":  "https://www.theguardian.com/technology/2026/nov/21/anthropic-levent-alpoge-claude-riemann-hypothesis-mathematics",
-                      "why_en":  "Independent computer verification of a 17-million-line Lean proof highlights Claude\u0027s frontier reasoning capability for scientific and technical workloads, even as human peer review continues.",
-                      "why_th":  "การตรวจสอบผ่านโปรแกรมพิสูจน์ทางคณิตศาสตร์ของโค้ด Lean ยาว 17 ล้านบรรทัดโดยสองกลุ่มอิสระ สะท้อนศักยภาพการให้เหตุผลขั้นสูงของ Claude สำหรับงานวิจัยและเทคนิค แม้ยังอยู่ระหว่างการตรวจสอบโดยนักคณิตศาสตร์"
+                      "title_en":  "Anthropic launches Claude Ship agents to automate GitHub code reviews",
+                      "title_th":  "Anthropic เปิดตัว Claude Ship ชุด AI agent ช่วยรีวิวและอนุมัติโค้ดบน GitHub",
+                      "url":  "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+                      "why_en":  "Expanding Claude Code from code generation into automated pull-request review, conflict resolution, and policy-based approvals widens Anthropic\u0027s high-retention enterprise developer footprint.",
+                      "why_th":  "การต่อยอด Claude Code จากแค่ช่วยเขียนโค้ดไปสู่การรีวิว แก้ไข และอนุมัติ pull request อัตโนมัติ ช่วยขยายฐานลูกค้าองค์กรสายพัฒนาซอฟต์แวร์ที่มีอัตราการใช้งานต่อเนื่องสูงของ Anthropic"
                   },
                   {
-                      "date":  "2026-11-19",
+                      "date":  "2026-11-18",
                       "impact":  "negative",
-                      "publisher":  "TechCrunch",
+                      "publisher":  "Reuters",
                       "tickers":  [
                                       "META"
                                   ],
-                      "title_en":  "Leaked internal Meta posts flag account mix-ups in Muse AI agent",
-                      "title_th":  "เอกสารภายใน Meta หลุด เผยบั๊กสลับบัญชีและเสี่ยงข้อมูลรั่วใน Muse AI",
-                      "url":  "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-could-be-exposing-private-data-report-says/",
-                      "why_en":  "Reports that Meta\u0027s personal AI agent—already past 10 million downloads—mixed user conversations and pulled sensitive third-party app data create regulatory and consumer trust risks.",
-                      "why_th":  "รายงานว่า Muse AI ซึ่งมียอดดาวน์โหลดทะลุ 10 ล้านครั้งแล้ว เกิดปัญหาสลับบทสนทนาข้ามบัญชีและดึงข้อมูลจากแอปภายนอก ทำให้ Meta เผชิญความเสี่ยงด้านความเชื่อมั่นและการตรวจสอบจากหน่วยงานกำกับดูแล"
+                      "title_en":  "Internal Meta posts reveal privacy and hallucination glitches in Muse agent",
+                      "title_th":  "ข้อมูลภายใน Meta เผยปัญหาระบบ Muse AI หลอนและเสี่ยงรั่วไหลข้อมูลส่วนตัว",
+                      "url":  "https://www.reuters.com/technology/artificial-intelligence/as-meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18/",
+                      "why_en":  "Unprompted messages referencing sensitive financial and encrypted-app details during employee testing create trust and regulatory risks just as Meta scales Muse past 10 million downloads and introduces paid subscriptions.",
+                      "why_th":  "เหตุการณ์ที่ Muse ส่งข้อความอ้างอิงข้อมูลการเงินและแอปแชตเข้ารหัสผิดพลาดระหว่างการทดสอบภายใน สร้างความเสี่ยงด้านความเชื่อมั่นและกฎหมาย ในจังหวะที่ Meta กำลังเร่งขยายยอดดาวน์โหลดทะลุ 10 ล้านครั้งและเริ่มเก็บค่าสมาชิก"
                   },
                   {
                       "date":  "2026-11-12",
-                      "impact":  "negative",
-                      "publisher":  "Court of Justice of the European Union",
+                      "impact":  "mixed",
+                      "publisher":  "Ondas Investor Relations",
                       "tickers":  [
-                                      "GOOGL"
+                                      "ONDS"
                                   ],
-                      "title_en":  "EU court adviser backs reviving €1.49B Google AdSense antitrust fine",
-                      "title_th":  "ที่ปรึกษาศาลยุติธรรม EU แนะรื้อฟื้นค่าปรับผูกขาด AdSense ของ Google €1.49B",
-                      "url":  "https://curia.europa.eu/juris/celex.jsf?celex=62024CC0826",
-                      "why_en":  "Advocate General Juliane Kokott\u0027s opinion to overturn Google\u0027s 2024 annulment reopens a €1.49B ($1.7B) fine liability ahead of a final EU court ruling expected in 2027.",
-                      "why_th":  "ความเห็นของที่ปรึกษาศาลให้เพิกถอนคำตัดสินปี 2024 ที่เคยยกเลิกค่าปรับ ทำให้ Google กลับมาเผชิญความเสี่ยงภาระค่าปรับ €1.49B ($1.7B) ก่อนศาลสูงสุด EU จะมีคำพิพากษาในปี 2027"
-                  },
-                  {
-                      "date":  "2026-11-10",
-                      "impact":  "positive",
-                      "publisher":  "Google Cloud Blog",
-                      "tickers":  [
-                                      "GOOGL"
-                                  ],
-                      "title_en":  "Google Cloud launches Gemini for Healthcare agent suite for health systems",
-                      "title_th":  "Google Cloud เปิดตัวโซลูชัน Gemini for Healthcare สำหรับโรงพยาบาลและระบบสุขภาพ",
-                      "url":  "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-for-healthcare",
-                      "why_en":  "Early previews with Stanford School of Medicine and HCA Healthcare push Google Cloud deeper into regulated clinical administration and electronic health record workflows.",
-                      "why_th":  "การเริ่มใช้งานจริงกับเครือข่ายการแพทย์ใหญ่อย่าง Stanford School of Medicine และ HCA Healthcare ช่วยขยายฐานรายได้ของ Google Cloud เข้าสู่กลุ่มธุรกิจสุขภาพที่มีอัตรากำไรสูงและข้อกำกับดูแลเข้มงวด"
+                      "title_en":  "Ondas Q3 revenue surges to $167.5M; sets $1.1B target for 2027",
+                      "title_th":  "Ondas รายได้ Q3 พุ่งแตะ $167.5 ล้าน พร้อมตั้งเป้ารายได้ปี 2027 ที่ $1.1 พันล้าน",
+                      "url":  "https://investors.ondas.com/news-events/press-releases/detail/595/ondas-posts-record-q3-2026-revenue-of-167-5-million-on-strong",
+                      "why_en":  "Strong defense demand lifted backlog 36% sequentially to $835 million and raised FY26 revenue guidance to at least $550 million, though adjusted gross margin compressed to 34.8% and adjusted EBITDA loss widened to $59.7 million.",
+                      "why_th":  "คำสั่งซื้อด้านกลาโหมดันแบ็กล็อกพุ่ง 36% จากไตรมาสก่อนสู่ $835 ล้าน และปรับเป้ารายได้ปี 2026 เป็นอย่างน้อย $550 ล้าน แต่อัตรากำไรขั้นต้นปรับปรุงลดเหลือ 34.8% และขาดทุน Adjusted EBITDA ขยายเป็น $59.7 ล้าน"
                   },
                   {
                       "date":  "2026-11-18",
                       "impact":  "positive",
-                      "publisher":  "U.S. SEC (Form 8-K)",
+                      "publisher":  "SEC",
                       "tickers":  [
                                       "TEM"
                                   ],
-                      "title_en":  "Tempus AI extends AstraZeneca oncology data partnership with $200M commitment",
-                      "title_th":  "Tempus AI ต่อสัญญาพันธมิตรข้อมูลมะเร็งกับ AstraZeneca มูลค่า $200M ถึงปี 2031",
-                      "url":  "https://www.sec.gov/Archives/edgar/data/1717115/000119312526466240/d665796d8k.htm",
-                      "why_en":  "Extending the collaboration through 2031 locks in $200M in aggregate fees—including a $32M annual minimum floor—boosting multi-year revenue visibility for Tempus\u0027s biopharma data platform.",
-                      "why_th":  "การต่อสัญญาออกไปถึงปี 2031 ช่วยการันตีรายได้รวม $200M โดยมีขั้นต่ำ $32M ต่อปี เพิ่มความแน่นอนให้กระแสรายได้ระยะยาวของธุรกิจไลเซนส์ข้อมูลการแพทย์และ AI ของ Tempus AI"
+                      "title_en":  "Tempus AI secures $200M, five-year oncology data commitment from AstraZeneca",
+                      "title_th":  "Tempus AI ต่อสัญญาข้อมูลมะเร็งวิทยา 5 ปีกับ AstraZeneca มูลค่า $200 ล้าน",
+                      "url":  "https://www.sec.gov/Archives/edgar/data/1717115/0001193125-26-466240-index.html",
+                      "why_en":  "Extending the Master Services Agreement through 2031 at a $40 million annual target spend locks in recurring high-margin data and AI licensing revenue for Tempus.",
+                      "why_th":  "การขยายสัญญาบริการหลักไปจนถึงปี 2031 ด้วยเป้าหมายการใช้จ่ายปีละ $40 ล้าน ช่วยล็อกกระแสรายได้ประจำที่มีอัตรากำไรสูงในธุรกิจข้อมูลและ AI ของ Tempus ได้อย่างมั่นคงยิ่งขึ้น"
+                  },
+                  {
+                      "date":  "2026-11-18",
+                      "impact":  "mixed",
+                      "publisher":  "SEC",
+                      "tickers":  [
+                                      "AXON"
+                                  ],
+                      "title_en":  "Axon amends $1.2B Skydio drone deal to roughly 90% cash",
+                      "title_th":  "Axon ปรับโครงสร้างดีลลงทุนโดรน Skydio มูลค่า $1.2 พันล้าน เป็นเงินสดราว 90%",
+                      "url":  "https://www.sec.gov/Archives/edgar/data/1069183/000162828026046033/axon-20261113.htm",
+                      "why_en":  "Settling tender and secondary purchases entirely in cash avoids share dilution while raising Axon\u0027s Skydio stake to about 37%, though it requires significantly higher cash outlay than the original 60% cash mix.",
+                      "why_th":  "การเปลี่ยนมาชำระเงินสดทั้งหมดในส่วนคำเสนอซื้อและหุ้นรองช่วยเลี่ยงผลกระทบจาก dilution ระหว่างเพิ่มสัดส่วนถือหุ้นใน Skydio เป็นราว 37% แต่ต้องใช้เงินสดเพิ่มขึ้นมากจากแผนเดิมที่สัดส่วนเงินสด 60%"
                   },
                   {
                       "date":  "2026-11-16",
@@ -1617,50 +1569,63 @@ window.AI_NEWS = {"L1":{
                       "tickers":  [
                                       "PLTR"
                                   ],
-                      "title_en":  "UK government sets March 2029 end for Palantir\u0027s £330M NHS contract",
-                      "title_th":  "รัฐบาลอังกฤษยืนยันสิ้นสุดสัญญา NHS มูลค่า £330M ของ Palantir ในเดือนมี.ค. 2029",
+                      "title_en":  "UK keeps Palantir\u0027s £330M NHS contract until 2029, plans rival tender",
+                      "title_th":  "อังกฤษคงสัญญา NHS มูลค่า £330 ล้าน ของ Palantir ถึงปี 2029 ก่อนเปิดประมูลใหม่",
                       "url":  "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantirs-contract-with-nhs-in-england-in-2029",
-                      "why_en":  "A two-year bridge extension avoids an early 2027 break, but Parliament\u0027s pledge to transition to domestic suppliers by March 2029 caps long-term UK public-health upside.",
-                      "why_th":  "การต่ออายุสัญญาอีก 2 ปีช่วยเลี่ยงการยกเลิกก่อนกำหนดในปี 2027 แต่คำประกาศของรัฐบาลอังกฤษที่จะเปลี่ยนไปใช้ผู้ให้บริการในประเทศภายในมี.ค. 2029 จำกัดโอกาสเติบโตระยะยาวในภาคสาธารณสุขอังกฤษ"
+                      "why_en":  "Declining to trigger a 2027 break clause secures near-term public-sector revenue through March 2029, but opening a summer 2027 tender for British alternatives signals long-term renewal risk in Europe.",
+                      "why_th":  "การไม่ใช้สิทธิยกเลิกสัญญาก่อนกำหนดในปี 2027 ช่วยรักษารายได้ภาครัฐไปจนถึงมีนาคม 2029 แต่แผนเปิดประมูลช่วงฤดูร้อนปี 2027 เพื่อเปิดทางให้บริษัทอังกฤษเข้าแข่งขัน สะท้อนความเสี่ยงด้านการต่อสัญญาระยะยาวในยุโรป"
                   },
                   {
-                      "date":  "2026-11-12",
-                      "impact":  "mixed",
-                      "publisher":  "U.S. SEC (Form 8-K Exhibit 99.1)",
-                      "tickers":  [
-                                      "ONDS"
-                                  ],
-                      "title_en":  "Ondas Q3 revenue doubles QoQ to $167.5M; raises 2026 outlook to $550M+",
-                      "title_th":  "รายได้ Q3 ของ Ondas โตเท่าตัวแตะ $167.5M พร้อมปรับเป้าปี 2026 เป็น $550M+",
-                      "url":  "https://www.sec.gov/Archives/edgar/data/0001356764/000149315226043232/ex99-1.htm",
-                      "why_en":  "Backlog jumped 36% sequentially to $835M and management set a $1.1B 2027 sales target, though production ramp costs squeezed gross margin to 21.8% and widened EBITDA losses.",
-                      "why_th":  "ยอดคำสั่งซื้อคงค้างพุ่ง 36% จากไตรมาสก่อนแตะ $835M และบริษัทตั้งเป้ายอดขายปี 2027 ที่ $1.1B แต่ต้นทุนช่วงเร่งสายการผลิตกดดันอัตรากำไรขั้นต้นเหลือ 21.8% และทำให้ขาดทุน EBITDA กว้างขึ้น"
-                  },
-                  {
-                      "date":  "2026-11-09",
+                      "date":  "2026-11-10",
                       "impact":  "positive",
-                      "publisher":  "Carahsoft",
+                      "publisher":  "Google Blog",
+                      "tickers":  [
+                                      "GOOGL"
+                                  ],
+                      "title_en":  "Google and Adobe expand AI partnership across Workspace, Search, and Firefly",
+                      "title_th":  "Google และ Adobe ขยายความร่วมมือ AI เชื่อม Workspace, Search และ Firefly",
+                      "url":  "https://blog.google/outreach-initiatives/announcements/adobe-google-partnership-november-2026/",
+                      "why_en":  "Embedding Gemini models into Acrobat, Photoshop, and Premiere while bringing Adobe tools into Drive, Gmail, and Search AI Mode expands Alphabet\u0027s enterprise AI distribution and monetization reach.",
+                      "why_th":  "การผสานโมเดล Gemini เข้าใน Acrobat, Photoshop และ Premiere ควบคู่กับการนำเครื่องมือ Adobe มาอยู่ใน Drive, Gmail และ Search AI Mode ช่วยขยายช่องทางการกระจายและการสร้างรายได้จาก AI ของ Alphabet ในระดับองค์กร"
+                  },
+                  {
+                      "date":  "2026-11-13",
+                      "impact":  "mixed",
+                      "publisher":  "Business Wire",
                       "tickers":  [
                                       "IONQ"
                                   ],
-                      "title_en":  "IonQ partners with Carahsoft to expand U.S. public-sector quantum distribution",
-                      "title_th":  "IonQ จับมือ Carahsoft เป็นตัวแทนจำหน่ายระบบควอนตัมเจาะภาครัฐสหรัฐฯ",
-                      "url":  "https://www.carahsoft.com/news/ionq-and-carahsoft-partner-to-bring-quantum-solutions-to-the-public-sector",
-                      "why_en":  "Using Carahsoft\u0027s government contract vehicles and reseller network lowers procurement friction for IonQ\u0027s computing, networking, and sensing products across U.S. federal and state agencies.",
-                      "why_th":  "การใช้ช่องทางจัดซื้อจัดจ้างและเครือข่ายตัวแทนภาครัฐของ Carahsoft ช่วยลดอุปสรรคการขายและเร่งการเข้าถึงหน่วยงานรัฐสหรัฐฯ สำหรับทั้งโซลูชันควอนตัมคอมพิวติ้งและเครือข่ายของ IonQ"
+                      "title_en":  "IonQ names Gary Merrill as CFO in executive finance transition",
+                      "title_th":  "IonQ แต่งตั้ง Gary Merrill เป็น CFO คนใหม่ ท่ามกลางการปรับทัพฝ่ายการเงิน",
+                      "url":  "https://www.businesswire.com/news/home/20261113802446/en/IonQ-Announces-Executive-Leadership-Evolution",
+                      "why_en":  "Appointing a new CFO and Chief Accounting Officer strengthens financial oversight as IonQ integrates acquisitions across its $1.2 billion backlog, though executive turnover introduces near-term execution risk.",
+                      "why_th":  "การดึง CFO และหัวหน้าฝ่ายบัญชีคนใหม่เข้ามาช่วยเสริมการบริหารการเงินในช่วงที่ IonQ กำลังควบรวมกิจการและส่งมอบแบ็กล็อกมูลค่า $1.2 พันล้าน แม้การเปลี่ยนผู้บริหารระดับสูงจะเพิ่มความไม่แน่นอนระยะสั้นก็ตาม"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "Business Wire",
+                      "tickers":  [
+                                      "IONQ"
+                                  ],
+                      "title_en":  "IonQ and IDEMIA validate Quantum Key Distribution for critical communications",
+                      "title_th":  "IonQ และ IDEMIA ทดสอบระบบ Quantum Key Distribution สำหรับโครงข่ายสื่อสารสำคัญสำเร็จ",
+                      "url":  "https://www.businesswire.com/news/home/20261117297926/en/IDEMIA-Secure-Transactions-and-IonQ-validate-Quantum-Key-Distribution-interoperability-for-critical-communications",
+                      "why_en":  "Confirming QKD interoperability with IDEMIA Sphere advances commercial readiness for IonQ\u0027s quantum networking security products across telecom and government infrastructure customers.",
+                      "why_th":  "การยืนยันความเข้ากันได้ของเทคโนโลยี QKD กับระบบ IDEMIA Sphere ช่วยผลักดันความพร้อมเชิงพาณิชย์ของผลิตภัณฑ์เครือข่ายความปลอดภัยควอนตัมของ IonQ สำหรับลูกค้ากลุ่มโทรคมนาคมและโครงสร้างพื้นฐานภาครัฐ"
                   },
                   {
                       "date":  "2026-11-12",
                       "impact":  "positive",
-                      "publisher":  "Delaware State Police",
+                      "publisher":  "Meta Newsroom",
                       "tickers":  [
-                                      "AXON"
+                                      "META"
                                   ],
-                      "title_en":  "Delaware State Police rolls out Axon real-time AI body-camera translation",
-                      "title_th":  "ตำรวจรัฐเดลาแวร์เริ่มใช้งานระบบแปลภาษา AI แบบเรียลไทม์บนกล้องติดตัว Axon",
-                      "url":  "https://dsp.delaware.gov/2026/11/12/state-police-launch-real-time-translation-by-axon/",
-                      "why_en":  "Statewide deployment supporting over 50 languages under a renewed Axon contract demonstrates growing agency adoption of high-margin AI software layered onto body-worn hardware.",
-                      "why_th":  "การใช้งานจริงทั่วทั้งรัฐซึ่งรองรับกว่า 50 ภาษาภายใต้สัญญาที่ต่ออายุกับ Axon สะท้อนการขยายตัวของซอฟต์แวร์ AI อัตรากำไรสูงที่ต่อยอดบนฐานฮาร์ดแวร์กล้องติดตัวตำรวจ"
+                      "title_en":  "Meta signs low-carbon material supply deals for AI data centers",
+                      "title_th":  "Meta ทำสัญญาจัดซื้อวัสดุคาร์บอนต่ำระยะยาวรองรับการสร้างดาต้าเซ็นเตอร์ AI",
+                      "url":  "https://about.fb.com/news/2026/11/metas-new-agreements-bring-clean-manufacturing-to-data-center-supply-chains/",
+                      "why_en":  "Long-term purchase agreements for near-zero-emission steel, low-carbon cement, and electric trucking help Meta mitigate regulatory and community sustainability scrutiny as its AI data center footprint expands.",
+                      "why_th":  "สัญญาจัดซื้อระยะยาวสำหรับเหล็กกล้าปล่อยคาร์บอนใกล้ศูนย์ ปูนซีเมนต์คาร์บอนต่ำ และรถบรรทุกไฟฟ้า ช่วยลดแรงต้านจากหน่วยงานกำกับดูแลและชุมชนต่อการขยายดาต้าเซ็นเตอร์ AI ขนาดใหญ่ของ Meta"
                   }
               ]
 }};

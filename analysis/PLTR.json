@@ -2,46 +2,45 @@
     "ticker":  "PLTR",
     "name":  "Palantir Technologies",
     "symbol":  "NASDAQ:PLTR",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:03:41Z",
-    "costUsd":  0.6073876000000001,
+    "generatedAt":  "2026-11-24T04:04:09Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:PLTR",
                        "yahoo":  "PLTR",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:01:27Z",
-                       "price":  143.49,
-                       "open":  149.7,
-                       "high":  152.51,
-                       "low":  142.28,
-                       "volume":  36556700,
-                       "avgVolume20":  24967980,
-                       "changePct":  -6.63,
-                       "ema50":  175.17,
-                       "ema100":  170.27,
-                       "ema200":  161.71,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:00:30Z",
+                       "price":  159.36,
+                       "open":  157.32,
+                       "high":  161.19,
+                       "low":  154.57,
+                       "volume":  32010800,
+                       "avgVolume20":  25753155,
+                       "changePct":  11.06,
+                       "historyDays":  500,
+                       "ema50":  174.55,
+                       "ema100":  170.06,
+                       "ema200":  161.68,
                        "bb":  {
-                                  "upper":  203.64,
-                                  "middle":  171.82,
-                                  "lower":  140.01
+                                  "upper":  199.54,
+                                  "middle":  169.85,
+                                  "lower":  140.16
                               },
                        "macd":  {
-                                    "macd":  -9.64,
-                                    "signal":  -7.15,
-                                    "hist":  -2.49
+                                    "macd":  -9.13,
+                                    "signal":  -7.55,
+                                    "hist":  -1.58
                                 },
-                       "rsi14":  26.38,
+                       "rsi14":  41.71,
                        "high52w":  212.94,
                        "low52w":  106.37,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         142.2
-                                     ],
                                      [
                                          "2026-06-04",
                                          141.7
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          143.49
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         159.36
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          142.88,
                                           142.83,
                                           142.54,
                                           142.3,
@@ -639,95 +641,120 @@
                                           178.24,
                                           177.39,
                                           176.46,
-                                          175.17
+                                          175.17,
+                                          174.55
                                       ]
                    },
     "en":  {
-               "headline":  "Strong Q3 can\u0027t stop a 33% slide as the AI-wide selloff hits PLTR",
-               "technical":  "The trend has turned down. On 2026-11-20 PLTR closed at 143.49 USD, down 6.63%. That puts it below all three exponential moving averages (EMAs, smoothed average prices): EMA50 175.17, EMA100 170.27 and EMA200 161.71. The EMAs are still stacked in bullish order (50 above 100 above 200), but losing the 200-day line, the usual long-term trend marker, is a serious break. Momentum is negative. MACD (the gap between a fast and a slow average) is at -9.64, below its signal line at -7.15, and the histogram is -2.49. RSI 14, a 0–100 momentum gauge where under 30 counts as oversold, is 26.38. Price sits just above the lower Bollinger Band at 140.01 (the bands mark a normal range around the 20-day average of 171.82), which shows stretched selling. The stock is 32.6% below its 52-week high of 212.94 and about 35% of the way up from the 52-week low of 106.37. Volume was 36.6M, roughly 1.46x the 20-day average, and the close came near the day\u0027s low of 142.28. Heavy volume like that confirms the selling pressure. Oversold readings can bring short bounces, but they don\u0027t confirm a bottom. Watch 140 (lower band) as nearby support and 161.71 (EMA200) as the first resistance.",
-               "fundamental":  "The business is accelerating, not cracking. Q3 2026 (reported 2026-11-02): revenue was 2.31B USD (+96% y/y), against consensus near 2.18B. US commercial revenue reached 984M (+148%) and passed US government (953M) for the first time. The adjusted operating margin was 62% and net dollar retention 165%, meaning existing customers spent much more than a year earlier. That directly supports the switching-cost moat. FY2026 guidance rose to 8.53B revenue and 4.8–5.0B adjusted free cash flow. The soft spots: total contract value (TCV) grew only 6% y/y and remaining performance obligations (RPO, signed but not yet booked revenue) were flat quarter on quarter at 4.9B. Valuation is still extreme, at about 51x trailing sales (Trefis, 2026-11-06).",
-               "news":  [
-                            "2026-11-02: Q3 beat on revenue and EPS (0.44 USD adjusted), and FY2026 guidance was raised again. The stock still fell about 5% on 2026-11-03 as investors focused on valuation.",
-                            "2026-11-03: Citi (265), Morgan Stanley (233), Piper Sandler (235) and RBC (130, Underperform) all raised price targets but kept their ratings. Phillip Securities raised its target to 248 on 2026-11-16.",
-                            "2026-11-05: PLTR fell 9.7% with no company news, in an AI-wide selloff where the Nasdaq lost 5.5%. Before that, the stock had fallen for seven straight sessions.",
-                            "Mid-November: reports of a leadership crisis at Nvidia, including CEO Jensen Huang\u0027s resignation, deepened AI-sector fear. Palantir has almost no China exposure and doesn\u0027t finance customer purchases, so this hit sentiment rather than its business.",
-                            "2026-11-20: the DOJ charged a Russian national with spying on a Silicon Valley firm that sources told Reuters was Palantir. CNBC also reported that Trump-linked accounts bought PLTR before federal awards, though it found no sign Trump directed the trades. These are headline risks, not business changes."
+               "caution":  "Even after falling 25.2% from its $212.94 high, PLTR trades near 62x–85x forward earnings, leaving little cushion if growth decelerates. Q3 total contract value bookings rose only 6% YoY to $2.98 billion, and international commercial revenue grew a modest 21% to $184 million. Political scrutiny abroad—highlighted by the UK\u0027s Nov 16 decision to replace Palantir\u0027s NHS platform by 2029—could limit non-U.S. adoption. Meanwhile, CTO Shyam Sankar\u0027s pre-scheduled $47.9 million sale (Nov 19) and heavy resistance at $161.68–$174.55 keep near-term volatility elevated.",
+               "cons":  [
+                            "Valuation remains demanding at roughly 62x–85x forward earnings, leaving PLTR exposed to sharp multiple compression during tech pullbacks.",
+                            "Q3 total contract value bookings rose just 6% YoY to $2.98 billion, fueling post-earnings worries about moderating new-deal velocity.",
+                            "UK ministers confirmed on Nov 16 they will terminate Palantir\u0027s £330 million NHS contract in March 2029, underscoring European political resistance.",
+                            "Technical posture remains bearish with price ($159.36) still below EMA 50, EMA 100, and EMA 200 despite Nov 23\u0027s bounce."
                         ],
-               "caution":  "Even after a 33% drop, PLTR is priced for near-perfection, at roughly 99x free cash flow and about 51x sales. If AI-sector sentiment keeps falling, high-multiple names usually fall furthest, and this one fell more than peers on 2026-11-05. Slowing bookings (TCV +6%, RPO flat quarter on quarter) could worry growth investors if they continue into Q4. Government-related headlines (the August 2026 sole-source memo scrutiny, the Trump-trade report) add political risk. The technical picture is plainly bearish until price gets back above the EMA200 at 161.71.",
-               "opportunity":  "This fall looks driven by sentiment more than fundamentals. Revenue nearly doubled, guidance rose for a third time in 2026, and 165% net dollar retention shows customers expanding deeper into Foundry and AIP. RSI 26.38 and a price near the lower Bollinger Band mean the stock is statistically stretched, a state that has often come before relief rallies. Most covering analysts raised targets after Q3. For long-term holders, the moat (embedded deployments and data-integration lock-in) looks stronger, not weaker, after this quarter.",
+               "fundamental":  "Within the AI value chain, Palantir occupies the high-margin enterprise orchestration layer—turning raw enterprise and defense data into live AI workflows via Foundry, Gotham, and AIP. Q3 2026 results on Nov 2 reinforced that thesis: total revenue surged 96% YoY to $2.313 billion, U.S. commercial jumped 148% to $984 million (surpassing U.S. government\u0027s $953 million for the first time), GAAP net income reached $1.128 billion (49% margin), and remaining deal value rose 55% to $13.4 billion. Management lifted FY 2026 revenue guidance to $8.530–$8.534 billion and Q4 guidance to $2.649–$2.653 billion. November\u0027s 25% drawdown reflected valuation repricing and AI-sector contagion following Nvidia\u0027s Nov 12 CEO exit rather than operational decay; Nov 23\u0027s +11.06% rebound coincided with Nvidia\u0027s CEO reinstatement. Even the UK\u0027s Nov 16 NHS exit plan required a two-year extension to 2029, underscoring switching-cost lock-in.",
+               "headline":  "PLTR Rebounds 11% on AI Relief; Record Q3 Intact Despite Technical Pullback",
+               "news":  [
+                            "Nov 2, 2026: Palantir posted Q3 2026 revenue of $2.313 billion (+96% YoY) and adjusted EPS of $0.44, raising FY 2026 revenue guidance to $8.530–$8.534 billion; shares still dipped initially as investors scrutinized 6% YoY bookings growth and high multiples.",
+                            "Nov 23, 2026: PLTR jumped 11.06% to $159.36 during an AI-sector relief rally after Sovereign AI hardware partner Nvidia reinstated CEO Jensen Huang following his Nov 12 departure; a same-day SEC filing showed CTO Shyam Sankar sold 300,000 shares ($47.9 million) on Nov 19 under a Rule 10b5-1 plan.",
+                            "Nov 16, 2026: UK ministers extended Palantir\u0027s £330 million NHS Federated Data Platform contract by two years to March 2029 to protect continuity of care, but announced a 2027 procurement to transition to a UK-led replacement.",
+                            "Nov 3–4, 2026: Major Wall Street banks raised price targets after Q3 results—including Barclays ($273), Citigroup ($265), Truist ($250), and Morgan Stanley ($233)—citing accelerating AIP demand alongside ongoing valuation debates.",
+                            "Oct 21 – Nov 5, 2026: Palantir expanded commercial and Sovereign AI deployments with flagship customers including L3Harris, Nvidia, and Tampa General Hospital (Oct 21), plus a new enterprise AI partnership with AmeriLife (Nov 5)."
+                        ],
+               "opportunity":  "For long-term AI infrastructure holders, Palantir\u0027s shift from government contractor to commercial AI operating system is accelerating at rare scale: U.S. commercial customers grew 29% YoY to 686 while net dollar retention hit 165%, showing rapid expansion inside existing accounts. Sovereign AI deployments with partners like Nvidia and L3Harris open multi-year enterprise and defense budgets backed by $4.8–$5.0 billion in projected FY 2026 free cash flow. Technically, above-average volume on Nov 23 suggests institutional accumulation near the $140 lower Bollinger Band if $161.68 is reclaimed.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile largely holds up, but the bottleneck and pricing power rating looks materially too low. While Palantir sells software rather than scarce chips, Q3 2026 delivered 62% adjusted operating margins, 165% net dollar retention, and $146 million average trailing revenue across its top 20 accounts—proof of strong pricing power. Even UK ministers criticizing the firm extended its NHS platform two years because replacing it takes years. Moving bottleneck and pricing power meaningfully higher, and nudging market position slightly up, better fits reality, while sluggish international commercial growth (+21% YoY) keeps overseas optionality grounded.",
+               "pros":  [
+                            "Q3 2026 revenue jumped 96% YoY to $2.313 billion on Nov 2, led by 148% U.S. commercial growth to $984 million.",
+                            "Net dollar retention accelerated to 165% with 62% adjusted operating margins and $1.216 billion in quarterly adjusted free cash flow.",
+                            "Full-year 2026 guidance rose to $8.530–$8.534 billion in revenue and $4.8–$5.0 billion in adjusted free cash flow.",
+                            "Sovereign AI and AIP adoption expanded through new enterprise deals including L3Harris, Tampa General Hospital (Oct 21), and AmeriLife (Nov 5)."
+                        ],
                "risks":  [
-                             "Valuation compression: at about 51x sales, PLTR could keep falling even if growth stays strong",
-                             "Bookings slowdown: TCV +6% y/y and flat RPO may point to slower growth in 2027",
-                             "AI-sector contagion from Nvidia leadership turmoil and the wider AI capex selloff",
-                             "Political and governance headlines: sole-source contract scrutiny, the Trump-linked trading report, insider selling under 10b5-1 plans",
-                             "Technical breakdown below EMA200 with high volume; a close below the 140 lower band would open more downside"
+                             "Valuation compression: At 62x–85x forward earnings, macro yield spikes or AI-sector shocks trigger outsized drawdowns.",
+                             "Bookings deceleration: Q3 total contract value grew 6% YoY ($2.98 billion), lagging headline revenue growth of 96%.",
+                             "International and political pushback: The UK NHS\u0027s planned 2029 exit illustrates sovereignty and privacy resistance outside the U.S.",
+                             "High-beta correlation: PLTR trades closely with AI bellwethers like Nvidia, amplifying non-fundamental volatility."
                          ],
-               "summary":  "PLTR is in a sharp technical downtrend. It closed at 143.49 USD on 2026-11-20, below all three EMAs, with negative MACD, RSI oversold at 26.38 and selling on 1.46x normal volume. The fall from 212.94 comes from AI-sector fear and valuation worries, not weak results. Q3 revenue rose 96%, US commercial revenue passed government, and net dollar retention of 165% supports the switching-cost moat. The thesis is intact, but the short-term trend is bearish. Watch support near 140 and resistance at 161.71."
+               "summary":  "Palantir (PLTR) jumped 11.06% to $159.36 on Nov 23, 2026, rebounding from an AI-sector sell-off after Sovereign AI partner Nvidia reinstated CEO Jensen Huang. Operationally, Q3 2026 results on Nov 2 beat expectations: revenue rose 96% YoY to $2.313 billion, U.S. commercial jumped 148% to $984 million, and FY 2026 revenue guidance rose to $8.530–$8.534 billion. Still, PLTR sits 25.2% off its $212.94 high and below key moving averages amid high-multiple compression, slower 6% YoY bookings growth, and the UK\u0027s Nov 16 plan to end its NHS contract in 2029.",
+               "technical":  "PLTR\u0027s technical posture remains bearish despite Nov 23\u0027s sharp +11.06% rebound to $159.36 (intraday range $154.57–$161.19). Price trades below all three Exponential Moving Averages (EMA — weighted trend averages): EMA 50 ($174.55), EMA 100 ($170.06), and EMA 200 ($161.68). Because EMA 50 still sits above EMA 100 and EMA 200, the multi-month uptrend has avoided a bearish crossover, yet Monday\u0027s rally stalled just shy of immediate resistance at EMA 200 ($161.68). Momentum confirms caution: MACD (12/26/9 — a trend-momentum gauge) stands at -9.13 below its -7.55 signal line, leaving a negative -1.58 histogram, while RSI 14 (a 0–100 momentum index; below 30 is oversold) recovered only to a weak-neutral 41.71. On Bollinger Bands (20/2 — a volatility channel), price sits in the lower half between the $140.16 lower band and $169.85 middle band, roughly at the midpoint of its $106.37–$212.94 52-week range (25.2% below the peak). Encouragingly, Nov 23 volume hit 32.01 million shares—24.3% above the 25.75 million 20-day average—indicating genuine dip-buying near the $140–$145 support zone, though reclaiming $161.68 and $170 resistance is needed to repair the chart."
            },
     "th":  {
-               "headline":  "งบ Q3 แข็งแกร่ง แต่ PLTR ยังร่วง 33% ตามแรงเทขาย AI ทั้งกลุ่ม",
-               "technical":  "แนวโน้มกลับเป็นขาลง วันที่ 2026-11-20 PLTR ปิดที่ 143.49 USD ลดลง 6.63% หลุดเส้นค่าเฉลี่ย EMA (ราคาเฉลี่ยแบบถ่วงน้ำหนัก) ทั้งสามเส้น คือ EMA50 ที่ 175.17, EMA100 ที่ 170.27 และ EMA200 ที่ 161.71 แม้เส้น EMA ยังเรียงตัวแบบขาขึ้น (50 อยู่เหนือ 100 และ 100 อยู่เหนือ 200) แต่การหลุด EMA200 ซึ่งเป็นตัวชี้แนวโน้มระยะยาวถือเป็นสัญญาณที่หนัก โมเมนตัมเป็นลบ MACD (ส่วนต่างระหว่างค่าเฉลี่ยเร็วกับช้า) อยู่ที่ -9.64 ต่ำกว่าเส้น signal ที่ -7.15 และ histogram ติดลบ -2.49 ส่วน RSI 14 ซึ่งเป็นมาตรวัดโมเมนตัม 0–100 (ต่ำกว่า 30 ถือว่า oversold หรือขายมากเกินไป) อยู่ที่ 26.38 ราคายืนอยู่เหนือขอบล่าง Bollinger Band ที่ 140.01 เพียงเล็กน้อย (แถบนี้บอกกรอบราคาปกติรอบค่าเฉลี่ย 20 วันที่ 171.82) แปลว่าแรงขายยืดไปมากแล้ว ราคาต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ 212.94 อยู่ 32.6% และอยู่ราว 35% ของช่วงนับจากจุดต่ำสุด 106.37 วอลุ่ม 36.6M สูงกว่าค่าเฉลี่ย 20 วันราว 1.46 เท่า และปิดใกล้จุดต่ำสุดของวันที่ 142.28 วอลุ่มหนาแบบนี้ยืนยันว่าแรงขายมีน้ำหนัก ภาวะ oversold อาจทำให้รีบาวด์สั้น ๆ ได้ แต่ยังไม่ใช่สัญญาณยืนยันว่าถึงจุดต่ำสุด แนวรับใกล้สุดคือ 140 (ขอบล่าง BB) แนวต้านแรกคือ 161.71 (EMA200)",
-               "fundamental":  "ธุรกิจยังเร่งตัว ไม่ได้อ่อนแรง งบ Q3 2026 (ประกาศ 2026-11-02) รายได้ 2.31B USD (+96% y/y) สูงกว่าที่ตลาดคาดราว 2.18B รายได้ US commercial 984M (+148%) แซงหน้า US government (953M) เป็นครั้งแรก adjusted operating margin อยู่ที่ 62% และ net dollar retention 165% หมายความว่าลูกค้าเดิมใช้จ่ายเพิ่มขึ้นมากเมื่อเทียบกับปีก่อน ข้อนี้สนับสนุนคูเมืองเรื่องต้นทุนการเปลี่ยนระบบโดยตรง บริษัทยังปรับเป้ารายได้ FY2026 ขึ้นเป็น 8.53B และ adjusted FCF เป็น 4.8–5.0B จุดที่ต้องจับตาคือมูลค่าสัญญารวม (TCV) โตแค่ 6% y/y และ RPO (รายได้ที่เซ็นสัญญาแล้วแต่ยังไม่รับรู้) ทรงตัวเมื่อเทียบไตรมาสก่อนที่ 4.9B ส่วนมูลค่าหุ้นยังแพงมาก ราว 51 เท่าของยอดขายย้อนหลัง (Trefis, 2026-11-06)",
-               "news":  [
-                            "2026-11-02: งบ Q3 ทั้งรายได้และ EPS (adjusted 0.44 USD) ออกมาดีกว่าคาด และบริษัทปรับเป้า FY2026 ขึ้นอีกครั้ง แต่หุ้นยังลงราว 5% ในวันที่ 2026-11-03 เพราะนักลงทุนกังวลเรื่องราคาแพง",
-                            "2026-11-03: Citi (265), Morgan Stanley (233), Piper Sandler (235) และ RBC (130, Underperform) ต่างปรับราคาเป้าหมายขึ้นโดยคงคำแนะนำเดิม ส่วน Phillip Securities ปรับเป้าขึ้นเป็น 248 เมื่อ 2026-11-16",
-                            "2026-11-05: PLTR ร่วง 9.7% โดยไม่มีข่าวจากบริษัท ท่ามกลางแรงเทขายหุ้น AI ทั้งกลุ่มที่ทำให้ Nasdaq ลง 5.5% ก่อนหน้านั้นหุ้นปิดลบติดต่อกัน 7 วันทำการ",
-                            "กลางเดือน พ.ย.: มีรายงานวิกฤตผู้บริหารที่ Nvidia รวมถึงการลาออกของ CEO Jensen Huang ทำให้ความกลัวในกลุ่ม AI รุนแรงขึ้น Palantir แทบไม่มีรายได้จากจีนและไม่ได้ปล่อยเงินให้ลูกค้าซื้อสินค้า ผลกระทบจึงอยู่ที่ sentiment มากกว่าตัวธุรกิจ",
-                            "2026-11-20: กระทรวงยุติธรรมสหรัฐฯ ตั้งข้อหาชาวรัสเซียรายหนึ่งว่าสอดแนมบริษัทเทคใน Silicon Valley ซึ่งแหล่งข่าวบอก Reuters ว่าคือ Palantir นอกจากนี้ CNBC รายงานว่าบัญชีที่เชื่อมโยงกับ Trump ซื้อหุ้น PLTR ก่อนบริษัทได้สัญญารัฐ แม้ไม่พบหลักฐานว่า Trump สั่งการเอง ทั้งสองเรื่องเป็นความเสี่ยงด้านข่าว ไม่ได้เปลี่ยนตัวธุรกิจ"
+               "caution":  "แม้ราคาจะย่อลงมาแล้ว 25.2% จากจุดสูงสุด $212.94 แต่ PLTR ยังซื้อขายที่ Forward P/E ราว 62x–85x ทำให้มีช่องว่างรับแรงกระแทกน้อยหากอัตราการเติบโตชะลอลง ยอดจองสัญญาใหม่รวม (TCV) ไตรมาส 3 โตเพียง 6% YoY ที่ $2.98 พันล้าน ขณะที่รายได้เอกชนนอกสหรัฐฯ โตจำกัดที่ 21% ($184 ล้าน) แรงต้านทางการเมืองในยุโรปจากกรณี NHS อังกฤษที่จะยุติสัญญาปี 2029 รวมถึงการขายหุ้นตามแผน $47.9 ล้านของ CTO (19 พ.ย.) และแนวต้านหนาแน่นช่วง $161.68–$174.55 ยังกดดันความผันผวนระยะสั้น",
+               "cons":  [
+                            "มูลค่าหุ้นยังตึงตัวที่ Forward P/E ราว 62x–85x ทำให้เปราะบางต่อการปรับลด Valuation ทุกครั้งที่กลุ่มเทคพักฐาน",
+                            "ยอดจองสัญญาใหม่รวม (TCV) ไตรมาส 3 โตเพียง 6% YoY ที่ $2.98 พันล้าน จุดกระแสกังวลเรื่องความเร็วในการปิดดีลใหม่หลังประกาศงบ",
+                            "รัฐบาลอังกฤษยืนยัน 16 พ.ย. ว่าจะยุติสัญญา NHS มูลค่า £330 ล้านในเดือน มี.ค. 2029 สะท้อนแรงต้านทางการเมืองในยุโรป",
+                            "ภาพเทคนิคยังเป็นขาลง โดยราคา ($159.36) ยังอยู่ใต้เส้น EMA 50, EMA 100 และ EMA 200 แม้จะรีบาวด์แรงวันที่ 23 พ.ย."
                         ],
-               "caution":  "แม้ลงมาแล้ว 33% PLTR ยังมีราคาที่สะท้อนความคาดหวังแทบสมบูรณ์แบบ คือราว 99 เท่าของกระแสเงินสดอิสระ และราว 51 เท่าของยอดขาย ถ้า sentiment กลุ่ม AI ยังแย่ลงต่อ หุ้น multiple สูงมักลงแรงที่สุด และ PLTR เองก็ลงแรงกว่าคู่แข่งในวันที่ 2026-11-05 สัญญาณยอดจองชะลอ (TCV +6%, RPO ทรงตัว) อาจทำให้นักลงทุนสายเติบโตกังวลถ้ายังต่อเนื่องใน Q4 ข่าวเกี่ยวกับรัฐบาล เช่น การตรวจสอบบันทึกสั่งซื้อแบบไม่ประมูลเมื่อ ส.ค. 2026 และรายงานเรื่องการซื้อหุ้นของบัญชีที่โยงกับ Trump เพิ่มความเสี่ยงทางการเมือง ภาพเทคนิคยังเป็นขาลงชัดเจนจนกว่าราคาจะกลับขึ้นเหนือ EMA200 ที่ 161.71",
-               "opportunity":  "การร่วงรอบนี้ดูมาจาก sentiment มากกว่าพื้นฐาน รายได้เกือบเพิ่มเป็นสองเท่า บริษัทปรับเป้าขึ้นเป็นครั้งที่สามในปี 2026 และ net dollar retention 165% แสดงว่าลูกค้าใช้ Foundry และ AIP ลึกขึ้นเรื่อย ๆ RSI 26.38 กับราคาที่ชิดขอบล่าง Bollinger Band บอกว่าหุ้นถูกขายมากเกินปกติในเชิงสถิติ ซึ่งในอดีตมักตามมาด้วยการรีบาวด์ นักวิเคราะห์ส่วนใหญ่ปรับราคาเป้าหมายขึ้นหลังงบ Q3 สำหรับนักลงทุนระยะยาว คูเมืองของบริษัท (ระบบที่ฝังลึกในองค์กรและต้นทุนการย้ายข้อมูล) ดูแข็งแรงขึ้นหลังไตรมาสนี้ ไม่ได้อ่อนลง",
+               "fundamental":  "ในห่วงโซ่มูลค่า AI นั้น Palantir วางตัวอยู่ในชั้นซอฟต์แวร์จัดการข้อมูลและปฏิบัติการระดับองค์กรที่มีอัตรากำไรสูง โดยเปลี่ยนข้อมูลดิบขององค์กรและกองทัพให้เป็นเวิร์กโฟลว์ AI จริงผ่าน Foundry, Gotham และ AIP งบ Q3 2026 วันที่ 2 พ.ย. ตอกย้ำภาพนี้ชัดเจน: รายได้รวมโต 96% YoY แตะ $2.313 พันล้าน รายได้เอกชนสหรัฐฯ พุ่ง 148% แตะ $984 ล้าน (แซงรายได้ภาครัฐสหรัฐฯ ที่ $953 ล้านเป็นครั้งแรก) กำไรสุทธิ GAAP อยู่ที่ $1.128 พันล้าน (มาร์จิ้น 49%) และมูลค่าสัญญาคงค้าง (RDV) โต 55% แตะ $13.4 พันล้าน พร้อมปรับเพิ่มเป้ารายได้ทั้งปีเป็น $8.530–$8.534 พันล้าน และ Q4 ที่ $2.649–$2.653 พันล้าน การร่วง 25% ในเดือน พ.ย. จึงเกิดจากการปรับลด Valuation และแรงเทขายตามกลุ่ม AI หลังข่าวซีอีโอ Nvidia ลาออกวันที่ 12 พ.ย. มากกว่าพื้นฐานเสื่อมถอย แม้แต่กรณี NHS อังกฤษที่ประกาศจะเปลี่ยนเจ้าในปี 2029 ยังต้องต่อสัญญาเพิ่มอีก 2 ปี ตอกย้ำต้นทุนการเปลี่ยนระบบ (switching cost) ที่สูงมาก",
+               "headline":  "PLTR รีบาวด์ 11% รับข่าวดีกลุ่ม AI งบ Q3 ทำสถิติแม้กราฟเทคนิคยังอ่อนแรง",
+               "news":  [
+                            "2 พ.ย. 2026: Palantir รายงานรายได้ Q3 2026 ที่ $2.313 พันล้าน (+96% YoY) กำไรต่อหุ้นปรับปรุง $0.44 และปรับเพิ่มเป้ารายได้ทั้งปีเป็น $8.530–$8.534 พันล้าน แต่หุ้นย่อตัวช่วงแรกจากความกังวลเรื่องยอดจองสัญญาที่โตชะลอ (6% YoY) และระดับราคาหุ้นที่แพง",
+                            "23 พ.ย. 2026: หุ้น PLTR พุ่ง 11.06% แตะ $159.36 ตามแรงรีบาวด์ทั้งกลุ่ม AI หลัง Nvidia ซึ่งเป็นพันธมิตรฮาร์ดแวร์ Sovereign AI แต่งตั้ง Jensen Huang กลับมารับตำแหน่ง CEO หลังลาออกไปเมื่อ 12 พ.ย. ขณะที่แบบรายงาน SEC วันเดียวกันเผยว่า CTO Shyam Sankar ขายหุ้น 300,000 หุ้น ($47.9 ล้าน) เมื่อ 19 พ.ย. ตามแผน 10b5-1 ที่ตั้งไว้ล่วงหน้า",
+                            "16 พ.ย. 2026: รัฐบาลอังกฤษขยายสัญญาแพลตฟอร์มข้อมูล NHS มูลค่า £330 ล้านกับ Palantir ออกไปอีก 2 ปีจนถึง มี.ค. 2029 เพื่อรักษาความต่อเนื่องของระบบ แต่ยืนยันจะเปิดประมูลใหม่ในปี 2027 เพื่อเปลี่ยนไปใช้ผู้พัฒนาในอังกฤษแทน",
+                            "3–4 พ.ย. 2026: ธนาคารชั้นนำในวอลล์สตรีทปรับเพิ่มราคาเป้าหมายหลังงบ Q3 เช่น Barclays ($273), Citigroup ($265), Truist ($250) และ Morgan Stanley ($233) จากแรงส่งของ AIP ท่ามกลางข้อถกเถียงเรื่องมูลค่าหุ้น",
+                            "21 ต.ค. – 5 พ.ย. 2026: Palantir ขยายการใช้งาน Sovereign AI และ AIP สู่ลูกค้ารายใหญ่ชุดใหม่ ได้แก่ L3Harris, Nvidia และ Tampa General Hospital (21 ต.ค.) พร้อมจับมือพันธมิตรระดับองค์กรกับ AmeriLife ในธุรกิจประกันและเกษียณอายุ (5 พ.ย.)"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI การเปลี่ยนผ่านของ Palantir จากผู้รับเหมาภาครัฐสู่ระบบปฏิบัติการ AI ภาคเอกชนกำลังเร่งตัวในระดับที่หาได้ยาก ลูกค้าเอกชนสหรัฐฯ เพิ่มขึ้น 29% YoY เป็น 686 ราย ขณะที่ Net Dollar Retention แตะ 165% สะท้อนการขยายงบของลูกค้าเดิมอย่างรวดเร็ว โครงการ Sovereign AI ร่วมกับพันธมิตรอย่าง Nvidia และ L3Harris เปิดตลาดองค์กรและกลาโหมระยะยาว โดยมีกระแสเงินสดอิสระคาดการณ์ปี 2026 สูงถึง $4.8–$5.0 พันล้าน ด้านเทคนิค วอลุ่มที่สูงกว่าค่าเฉลี่ยในวันที่ 23 พ.ย. บ่งชี้แรงสะสมใกล้กรอบล่าง $140 หากกลับไปยืนเหนือ $161.68 ได้",
+               "opportunityCheck":  "ภาพรวมคะแนนโอกาสทาง AI ของหน้าเว็บถือว่าสมเหตุสมผลส่วนใหญ่ แต่คะแนนด้านคอขวดและอำนาจการตั้งราคา (bottleneck \u0026 pricing power) ดูต่ำเกินจริงอย่างชัดเจน แม้ Palantir จะเป็นผู้ผลิตซอฟต์แวร์ไม่ใช่ชิปขาดตลาด แต่งบ Q3 2026 ทำอัตรากำไรจากการดำเนินงานปรับปรุงถึง 62%, Net Dollar Retention 165% และรายได้เฉลี่ยต่อรายจากลูกค้าท็อป 20 สูงถึง $146 ล้าน สะท้อนอำนาจตั้งราคาที่แข็งแกร่งมาก แม้แต่รัฐบาลอังกฤษที่วิจารณ์บริษัทยังต้องต่อสัญญา NHS เพิ่มอีก 2 ปีเพราะเปลี่ยนระบบไม่ได้ทันที จึงควรปรับคะแนนด้านนี้ขึ้นชัดเจนและขยับคะแนนตำแหน่งทางการตลาดขึ้นเล็กน้อย ส่วนโอกาสขยายต่างประเทศยังควรมองอย่างระมัดระวังเพราะรายได้เอกชนนอกสหรัฐฯ โตเพียง 21% YoY",
+               "pros":  [
+                            "รายได้ Q3 2026 พุ่ง 96% YoY แตะ $2.313 พันล้าน (ประกาศ 2 พ.ย.) นำโดยภาคเอกชนสหรัฐฯ ที่โต 148% แตะ $984 ล้าน",
+                            "อัตราการใช้จ่ายซ้ำของลูกค้าเดิม (Net Dollar Retention) เร่งตัวแตะ 165% พร้อมอัตรากำไรดำเนินงานปรับปรุง 62% และกระแสเงินสดอิสระปรับปรุง $1.216 พันล้านในไตรมาสเดียว",
+                            "ผู้บริหารปรับเพิ่มเป้าปี 2026 เป็นรายได้ $8.530–$8.534 พันล้าน และกระแสเงินสดอิสระปรับปรุง $4.8–$5.0 พันล้าน",
+                            "การขยายฐาน Sovereign AI และ AIP เดินหน้าต่อด้วยดีลองค์กรใหญ่ทั้ง L3Harris, Tampa General Hospital (21 ต.ค.) และ AmeriLife (5 พ.ย.)"
+                        ],
                "risks":  [
-                             "มูลค่าหุ้นถูกปรับลด: ที่ราว 51 เท่าของยอดขาย หุ้นอาจลงต่อได้แม้การเติบโตยังดี",
-                             "ยอดจองชะลอ: TCV +6% y/y และ RPO ทรงตัว อาจบ่งชี้ว่าการเติบโตจะช้าลงในปี 2027",
-                             "แรงกระเพื่อมในกลุ่ม AI จากวิกฤตผู้บริหาร Nvidia และแรงเทขายหุ้นที่ผูกกับการลงทุน AI",
-                             "ข่าวการเมืองและธรรมาภิบาล: การตรวจสอบสัญญาแบบไม่ประมูล รายงานการซื้อหุ้นที่โยงกับ Trump และการขายหุ้นของผู้บริหารตามแผน 10b5-1",
-                             "ภาพเทคนิคหลุด EMA200 พร้อมวอลุ่มสูง ถ้าปิดต่ำกว่าขอบล่าง BB ที่ 140 อาจเปิดทางให้ลงต่อ"
+                             "ความเสี่ยงด้าน Valuation: ที่ระดับ Forward P/E 62x–85x การขยับขึ้นของบอนด์ยีลด์หรือข่าวลบในกลุ่ม AI มักทำให้ราคาปรับฐานแรงกว่าตลาด",
+                             "การชะลอตัวของยอดจองสัญญา: มูลค่าสัญญาใหม่รวม (TCV) ไตรมาส 3 โตเพียง 6% YoY ($2.98 พันล้าน) ช้ากว่าการเติบโตของรายได้มาก",
+                             "แรงต้านทางการเมืองนอกสหรัฐฯ: กรณี NHS อังกฤษเตรียมยุติสัญญาในปี 2029 สะท้อนข้อจำกัดด้านอธิปไตยข้อมูลและความเป็นส่วนตัวในยุโรป",
+                             "ความผันผวนสูงตามกลุ่ม AI: ราคาหุ้น PLTR เคลื่อนไหวเชื่อมโยงกับหุ้นแกนหลักอย่าง Nvidia สูง ทำให้ผันผวนแรงจากปัจจัยนอกพื้นฐานบริษัท"
                          ],
-               "summary":  "PLTR อยู่ในขาลงทางเทคนิคที่ชัดเจน ปิดที่ 143.49 USD เมื่อ 2026-11-20 ต่ำกว่า EMA ทั้งสามเส้น MACD เป็นลบ RSI อยู่ในโซน oversold ที่ 26.38 และมีแรงขายด้วยวอลุ่มสูงกว่าปกติ 1.46 เท่า การร่วงจาก 212.94 มาจากความกลัวในกลุ่ม AI และความกังวลเรื่องราคาแพง ไม่ใช่เพราะผลประกอบการแย่ งบ Q3 รายได้โต 96% US commercial แซงฝั่งรัฐบาล และ net dollar retention 165% ยังสนับสนุนคูเมืองด้านต้นทุนการเปลี่ยนระบบ thesis ยังคงอยู่ แต่แนวโน้มระยะสั้นเป็นขาลง จับตาแนวรับใกล้ 140 และแนวต้าน 161.71"
+               "summary":  "Palantir (PLTR) พุ่ง 11.06% มาปิดที่ $159.36 ในวันที่ 23 พ.ย. 2026 รีบาวด์จากการปรับฐานของกลุ่ม AI หลังพันธมิตร Sovereign AI อย่าง Nvidia ดึงซีอีโอ Jensen Huang กลับมาคุมบังเหียน ด้านพื้นฐาน งบ Q3 2026 เมื่อ 2 พ.ย. แข็งแกร่งเกินคาด รายได้โต 96% YoY แตะ $2.313 พันล้าน เอกชนสหรัฐฯ พุ่ง 148% แตะ $984 ล้าน พร้อมปรับเป้ารายได้ทั้งปีเป็น $8.530–$8.534 พันล้าน อย่างไรก็ตาม หุ้นยังต่ำกว่าจุดสูงสุด $212.94 อยู่ 25.2% และอยู่ใต้เส้นค่าเฉลี่ยสำคัญ ท่ามกลางแรงกดดันจาก Valuation สูง ยอดจองสัญญาที่โตชะลอ (6% YoY) และแผนยุติสัญญา NHS อังกฤษปี 2029",
+               "technical":  "ภาพรวมทางเทคนิคของ PLTR ยังอยู่ในโซนขาลงแม้จะดีดตัวแรง +11.06% สู่ $159.36 ในวันที่ 23 พ.ย. (แกว่งในวัน $154.57–$161.19) ราคาปัจจุบันยังอยู่ใต้เส้นค่าเฉลี่ยเคลื่อนที่แบบถ่วงน้ำหนัก (EMA — เส้นวัดแนวโน้มราคา) ทั้งสามเส้น ได้แก่ EMA 50 ($174.55), EMA 100 ($170.06) และ EMA 200 ($161.68) แม้การเรียงตัวของ EMA 50 \u003e 100 \u003e 200 จะชี้ว่าแนวโน้มขาขึ้นระยะยาวยังไม่ตัดลง แต่การรีบาวด์ล่าสุดยังติดแนวต้านแรกที่ EMA 200 ($161.68) ด้านโมเมนตัมยังต้องระวัง โดย MACD (12/26/9 — ตัวชี้วัดแรงส่งแนวโน้ม) อยู่ที่ -9.13 ต่ำกว่าเส้น Signal (-7.55) ทำให้ Histogram ติดลบ -1.58 ส่วน RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100; ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นมาอยู่ที่ 41.71 ซึ่งยังต่ำกว่าแนวกลาง 50 เมื่อดู Bollinger Bands (20/2 — กรอบความผันผวน) ราคาอยู่ครึ่งล่างระหว่างกรอบล่าง $140.16 กับเส้นกลาง $169.85 และอยู่กึ่งกลางกรอบรอบ 52 สัปดาห์ ($106.37–$212.94) จุดบวกคือวอลุ่มวันที่ 23 พ.ย. อยู่ที่ 32.01 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (25.75 ล้านหุ้น) ถึง 24.3% สะท้อนแรงซื้อเก็งกำไรและรับของจริงบริเวณแนวรับ $140–$145 แต่ต้องยืนเหนือแนวต้าน $161.68 และ $170 ให้ได้จึงจะเริ่มล้างภาพขาลง"
            },
     "sources":  [
                     {
-                        "title":  "Palantir Technologies Inc. - Form 8-K Q3 2026 press release (Exhibit 99.1)",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001321655/000132165526000045/a2026q3ex991pressrelease.htm",
-                        "date":  "2026-11-02"
+                        "date":  "2026-11-02",
+                        "publisher":  "Palantir Investor Relations",
+                        "title":  "Palantir Reports Q3 2026 U.S. Comm Revenue Growth of 148% Y/Y and Revenue Growth of 96% Y/Y; Raises FY 2026 Revenue Guidance",
+                        "url":  "https://investors.palantir.com/news-events/press-releases/detail/132/palantir-reports-q3-2026-u-s-comm-revenue-growth-of-148"
                     },
                     {
-                        "title":  "Palantir Q3 FY 2026 Earnings: US Commercial Revenue Overtakes US Government",
-                        "publisher":  "Futurum Group",
-                        "url":  "https://futurumgroup.com/insights/palantir-q3-fy-2026-earnings-us-commercial-revenue-overtakes-us-government/",
-                        "date":  "2026-11"
+                        "date":  "2026-11-16",
+                        "publisher":  "The Guardian",
+                        "title":  "Ministers to end Palantir\u0027s contract with NHS in England in 2029",
+                        "url":  "https://www.theguardian.com/society/2026/nov/16/ministers-to-end-palantirs-contract-with-nhs-in-england-in-2029"
                     },
                     {
-                        "title":  "Palantir\u0027s 96% Revenue Growth Drives Analyst Optimism as Price Targets Rise",
-                        "publisher":  "24/7 Wall St.",
-                        "url":  "https://247wallst.com/investing/2026/11/03/palantirs-96-revenue-growth-drives-analyst-optimism-as-price-targets-rise/",
-                        "date":  "2026-11-03"
+                        "date":  "2026-11-23",
+                        "publisher":  "The Guardian",
+                        "title":  "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+                        "url":  "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-ceo-after-trump-intervenes"
                     },
                     {
-                        "title":  "Why Is Palantir Stock Falling?",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/pltr/articles/623359/why-is-palantir-stock-falling/2026-11-06",
-                        "date":  "2026-11-06"
+                        "date":  "2026-11-04",
+                        "publisher":  "Benzinga",
+                        "title":  "These Analysts Revise Their Forecasts On Palantir After Q3 Results",
+                        "url":  "https://www.benzinga.com/analyst-ratings/price-target/26/11/48625901/these-analysts-revise-their-forecasts-on-palantir-after-q3-results"
                     },
                     {
-                        "title":  "Why Does Palantir Stock Keep Going Down?",
-                        "publisher":  "The Motley Fool",
-                        "url":  "https://www.fool.com/investing/2026/11/16/why-does-palantir-stock-keep-going-down/",
-                        "date":  "2026-11-16"
+                        "date":  "2026-11-23",
+                        "publisher":  "Investing.com",
+                        "title":  "Palantir CTO Shyam Sankar sells $47.9M in PLTR shares",
+                        "url":  "https://www.investing.com/news/insider-trading-news/palantir-cto-shyam-sankar-sells-479m-in-pltr-shares-93CH-3382710"
                     },
                     {
-                        "title":  "Phillip Securities Raises Its Palantir Target to $248. Is It Still Too Low?",
-                        "publisher":  "TIKR",
-                        "url":  "https://www.tikr.com/blog/phillip-securities-raises-its-palantir-target-to-248-is-it-still-too-low",
-                        "date":  "2026-11-16"
+                        "date":  "2026-11-05",
+                        "publisher":  "AmeriLife",
+                        "title":  "AmeriLife and Palantir Announce Enterprise Partnership to Bring AI-Driven Transformation to Insurance and Retirement Distribution",
+                        "url":  "https://amerilife.com/amerilife-and-palantir-announce-enterprise-partnership-to-bring-ai-driven-transformation-to-insurance-and-retirement-distribution/"
                     },
                     {
-                        "title":  "Palantir Stock News: Spy Case, Trump Trades And AI Rout Put Shares Under Pressure",
-                        "publisher":  "Coinpedia",
-                        "url":  "https://coinpedia.org/crypto-live-news/palantir-stock-news-spy-case-trump-trades-and-ai-rout-put-shares-under-pressure",
-                        "date":  "2026-11-20"
+                        "date":  "2026-10-21",
+                        "publisher":  "Business Wire",
+                        "title":  "Palantir Accelerates Delivery of Sovereign AI to New Wave of Customers",
+                        "url":  "https://www.businesswire.com/news/home/20261021782963/en/"
                     }
                 ]
 }

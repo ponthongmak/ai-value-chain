@@ -5,134 +5,134 @@
     "model":  "gemini-4-neon-high",
     "effort":  "high",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T04:59:27Z",
+    "generatedAt":  "2026-11-24T05:03:52Z",
     "costUsd":  null,
     "stocks":  {
                    "CEG":  {
                                "m":  [
-                                         11,
                                          12,
+                                         11,
                                          6,
-                                         18,
+                                         17,
                                          12
                                      ],
                                "o":  [
-                                         12,
-                                         15,
+                                         11,
+                                         13,
                                          17,
-                                         18,
+                                         17,
                                          13
                                      ],
-                               "why_en":  "Unmatched US nuclear and post-Calpine fleet scale creates a prime AI baseload bottleneck, though commodity power economics and merchant cyclicality cap its broader moat.",
-                               "why_th":  "ขนาดโรงไฟฟ้านิวเคลียร์และก๊าซหลังควบรวม Calpine ที่ใหญ่สุดในสหรัฐฯ สร้างความได้เปรียบด้านคอขวดพลังงานสะอาดสำหรับ AI แต่ลักษณะธุรกิจไฟฟ้าสินค้าโภคภัณฑ์ยังจำกัดความแข็งแกร่งของป้อมปราการโดยรวม"
+                               "why_en":  "Irreplaceable 22 GW nuclear scale and Calpine gas assets create scarce 24/7 AI power leverage, though merchant cyclicality and minimal network effects limit moat breadth.",
+                               "why_th":  "กองโรงไฟฟ้านิวเคลียร์ 22 GW ที่ทดแทนไม่ได้และโรงไฟฟ้าก๊าซจาก Calpine สร้างอำนาจต่อรองสูงต่อดีมานด์ไฟฟ้า 24/7 ของ AI แต่ความผันผวนแบบตลาดเสรีและผลกระทบเครือข่ายที่ต่ำจำกัดความกว้างของคูเมือง"
                            },
                    "ETN":  {
                                "m":  [
                                          13,
-                                         15,
+                                         14,
                                          11,
-                                         15,
+                                         16,
                                          16
                                      ],
                                "o":  [
                                          13,
-                                         17,
+                                         16,
                                          16,
                                          15,
                                          14
                                      ],
-                               "why_en":  "Durable electrical scale, switching costs, and Boyd Thermal plus Fibrebond acquisitions strengthen grid-to-chip AI positioning, though non-AI industrial and aerospace segments dilute pure AI exposure.",
-                               "why_th":  "ความแข็งแกร่งของธุรกิจระบบไฟฟ้า ต้นทุนการเปลี่ยนผู้ขายสูง และการเข้าซื้อ Boyd Thermal กับ Fibrebond ช่วยเสริมโอกาส AI แบบครบวงจร แม้ธุรกิจอุตสาหกรรมและอากาศยานที่ไม่ใช่ AI จะถ่วงสัดส่วนรายได้ AI ลงบ้าง"
+                               "why_en":  "Durable electrical scale, sticky utility and data-center channels, and the Boyd Thermal liquid-cooling deal drive strong AI growth, partially diluted by non-AI industrial segments.",
+                               "why_th":  "ขนาดธุรกิจไฟฟ้าที่มั่นคง ช่องทางลูกค้าสาธารณูปโภคและดาต้าเซ็นเตอร์ที่เหนียวแน่น และการเข้าซื้อ Boyd Thermal ด้านระบายความร้อนด้วยของเหลวหนุนโอกาส AI แข็งแกร่ง แม้ยังมีสัดส่วนธุรกิจอุตสาหกรรมอื่นปนอยู่"
                            },
                    "FPS":  {
                                "m":  [
                                          8,
-                                         10,
-                                         6,
-                                         7,
-                                         6
+                                         9,
+                                         5,
+                                         8,
+                                         7
                                      ],
                                "o":  [
+                                         14,
                                          15,
-                                         16,
+                                         10,
                                          11,
-                                         12,
-                                         10
+                                         9
                                      ],
-                               "why_en":  "High data-center mix and fast custom-switchgear growth drive solid near-term AI demand, but small scale, limited IP, and an untested track record yield a weak moat.",
-                               "why_th":  "สัดส่วนรายได้ดาต้าเซ็นเตอร์สูงและการเติบโตเร็วของสวิตช์เกียร์สั่งทำพิเศษหนุนโอกาส AI ระยะสั้นได้ดี แต่ขนาดธุรกิจที่เล็ก เทคโนโลยีเฉพาะตัวจำกัด และประวัติผลงานสั้นทำให้ป้อมปราการยังอ่อนแอ"
+                               "why_en":  "High data-center exposure and custom lead-time speed fuel rapid AI backlog growth, but small scale, limited IP, and a brief post-IPO track record leave its moat unproven.",
+                               "why_th":  "สัดส่วนรายได้ดาต้าเซ็นเตอร์สูงและความเร็วในการส่งมอบอุปกรณ์สั่งทำพิเศษหนุนแบ็กล็อก AI โตแรง แต่ขนาดธุรกิจยังเล็ก ทรัพย์สินทางปัญญาจำกัด และประวัติหลัง IPO สั้นทำให้คูเมืองยังไม่พิสูจน์"
                            },
                    "GEV":  {
                                "m":  [
-                                         17,
                                          16,
-                                         9,
+                                         16,
+                                         10,
                                          16,
                                          10
                                      ],
                                "o":  [
                                          12,
-                                         16,
+                                         15,
                                          17,
                                          18,
-                                         16
+                                         15
                                      ],
-                               "why_en":  "Triopoly gas-turbine IP, long-term service lock-in, and Prolec GE grid bottlenecks fuel massive AI upside and SMR optionality, tempered by still-maturing consolidated margins.",
-                               "why_th":  "เทคโนโลยีเทอร์ไบน์ก๊าซระดับผู้เล่นสามรายใหญ่ สัญญาบริการระยะยาว และคอขวดอุปกรณ์กริดจาก Prolec GE สร้างโอกาส AI และ SMR มหาศาล แม้ความสม่ำเสมอของอัตรากำไรรวมยังอยู่ระหว่างการพิสูจน์"
+                               "why_en":  "Oligopolistic gas-turbine IP, long service lock-in, and sold-out multi-year slots create elite AI power bottlenecks, while persistent wind losses weigh on standalone margin durability.",
+                               "why_th":  "เทคโนโลยีเทอร์ไบน์ก๊าซแบบผู้ขายน้อยราย สัญญาบริการระยะยาว และคิวผลิตที่เต็มหลายปีสร้างคอขวดไฟฟ้า AI ระดับสูง แต่การขาดทุนของธุรกิจพลังงานลมยังกดดันความสม่ำเสมอของอัตรากำไร"
                            },
                    "SU":  {
                               "m":  [
                                         14,
-                                        16,
-                                        13,
+                                        15,
+                                        12,
                                         16,
                                         17
                                     ],
                               "o":  [
                                         13,
-                                        17,
+                                        16,
                                         16,
                                         14,
-                                        15
+                                        14
                                     ],
-                              "why_en":  "Industry-leading margin durability, global electrical scale, and AVEVA software lock-in build the sector\u0027s widest moat, while Motivair liquid cooling captures strong AI growth despite broader industrial dilution.",
-                              "why_th":  "ความเสถียรของอัตรากำไรระดับผู้นำ ขนาดธุรกิจไฟฟ้าทั่วโลก และซอฟต์แวร์ AVEVA สร้างป้อมปราการที่กว้างที่สุดในกลุ่ม ขณะที่ระบบระบายความร้อนด้วยของเหลว Motivair ช่วยรับโอกาส AI ได้ดีแม้มีสัดส่วนธุรกิจอุตสาหกรรมอื่นปนอยู่"
+                              "why_en":  "Best-in-class margin durability, global electrical scale, and EcoStruxure software anchor the sector\u0027s broadest moat, with Motivair liquid cooling driving solid AI growth alongside diversified non-AI operations.",
+                              "why_th":  "ความสม่ำเสมอของอัตรากำไรระดับแนวหน้า ขนาดธุรกิจไฟฟ้าระดับโลก และซอฟต์แวร์ EcoStruxure สร้างคูเมืองที่กว้างที่สุดในกลุ่ม ขณะที่ Motivair หนุนโอกาส AI ได้ดีท่ามกลางธุรกิจที่หลากหลาย"
                           },
                    "VRT":  {
                                "m":  [
                                          14,
-                                         15,
+                                         14,
                                          11,
-                                         13,
+                                         14,
                                          12
                                      ],
                                "o":  [
-                                         18,
-                                         18,
+                                         17,
+                                         17,
                                          17,
                                          15,
-                                         14
+                                         13
                                      ],
-                               "why_en":  "Around 80% data-center exposure, leading liquid-cooling position, and Nvidia co-design deliver top AI opportunity, though shorter margin history and intensifying rival investments moderate long-term moat durability.",
-                               "why_th":  "สัดส่วนรายได้ดาต้าเซ็นเตอร์ราว 80% ความเป็นผู้นำระบบระบายความร้อนด้วยของเหลว และการออกแบบร่วมกับ Nvidia สร้างโอกาส AI สูงสุดในกลุ่ม แม้ประวัติอัตรากำไรสูงยังสั้นและการแข่งขันที่เพิ่มขึ้นจะจำกัดความยั่งยืนของป้อมปราการ"
+                               "why_en":  "Pure-play data-center focus, #1 thermal and UPS share, and NVIDIA liquid-cooling integration deliver top AI upside, though its high-margin track record is shorter than larger peers.",
+                               "why_th":  "การโฟกัสดาต้าเซ็นเตอร์เต็มตัว ส่วนแบ่งอันดับหนึ่งด้านระบบความร้อนและ UPS รวมถึงการพัฒนาการระบายความร้อนด้วยของเหลวร่วมกับ NVIDIA มอบโอกาส AI สูงสุด แม้ประวัติอัตรากำไรสูงจะสั้นกว่าคู่แข่งรายใหญ่"
                            },
                    "VST":  {
                                "m":  [
                                          9,
-                                         10,
-                                         6,
+                                         9,
+                                         5,
                                          15,
-                                         9
+                                         10
                                      ],
                                "o":  [
                                          11,
-                                         15,
+                                         13,
                                          14,
                                          15,
                                          12
                                      ],
-                               "why_en":  "Scaled ERCOT and PJM nuclear-gas assets with major AWS and Meta PPAs offer solid AI power leverage, but merchant earnings volatility and retail commodity exposure limit its moat.",
-                               "why_th":  "กำลังผลิตนิวเคลียร์และก๊าซขนาดใหญ่ในตลาด ERCOT และ PJM พร้อมสัญญาขายไฟกับ AWS และ Meta สร้างโอกาสจาก AI ได้ดี แต่ความผันผวนของกำไรโรงไฟฟ้าเสรีและธุรกิจค้าปลีกไฟฟ้าจำกัดความแข็งแกร่งของป้อมปราการ"
+                               "why_en":  "Large ERCOT and PJM gas-and-nuclear capacity wins major hyperscaler PPAs from grid scarcity, but commodity power cyclicality and smaller nuclear scale yield a narrower moat than Constellation.",
+                               "why_th":  "กำลังการผลิตก๊าซและนิวเคลียร์ขนาดใหญ่ในตลาด ERCOT และ PJM ช่วยคว้าสัญญา PPA จากไฮเปอร์สเกลเลอร์ท่ามกลางภาวะไฟฟ้าตึงตัว แต่วงจรราคาไฟฟ้าเสรีและสัดส่วนนิวเคลียร์ที่เล็กกว่าทำให้คูเมืองแคบกว่า Constellation"
                            }
                }
 }

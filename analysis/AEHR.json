@@ -2,46 +2,45 @@
     "ticker":  "AEHR",
     "name":  "Aehr Test Systems",
     "symbol":  "NASDAQ:AEHR",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:03:55Z",
-    "costUsd":  0.597425,
+    "generatedAt":  "2026-11-24T04:22:11Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "intact",
     "indicators":  {
                        "symbol":  "NASDAQ:AEHR",
                        "yahoo":  "AEHR",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:01:54Z",
-                       "price":  39.84,
-                       "open":  45.88,
-                       "high":  45.95,
-                       "low":  39.3,
-                       "volume":  3870000,
-                       "avgVolume20":  3008360,
-                       "changePct":  -16.9,
-                       "ema50":  68.39,
-                       "ema100":  75.39,
-                       "ema200":  70.94,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:17:43Z",
+                       "price":  48.51,
+                       "open":  48.37,
+                       "high":  49.87,
+                       "low":  46.5,
+                       "volume":  3017200,
+                       "avgVolume20":  3071870,
+                       "changePct":  21.76,
+                       "historyDays":  500,
+                       "ema50":  67.61,
+                       "ema100":  74.86,
+                       "ema200":  70.71,
                        "bb":  {
-                                  "upper":  69.74,
-                                  "middle":  56.12,
-                                  "lower":  42.51
+                                  "upper":  69.73,
+                                  "middle":  55.72,
+                                  "lower":  41.71
                               },
                        "macd":  {
-                                    "macd":  -6.93,
-                                    "signal":  -6.38,
-                                    "hist":  -0.55
+                                    "macd":  -6.73,
+                                    "signal":  -6.45,
+                                    "hist":  -0.28
                                 },
-                       "rsi14":  32.59,
+                       "rsi14":  41.44,
                        "high52w":  147.4,
                        "low52w":  18.7,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         114.59
-                                     ],
                                      [
                                          "2026-06-04",
                                          116.58
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          39.84
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         48.51
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          82.51,
                                           83.84,
                                           84.42,
                                           84.85,
@@ -639,93 +641,130 @@
                                           71.29,
                                           70.44,
                                           69.55,
-                                          68.39
+                                          68.39,
+                                          67.61
                                       ]
                    },
     "en":  {
-               "headline":  "Record quarter, but AEHR falls 16.9% in a chip sell-off and breaks its lower band",
-               "technical":  "The trend is clearly down. AEHR closed at 39.84 USD on 2026-11-20, below all three exponential moving averages (EMAs, smoothed average prices): EMA50 at 68.39, EMA100 at 75.39 and EMA200 at 70.94. The 50-day line has fallen under both longer lines, which shows a strong uptrend that has rolled over. MACD (a trend-momentum gauge) is -6.93, below its signal line at -6.38, with a negative histogram (-0.55), so downside momentum is still building. RSI 14 (a 0–100 momentum gauge where under 30 means oversold) is 32.59, close to oversold but not there yet. Price closed below the lower Bollinger Band (42.51; the bands track normal price swings around the 20-day average of 56.12). That marks an unusually stretched move, and these often see a short bounce, but they can also keep \u0027walking the band\u0027 lower. Volume of 3.87M was about 1.29x the 20-day average, which confirms real selling. The stock is about 73% below its 52-week high of 147.4 and sits in the bottom sixth of its range, above the 18.7 low. The day\u0027s low of 39.3 is the nearest support, and 42.5–45.9 is the first resistance zone.",
-               "fundamental":  "The business is going the opposite way to the share price. On 2026-11-02 Aehr reported record Q1 FY2027 revenue of $33.0M, up 200% year on year. Bookings were $46.7M and backlog was $100.9M ($109.3M effective as of Nov 1). Non-GAAP EPS was $0.28. The company raised its FY2027 revenue guidance to $150M, about triple FY2026, with non-GAAP net income of at least 20% of revenue. On AI, its lead hyperscale customer qualified a second AI processor on Sonoma package-level burn-in, and that customer expects a larger ramp in calendar 2027. A major AI accelerator and CPU supplier bought a full FOX-XP wafer-level test cell for evaluation in Taiwan. The weak spots are cash, which fell to $105.1M from $116.5M, inventory, which rose to $53.1M, and continued reliance on a few customers.",
-               "news":  [
-                            "2026-10-07: Aehr announced about $6M in follow-on Sonoma orders from its lead hyperscale customer for a next-generation AI processor, with production expected to ramp in calendar 2027.",
-                            "2026-11-02: Q1 FY2027 revenue hit a record $33.0M (+200% YoY), backlog reached $100.9M, and FY2027 guidance was raised to $150M. Consensus comparisons differ by source: one says revenue beat, another says it missed a ~$37.7M estimate.",
-                            "Around 2026-11-05: the stock fell about 17% from $60.84 after Jefferies cut its target from $175 to $140 and Lake Street from $110 to $90. Both kept Buy ratings.",
-                            "2026-11-20: shares fell 16.9% to 39.84 with no company-specific news. The move was part of a broad semiconductor sell-off that also hit Micron, AMD and Onto Innovation. AEHR\u0027s beta is roughly 3.4, meaning it typically moves about three times as much as the market."
+               "caution":  "Extreme share-price volatility—swinging from USD 147.40 in August 2026 down to USD 39.84 on November 20 and back to USD 48.51 on November 23—reflects both high valuation sensitivity and small-cap beta risk. Even after a 67% drawdown, AEHR trades near 10.5x FY2027 sales guidance. Because a single lead hyperscaler drives much of the current Sonoma ramp, any pause in AI capex, qualification delay at Taiwan OSAT sites, or gross-margin mix shift could trigger sharp repricing.",
+               "cons":  [
+                            "Revenue remains heavily concentrated in a lead hyperscale AI customer, leaving quarterly results exposed to lumpy order timing or forecast shifts.",
+                            "Shares sit 67% below August 2026\u0027s USD 147.40 peak and 28%–35% under the 50-, 100-, and 200-day EMAs, confirming a steep bearish trend.",
+                            "The November 23 bounce of 21.76% occurred on slightly below-average volume (3.02 million vs. 3.07 million 20-day average), lacking strong institutional confirmation.",
+                            "Following Q1 earnings, Jefferies (USD 175 to USD 140) and Lake Street (USD 110 to USD 90) trimmed price targets on November 3 amid sector valuation compression.",
+                            "Even at USD 48.51 (roughly USD 1.6 billion market cap), AEHR trades near 10.5x FY2027 sales guidance, leaving little room for execution or margin slips."
                         ],
-               "caution":  "AEHR is a very high-beta stock (beta about 3.4) and has lost about 73% from its 52-week high, even as fundamentals improved. That tells you sentiment and sector flows, not quarterly results, are setting the price right now. A large share of revenue still depends on one hyperscaler and one wafer-level AI customer, and customer forecasts are non-binding. The FOX-XP production decision from the new AI processor supplier is not expected until several months after installation in early 2027. Any delay or loss there would hit expectations hard. Inventory growth and cash burn also need watching.",
-               "opportunity":  "The company is delivering: revenue tripled year on year, guidance went up, and there is a $100M+ backlog to support it. The stock trades at 39.84 USD on 2026-11-20, near the low end of its range, while RSI is close to oversold and price sits below the lower Bollinger Band. If the semiconductor sell-off eases, a stretched move like this can mean-revert toward the 20-day average of 56.12. Longer term, the potential FOX-XP win and the hyperscaler\u0027s second AI processor ramp in 2027 could widen the customer base beyond the current concentration.",
+               "fundamental":  "Aehr Test Systems provides specialized wafer-level (FOX) and package-level (Sonoma) burn-in systems that stress-test high-power semiconductors to catch early failures before data-center deployment. As AI processors grow hotter and costlier, burn-in has shifted from a niche reliability check to a critical AI supply-chain step. On November 2, 2026, Aehr reported Q1 FY2027 (ended September 25) revenue of USD 33.0 million (+200% YoY, +75% QoQ), GAAP net income of USD 7.2 million (USD 0.21 EPS), non-GAAP EPS of USD 0.28, and 48.5% non-GAAP gross margin, alongside USD 105.1 million in cash. Bookings hit USD 46.7 million (1.4x book-to-bill), lifting effective backlog to USD 109.3 million and prompting a FY2027 revenue outlook raise to USD 150 million (triple FY2026\u0027s USD 50.0 million) with at least 20% non-GAAP net margin.",
+               "headline":  "AI Orders Triple Outlook, Yet Steep Downtrend Leaves Rebound Unconfirmed",
+               "news":  [
+                            "On November 2, 2026, Aehr reported record Q1 FY2027 revenue of USD 33.0 million (+200% YoY) and non-GAAP EPS of USD 0.28, raising full-year FY2027 revenue guidance to USD 150 million on surging AI processor burn-in demand. Quarterly bookings reached USD 46.7 million, pushing effective backlog to USD 109.3 million as of November 1.",
+                            "On November 3, 2026, Jefferies lowered its price target from USD 175 to USD 140 and Lake Street cut from USD 110 to USD 90 while maintaining Buy ratings, and Oppenheimer reiterated Outperform at USD 120, reflecting sector multiple compression despite the earnings beat.",
+                            "On October 29, 2026, Aehr appointed former Meta infrastructure executive Vijay Rao to its Board of Directors, adding hyperscale AI data-center expertise as the company expands Sonoma production via a Southeast Asia contract manufacturer.",
+                            "On November 20 and November 23, 2026, AEHR plunged nearly 17% to USD 39.84 during a broad tech selloff before rebounding 21.76% to USD 48.51 in a chip-sector relief rally, with no new company-specific announcements behind either move.",
+                            "Earlier on October 7, 2026, Aehr announced roughly USD 6 million in follow-on Sonoma production orders from its lead hyperscale customer for a second-generation AI processor deploying at a Taiwan OSAT partner ahead of a calendar 2027 ramp."
+                        ],
+               "opportunity":  "The divergence between AEHR\u0027s 67% stock pullback and its tripling revenue outlook creates a cleaner fundamental backdrop than August\u0027s euphoria. Effective backlog of USD 109.3 million already covers over 70% of the USD 150 million FY2027 revenue target, improving near-term visibility. Expanding Southeast Asia capacity (20+ Sonoma systems monthly), a second-generation hyperscaler AI chip win, a Taiwan OSAT FOX-XP wafer-level evaluation for calendar 2027, and a pipeline exceeding a dozen prospective AI, silicon photonics, and SiC customers offer multi-year diversification.",
+               "opportunityCheck":  "The page\u0027s AI-opportunity profile understates Aehr\u0027s current AI revenue exposure and warrants an upward revision. With Q1 FY2027 revenue tripling year-over-year to USD 33.0 million and FY2027 guidance raised to USD 150 million primarily on hyperscale AI processor burn-in demand, AI is now the core growth engine rather than a secondary contributor. Market growth also merits a modest nudge higher as high-power AI chips adopt package- and wafer-level burn-in. However, keeping position and bottleneck-pricing power conservative remains appropriate given heavy reliance on one lead hyperscaler and potential test-equipment competition, while optionality looks fair.",
+               "pros":  [
+                            "Q1 FY2027 revenue jumped 200% YoY to a record USD 33.0 million on November 2, 2026, with non-GAAP EPS of USD 0.28 and 48.5% non-GAAP gross margin.",
+                            "Management raised full-year FY2027 revenue guidance to USD 150 million (triple FY2026) backed by USD 46.7 million in Q1 bookings and USD 109.3 million in effective backlog.",
+                            "Sonoma burn-in systems are shipping at over a dozen units monthly for a lead hyperscaler\u0027s AI chip, with USD 6 million in follow-on orders for its next-generation processor.",
+                            "Southeast Asia contract manufacturing adds capacity for 20+ Sonoma systems monthly, while former Meta infrastructure VP Vijay Rao joined the board on October 29, 2026.",
+                            "A USD 105.1 million cash balance as of September 25, 2026 supports scaling across AI processors, silicon photonics, and wafer-level FOX-XP evaluations."
+                        ],
                "risks":  [
-                             "Customer concentration: one hyperscaler and one wafer-level AI customer drive most of the AI revenue.",
-                             "The FOX-XP evaluation may not convert into a high-volume production order.",
-                             "Extreme volatility (beta about 3.4) and sector-wide semiconductor sell-offs.",
-                             "Inventory rose to $53.1M and cash fell to $105.1M, so execution risk is rising.",
-                             "Silicon-carbide demand remains weak, and the company has exposure to Taiwan and geopolitics."
+                             "Severe customer concentration: heavy reliance on one lead hyperscale AI customer means order pauses or program changes could sharply reduce revenue.",
+                             "Valuation and high-beta volatility: trading near 10.5x forward revenue guidance exposes shares to double-digit daily swings during tech risk-off episodes.",
+                             "Execution and margin mix: scaling Southeast Asia contract manufacturing and shifting product mix between Sonoma systems and wafer-level contactors could pressure gross margins.",
+                             "Competitive and technology shifts: larger automated test equipment (ATE) peers could target high-power AI burn-in, or chipmakers could redesign test flows to reduce burn-in intensity."
                          ],
-               "summary":  "AEHR\u0027s chart is bearish. Price is below all three EMAs, MACD is negative, and the stock closed below the lower Bollinger Band on above-average volume after a 16.9% drop on 2026-11-20. The news does not explain the selling: the 2026-11-02 quarter set a record and guidance went up. The decline reflects analyst target cuts and a sector-wide chip sell-off on a high-beta stock. The niche-burn-in moat thesis is intact, and its AI customer pipeline is widening. The key test is whether the FOX-XP evaluation turns into production orders in 2027."
+               "summary":  "Aehr Test Systems (AEHR) surged 21.76% to USD 48.51 on November 23, 2026 in a broad semiconductor relief rally, days after plunging nearly 17% during a tech selloff. Fundamentally, the AI burn-in thesis strengthened: on November 2, Aehr reported record Q1 FY2027 revenue of USD 33.0 million (+200% YoY), USD 109.3 million in effective backlog, and raised FY2027 revenue guidance to USD 150 million. Yet shares remain 67% below August\u0027s USD 147.40 high and well under key moving averages, signaling valuation compression and a bearish technical posture despite intact long-term momentum.",
+               "technical":  "AEHR closed at USD 48.51 on November 23, 2026 (+21.76%), yet the overall technical structure remains bearish across 500 trading days of history. Price sits well beneath all three exponential moving averages (EMAs, which track average trend direction): 28% below EMA 50 (USD 67.61), 35% below EMA 100 (USD 74.86), and 31% below EMA 200 (USD 70.71). EMA 50 has fallen under EMA 200, confirming a bearish medium-term trend. Momentum is weak but stabilizing: MACD (12/26/9, a trend-momentum gauge) stands at -6.73 below its -6.45 signal line, though the small -0.28 histogram shows selling pressure easing. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) recovered to 41.44—still below the neutral 50 midpoint. Within Bollinger Bands (20/2, a volatility channel around the 20-day average), price rebounded back inside the lower half between the USD 41.71 lower band and USD 55.72 middle band, sitting in the bottom 23% of its USD 18.70–147.40 52-week range. Volume of 3.02 million shares trailed the 3.07 million 20-day average, showing limited breakout conviction. Key support sits near USD 41.71 and USD 39.84, with resistance at USD 55.72 and the USD 67.61–70.71 EMA zone."
            },
     "th":  {
-               "headline":  "ผลงานทำสถิติใหม่ แต่ AEHR ร่วง 16.9% ตามกลุ่มชิป หลุดกรอบล่าง BB",
-               "technical":  "แนวโน้มเป็นขาลงชัดเจน ราคาปิดวันที่ 20 พ.ย. 2026 ที่ 39.84 USD ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA หรือราคาเฉลี่ยที่ถ่วงน้ำหนักราคาล่าสุด) ทั้งสามเส้น คือ EMA50 ที่ 68.39, EMA100 ที่ 75.39 และ EMA200 ที่ 70.94 เส้น EMA50 หักลงมาอยู่ใต้เส้นระยะยาวทั้งสองแล้ว แปลว่าขาขึ้นแรงก่อนหน้านี้กลับตัวลง MACD (ตัววัดโมเมนตัมของเทรนด์) อยู่ที่ -6.93 ต่ำกว่าเส้นสัญญาณที่ -6.38 และฮิสโตแกรมติดลบ -0.55 โมเมนตัมขาลงจึงยังไม่จบ RSI 14 (มาตรวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 32.59 ใกล้โซน oversold แต่ยังไม่ถึง ราคาปิดต่ำกว่าเส้นล่างของ Bollinger Band (42.51 ส่วนเส้นกลางคือค่าเฉลี่ย 20 วันที่ 56.12) ถือว่ายืดตัวผิดปกติ บ่อยครั้งจะเด้งสั้นๆ แต่ก็อาจไหลเกาะขอบล่างลงต่อได้ วอลุ่ม 3.87 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันราว 1.29 เท่า ยืนยันว่าแรงขายเป็นของจริง ราคาต่ำกว่าจุดสูงสุด 52 สัปดาห์ (147.4) ราว 73% และอยู่ช่วงล่างสุดของกรอบ เหนือจุดต่ำ 18.7 แนวรับใกล้สุดคือ 39.3 (low ของวัน) ส่วนแนวต้านแรกอยู่ช่วง 42.5–45.9",
-               "fundamental":  "ธุรกิจกำลังเดินสวนทางกับราคาหุ้น วันที่ 2 พ.ย. 2026 Aehr รายงานรายได้ Q1 FY2027 ทำสถิติใหม่ที่ 33.0 ล้านดอลลาร์ โต 200% จากปีก่อน ยอดสั่งซื้อใหม่ 46.7 ล้าน backlog 100.9 ล้าน (รวมออร์เดอร์หลังปิดไตรมาสเป็น 109.3 ล้าน ณ 1 พ.ย.) EPS non-GAAP อยู่ที่ 0.28 ดอลลาร์ บริษัทปรับเป้ารายได้ FY2027 ขึ้นเป็น 150 ล้าน หรือราว 3 เท่าของปีก่อน และคาดกำไรสุทธิ non-GAAP ไม่ต่ำกว่า 20% ของรายได้ ฝั่ง AI ลูกค้า hyperscaler รายหลักผ่านการรับรองชิป AI ตัวที่สองบนระบบ Sonoma (burn-in ระดับแพ็กเกจ) และคาดว่าจะผลิตจำนวนมากกว่าเดิมในปี 2027 ส่วนผู้ผลิตชิป AI accelerator และ CPU รายใหญ่ซื้อ FOX-XP (burn-in ระดับเวเฟอร์) ครบชุดไปทดสอบที่ไต้หวัน จุดอ่อนคือเงินสดลดจาก 116.5 เหลือ 105.1 ล้าน สินค้าคงคลังเพิ่มเป็น 53.1 ล้าน และยังพึ่งลูกค้าไม่กี่ราย",
-               "news":  [
-                            "7 ต.ค. 2026: Aehr ได้ออร์เดอร์ Sonoma เพิ่มราว 6 ล้านดอลลาร์จากลูกค้า hyperscaler รายหลัก สำหรับชิป AI รุ่นถัดไป คาดเริ่มผลิตจำนวนมากในปี 2027",
-                            "2 พ.ย. 2026: รายได้ Q1 FY2027 ทำสถิติ 33.0 ล้านดอลลาร์ (+200% YoY) backlog 100.9 ล้าน และปรับเป้ารายได้ทั้งปีขึ้นเป็น 150 ล้าน แต่การเทียบกับประมาณการตลาดไม่ตรงกัน บางแหล่งว่าชนะ บางแหล่งว่าต่ำกว่าคาดราว 37.7 ล้าน",
-                            "ราว 5 พ.ย. 2026: หุ้นร่วงราว 17% จาก 60.84 ดอลลาร์ หลัง Jefferies ลดราคาเป้าจาก 175 เหลือ 140 และ Lake Street ลดจาก 110 เหลือ 90 ดอลลาร์ ทั้งสองยังให้คำแนะนำ Buy",
-                            "20 พ.ย. 2026: หุ้นดิ่ง 16.9% เหลือ 39.84 โดยไม่มีข่าวเฉพาะของบริษัท เป็นการขายทั้งกลุ่มเซมิคอนดักเตอร์ ซึ่งฉุด Micron, AMD และ Onto Innovation ลงแรงด้วย ค่า beta ของ AEHR ราว 3.4 หมายถึงปกติแกว่งแรงกว่าตลาดราว 3 เท่า"
+               "caution":  "ความผันผวนของราคาหุ้นรุนแรงมาก โดยร่วงจาก USD 147.40 ในเดือนสิงหาคม 2026 ลงมาที่ USD 39.84 เมื่อ 20 พฤศจิกายน ก่อนดีดกลับเป็น USD 48.51 ในวันที่ 23 พฤศจิกายน สะท้อนความเป็นหุ้นขนาดกลาง-เล็กที่อ่อนไหวต่อมูลค่าและบรรยากาศตลาด แม้ปรับฐานลง 67% แล้ว แต่ AEHR ยังซื้อขายราว 10.5 เท่าของเป้ายอดขาย FY2027 และพึ่งพาลูกค้า Hyperscaler หลักสูง หากการลงทุน AI ชะลอ การรับรองที่ OSAT ไต้หวันล่าช้า หรือสัดส่วนสินค้ากดดันอัตรากำไรขั้นต้น ราคาอาจถูกปรับลดมูลค่าลงแรงอีกได้",
+               "cons":  [
+                            "รายได้ยังกระจุกตัวสูงกับลูกค้า Hyperscaler ด้าน AI รายหลัก ทำให้ผลประกอบการรายไตรมาสเสี่ยงผันผวนตามรอบคำสั่งซื้อและการปรับแผนของลูกค้ารายใหญ่",
+                            "ราคาหุ้นยังต่ำกว่าจุดสูงสุด USD 147.40 ในเดือนสิงหาคม 2026 ถึง 67% และอยู่ใต้เส้น EMA 50/100/200 ราว 28%–35% สะท้อนแนวโน้มขาลงที่ยังไม่จบ",
+                            "การดีดตัว +21.76% เมื่อ 23 พฤศจิกายน เกิดขึ้นด้วยปริมาณซื้อขาย 3.02 ล้านหุ้น ซึ่งต่ำกว่าค่าเฉลี่ย 20 วัน (3.07 ล้านหุ้น) เล็กน้อย ยังขาดแรงซื้อสถาบันยืนยัน",
+                            "หลังประกาศงบ นักวิเคราะห์ปรับลดราคาเป้าหมายตามแรงกดดัน Valuation ของกลุ่ม โดยวันที่ 3 พฤศจิกายน Jefferies ลดจาก USD 175 เหลือ USD 140 และ Lake Street ลดจาก USD 110 เหลือ USD 90",
+                            "แม้ราคาลงมาอยู่ที่ USD 48.51 (มูลค่าตลาดราว USD 1.6 พันล้าน) แต่ยังคิดเป็นราว 10.5 เท่าของเป้ารายได้ FY2027 เหลือพื้นที่ความผิดพลาดไม่มากนัก"
                         ],
-               "caution":  "AEHR เป็นหุ้น beta สูงมาก (ราว 3.4) และร่วงจากจุดสูงสุดรอบปีไปราว 73% ทั้งที่งบการเงินดีขึ้น แปลว่าตอนนี้ราคาถูกกำหนดด้วยอารมณ์ตลาดและเงินที่ไหลเข้าออกกลุ่มชิปมากกว่าผลประกอบการ รายได้ AI ส่วนใหญ่ยังมาจาก hyperscaler หนึ่งรายและลูกค้าเวเฟอร์อีกหนึ่งราย และประมาณการของลูกค้าไม่มีผลผูกพัน การตัดสินใจสั่งผลิตจริงของ FOX-XP จากลูกค้าชิป AI รายใหม่จะเกิดขึ้นหลายเดือนหลังติดตั้งต้นปี 2027 หากล่าช้าหรือไม่ได้งาน ความคาดหวังจะถูกกระทบหนัก นอกจากนี้ควรจับตาสต็อกสินค้าที่พองขึ้นและการใช้เงินสด",
-               "opportunity":  "ฝั่งธุรกิจกำลังส่งมอบผลงานจริง รายได้โต 3 เท่าจากปีก่อน เป้าทั้งปีถูกปรับขึ้น และมี backlog กว่า 100 ล้านดอลลาร์รองรับ ราคาวันที่ 20 พ.ย. 2026 ที่ 39.84 ดอลลาร์อยู่ใกล้ขอบล่างของกรอบรอบปี RSI ใกล้โซนขายมากเกินไป และราคาอยู่ใต้กรอบล่าง Bollinger หากแรงเทขายกลุ่มชิปผ่อนลง การยืดตัวขนาดนี้มักดีดกลับเข้าหาค่าเฉลี่ย 20 วัน (56.12) ได้ ในระยะยาว หากได้งานผลิต FOX-XP จริง และชิป AI ตัวที่สองของ hyperscaler เข้าสู่การผลิตในปี 2027 ฐานลูกค้าจะกว้างขึ้นและลดการกระจุกตัวในปัจจุบัน",
+               "fundamental":  "Aehr Test Systems พัฒนาระบบ burn-in และทดสอบชิปทั้งระดับเวเฟอร์ (FOX) และระดับแพ็กเกจ (Sonoma) เพื่อคัดกรองชิปกำลังไฟสูงที่มีโอกาสเสื่อมสภาพก่อนนำไปใช้งานจริงในดาต้าเซ็นเตอร์ เมื่อชิป AI กินไฟและมีต้นทุนสูงขึ้น การทดสอบ burn-in จึงกลายเป็นขั้นตอนสำคัญในห่วงโซ่อุปทาน AI โดยวันที่ 2 พฤศจิกายน 2026 บริษัทประกาศงบ Q1 FY2027 (สิ้นสุด 25 กันยายน) ทำรายได้สูงสุดเป็นประวัติการณ์ USD 33.0 ล้าน (+200% YoY, +75% QoQ) กำไรสุทธิ GAAP USD 7.2 ล้าน (EPS USD 0.21) กำไร Non-GAAP EPS USD 0.28 อัตรากำไรขั้นต้น Non-GAAP 48.5% และมีเงินสด USD 105.1 ล้าน ยอดจองซื้ออยู่ที่ USD 46.7 ล้าน (book-to-bill 1.4 เท่า) ดัน Backlog ที่มีผลเป็น USD 109.3 ล้าน พร้อมปรับเป้ารายได้ FY2027 เป็น USD 150 ล้าน (โต 3 เท่าจาก USD 50.0 ล้านในปี FY2026) และตั้งเป้าอัตรากำไรสุทธิ Non-GAAP อย่างน้อย 20%",
+               "headline":  "ออเดอร์ AI ดันเป้ารายได้โต 3 เท่า แต่กราฟยังขาลงและรีบาวด์ไร้โวลุ่มยืนยัน",
+               "news":  [
+                            "วันที่ 2 พฤศจิกายน 2026 Aehr รายงานรายได้ Q1 FY2027 สูงสุดเป็นประวัติการณ์ USD 33.0 ล้าน (+200% YoY) และ Non-GAAP EPS USD 0.28 พร้อมปรับเป้ารายได้ทั้งปี FY2027 ขึ้นเป็น USD 150 ล้านจากความต้องการระบบทดสอบชิป AI โดยมียอดจองซื้อ USD 46.7 ล้าน ดัน Backlog ที่มีผลเป็น USD 109.3 ล้าน ณ วันที่ 1 พฤศจิกายน",
+                            "วันที่ 3 พฤศจิกายน 2026 Jefferies ปรับลดราคาเป้าหมายจาก USD 175 เป็น USD 140 และ Lake Street ลดจาก USD 110 เป็น USD 90 โดยคงคำแนะนำ Buy ส่วน Oppenheimer คง Outperform ที่ USD 120 สะท้อนการปรับลดค่าทวีคูณของกลุ่มแม้ผลประกอบการดีกว่าคาด",
+                            "วันที่ 29 ตุลาคม 2026 Aehr แต่งตั้ง Vijay Rao อดีตผู้บริหารฝ่ายโครงสร้างพื้นฐานของ Meta เข้าเป็นกรรมการบริษัท เพื่อเสริมความแข็งแกร่งด้านเครือข่ายดาต้าเซ็นเตอร์ AI ควบคู่กับการขยายกำลังผลิต Sonoma ผ่านพันธมิตรในเอเชียตะวันออกเฉียงใต้",
+                            "วันที่ 20 และ 23 พฤศจิกายน 2026 หุ้น AEHR เหวี่ยงแรงตามบรรยากาศกลุ่มเทคโนโลยี โดยร่วงเกือบ 17% ลงไปปิด USD 39.84 ก่อนดีดกลับ +21.76% มาปิด USD 48.51 ตามแรงรีบาวด์ของหุ้นชิป โดยไม่มีข่าวเฉพาะตัวใหม่จากบริษัทในช่วงดังกล่าว",
+                            "ก่อนหน้านี้เมื่อวันที่ 7 ตุลาคม 2026 บริษัทได้รับคำสั่งซื้อต่อเนื่องของระบบ Sonoma มูลค่าราว USD 6 ล้านจากลูกค้า Hyperscaler รายหลัก สำหรับชิป AI เจเนอเรชันถัดไปที่จะติดตั้งที่พันธมิตร OSAT ในไต้หวัน เพื่อรองรับการเร่งผลิตในปีปฏิทิน 2027"
+                        ],
+               "opportunity":  "ส่วนต่างระหว่างราคาหุ้นที่ปรับฐานลง 67% กับเป้ารายได้ปี FY2027 ที่เพิ่มขึ้นเป็น 3 เท่า ทำให้ภาพพื้นฐานสมดุลกว่าช่วงราคาพุ่งร้อนแรงในเดือนสิงหาคม ปัจจุบัน Backlog USD 109.3 ล้านครอบคลุมเป้ารายได้ทั้งปี USD 150 ล้านแล้วกว่า 70% ช่วยเพิ่มความชัดเจนระยะสั้น ขณะที่การขยายกำลังผลิตในเอเชียตะวันออกเฉียงใต้ (เพิ่มกว่า 20 เครื่องต่อเดือน) ออเดอร์ชิป AI รุ่นที่สอง การประเมินระบบเวเฟอร์ FOX-XP ที่ OSAT ไต้หวันสำหรับปี 2027 และฐานลูกค้ารายใหม่กว่าสิบรายในกลุ่ม AI, Silicon Photonics และ SiC ช่วยเปิดทางกระจายรายได้ระยะยาว",
+               "opportunityCheck":  "คะแนนโอกาสด้าน AI บนหน้าเว็บยังประเมินสัดส่วนรายได้จาก AI ต่ำเกินไปและควรปรับเพิ่ม เพราะรายได้ Q1 FY2027 ที่พุ่ง 3 เท่าเป็น USD 33.0 ล้าน และการปรับเป้าปี FY2027 เป็น USD 150 ล้าน ล้วนขับเคลื่อนหลักจากระบบ burn-in สำหรับชิป AI ของ Hyperscaler จนกลายเป็นเครื่องยนต์หลักแทนธุรกิจเดิมแล้ว ส่วนคะแนนการเติบโตของตลาดอาจขยับขึ้นได้เล็กน้อยตามความซับซ้อนของชิป AI กำลังไฟสูง อย่างไรก็ดี การคงคะแนนความแข็งแกร่งของตำแหน่งตลาดและอำนาจต่อรองราคาไว้แบบระมัดระวังยังเหมาะสม เพราะยังพึ่งพาลูกค้ารายหลักสูงและมีความเสี่ยงคู่แข่ง ส่วนคะแนนทางเลือกเติบโตเพิ่มเติมดูสมเหตุสมผลแล้ว",
+               "pros":  [
+                            "รายได้ Q1 FY2027 เมื่อ 2 พฤศจิกายน 2026 พุ่ง 200% YoY ทำสถิติสูงสุด USD 33.0 ล้าน พร้อม Non-GAAP EPS USD 0.28 และอัตรากำไรขั้นต้น Non-GAAP 48.5%",
+                            "ผู้บริหารปรับเป้ารายได้ทั้งปี FY2027 ขึ้นเป็น USD 150 ล้าน (โต 3 เท่าจาก FY2026) โดยมี Backlog ที่มีผลสูงถึง USD 109.3 ล้านและยอดจองซื้อไตรมาสเดียว USD 46.7 ล้าน",
+                            "ระบบ Sonoma สำหรับชิป AI ของ Hyperscaler รายหลักส่งมอบเกิน 12 เครื่องต่อเดือน พร้อมรับคำสั่งซื้อต่อเนื่อง USD 6 ล้านสำหรับชิป AI รุ่นถัดไปเมื่อ 7 ตุลาคม 2026",
+                            "ขยายกำลังผลิตผ่านพันธมิตรในเอเชียตะวันออกเฉียงใต้เพิ่มอีกกว่า 20 เครื่อง Sonoma ต่อเดือน และดึง Vijay Rao อดีตผู้บริหารโครงสร้างพื้นฐานของ Meta นั่งบอร์ดเมื่อ 29 ตุลาคม 2026",
+                            "ฐานะเงินสดแข็งแกร่งที่ USD 105.1 ล้าน ณ 25 กันยายน 2026 รองรับการขยายตลาดชิป AI, Silicon Photonics และการทดสอบระบบเวเฟอร์ FOX-XP ที่ไต้หวัน"
+                        ],
                "risks":  [
-                             "ลูกค้ากระจุกตัว: hyperscaler หนึ่งรายและลูกค้าเวเฟอร์ AI อีกหนึ่งรายเป็นแหล่งรายได้ AI หลัก",
-                             "การทดสอบ FOX-XP อาจไม่กลายเป็นออร์เดอร์ผลิตจำนวนมาก",
-                             "ราคาผันผวนสูงมาก (beta ราว 3.4) และเสี่ยงต่อแรงเทขายทั้งกลุ่มเซมิคอนดักเตอร์",
-                             "สินค้าคงคลังเพิ่มเป็น 53.1 ล้าน และเงินสดลดเหลือ 105.1 ล้าน ความเสี่ยงด้านการบริหารจัดการจึงสูงขึ้น",
-                             "ตลาด silicon carbide ยังอ่อนแอ และบริษัทมีความเสี่ยงด้านภูมิรัฐศาสตร์ไต้หวัน"
+                             "การกระจุกตัวของลูกค้าสูง: การพึ่งพาลูกค้า Hyperscaler ด้าน AI รายหลักทำให้การชะลอคำสั่งซื้อหรือเปลี่ยนแผนเพียงรายเดียวกระทบรายได้รุนแรง",
+                             "ความผันผวนสูงและมูลค่าที่ยังตึงตัว: ราคาหุ้นที่ราว 10.5 เท่าของเป้ายอดขายล่วงหน้าอ่อนไหวต่อแรงเทขายกลุ่มเทคโนโลยีระดับสองหลักต่อวัน",
+                             "ความเสี่ยงด้านการส่งมอบและอัตรากำไร: การขยายการผลิตในเอเชียตะวันออกเฉียงใต้และสัดส่วนสินค้าที่เปลี่ยนไประหว่างระบบ Sonoma กับชิ้นส่วนเวเฟอร์อาจกดดันอัตรากำไรขั้นต้น",
+                             "การแข่งขันและการเปลี่ยนแปลงเทคโนโลยี: ผู้ผลิตเครื่องทดสอบชิปรายใหญ่อาจรุกตลาด AI burn-in หรือผู้ผลิตชิปอาจปรับกระบวนการทดสอบจนลดความจำเป็นของ burn-in ลง"
                          ],
-               "summary":  "กราฟ AEHR อยู่ในภาวะขาลง ราคาต่ำกว่า EMA ทั้งสามเส้น MACD ติดลบ และราคาปิดหลุดกรอบล่าง Bollinger พร้อมวอลุ่มสูงกว่าค่าเฉลี่ย หลังร่วง 16.9% เมื่อ 20 พ.ย. 2026 ข่าวไม่ได้อธิบายแรงขายนี้ เพราะไตรมาสที่ประกาศเมื่อ 2 พ.ย. ทำสถิติใหม่และเป้าทั้งปีถูกปรับขึ้น ที่ร่วงเป็นผลจากนักวิเคราะห์ลดราคาเป้าและการเทขายทั้งกลุ่มชิป ซึ่งกระทบหุ้น beta สูงตัวนี้แรงเป็นพิเศษ ข้อสันนิษฐานเรื่องความได้เปรียบเชิงเทคโนโลยี burn-in ยังคงอยู่ และฐานลูกค้า AI เริ่มกว้างขึ้น จุดชี้ขาดคือ FOX-XP จะกลายเป็นออร์เดอร์ผลิตจริงในปี 2027 หรือไม่"
+               "summary":  "หุ้น Aehr Test Systems (AEHR) ดีดตัว +21.76% ปิดที่ USD 48.51 เมื่อวันที่ 23 พฤศจิกายน 2026 ตามแรงรีบาวด์ของกลุ่มชิป หลังเพิ่งดิ่งเกือบ 17% ในวันที่ 20 พฤศจิกายน ด้านพื้นฐาน แรงส่งจาก AI แข็งแกร่งขึ้นชัดเจน โดยงบ Q1 FY2027 เมื่อ 2 พฤศจิกายนทำรายได้สูงสุด USD 33.0 ล้าน (+200% YoY) มี Backlog USD 109.3 ล้าน และปรับเป้ารายได้ FY2027 เป็น USD 150 ล้าน อย่างไรก็ดี ราคายังต่ำกว่าจุดสูงสุด USD 147.40 ในเดือนสิงหาคมถึง 67% และอยู่ใต้เส้นค่าเฉลี่ยหลักทั้งหมด ภาพเทคนิคจึงยังเป็นขาลงแม้พื้นฐานระยะยาวยังเดินหน้าตามแผน",
+               "technical":  "ณ วันที่ 23 พฤศจิกายน 2026 หุ้น AEHR ปิดที่ USD 48.51 (+21.76%) แต่โครงสร้างเทคนิคจากข้อมูล 500 วันทำการยังอยู่ในภาวะขาลง ราคาอยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA ซึ่งใช้วัดแนวโน้มราคาเฉลี่ย) ทั้ง 3 เส้นชัดเจน ได้แก่ ต่ำกว่า EMA 50 (USD 67.61) ราว 28%, ต่ำกว่า EMA 100 (USD 74.86) 35% และต่ำกว่า EMA 200 (USD 70.71) 31% โดย EMA 50 ตัดลงต่ำกว่า EMA 200 ตอกย้ำแนวโน้มขาลงระยะกลาง ด้านโมเมนตัมยังอ่อนแรงแต่เริ่มชะลอการลง ค่า MACD (12/26/9 ตัววัดแรงส่งและแนวโน้ม) อยู่ที่ -6.73 ต่ำกว่าเส้น Signal (-6.45) แต่ Histogram ติดลบเพียง -0.28 แสดงว่าแรงขายเริ่มแผ่ว ขณะที่ RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 คือขายมากเกินไป) ฟื้นมาที่ 41.44 แต่ยังไม่พ้นแนวกึ่งกลาง 50 เมื่อเทียบกับ Bollinger Bands (20/2 กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาดีดกลับเข้ามาในครึ่งล่างระหว่างกรอบล่าง USD 41.71 กับเส้นกลาง USD 55.72 และยังอยู่โซนล่าง 23% ของกรอบ 52 สัปดาห์ (USD 18.70–147.40) ปริมาณซื้อขาย 3.02 ล้านหุ้นต่ำกว่าค่าเฉลี่ย 20 วัน (3.07 ล้านหุ้น) จึงยังไม่ยืนยันการกลับตัว แนวรับสำคัญอยู่แถว USD 41.71 และ USD 39.84 ส่วนแนวต้านอยู่ที่ USD 55.72 และโซน EMA บริเวณ USD 67.61–70.71"
            },
     "sources":  [
                     {
-                        "title":  "Aehr Test Systems Reports Record First Quarter Fiscal 2027 Revenue of $33.0 Million; Raises Full-Year Revenue Outlook to $150 Million, Triple Fiscal 2026 Revenue",
+                        "date":  "2026-11-02",
                         "publisher":  "Aehr Test Systems",
-                        "url":  "https://www.aehr.com/2026/11/aehr-test-systems-reports-record-first-quarter-fiscal-2027-revenue-of-33-0-million-raises-full-year-revenue-outlook-to-150-million-triple-fiscal-2026-revenue/",
-                        "date":  "2026-11-02"
+                        "title":  "Aehr Test Systems Reports Record First Quarter Fiscal 2027 Revenue of $33.0 Million",
+                        "url":  "https://www.aehr.com/aehr-test-systems-reports-record-first-quarter-fiscal-2027-revenue-of-33-0-million/"
                     },
                     {
-                        "title":  "Aehr test systems raises FY27 revenue outlook to $150M",
-                        "publisher":  "StockTitan",
-                        "url":  "https://www.stocktitan.net/news/AEHR/aehr-test-systems-reports-record-first-quarter-fiscal-2027-revenue-57354qt0agbe.html",
-                        "date":  "2026-11-02"
+                        "date":  "2026-11-06",
+                        "publisher":  "U.S. Securities and Exchange Commission",
+                        "title":  "Aehr Test Systems SEC Filings (CIK 0001040470)",
+                        "url":  "https://www.sec.gov/edgar/browse/?CIK=0001040470"
                     },
                     {
+                        "date":  "2026-10-29",
+                        "publisher":  "Aehr Test Systems",
+                        "title":  "Aehr Test Systems Appoints Former Meta Infrastructure Executive Vijay Rao to Board of Directors",
+                        "url":  "https://www.aehr.com/aehr-test-systems-appoints-former-meta-infrastructure-executive-vijay-rao-to-board-of-directors/"
+                    },
+                    {
+                        "date":  "2026-10-07",
+                        "publisher":  "Aehr Test Systems",
                         "title":  "Aehr Receives Follow-On Sonoma Production Orders for Lead Hyperscale Customer\u0027s Next-Generation AI Processor",
-                        "publisher":  "Aehr Test Systems",
-                        "url":  "https://www.aehr.com/2026/10/aehr-receives-follow-on-sonoma-production-orders-for-lead-hyperscale-customer-s-next-generation-ai-processor/",
-                        "date":  "2026-10-07"
+                        "url":  "https://www.aehr.com/press-releases/aehr-receives-follow-on-sonoma-production-orders-for-lead-hyperscale-customers-next-generation-ai-processor/"
                     },
                     {
-                        "title":  "Aehr Test Systems Reports $33 Million Revenue in Q1 Fiscal 2027, Beating EPS Estimates but Missing Revenue Expectations",
-                        "publisher":  "GuruFocus",
-                        "url":  "https://www.gurufocus.com/news/9163163/aehr-test-systems-reports-33-million-revenue-in-q1-fiscal-2027-beating-eps-estimates-but-missing-revenue-expectations",
-                        "date":  "2026-11-02"
+                        "date":  "2026-11-23",
+                        "publisher":  "Seeking Alpha",
+                        "title":  "Aehr Test Systems soars 22% amid chip stock rally",
+                        "url":  "https://seekingalpha.com/news/4676135-aehr-test-systems-soars-22-percent-amid-chip-stock-rally"
                     },
                     {
-                        "title":  "Aehr Test Systems (NASDAQ:AEHR) Shares Down 17.4% - Here\u0027s What Happened",
-                        "publisher":  "MarketBeat",
-                        "url":  "https://www.marketbeat.com/instant-alerts/price-aehr-test-systems-nasdaq-aehr-shares-down-174-heres-what-happened-2026-11-05/",
-                        "date":  "2026-11-05"
+                        "date":  "2026-11-20",
+                        "publisher":  "Seeking Alpha",
+                        "title":  "Aehr Test Systems plunges 17% amid tech selloff",
+                        "url":  "https://seekingalpha.com/news/4675317-aehr-test-systems-plunges-17-percent-amid-tech-selloff"
                     },
                     {
-                        "title":  "Aehr Test Systems (NASDAQ:AEHR) Shares Down 10.2% - Here\u0027s Why",
-                        "publisher":  "MarketBeat",
-                        "url":  "https://www.marketbeat.com/instant-alerts/price-aehr-test-systems-nasdaq-aehr-shares-down-102-heres-why-2026-11-20/",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-03",
+                        "publisher":  "The Motley Fool",
+                        "title":  "Aehr Test Systems: 3 Key Takeaways for Long-Term Investors",
+                        "url":  "https://www.fool.com/investing/2026/11/03/aehr-test-systems-3-key-takeaways-for-long-term-in/"
                     },
                     {
-                        "title":  "Why Are Aehr Test Systems (NASDAQ:AEHR) Shares Down 16% Despite Record Revenue and Raised Guidance?",
-                        "publisher":  "Kalkine Media",
-                        "url":  "https://kalkine.ca/news/technology/why-are-aehr-test-systems-nasdaqaehr-shares-down-16-despite-record-revenue-and-raised-guidance",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-03",
+                        "publisher":  "StockAnalysis",
+                        "title":  "Aehr Test Systems (AEHR) Stock Forecast \u0026 Analyst Ratings",
+                        "url":  "https://stockanalysis.com/stocks/aehr/forecast"
                     }
                 ]
 }

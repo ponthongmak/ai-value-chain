@@ -2,46 +2,45 @@
     "ticker":  "CBRS",
     "name":  "Cerebras Systems",
     "symbol":  "NASDAQ:CBRS",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:04:04Z",
-    "costUsd":  0.6340781,
+    "generatedAt":  "2026-11-24T04:16:40Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NASDAQ:CBRS",
                        "yahoo":  "CBRS",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:01:47Z",
-                       "price":  82.67,
-                       "open":  84.47,
-                       "high":  93.11,
-                       "low":  82.28,
-                       "volume":  22491900,
-                       "avgVolume20":  13727175,
-                       "changePct":  -4.93,
-                       "ema50":  131.62,
-                       "ema100":  162.49,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:12:43Z",
+                       "price":  98.51,
+                       "open":  95.24,
+                       "high":  100.59,
+                       "low":  92.68,
+                       "volume":  15098900,
+                       "avgVolume20":  14091945,
+                       "changePct":  19.16,
+                       "historyDays":  134,
+                       "ema50":  130.32,
+                       "ema100":  161.22,
                        "ema200":  null,
                        "bb":  {
-                                  "upper":  119.89,
-                                  "middle":  99.44,
-                                  "lower":  79
+                                  "upper":  118.98,
+                                  "middle":  98.95,
+                                  "lower":  78.92
                               },
                        "macd":  {
-                                    "macd":  -12.92,
-                                    "signal":  -14.54,
-                                    "hist":  1.62
+                                    "macd":  -11.79,
+                                    "signal":  -13.99,
+                                    "hist":  2.2
                                 },
-                       "rsi14":  33.8,
+                       "rsi14":  44.18,
                        "high52w":  386.34,
                        "low52w":  77.84,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         214.94
-                                     ],
                                      [
                                          "2026-06-04",
                                          215.4
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          82.67
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         98.51
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          null,
                                           null,
                                           null,
                                           null,
@@ -639,95 +641,122 @@
                                           137.21,
                                           135.52,
                                           133.62,
-                                          131.62
+                                          131.62,
+                                          130.32
                                       ]
                    },
     "en":  {
-               "headline":  "Strong Q3 beat, but CBRS keeps sliding toward its $77.84 low",
-               "technical":  "The trend is clearly down. At US$82.67, CBRS trades far below its EMA 50 (131.62) and EMA 100 (162.49). EMAs are exponential moving averages, which give more weight to recent prices. The short average sits under the long one, a bearish order. There is no EMA 200 yet because the stock only listed in May 2026. Momentum is mixed. MACD (a trend-momentum gauge) is -12.92, which is above its signal line at -14.54, and the histogram is positive at +1.62. That means the selling pressure is slowing but has not reversed. RSI 14, a 0–100 momentum gauge where under 30 counts as oversold, is 33.8: weak and close to oversold. Price sits just above the lower Bollinger Band at 79.00. These bands form a volatility channel, and the middle line here is 99.44. CBRS is only about 6% above its 52-week low of 77.84 and about 79% below its high of 386.34. On 20 November the stock rose as high as 93.11, then closed near the day\u0027s low of 82.28. Volume was 22.5M shares, about 1.6× the 20-day average. Heavy volume on a reversal like that suggests sellers were in control. Support is at 77.84–79.00. Resistance is at about 94 and then 99.44.",
-               "fundamental":  "The business is growing faster than the share price suggests. Q3 results came out on 12 November. Core revenue rose 70% to US$230.9M, and cloud revenue jumped 272% to US$144.9M, now 63% of the total. Core net income turned positive at US$29.8M, though the GAAP loss widened to US$161.2M. Q4 guidance is US$310–330M, well above the US$271M consensus. Full-year 2026 guidance went up to US$940–960M, and management still expects revenue to roughly triple in 2027. The weak spot is concentration. Most of the US$26.1B backlog is tied to OpenAI, and that contract is running late because data-center sites are not ready. As a result, Q4 cloud revenue is guided flat and most new capacity now arrives in mid-2027. Microsoft, Amazon and Oracle are now customers, which is real diversification, but it is still early.",
-               "news":  [
-                            "12 Nov: Q3 beat guidance for a third straight quarter. Core revenue was US$230.9M versus US$214.7M expected, and adjusted EPS was US$0.12 versus an expected loss. FY2026 guidance was raised to US$940–960M.",
-                            "12 Nov: Cerebras announced Microsoft as a new customer, with the deal signed in October. Management expects revenue from it to start in Q1 2027. Amazon and Oracle deals were also highlighted.",
-                            "12 Nov: Management said the first stages of the OpenAI contract are behind schedule because data-center sites are not ready. Q4 cloud revenue is guided flat, and the bulk of new capacity moves to mid-2027.",
-                            "13 Nov: Analysts changed their price targets in both directions. UBS cut to US$155 from US$250, citing reductions to OpenAI\u0027s remaining obligations, and Citi cut to US$250 from US$320. Needham and Craig-Hallum also cut, while Wedbush raised to US$205.",
-                            "18 Nov: Shares fell 9.6% with no company news, while the S\u0026P 500 fell only 0.3%. None of 33 large chip peers fell more than 5%, so the selling was specific to Cerebras.",
-                            "28 Oct: Short seller Culper Research disclosed a short position. It claims the wafer-scale chips wear out in about 1.5–2.5 years, versus the 3–5 years Cerebras has stated, and argues that the OpenAI contract may be barely profitable. These claims are unverified, and the company had not publicly rebutted them in the coverage found.",
-                            "Early November: The final 180-day insider lockup ended around 9–10 November, adding shares that insiders are free to sell. The stock set an all-time low of 77.84 around 5 November."
+               "caution":  "The main near-term caution is physical execution versus soaring expectations. Although demand is visible in the $26.1 billion backlog, CEO Andrew Feldman noted facility deployments move at \"the speed of real estate,\" delaying OpenAI\u0027s first 250 MW tranche into 2027. Meanwhile, GAAP profitability remains distant—Q3 GAAP gross margin was just 20% alongside a $161.2 million GAAP loss—and shares face heavy overhead supply after the November 9 final lockup expiry and a 74.5% drop from $386.34 highs.",
+               "cons":  [
+                            "Fell behind schedule on OpenAI\u0027s first 250 MW capacity tranche due to data-center real estate and power bottlenecks.",
+                            "Posted a $161.2 million GAAP net loss ($0.67 per share) and thin 20% GAAP gross margin in Q3 2026.",
+                            "Multiple banks including UBS, Morgan Stanley, and Citi slashed price targets in November on rollout delays.",
+                            "Final IPO lockup restrictions expired on November 9, increasing tradable share supply after a 74.5% slide from $386.34 highs."
                         ],
-               "caution":  "Whether you look at the news or the chart, this is still a stock with heavy selling pressure. The OpenAI contract makes up most of the backlog, and it is now delayed, which pushes much of the expected growth into mid-2027. Culper\u0027s claims about chip lifespan go straight to the question of whether wafer-scale chips work commercially. They are unproven, but they will hang over the stock until Cerebras answers them with data. Insiders can now sell freely. At roughly 30× sales, the valuation leaves no room for further delays. A close below 77.84 would mean the stock has broken support and set a new low.",
-               "opportunity":  "The fundamentals are improving even as the price falls. Revenue grew 70%, adjusted profit turned positive for the first time, Q4 guidance came in about 18% above consensus, and margin guidance is 47–49%. Adding Microsoft, Amazon and Oracle reduces reliance on OpenAI. MACD\u0027s histogram has turned positive and RSI is close to oversold. Price is sitting at its lower Bollinger Band just above the 52-week low, which is often where selling runs out. If the 77.84–79.00 zone holds and price gets back above about 99, the downtrend would start to look like a base forming.",
+               "fundamental":  "Cerebras occupies a distinct AI inference niche: its wafer-scale silicon keeps model weights on-chip to deliver high token speeds without multi-GPU networking bottlenecks. On November 12, 2026, Q3 results showed real traction—GAAP revenue rose 55% year-over-year to $210.8 million, core revenue climbed 70% to $230.9 million, and core cloud services jumped 272% to $144.9 million. Core gross margin reached 41% with $30 million in non-GAAP net income, though GAAP gross margin was 20% with a $161.2 million net loss. Full-year 2026 core revenue guidance rose to $940–$960 million, backed by $26.1 billion in remaining performance obligations and contracts across Microsoft, Oracle, AWS, and OpenAI. Still, slipping behind on OpenAI\u0027s initial 250 MW tranche shows physical power and data-center buildouts, not chip demand, now constrain scaling.",
+               "headline":  "Hyperscaler wins fuel bounce, but data-center delays keep downtrend intact",
+               "news":  [
+                            "On November 12, 2026, Cerebras reported record Q3 2026 core revenue of $230.9 million (+70% YoY) and GAAP revenue of $210.8 million (+55% YoY), while raising full-year core revenue guidance to $940–$960 million. Management also guided Q4 core revenue to $310–$330 million and disclosed that Microsoft signed a cloud inference agreement in October 2026.",
+                            "On November 12, 2026, management acknowledged falling behind on the first 250 MW tranche of its 750 MW OpenAI agreement due to data-center real estate and power contracting delays rather than chip supply. Following the update, UBS, Needham, Mizuho, Citi, and Craig-Hallum cut price targets while keeping Buy or Outperform ratings.",
+                            "On November 17, 2026, Cerebras launched production disaggregated inference, pairing GPUs for prompt processing with wafer-scale systems for token generation to boost tokens-per-megawatt efficiency. Separately, management noted TSMC manufacturing plans remain intact despite tighter mid-November U.S. export compliance checks.",
+                            "On October 27, 2026, Cerebras and Oracle announced a partnership to deploy Cerebras AI inference on Oracle Cloud Infrastructure (OCI), adding a major cloud channel ahead of the Microsoft disclosure. On November 9, final IPO lockup restrictions expired, releasing remaining pre-IPO shares into the float.",
+                            "On November 23, 2026, CBRS shares surged 19.16% to $98.51 during a sharp broader AI-semiconductor rebound, bouncing off recent lows near $77.84 as investors revisited strong Q3 guidance and hyperscaler additions."
+                        ],
+               "opportunity":  "If Cerebras resolves power and facility bottlenecks through 2027, its AI-inference growth runway is substantial. Management expects Q4 core revenue to climb roughly 40% sequentially to $310–$330 million with core gross margin expanding to 47%–49%, and projects revenue could triple in 2027 as Microsoft (starting Q1 2027), Oracle OCI, AWS, and OpenAI capacity ramps. Launching disaggregated inference on November 17 also lets Cerebras complement—rather than displace—installed GPU fleets, broadening its addressable enterprise market.",
+               "opportunityCheck":  "The page\u0027s opportunity profile is mostly sensible, though the market-position score now looks slightly conservative. Signing Microsoft and Oracle alongside AWS and OpenAI, expanding cloud services 272% year-over-year, and building a $26.1 billion backlog give wafer-scale inference much stronger hyperscaler validation than before, warranting a modest upward nudge to market position. Conversely, bottleneck and pricing power should remain restrained: power and real-estate delays on OpenAI\u0027s rollout and a 20% GAAP gross margin show Cerebras still lacks full control over physical deployment and margin capture despite differentiated silicon.",
+               "pros":  [
+                            "Signed Microsoft in October 2026 and Oracle OCI on October 27, adding two hyperscalers alongside AWS and OpenAI.",
+                            "Q3 2026 core revenue grew 70% year-over-year to $230.9 million, with core cloud services surging 272% to $144.9 million.",
+                            "Raised full-year 2026 core revenue guidance to $940–$960 million, backed by $26.1 billion in remaining performance obligations.",
+                            "Achieved its first positive non-GAAP net income of $30 million in Q3 while launching disaggregated inference on November 17."
+                        ],
                "risks":  [
-                             "Customer concentration: most of the US$26.1B backlog depends on OpenAI, whose contract is delayed and may come with credits",
-                             "Data-center build delays push cloud revenue growth from early 2027 to mid-2027",
-                             "Short-seller claims about chip lifespan and contract profitability remain unresolved",
-                             "Insiders are now free to sell after the lockups ended, and executives already sold shares in September and October",
-                             "High valuation (about 30× sales) while AI-stock valuations are being cut across the sector",
-                             "Price breaking below the 77.84 all-time low would confirm the downtrend"
+                             "Data-center real estate and grid-power shortages further delaying OpenAI\u0027s 750 MW rollout and revenue recognition into late 2027.",
+                             "High customer concentration tied to OpenAI, G42, and a small group of hyperscalers if contract ramps slip or terms shift.",
+                             "Wide gap between non-GAAP profitability ($30 million) and GAAP losses ($161.2 million) while capital intensity remains high.",
+                             "Single-foundry manufacturing reliance on TSMC (5nm process) alongside tightening U.S. AI chip and cloud export controls.",
+                             "Continued post-IPO volatility and share overhang following the November 9 final lockup expiration."
                          ],
-               "summary":  "The business is moving one way and the stock the other. Q3 beat expectations, guidance went up, Microsoft signed on, and adjusted profit turned positive. Even so, CBRS is down about 79% from its 52-week high, trades well below its falling EMAs, and closed on 20 November on heavy volume after giving up an intraday rally. Investors are focused on the OpenAI delay, the short-seller claims and insider selling. MACD and RSI suggest the selling is slowing, but the trend is still bearish. The wafer-scale moat is still on watch until Cerebras delivers capacity on time and the chip-lifespan claims are settled."
+               "summary":  "Cerebras Systems (CBRS) jumped 19.16% to $98.51 on November 23, 2026 amid a broad AI-hardware rally, yet remains 74.5% below its $386.34 post-IPO peak. Fundamentally, Q3 2026 core revenue rose 70% year-over-year to $230.9 million, management raised full-year guidance to $940–$960 million, and Microsoft and Oracle joined AWS and OpenAI as cloud customers. Still, real-estate and power delays on OpenAI\u0027s initial 250 MW tranche, thin 20% GAAP gross margins, and November 9 lockup expirations explain why multiple Wall Street banks cut targets and technicals stay bearish.",
+               "technical":  "Because CBRS debuted in May 2026 with only 134 trading days of history, its 200-day exponential moving average (EMA, a trend-tracking average weighted toward recent prices) is unavailable, so trend reads remain intermediate-term. That trend is still clearly bearish: despite jumping 19.16% on November 23 to $98.51, shares sit well below the EMA 50 ($130.32) and EMA 100 ($161.22), with EMA 50 below EMA 100 confirming downward alignment. Momentum is stabilizing from depressed levels. The MACD (12/26/9, a trend-momentum indicator comparing short and long averages) remains deeply negative at -11.79, but sits above its -13.99 signal line with a +2.20 histogram, signaling easing selling pressure. RSI 14 (a 0–100 momentum gauge where under 30 is oversold) recovered to 44.18, still below the neutral 50 mark. On Bollinger Bands (20/2, volatility envelopes around a 20-day average), price rallied right to the $98.95 middle band, making $99–$101 immediate resistance and $118.98 the upper band, while the lower band ($78.92) and 52-week low ($77.84, versus a $386.34 high) form key support. Volume of 15.10 million shares barely exceeded the 14.09 million 20-day average, offering only modest confirmation."
            },
     "th":  {
-               "headline":  "ผลงาน Q3 ดีกว่าคาด แต่ราคา CBRS ยังไหลลงเข้าใกล้จุดต่ำสุด $77.84",
-               "technical":  "แนวโน้มเป็นขาลงชัดเจน ราคา US$82.67 อยู่ต่ำกว่า EMA 50 (131.62) และ EMA 100 (162.49) ไปมาก EMA คือค่าเฉลี่ยเคลื่อนที่ที่ให้น้ำหนักราคาล่าสุดมากกว่า เส้นระยะสั้นยังอยู่ใต้เส้นระยะยาว ซึ่งเป็นการเรียงตัวแบบขาลง ส่วน EMA 200 ยังไม่มีข้อมูล เพราะหุ้นเพิ่งเข้าตลาดเมื่อพฤษภาคม 2026 โมเมนตัมเริ่มก้ำกึ่ง MACD (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ -12.92 สูงกว่าเส้นสัญญาณที่ -14.54 และฮิสโตแกรมเป็นบวก +1.62 แปลว่าแรงขายเริ่มชะลอ แต่ยังไม่ถึงขั้นกลับตัว RSI 14 ซึ่งเป็นมาตรวัดโมเมนตัม 0–100 (ต่ำกว่า 30 ถือว่าขายมากเกิน) อยู่ที่ 33.8 คืออ่อนแรงและใกล้โซนขายมากเกิน ราคายืนอยู่เหนือขอบล่างของ Bollinger Band ที่ 79.00 เพียงเล็กน้อย Bollinger Band คือกรอบความผันผวน มีเส้นกลางอยู่ที่ 99.44 ราคาห่างจุดต่ำสุดรอบ 52 สัปดาห์ (77.84) แค่ราว 6% และต่ำกว่าจุดสูงสุด 386.34 ราว 79% วันที่ 20 พ.ย. ราคาขึ้นไปถึง 93.11 แล้วถูกขายจนปิดใกล้จุดต่ำสุดของวันที่ 82.28 วอลุ่ม 22.5 ล้านหุ้น ประมาณ 1.6 เท่าของค่าเฉลี่ย 20 วัน วอลุ่มหนาในวันที่ราคากลับตัวลงแบบนี้บอกว่าฝั่งขายยังคุมเกม แนวรับอยู่ที่ 77.84–79.00 แนวต้านอยู่ราว 94 และถัดไปคือ 99.44",
-               "fundamental":  "ธุรกิจโตเร็วกว่าที่ราคาหุ้นสะท้อน งบ Q3 ประกาศเมื่อ 12 พ.ย. รายได้หลัก (core) โต 70% เป็น US$230.9M รายได้คลาวด์พุ่ง 272% เป็น US$144.9M คิดเป็น 63% ของรายได้ทั้งหมด กำไรสุทธิแบบ core พลิกเป็นบวกที่ US$29.8M แต่ขาดทุนตาม GAAP ขยายเป็น US$161.2M คาดการณ์ Q4 อยู่ที่ US$310–330M สูงกว่าที่ตลาดคาดไว้ US$271M มาก เป้ารายได้ทั้งปี 2026 ปรับขึ้นเป็น US$940–960M และผู้บริหารยังคาดว่ารายได้ปี 2027 จะโตราว 3 เท่า จุดอ่อนคือการพึ่งลูกค้ารายเดียว backlog ส่วนใหญ่ในยอด US$26.1B ผูกกับ OpenAI และสัญญานี้ล่าช้าเพราะดาต้าเซ็นเตอร์ยังไม่พร้อม รายได้คลาวด์ Q4 จึงถูกคาดว่าทรงตัว และกำลังการผลิตใหม่ส่วนใหญ่เลื่อนไปกลางปี 2027 ตอนนี้มี Microsoft, Amazon และ Oracle เป็นลูกค้าแล้ว ถือเป็นการกระจายฐานลูกค้าจริง แต่ยังอยู่ในช่วงเริ่มต้น",
-               "news":  [
-                            "12 พ.ย.: งบ Q3 ทำได้ดีกว่าแนวทางที่ให้ไว้เป็นไตรมาสที่ 3 ติดต่อกัน รายได้หลัก US$230.9M เทียบกับที่คาด US$214.7M และ EPS ปรับปรุงอยู่ที่ US$0.12 ขณะที่ตลาดคาดว่าจะขาดทุน เป้ารายได้ปี 2026 ปรับขึ้นเป็น US$940–960M",
-                            "12 พ.ย.: ประกาศได้ Microsoft เป็นลูกค้ารายใหม่ เซ็นสัญญาตั้งแต่ตุลาคม ผู้บริหารคาดว่าจะเริ่มรับรู้รายได้ใน Q1 2027 และยังเน้นย้ำดีลกับ Amazon และ Oracle ด้วย",
-                            "12 พ.ย.: ผู้บริหารยอมรับว่าสัญญา OpenAI ระยะแรกล่าช้า เพราะสถานที่ตั้งดาต้าเซ็นเตอร์ยังไม่พร้อม รายได้คลาวด์ Q4 จึงถูกคาดว่าทรงตัว และกำลังการผลิตใหม่ส่วนใหญ่เลื่อนไปกลางปี 2027",
-                            "13 พ.ย.: นักวิเคราะห์ปรับราคาเป้าหมายทั้งขึ้นและลง UBS ลดเหลือ US$155 จาก US$250 โดยอ้างว่าภาระผูกพันคงเหลือของ OpenAI ลดลง Citi ลดเหลือ US$250 จาก US$320 Needham และ Craig-Hallum ก็ลดเช่นกัน ส่วน Wedbush ปรับขึ้นเป็น US$205",
-                            "18 พ.ย.: หุ้นร่วง 9.6% โดยไม่มีข่าวจากบริษัท ขณะที่ S\u0026P 500 ลดลงเพียง 0.3% และไม่มีหุ้นชิปขนาดใหญ่รายใดใน 33 ตัวที่ลงเกิน 5% แรงขายจึงเกิดเฉพาะกับ Cerebras",
-                            "28 ต.ค.: Culper Research ซึ่งเป็นกองทุน short seller ประกาศเปิดสถานะ short โดยอ้างว่าชิประดับเวเฟอร์มีอายุใช้งานเพียงราว 1.5–2.5 ปี ไม่ใช่ 3–5 ปีตามที่บริษัทระบุ และมองว่าสัญญา OpenAI แทบไม่มีกำไร ข้อกล่าวหาเหล่านี้ยังไม่มีการพิสูจน์ และในข่าวที่พบบริษัทยังไม่ได้ออกมาโต้แย้งต่อสาธารณะ",
-                            "ต้นเดือน พ.ย.: ระยะห้ามขาย (lockup) 180 วันของผู้บริหารและผู้ถือหุ้นเดิมสิ้นสุดราว 9–10 พ.ย. ทำให้มีหุ้นที่พร้อมขายเพิ่มขึ้น และหุ้นทำจุดต่ำสุดตลอดกาลที่ 77.84 ราววันที่ 5 พ.ย."
+               "caution":  "ข้อควรระวังหลักในระยะสั้นคือความเสี่ยงด้านการส่งมอบจริงเทียบกับความคาดหวังที่สูง แม้งานในมือ $26.1 พันล้านจะสะท้อนดีมานด์แกร่ง แต่ CEO Andrew Feldman ยอมรับว่าการขยายศูนย์ข้อมูลติดข้อจำกัดด้านอสังหาริมทรัพย์และไฟฟ้า ทำให้การส่งมอบเฟสแรก 250 MW ให้ OpenAI เลื่อนออกไป ขณะเดียวกันกำไรตามมาตรฐาน GAAP ยังอยู่ไกล โดยมีอัตรากำไรขั้นต้นเพียง 20% และขาดทุนสุทธิ $161.2 ล้านใน Q3 รวมถึงแรงขายคงค้างหลังหมดระยะ Lockup รอบสุดท้ายเมื่อ 9 พ.ย. หลังหุ้นร่วงแล้ว 74.5% จากจุดสูงสุด $386.34",
+               "cons":  [
+                            "การส่งมอบกำลังประมวลผลเฟสแรก 250 MW ให้ OpenAI ล่าช้ากว่ากำหนดจากปัญหาการจัดหาพื้นที่ศูนย์ข้อมูลและไฟฟ้า",
+                            "งบ Q3 2026 ยังขาดทุนสุทธิตามมาตรฐาน GAAP ถึง $161.2 ล้าน ($0.67 ต่อหุ้น) และอัตรากำไรขั้นต้น GAAP อยู่ที่เพียง 20%",
+                            "สถาบันการเงินหลายแห่งรวมถึง UBS, Morgan Stanley และ Citi หั่นราคาเป้าหมายลงในเดือนพฤศจิกายนจากความล่าช้าในการส่งมอบ",
+                            "ระยะห้ามขายหุ้น (IPO lockup) รอบสุดท้ายสิ้นสุดลงเมื่อ 9 พ.ย. 2026 เพิ่มซัพพลายหุ้นหมุนเวียนท่ามกลางราคาที่ร่วง 74.5% จากจุดสูงสุด $386.34"
                         ],
-               "caution":  "ไม่ว่าจะดูจากข่าวหรือกราฟ หุ้นตัวนี้ยังมีแรงขายกดดันหนัก backlog ส่วนใหญ่มาจากสัญญา OpenAI ซึ่งตอนนี้ล่าช้า ทำให้การเติบโตที่คาดไว้จำนวนมากเลื่อนไปกลางปี 2027 ข้อกล่าวหาของ Culper เรื่องอายุชิปแตะตรงคำถามว่าชิประดับเวเฟอร์ใช้ได้จริงในเชิงพาณิชย์หรือไม่ แม้ยังไม่มีการพิสูจน์ แต่จะกดดันหุ้นไปจนกว่า Cerebras จะชี้แจงด้วยข้อมูล ผู้ถือหุ้นวงในขายหุ้นได้อิสระแล้ว และที่มูลค่าราว 30 เท่าของยอดขาย หุ้นแทบไม่มีพื้นที่ให้ล่าช้าซ้ำอีก ถ้าราคาปิดต่ำกว่า 77.84 จะถือว่าหลุดแนวรับและทำจุดต่ำสุดใหม่",
-               "opportunity":  "พื้นฐานกำลังดีขึ้นสวนทางกับราคา รายได้โต 70% กำไรแบบปรับปรุงเป็นบวกเป็นครั้งแรก คาดการณ์ Q4 สูงกว่าที่ตลาดคาดราว 18% และคาดการณ์อัตรากำไรขั้นต้นอยู่ที่ 47–49% การได้ Microsoft, Amazon และ Oracle เป็นลูกค้าช่วยลดการพึ่ง OpenAI ทางเทคนิค ฮิสโตแกรม MACD พลิกเป็นบวก RSI ใกล้โซนขายมากเกิน และราคาอยู่ที่ขอบล่างของ Bollinger Band เหนือจุดต่ำสุด 52 สัปดาห์ ซึ่งมักเป็นจุดที่แรงขายเริ่มหมด ถ้าโซน 77.84–79.00 รับอยู่และราคากลับขึ้นเหนือราว 99 ได้ ขาลงจะเริ่มดูเหมือนการสร้างฐาน",
+               "fundamental":  "Cerebras วางตำแหน่งเฉพาะตัวในตลาด AI Inference ด้วยชิปขนาดเท่าแผ่นเวเฟอร์ที่เก็บน้ำหนักโมเดลไว้บนชิปโดยตรง ช่วยลดคอขวดการสื่อสารระหว่าง GPU งบ Q3 2026 เมื่อ 12 พ.ย. สะท้อนแรงส่งเชิงพาณิชย์ชัดขึ้น โดยรายได้ GAAP โต 55% YoY แตะ $210.8 ล้าน รายได้ Core โต 70% แตะ $230.9 ล้าน และบริการคลาวด์ Core พุ่ง 272% แตะ $144.9 ล้าน ด้านอัตรากำไรขั้นต้น Core อยู่ที่ 41% พร้อมกำไรสุทธิ Non-GAAP $30 ล้าน แต่ฐาน GAAP ยังมีมาร์จิ้น 20% และขาดทุน $161.2 ล้าน ทั้งนี้ บริษัทปรับเพิ่มเป้ารายได้ Core ปี 2026 เป็น $940–$960 ล้าน หนุนด้วย Backlog $26.1 พันล้าน และลูกค้ารายใหญ่ครบทั้ง Microsoft, Oracle, AWS และ OpenAI ทว่าความล่าช้าในเฟสแรก 250 MW ของ OpenAI ชี้ว่าข้อจำกัดหลักขณะนี้คือไฟฟ้าและพื้นที่ศูนย์ข้อมูล ไม่ใช่ดีมานด์ชิป",
+               "headline":  "ดีลคลาวด์ยักษ์ใหญ่หนุนหุ้นเด้ง แต่ดีเลย์ศูนย์ข้อมูลยังกดแนวโน้มขาลง",
+               "news":  [
+                            "เมื่อ 12 พ.ย. 2026 Cerebras รายงานรายได้ Core ไตรมาส 3 ที่ $230.9 ล้าน (+70% YoY) และรายได้ GAAP $210.8 ล้าน (+55% YoY) พร้อมปรับเพิ่มเป้ารายได้ Core ทั้งปีเป็น $940–$960 ล้าน อีกทั้งให้แนวโน้ม Q4 ที่ $310–$330 ล้าน และเปิดเผยว่า Microsoft ได้ลงนามสัญญาใช้บริการ AI คลาวด์ตั้งแต่เดือนตุลาคม 2026",
+                            "เมื่อ 12 พ.ย. 2026 ผู้บริหารยอมรับว่าส่งมอบกำลังไฟเฟสแรก 250 MW จากสัญญา 750 MW กับ OpenAI ล่าช้าเพราะข้อจำกัดด้านพื้นที่ศูนย์ข้อมูลและไฟฟ้า ไม่ใช่ปัญหาการผลิตชิป ส่งผลให้ UBS, Needham, Mizuho, Citi และ Craig-Hallum ปรับลดราคาเป้าหมายลง แม้ยังคงคำแนะนำเชิงบวกไว้ก็ตาม",
+                            "เมื่อ 17 พ.ย. 2026 Cerebras เปิดตัวระบบ Disaggregated Inference สำหรับใช้งานจริง โดยผสาน GPU เพื่อรับพรอมต์เข้ากับระบบเวเฟอร์เพื่อสร้างโทเคน ช่วยเพิ่มประสิทธิภาพต่อเมกะวัตต์ ทั้งนี้ผู้บริหารระบุว่าแผนการผลิตกับ TSMC ยังไม่สะดุดแม้สหรัฐฯ จะคุมส่งออกเข้มงวดขึ้นช่วงกลางเดือนพฤศจิกายน",
+                            "เมื่อ 27 ต.ค. 2026 Cerebras และ Oracle ประกาศความร่วมมือนำบริการ AI Inference ของ Cerebras ขึ้นบน Oracle Cloud Infrastructure (OCI) ขยายฐาน Hyperscaler เพิ่มอีกหนึ่งราย ขณะที่เมื่อ 9 พ.ย. 2026 ข้อจำกัดห้ามขายหุ้น IPO Lockup รอบสุดท้ายได้สิ้นสุดลงทั้งหมด",
+                            "เมื่อ 23 พ.ย. 2026 หุ้น CBRS พุ่งขึ้น 19.16% ปิดที่ $98.51 ตามแรงฟื้นตัวแรงของหุ้นชิป AI ทั้งตลาด โดยดีดกลับจากแนวรับแถว $77.84 ขณะที่นักลงทุนกลับมาประเมินแนวโน้ม Q3 ที่แข็งแกร่งและลูกค้าคลาวด์รายใหม่"
+                        ],
+               "opportunity":  "หาก Cerebras ปลดล็อกข้อจำกัดด้านไฟฟ้าและศูนย์ข้อมูลได้ตลอดปี 2027 โอกาสเติบโตในตลาด AI Inference ยังเปิดกว้างมาก ผู้บริหารคาดว่ารายได้ Core ไตรมาส 4 จะพุ่งราว 40% จากไตรมาสก่อนสู่ $310–$330 ล้าน พร้อมอัตรากำไรขั้นต้น Core ขยับเป็น 47%–49% และประเมินว่ารายได้ปี 2027 อาจโตถึง 3 เท่าจากการรับรู้รายได้ Microsoft (เริ่ม Q1 2027), Oracle OCI, AWS และ OpenAI นอกจากนี้เทคโนโลยี Disaggregated Inference ที่เปิดตัวเมื่อ 17 พ.ย. ยังช่วยให้ Cerebras ทำงานเสริมกับระบบ GPU เดิมแทนการต้องรื้อเปลี่ยนทั้งหมด ช่วยขยายตลาดองค์กรได้กว้างขึ้น",
+               "opportunityCheck":  "โครงสร้างคะแนนโอกาส AI บนหน้านี้โดยรวมสมเหตุสมผล แต่คะแนนด้านตำแหน่งการแข่งขันในตลาดอาจดูระมัดระวังไปเล็กน้อย การคว้า Microsoft และ Oracle เข้ามาเสริมทัพจาก AWS และ OpenAI พร้อมรายได้คลาวด์โต 272% YoY และงานในมือ $26.1 พันล้าน ช่วยยืนยันการยอมรับในระดับ Hyperscaler ชัดเจนขึ้น จึงสมควรขยับคะแนนด้านตำแหน่งตลาดขึ้นเล็กน้อย อย่างไรก็ดี คะแนนด้านคอขวดและอำนาจกำหนดราคาควรคงไว้ในระดับจำกัด เพราะความล่าช้าด้านศูนย์ข้อมูลในดีล OpenAI และอัตรากำไรขั้นต้น GAAP เพียง 20% สะท้อนว่าบริษัทยังคุมห่วงโซ่การติดตั้งจริงได้ไม่เต็มที่",
+               "pros":  [
+                            "คว้า Microsoft ในเดือนตุลาคม 2026 และ Oracle OCI เมื่อ 27 ต.ค. เพิ่มลูกค้า Hyperscaler เคียงข้าง AWS และ OpenAI",
+                            "รายได้ Core ไตรมาส 3 ปี 2026 โต 70% YoY แตะ $230.9 ล้าน โดยรายได้คลาวด์ Core พุ่งแรง 272% แตะ $144.9 ล้าน",
+                            "ปรับเพิ่มเป้ารายได้ Core ทั้งปี 2026 เป็น $940–$960 ล้าน หนุนด้วยงานในมือ (RPO) สูงถึง $26.1 พันล้าน",
+                            "ทำกำไรสุทธิ Non-GAAP เป็นบวกครั้งแรก $30 ล้านใน Q3 พร้อมเปิดตัวเทคโนโลยี Disaggregated Inference เมื่อ 17 พ.ย."
+                        ],
                "risks":  [
-                             "พึ่งลูกค้ารายเดียว: backlog ส่วนใหญ่ในยอด US$26.1B ขึ้นกับ OpenAI ซึ่งสัญญาล่าช้าและอาจต้องให้เครดิตชดเชย",
-                             "การสร้างดาต้าเซ็นเตอร์ล่าช้า ทำให้การเติบโตของรายได้คลาวด์เลื่อนจากต้นปีไปกลางปี 2027",
-                             "ข้อกล่าวหาของ short seller เรื่องอายุชิปและความคุ้มค่าของสัญญายังไม่มีข้อยุติ",
-                             "ผู้ถือหุ้นวงในขายได้อิสระหลัง lockup สิ้นสุด และผู้บริหารขายหุ้นไปแล้วในเดือนกันยายนและตุลาคม",
-                             "มูลค่าสูง (ราว 30 เท่าของยอดขาย) ในช่วงที่ตลาดกำลังลดมูลค่าหุ้น AI ทั้งกลุ่ม",
-                             "ถ้าราคาหลุดจุดต่ำสุดตลอดกาลที่ 77.84 จะเป็นการยืนยันขาลง"
+                             "ปัญหาขาดแคลนพื้นที่ศูนย์ข้อมูลและกำลังไฟฟ้าอาจทำให้การส่งมอบ 750 MW ให้ OpenAI และการรับรู้รายได้ล่าช้าต่อไปถึงปลายปี 2027",
+                             "ความเสี่ยงจากการพึ่งพาลูกค้ารายใหญ่ไม่กี่ราย เช่น OpenAI, G42 และกลุ่ม Hyperscaler หากจังหวะการติดตั้งสะดุดหรือเงื่อนไขเปลี่ยน",
+                             "ช่องว่างขนาดใหญ่ระหว่างกำไร Non-GAAP ($30 ล้าน) กับขาดทุน GAAP ($161.2 ล้าน) ท่ามกลางความต้องการเงินลงทุนโครงสร้างพื้นฐานที่ยังสูง",
+                             "การพึ่งพาโรงหล่อ TSMC เพียงรายเดียวบนเทคโนโลยี 5nm ควบคู่กับความเสี่ยงจากมาตรการคุมส่งออกชิปและคลาวด์ AI ของสหรัฐฯ ที่เข้มงวดขึ้น",
+                             "ความผันผวนสูงของหุ้นเข้าตลาดใหม่และแรงขายคงค้างหลังสิ้นสุดระยะ IPO Lockup รอบสุดท้ายเมื่อ 9 พ.ย. 2026"
                          ],
-               "summary":  "ธุรกิจกับราคาหุ้นกำลังไปคนละทาง งบ Q3 ดีกว่าคาด เป้ารายได้ปรับขึ้น ได้ Microsoft เป็นลูกค้า และกำไรแบบปรับปรุงพลิกเป็นบวก แต่ราคา CBRS ยังต่ำกว่าจุดสูงสุด 52 สัปดาห์ราว 79% อยู่ใต้ EMA ทุกเส้นที่กำลังชี้ลง และวันที่ 20 พ.ย. ก็ปิดลงพร้อมวอลุ่มหนาหลังเด้งขึ้นระหว่างวันไม่สำเร็จ นักลงทุนกังวลเรื่องความล่าช้าของ OpenAI ข้อกล่าวหาจาก short seller และแรงขายจากผู้ถือหุ้นวงใน MACD และ RSI บอกว่าแรงขายเริ่มชะลอ แต่แนวโน้มยังเป็นขาลง ข้อได้เปรียบเชิงโครงสร้างของชิประดับเวเฟอร์ยังต้องเฝ้าดู จนกว่าบริษัทจะส่งมอบกำลังการผลิตได้ตรงเวลาและข้อสงสัยเรื่องอายุชิปได้รับคำตอบ"
+               "summary":  "หุ้น Cerebras Systems (CBRS) พุ่งขึ้น 19.16% ปิดที่ $98.51 เมื่อ 23 พ.ย. 2026 ตามแรงฟื้นตัวของกลุ่มฮาร์ดแวร์ AI แต่ยังต่ำกว่าจุดสูงสุดหลัง IPO ที่ $386.34 ถึง 74.5% ด้านพื้นฐานงบ Q3 2026 แข็งแกร่งด้วยรายได้ Core โต 70% YoY แตะ $230.9 ล้าน พร้อมปรับเป้ารายได้ทั้งปีเป็น $940–$960 ล้าน และได้ Microsoft กับ Oracle เข้ามาเสริมทัพจาก AWS และ OpenAI อย่างไรก็ดี ปัญหาศูนย์ข้อมูลและไฟฟ้าที่ทำให้ดีล OpenAI เฟสแรก 250 MW ล่าช้า มาร์จิ้น GAAP ที่ยังบางเพียง 20% และการปลดล็อกหุ้น Lockup เมื่อ 9 พ.ย. ทำให้หลายโบรกเกอร์ลดราคาเป้าหมายและภาพเทคนิคยังเป็นขาลง",
+               "technical":  "เนื่องจาก CBRS เพิ่งเข้าตลาดเมื่อเดือนพฤษภาคม 2026 โดยมีประวัติซื้อขายเพียง 134 วัน จึงยังไม่มีเส้น EMA 200 (ค่าเฉลี่ยเคลื่อนที่ที่ให้น้ำหนักราคาล่าสุดเพื่อวัดแนวโน้ม) ทำให้ประเมินได้เฉพาะแนวโน้มระยะกลางซึ่งยังคงเป็นขาลงชัดเจน แม้ราคาจะดีดขึ้น 19.16% มาที่ $98.51 เมื่อ 23 พ.ย. แต่ยังอยู่ต่ำกว่า EMA 50 ($130.32) และ EMA 100 ($161.22) โดย EMA 50 ต่ำกว่า EMA 100 ตอกย้ำโครงสร้างขาลง ด้านโมเมนตัมเริ่มทรงตัวจากจุดตกต่ำ ค่า MACD (12/26/9 ตัวชี้วัดโมเมนตัมจากส่วนต่างค่าเฉลี่ยระยะสั้นและยาว) ยังติดลบหนักที่ -11.79 แต่ตัดขึ้นเหนือเส้น Signal (-13.99) จนค่า Histogram เป็นบวก +2.20 สะท้อนแรงขายที่แผ่วลง ส่วน RSI 14 (ดัชนีวัดแรงซื้อขาย 0–100 โดยต่ำกว่า 30 คือเขตขายมากเกินไป) ฟื้นมาที่ 44.18 แต่ยังไม่ผ่านระดับกลาง 50 บนกรอบ Bollinger Bands (20/2 แถบความผันผวนรอบค่าเฉลี่ย 20 วัน) ราคาชนเส้นกลางที่ $98.95 พอดี ทำให้โซน $99–$101 เป็นแนวต้านแรก ถัดไปคือขอบบน $118.98 ขณะที่ขอบล่าง $78.92 และจุดต่ำสุดรอบ 52 สัปดาห์ที่ $77.84 (เทียบจุดสูงสุด $386.34) เป็นแนวรับสำคัญ ปริมาณซื้อขาย 15.10 ล้านหุ้นสูงกว่าค่าเฉลี่ย 20 วันที่ 14.09 ล้านหุ้นเพียงเล็กน้อย จึงยังยืนยันการกลับตัวได้ไม่เต็มที่"
            },
     "sources":  [
                     {
-                        "title":  "Cerebras pops after beating on quarterly revenue and announcing Microsoft deal",
-                        "publisher":  "CNBC",
-                        "url":  "https://www.cnbc.com/2026/11/12/cerebras-systems-cbrs-q3-earnings-report-2026.html",
-                        "date":  "2026-11-12"
+                        "date":  "2026-11-12",
+                        "publisher":  "Cerebras Systems",
+                        "title":  "Cerebras Systems Delivers Record Revenue in Third Quarter 2026, Raises Full-Year Outlook",
+                        "url":  "https://investors.cerebras.ai/news-events/news-releases/news-release-details/2026/Cerebras-Systems-Delivers-Record-Revenue-in-Third-Quarter-2026-Raises-Full-Year-Outlook/default.aspx"
                     },
                     {
-                        "title":  "Earnings call transcript: Cerebras tops guidance in Q3 2026, shares jump after hours",
-                        "publisher":  "Investing.com",
-                        "url":  "https://ca.investing.com/news/stock-market-news/earnings-call-transcript-cerebras-tops-guidance-in-q3-2026-shares-jump-after-hours-93CH-4954668",
-                        "date":  "2026-11-12"
+                        "date":  "2026-10-27",
+                        "publisher":  "Oracle",
+                        "title":  "Cerebras and Oracle Team Up to Bring Cerebras AI Inference to Oracle Cloud Infrastructure",
+                        "url":  "https://www.oracle.com/news/announcement/cerebras-and-oracle-team-up-to-bring-cerebras-ai-inference-to-oracle-cloud-infrastructure-2026-10-27/"
                     },
                     {
-                        "title":  "Cerebras earnings analysis: questions answered and next catalysts",
-                        "publisher":  "Investing.com",
-                        "url":  "https://in.investing.com/news/stock-market-news/cerebras-earnings-analysis-questions-answered-and-next-catalysts-93CH-5703909",
-                        "date":  "2026-11-13"
+                        "date":  "2026-11-17",
+                        "publisher":  "Cerebras Systems",
+                        "title":  "Cerebras Launches Disaggregated Inference",
+                        "url":  "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference"
                     },
                     {
-                        "title":  "What Explains The Drop In Cerebras Stock?",
-                        "publisher":  "Trefis",
-                        "url":  "https://www.trefis.com/stock/cbrs/articles/626899/what-explains-the-drop-in-cerebras-stock/2026-11-19",
-                        "date":  "2026-11-19"
+                        "date":  "2026-11-12",
+                        "publisher":  "Crypto Briefing",
+                        "title":  "Cerebras falls behind on first OpenAI capacity tranches as data center deals lag",
+                        "url":  "https://cryptobriefing.com/cerebras-falls-behind-on-first-openai-capacity-tranches-as-data-center-deals-lag/"
                     },
                     {
-                        "title":  "Cerebras chips have shorter lifespans than statements suggest, short seller report claims",
-                        "publisher":  "DatacenterDynamics",
-                        "url":  "https://datacenterdynamics.com/en/news/cerebras-chips-have-shorter-lifespans-than-statements-suggest-short-seller-report-claims",
-                        "date":  "2026-10-28"
+                        "date":  "",
+                        "publisher":  "Benzinga",
+                        "title":  "Cerebras (CBRS) Stock Is Trending Pre-Market: Here\u0027s Why",
+                        "url":  "https://www.benzinga.com/markets/equities/26/11/48858223/cerebras-cbrs-stock-is-trending-pre-market-heres-why"
                     },
                     {
-                        "title":  "Cerebras Systems Inc. Class A Common Stock down 4.93% on Friday",
-                        "publisher":  "Global Banking \u0026 Finance Review",
-                        "url":  "https://www.globalbankingandfinance.com/cerebras-systems-inc-class-a-common-stock-cbrs-falls-2026-11-20/",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-23",
+                        "publisher":  "GuruFocus",
+                        "title":  "Cerebras Systems (CBRS) Shares Surge 18% Amid Market Rally",
+                        "url":  "https://www.gurufocus.com/news/2988383/cerebras-systems-cbrs-shares-surge-18-amid-market-rally-high"
+                    },
+                    {
+                        "date":  "",
+                        "publisher":  "MarketBeat",
+                        "title":  "Cerebras Systems (CBRS) Stock Forecast and Price Target 2026",
+                        "url":  "https://www.marketbeat.com/stocks/NASDAQ/CBRS/forecast/"
                     }
                 ]
 }

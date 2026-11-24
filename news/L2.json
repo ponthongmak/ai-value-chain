@@ -4,69 +4,56 @@
     "model":  "gemini-4-neon-high",
     "provider":  "antigravity",
     "account":  "Antigravity (Google)",
-    "generatedAt":  "2026-11-23T05:25:53Z",
+    "generatedAt":  "2026-11-24T03:19:54Z",
     "period":  [
-                   "2026-11-09",
-                   "2026-11-23"
+                   "2026-11-10",
+                   "2026-11-24"
                ],
     "costUsd":  null,
     "brief":  {
-                  "en":  "AI chip fundamentals stayed exceptionally strong—led by NVIDIA doubling Q3 revenue to $115.8B, TSMC approving $40.93B in capex, and Applied Materials growing Q4 revenue 53%—even as governance and regulatory shocks rattled the layer. Jensen Huang\u0027s abrupt resignation and a Reuters-reported SEC accounting probe hit NVIDIA, while Washington expanded AI chip export controls to five countries and offshore cloud compute and pushed the MATCH Act targeting ASML. Across memory and packaging, SK hynix, Micron, and KLA accelerated capacity expansions even as a U.S. judge allowed a DRAM price-fixing antitrust suit to proceed against the top three memory makers.",
-                  "th":  "พื้นฐานธุรกิจชิป AI ยังเติบโตแข็งแกร่งมาก นำโดย NVIDIA ที่รายได้ไตรมาส 3 พุ่งเท่าตัวแตะ $115.8B, TSMC อนุมัติงบลงทุน $40.93B และ Applied Materials ที่รายได้โต 53% ท่ามกลางแรงสั่นสะเทือนด้านธรรมาภิบาลและกฎระเบียบ การลาออกกะทันหันของ Jensen Huang และข่าว SEC สอบสวนบัญชี NVIDIA กดดันความเชื่อมั่น ขณะที่สหรัฐฯ ขยายมาตรการคุมส่งออกชิป AI สู่ 5 ประเทศและการเข้าถึงคลาวด์นอกสหรัฐฯ พร้อมผลักดันร่างกฎหมาย MATCH Act ที่กระทบ ASML ด้านกลุ่มหน่วยความจำและแพ็กเกจจิ้งทั้ง SK hynix, Micron และ KLA ยังเร่งขยายกำลังผลิต แม้ศาลสหรัฐฯ จะสั่งเดินหน้าคดีผูกขาดราคา DRAM กับผู้ผลิตหน่วยความจำรายใหญ่ทั้งสามรายก็ตาม"
+                  "en":  "AI chip demand remained extraordinary in mid-November as NVIDIA doubled Q3 revenue to $115.8 billion alongside a rapid Vera Rubin ramp, TSMC posted record October sales, and Applied Materials beat estimates with stronger 2027 equipment momentum. At the same time, governance drama over Jensen Huang\u0027s brief departure and swift reinstatement, new U.S. BIS remote-compute and Southeast Asia export controls, and reports of Google trimming 2027 Broadcom TPU orders drove sharp sector volatility. Across memory and wafer-fab equipment, SK hynix, Samsung, Micron, and KLA accelerated HBM4 and advanced packaging capacity to meet multi-year AI infrastructure commitments.",
+                  "th":  "ความต้องการชิป AI ยังเติบโตอย่างร้อนแรงในช่วงกลางเดือนพฤศจิกายน โดย NVIDIA ทำรายได้ไตรมาส 3 พุ่งเท่าตัวแตะ 115.8 พันล้านดอลลาร์พร้อมการเร่งส่งมอบ Vera Rubin ขณะที่ TSMC ทำยอดขายเดือนตุลาคมสูงสุดเป็นประวัติการณ์ และ Applied Materials ส่งสัญญาณการลงทุนเครื่องจักรผลิตชิปที่เร่งตัวสู่ปี 2027 อย่างไรก็ตาม กลุ่มชิปเผชิญความผันผวนรุนแรงจากเหตุการณ์ลาออกและกลับมาดำรงตำแหน่ง CEO อย่างรวดเร็วของ Jensen Huang เกณฑ์คุมส่งออกชิป AI ฉบับใหม่ของสหรัฐฯ ที่ครอบคลุมการเช่าใช้คลาวด์และประเทศในเอเชียตะวันออกเฉียงใต้ รวมถึงรายงานข่าว Google ปรับลดยอดสั่งซื้อ TPU จาก Broadcom ด้านกลุ่มหน่วยความจำและเครื่องจักรอย่าง SK hynix, Samsung, Micron และ KLA ต่างเร่งขยายกำลังผลิต HBM4 และบรรจุภัณฑ์ขั้นสูงเพื่อรองรับคำสั่งซื้อระยะยาวต่อเนื่อง"
               },
     "themes":  {
                    "en":  [
-                              "NVIDIA governance and SEC shock",
-                              "Expanded US AI export curbs",
-                              "Record AI foundry and WFE spend",
-                              "HBM expansion meets antitrust scrutiny"
+                              "Vera Rubin \u0026 AI Boom",
+                              "NVIDIA CEO Whiplash",
+                              "Remote-Compute Export Curbs",
+                              "HBM4 \u0026 Packaging Scale-Up"
                           ],
                    "th":  [
-                              "แรงสั่นสะเทือนผู้บริหารและคดี SEC ของ NVIDIA",
-                              "สหรัฐฯ ขยายมาตรการคุมส่งออกชิป AI",
-                              "งบลงทุนโรงงานและเครื่องจักรชิป AI ทำสถิติใหม่",
-                              "เร่งขยายกำลังผลิต HBM ท่ามกลางคดีผูกขาดราคา"
+                              "แรงส่ง Vera Rubin และดีมานด์ AI",
+                              "จุดเปลี่ยน CEO ของ NVIDIA",
+                              "เกณฑ์คุมส่งออกคลาวด์ AI สหรัฐฯ",
+                              "เร่งขยายกำลังผลิต HBM4 และแพ็กเกจจิ้ง"
                           ]
                },
     "items":  [
                   {
-                      "date":  "2026-11-12",
-                      "impact":  "negative",
-                      "publisher":  "NVIDIA Newsroom",
+                      "date":  "2026-11-23",
+                      "impact":  "positive",
+                      "publisher":  "NVIDIA",
                       "tickers":  [
                                       "NVDA"
                                   ],
-                      "title_en":  "Jensen Huang resigns as NVIDIA CEO; CFO Colette Kress named interim chief",
-                      "title_th":  "Jensen Huang ลาออกจาก CEO ของ NVIDIA ตั้ง CFO Colette Kress รักษาการแทน",
-                      "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-                      "why_en":  "Huang\u0027s immediate exit from the CEO role and board after 33 years creates major leadership and strategic-continuity risk at the core supplier of AI compute while NVIDIA searches for a permanent successor.",
-                      "why_th":  "การลงจากตำแหน่ง CEO และบอร์ดอย่างกะทันหันหลังนำทัพมายาวนาน 33 ปี สร้างความเสี่ยงด้านผู้นำและความต่อเนื่องเชิงกลยุทธ์ต่อแกนหลักของอุตสาหกรรมชิป AI ระหว่างรอสรรหาผู้สืบทอดถาวร"
-                  },
-                  {
-                      "date":  "2026-11-20",
-                      "impact":  "negative",
-                      "publisher":  "Reuters",
-                      "tickers":  [
-                                      "NVDA"
-                                  ],
-                      "title_en":  "US SEC investigating NVIDIA accounting practices, Reuters reports",
-                      "title_th":  "Reuters รายงาน SEC สหรัฐฯ กำลังสอบสวนแนวปฏิบัติทางบัญชีของ NVIDIA",
-                      "url":  "https://www.reuters.com/technology/nvidias-accounting-focus-us-sec-investigation-sources-say-2026-11-20/",
-                      "why_en":  "An enforcement inquiry focused on accounting and revenue disclosures compounds governance overhang after the CEO transition and coincided with a roughly 13% single-day drop in NVDA shares.",
-                      "why_th":  "การตรวจสอบด้านบัญชีและการเปิดเผยรายได้ซ้ำเติมความกังวลด้านธรรมาภิบาลหลังการเปลี่ยนตัว CEO และเป็นปัจจัยกดดันให้หุ้น NVDA ร่วงลงราว 13% ในวันเดียว"
+                      "title_en":  "NVIDIA board unanimously reinstates Jensen Huang as CEO",
+                      "title_th":  "บอร์ด NVIDIA มีมติเอกฉันท์ให้ Jensen Huang กลับมาเป็น CEO",
+                      "url":  "https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director",
+                      "why_en":  "Bringing Huang back 11 days after his resignation removes acute leadership overhang and restores continuity across NVIDIA\u0027s AI roadmap and hyperscaler supply partnerships.",
+                      "why_th":  "การกลับมาของ Huang ภายใน 11 วันหลังลาออกช่วยขจัดความไม่แน่นอนด้านผู้นำ และรักษาความต่อเนื่องของแผนพัฒนาชิป AI รวมถึงความร่วมมือกับกลุ่มคลาวด์รายใหญ่"
                   },
                   {
                       "date":  "2026-11-17",
                       "impact":  "positive",
-                      "publisher":  "NVIDIA Newsroom",
+                      "publisher":  "NVIDIA",
                       "tickers":  [
                                       "NVDA"
                                   ],
-                      "title_en":  "NVIDIA Q3 FY27 revenue doubles to $115.8B; Q4 guided to $130B",
-                      "title_th":  "NVIDIA รายได้ไตรมาส 3 ปีงบฯ 27 โตเท่าตัวแตะ $115.8B คาดไตรมาส 4 แตะ $130B",
+                      "title_en":  "NVIDIA Q3 revenue doubles to $115.8B as Vera Rubin ramps",
+                      "title_th":  "รายได้ไตรมาส 3 ของ NVIDIA โตเท่าตัวแตะ $115.8B หนุนโดย Vera Rubin",
                       "url":  "https://nvidianews.nvidia.com/news/nvidia-announces-financial-results-for-third-quarter-fiscal-2027",
-                      "why_en":  "Data Center revenue rose 110% year-over-year to $107.6 billion on Vera Rubin demand, confirming massive hyperscaler spend even as Q4 gross margin is guided down to 71%–72% from 74.8% with zero China data center compute assumed.",
-                      "why_th":  "รายได้ Data Center พุ่ง 110% YoY แตะ $107.6B จากดีมานด์แพลตฟอร์ม Vera Rubin สะท้อนการใช้จ่ายของกลุ่ม hyperscaler ที่ยังมหาศาล แม้แนวโน้มอัตรากำไรขั้นต้นไตรมาส 4 จะชะลอลงสู่ 71%–72% จาก 74.8% โดยไม่รวมรายได้ชิปศูนย์ข้อมูลจากจีน"
+                      "why_en":  "Data center sales surged 110% YoY to $107.6 billion with Vera Rubin NVL72 nearing $20 billion in its debut quarter, while $130.0 billion Q4 guidance confirms unabated AI compute demand.",
+                      "why_th":  "รายได้กลุ่ม Data Center พุ่ง 110% YoY แตะ 107.6 พันล้านดอลลาร์ โดย Vera Rubin NVL72 ทำยอดขายเกือบ 20 พันล้านดอลลาร์ตั้งแต่ไตรมาสแรกที่เริ่มส่งมอบ พร้อมคาดการณ์รายได้ไตรมาส 4 ที่ 130.0 พันล้านดอลลาร์สะท้อนดีมานด์ที่ยังแข็งแกร่งมาก"
                   },
                   {
                       "date":  "2026-11-19",
@@ -75,169 +62,177 @@
                       "tickers":  [
                                       "NVDA",
                                       "AMD",
+                                      "CBRS",
                                       "AVGO",
                                       "MRVL",
-                                      "CBRS",
-                                      "TSM"
+                                      "TSM",
+                                      "SMSN"
                                   ],
-                      "title_en":  "US expands AI chip export curbs to five countries and remote cloud access",
-                      "title_th":  "สหรัฐฯ ขยายมาตรการคุมส่งออกชิป AI สู่ 5 ประเทศและคุมการใช้คลาวด์จากระยะไกล",
-                      "url":  "https://www.federalregister.gov/documents/2026/11/19/2026-23529/addressing-remote-access-to-advanced-semiconductors",
-                      "why_en":  "The BIS interim final rule requires export licenses for advanced AI chips shipped to Singapore, Malaysia, Indonesia, Thailand, and Brazil—and for offshore data centers above 12 million TPP serving Chinese entities—adding compliance friction across the AI chip supply chain.",
-                      "why_th":  "กฎชั่วคราวของ BIS กำหนดให้ต้องขอใบอนุญาตส่งออกชิป AI ขั้นสูงไปยังสิงคโปร์ มาเลเซีย อินโดนีเซีย ไทย และบราซิล รวมถึงศูนย์ข้อมูลนอกสหรัฐฯ ที่มีกำลังประมวลผลเกิน 12 ล้าน TPP ที่ให้บริการบริษัทจีน เพิ่มต้นทุนการปฏิบัติตามกฎและจำกัดดีมานด์นอกประเทศตลอดห่วงโซ่ชิป AI"
+                      "title_en":  "US BIS restricts remote AI chip access and tightens regional licensing",
+                      "title_th":  "สหรัฐฯ ออกเกณฑ์คุมการเข้าถึงชิป AI ผ่านคลาวด์และเพิ่มใบอนุญาตส่งออกในภูมิภาค",
+                      "url":  "https://www.federalregister.gov/d/2026-23529",
+                      "why_en":  "The interim rule requires licenses for remote compute above 12 million TPP for restricted-country entities and adds licensing for shipments to Singapore, Malaysia, Thailand, Indonesia, and Brazil, raising compliance friction across AI chipmakers and foundries.",
+                      "why_th":  "เกณฑ์ใหม่กำหนดให้ต้องขอใบอนุญาตหากให้บริการเช่าใช้พลังประมวลผลเกิน 12 ล้าน TPP แก่องค์กรจากประเทศต้องห้าม และเพิ่มข้อกำหนดใบอนุญาตส่งออกไปสิงคโปร์ มาเลเซีย ไทย อินโดนีเซีย และบราซิล ซึ่งเพิ่มต้นทุนและข้อจำกัดให้ผู้ผลิตชิปและโรงงานรับจ้างผลิต"
                   },
                   {
-                      "date":  "2026-11-11",
+                      "date":  "2026-11-10",
                       "impact":  "positive",
-                      "publisher":  "Focus Taiwan",
+                      "publisher":  "TSMC",
                       "tickers":  [
-                                      "TSM",
-                                      "ASML",
-                                      "AMAT",
-                                      "LRCX",
-                                      "KLAC"
+                                      "TSM"
                                   ],
-                      "title_en":  "TSMC board approves $40.93B capex and lifts quarterly dividend to NT$9",
-                      "title_th":  "บอร์ด TSMC อนุมัติงบลงทุน $40.93B พร้อมเพิ่มเงินปันผลรายไตรมาสเป็น NT$9",
-                      "url":  "https://focustaiwan.tw/business/202611110006",
-                      "why_en":  "Authorizing $40.93 billion for leading-edge fabs, advanced CoWoS packaging, and R\u0026D—alongside raising the Q3 dividend from NT$7 to NT$9—signals multi-year AI wafer demand and sustained tool orders for equipment suppliers.",
-                      "why_th":  "การอนุมัติงบลงทุนถึง $40.93B สำหรับโรงงานโหนดขั้นสูง แพ็กเกจจิ้ง CoWoS และ R\u0026D ควบคู่กับการขึ้นปันผลจาก NT$7 เป็น NT$9 สะท้อนดีมานด์เวเฟอร์ AI ระยะยาวและหนุนยอดสั่งซื้อเครื่องจักรผลิตชิปต่อเนื่อง"
+                      "title_en":  "TSMC October revenue hits record NT$586.89 billion, up 59.7% YoY",
+                      "title_th":  "รายได้เดือนตุลาคมของ TSMC ทำสถิติใหม่ที่ NT$586.89 พันล้าน โต 59.7% YoY",
+                      "url":  "https://pr.tsmc.com/english/news/3349",
+                      "why_en":  "Record monthly sales (+14.7% MoM) lifted January–October revenue 43.3% YoY to NT$4.49 trillion, confirming tight utilization in leading-edge logic and CoWoS AI packaging.",
+                      "why_th":  "ยอดขายรายเดือนที่โต 14.7% จากเดือนก่อนหน้าดันรายได้สะสม 10 เดือนแรกโต 43.3% YoY แตะ 4.49 ล้านล้านดอลลาร์ไต้หวัน ยืนยันอัตราการใช้กำลังการผลิตที่หนาแน่นทั้งชิปขั้นสูงและบรรจุภัณฑ์ CoWoS"
                   },
                   {
                       "date":  "2026-11-20",
-                      "impact":  "positive",
-                      "publisher":  "Anthropic",
+                      "impact":  "negative",
+                      "publisher":  "Investing.com",
                       "tickers":  [
-                                      "AVGO",
-                                      "NVDA",
-                                      "AMD",
-                                      "TSM",
+                                      "AVGO"
+                                  ],
+                      "title_en":  "Report says Google cut 2027 Broadcom TPU 8i shipments by 20%",
+                      "title_th":  "รายงานระบุ Google ลดแผนสั่งซื้อชิป TPU 8i ปี 2027 จาก Broadcom ลง 20%",
+                      "url":  "https://www.investing.com/news/stock-market-news/google-reportedly-cuts-broadcomdesigned-tpu-plans-eyes-more-mediatek-chips-93CH-3694292",
+                      "why_en":  "Analyst Ming-Chi Kuo estimated Google trimmed Broadcom-designed TPU 8i orders by about 1 million units while boosting MediaTek TPU 8t volume, highlighting customer-concentration and custom-ASIC competition risks.",
+                      "why_th":  "นักวิเคราะห์ Ming-Chi Kuo ระบุว่า Google ปรับลดยอดสั่งซื้อ TPU 8i ที่ออกแบบร่วมกับ Broadcom ราว 1 ล้านชิ้นเพื่อหันไปเพิ่มคำสั่งซื้อ TPU 8t จาก MediaTek สะท้อนความเสี่ยงจากการพึ่งพาลูกค้ารายใหญ่และการแข่งขันในตลาดชิป ASIC"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "impact":  "positive",
+                      "publisher":  "Applied Materials",
+                      "tickers":  [
+                                      "AMAT"
+                                  ],
+                      "title_en":  "Applied Materials Q4 revenue jumps 53% to $10.41 billion",
+                      "title_th":  "Applied Materials ทำรายได้ไตรมาส 4 พุ่ง 53% แตะ $10.41 พันล้าน",
+                      "url":  "https://ir.appliedmaterials.com/static-files/ad12d807-bb15-4518-bc3c-8081e5351c35",
+                      "why_en":  "Beating estimates with $4.16 EPS and guiding Q1 FY2027 revenue to $11.10 billion (+/- $500M) points to accelerating fab equipment spending across advanced logic, DRAM, and packaging.",
+                      "why_th":  "กำไรต่อหุ้นที่ 4.16 ดอลลาร์สูงกว่าคาดพร้อมแนวโน้มรายได้ไตรมาส 1 ปีบัญชี 2027 ที่ 11.10 พันล้านดอลลาร์ (+/- 500 ล้านดอลลาร์) สะท้อนรอบการลงทุนเครื่องจักรผลิตชิปขั้นสูง DRAM และแพ็กเกจจิ้งที่เร่งตัวขึ้น"
+                  },
+                  {
+                      "date":  "2026-11-18",
+                      "impact":  "positive",
+                      "publisher":  "Investing.com",
+                      "tickers":  [
+                                      "AMAT",
+                                      "ASML",
+                                      "LRCX",
+                                      "KLAC"
+                                  ],
+                      "title_en":  "Bernstein raises 2028 wafer-fab equipment spending forecast to $279 billion",
+                      "title_th":  "Bernstein ปรับเพิ่มคาดการณ์ตลาดเครื่องจักรผลิตชิปปี 2028 แตะ $279 พันล้าน",
+                      "url":  "https://www.investing.com/news/stock-market-news/bernstein-names-top-semiconductor-equipment-stocks-as-chip-spending-accelerates-932CH-3829422",
+                      "why_en":  "Lifting global WFE projections to $217 billion in 2027 and $279 billion in 2028 underscores multi-year structural tool demand for AI logic, HBM, and advanced packaging across leading equipment makers.",
+                      "why_th":  "การปรับเพิ่มคาดการณ์ยอดใช้จ่ายเครื่องจักร WFE ทั่วโลกเป็น 217 พันล้านดอลลาร์ในปี 2027 และ 279 พันล้านดอลลาร์ในปี 2028 ตอกย้ำวัฏจักรการลงทุนระยะยาวในชิป AI และหน่วยความจำ HBM ของผู้ผลิตเครื่องจักรชั้นนำ"
+                  },
+                  {
+                      "date":  "2026-11-17",
+                      "impact":  "positive",
+                      "publisher":  "AMD",
+                      "tickers":  [
+                                      "AMD"
+                                  ],
+                      "title_en":  "AMD completes $2.9 billion Taalas acquisition to expand AI inference",
+                      "title_th":  "AMD ปิดดีลซื้อกิจการ Taalas มูลค่า $2.9 พันล้าน เสริมทัพชิป AI Inference",
+                      "url":  "https://newsroom.amd.com/news/2026-11-17-amd-completes-acquisition-of-taalas-to-advance-ai-inference-innovation",
+                      "why_en":  "Integrating Taalas (in a deal including up to $1.4 billion in milestone payouts) adds hardwired single-model silicon alongside Instinct GPUs to improve AI inference speed and efficiency.",
+                      "why_th":  "การเข้าซื้อ Taalas (ซึ่งรวมมูลค่าตามเป้าหมายสูงสุด 1.4 พันล้านดอลลาร์) ช่วยเพิ่มเทคโนโลยีชิปที่ฝังโมเดล AI ลงบนซิลิคอนโดยตรงมาเสริมกับ Instinct GPU เพื่อเพิ่มความเร็วและลดต้นทุนงาน Inference"
+                  },
+                  {
+                      "date":  "2026-11-12",
+                      "impact":  "positive",
+                      "publisher":  "AMD",
+                      "tickers":  [
+                                      "AMD"
+                                  ],
+                      "title_en":  "AMD advances Instinct MI400 series on Helios rack-scale AI systems",
+                      "title_th":  "AMD เผยความคืบหน้าชิป Instinct MI400 และระบบแร็ค Helios สำหรับงาน AI",
+                      "url":  "https://newsroom.amd.com/news/2026-11-12-amd-advances-the-instinct-mi400-series-for-ai-and-scientific-computing",
+                      "why_en":  "Detailing the HBM4-equipped MI430X and Helios rack-scale performance for MI450X and MI455X strengthens AMD\u0027s merchant-GPU roadmap for both sovereign supercomputers and hyperscale AI buyers.",
+                      "why_th":  "การเปิดรายละเอียดชิป MI430X ที่ใช้หน่วยความจำ HBM4 รวมถึงประสิทธิภาพของ MI450X และ MI455X บนระบบแร็ค Helios ช่วยเสริมความแข็งแกร่งให้แผนผลิตภัณฑ์ GPU ทางเลือกหลักรองจาก NVIDIA"
+                  },
+                  {
+                      "date":  "2026-11-13",
+                      "impact":  "mixed",
+                      "publisher":  "DIGITIMES",
+                      "tickers":  [
+                                      "SKH",
+                                      "SMSN"
+                                  ],
+                      "title_en":  "SK hynix HBM4 yield tops 70% as Samsung expands Onyang packaging",
+                      "title_th":  "อัตราผลิตดี HBM4 ของ SK hynix ทะลุ 70% ขณะที่ Samsung ขยายฐานแพ็กเกจจิ้ง Onyang",
+                      "url":  "https://www.digitimes.com/news/20261113VL215/sk-hynix-hbm4-yield-samsung-packaging.html",
+                      "why_en":  "Surpassing 70% HBM4 production yields strengthens SK hynix\u0027s volume readiness for next-gen AI accelerators, while Samsung\u0027s packaging scale-up at Onyang intensifies competition for 2027 HBM4 share.",
+                      "why_th":  "อัตราผลผลิตดี (yield) ที่เกิน 70% ตอกย้ำความพร้อมของ SK hynix ในการส่งมอบ HBM4 ปริมาณมากให้ชิป AI รุ่นใหม่ ขณะที่ Samsung เร่งขยายกำลังผลิตแพ็กเกจจิ้งที่โรงงาน Onyang ทำให้การแข่งขันชิงส่วนแบ่งตลาดปี 2027 ดุเดือดขึ้น"
+                  },
+                  {
+                      "date":  "2026-11-19",
+                      "impact":  "positive",
+                      "publisher":  "Singapore Economic Development Board",
+                      "tickers":  [
                                       "MU"
                                   ],
-                      "title_en":  "Anthropic closes IPO and $26B private placement with Broadcom, NVIDIA, AMD, TSMC, Micron",
-                      "title_th":  "Anthropic ปิดดีล IPO พร้อมขายหุ้นเฉพาะเจาะจง $26B ให้ Broadcom, NVIDIA, AMD, TSMC และ Micron",
-                      "url":  "https://anthropic.com/news/anthropic-announces-closing-of-initial-public-offering-including-full-exercise-of-underwriters-option-to-purchase-additional-shares-and-closing-of-concurrent-private-placement",
-                      "why_en":  "Anthropic\u0027s public listing and $26.0 billion concurrent Class N placement at $83 per share deepen capital ties with key ASIC, GPU, foundry, and memory suppliers while strengthening a major frontier AI customer\u0027s funding runway.",
-                      "why_th":  "การเข้าตลาดหุ้นและการระดมทุนเฉพาะเจาะจง $26.0B ที่ราคา $83 ต่อหุ้น ช่วยเสริมฐานเงินทุนให้ลูกค้ารายใหญ่ด้านโมเดล AI และกระชับความร่วมมือระยะยาวกับซัพพลายเออร์หลักทั้งฝั่ง ASIC, GPU, foundry และหน่วยความจำ"
+                      "title_en":  "Micron moves first tool into $7 billion Singapore HBM packaging plant",
+                      "title_th":  "Micron เริ่มติดตั้งเครื่องจักรชุดแรกในโรงงานแพ็กเกจจิ้ง HBM มูลค่า $7 พันล้านที่สิงคโปร์",
+                      "url":  "https://www.edb.gov.sg/en/news-and-insights/micron-marks-first-tool-move-in-at-singapore-hbm-advanced-packaging-facility.html",
+                      "why_en":  "Installing the first cleanroom process tool keeps Micron\u0027s $7 billion HBM packaging facility on schedule for early-2027 initial output as its 2027 HBM capacity remains heavily committed.",
+                      "why_th":  "การนำเครื่องจักรเข้าห้องปลอดเชื้อชุดแรกช่วยให้โรงงานแพ็กเกจจิ้ง HBM มูลค่า 7 พันล้านดอลลาร์เดินหน้าตามแผนเพื่อเริ่มผลิตช่วงต้นปี 2027 รองรับคำสั่งซื้อ HBM ปี 2027 ที่ถูกจองไว้เกือบเต็มแล้ว"
                   },
                   {
                       "date":  "2026-11-12",
                       "impact":  "positive",
                       "publisher":  "GlobeNewswire",
                       "tickers":  [
-                                      "AMAT"
-                                  ],
-                      "title_en":  "Applied Materials Q4 revenue jumps 53% to $10.41B with strong Q1 outlook",
-                      "title_th":  "Applied Materials รายได้ไตรมาส 4 พุ่ง 53% แตะ $10.41B พร้อมคาดการณ์ไตรมาส 1 แข็งแกร่ง",
-                      "url":  "https://www.globenewswire.com/news-release/2026/11/12/3387854/0/en/Applied-Materials-Announces-Fourth-Quarter-and-Fiscal-Year-2026-Results.html",
-                      "why_en":  "Record quarterly revenue of $10.41 billion, 50.6% non-GAAP gross margin, and ~$11.1 billion Q1 revenue guidance highlight accelerating wafer-fab equipment spending in leading-edge logic, DRAM, and advanced packaging.",
-                      "why_th":  "รายได้สูงสุดเป็นประวัติการณ์ที่ $10.41B อัตรากำไรขั้นต้น non-GAAP ที่ 50.6% และคาดการณ์รายได้ไตรมาส 1 ราว $11.1B ยืนยันวัฏจักรการลงทุนเครื่องจักรผลิตชิปที่เร่งตัวในกลุ่มลอจิกขั้นสูง DRAM และแพ็กเกจจิ้งขั้นสูง"
-                  },
-                  {
-                      "date":  "2026-11-12",
-                      "impact":  "positive",
-                      "publisher":  "Cerebras Systems",
-                      "tickers":  [
                                       "CBRS"
                                   ],
-                      "title_en":  "Cerebras Q3 core revenue grows 70% to $230.9M as Microsoft signs on",
-                      "title_th":  "Cerebras รายได้หลักไตรมาส 3 โต 70% แตะ $230.9M พร้อมคว้า Microsoft เป็นลูกค้าคลาวด์รายใหม่",
-                      "url":  "https://investors.cerebras.ai/news/news-details/2026/Cerebras-Systems-Delivers-Record-Revenue-in-Third-Quarter-2026-Raises-Full-Year-Outlook/default.aspx",
-                      "why_en":  "Signing Microsoft alongside AWS and Oracle, posting its first non-GAAP profit of $29.8 million, and raising 2026 core revenue guidance to $940–$960 million validate hyperscale demand for wafer-scale AI inference.",
-                      "why_th":  "การได้ Microsoft เพิ่มเป็นลูกค้า hyperscaler รายที่สามต่อจาก AWS และ Oracle การพลิกมีกำไร non-GAAP ครั้งแรก $29.8M และการปรับเป้ารายได้หลักทั้งปี 2026 ขึ้นเป็น $940–$960M พิสูจน์การยอมรับเทคโนโลยี wafer-scale ในงาน AI inference"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "negative",
-                      "publisher":  "POLITICO Europe",
-                      "tickers":  [
-                                      "ASML"
-                                  ],
-                      "title_en":  "Dutch government rejects US MATCH Act targeting ASML DUV tools and China servicing",
-                      "title_th":  "รัฐบาลเนเธอร์แลนด์คัดค้านร่างกฎหมาย MATCH Act ของสหรัฐฯ ที่มุ่งจำกัดเครื่อง DUV และบริการของ ASML ในจีน",
-                      "url":  "https://www.politico.eu/article/dutch-resist-unacceptable-us-bid-to-tighten-semiconductor-export-controls-asml/",
-                      "why_en":  "Although The Hague called the bill\u0027s extraterritorial 150-day mandate unacceptable, the US legislative push threatens new DUV tool sales and recurring maintenance revenue in China, which represents roughly a third of ASML\u0027s sales.",
-                      "why_th":  "แม้เนเธอร์แลนด์จะปฏิเสธข้อกำหนดนอกอาณาเขตที่ให้เวลา 150 วันในการคุมเข้มตามสหรัฐฯ แต่แรงกดดันจากสภาคองเกรสยังสร้างความเสี่ยงต่อยอดขายเครื่อง DUV และรายได้บริการซ่อมบำรุงในจีนซึ่งคิดเป็นราว 1 ใน 3 ของรายได้ ASML"
-                  },
-                  {
-                      "date":  "2026-11-15",
-                      "impact":  "negative",
-                      "publisher":  "Tom\u0027s Hardware",
-                      "tickers":  [
-                                      "SKH",
-                                      "SMSN",
-                                      "MU"
-                                  ],
-                      "title_en":  "US judge lets DRAM price-fixing suit proceed against Samsung, SK hynix, Micron",
-                      "title_th":  "ศาลสหรัฐฯ ไม่รับคำร้องยกฟ้อง สั่งเดินหน้าคดีฮั้วราคา DRAM ต่อ Samsung, SK hynix และ Micron",
-                      "url":  "https://www.tomshardware.com/tech-industry/big-tech/judge-denies-motion-dismiss-dram-price-fixing-lawsuit-against-micron-samsung-and-sk-hynix-says-chipmakers-acted-like-hawks-flying-in-formation-finds-evidence-dram-collusion-plausible-after-500-percent-price-surge",
-                      "why_en":  "Denying dismissal sends the class-action suit against the trio controlling over 91% of global DRAM revenue into fact discovery, raising legal-cost, disclosure, and potential damages risks tied to their HBM capacity shift.",
-                      "why_th":  "การที่คดีฟ้องร้องแบบกลุ่มต่อผู้ผลิตที่ครองส่วนแบ่งรายได้ DRAM โลกกว่า 91% เข้าสู่ชั้นสืบพยานเอกสาร เพิ่มความเสี่ยงด้านค่าใช้จ่ายทางกฎหมาย การเปิดเผยข้อมูลกลยุทธ์ราคา และค่าเสียหายที่อาจเกิดขึ้นจากการโยกกำลังผลิตไป HBM"
+                      "title_en":  "Cerebras posts record Q3 revenue and raises 2026 core guidance",
+                      "title_th":  "Cerebras ทำรายได้ไตรมาส 3 สูงสุดเป็นประวัติการณ์พร้อมปรับเพิ่มเป้ารายได้ปี 2026",
+                      "url":  "https://www.globenewswire.com/news-release/2026/11/12/3091480/0/en/Cerebras-Systems-Delivers-Record-Revenue-in-Third-Quarter.html",
+                      "why_en":  "Core revenue climbed 70% YoY to $230.9 million (GAAP $210.8 million, +55% YoY) on surging wafer-scale AI inference demand, prompting management to raise 2026 core revenue guidance to $940–$960 million.",
+                      "why_th":  "รายได้หลักพุ่ง 70% YoY แตะ 230.9 ล้านดอลลาร์ (รายได้ตามบัญชี GAAP 210.8 ล้านดอลลาร์ โต 55% YoY) จากความต้องการประมวลผล AI Inference บนชิปขนาดแผ่นเวเฟอร์ ทำให้บริษัทปรับเพิ่มเป้ารายได้หลักทั้งปี 2026 เป็น 940–960 ล้านดอลลาร์"
                   },
                   {
                       "date":  "2026-11-20",
                       "impact":  "positive",
-                      "publisher":  "Samsung Newsroom",
+                      "publisher":  "Singapore Economic Development Board",
                       "tickers":  [
-                                      "SMSN"
+                                      "KLAC"
                                   ],
-                      "title_en":  "Samsung Electronics names Sang Joon Hwang Memory head in chip leadership overhaul",
-                      "title_th":  "Samsung Electronics ปรับทัพผู้บริหารชิป ตั้ง Sang Joon Hwang คุมธุรกิจหน่วยความจำเต็มตัว",
-                      "url":  "https://news.samsung.com/global/samsung-electronics-announces-new-leadership",
-                      "why_en":  "Promoting DRAM and HBM veteran Sang Joon Hwang to President of Memory frees Vice Chairman Young Hyun Jun from dual operational duties to focus on overall Device Solutions strategy and turning around foundry execution.",
-                      "why_th":  "การเลื่อนตำแหน่ง Sang Joon Hwang ผู้เชี่ยวชาญด้าน DRAM และ HBM ขึ้นเป็นประธานธุรกิจหน่วยความจำ ช่วยให้รองประธาน Young Hyun Jun ลดภาระควบตำแหน่งและโฟกัสกลยุทธ์กลุ่ม DS รวมถึงการฟื้นฟูธุรกิจ foundry ได้เต็มที่ขึ้น"
-                  },
-                  {
-                      "date":  "2026-11-17",
-                      "impact":  "positive",
-                      "publisher":  "The Korea Herald",
-                      "tickers":  [
-                                      "SKH"
-                                  ],
-                      "title_en":  "SK hynix 9M capex hits record 31.22 trillion won for HBM4 expansion",
-                      "title_th":  "SK hynix ทุ่มงบลงทุน 9 เดือนแรกสูงสุดเป็นประวัติการณ์ 31.22 ล้านล้านวอน เร่งขยายกำลังผลิต HBM4",
-                      "url":  "https://www.koreaherald.com/view.php?ud=20261117050308",
-                      "why_en":  "Spending 31.22 trillion won (~$23.4 billion) in nine months—already exceeding its entire prior-year capex of 30.17 trillion won—accelerates Cheongju M15X and Yongin capacity to defend its HBM4 leadership.",
-                      "why_th":  "เม็ดเงินลงทุน 31.22 ล้านล้านวอน (ราว $23.4B) ใน 9 เดือนซึ่งแซงยอดทั้งปีก่อนที่ 30.17 ล้านล้านวอนแล้ว ช่วยเร่งขยายโรงงาน Cheongju M15X และ Yongin เพื่อรักษาความเป็นผู้นำตลาด HBM4"
-                  },
-                  {
-                      "date":  "2026-11-18",
-                      "impact":  "positive",
-                      "publisher":  "Singapore EDB",
-                      "tickers":  [
-                                      "MU"
-                                  ],
-                      "title_en":  "Micron installs first tools at $7B Singapore HBM advanced packaging plant",
-                      "title_th":  "Micron เริ่มติดตั้งเครื่องจักรชุดแรกที่โรงงานแพ็กเกจจิ้ง HBM มูลค่า $7B ในสิงคโปร์",
-                      "url":  "https://www.edb.gov.sg/en/news-and-insights/press-releases/micron-marks-first-tool-move-in-at-singapore-hbm-advanced-packaging-facility.html",
-                      "why_en":  "First tool move-in keeps Micron\u0027s $7 billion facility—its first HBM advanced packaging site outside Taiwan—on schedule for early 2027 output, adding geographic resilience amid labor friction in Taiwan.",
-                      "why_th":  "การเริ่มติดตั้งเครื่องจักรช่วยให้โรงงานมูลค่า $7B ซึ่งเป็นฐานแพ็กเกจจิ้ง HBM นอกไต้หวันแห่งแรกของ Micron เดินหน้าตามแผนผลิตต้นปี 2027 ช่วยกระจายความเสี่ยงกำลังผลิตท่ามกลางข้อพิพาทแรงงานในไต้หวัน"
+                      "title_en":  "KLA opens 210,000-square-foot Singapore expansion for AI process control",
+                      "title_th":  "KLA เปิดอาคารผลิตใหม่ขนาด 210,000 ตร.ฟุตในสิงคโปร์ รองรับเครื่องตรวจจับชิป AI",
+                      "url":  "https://www.edb.gov.sg/en/news-and-insights/kla-celebrates-building-22b-opening-in-singapore-and-outlines-plans-for-further-expansion.html",
+                      "why_en":  "Doubling its Ang Mo Kio site to 420,000 square feet expands KLA\u0027s manufacturing capacity for process-control tools used in AI chips, advanced packaging, and silicon photonics.",
+                      "why_th":  "การขยายพื้นที่ฐานการผลิตในสิงคโปร์เพิ่มขึ้นเท่าตัวเป็น 420,000 ตารางฟุต ช่วยเพิ่มกำลังผลิตเครื่องมือตรวจสอบและควบคุมคุณภาพสำหรับชิป AI บรรจุภัณฑ์ขั้นสูง และซิลิคอนโฟโตนิกส์"
                   },
                   {
                       "date":  "2026-11-16",
                       "impact":  "positive",
-                      "publisher":  "AMD",
+                      "publisher":  "Business Wire",
                       "tickers":  [
-                                      "AMD"
+                                      "MRVL"
                                   ],
-                      "title_en":  "AMD-powered Lux AI supercomputer opens at Oak Ridge with MI355X GPUs",
-                      "title_th":  "ซูเปอร์คอมพิวเตอร์ AI รุ่น Lux ที่ใช้ชิป AMD Instinct MI355X เปิดใช้งานที่ Oak Ridge",
-                      "url":  "https://www.amd.com/en/newsroom/press-releases/2026-11-16-amd-powered-lux-supercomputer-opens-to-scien.html",
-                      "why_en":  "Debuting at No. 14 on the TOP500 with 220.79 petaflops and over 4,000 Instinct MI355X GPUs alongside EPYC CPUs and ROCm software strengthens AMD\u0027s sovereign AI and HPC reference footprint.",
-                      "why_th":  "การเปิดตัวติดอันดับ 14 ของโลกใน TOP500 ด้วยพลังประมวลผล 220.79 petaflops จากการ์ด Instinct MI355X กว่า 4,000 ตัวร่วมกับซีพียู EPYC และซอฟต์แวร์ ROCm ช่วยตอกย้ำจุดยืนของ AMD ในตลาด AI ภาครัฐและ HPC"
+                      "title_en":  "Marvell partners with Penguin Solutions on CXL AI memory scaling",
+                      "title_th":  "Marvell จับมือ Penguin Solutions พัฒนาโซลูชันขยายหน่วยความจำ CXL สำหรับงาน AI",
+                      "url":  "https://www.businesswire.com/news/home/20261116246473/en/Marvell-and-Penguin-Solutions-Collaborate-to-Address-Data-Center-AI-Memory-and-Accelerate-Inference-at-Scale",
+                      "why_en":  "Combining Marvell\u0027s Structera X CXL memory controllers and photonic fabric with Penguin\u0027s data center platform targets AI inference memory bottlenecks such as large KV-cache workloads.",
+                      "why_th":  "การผสานชิปควบคุมหน่วยความจำ Structera X CXL และเทคโนโลยีโฟโตนิกส์ของ Marvell เข้ากับแพลตฟอร์มของ Penguin มุ่งปลดล็อกคอขวดด้านหน่วยความจำสำหรับการรัน AI Inference ขนาดใหญ่ในดาต้าเซ็นเตอร์"
                   },
                   {
-                      "date":  "2026-11-20",
+                      "date":  "2026-11-23",
                       "impact":  "positive",
-                      "publisher":  "Channel NewsAsia",
+                      "publisher":  "GlobeNewswire",
                       "tickers":  [
-                                      "KLAC"
+                                      "ASML"
                                   ],
-                      "title_en":  "KLA doubles Singapore manufacturing hub to 420,000 sq ft for AI tools",
-                      "title_th":  "KLA ขยายฐานผลิตในสิงคโปร์เพิ่มเท่าตัวเป็น 420,000 ตร.ฟุต รองรับเครื่องมือผลิตชิป AI",
-                      "url":  "https://www.channelnewsasia.com/singapore/us-semicon-equipment-maker-kla-expands-singapore-presence-400-new-jobs-expected-4752256",
-                      "why_en":  "Opening the 210,000-sq-ft Building 22B adds cleanroom capacity and 400 jobs at KLA\u0027s largest global manufacturing base to support rising demand in advanced packaging, silicon photonics, and AI process control.",
-                      "why_th":  "การเปิดอาคาร Building 22B ขนาด 210,000 ตร.ฟุต ช่วยเพิ่มพื้นที่คลีนรูมและการจ้างงาน 400 ตำแหน่งที่ฐานผลิตใหญ่ที่สุดของ KLA เพื่อรองรับดีมานด์เครื่องมือตรวจสอบคุณภาพในกลุ่มแพ็กเกจจิ้งขั้นสูง ซิลิคอนโฟโตนิกส์ และชิป AI"
+                      "title_en":  "ASML repurchases 445,000 shares for €557 million during chip pullback",
+                      "title_th":  "ASML เร่งซื้อหุ้นคืน 445,000 หุ้นมูลค่า €557 ล้าน ช่วงหุ้นกลุ่มชิปปรับฐาน",
+                      "url":  "https://www.globenewswire.com/news-release/2026/11/23/3408663/0/en/ASML-reports-transactions-under-its-current-share-buyback-program.html",
+                      "why_en":  "Accelerating weekly buybacks to €557 million between Nov 16 and Nov 20 underscores balance-sheet strength and management confidence in long-term EUV lithography demand despite sector volatility.",
+                      "why_th":  "การเร่งซื้อหุ้นคืนมูลค่าถึง 557 ล้านยูโรภายในสัปดาห์เดียวระหว่างวันที่ 16–20 พฤศจิกายน สะท้อนฐานะการเงินที่แข็งแกร่งและความมั่นใจของผู้บริหารต่อความต้องการเครื่อง EUV ระยะยาวท่ามกลางความผันผวนของกลุ่มชิป"
                   }
               ]
 }

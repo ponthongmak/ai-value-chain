@@ -2,46 +2,45 @@
     "ticker":  "ONDS",
     "name":  "Ondas",
     "symbol":  "NASDAQ:ONDS",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:04:12Z",
-    "costUsd":  0.5926978000000002,
+    "generatedAt":  "2026-11-24T04:29:59Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NASDAQ:ONDS",
                        "yahoo":  "ONDS",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:02:13Z",
-                       "price":  3.76,
-                       "open":  4.1,
-                       "high":  4.2,
-                       "low":  3.73,
-                       "volume":  47536100,
-                       "avgVolume20":  46520815,
-                       "changePct":  -11.11,
-                       "ema50":  6.15,
-                       "ema100":  7.02,
-                       "ema200":  7.54,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:26:24Z",
+                       "price":  4.03,
+                       "open":  4.34,
+                       "high":  4.43,
+                       "low":  4.02,
+                       "volume":  44516100,
+                       "avgVolume20":  47207740,
+                       "changePct":  7.18,
+                       "historyDays":  500,
+                       "ema50":  6.07,
+                       "ema100":  6.96,
+                       "ema200":  7.51,
                        "bb":  {
-                                  "upper":  7.19,
-                                  "middle":  5.44,
-                                  "lower":  3.69
+                                  "upper":  7.16,
+                                  "middle":  5.33,
+                                  "lower":  3.51
                               },
                        "macd":  {
-                                    "macd":  -0.63,
-                                    "signal":  -0.5,
-                                    "hist":  -0.13
+                                    "macd":  -0.65,
+                                    "signal":  -0.53,
+                                    "hist":  -0.12
                                 },
-                       "rsi14":  28.68,
+                       "rsi14":  33.1,
                        "high52w":  15.28,
                        "low52w":  3.73,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         11.61
-                                     ],
                                      [
                                          "2026-06-04",
                                          11.97
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          3.76
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         4.03
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          10.42,
                                           10.48,
                                           10.48,
                                           10.47,
@@ -639,103 +641,108 @@
                                           6.41,
                                           6.33,
                                           6.25,
-                                          6.15
+                                          6.15,
+                                          6.07
                                       ]
                    },
     "en":  {
-               "headline":  "Record revenue, but margin and loss worries push ONDS to a 52-week low",
-               "technical":  "The trend is clearly down. On 20 Nov 2026 ONDS closed at $3.76, down 11.11% on the day. That is far below the EMA 50 ($6.15), EMA 100 ($7.02) and EMA 200 ($7.54). EMAs are smoothed average prices over 50, 100 and 200 days. They are stacked in bearish order, with the shortest below the longest, which marks a well-established downtrend. Momentum is still falling. MACD (a trend-momentum gauge) is -0.63, below its signal line at -0.50, and the histogram is negative at -0.13. RSI 14 is 28.68. RSI is a 0–100 momentum gauge where under 30 counts as oversold, so selling is stretched and short bounces become more likely. Price sits just above the lower Bollinger Band at $3.69. Bollinger Bands mark a typical 20-day trading range, and its middle line is $5.44. The day\u0027s low of $3.73 is also the 52-week low, about 75% below the 52-week high of $15.28. Volume was 47.5M shares, only about 2% above the 20-day average of 46.5M. That is not the heavy volume that usually marks a selling climax. Nearby support is $3.69–3.73, and the first resistance is around $5.44.",
-               "fundamental":  "Ondas is now mostly a defense and autonomy company assembled through acquisitions. Q3 2026 results came out on 12 Nov. Revenue was $167.5M, double Q2\u0027s $83.8M and above the roughly $148M consensus. Backlog rose 36% from Q2 to $835M. GAAP gross margin fell to 21.8% from 43.1% in Q2. Management blamed production inefficiencies in precision-strike programs and accounting charges tied to acquisitions. The adjusted EBITDA loss widened to $59.7M, worse than the roughly $40M consensus. Guidance went up: Q4 revenue above $250M, FY2026 at least $550M and FY2027 at least $1.1B, excluding further acquisitions. Company-wide EBITDA breakeven is now targeted for Q3 2027. Cash and investments of $820M give it room to keep operating. For the moat, demand is real, but profitable delivery at scale is not yet proven.",
-               "news":  [
-                            "12 Nov 2026: Q3 revenue was a record $167.5M with $214M of new orders. Ondas raised its FY2026 revenue target to at least $550M and set a 2027 target of at least $1.1B. Shares still fell because of the margin collapse and the larger EBITDA loss.",
-                            "13–16 Nov 2026: Needham and Lake Street cut their price targets from $19 to $14, Northland from $18 to $13, Maxim from $22 to $18 and Stifel from $18 to $15. All kept Buy ratings and cited the EBITDA miss and lower valuations across peer companies.",
-                            "5 Nov 2026: Ondas agreed to buy Stemme GmbH, the German maker of the airframe used in its ULTRA long-endurance surveillance aircraft, in an all-cash deal with no price disclosed. The goal is 10 ULTRA aircraft a month by 2028, and closing is expected in Q1 2027. The stock fell about 9% to $5.27 that day.",
-                            "Q3 operations: Ondas won $100M in Sentinel bookings, including $53.7M of ULTRA follow-on orders, and a U.S. Army follow-on task order. Its Sentrycs counter-drone systems were deployed at 2026 FIFA World Cup and NFL stadiums.",
-                            "20 Nov 2026: The stock fell 11.11% to a new 52-week low of $3.73 intraday. No new company announcement explains it. Small insider sales by two directors and the COO were disclosed the same day, each about $20K at an average of $4.08."
+               "caution":  "Rapid top-line scaling is currently masking fragile unit economics and heavy shareholder dilution. GAAP gross margin fell by more than 21 percentage points sequentially to 21.8% in Q3 2026, while Adjusted EBITDA loss widened to $59.7 million and 424.3 million potentially dilutive securities overhang the float. Investors should watch whether Q4 2026 truly delivers operating-platform EBITDA breakeven and steadier gross margins before assuming the November 23 M\u0026A slowdown fixes the stock\u0027s downtrend.",
+               "cons":  [
+                            "GAAP gross margin plunged from 43.1% in Q2 to 21.8% in Q3 2026 on product-mix shifts and ramp inefficiencies, widening the Adjusted EBITDA loss to $59.7 million.",
+                            "Aggressive M\u0026A and equity raises left 424.3 million potentially dilutive securities in the Q3 10-Q alongside $278.0 million in nine-month operating cash burn.",
+                            "Technicals remain firmly bearish at $4.03—far below EMA 50 ($6.07), EMA 100 ($6.96), and EMA 200 ($7.51), and just 8% above its $3.73 52-week low.",
+                            "Stifel, Needham, and Lake Street cut price targets between November 12 and 16 on margin compression, while Ondas Networks\u0027 railroad wireless rollout remains slow."
                         ],
-               "caution":  "The main risk is that growth is coming through acquisitions and is burning cash. Gross margin halved in one quarter, and the EBITDA loss is getting bigger as revenue rises. The Q4 2026 target to turn the core operating businesses EBITDA-positive is the next credibility test. The January 2026 share offering also came with 121.6M warrants at a $28 exercise price, which leaves a large overhang of potential new shares. Momentum indicators are still falling, and volume shows no sign that selling has run its course. An oversold RSI can stay oversold for weeks.",
-               "opportunity":  "The business numbers keep improving even as the stock falls. The $835M backlog is about 1.5 times the FY2026 revenue target, guidance was raised and the 2027 target is about double this year\u0027s. Every analyst who cut a price target kept a Buy rating. RSI under 30 and price at the lower Bollinger Band show selling is stretched. If gross margin recovers to the mid-30s as guided and Q4 revenue comes in above $250M, the market\u0027s view of the stock could change quickly.",
+               "fundamental":  "Ondas has transformed in 2026 from a small commercial-drone and rail-wireless vendor into a scaled autonomous defense and AI-edge platform via major acquisitions including DZYNE Technologies (~$875 million in July) and Cyberhawk (~$118.2 million in August). In Q3 2026 (reported November 12), revenue surged to $167.5 million (+100% QoQ; +64% YoY pro forma organic) with $214 million in bookings and an $835 million backlog. Its Palantir-powered Regna AI venture extends its AI value-chain role into sovereign, edge-deployed models for drones in contested environments, while Ondas Networks\u0027 900 MHz railroad wireless business remains a slower contributor. The trade-off is steep: Q3 GAAP gross margin dropped to 21.8% (34.8% non-GAAP), GAAP operating loss hit $189.5 million, and nine-month operating cash burn reached $278.0 million. While $820 million in liquidity cushions execution, investors await proof of Q4 2026 operating-platform EBITDA breakeven and Q3 2027 company-wide profitability.",
+               "headline":  "Record Q3 growth clashes with margin pressure, dilution overhang, and bearish technicals",
+               "news":  [
+                            "November 23, 2026: CEO Eric Brock issued a Form 8-K shareholder letter pledging to substantially moderate acquisitions and redirect capital toward manufacturing, integration, and backlog delivery, while reaffirming at least $550 million in 2026 and $1.1 billion in 2027 organic revenue.",
+                            "November 12, 2026: Ondas reported record Q3 2026 revenue of $167.5 million and an $835 million backlog, but GAAP gross margin dropped to 21.8% (34.8% non-GAAP), Adjusted EBITDA loss widened to $59.7 million, and GAAP net loss reached $64.7 million (-$0.10 per share).",
+                            "November 12–16, 2026: Following Q3 margin compression, Needham \u0026 Company and Lake Street Capital lowered price targets from $19 to $14 (Buy), while Stifel cut its target from $18 to $15 (Buy) and Citizens maintained Outperform at $14.",
+                            "November 4–10, 2026: Ondas won multi-million-dollar Counter-UAS orders in Europe (Ranger) and Asia (Iron Drone Raider), announced U.S. manufacturing expansion for ULTRA ISR aircraft targeting 10 units per month by 2028, and secured a \"Digital Bat\" tactical attack drone order.",
+                            "November 20, 2026: Ondas released highlights from its November 18 Defense Technology Summit co-hosted with Palantir Technologies and their sovereign edge-AI venture Regna AI, focused on fielding autonomous AI models on tactical drones."
+                        ],
+               "opportunity":  "If Ondas executes cleanly on its $835 million backlog and $1.1 billion 2027 organic revenue target without further dilutive acquisitions, operating leverage could reshape sentiment quickly. Its $820 million cash cushion funds U.S. manufacturing expansion for ULTRA ISR and tactical drones while buying runway to Q3 2027 company-wide Adjusted EBITDA breakeven. Expanding global Counter-UAS adoption and the Palantir-backed Regna AI sovereign edge-autonomy platform offer durable AI-defense upside at a depressed valuation.",
+               "opportunityCheck":  "The page\u0027s sub-scores lag Ondas\u0027s rapid 2026 transformation. I would raise AI revenue exposure and nudge market position higher: acquiring DZYNE and Cyberhawk, building an $835 million autonomous defense backlog, and launching the Palantir-powered Regna AI edge-autonomy venture make AI-enabled autonomy its primary revenue engine rather than a side bet. However, bottleneck and pricing power should remain low until management reverses Q3\u0027s GAAP gross margin slide to 21.8% and proves differentiated margins in competitive defense hardware. Market growth and optionality already look well calibrated.",
+               "pros":  [
+                            "Q3 2026 revenue doubled sequentially to $167.5 million (+64% YoY pro forma organic), lifting bookings to $214 million and backlog 36% to $835 million.",
+                            "Management reaffirmed at least $550 million in 2026 revenue and $1.1 billion in 2027 without new acquisitions, supported by $820 million in cash and short-term investments.",
+                            "CEO Eric Brock\u0027s November 23 shareholder letter pledged to slow M\u0026A and refocus capital on manufacturing scale, integration, and backlog execution.",
+                            "November 4 Counter-UAS wins in Europe and Asia plus the Palantir-backed Regna AI edge-autonomy venture deepen its defense AI footprint."
+                        ],
                "risks":  [
-                             "Gross margin could stay low if precision-strike production problems persist",
-                             "The company-wide EBITDA breakeven target of Q3 2027 could slip",
-                             "Dilution from outstanding warrants and from paying for acquisitions with stock",
-                             "Risk of combining many acquired companies in a short time",
-                             "Lower valuations for defense-tech peers and U.S. budget uncertainty after the midterms",
-                             "Technical downtrend with no confirmed bottom"
+                             "Further gross margin erosion or production bottlenecks while scaling Q4 2026 (\u003e $250 million) and 2027 ($1.1 billion) delivery targets.",
+                             "Share dilution overhang from 424.3 million potentially dilutive securities and upcoming acquisition lock-up expirations (including DZYNE shares).",
+                             "Integration friction across recently acquired defense and drone units (DZYNE, Cyberhawk, and planned ARAN Defense) delaying Q3 2027 Adjusted EBITDA breakeven.",
+                             "Continued slow Class 1 railroad adoption of Ondas Networks\u0027 900 MHz wireless systems and lumpy government defense budget cycles."
                          ],
-               "summary":  "ONDS is in a strong technical downtrend. Price is below all three EMAs, MACD is negative and the stock is at its 52-week low, though RSI 28.68 shows it is oversold. The drop since 12 Nov reflects worries about profitability, not demand. Revenue doubled from Q2, backlog reached $835M and guidance went up, but gross margin halved and losses widened. The early-commercial-autonomy thesis is not broken, but it is on watch. The next checks are Q4 margins and whether the core businesses turn EBITDA-positive."
+               "summary":  "Ondas (ONDS) trades at $4.03 as of November 23, 2026, down 73.6% from its $15.28 52-week high despite reporting record Q3 2026 revenue of $167.5 million and an $835 million backlog on November 12. Investors have penalized acquisition-driven share dilution, a GAAP gross margin drop to 21.8%, and $278.0 million in nine-month operating cash burn. On November 23, CEO Eric Brock pledged to slow acquisitions and focus on execution while reaffirming $550 million 2026 and $1.1 billion 2027 revenue targets. Technicals remain bearish, placing the long-term autonomy thesis on watch.",
+               "technical":  "ONDS exhibits a firmly bearish trend as of November 23, 2026, with 500 trading days of history providing full indicator coverage. At $4.03, shares trade well below all three exponential moving averages (EMA — trend-tracking price averages), which sit in bearish alignment: EMA 50 at $6.07, EMA 100 at $6.96, and EMA 200 at $7.51. Momentum confirms downside control: MACD (a trend-momentum gauge comparing two moving averages) sits at -0.65 below its -0.53 signal line, leaving a negative -0.12 histogram. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) reads 33.1, reflecting stretched selling pressure near oversold territory without signaling a reversal. Within its Bollinger Bands (a volatility envelope around the 20-day average) spanning $3.51 to $7.16, price sits near the bottom below the $5.33 midline and inside the lowest 3% of its $3.73–$15.28 52-week range. Although ONDS rose 7.18% on November 23, shares faded from a $4.43 high to $4.03 on 44.52 million volume—below the 47.21 million 20-day average. Immediate support sits at $3.73 and $3.51; overhead resistance stands at $5.33 and $6.07."
            },
     "th":  {
-               "headline":  "รายได้ทำสถิติใหม่ แต่ความกังวลเรื่องมาร์จิ้นและการขาดทุนกด ONDS ลงไปที่จุดต่ำสุด 52 สัปดาห์",
-               "technical":  "แนวโน้มเป็นขาลงชัดเจน วันที่ 20 พ.ย. 2026 ONDS ปิดที่ $3.76 ลดลง 11.11% ในวันเดียว ราคาอยู่ต่ำกว่า EMA 50 ($6.15), EMA 100 ($7.02) และ EMA 200 ($7.54) อย่างมาก EMA คือเส้นราคาเฉลี่ยแบบถ่วงน้ำหนักช่วง 50, 100 และ 200 วัน ทั้งสามเส้นเรียงตัวแบบขาลง คือเส้นสั้นอยู่ใต้เส้นยาว แสดงว่าขาลงตั้งตัวมั่นคงแล้ว โมเมนตัมยังอ่อนลงต่อเนื่อง MACD (ตัววัดแรงส่งของเทรนด์) อยู่ที่ -0.63 ต่ำกว่าเส้นสัญญาณที่ -0.50 และฮิสโตแกรมติดลบ -0.13 ส่วน RSI 14 อยู่ที่ 28.68 RSI เป็นมาตรวัดโมเมนตัม 0–100 ถ้าต่ำกว่า 30 ถือว่า oversold หรือขายมากเกินไป จึงมีโอกาสเด้งระยะสั้นมากขึ้น ราคาอยู่เหนือ Bollinger Band เส้นล่างที่ $3.69 เพียงเล็กน้อย Bollinger Band คือกรอบการแกว่งปกติช่วง 20 วัน มีเส้นกลางอยู่ที่ $5.44 ราคาต่ำสุดของวันที่ $3.73 เป็นจุดต่ำสุดรอบ 52 สัปดาห์ด้วย ห่างจากจุดสูงสุด 52 สัปดาห์ที่ $15.28 ราว 75% วอลุ่มอยู่ที่ 47.5 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 46.5 ล้านหุ้นเพียงราว 2% จึงยังไม่ใช่วอลุ่มหนาแน่นแบบที่มักเห็นตอนแรงขายหมดแรง แนวรับใกล้อยู่ที่ $3.69–3.73 แนวต้านแรกอยู่ราว $5.44",
-               "fundamental":  "ตอนนี้ Ondas กลายเป็นบริษัทกลาโหมและระบบอัตโนมัติที่โตจากการเข้าซื้อกิจการเป็นหลัก ผลประกอบการ Q3 2026 ประกาศเมื่อ 12 พ.ย. รายได้ $167.5M เพิ่มเป็นสองเท่าจาก $83.8M ใน Q2 และสูงกว่าที่ตลาดคาดไว้ราว $148M งานในมือ (backlog) โตจาก Q2 36% เป็น $835M แต่ gross margin ตามบัญชี GAAP ลดลงเหลือ 21.8% จาก 43.1% ใน Q2 ผู้บริหารระบุว่ามาจากสายการผลิตอาวุธโจมตีแม่นยำที่ยังไม่มีประสิทธิภาพ และรายการทางบัญชีจากการเข้าซื้อกิจการ ขาดทุน Adjusted EBITDA กว้างขึ้นเป็น $59.7M แย่กว่าที่ตลาดคาดไว้ราว $40M บริษัทปรับเป้าขึ้น ได้แก่ รายได้ Q4 มากกว่า $250M ปี 2026 อย่างน้อย $550M และปี 2027 อย่างน้อย $1.1B โดยไม่รวมดีลซื้อกิจการเพิ่ม ส่วนเป้า EBITDA คุ้มทุนทั้งบริษัทอยู่ที่ Q3 2027 เงินสดและเงินลงทุนระยะสั้น $820M เพียงพอให้ดำเนินงานต่อได้ ในแง่คูน้ำทางธุรกิจ ดีมานด์มีจริง แต่ยังพิสูจน์ไม่ได้ว่าจะส่งมอบในปริมาณมากแบบมีกำไรได้",
-               "news":  [
-                            "12 พ.ย. 2026: รายได้ Q3 ทำสถิติใหม่ที่ $167.5M มียอดสั่งซื้อใหม่ $214M บริษัทปรับเป้ารายได้ปี 2026 ขึ้นเป็นอย่างน้อย $550M และตั้งเป้าปี 2027 อย่างน้อย $1.1B แต่หุ้นยังลดลงเพราะมาร์จิ้นทรุดและขาดทุน EBITDA มากขึ้น",
-                            "13–16 พ.ย. 2026: Needham และ Lake Street ลดราคาเป้าหมายจาก $19 เหลือ $14, Northland จาก $18 เหลือ $13, Maxim จาก $22 เหลือ $18 และ Stifel จาก $18 เหลือ $15 ทุกรายยังคงคำแนะนำ Buy โดยให้เหตุผลว่า EBITDA ต่ำกว่าคาด และมูลค่าหุ้นกลุ่มเดียวกันลดลง",
-                            "5 พ.ย. 2026: Ondas ตกลงซื้อ Stemme GmbH ผู้ผลิตโครงเครื่องบินสัญชาติเยอรมันที่ใช้ในเครื่องบินสอดแนมพิสัยไกล ULTRA เป็นดีลเงินสดทั้งหมดและไม่เปิดเผยราคา เป้าหมายคือผลิต ULTRA ให้ได้ 10 ลำต่อเดือนภายในปี 2028 คาดว่าจะปิดดีลใน Q1 2027 หุ้นร่วงราว 9% เหลือ $5.27 ในวันนั้น",
-                            "ด้านธุรกิจใน Q3: Ondas ได้ยอดจองในกลุ่ม Sentinel $100M รวมคำสั่งซื้อต่อเนื่องของ ULTRA $53.7M และได้คำสั่งงานต่อเนื่องจากกองทัพบกสหรัฐฯ ระบบต่อต้านโดรน Sentrycs ถูกนำไปใช้ที่สนามแข่ง FIFA World Cup 2026 และสนาม NFL",
-                            "20 พ.ย. 2026: หุ้นร่วง 11.11% ทำจุดต่ำสุดใหม่รอบ 52 สัปดาห์ที่ $3.73 ระหว่างวัน ยังไม่มีประกาศใหม่จากบริษัทที่อธิบายการร่วงครั้งนี้ วันเดียวกันมีรายงานกรรมการ 2 คนและ COO ขายหุ้นจำนวนเล็กน้อย คนละราว $20K ที่ราคาเฉลี่ย $4.08"
+               "caution":  "รายได้ระดับท็อปไลน์ที่พุ่งแรงกำลังบดบังเศรษฐศาสตร์ต่อหน่วยที่เปราะบางและความเสี่ยง Dilution ที่สูงมาก ใน Q3 2026 อัตรากำไรขั้นต้น GAAP ลดฮวบกว่า 21 จุดเปอร์เซ็นต์จากไตรมาสก่อนเหลือ 21.8% ขณะที่ขาดทุน Adjusted EBITDA ขยายเป็น $59.7 ล้าน และมีหลักทรัพย์ที่อาจก่อให้เกิด Dilution สูงถึง 424.3 ล้านหน่วย นักลงทุนควรรอพิสูจน์ว่า Q4 2026 จะพลิกทำ EBITDA ระดับแพลตฟอร์มปฏิบัติการเป็นบวกและดึงมาร์จินกลับขึ้นมาได้จริงหรือไม่ ก่อนคาดหวังว่าคำประกาศชะลอดีล M\u0026A วันที่ 23 พ.ย. จะหยุดขาลงได้",
+               "cons":  [
+                            "อัตรากำไรขั้นต้น GAAP ร่วงจาก 43.1% ใน Q2 เหลือ 21.8% ใน Q3 2026 จากสัดส่วนสินค้าและต้นทุนเร่งผลิต ทำให้ขาดทุน Adjusted EBITDA ขยายเป็น $59.7 ล้าน",
+                            "การเข้าซื้อกิจการและระดมทุนจำนวนมากทิ้งหลักทรัพย์รอ Dilution ไว้ถึง 424.3 ล้านหน่วยในงบ 10-Q พร้อมเงินสดใช้ไปจากการดำเนินงาน 9 เดือนที่ $278.0 ล้าน",
+                            "สัญญาณเทคนิคยังเป็นขาลงชัดเจนที่ $4.03 อยู่ต่ำกว่า EMA 50 ($6.07), EMA 100 ($6.96) และ EMA 200 ($7.51) โดยอยู่เหนือจุดต่ำสุดรอบ 52 สัปดาห์ ($3.73) เพียง 8%",
+                            "Stifel, Needham และ Lake Street ต่างหั่นราคาเป้าหมายช่วงวันที่ 12–16 พ.ย. จากแรงกดดันด้านมาร์จิน ขณะที่ธุรกิจไร้สายระบบรางของ Ondas Networks ยังโตช้า"
                         ],
-               "caution":  "ความเสี่ยงหลักคือการเติบโตมาจากการซื้อกิจการและกำลังเผาเงินสด gross margin ลดลงครึ่งหนึ่งภายในไตรมาสเดียว และขาดทุน EBITDA ยิ่งมากขึ้นแม้รายได้โต เป้าให้ธุรกิจหลักมี EBITDA เป็นบวกใน Q4 2026 คือบททดสอบความน่าเชื่อถือรอบถัดไป นอกจากนี้ การเพิ่มทุนเมื่อมกราคม 2026 มาพร้อมใบสำคัญแสดงสิทธิ (warrant) 121.6 ล้านหน่วยที่ราคาใช้สิทธิ $28 จึงมีหุ้นใหม่ที่อาจเพิ่มเข้ามาในตลาดอีกมาก ตัวชี้วัดโมเมนตัมยังชี้ลง และวอลุ่มยังไม่บอกว่าแรงขายหมดแล้ว RSI ที่ต่ำกว่า 30 อาจค้างอยู่ในโซนนั้นได้หลายสัปดาห์",
-               "opportunity":  "ตัวเลขธุรกิจยังดีขึ้นต่อเนื่องแม้หุ้นจะร่วง backlog $835M เท่ากับราว 1.5 เท่าของเป้ารายได้ปี 2026 บริษัทปรับเป้าขึ้น และเป้าปี 2027 สูงเกือบสองเท่าของปีนี้ นักวิเคราะห์ทุกรายที่ลดราคาเป้าหมายยังคงคำแนะนำ Buy ส่วน RSI ต่ำกว่า 30 และราคาที่แตะ Bollinger Band เส้นล่างบ่งว่าแรงขายตึงมากแล้ว หาก gross margin ฟื้นกลับมาแถว 30% กลางๆ ตามที่ผู้บริหารคาด และรายได้ Q4 เกิน $250M มุมมองของตลาดต่อหุ้นตัวนี้อาจเปลี่ยนได้เร็ว",
+               "fundamental":  "ตลอดปี 2026 Ondas พลิกโฉมจากผู้ให้บริการโดรนเชิงพาณิชย์และเครือข่ายไร้สายรางรถไฟขนาดเล็ก สู่แพลตฟอร์มโดรนอัตโนมัติและระบบป้องกันภัยทางอากาศด้วย AI ผ่านดีลใหญ่ทั้ง DZYNE Technologies (~$875 ล้านใน ก.ค.) และ Cyberhawk (~$118.2 ล้านใน ส.ค.) งบ Q3 2026 (ประกาศ 12 พ.ย.) ทำรายได้พุ่ง $167.5 ล้าน (+100% QoQ, +64% YoY pro forma organic) รับออเดอร์ใหม่ $214 ล้าน ดัน Backlog แตะ $835 ล้าน พร้อมตั้งบริษัทร่วม Regna AI ร่วมกับ Palantir เพื่อนำโมเดล AI อธิปไตยไปรันบนอุปกรณ์ Edge อย่างโดรนในพื้นที่ตัดขาดสัญญาณ ส่วนธุรกิจไร้สายรางรถไฟ 900 MHz ของ Ondas Networks ยังสร้างรายได้ช้ากว่าแผน อย่างไรก็ดี ต้นทุนการเติบโตสูงมาก โดยมาร์จินขั้นต้น GAAP หล่นเหลือ 21.8% (Non-GAAP 34.8%) ขาดทุนจากการดำเนินงาน $189.5 ล้าน และใช้เงินสดดำเนินงาน 9 เดือนถึง $278.0 ล้าน แม้เงินสด $820 ล้านจะช่วยประคองแผน แต่ตลาดกำลังรอพิสูจน์จุดคุ้มทุน EBITDA ระดับปฏิบัติการใน Q4 2026 และระดับบริษัทใน Q3 2027",
+               "headline":  "รายได้ Q3 ทำสถิติใหม่แต่เจอมาร์จินหด ความเสี่ยง Dilution และกราฟขาลงกดดัน",
+               "news":  [
+                            "23 พ.ย. 2026: ซีอีโอ Eric Brock ออกจดหมายถึงผู้ถือหุ้นผ่านแบบฟอร์ม 8-K ประกาศชะลอการซื้อกิจการลงอย่างมีนัยสำคัญเพื่อทุ่มเงินทุนสู่กำลังการผลิต การผสานระบบ และส่งมอบ Backlog พร้อมยืนยันเป้ารายได้ออแกนิกปี 2026 อย่างน้อย $550 ล้าน และปี 2027 อย่างน้อย $1.1 พันล้าน",
+                            "12 พ.ย. 2026: Ondas รายงานรายได้ Q3 2026 สูงเป็นประวัติการณ์ที่ $167.5 ล้าน และ Backlog แตะ $835 ล้าน แต่มาร์จินขั้นต้น GAAP ลดลงเหลือ 21.8% (Non-GAAP 34.8%) ขาดทุน Adjusted EBITDA ขยายเป็น $59.7 ล้าน และขาดทุนสุทธิ GAAP $64.7 ล้าน (-$0.10 ต่อหุ้น)",
+                            "12–16 พ.ย. 2026: หลังงบ Q3 เผยแรงกดดันมาร์จิน โบรกเกอร์ Needham \u0026 Company และ Lake Street Capital ปรับลดราคาเป้าหมายจาก $19 เหลือ $14 (Buy) ส่วน Stifel ลดจาก $18 เหลือ $15 (Buy) ขณะที่ Citizens คงคำแนะนำ Outperform เป้าหมาย $14",
+                            "4–10 พ.ย. 2026: Ondas คว้าสัญญาระบบต่อต้านโดรน (Counter-UAS) มูลค่าหลายล้านดอลลาร์ในยุโรป (Ranger) และเอเชีย (Iron Drone Raider) ประกาศขยายโรงงานสหรัฐผลิตอากาศยานสอดแนม ULTRA ISR เป้า 10 ลำ/เดือนในปี 2028 และได้ออเดอร์โดรนโจมตีทางยุทธวิธีโครงการ \"Digital Bat\"",
+                            "20 พ.ย. 2026: Ondas เผยความคืบหน้าจากการประชุม Ondas Defense Technology Summit (18 พ.ย.) ที่จัดร่วมกับ Palantir Technologies และ Regna AI เพื่อผลักดันการนำโมเดล AI อธิปไตยมาใช้งานจริงบนโดรนอัตโนมัติในภาคสนาม"
+                        ],
+               "opportunity":  "หาก Ondas ส่งมอบ Backlog มูลค่า $835 ล้าน และเดินหน้าสู่เป้ารายได้ออแกนิก $1.1 พันล้านในปี 2027 ได้โดยไม่ก่อ Dilution จากดีลซื้อกิจการเพิ่ม พลังของ Operating Leverage อาจช่วยพลิกมุมมองตลาดได้เร็ว เงินสดสำรอง $820 ล้านเพียงพอรองรับการขยายโรงงานผลิต ULTRA ISR และโดรนยุทธวิธี รวมถึงช่วยยืดระยะเวลาไปถึงเป้าคุ้มทุน Adjusted EBITDA ระดับบริษัทใน Q3 2027 ขณะที่ความต้องการระบบ Counter-UAS ทั่วโลกและแพลตฟอร์ม Edge AI อย่าง Regna AI ร่วมกับ Palantir เปิดอัพไซด์ระยะยาวบนระดับราคาที่ปรับฐานลงลึก",
+               "opportunityCheck":  "คะแนนประเมินโอกาส AI บนหน้าเพจยังตามไม่ทันการเปลี่ยนโครงสร้างธุรกิจของ Ondas ในปี 2026 ควรปรับเพิ่มคะแนนด้านสัดส่วนรายได้ AI และขยับตำแหน่งทางการตลาดขึ้นเล็กน้อย เพราะการซื้อ DZYNE และ Cyberhawk จนมี Backlog ระบบอัตโนมัติ $835 ล้าน บวกการตั้ง Regna AI ร่วมกับ Palantir ทำให้ระบบอัตโนมัติที่ใช้ AI กลายเป็นเครื่องยนต์รายได้หลักไปแล้ว อย่างไรก็ตาม คะแนนคอขวดและอำนาจตั้งราคาควรคงไว้ระดับต่ำจนกว่าบริษัทจะกู้มาร์จินขั้นต้น GAAP จาก 21.8% กลับมาและพิสูจน์ความได้เปรียบด้านราคาในตลาดฮาร์ดแวร์ป้องกันประเทศได้ ส่วนคะแนนการเติบโตตลาดและทางเลือกต่อยอดถือว่าเหมาะสมแล้ว",
+               "pros":  [
+                            "รายได้ Q3 2026 โตเท่าตัวจากไตรมาสก่อนสู่ $167.5 ล้าน (+64% YoY pro forma organic) รับคำสั่งซื้อใหม่ $214 ล้าน ดัน Backlog พุ่ง 36% แตะ $835 ล้าน",
+                            "ผู้บริหารยืนยันเป้ารายได้ปี 2026 อย่างน้อย $550 ล้าน และปี 2027 อย่างน้อย $1.1 พันล้านโดยไม่รวมดีลซื้อกิจการใหม่ พร้อมเงินสดและเงินลงทุนระยะสั้นราว $820 ล้าน",
+                            "จดหมายซีอีโอ Eric Brock วันที่ 23 พ.ย. ประกาศชะลอการไล่ซื้อกิจการ หันโฟกัสการขยายกำลังผลิต การผสานเทคโนโลยี และการส่งมอบงานในมือ",
+                            "ดีลระบบ Counter-UAS ในยุโรปและเอเชียเมื่อ 4 พ.ย. พร้อมการจับมือ Palantir ปั้น Regna AI ช่วยเสริมระบบนิเวศ AI ด้านป้องกันประเทศให้แข็งแกร่งขึ้น"
+                        ],
                "risks":  [
-                             "gross margin อาจต่ำต่อไปหากปัญหาการผลิตอาวุธโจมตีแม่นยำยังไม่คลี่คลาย",
-                             "เป้า EBITDA คุ้มทุนทั้งบริษัทใน Q3 2027 อาจเลื่อนออกไป",
-                             "หุ้นอาจถูกไดลูทจาก warrant ที่ค้างอยู่ และจากการใช้หุ้นจ่ายค่าซื้อกิจการ",
-                             "ความเสี่ยงจากการรวมบริษัทที่ซื้อมาจำนวนมากในเวลาสั้น",
-                             "มูลค่าหุ้นกลุ่มเทคโนโลยีกลาโหมลดลง และงบประมาณสหรัฐฯ ไม่แน่นอนหลังการเลือกตั้งกลางเทอม",
-                             "กราฟยังเป็นขาลงและยังไม่มีสัญญาณยืนยันว่าถึงจุดต่ำสุด"
+                             "มาร์จินขั้นต้นอาจถูกกดดันต่อหรือเกิดคอขวดการผลิตระหว่างเร่งส่งมอบงาน Q4 2026 (\u003e $250 ล้าน) และเป้ารายได้ปี 2027 ($1.1 พันล้าน)",
+                             "แรงขายกดดันจาก Dilution ของหลักทรัพย์แฝง 424.3 ล้านหน่วย และการทยอยครบกำหนด Lock-up ของหุ้นที่ออกชำระค่าซื้อกิจการ (รวมถึงหุ้นดีล DZYNE)",
+                             "ความเสี่ยงในการผสานองค์กรหลังซื้อกิจการต่อเนื่อง (DZYNE, Cyberhawk และแผนซื้อ ARAN Defense) ที่อาจทำให้เป้าคุ้มทุน Adjusted EBITDA ใน Q3 2027 ล่าช้า",
+                             "การขยายเครือข่ายไร้สายรางรถไฟ 900 MHz ของ Ondas Networks ในกลุ่มรถไฟ Class 1 ยังเดินหน้าช้า และงบประมาณกลาโหมภาครัฐมีความผันผวนเป็นรอบๆ"
                          ],
-               "summary":  "ONDS อยู่ในขาลงทางเทคนิคที่ชัดเจน ราคาต่ำกว่า EMA ทั้งสามเส้น MACD ติดลบ และอยู่ที่จุดต่ำสุดรอบ 52 สัปดาห์ แม้ RSI 28.68 จะบอกว่าอยู่ในโซน oversold แล้วก็ตาม การร่วงตั้งแต่ 12 พ.ย. สะท้อนความกังวลเรื่องกำไร ไม่ใช่ดีมานด์ รายได้โตสองเท่าจาก Q2, backlog แตะ $835M และบริษัทปรับเป้าขึ้น แต่ gross margin ลดลงครึ่งหนึ่งและขาดทุนกว้างขึ้น สมมติฐาน early commercial autonomy ยังไม่พัง แต่ต้องจับตา สิ่งที่ต้องดูต่อคือมาร์จิ้นใน Q4 และธุรกิจหลักจะมี EBITDA เป็นบวกได้ตามเป้าหรือไม่"
+               "summary":  "หุ้น Ondas (ONDS) ปิดที่ $4.03 ณ วันที่ 23 พ.ย. 2026 ร่วงลง 73.6% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $15.28 แม้จะรายงานรายได้ Q3 2026 สูงเป็นประวัติการณ์ที่ $167.5 ล้าน และมี Backlog แตะ $835 ล้านเมื่อวันที่ 12 พ.ย. แต่ตลาดลงโทษจากความกังวลเรื่อง Dilution หลังซื้อกิจการ อัตรากำไรขั้นต้น GAAP ที่หล่นเหลือ 21.8% และการใช้เงินสดดำเนินงาน 9 เดือนสูงถึง $278.0 ล้าน ล่าสุดวันที่ 23 พ.ย. ซีอีโอ Eric Brock ประกาศชะลอดีลซื้อกิจการเพื่อเน้นการส่งมอบงานพร้อมคงเป้ารายได้ปี 2026 ที่ $550 ล้าน และปี 2027 ที่ $1.1 พันล้าน ภาพเทคนิคยังเป็นขาลง ทำให้สมมติฐานคูเมืองระยะยาวอยู่ในสถานะต้องเฝ้าระวัง",
+               "technical":  "ONDS อยู่ในแนวโน้มขาลงเต็มตัว ณ วันที่ 23 พ.ย. 2026 โดยมีข้อมูลย้อนหลังครบ 500 วันทำการ ราคาปิด $4.03 อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียล (EMA — ค่าเฉลี่ยราคาที่ให้น้ำหนักวันล่าสุดเพื่อจับเทรนด์) ทั้งสามเส้นซึ่งเรียงตัวแบบขาลง ได้แก่ EMA 50 ที่ $6.07, EMA 100 ที่ $6.96 และ EMA 200 ที่ $7.51 ด้านโมเมนตัมยังยืนยันแรงกดดันขาลง โดย MACD (ตัววัดโมเมนตัมและเทรนด์จากผลต่างเส้นค่าเฉลี่ย) อยู่ที่ -0.65 ต่ำกว่าเส้น Signal ที่ -0.53 ทำให้ Histogram ติดลบที่ -0.12 ขณะที่ RSI 14 (ดัชนีวัดแรงซื้อขายช่วง 0–100 หากต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 33.1 สะท้อนแรงขายที่ตึงตัวใกล้เขต Oversold แต่ยังไม่เกิดสัญญาณกลับตัว ภายในกรอบ Bollinger Bands (แถบวัดความผันผวนรอบค่าเฉลี่ย 20 วัน) ระหว่าง $3.51–$7.16 ราคาเกาะโซนล่างต่ำกว่าเส้นกลาง $5.33 และอยู่ช่วง 3% ล่างสุดของกรอบ 52 สัปดาห์ ($3.73–$15.28) แม้ราคาจะรีบาวด์ +7.18% ในวันที่ 23 พ.ย. แต่ถูกขายกดจากจุดสูงสุดระหว่างวัน $4.43 ลงมาปิด $4.03 ด้วยวอลุ่ม 44.52 ล้านหุ้น ต่ำกว่าค่าเฉลี่ย 20 วันที่ 47.21 ล้านหุ้น แนวรับสำคัญอยู่ที่ $3.73 และ $3.51 ส่วนแนวต้านอยู่ที่ $5.33 และ $6.07"
            },
     "sources":  [
                     {
-                        "title":  "Ondas Inc. Form 8-K Exhibit 99.1 – Q3 2026 results press release",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001646188/000119312526457088/onds-ex99_1.htm",
-                        "date":  "2026-11-12"
+                        "date":  "2026-11-23",
+                        "publisher":  "U.S. Securities and Exchange Commission (EDGAR)",
+                        "title":  "Ondas Inc. SEC Filings (Form 8-K Shareholder Letter \u0026 Q3 2026 Form 10-Q)",
+                        "url":  "https://www.sec.gov/edgar/browse/?CIK=0001646188"
                     },
                     {
-                        "title":  "Earnings call transcript: Ondas tops Q3 2026 estimates but shares fall",
+                        "date":  "2026-11-12",
+                        "publisher":  "AccessWire / Ondas Inc.",
+                        "title":  "Ondas Reports Third Quarter 2026 Financial Results",
+                        "url":  "https://www.accesswire.com/viewpressrelease.aspx?id=1130635"
+                    },
+                    {
+                        "date":  "2026-11-16",
                         "publisher":  "Investing.com",
-                        "url":  "https://ng.investing.com/news/stock-market-news/earnings-call-transcript-ondas-tops-q3-2026-estimates-but-shares-fall-93CH-2803639",
-                        "date":  "2026-11-12"
+                        "title":  "Stifel lowers Ondas stock price target on margin concerns to $15",
+                        "url":  "https://www.investing.com/news/analysts/stifel-lowers-ondas-stock-price-target-on-margin-concerns-to-15-4328328"
                     },
                     {
-                        "title":  "Ondas Stock Falls Over 4% Amid Four Analyst Price-Target Cuts",
-                        "publisher":  "The Crypto Basic",
-                        "url":  "https://thecryptobasic.com/2026/11/16/ondas-stock-falls-over-4-amid-four-analyst-target-cuts-despite-record-revenue/",
-                        "date":  "2026-11-16"
+                        "date":  "2026-11-04",
+                        "publisher":  "AccessWire / Ondas Inc.",
+                        "title":  "Ondas Secures Multi-Million-Dollar Counter-UAS Contracts in Europe and Asia",
+                        "url":  "https://www.accesswire.com/viewpressrelease.aspx?id=1142502"
                     },
                     {
-                        "title":  "Ondas (NASDAQ:ONDS) Stock Price Down 8.7% Following Analyst Downgrade",
-                        "publisher":  "MarketBeat",
-                        "url":  "https://www.marketbeat.com/instant-alerts/price-ondas-nasdaq-onds-stock-price-down-87-following-analyst-downgrade-2026-11-16/",
-                        "date":  "2026-11-16"
-                    },
-                    {
-                        "title":  "Ondas plans significant US manufacturing expansion to scale low-cost ULTRA ISR aircraft production",
-                        "publisher":  "ASDNews",
-                        "url":  "https://asdnews.com/news/defense/2026/11/05/ondas-plans-significant-us-manufacturing-expansion-scale-lowcost-ultra-isr-aircraft-production-targeting-10-aircraft-per-month-2028",
-                        "date":  "2026-11-05"
-                    },
-                    {
-                        "title":  "Ondas Inc (ONDS) stock plunges as company announces Stemme acquisition to boost drone production",
-                        "publisher":  "Blockonomi",
-                        "url":  "https://blockonomi.com/ondas-inc-onds-stock-plunges-as-company-announces-stemme-acquisition-to-boost-drone-production/",
-                        "date":  "2026-11-05"
-                    },
-                    {
-                        "title":  "Insider Selling: Ondas (NASDAQ:ONDS) COO Sells $18,784.32 in Stock",
-                        "publisher":  "MarketBeat",
-                        "url":  "https://www.marketbeat.com/instant-alerts/insider-insider-selling-ondas-nasdaq-onds-coo-sells-1878432-in-stock-2026-11-20/",
-                        "date":  "2026-11-20"
-                    },
-                    {
-                        "title":  "Ondas director Jaspreet Sood sells $20,963 in stock",
-                        "publisher":  "Investing.com",
-                        "url":  "https://www.investing.com/news/insider-trading-news/ondas-director-jaspreet-sood-sells-20963-in-stock-93CH-5043066",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-23",
+                        "publisher":  "Ondas Inc. Investor Relations",
+                        "title":  "Ondas Inc. SEC Filings and Corporate Disclosures",
+                        "url":  "https://ir.ondas.com/all-sec-filings/default.aspx"
                     }
                 ]
 }

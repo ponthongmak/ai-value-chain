@@ -2,46 +2,45 @@
     "ticker":  "ON",
     "name":  "onsemi",
     "symbol":  "NASDAQ:ON",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:04:38Z",
-    "costUsd":  0.7816455,
+    "generatedAt":  "2026-11-24T04:13:55Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NASDAQ:ON",
                        "yahoo":  "ON",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:01:33Z",
-                       "price":  60.84,
-                       "open":  65.31,
-                       "high":  65.49,
-                       "low":  59.14,
-                       "volume":  15247300,
-                       "avgVolume20":  11231460,
-                       "changePct":  -7.43,
-                       "ema50":  73.12,
-                       "ema100":  77.14,
-                       "ema200":  77.15,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:10:14Z",
+                       "price":  66.77,
+                       "open":  66.52,
+                       "high":  67.01,
+                       "low":  64.88,
+                       "volume":  14654300,
+                       "avgVolume20":  11537320,
+                       "changePct":  9.75,
+                       "historyDays":  500,
+                       "ema50":  72.87,
+                       "ema100":  76.93,
+                       "ema200":  77.04,
                        "bb":  {
-                                  "upper":  79.09,
-                                  "middle":  70.1,
-                                  "lower":  61.12
+                                  "upper":  78.65,
+                                  "middle":  69.74,
+                                  "lower":  60.83
                               },
                        "macd":  {
-                                    "macd":  -2.48,
-                                    "signal":  -1.85,
-                                    "hist":  -0.62
+                                    "macd":  -2.38,
+                                    "signal":  -1.96,
+                                    "hist":  -0.42
                                 },
-                       "rsi14":  34.31,
+                       "rsi14":  44.94,
                        "high52w":  134.92,
                        "low52w":  44.56,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         133.93
-                                     ],
                                      [
                                          "2026-06-04",
                                          131.82
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          60.84
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         66.77
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          98.97,
                                           100.26,
                                           100.93,
                                           101.71,
@@ -639,107 +641,116 @@
                                           74.22,
                                           73.94,
                                           73.62,
-                                          73.12
+                                          73.12,
+                                          72.87
                                       ]
                    },
     "en":  {
-               "headline":  "AI chip rout drags ON below its lower band; SiC moat under review",
-               "technical":  "Trend: ON closed at $60.84 on 2026-11-20, well below all three EMAs (exponential moving averages, which give more weight to recent prices): EMA50 $73.12, EMA100 $77.14 and EMA200 $77.15. The short average sits under the longer ones, and EMA100 has flattened onto EMA200. That is a classic downtrend. Momentum: MACD (a trend-momentum gauge) is -2.48, below its signal line at -1.85, and the histogram is negative at -0.62, so selling pressure is still building. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 34.31, which is weak and close to oversold but not there yet. Position: the price closed just below the lower Bollinger Band at $61.12 (the bands sit about two standard deviations around the 20-day average of $70.10). That signals an overstretched move, which often brings a pause or bounce but does not by itself mean a reversal. The stock is 55% below its 52-week high of $134.92 and 37% above the $44.56 low. Volume was 15.2M, 1.36x the 20-day average, which confirms real selling on the -7.43% day. The nearest support is the $59.14 intraday low; resistance is at $65–66, then around $73.",
-               "fundamental":  "Q3 2026, reported 2 Nov, beat onsemi\u0027s own guidance: revenue $1,722M (+11% y/y), non-GAAP gross margin 41.2%, non-GAAP EPS $0.90 and free cash flow $489M. Q4 guidance is $1,715–1,815M in revenue and $0.95–1.07 in non-GAAP EPS. The revenue mix is shifting. AI data center revenue was about $180M (+175% y/y), and the 2030 target was raised to more than $3B. Automotive, the core SiC end market, was flat at $777M. onsemi is buying Ferric (power delivery for AI processors) for $600M plus up to $175M in milestone payments, and Synaptics shareholders approved the cash merger on 17 Nov. The negative: on 6 Nov onsemi cancelled its up-to-$2B Czech SiC expansion, citing changed SiC market economics. For a thesis built on SiC scale, that is a meaningful retreat.",
-               "news":  [
-                            "2 Nov: Q3 revenue of $1,722M and non-GAAP EPS of $0.90 both beat the midpoint of guidance; Q4 guidance is $1,715–1,815M revenue and $0.95–1.07 EPS. Goldman Sachs called guidance \u0027just above\u0027 expectations and expects the stock to stay \u0027range bound.\u0027",
-                            "2 Nov: onsemi agreed to buy Ferric for $600M in cash plus up to $175M in milestone payments and raised its 2030 AI data center revenue target by $500M to more than $3B.",
-                            "5 Nov: The PHLX Semiconductor Index fell 12.25%, its second-worst day on record, as investors questioned the AI spending boom. The selloff hit almost every chip stock.",
-                            "6 Nov: onsemi and the Czech Ministry of Industry and Trade confirmed that the up-to-$2B Rožnov SiC expansion, announced in June 2024, will not go ahead. Reports cite weak EV demand and cheaper Chinese wafers; no write-down or state-aid repayment has been disclosed yet.",
-                            "10 Nov: onsemi launched EliteSiC M4, its first trench-based fourth-generation SiC platform, claiming up to 30% higher power density. The 750 V automotive die is available now, and parts up to 1200 V are due from 2027.",
-                            "17 Nov: Synaptics stockholders approved the merger with onsemi with 98.34% of votes cast. The amended deal is about $5.7B in cash ($123 per share), with closing expected in mid-2027.",
-                            "After the Q3 report, brokers trimmed targets: Mizuho cut its target from $95 to $87 and BofA from $120 to $100, though the consensus average stays well above the current price.",
-                            "20 Nov: ON fell 7.43% during a broad AI/chip rout in which QQQ dropped 5.67% and Nvidia 14%. No onsemi-specific news was found for that day."
+               "caution":  "Long-term investors should monitor two overlapping execution risks. First, automotive still represents 45% of revenue ($777 million in Q3) and is guided down high-single-digits in Q4; if supply reallocation masks deeper EV demand weakness or Chinese SiC share gains, margins could stall. Second, funding $6.3 billion in combined upfront cash for Synaptics ($5.7 billion) and Ferric ($600 million) against $4.15 billion in Q3 cash requires up to $2.45 billion in new term debt, raising leverage and integration risks through mid-2027.",
+               "cons":  [
+                            "Canceling the planned $2 billion Czech SiC expansion on November 6 highlights severe global SiC pricing pressure from low-cost Chinese competitors.",
+                            "Automotive revenue dipped 1% sequentially to $777 million in Q3 and is guided down high-single-digits in Q4, weighing on near-term sentiment.",
+                            "All-cash M\u0026A commitments totaling $6.3 billion upfront ($5.7 billion Synaptics approved November 17 plus $600 million Ferric) add debt and execution complexity.",
+                            "Shares sit below all major moving averages ($72.87–$77.04) after Citi (November 4) and Cantor Fitzgerald (November 23) both cut targets to $80."
                         ],
-               "caution":  "The chart is in a confirmed downtrend. The 20 Nov drop came on above-average volume during a sector-wide AI selloff that has shown no sign of ending. A close below the lower Bollinger Band can lead to a bounce, but in strong selloffs prices can keep sliding along the band. On fundamentals, the Rožnov cancellation suggests cheaper Chinese SiC wafers are reducing the value of making wafers in-house. The Synaptics (~$5.7B cash) and Ferric deals add integration and balance-sheet risk, and any Rožnov charge has not yet been disclosed.",
-               "opportunity":  "The decline looks mainly sector-driven. Q3 beat guidance, free cash flow was 28% of revenue, and the Q4 guidance midpoint implies sequential growth. AI data center power is the fastest-growing line (+175% y/y), and Ferric adds power delivery right beside the processor, a higher-value spot in the AI rack. EliteSiC M4 keeps onsemi competitive in SiC technology even as it cuts capex. With RSI near 30 and the price at the lower band, the stock is stretched to the downside.",
+               "fundamental":  "onsemi is actively reshaping its business from an EV-heavy silicon carbide supplier into a broader AI data center power vendor. In Q3 2026 (reported November 2), revenue climbed 11% year-over-year to $1.722 billion and non-GAAP EPS reached $0.90, with Q4 guided to $1.715–$1.815 billion and $0.95–$1.07 EPS. AI data center sales rose 175% year-over-year to $180 million as high-voltage 800V architectures adopt onsemi\u0027s SiC and GaN power trees, bolstered by the November 10 EliteSiC M4 launch and the $600 million Ferric deal for on-package processor power. Yet canceling the $2 billion Czech SiC fab expansion on November 6 underscores intensifying Chinese SiC competition, while the $5.7 billion all-cash Synaptics merger (approved November 17) pivots capital toward edge/IoT—putting the original SiC-scale moat thesis on watch.",
+               "headline":  "AI Power Surges 175%, But Auto Drag and M\u0026A Keep ON Technicals Bearish",
+               "news":  [
+                            "November 2, 2026: onsemi beat Q3 2026 expectations with $1.722 billion revenue (+11% YoY), $0.90 non-GAAP EPS, and $489 million free cash flow. AI data center revenue jumped 175% YoY to $180 million, while Q4 guidance called for $1.715–$1.815 billion revenue and a high-single-digit sequential drop in automotive.",
+                            "November 2, 2026: onsemi agreed to acquire Ferric, Inc. for $600 million in cash plus up to $175 million in milestone earnouts, targeting a year-end 2026 close. Ferric\u0027s integrated voltage regulators shrink AI processor power footprints by 50%–70%, prompting onsemi to raise its 2030 AI data center target by $500 million to over $3 billion.",
+                            "November 6, 2026: onsemi and the Czech Ministry of Industry and Trade agreed to cancel the planned up-to-$2 billion Rožnov SiC expansion, citing evolving global SiC market economics and Chinese competition. Existing Czech wafer operations and Brno R\u0026D remain unaffected.",
+                            "November 10, 2026: onsemi launched its fourth-generation trench EliteSiC M4 platform, delivering up to 30% higher power density and 35% lower losses. The chips target 800V/±400V AI data center power supplies and next-generation EVs.",
+                            "November 18, 2026: Synaptics announced that 98.34% of voting stockholders approved onsemi\u0027s amended $5.7 billion all-cash merger ($123/share, backed by up to $2.45 billion in Morgan Stanley debt commitments) at its November 17 meeting. Closing is targeted for mid-2027 pending regulatory clearances.",
+                            "November 3–23, 2026: Wall Street split on the pullback—Craig-Hallum upgraded ON to Buy ($85 target) on November 3, whereas Citi (November 4) and Cantor Fitzgerald (November 23) kept Neutral ratings and trimmed targets to $80 citing automotive headwinds and M\u0026A P\u0026L complexity."
+                        ],
+               "opportunity":  "If onsemi executes its pivot cleanly, the payoff lies in owning a wider slice of the AI rack power tree—from 800V grid-to-PSU conversion using EliteSiC M4 down to on-package Ferric voltage regulators. AI data center sales are already compounding fast ($180 million in Q3, +39% sequentially) and carry stronger margins than commoditized auto discretes, helping lift non-GAAP gross margins toward 42.5% in Q4. Meanwhile, skipping the $2 billion Czech fab preserves cash flow ($489 million FCF in Q3) while keeping net leverage below 2.0x.",
+               "opportunityCheck":  "The current AI-opportunity profile looks slightly outdated on two fronts. AI revenue exposure appears too low now that data center sales hit $180 million in Q3 2026 (+175% year-over-year, over 10% of revenue) and management lifted its 2030 AI goal above $3 billion. Optionality also merits a modest upward adjustment after the November 2 Ferric deal extends onsemi from rack-level power into on-package processor voltage regulation. Conversely, bottleneck and pricing power should stay restrained—even with EliteSiC M4—because canceling the Czech SiC expansion on November 6 confirms intense commodity competition in silicon carbide.",
+               "pros":  [
+                            "AI data center revenue jumped 175% year-over-year and 39% sequentially to $180 million in Q3 2026, now exceeding 10% of total sales.",
+                            "The November 2 Ferric acquisition ($600 million cash upfront) adds integrated voltage regulators for AI processors, lifting onsemi\u0027s 2030 AI target above $3 billion.",
+                            "Non-GAAP gross margin expanded 190 basis points sequentially to 41.2% in Q3—its fifth straight quarterly gain—with Q4 guided to 41.5%–43.5%.",
+                            "Free cash flow hit $489 million (28% of Q3 revenue), supporting self-funded investments while EliteSiC M4 (November 10) cuts power losses up to 35%."
+                        ],
                "risks":  [
-                             "The AI capex selloff could deepen further; the Nasdaq 100 was near a bear market on 20 Nov.",
-                             "Cheap Chinese SiC wafers could erode onsemi\u0027s SiC margins and scale advantage.",
-                             "Automotive (~45% of Q3 revenue) could stay flat if EV demand remains soft.",
-                             "The Synaptics (~$5.7B cash) and Ferric deals carry integration, financing and regulatory-approval risk through mid-2027.",
-                             "onsemi has not yet disclosed any Rožnov write-down or repayment of Czech state aid."
+                             "Chinese SiC pricing competition eroding Western silicon-carbide margins and pricing power, as signaled by the November 6 Czech expansion cancellation.",
+                             "Prolonged EV and automotive demand weakness beyond Q4 2026\u0027s guided high-single-digit sequential decline in onsemi\u0027s largest segment ($777 million in Q3).",
+                             "Balance-sheet leverage and integration execution across two simultaneous cash acquisitions—Synaptics ($5.7 billion, regulatory risk through mid-2027) and Ferric ($600 million upfront).",
+                             "High-beta semiconductor volatility and persistent technical downtrend below the $72.87–$77.04 moving-average resistance cluster."
                          ],
-               "summary":  "ON fell 7.43% to $60.84 on 2026-11-20 during the AI chip rout. It closed below every EMA and its lower Bollinger Band, with MACD negative and RSI at 34.31: a bearish but stretched chart. The business did well in Q3, and AI data center revenue is growing fast. However, the 6 Nov cancellation of the Czech SiC expansion, along with flat auto sales, weakens the \u0027SiC scale\u0027 moat as onsemi pivots to AI power and two acquisitions. The thesis is worth watching closely."
+               "summary":  "onsemi\u0027s November 23 rally of 9.75% to $66.77 looks like a relief bounce inside a broader downtrend, leaving the stock 50.5% below its $134.92 52-week high. Fundamentally, Q3 2026 results on November 2 showed strong execution: revenue rose 11% year-over-year to $1.722 billion, non-GAAP gross margin expanded to 41.2%, and AI data center sales surged 175% to $180 million alongside a $600 million Ferric deal. However, canceling its $2 billion Czech SiC expansion on November 6, soft Q4 auto guidance, and debt-funded Synaptics integration keep the moat thesis on watch.",
+               "technical":  "Despite jumping 9.75% to $66.77 on November 23, ON\u0027s overall chart remains bearish. Price sits well below its exponential moving averages (EMAs — trend lines tracking average price over 50, 100, and 200 days), which are stacked in bearish order: EMA 50 ($72.87) under EMA 100 ($76.93) and EMA 200 ($77.04). Momentum confirms caution. The MACD (a trend-momentum oscillator) stands at -2.38, below its -1.96 signal line with a negative -0.42 histogram, while RSI 14 (a 0–100 momentum gauge; under 30 is oversold) reads 44.94—recovering toward neutral but still below the 50 midpoint. On volatility, shares rebounded sharply off the lower Bollinger Band ($60.83; a volatility envelope around the 20-day average) after closing at $60.84 on November 20, yet still sit in the lower quarter of their $44.56–$134.92 52-week range. Volume reached 14.65 million shares, 27% above the 11.54 million 20-day average, showing genuine dip-buying. Near-term resistance sits at the $69.74 middle band and $72.87 EMA 50, with key support at $60.83."
            },
     "th":  {
-               "headline":  "แรงเทขายหุ้นชิป AI กด ON หลุดกรอบล่าง ต้องจับตา moat SiC",
-               "technical":  "แนวโน้ม: ON ปิดที่ $60.84 เมื่อ 2026-11-20 ต่ำกว่าเส้น EMA ทั้งสามเส้นชัดเจน (EMA คือค่าเฉลี่ยเคลื่อนที่ที่ให้น้ำหนักกับราคาล่าสุดมากกว่า) ได้แก่ EMA50 $73.12, EMA100 $77.14 และ EMA200 $77.15 เส้นสั้นอยู่ใต้เส้นยาว และ EMA100 แบนลงมาเกือบทับ EMA200 นี่คือภาพขาลงแบบคลาสสิก ด้านโมเมนตัม MACD (ตัววัดแรงส่งของเทรนด์) อยู่ที่ -2.48 ต่ำกว่าเส้นสัญญาณที่ -1.85 และ histogram ติดลบ -0.62 แปลว่าแรงขายยังเร่งตัวอยู่ RSI 14 (มาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 34.31 อ่อนแอและใกล้โซน oversold แต่ยังไม่ถึง ด้านตำแหน่งราคา ราคาปิดต่ำกว่าเส้นล่างของ Bollinger Band ที่ $61.12 เล็กน้อย (กรอบนี้กว้างราว 2 ส่วนเบี่ยงเบนมาตรฐานรอบค่าเฉลี่ย 20 วันที่ $70.10) แสดงว่าราคาลงแรงเกินกรอบปกติ ซึ่งมักตามมาด้วยการพักหรือเด้ง แต่ลำพังสัญญาณนี้ยังไม่ได้แปลว่ากลับตัว ราคาอยู่ต่ำกว่าจุดสูงสุด 52 สัปดาห์ที่ $134.92 ราว 55% และสูงกว่าจุดต่ำสุด $44.56 ราว 37% วอลุ่ม 15.2 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน 1.36 เท่า ยืนยันว่าแรงขายในวันที่ราคาลบ 7.43% เป็นของจริง แนวรับใกล้สุดคือจุดต่ำระหว่างวันที่ $59.14 แนวต้านอยู่ที่ $65–66 ถัดไปราว $73",
-               "fundamental":  "ผลไตรมาส 3/2026 ที่ประกาศเมื่อ 2 พ.ย. ออกมาดีกว่ากรอบที่บริษัทให้ไว้เอง รายได้ $1,722M (+11% y/y) gross margin แบบ non-GAAP 41.2% EPS แบบ non-GAAP $0.90 และกระแสเงินสดอิสระ $489M ส่วนไตรมาส 4 บริษัทคาดรายได้ $1,715–1,815M และ EPS แบบ non-GAAP $0.95–1.07 โครงสร้างรายได้กำลังเปลี่ยน รายได้ AI data center อยู่ราว $180M (+175% y/y) และบริษัทยกเป้าปี 2030 ขึ้นเป็นมากกว่า $3B ขณะที่ยานยนต์ซึ่งเป็นตลาดหลักของ SiC ทรงตัวที่ $777M onsemi ยังซื้อ Ferric (ระบบจ่ายไฟให้ชิป AI) ในราคา $600M บวกเงินตามเป้าหมายอีกสูงสุด $175M และผู้ถือหุ้น Synaptics อนุมัติดีลควบรวมแบบเงินสดเมื่อ 17 พ.ย. ด้านลบคือเมื่อ 6 พ.ย. onsemi ยกเลิกแผนขยายโรงงาน SiC ในเช็กมูลค่าสูงสุด $2B โดยอ้างว่าเศรษฐศาสตร์ของตลาด SiC เปลี่ยนไป สำหรับ thesis ที่ตั้งอยู่บนการผลิต SiC ขนาดใหญ่ นี่ถือเป็นการถอยที่มีนัยสำคัญ",
-               "news":  [
-                            "2 พ.ย.: รายได้ไตรมาส 3 ที่ $1,722M และ EPS แบบ non-GAAP $0.90 ออกมาดีกว่าค่ากลางของ guidance ส่วนไตรมาส 4 คาดรายได้ $1,715–1,815M และ EPS $0.95–1.07 Goldman Sachs มองว่า guidance \u0027สูงกว่าคาดเล็กน้อย\u0027 และคาดว่าหุ้นจะแกว่งในกรอบ",
-                            "2 พ.ย.: onsemi ตกลงซื้อ Ferric ด้วยเงินสด $600M บวกเงินตามเป้าหมายสูงสุด $175M พร้อมยกเป้ารายได้ AI data center ปี 2030 เพิ่มอีก $500M เป็นมากกว่า $3B",
-                            "5 พ.ย.: ดัชนี PHLX Semiconductor ร่วง 12.25% เป็นวันที่แย่ที่สุดอันดับสองในประวัติศาสตร์ จากความกังวลเรื่องการลงทุน AI แรงเทขายลามไปเกือบทุกหุ้นชิป",
-                            "6 พ.ย.: onsemi และกระทรวงอุตสาหกรรมและการค้าของเช็กยืนยันว่าจะไม่เดินหน้าโครงการขยายโรงงาน SiC ที่ Rožnov มูลค่าสูงสุด $2B ซึ่งประกาศไว้เมื่อ มิ.ย. 2024 รายงานข่าวระบุสาเหตุว่าดีมานด์ EV อ่อนตัวและเวเฟอร์จีนราคาถูกลง ส่วนตัวเลขการตัดจำหน่ายหรือการคืนเงินอุดหนุนรัฐยังไม่ได้เปิดเผย",
-                            "10 พ.ย.: เปิดตัว EliteSiC M4 แพลตฟอร์ม SiC รุ่นที่ 4 ที่ใช้โครงสร้าง trench เป็นครั้งแรก อ้างว่าความหนาแน่นกำลังไฟสูงขึ้นสูงสุด 30% ชิป 750 V สำหรับรถยนต์วางขายแล้ว ส่วนรุ่นสูงสุด 1200 V จะเริ่มมีในปี 2027",
-                            "17 พ.ย.: ผู้ถือหุ้น Synaptics อนุมัติการควบรวมกับ onsemi ด้วยคะแนน 98.34% ของเสียงที่ลงคะแนน ดีลฉบับแก้ไขเป็นเงินสดราว $5.7B ($123 ต่อหุ้น) คาดปิดดีลกลางปี 2027",
-                            "หลังประกาศงบไตรมาส 3 โบรกเกอร์ปรับลดราคาเป้าหมาย Mizuho ลดจาก $95 เป็น $87 และ BofA ลดจาก $120 เป็น $100 แต่ค่าเฉลี่ยของนักวิเคราะห์ยังสูงกว่าราคาปัจจุบันมาก",
-                            "20 พ.ย.: ON ร่วง 7.43% ไปพร้อมกับแรงเทขายหุ้น AI และชิปทั้งตลาด วันนั้น QQQ ลง 5.67% และ Nvidia ลง 14% ไม่พบข่าวเฉพาะของ onsemi ในวันดังกล่าว"
+               "caution":  "นักลงทุนระยะยาวควรจับตาความเสี่ยงเชิงปฏิบัติการ 2 ด้านพร้อมกัน ด้านแรก กลุ่มยานยนต์ยังคิดเป็น 45% ของรายได้รวม ($777 ล้านใน Q3) และถูกคาดว่าจะลดลงระดับ high-single-digit ใน Q4 หากการโยกกำลังผลิตเป็นเพียงฉากบังหน้าความต้องการ EV ที่อ่อนแอหรือการเสียส่วนแบ่งให้คู่แข่งจีน อัตรากำไรอาจชะงักได้ ด้านที่สอง การใช้เงินสดก้อนแรกรวม $6.3 พันล้านเพื่อซื้อ Synaptics ($5.7 พันล้าน) และ Ferric ($600 ล้าน) เทียบกับเงินสด $4.15 พันล้านใน Q3 ทำให้ต้องกู้เงินเพิ่มสูงสุด $2.45 พันล้าน เพิ่มภาระหนี้และความซับซ้อนในการควบรวมถึงกลางปี 2027",
+               "cons":  [
+                            "การยกเลิกแผนขยายโรงงาน SiC มูลค่า $2 พันล้านในเช็กเมื่อ 6 พ.ย. สะท้อนแรงกดดันด้านราคาอย่างหนักจากผู้ผลิต SiC ต้นทุนต่ำของจีน",
+                            "รายได้กลุ่มยานยนต์ลดลง 1% QoQ เหลือ $777 ล้านใน Q3 และคาดว่าจะอ่อนตัวลงระดับ high-single-digit ใน Q4 กดดันความเชื่อมั่นระยะสั้น",
+                            "ภาระเงินสดก้อนแรกรวม $6.3 พันล้านจากดีล Synaptics ($5.7 พันล้าน อนุมัติ 17 พ.ย.) และ Ferric ($600 ล้าน) เพิ่มหนี้และความเสี่ยงในการควบรวม",
+                            "ราคาหุ้นยังอยู่ต่ำกว่าเส้นค่าเฉลี่ยหลักทั้งหมด ($72.87–$77.04) หลัง Citi (4 พ.ย.) และ Cantor Fitzgerald (23 พ.ย.) ปรับลดเป้าราคาลงเหลือ $80"
                         ],
-               "caution":  "กราฟอยู่ในขาลงที่ได้รับการยืนยันแล้ว การร่วงเมื่อ 20 พ.ย. มาพร้อมวอลุ่มสูงกว่าปกติ ท่ามกลางแรงเทขายหุ้น AI ทั้งกลุ่มที่ยังไม่มีสัญญาณจบ การปิดต่ำกว่า Bollinger Band เส้นล่างอาจตามมาด้วยการเด้ง แต่ในช่วงขายหนัก ราคาก็ไหลเกาะเส้นล่างลงไปต่อได้ ด้านพื้นฐาน การยกเลิกโครงการ Rožnov สะท้อนว่าเวเฟอร์ SiC จากจีนที่ถูกลงกำลังลดคุณค่าของการผลิตเวเฟอร์เอง ดีล Synaptics (เงินสดราว $5.7B) และ Ferric ยังเพิ่มความเสี่ยงทั้งด้านการรวมกิจการและงบดุล และค่าใช้จ่ายจาก Rožnov ยังไม่ได้เปิดเผย",
-               "opportunity":  "การร่วงครั้งนี้ดูมาจากปัจจัยกลุ่มอุตสาหกรรมเป็นหลัก ผลไตรมาส 3 ดีกว่า guidance กระแสเงินสดอิสระคิดเป็น 28% ของรายได้ และค่ากลางของ guidance ไตรมาส 4 บ่งชี้ว่ายังโตต่อจากไตรมาสก่อน ธุรกิจไฟฟ้าสำหรับ AI data center โตเร็วที่สุด (+175% y/y) และ Ferric ช่วยให้ onsemi เข้าไปจ่ายไฟถึงข้างตัวชิป ซึ่งเป็นตำแหน่งที่มีมูลค่าสูงขึ้นใน rack AI ส่วน EliteSiC M4 ทำให้เทคโนโลยี SiC ยังแข่งขันได้ แม้บริษัทจะลดงบลงทุน RSI ใกล้ 30 และราคาอยู่ที่กรอบล่าง แปลว่าหุ้นลงมาตึงมากแล้ว",
+               "fundamental":  "onsemi กำลังปรับโฉมธุรกิจจากผู้ผลิตชิป SiC ที่พึ่งพารถยนต์ไฟฟ้าไปสู่ผู้จัดหาระบบจ่ายไฟสำหรับศูนย์ข้อมูล AI แบบครบวงจร ใน Q3 2026 (ประกาศ 2 พ.ย.) รายได้โต 11% YoY แตะ $1.722 พันล้าน กำไรต่อหุ้น Non-GAAP อยู่ที่ $0.90 พร้อมคาดการณ์ Q4 รายได้ $1.715–$1.815 พันล้าน และ EPS $0.95–$1.07 ยอดขายฝั่งศูนย์ข้อมูล AI พุ่ง 175% YoY เป็น $180 ล้าน จากการเปลี่ยนผ่านสู่ระบบไฟแรงดันสูง 800V เสริมทัพด้วยการเปิดตัว EliteSiC M4 เมื่อ 10 พ.ย. และดีลซื้อ Ferric มูลค่า $600 ล้านเพื่อเจาะตลาดตัวคุมแรงดันระดับแพ็กเกจชิป อย่างไรก็ตาม การยกเลิกขยายโรงงาน SiC มูลค่า $2 พันล้านในเช็กเมื่อ 6 พ.ย. สะท้อนการแข่งขันรุนแรงจากจีน ขณะที่ดีลซื้อ Synaptics ด้วยเงินสด $5.7 พันล้าน (ผู้ถือหุ้นอนุมัติ 17 พ.ย.) ดึงเงินทุนไปสู่ตลาด Edge/IoT ทำให้ต้องจับตาสมมติฐานความได้เปรียบด้านขนาด SiC เดิมอย่างใกล้ชิด",
+               "headline":  "รายได้ไฟ AI พุ่ง 175% แต่แรงฉุดกลุ่มรถและดีลควบรวมยังคุมกราฟ ON ขาลง",
+               "news":  [
+                            "2 พ.ย. 2026: onsemi รายงานงบ Q3 2026 ดีกว่าคาดด้วยรายได้ $1.722 พันล้าน (+11% YoY), Non-GAAP EPS $0.90 และกระแสเงินสดอิสระ $489 ล้าน โดยรายได้ศูนย์ข้อมูล AI พุ่ง 175% YoY แตะ $180 ล้าน ขณะที่คาดการณ์ Q4 รายได้อยู่ที่ $1.715–$1.815 พันล้าน แต่กลุ่มยานยนต์จะหดตัวระดับ high-single-digit QoQ",
+                            "2 พ.ย. 2026: onsemi ตกลงเข้าซื้อ Ferric, Inc. ด้วยเงินสด $600 ล้าน บวกเงื่อนไขจ่ายเพิ่มตามเป้ารายได้สูงสุด $175 ล้าน คาดปิดดีลสิ้นปี 2026 เทคโนโลยีตัวคุมแรงดันไฟฟ้าแบบรวม (IVR) ช่วยลดพื้นที่บอร์ดชิป AI ลง 50%–70% ทำให้บริษัทปรับเพิ่มเป้ารายได้ศูนย์ข้อมูล AI ปี 2030 อีก $500 ล้าน เป็นมากกว่า $3 พันล้าน",
+                            "6 พ.ย. 2026: onsemi และกระทรวงอุตสาหกรรมเช็กตกลงยกเลิกโครงการขยายกำลังผลิต SiC มูลค่าสูงสุด $2 พันล้านที่เมือง Rožnov โดยอ้างสภาพตลาด SiC โลกที่เปลี่ยนไปและการแข่งขันด้านราคาจากจีน ทั้งนี้โรงงานผลิตเดิมและศูนย์วิจัยในเมือง Brno ยังดำเนินการตามปกติ",
+                            "10 พ.ย. 2026: onsemi เปิดตัวแพลตฟอร์ม EliteSiC M4 รุ่นที่ 4 แบบ trench architecture ที่เพิ่มความหนาแน่นกำลังไฟสูงสุด 30% และลดการสูญเสียพลังงานลงถึง 35% เจาะตลาดแหล่งจ่ายไฟศูนย์ข้อมูล AI ระบบ 800V/±400V และรถยนต์ไฟฟ้ารุ่นใหม่",
+                            "18 พ.ย. 2026: Synaptics ประกาศผลประชุมผู้ถือหุ้นเมื่อ 17 พ.ย. ซึ่งลงมติเห็นชอบ 98.34% ให้ควบรวมกิจการกับ onsemi ในรูปแบบเงินสดทั้งหมด $5.7 พันล้าน ($123 ต่อหุ้น สนับสนุนด้วยวงเงินกู้จาก Morgan Stanley สูงสุด $2.45 พันล้าน) คาดปิดดีลกลางปี 2027 หลังผ่านเกณฑ์กำกับดูแล",
+                            "3–23 พ.ย. 2026: นักวิเคราะห์วอลล์สตรีทเสียงแตกหลังหุ้นปรับฐาน โดย Craig-Hallum ปรับเพิ่มคำแนะนำเป็น Buy (เป้า $85) เมื่อ 3 พ.ย. ขณะที่ Citi (4 พ.ย.) และ Cantor Fitzgerald (23 พ.ย.) คงคำแนะนำ Neutral และลดเป้าราคาลงเหลือ $80 จากความกังวลกลุ่มยานยนต์และภาระงบกำไรขาดทุนจากดีลควบรวม"
+                        ],
+               "opportunity":  "หาก onsemi เปลี่ยนผ่านได้สำเร็จ โอกาสสำคัญคือการกินส่วนแบ่งตลอดห่วงโซ่จ่ายไฟในแร็ก AI ตั้งแต่การแปลงไฟ 800V ด้วย EliteSiC M4 ไปจนถึงตัวคุมแรงดันระดับชิปของ Ferric ยอดขายศูนย์ข้อมูล AI กำลังเร่งตัวแรง ($180 ล้านใน Q3 โต 39% QoQ) และให้อัตรากำไรสูงกว่าชิ้นส่วนยานยนต์ทั่วไป ช่วยดันอัตรากำไรขั้นต้น Non-GAAP สู่กรอบ 42.5% ใน Q4 ขณะเดียวกันการพับแผนโรงงานเช็กมูลค่า $2 พันล้านช่วยรักษาวินัยเงินสด ($489 ล้าน FCF ใน Q3) และคุมหนี้สินสุทธิให้ต่ำกว่า 2.0 เท่า",
+               "opportunityCheck":  "คะแนนโอกาสด้าน AI บนหน้าเว็บปัจจุบันดูล้าหลังเล็กน้อยในสองมิติ สัดส่วนรายได้ AI ควรถูกปรับขึ้นหลังยอดขายศูนย์ข้อมูล AI แตะ $180 ล้านใน Q3 2026 (+175% YoY คิดเป็นกว่า 10% ของรายได้รวม) พร้อมเป้ารายได้ AI ปี 2030 ที่ขยับทะลุ $3 พันล้าน ส่วนด้านทางเลือกการเติบโต (optionality) ก็ควรขยับขึ้นเล็กน้อยจากดีล Ferric เมื่อ 2 พ.ย. ที่ขยายบทบาทจากไฟระดับแร็กไปสู่ระดับแพ็กเกจชิป อย่างไรก็ตาม คะแนนด้านคอขวดและอำนาจตั้งราคาควรคงไว้แบบระมัดระวังแม้จะมี EliteSiC M4 เพราะการยกเลิกโรงงาน SiC ในเช็กเมื่อ 6 พ.ย. ยืนยันว่าการแข่งขันด้านราคาในตลาด SiC ยังดุเดือด",
+               "pros":  [
+                            "รายได้กลุ่มศูนย์ข้อมูล AI พุ่งแรง 175% YoY และ 39% QoQ แตะ $180 ล้านใน Q3 2026 คิดเป็นสัดส่วนเกิน 10% ของรายได้รวมแล้ว",
+                            "ดีลซื้อ Ferric เมื่อ 2 พ.ย. ($600 ล้านเงินสด) เติมเทคโนโลยีตัวคุมแรงดันไฟฟ้าบนแพ็กเกจชิป AI ดันเป้ารายได้ AI ปี 2030 ทะลุ $3 พันล้าน",
+                            "อัตรากำไรขั้นต้น Non-GAAP ขยายตัว 190 bps QoQ เป็น 41.2% ใน Q3 นับเป็นการขยายตัว 5 ไตรมาสติด โดย Q4 คาดขยับสู่ 41.5%–43.5%",
+                            "กระแสเงินสดอิสระแกร่งที่ $489 ล้าน (28% ของรายได้ Q3) ขณะที่แพลตฟอร์ม EliteSiC M4 (10 พ.ย.) ช่วยลดการสูญเสียพลังงานได้ถึง 35%"
+                        ],
                "risks":  [
-                             "แรงเทขายหุ้นที่เกี่ยวกับการลงทุน AI อาจลึกขึ้นอีก โดย Nasdaq 100 เข้าใกล้ bear market เมื่อ 20 พ.ย.",
-                             "เวเฟอร์ SiC จีนราคาถูกอาจกัดกร่อนมาร์จิ้นและความได้เปรียบด้านขนาดของ onsemi",
-                             "รายได้ยานยนต์ (ราว 45% ของรายได้ไตรมาส 3) อาจทรงตัวต่อไปหากดีมานด์ EV ยังอ่อน",
-                             "ดีล Synaptics (เงินสดราว $5.7B) และ Ferric มีความเสี่ยงทั้งด้านการรวมกิจการ การหาเงินทุน และการอนุมัติจากหน่วยงานกำกับจนถึงกลางปี 2027",
-                             "onsemi ยังไม่ได้เปิดเผยการตัดจำหน่ายหรือการคืนเงินอุดหนุนรัฐเช็กจากโครงการ Rožnov"
+                             "สงครามราคาจากผู้ผลิต SiC จีนที่กัดกร่อนมาร์จิ้นและอำนาจตั้งราคาฝั่งตะวันตก ดังสะท้อนจากการยกเลิกแผนขยายโรงงานในเช็กเมื่อ 6 พ.ย.",
+                             "ความอ่อนแอของตลาดรถยนต์ไฟฟ้าและยานยนต์ที่อาจยืดเยื้อเกินกว่าคาดการณ์หดตัวระดับ high-single-digit ใน Q4 ของธุรกิจหลัก ($777 ล้านใน Q3)",
+                             "ภาระหนี้และความเสี่ยงในการควบรวมสองดีลเงินสดขนาดใหญ่พร้อมกัน ทั้ง Synaptics ($5.7 พันล้าน รอเกณฑ์กำกับดูแลถึงกลางปี 2027) และ Ferric ($600 ล้าน)",
+                             "ความผันผวนสูงของหุ้นเซมิคอนดักเตอร์และแนวโน้มกราฟขาลงที่ยังมีแนวต้านเส้นค่าเฉลี่ยหนาแน่นช่วง $72.87–$77.04"
                          ],
-               "summary":  "ON ร่วง 7.43% มาอยู่ที่ $60.84 เมื่อ 2026-11-20 ตามแรงเทขายหุ้นชิป AI ราคาปิดต่ำกว่า EMA ทุกเส้นและหลุด Bollinger Band เส้นล่าง MACD เป็นลบ และ RSI อยู่ที่ 34.31 ภาพเทคนิคเป็นขาลงแต่ลงมาตึงแล้ว ธุรกิจในไตรมาส 3 ทำได้ดีและ AI data center โตเร็ว แต่การยกเลิกขยายโรงงาน SiC ในเช็กเมื่อ 6 พ.ย. ประกอบกับยอดขายยานยนต์ที่ทรงตัว ทำให้ moat ด้าน \u0027ขนาดการผลิต SiC\u0027 อ่อนลง ขณะที่บริษัทหันไปเน้นไฟฟ้าสำหรับ AI และดีลซื้อกิจการสองดีล thesis นี้จึงต้องจับตาใกล้ชิด"
+               "summary":  "การดีดตัวแรง +9.75% ของหุ้น ON สู่ $66.77 เมื่อ 23 พ.ย. ยังมีลักษณะเป็นการรีบาวด์ในแนวโน้มขาลง โดยราคายังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($134.92) ถึง 50.5% ด้านพื้นฐาน งบ Q3 2026 เมื่อ 2 พ.ย. แข็งแกร่งด้วยรายได้ $1.722 พันล้าน (+11% YoY) อัตรากำไรขั้นต้น Non-GAAP ขยายสู่ 41.2% และยอดขายศูนย์ข้อมูล AI พุ่ง 175% แตะ $180 ล้าน พร้อมดีลซื้อ Ferric $600 ล้าน แต่การยกเลิกขยายโรงงาน SiC ในเช็ก $2 พันล้าน (6 พ.ย.) แนวโน้มยานยนต์ Q4 ที่อ่อนตัว และดีลซื้อ Synaptics ด้วยเงินสด ทำให้ต้องจับตาสมมติฐานความได้เปรียบระยะยาวอย่างใกล้ชิด",
+               "technical":  "แม้หุ้น ON จะดีดแรง 9.75% ปิดที่ $66.77 เมื่อ 23 พ.ย. แต่ภาพรวมเทคนิคยังเป็นขาลง ราคาอยู่ต่ำกว่าเส้น EMA (เส้นค่าเฉลี่ยเคลื่อนที่แบบให้น้ำหนักราคาล่าสุด 50, 100 และ 200 วัน) ซึ่งเรียงตัวแบบขาลงครบชุดคือ EMA 50 ($72.87) ต่ำกว่า EMA 100 ($76.93) และ EMA 200 ($77.04) ด้านแรงส่งยังชวนระวัง โดย MACD (อินดิเคเตอร์วัดแนวโน้มและแรงส่ง) อยู่ที่ -2.38 ต่ำกว่าเส้น Signal (-1.96) พร้อมฮิสโตแกรมติดลบ -0.42 ขณะที่ RSI 14 (มาตรวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 คือขายมากเกินไป) อยู่ที่ 44.94 ฟื้นตัวขึ้นแต่ยังไม่ผ่านแนวกึ่งกลาง 50 ด้านความผันผวน ราคาดีดกลับจากขอบล่างของ Bollinger Bands (กรอบความผันผวนรอบค่าเฉลี่ย 20 วัน) ที่ $60.83 หลังปิด $60.84 เมื่อ 20 พ.ย. แต่ยังอยู่ในโซนล่างสุด 25% ของกรอบ 52 สัปดาห์ ($44.56–$134.92) ปริมาณซื้อขายอยู่ที่ 14.65 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (11.54 ล้านหุ้น) ราว 27% สะท้อนแรงซื้อเก็งกำไรจริง โดยมีแนวต้านใกล้ที่กรอบกลาง $69.74 และ EMA 50 ที่ $72.87 ส่วนแนวรับสำคัญอยู่ที่ $60.83"
            },
     "sources":  [
                     {
-                        "title":  "onsemi Reports Third Quarter 2026 Results (Form 8-K Exhibit 99.1)",
-                        "publisher":  "SEC / onsemi",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001097864/000114036126041580/ef20084671_ex99-1.htm",
-                        "date":  "2026-11-02"
+                        "date":  "2026-11-02",
+                        "publisher":  "onsemi",
+                        "title":  "onsemi Reports Third Quarter 2026 Results",
+                        "url":  "https://investor.onsemi.com/news-releases/news-release-details/onsemi-reports-third-quarter-2026-results"
                     },
                     {
-                        "title":  "ON Semiconductor shares fall despite earnings beat",
+                        "date":  "2026-11-02",
+                        "publisher":  "onsemi",
+                        "title":  "onsemi to Acquire Ferric, Establishing Leadership in Power Delivery for Next-Generation AI Processors",
+                        "url":  "https://investor.onsemi.com/news-releases/news-release-details/onsemi-acquire-ferric-establishing-leadership-power-delivery-next-generation-ai"
+                    },
+                    {
+                        "date":  "2026-11-06",
+                        "publisher":  "onsemi",
+                        "title":  "onsemi and Czech Ministry of Industry and Trade Agree to Conclude SiC Expansion Project, Reaffirm Partnership",
+                        "url":  "https://www.onsemi.com/company/news-media/press-announcements/onsemi-and-czech-ministry-of-industry-and-trade-agree-to-conclude-sic-expansion-project-reaffirm-partnership"
+                    },
+                    {
+                        "date":  "2026-11-10",
+                        "publisher":  "onsemi",
+                        "title":  "onsemi\u0027s EliteSiC M4 Pushes Power Density Higher as Energy Demands Grow",
+                        "url":  "https://www.onsemi.com/company/news-media/press-announcements/onsemis-elitesic-m4-pushes-power-density-higher-as-energy-demands-grow"
+                    },
+                    {
+                        "date":  "2026-11-18",
+                        "publisher":  "Synaptics",
+                        "title":  "Synaptics Stockholders Approve Merger with onsemi",
+                        "url":  "https://investor.synaptics.com/news-releases/news-release-details/synaptics-stockholders-approve-merger-onsemi"
+                    },
+                    {
+                        "date":  "2026-11-23",
                         "publisher":  "Investing.com",
-                        "url":  "https://www.investing.com/news/earnings/on-semiconductor-shares-fall-despite-earnings-beat-4992784",
-                        "date":  "2026-11-02"
-                    },
-                    {
-                        "title":  "Chip Stocks Just Had Their Second-Worst Day on Record",
-                        "publisher":  "24/7 Wall St.",
-                        "url":  "https://247wallst.com/investing/2026/11/06/chip-stocks-just-had-their-second-worst-day-on-record/",
-                        "date":  "2026-11-06"
-                    },
-                    {
-                        "title":  "Onsemi Is Walking Away From a $2 Billion Chip Bet It Made in 2024",
-                        "publisher":  "24/7 Wall St.",
-                        "url":  "https://247wallst.com/investing/2026/11/07/onsemi-is-walking-away-from-a-2-billion-chip-bet-it-made-in-2024/",
-                        "date":  "2026-11-07"
-                    },
-                    {
-                        "title":  "Onsemi introduces EliteSiC M4",
-                        "publisher":  "Compound Semiconductor",
-                        "url":  "https://compoundsemiconductor.net/article/125829/Onsemi_introduces_EliteSiC_M4",
-                        "date":  "2026-11-10"
-                    },
-                    {
-                        "title":  "Synaptics stockholders approve ON Semiconductor merger deal",
-                        "publisher":  "Investing.com",
-                        "url":  "https://www.investing.com/news/company-news/synaptics-stockholders-approve-on-semiconductor-merger-deal-93CH-5036481",
-                        "date":  "2026-11-17"
-                    },
-                    {
-                        "title":  "onsemi (NASDAQ:ON) Stock Has Average Target Price of $95.03 According to Brokerages",
-                        "publisher":  "Defense World",
-                        "url":  "https://www.defenseworld.net/2026/11/18/onsemi-nasdaqon-stock-has-average-target-price-of-95-03-according-to-brokerages.html",
-                        "date":  "2026-11-18"
-                    },
-                    {
-                        "title":  "Stock Market Today, November 20, 2026: US Stocks Close Sharply Lower",
-                        "publisher":  "StockTitan",
-                        "url":  "https://www.stocktitan.net/articles/stock-market-today-live-november-20-2026",
-                        "date":  "2026-11-20"
+                        "title":  "Cantor Fitzgerald lowers ON Semiconductor price target on auto concerns",
+                        "url":  "https://www.investing.com/news/stock-market-news/cantor-fitzgerald-lowers-on-semiconductor-price-target-on-auto-concerns-432-932977"
                     }
                 ]
 }

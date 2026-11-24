@@ -2,46 +2,45 @@
     "ticker":  "IONQ",
     "name":  "IonQ",
     "symbol":  "NYSE:IONQ",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:04:20Z",
-    "costUsd":  0.6141379,
+    "generatedAt":  "2026-11-24T04:26:05Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NYSE:IONQ",
                        "yahoo":  "IONQ",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:02:03Z",
-                       "price":  20.72,
-                       "open":  22.3,
-                       "high":  22.75,
-                       "low":  20.51,
-                       "volume":  29921100,
-                       "avgVolume20":  23458635,
-                       "changePct":  -8.76,
-                       "ema50":  33.22,
-                       "ema100":  37.12,
-                       "ema200":  40.25,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T04:22:29Z",
+                       "price":  23.34,
+                       "open":  24.15,
+                       "high":  24.86,
+                       "low":  23.14,
+                       "volume":  26341400,
+                       "avgVolume20":  23931995,
+                       "changePct":  12.64,
+                       "historyDays":  500,
+                       "ema50":  32.83,
+                       "ema100":  36.85,
+                       "ema200":  40.08,
                        "bb":  {
-                                  "upper":  37.42,
-                                  "middle":  29.35,
-                                  "lower":  21.28
+                                  "upper":  37.43,
+                                  "middle":  28.98,
+                                  "lower":  20.53
                               },
                        "macd":  {
-                                    "macd":  -3.08,
-                                    "signal":  -2.26,
-                                    "hist":  -0.82
+                                    "macd":  -3.14,
+                                    "signal":  -2.44,
+                                    "hist":  -0.7
                                 },
-                       "rsi14":  29.16,
+                       "rsi14":  36.54,
                        "high52w":  73.65,
                        "low52w":  20.51,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         68.23
-                                     ],
                                      [
                                          "2026-06-04",
                                          65.66
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          20.72
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         23.34
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          50.94,
                                           51.52,
                                           51.73,
                                           52.16,
@@ -639,90 +641,120 @@
                                           34.62,
                                           34.18,
                                           33.73,
-                                          33.22
+                                          33.22,
+                                          32.83
                                       ]
                    },
     "en":  {
-               "headline":  "IonQ hits 52-week low as CFO exit and dilution overshadow record quarter",
-               "technical":  "IONQ closed at $20.72 on 20 Nov 2026 (−8.76%), just above the day\u0027s low of $20.51. That low is also the new 52-week low. The trend is clearly down. Price sits far below the EMA 50 ($33.22), EMA 100 ($37.12) and EMA 200 ($40.25), the moving averages that track the short-, medium- and long-term trend. All three are stacked in bearish order (50 \u003c 100 \u003c 200). Momentum agrees. MACD, a trend-momentum gauge, is −3.08, below its signal line at −2.26, with a histogram of −0.82, so selling pressure is still growing rather than fading. RSI 14, a 0–100 momentum gauge where under 30 means oversold, is 29.16, just inside oversold territory. Price closed below the lower Bollinger Band at $21.28. The bands mark a typical ±2 standard-deviation range around the 20-day average of $29.35, so a close below them signals a stretched move. Volume of 29.9M shares was about 1.28× the 20-day average of 23.5M, which confirms the selling. Nearest support is the $20.51 low. First resistance is the lower band near $21.28, then the 20-day midline at $29.35 and the EMA 50 at $33.22.",
-               "fundamental":  "On 5 Nov 2026 IonQ reported Q3 revenue of $173.8M (+336% y/y), beating the roughly $141M consensus. It raised 2026 guidance to $505–515M from $450–460M. About $83.5M of revenue came from the newly consolidated SkyWater foundry, while the core IonQ Platform segment grew 127% to $90.3M. Backlog (RPO) more than doubled to $1.2B, and Superion 256 capacity is reported sold out for 2027. Losses remain heavy: an operating loss of $433.1M and an adjusted EBITDA loss of $133.6M. The $564M GAAP profit came from a non-cash warrant gain. Pro forma cash is about $3.7B. In the AI value chain, IonQ is still an early-stage bet on quantum computing rather than a current earner from AI infrastructure. Two milestones support the trapped-ion claim: advancing to DARPA QBI Stage C, the only trapped-ion firm to do so, and NVIDIA\u0027s on-premise Superion 256 deployment.",
-               "news":  [
-                            "5 Nov 2026: Q3 revenue of $173.8M (+336% y/y) beat estimates, and 2026 guidance was raised to $505–515M. The stock had fallen 10.5% during that day\u0027s broad AI and chip sell-off, then rose about 18% on 6 Nov.",
-                            "6 Nov 2026: Cantor Fitzgerald cut its price target to $60 from $70 after the results but kept its positive view.",
-                            "3 Nov 2026: IonQ closed its all-stock purchase of zero-trust security firm Elisity for about $1.3B, including up to $150M in earnouts. The deal adds to the share count after a $2.0B offering at $40 that closed on 16 Oct.",
-                            "13 Nov 2026: CFO Inder Singh stepped down effective immediately, and no reason was given. CEO Niccolo de Masi is acting finance chief until Commvault CFO Gary Merrill joins on 3 Dec, and the stock fell 6.42% to $28.88.",
-                            "13 Nov 2026: A prospectus supplement registered up to 34.58M shares for resale by existing holders. IonQ receives no proceeds, and the filing creates a potential supply overhang.",
-                            "16–20 Nov 2026: The quantum sector sell-off continued, with IonQ down about 8% on 16 Nov, 5% on 18 Nov and 8.76% on 20 Nov. From 20 Oct, IonQ lost about 33%, Rigetti 37% and D-Wave 44%."
+               "caution":  "The main near-term hazard is capital-allocation and dilution fatigue. Issuing $2.0 billion in equity and warrants plus $1.15 billion in stock for Elisity within weeks sharply expanded IonQ\u0027s share count, explaining why shares slid over 30% despite tripling revenue. Simultaneously integrating a lower-margin semiconductor foundry (SkyWater) and a Zero Trust security business (Elisity) while burning $133.6 million in quarterly Adjusted EBITDA—just as the CFO/COO departed—raises real execution risk. Technically, losing $20.51 support would open fresh 52-week lows.",
+               "cons":  [
+                            "Severe shareholder dilution followed October\u0027s $2.0 billion equity offering and the Nov 4 all-stock Elisity acquisition worth $1.15 billion at close.",
+                            "Cash burn remains steep, with Q3 2026 GAAP operating losses of $433.1 million and an Adjusted EBITDA loss of $133.6 million.",
+                            "CFO and COO Inder Singh stepped down abruptly on Nov 13, adding governance uncertainty during complex multi-company M\u0026A integration.",
+                            "Multiple brokers—including Cantor Fitzgerald, Needham, Mizuho, and B. Riley—cut price targets on Nov 6 while shares remain locked in a downtrend."
                         ],
-               "caution":  "The chart shows no confirmed bottom. Price is at a fresh 52-week low, below all three EMAs, and MACD is still widening lower. In a downtrend, RSI can stay oversold for weeks. Share supply is a real issue: the $2.0B October offering, the roughly $1.3B all-stock Elisity deal and 34.6M registered resale shares. An unexplained CFO exit eight days after earnings, two large integrations at once and a $433M quarterly operating loss all raise execution risk. Higher bond yields also weigh on speculative growth stocks.",
-               "opportunity":  "The business news was stronger than the share price suggests: record revenue, raised guidance, a $1.2B backlog and Superion 256 capacity reported sold out for 2027. DARPA QBI Stage C and NVIDIA\u0027s on-premise Superion 256 order are outside validation of the trapped-ion technology. About $3.7B of pro forma cash gives years of runway. The close below the lower Bollinger Band with RSI under 30 marks a stretched condition. A move back above $21.28 and MACD crossing back above its signal line would be early signs of stabilisation.",
+               "fundamental":  "IonQ is rapidly evolving from a pre-commercial trapped-ion pure play into a vertically integrated quantum computing, networking, and post-quantum security platform. Q3 2026 revenue jumped 336% YoY to $173.8 million—split between $90.3 million from the IonQ Platform (+127% YoY on Tempo deployments) and $83.5 million from two months of newly acquired SkyWater Foundry Services—driving FY2026 guidance up to $505–$515 million and backlog to $1.2 billion. In the AI value chain, IonQ sits on the long-horizon frontier: its 2027 Superion 256 capacity is sold out, including an on-premise unit for Nvidia\u0027s Accelerated Quantum Research Center. Yet underlying profitability lags badly. While non-cash warrant gains produced $564.0 million in GAAP net income, GAAP operating losses reached $433.1 million and Adjusted EBITDA lost $133.6 million, forcing heavy equity issuance to fund expansion alongside $3.7 billion in pro-forma cash.",
+               "headline":  "Record Q3 revenue overshadowed by heavy dilution, CFO exit, and steep downtrend",
+               "news":  [
+                            "Nov 5, 2026: IonQ reported record Q3 revenue of $173.8 million (+336% YoY) and raised FY2026 guidance to $505–$515 million as backlog hit $1.2 billion, though Adjusted EBITDA loss widened to $133.6 million and GAAP operating loss reached $433.1 million.",
+                            "Nov 4, 2026: IonQ closed its all-stock acquisition of Zero Trust cybersecurity firm Elisity for $1.15 billion upfront (up to $1.3 billion with earnouts), compounding share dilution after October 14\u0027s $2.0 billion equity offering.",
+                            "Nov 6, 2026: Despite maintaining Buy or Outperform ratings after Q3 earnings, Needham ($65 to $48), Cantor Fitzgerald ($70 to $60), Mizuho ($52 to $42), and B. Riley ($75 to $70) all trimmed price targets on dilution and cash burn.",
+                            "Nov 13, 2026: CFO and COO Inder M. Singh stepped down immediately; IonQ appointed former Commvault CFO Gary Merrill as incoming CFO (effective early December) and former Juniper CAO Thomas A. Austin as Chief Accounting Officer.",
+                            "Oct 27 \u0026 Nov 23, 2026: IonQ secured $7.5 million in follow-on AFRL quantum networking funding (Oct 27), while Nov 23\u0027s +12.64% rally off $20.51 support largely mirrored a broader Nvidia-driven tech rebound rather than new company disclosures."
+                        ],
+               "opportunity":  "For patient AI-infrastructure investors, IonQ\u0027s commercial traction and balance sheet now separate it from smaller quantum peers. Holding $3.7 billion in pro-forma cash removes near-term solvency risk and funds a multi-year roadmap backed by $1.2 billion in backlog, sold-out 2027 Superion 256 systems, and SkyWater\u0027s U.S. foundry supply chain. Direct ties to Nvidia\u0027s quantum research hub and U.S. defense programs like AFRL and DARPA validate long-term hybrid AI-quantum optionality. If new CFO Gary Merrill tightens spending discipline and integration stabilizes margins, valuation compression near $20.51 support could eventually draw renewed long-term institutional interest.",
+               "opportunityCheck":  "The page\u0027s framing—small direct AI exposure paired with high long-term optionality—still fits, since quantum remains an emerging complement to today\u0027s AI infrastructure. However, two sub-scores look slightly understated after Q3 2026. Market position warrants a modest move higher given the $1.2 billion backlog, sold-out 2027 Superion 256 capacity, and sole trapped-ion advancement to DARPA Stage C. Bottleneck and pricing power could also edge up slightly now that SkyWater provides captive U.S. quantum foundry capacity, though heavy operating losses and dilutive acquisitions limit any larger upgrade.",
+               "pros":  [
+                            "Record Q3 2026 revenue reached $173.8 million (+336% YoY), lifting FY2026 guidance to $505–$515 million and backlog to $1.2 billion.",
+                            "Core IonQ Platform revenue grew 127% YoY to $90.3 million, with 2027 Superion 256 capacity already sold out including an Nvidia research unit.",
+                            "Pro-forma cash and investments stand at $3.7 billion after October\u0027s $2.0 billion raise, providing an unmatched multi-year quantum R\u0026D runway.",
+                            "Vertical integration via SkyWater ($83.5 million Q3 revenue) and defense wins like AFRL\u0027s $7.5 million networking award strengthen ecosystem reach."
+                        ],
                "risks":  [
-                             "Further dilution from the 34.58M-share resale registration and future all-stock deals",
-                             "Leadership and governance questions after the sudden, unexplained CFO departure",
-                             "Integration risk from absorbing SkyWater and Elisity at the same time, plus heavy operating losses ($433.1M in Q3)",
-                             "Revenue mix moving toward foundry and security, which weakens the pure trapped-ion story",
-                             "A sector-wide sell-off in speculative AI and quantum stocks while bond yields are high"
+                             "Continued shareholder dilution from recent equity offerings, outstanding warrants, and acquisition-related stock issuance and retention RSUs.",
+                             "Execution and margin risk from simultaneously integrating SkyWater\u0027s semiconductor foundry and Elisity\u0027s cybersecurity operations under new finance leadership.",
+                             "Sustained high cash burn ($133.6 million Q3 Adjusted EBITDA loss and $433.1 million GAAP operating loss) if quantum hardware and software take longer to scale profitably.",
+                             "Technology and competition risk from superconducting, neutral-atom, and photonic quantum rivals backed by hyperscalers like IBM, Google, and Microsoft."
                          ],
-               "summary":  "IONQ is in a steep downtrend. It closed at $20.72 on 20 Nov 2026, a new 52-week low and about 72% below its $73.65 high. Price is below every major EMA, MACD is bearish and RSI is oversold at 29.16. The selling mostly reflects sector-wide de-risking plus company-specific overhangs: dilution, a 34.6M-share resale registration and an abrupt CFO exit. Operations were not the problem, since Q3 beat estimates and guidance rose. DARPA Stage C and the NVIDIA order support the trapped-ion thesis, but governance and dilution need watching. Technical stance: bearish."
+               "summary":  "IonQ trades at $23.34—down 68% from its $73.65 52-week high—despite rapid commercial expansion. On Nov 5, 2026, IonQ reported record Q3 revenue of $173.8 million (+336% YoY), raised FY2026 guidance to $505–$515 million, and cited a $1.2 billion backlog plus $3.7 billion in pro-forma cash. Yet heavy dilution from October\u0027s $2.0 billion equity raise and the $1.15 billion all-stock Elisity deal (Nov 4), a $133.6 million Adjusted EBITDA loss, analyst target cuts (Nov 6), and CFO Inder Singh\u0027s exit (Nov 13) pressured shares. Nov 23\u0027s 12.64% jump mainly followed a broader tech rebound.",
+               "technical":  "IonQ\u0027s chart remains decisively bearish as of Nov 23, 2026. At $23.34, price sits well below all three exponential moving averages—EMA 50 ($32.83), EMA 100 ($36.85), and EMA 200 ($40.08)—which measure smoothed trend over 50, 100, and 200 trading days and are stacked in bearish order. Momentum indicators confirm persistent downward pressure: MACD (12/26/9, a trend-momentum gauge) stands at -3.14, below its -2.44 signal line with a negative -0.70 histogram, while RSI 14 (a 0–100 momentum oscillator where under 30 signals oversold) sits weak at 36.54. In volatility terms, price hovers in the bottom 6% of its $20.51–$73.65 52-week range, rebounding off the lower Bollinger Band (20-day volatility envelope) at $20.53 but staying far below the $28.98 middle band. Volume on Nov 23\u0027s +12.64% bounce reached 26.34 million shares—about 10% above the 23.93 million 20-day average—yet closing below the $24.15 open and $24.86 high shows overhead supply. Immediate support rests at $20.51–$20.53, with major resistance at $28.98 and $32.83."
            },
     "th":  {
-               "headline":  "IonQ ลงทำจุดต่ำสุดรอบ 52 สัปดาห์ CFO ลาออกและการเพิ่มทุนกลบงบที่ทำสถิติ",
-               "technical":  "IONQ ปิดที่ $20.72 เมื่อ 20 พ.ย. 2026 (−8.76%) เหนือราคาต่ำสุดของวันที่ $20.51 เพียงเล็กน้อย และ $20.51 ก็เป็นจุดต่ำสุดใหม่รอบ 52 สัปดาห์ด้วย แนวโน้มเป็นขาลงชัดเจน ราคาอยู่ต่ำกว่า EMA 50 ($33.22), EMA 100 ($37.12) และ EMA 200 ($40.25) ซึ่งเป็นเส้นค่าเฉลี่ยที่บอกแนวโน้มระยะสั้น กลาง และยาว ทั้งสามเส้นเรียงตัวแบบขาลง (50 \u003c 100 \u003c 200) โมเมนตัมก็ไปทางเดียวกัน MACD ซึ่งวัดแรงส่งของแนวโน้มอยู่ที่ −3.08 ต่ำกว่าเส้นสัญญาณที่ −2.26 และฮิสโตแกรมติดลบ −0.82 แปลว่าแรงขายยังเพิ่มขึ้น ไม่ได้อ่อนลง RSI 14 เป็นมาตรวัดโมเมนตัม 0–100 ต่ำกว่า 30 ถือว่า oversold หรือขายมากเกินไป ตอนนี้อยู่ที่ 29.16 คือเพิ่งเข้าเขต oversold ราคาปิดต่ำกว่าขอบล่าง Bollinger Band ที่ $21.28 กรอบนี้คือช่วงแกว่งปกติ ±2 ส่วนเบี่ยงเบนมาตรฐานรอบค่าเฉลี่ย 20 วันที่ $29.35 การปิดต่ำกว่ากรอบจึงบอกว่าราคาลงมาไกลเกินปกติ วอลุ่ม 29.9 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วัน (23.5 ล้าน) ราว 1.28 เท่า ยืนยันว่าแรงขายมีน้ำหนักจริง แนวรับแรกคือ $20.51 แนวต้านแรกคือ $21.28 ถัดไปคือเส้นกลาง $29.35 และ EMA 50 ที่ $33.22",
-               "fundamental":  "วันที่ 5 พ.ย. 2026 IonQ รายงานรายได้ Q3 ที่ $173.8M (+336% y/y) สูงกว่าที่ตลาดคาดไว้ราว $141M และปรับเป้ารายได้ปี 2026 ขึ้นเป็น $505–515M จากเดิม $450–460M แต่รายได้ราว $83.5M มาจากธุรกิจโรงงาน SkyWater ที่เพิ่งรวมงบเข้ามา ส่วนธุรกิจหลัก IonQ Platform โต 127% เป็น $90.3M งานในมือ (RPO) เพิ่มกว่าเท่าตัวเป็น $1.2B และมีรายงานว่ากำลังผลิต Superion 256 ปี 2027 ขายหมดแล้ว ด้านขาดทุนยังหนัก ขาดทุนจากการดำเนินงาน $433.1M และ adjusted EBITDA ติดลบ $133.6M ส่วนกำไรสุทธิ $564M มาจากกำไรทางบัญชีของ warrant ที่ไม่ใช่เงินสด เงินสด pro forma ราว $3.7B ในห่วงโซ่ AI บริษัทนี้ยังเป็นการเดิมพันระยะแรกกับควอนตัมคอมพิวติ้ง ไม่ใช่ผู้ที่มีรายได้จากโครงสร้างพื้นฐาน AI ในตอนนี้ มีสองเรื่องที่หนุนจุดแข็งด้าน trapped-ion คือการผ่านเข้า DARPA QBI Stage C ซึ่ง IonQ เป็นบริษัท trapped-ion รายเดียวที่ผ่าน และการที่ NVIDIA ติดตั้ง Superion 256 แบบ on-premise",
-               "news":  [
-                            "5 พ.ย. 2026: รายได้ Q3 $173.8M (+336% y/y) ดีกว่าคาด และปรับเป้าปี 2026 ขึ้นเป็น $505–515M ระหว่างวันหุ้นลง 10.5% ตามแรงเทขายหุ้น AI และชิปทั้งตลาด แล้วดีดขึ้นราว 18% ในวันที่ 6 พ.ย.",
-                            "6 พ.ย. 2026: Cantor Fitzgerald ลดราคาเป้าหมายจาก $70 เหลือ $60 หลังงบออก แต่ยังมีมุมมองเชิงบวก",
-                            "3 พ.ย. 2026: IonQ ปิดดีลซื้อ Elisity บริษัทความปลอดภัยแบบ zero-trust ด้วยหุ้นทั้งหมด มูลค่าราว $1.3B รวม earnout สูงสุด $150M ดีลนี้ทำให้จำนวนหุ้นเพิ่มขึ้นอีก ต่อจากการขายหุ้นเพิ่มทุน $2.0B ที่ราคา $40 ซึ่งปิดเมื่อ 16 ต.ค.",
-                            "13 พ.ย. 2026: CFO Inder Singh ลาออกมีผลทันทีโดยไม่แจ้งเหตุผล CEO Niccolo de Masi รักษาการดูแลการเงินไปจนกว่า Gary Merrill ซึ่งเป็น CFO ของ Commvault จะเริ่มงานวันที่ 3 ธ.ค. วันนั้นหุ้นลง 6.42% ปิดที่ $28.88",
-                            "13 พ.ย. 2026: บริษัทยื่นจดทะเบียนหุ้นสูงสุด 34.58 ล้านหุ้นให้ผู้ถือหุ้นเดิมขายต่อได้ IonQ ไม่ได้เงินจากการขายนี้ และหุ้นก้อนนี้อาจกดดันราคาเมื่อทยอยขายออกมา",
-                            "16–20 พ.ย. 2026: แรงขายหุ้นควอนตัมยังต่อเนื่อง IonQ ลงราว 8% วันที่ 16 พ.ย., 5% วันที่ 18 พ.ย. และ 8.76% วันที่ 20 พ.ย. นับจาก 20 ต.ค. IonQ ร่วงราว 33%, Rigetti 37% และ D-Wave 44%"
+               "caution":  "ความเสี่ยงระยะสั้นที่สำคัญที่สุดคือความเหนื่อยล้าของนักลงทุนต่อการเพิ่มทุนและ Dilution ที่รุนแรง การออกหุ้นและวอร์แรนต์มูลค่า $2.0 พันล้าน พร้อมจ่ายหุ้นเพิ่มอีก $1.15 พันล้านเพื่อซื้อ Elisity ภายในไม่กี่สัปดาห์ ทำให้จำนวนหุ้นเพิ่มขึ้นมาก จนราคาดิ่งกว่า 30% แม้งบรายได้จะโตทะลุ 3 เท่า ขณะเดียวกัน การควบรวมโรงงานชิปที่อัตรากำไรต่ำกว่า (SkyWater) และธุรกิจไซเบอร์ซีเคียวริตี้ (Elisity) ท่ามกลางผลขาดทุน Adjusted EBITDA ไตรมาสละ $133.6 ล้าน และจังหวะที่ CFO/COO เพิ่งลาออก สร้างความเสี่ยงด้านการบริหารจัดการอย่างมีนัยสำคัญ ในเชิงเทคนิค หากหลุดแนวรับ $20.51 มีโอกาสทำจุดต่ำสุดใหม่ในรอบ 52 สัปดาห์",
+               "cons":  [
+                            "นักลงทุนเผชิญ Dilution รุนแรงจากการเพิ่มทุน $2.0 พันล้านเมื่อวันที่ 14 ต.ค. และการออกหุ้นซื้อ Elisity มูลค่า $1.15 พันล้านเมื่อวันที่ 4 พ.ย.",
+                            "บริษัทยังเผาเงินสดสูง โดยมีผลขาดทุนจากการดำเนินงานตาม GAAP สูงถึง $433.1 ล้าน และ Adjusted EBITDA ขาดทุน $133.6 ล้านใน Q3 2026",
+                            "Inder M. Singh ลาออกจากตำแหน่ง CFO และ COO กะทันหันเมื่อวันที่ 13 พ.ย. เพิ่มความไม่แน่นอนช่วงควบรวมกิจการหลายแห่งพร้อมกัน",
+                            "โบรกเกอร์หลายรายทั้ง Cantor Fitzgerald, Needham, Mizuho และ B. Riley พร้อมใจปรับลดราคาเป้าหมายเมื่อวันที่ 6 พ.ย. ท่ามกลางกราฟขาลงชัดเจน"
                         ],
-               "caution":  "กราฟยังไม่มีสัญญาณยืนยันว่าถึงจุดต่ำสุดแล้ว ราคาทำ low ใหม่รอบ 52 สัปดาห์ อยู่ใต้ EMA ทั้งสามเส้น และ MACD ยังถ่างลงต่อ ในช่วงขาลง RSI อาจค้างอยู่ในเขต oversold ได้เป็นสัปดาห์ ปริมาณหุ้นที่จะออกมาเป็นปัญหาจริง ทั้งการเพิ่มทุน $2.0B ในเดือน ต.ค. ดีล Elisity มูลค่าราว $1.3B ที่จ่ายด้วยหุ้น และหุ้นขายต่อที่จดทะเบียนไว้ 34.6 ล้านหุ้น CFO ลาออกแบบไม่มีคำอธิบายเพียง 8 วันหลังงบออก บริษัทต้องควบรวมสองกิจการใหญ่พร้อมกัน และขาดทุนจากการดำเนินงาน $433M ในไตรมาสเดียว ทั้งหมดนี้เพิ่มความเสี่ยงด้านการบริหาร นอกจากนี้ผลตอบแทนพันธบัตรที่สูงยังกดดันหุ้นเติบโตที่มีความเสี่ยงสูง",
-               "opportunity":  "ข่าวด้านธุรกิจดีกว่าที่ราคาหุ้นสะท้อน มีทั้งรายได้ที่ทำสถิติ การปรับเป้าขึ้น งานในมือ $1.2B และรายงานว่ากำลังผลิต Superion 256 ปี 2027 ขายหมดแล้ว การผ่าน DARPA QBI Stage C และคำสั่งซื้อ Superion 256 แบบ on-premise จาก NVIDIA เป็นการรับรองเทคโนโลยี trapped-ion จากภายนอก เงินสด pro forma ราว $3.7B พอใช้ได้อีกหลายปี การที่ราคาปิดใต้ขอบล่าง Bollinger Band พร้อม RSI ต่ำกว่า 30 บอกว่าราคาลงมาตึงตัวมากแล้ว ถ้าราคากลับขึ้นเหนือ $21.28 และ MACD ตัดขึ้นเหนือเส้นสัญญาณ จะเป็นสัญญาณแรกว่าราคาเริ่มทรงตัว",
+               "fundamental":  "IonQ กำลังเปลี่ยนโฉมอย่างรวดเร็วจากผู้พัฒนาคอมพิวเตอร์ควอนตัมแบบ Trapped-ion ที่ยังอยู่ในขั้นเตรียมความพร้อมเชิงพาณิชย์ ไปสู่แพลตฟอร์มครบวงจรทั้งควอนตัมคอมพิวติ้ง เครือข่ายควอนตัม และความปลอดภัยยุคหลังควอนตัม รายได้ Q3 2026 พุ่ง 336% YoY สู่ $173.8 ล้าน แบ่งเป็นรายได้ธุรกิจหลัก IonQ Platform $90.3 ล้าน (+127% YoY จากการส่งมอบระบบ Tempo) และ SkyWater Foundry Services $83.5 ล้าน (รวมงบ 2 เดือนหลังซื้อกิจการ) ดันเป้าหมายรายได้ปี 2026 สู่ $505–$515 ล้าน และ Backlog แตะ $1.2 พันล้าน ในห่วงโซ่มูลค่า AI บริษัทถือเป็นตัวเลือกต่อยอดระยะยาว โดยกำลังการผลิตรุ่น Superion 256 สำหรับปี 2027 ถูกจองเต็มแล้วรวมถึงเครื่องที่จะติดตั้งให้ศูนย์วิจัยควอนตัมของ Nvidia อย่างไรก็ดี กำไรจากการดำเนินงานยังตามหลังอยู่มาก แม้กำไรสุทธิ GAAP จะอยู่ที่ $564.0 ล้านจากรายการปรับมูลค่าวอร์แรนต์ที่ไม่ใช่เงินสด แต่ขาดทุนจากการดำเนินงาน GAAP สูงถึง $433.1 ล้าน และ Adjusted EBITDA ขาดทุน $133.6 ล้าน ทำให้ต้องอาศัยการออกหุ้นเพิ่มทุนควบคู่กับเงินสดโปรฟอร์มา $3.7 พันล้านเพื่อหล่อเลี้ยงการขยายตัว",
+               "headline":  "รายได้ Q3 ทำสถิติใหม่ แต่แรงกดดันหุ้นเพิ่มทุนและ CFO ลาออกยังฉุดขาลง",
+               "news":  [
+                            "5 พ.ย. 2026: IonQ รายงานรายได้ Q3 ทำสถิติใหม่ $173.8 ล้าน (+336% YoY) พร้อมปรับเพิ่มเป้ารายได้ทั้งปี 2026 เป็น $505–$515 ล้าน และ Backlog แตะ $1.2 พันล้าน แต่ Adjusted EBITDA ขาดทุนเพิ่มเป็น $133.6 ล้าน และขาดทุนจากการดำเนินงาน GAAP $433.1 ล้าน",
+                            "4 พ.ย. 2026: IonQ ปิดดีลซื้อกิจการ Elisity ผู้พัฒนา Zero Trust Cybersecurity ด้วยการจ่ายเป็นหุ้นมูลค่า $1.15 พันล้าน (สูงสุด $1.3 พันล้านเมื่อรวม Earnout) ซ้ำเติมความกังวลเรื่อง Dilution ต่อจากดีลเพิ่มทุน $2.0 พันล้านเมื่อวันที่ 14 ต.ค.",
+                            "6 พ.ย. 2026: แม้ยังคงคำแนะนำ Buy หรือ Outperform หลังงบ Q3 แต่นักวิเคราะห์หลายค่ายปรับลดราคาเป้าหมายจากผลกระทบ Dilution และการเผาเงินสด นำโดย Needham ($65 เหลือ $48), Cantor Fitzgerald ($70 เหลือ $60), Mizuho ($52 เหลือ $42) และ B. Riley ($75 เหลือ $70)",
+                            "13 พ.ย. 2026: Inder M. Singh ลาออกจากตำแหน่ง CFO และ COO โดยมีผลทันที บริษัทจึงแต่งตั้ง Gary Merrill อดีต CFO ของ Commvault มารับตำแหน่ง CFO (เริ่มงานต้น ธ.ค.) และตั้ง Thomas A. Austin อดีต CAO ของ Juniper เป็น Chief Accounting Officer คนแรก",
+                            "27 ต.ค. และ 23 พ.ย. 2026: IonQ ได้รับทุนต่อเนื่อง $7.5 ล้านจากห้องปฏิบัติการวิจัยกองทัพอากาศสหรัฐฯ (AFRL) ด้านเครือข่ายควอนตัมเมื่อ 27 ต.ค. ส่วนการดีดตัว +12.64% เมื่อ 23 พ.ย. จากแนวรับ $20.51 เป็นผลตามแรงฟื้นตัวของหุ้นเทคและควอนตัมหลังข่าว Nvidia มากกว่าปัจจัยเฉพาะตัวใหม่"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนโครงสร้างพื้นฐาน AI ที่ถือระยะยาวและรับความผันผวนได้ แรงส่งเชิงพาณิชย์และฐานะการเงินของ IonQ เริ่มทิ้งห่างคู่แข่งควอนตัมขนาดเล็กอย่างชัดเจน เงินสดโปรฟอร์มา $3.7 พันล้านช่วยตัดความเสี่ยงด้านสภาพคล่องระยะใกล้ และรองรับแผนงานหลายปีที่มี Backlog $1.2 พันล้าน ยอดจองระบบ Superion 256 ปี 2027 เต็มทั้งหมด และฐานผลิตชิปในสหรัฐฯ จาก SkyWater ความเชื่อมโยงกับศูนย์วิจัยของ Nvidia รวมถึงโครงการกลาโหมสหรัฐฯ อย่าง AFRL และ DARPA ตอกย้ำศักยภาพระยะยาวของระบบ AI ผสานควอนตัม หาก CFO คนใหม่ Gary Merrill คุมวินัยค่าใช้จ่ายได้ดีขึ้นและเดินหน้าควบรวมจนอัตรากำไรนิ่งขึ้น การปรับฐานใกล้แนวรับ $20.51 อาจกลับมาดึงดูดเม็ดเงินสถาบันระยะยาวได้อีกครั้ง",
+               "opportunityCheck":  "กรอบการให้คะแนนของหน้าเว็บที่มองว่าสัดส่วนรายได้จาก AI โดยตรงยังน้อยแต่มีศักยภาพทางเลือกในอนาคตสูงยังคงเหมาะสม เพราะควอนตัมคอมพิวติ้งยังเป็นตัวเสริมมากกว่าแกนหลักของงบลงทุน AI Data Center ในปัจจุบัน อย่างไรก็ตาม มีสองด้านที่อาจประเมินต่ำไปเล็กน้อยหลังงบ Q3 2026 ด้านแรกคือสถานะผู้นำตลาดที่ควรขยับขึ้นเล็กน้อยจาก Backlog $1.2 พันล้าน ยอดจอง Superion 256 ปี 2027 ที่เต็มทั้งหมด และการเป็นผู้พัฒนา Trapped-ion รายเดียวที่ผ่านเข้าสู่ DARPA Stage C อีกด้านคืออำนาจคอขวดและราคาที่อาจขยับขึ้นได้นิดหน่อยหลังได้โรงงานชิป SkyWater ในสหรัฐฯ แต่ผลขาดทุนหนักและดีลที่เพิ่มทุนสูงยังจำกัดไม่ให้ปรับคะแนนขึ้นมากนัก",
+               "pros":  [
+                            "รายได้ Q3 2026 ทำสถิติใหม่ที่ $173.8 ล้าน (+336% YoY) ดันเป้ารายได้ปี 2026 สู่ $505–$515 ล้าน และ Backlog แตะ $1.2 พันล้าน",
+                            "รายได้ธุรกิจหลัก IonQ Platform เติบโต 127% YoY สู่ $90.3 ล้าน และกำลังการผลิต Superion 256 ปี 2027 ถูกจองเต็มแล้วรวมถึงเครื่องของศูนย์วิจัย Nvidia",
+                            "เงินสดและเงินลงทุนโปรฟอร์มาสูงถึง $3.7 พันล้านหลังเพิ่มทุนเดือน ต.ค. สร้างสายป่านด้านวิจัยควอนตัมระยะยาวที่แข็งแกร่งกว่าคู่แข่ง",
+                            "การขยายสู่ต้นน้ำผ่าน SkyWater (ทำรายได้ Q3 $83.5 ล้าน) และสัญญาด้านความมั่นคงอย่างทุน AFRL $7.5 ล้าน ช่วยเสริมระบบนิเวศให้ครบวงจรขึ้น"
+                        ],
                "risks":  [
-                             "หุ้นอาจถูกเจือจางเพิ่มจากการจดทะเบียนขายต่อ 34.58 ล้านหุ้น และดีลซื้อกิจการด้วยหุ้นในอนาคต",
-                             "คำถามด้านผู้บริหารและธรรมาภิบาลหลัง CFO ลาออกกะทันหันโดยไม่มีคำอธิบาย",
-                             "ความเสี่ยงจากการควบรวม SkyWater และ Elisity พร้อมกัน รวมถึงขาดทุนจากการดำเนินงานสูง ($433.1M ใน Q3)",
-                             "รายได้เริ่มพึ่งธุรกิจโรงงานและความปลอดภัยไซเบอร์มากขึ้น ทำให้ภาพ trapped-ion ล้วนเจือจางลง",
-                             "แรงขายหุ้น AI และควอนตัมที่เก็งกำไรสูงทั้งกลุ่ม ขณะที่ผลตอบแทนพันธบัตรยังสูง"
+                             "ความเสี่ยงด้าน Dilution ต่อเนื่องจากดีลเพิ่มทุนครั้งใหญ่ วอร์แรนต์ที่ยังค้างอยู่ รวมถึงการออกหุ้นและ RSU เพื่อซื้อและรักษาบุคลากรของกิจการที่เข้าซื้อ",
+                             "ความเสี่ยงด้านการควบรวมกิจการและอัตรากำไรจากการบริหารโรงงานชิป SkyWater และธุรกิจไซเบอร์ซีเคียวริตี้ Elisity ควบคู่กันภายใต้ทีมการเงินชุดใหม่",
+                             "อัตราการเผาเงินสดที่ยังสูงมาก (Adjusted EBITDA ขาดทุน $133.6 ล้าน และขาดทุนจากการดำเนินงาน GAAP $433.1 ล้านใน Q3) หากธุรกิจควอนตัมขยายสู่จุดคุ้มทุนช้ากว่าคาด",
+                             "ความเสี่ยงด้านเทคโนโลยีและการแข่งขันจากสายควอนตัมแบบ Superconducting, Neutral-atom และ Photonic ที่มียักษ์ใหญ่อย่าง IBM, Google และ Microsoft หนุนหลัง"
                          ],
-               "summary":  "IONQ อยู่ในขาลงแรง ปิดที่ $20.72 เมื่อ 20 พ.ย. 2026 ซึ่งเป็น low ใหม่รอบ 52 สัปดาห์ และต่ำกว่าจุดสูงสุด $73.65 ราว 72% ราคาอยู่ใต้ EMA ทุกเส้น MACD เป็นขาลง และ RSI 29.16 อยู่ในเขต oversold แรงขายส่วนใหญ่มาจากการลดความเสี่ยงทั้งกลุ่ม บวกกับปัจจัยเฉพาะของบริษัท คือการเพิ่มทุน หุ้นขายต่อ 34.6 ล้านหุ้น และ CFO ที่ลาออกกะทันหัน ไม่ได้มาจากผลประกอบการ เพราะ Q3 ดีกว่าคาดและเป้ารายได้ถูกปรับขึ้น DARPA Stage C และคำสั่งซื้อจาก NVIDIA หนุนธีส trapped-ion แต่เรื่องธรรมาภิบาลและการเจือจางหุ้นต้องติดตาม มุมมองทางเทคนิค: bearish"
+               "summary":  "ราคาหุ้น IonQ อยู่ที่ $23.34 ปรับตัวลง 68% จากจุดสูงสุดรอบ 52 สัปดาห์ที่ $73.65 แม้ธุรกิจจะขยายตัวเร็วมาก โดยเมื่อวันที่ 5 พ.ย. 2026 บริษัทประกาศรายได้ Q3 ทำสถิติใหม่ $173.8 ล้าน (+336% YoY) ปรับเพิ่มเป้ารายได้ทั้งปี 2026 เป็น $505–$515 ล้าน พร้อม Backlog $1.2 พันล้าน และเงินสดโปรฟอร์มา $3.7 พันล้าน แต่ตลาดกดดันหนักจาก Dilution ของการเพิ่มทุน $2.0 พันล้าน (14 ต.ค.) และดีลซื้อ Elisity ด้วยหุ้น $1.15 พันล้าน (4 พ.ย.) บวกกับ Adjusted EBITDA ขาดทุน $133.6 ล้าน โบรกเกอร์หั่นเป้าราคา (6 พ.ย.) และ CFO Inder Singh ลาออก (13 พ.ย.) ส่วนการเด้ง 12.64% วันที่ 23 พ.ย. มาจากแรงรีบาวด์หุ้นเทคภาพรวมเป็นหลัก",
+               "technical":  "กราฟเทคนิคของ IonQ ณ วันที่ 23 พ.ย. 2026 ยังอยู่ในขาลงชัดเจน ราคาปิดที่ $23.34 อยู่ต่ำกว่าเส้นค่าเฉลี่ยเคลื่อนที่แบบเอ็กซ์โปเนนเชียลทั้งสามเส้น—EMA 50 ($32.83), EMA 100 ($36.85) และ EMA 200 ($40.08) ซึ่งสะท้อนแนวโน้มราคาเฉลี่ย 50, 100 และ 200 วันทำการ โดยเรียงตัวในลักษณะขาลงเต็มรูปแบบ ด้านโมเมนตัมยังส่งสัญญาณอ่อนแรง ค่า MACD (12/26/9 เครื่องมือวัดทิศทางและแรงส่งของแนวโน้ม) อยู่ที่ -3.14 ต่ำกว่าเส้น Signal (-2.44) พร้อมค่า Histogram ติดลบ -0.70 ส่วน RSI 14 (ดัชนีวัดโมเมนตัมระดับ 0–100 โดยต่ำกว่า 30 คือเขตขายมากเกินไป) อยู่ที่ 36.54 ซึ่งยังอยู่ในโซนอ่อนแอ เมื่อเทียบความผันผวน ราคาเคลื่อนไหวอยู่ในช่วงล่าง 6% ของกรอบรอบ 52 สัปดาห์ ($20.51–$73.65) โดยดีดตัวจากขอบล่างของ Bollinger Bands (กรอบความผันผวน 20 วัน) ที่ $20.53 แต่ยังห่างจากเส้นกลางที่ $28.98 ปริมาณซื้อขายวันที่ 23 พ.ย. ที่หุ้นบวก 12.64% อยู่ที่ 26.34 ล้านหุ้น สูงกว่าค่าเฉลี่ย 20 วันที่ 23.93 ล้านหุ้นราว 10% ทว่าการปิดต่ำกว่าราคาเปิด ($24.15) และจุดสูงสุดระหว่างวัน ($24.86) สะท้อนแรงขายที่ยังรออยู่ด้านบน แนวรับสำคัญอยู่ที่ $20.51–$20.53 ส่วนแนวต้านหลักอยู่ที่ $28.98 และ $32.83"
            },
     "sources":  [
                     {
-                        "title":  "IonQ Q3 2026 results press release (Form 8-K, Exhibit 99.1)",
-                        "publisher":  "SEC EDGAR / IonQ",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001824920/000119312526449779/ionq-ex99_1.htm",
-                        "date":  "2026-11-05"
+                        "date":  "2026-11-05",
+                        "publisher":  "IonQ Investor Relations",
+                        "title":  "IonQ Announces Record 3Q26 Revenues and Raises FY2026 Guidance to $505 - $515 Million as Backlog Grows to $1.2 Billion",
+                        "url":  "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Record-3Q26-Revenues-and-Raises-FY2026-Guidance-to-505---515-Million-as-Backlog-Grows-to-1-2-Billion/default.aspx"
                     },
                     {
-                        "title":  "IonQ, Inc. - Form 424B7 (resale prospectus supplement)",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0001824920/000119312526461012/ionq-20261113.htm",
-                        "date":  "2026-11-13"
+                        "date":  "2026-11-04",
+                        "publisher":  "IonQ Investor Relations",
+                        "title":  "IonQ Completes Acquisition of Elisity, Extending Quantum Security for Enterprises and Government",
+                        "url":  "https://investors.ionq.com/news/news-details/2026/IonQ-Completes-Acquisition-of-Elisity-Extending-Quantum-Security-for-Enterprises-and-Government/default.aspx"
                     },
                     {
-                        "title":  "IonQ Stock Falls 6.4% as CFO Inder Singh Steps Down (Nov 13)",
-                        "publisher":  "Gotrade",
-                        "url":  "https://www.heygotrade.com/en/news/ionq-ionq-stock-news-november-16-2026/",
-                        "date":  "2026-11-16"
+                        "date":  "2026-11-13",
+                        "publisher":  "IonQ Investor Relations",
+                        "title":  "IonQ Announces Executive Leadership Evolution",
+                        "url":  "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Executive-Leadership-Evolution/default.aspx"
                     },
                     {
-                        "title":  "Why IonQ Stock Just Fell 10.5% Today",
-                        "publisher":  "The Motley Fool",
-                        "url":  "https://www.fool.com/investing/2026/11/05/why-ionq-stock-just-fell-10-5-today/",
-                        "date":  "2026-11-05"
+                        "date":  "2026-10-14",
+                        "publisher":  "IonQ Investor Relations",
+                        "title":  "IonQ Announces Pricing of $2.0 Billion Equity Offering",
+                        "url":  "https://investors.ionq.com/news/news-details/2026/IonQ-Announces-Pricing-of-2.0-Billion-Equity-Offering/default.aspx"
                     },
                     {
-                        "title":  "IonQ Is Down 33% in a Month. What Will It Take to Get IONQ Stock Back to $30?",
-                        "publisher":  "24/7 Wall St.",
-                        "url":  "https://247wallst.com/investing/2026/11/20/ionq-is-down-33-in-a-month-what-will-it-take-to-get-ionq-stock-back-to-30/",
-                        "date":  "2026-11-20"
+                        "date":  "2026-10-27",
+                        "publisher":  "IonQ Investor Relations",
+                        "title":  "IonQ Awarded $7.5 Million Follow-On Funding from AFRL to Advance Full-Stack Quantum Networking",
+                        "url":  "https://investors.ionq.com/news/news-details/2026/IonQ-Awarded-7.5-Million-Follow-On-Funding-from-AFRL-to-Advance-Full-Stack-Quantum-Networking/default.aspx"
                     },
                     {
-                        "title":  "Cantor Fitzgerald Cut Its IonQ Target to $60. It Still Sees 84% Upside",
-                        "publisher":  "TIKR",
-                        "url":  "https://www.tikr.com/blog/cantor-fitzgerald-cut-its-ionq-target-to-60-it-still-sees-84-upside"
+                        "date":  "2026-11-07",
+                        "publisher":  "Quantum Computing Report",
+                        "title":  "IonQ Announces Record Q3 2026 Revenues of $173.8M and Raises FY 2026 Guidance to Over $505M as Backlog Reaches $1.2B",
+                        "url":  "https://quantumcomputingreport.com/ionq-announces-record-q3-2026-revenues-of-173-8m-and-raises-fy-2026-guidance-to-over-505m-as-backlog-reaches-1-2b/"
+                    },
+                    {
+                        "date":  "2026-11-06",
+                        "publisher":  "MarketBeat",
+                        "title":  "IonQ (NYSE:IONQ) Price Target Cut to $60.00 by Analysts at Cantor Fitzgerald",
+                        "url":  "https://www.marketbeat.com/instant-alerts/nyse-ionq-price-target-cut-to-6000-by-analysts-at-cantor-fitzgerald-2026-11/"
                     }
                 ]
 }

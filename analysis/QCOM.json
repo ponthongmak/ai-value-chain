@@ -2,46 +2,45 @@
     "ticker":  "QCOM",
     "name":  "Qualcomm",
     "symbol":  "NASDAQ:QCOM",
-    "model":  "claude-opus-5-5",
+    "model":  "gemini-4-neon-high",
+    "provider":  "antigravity",
+    "account":  "Antigravity (Google)",
     "effort":  "high",
-    "generatedAt":  "2026-11-21T06:03:07Z",
-    "costUsd":  0.6573218000000001,
+    "generatedAt":  "2026-11-24T04:00:22Z",
+    "costUsd":  null,
     "stance":  "bearish",
     "thesis":  "watch",
     "indicators":  {
                        "symbol":  "NASDAQ:QCOM",
                        "yahoo":  "QCOM",
                        "currency":  "USD",
-                       "asOf":  "2026-11-20",
-                       "fetchedAt":  "2026-11-21T06:00:58Z",
-                       "price":  149.94,
-                       "open":  161.32,
-                       "high":  162.54,
-                       "low":  149.13,
-                       "volume":  22221700,
-                       "avgVolume20":  14789275,
-                       "changePct":  -7.45,
-                       "ema50":  172.71,
-                       "ema100":  174.42,
-                       "ema200":  172.77,
+                       "asOf":  "2026-11-23",
+                       "fetchedAt":  "2026-11-24T03:56:26Z",
+                       "price":  165.38,
+                       "open":  164.93,
+                       "high":  165.68,
+                       "low":  160.47,
+                       "volume":  20240900,
+                       "avgVolume20":  15320895,
+                       "changePct":  10.3,
+                       "historyDays":  500,
+                       "ema50":  172.42,
+                       "ema100":  174.24,
+                       "ema200":  172.69,
                        "bb":  {
-                                  "upper":  188.42,
-                                  "middle":  169.85,
-                                  "lower":  151.28
+                                  "upper":  187.24,
+                                  "middle":  169.14,
+                                  "lower":  151.03
                               },
                        "macd":  {
-                                    "macd":  -4.31,
-                                    "signal":  -2.72,
-                                    "hist":  -1.59
+                                    "macd":  -3.99,
+                                    "signal":  -2.98,
+                                    "hist":  -1.02
                                 },
-                       "rsi14":  35.1,
+                       "rsi14":  47.25,
                        "high52w":  259.92,
                        "low52w":  121.99,
                        "spark":  [
-                                     [
-                                         "2026-06-03",
-                                         250.01
-                                     ],
                                      [
                                          "2026-06-04",
                                          242.57
@@ -517,10 +516,13 @@
                                      [
                                          "2026-11-20",
                                          149.94
+                                     ],
+                                     [
+                                         "2026-11-23",
+                                         165.38
                                      ]
                                  ],
                        "sparkEma50":  [
-                                          188.6,
                                           190.72,
                                           191.71,
                                           192.73,
@@ -639,93 +641,120 @@
                                           174.7,
                                           174.11,
                                           173.64,
-                                          172.71
+                                          172.71,
+                                          172.42
                                       ]
                    },
     "en":  {
-               "headline":  "QCOM breaks below $151 support as handset slump and chip rout collide",
-               "technical":  "Trend is down. QCOM closed at $149.94 on 2026-11-20, about 13% below all three EMAs (exponential moving averages, which track the average price): EMA50 $172.71, EMA100 $174.42, EMA200 $172.77. The three lines are bunched together, and EMA50 has slipped just under EMA200. That points to a stalled trend that is turning down. Momentum is negative. MACD (the gap between the 12-day and 26-day EMAs) is -4.31, below its signal line at -2.72, and the histogram is -1.59. RSI 14 (a 0–100 momentum gauge; under 30 is oversold) is 35.1: weak, but not yet oversold. The close was below the lower Bollinger Band at $151.28. The bands mark the normal range around the 20-day average, so a close below the lower band shows strong selling, though such moves often snap back partly. The day opened at $161.32 and closed near its $149.13 low, a 7.45% drop. Volume was 22.2M shares, about 1.5x the 20-day average, which confirms the selling. The price sits about 20% of the way up its 52-week range ($121.99–$259.92) and is 42% below the high. Resistance is around $161–162 and then the $170–175 EMA cluster. There is no clear support until the $122 52-week low.",
-               "fundamental":  "On 2026-11-04 Qualcomm reported fiscal Q4 2026. Non-GAAP revenue was $10.44B (down 7% year on year) and EPS was $2.17, both slightly above forecasts. Handset revenue fell 26% to $5.14B. Apple is moving to its own modems, and high memory prices are hurting phone demand. Automotive revenue rose 89% to a record $1.99B. Licensing revenue (QTL, the patent business) was $1.30B, down 7%. The chip unit\u0027s pretax margin fell to 24% from 29%. Q1 FY27 guidance is revenue of $10.4–11.2B and non-GAAP EPS of $2.15–2.35, with data-center revenue above $650M. FY27 guidance assumes no Apple chip sales at all. For the AI value chain, Qualcomm is trying to shift from phones toward cars, PCs and AI inference in data centers. In September it signed a deal letting Amazon buy up to $60B of its data-center AI chips. The licensing moat is still in place but shrinking slowly.",
-               "news":  [
-                            "2026-11-04: Q4 FY26 results came in slightly ahead of estimates, but the profit outlook was weak and the chip margin was squeezed, so shares fell about 9.5% on 2026-11-05. CEO Cristiano Amon said revenue from outside handsets should \u0027replace Apple entirely\u0027.",
-                            "At the 2026-11-04 call, management set a December-quarter data-center revenue target above $650M, ahead of the roughly $539M Wall Street expected. It repeated its goal of about $5B in data-center revenue for the year.",
-                            "2026-11-09: Freedom Capital Markets cut QCOM to Hold from Buy and lowered its target to $185 from $200. Morgan Stanley also cut its target to $197 from $220 and kept Equal Weight.",
-                            "2026-11-18: Qualcomm and Cirrascale launched a cloud service on the Dragonfly AI200 inference platform, so customers can test their own AI workloads before buying.",
-                            "2026-11-20: A broad chip selloff, led by AMD and Micron, pulled the Nasdaq down sharply on worries about regulation, valuations and interest rates. QCOM fell 7.45% that day, and we found no news specific to Qualcomm."
+               "caution":  "Treat the November 23 surge cautiously: it was a sector-wide sympathy bounce, and QCOM still trades below its $169.14 Bollinger midline and $172–$174 EMA resistance cluster. Fundamentally, core smartphone silicon dropped 26% YoY, Apple\u0027s modem phase-out is ongoing, and QCT EBT margins are guided down to 20%–22% due to wafer/memory cost inflation and a 3-percentage-point data-center investment drag. If hyperscaler ramps slip or memory costs persist past H1 FY27, earnings pressure could linger.",
+               "cons":  [
+                            "Q4 FY26 handset chip revenue fell 26% YoY to $5.14B on memory constraints and Apple\u0027s ongoing modem phase-out.",
+                            "Non-GAAP EPS dropped 28.3% YoY to $2.17, with Q1 FY27 QCT EBT margins guided down to 20%–22%.",
+                            "Foundry, packaging, and memory cost inflation will weigh on chip margins until pricing offsets land in H2 FY27.",
+                            "Freedom Broker downgraded QCOM to Hold ($185) on November 9, while Baird ($300) and Susquehanna ($165) cut targets."
                         ],
-               "caution":  "The technical picture is clearly negative. The price is below every EMA, MACD is falling and volume confirms the selling. The fundamentals also have real weak spots. Handset revenue, the core business, fell 26%. Apple chip revenue is expected to drop to zero. The chip margin fell 5 points, and capital spending more than doubled to $2.49B, which cut free cash flow. The data-center story has not yet delivered material revenue. If the sector-wide selloff deepens, the $122 52-week low is the next clear support.",
-               "opportunity":  "The stock is cheap and some parts of the business are growing fast. The trailing P/E is about 11.8 and the dividend yield about 2.45%. FY26 buybacks plus dividends totalled $11.7B. Automotive revenue rose 89%, and the data-center target beat expectations. Much of the Nov 20 drop came from a sector-wide selloff rather than Qualcomm\u0027s own news. RSI 35 and a close below the lower Bollinger Band show the stock is heavily sold, which often leads to a short-term bounce. The next real test is the early-February 2027 results.",
+               "fundamental":  "Qualcomm is navigating a sharp business mix shift. In Q4 FY26 (reported November 4, 2026), non-GAAP revenue fell 7.3% YoY to $10.44B and non-GAAP EPS dropped 28.3% to $2.17 as handset chips slumped 26% YoY ($5.14B) on memory tightness and Apple\u0027s modem exit. Yet diversification is accelerating: Automotive jumped 89% YoY to $1.99B, IoT rose 4% to $1.89B, and Q1 FY27 revenue is guided at $10.4B–$11.2B including $650M+ from Data Center custom silicon. On November 17, Qualcomm also expanded its Dragonfly AI200 inference rack into Cirrascale\u0027s cloud. Meanwhile, QTL licensing (~72%–76% EBT margin) is secured through 2030+ via Apple, Huawei, and Transsion renewals, keeping the patent moat intact while chip execution stays on watch.",
+               "headline":  "Qualcomm Rebounds 10.3% in Chip Rally as Data Center AI Offsets Phone Slump",
+               "news":  [
+                            "November 23, 2026: QCOM surged 10.3% to $165.38 on heavy volume (20.24M shares) as semiconductor stocks rallied sharply after Nvidia reinstated CEO Jensen Huang, rather than on Qualcomm-specific news.",
+                            "November 17, 2026: At SC26, Qualcomm and Cirrascale launched cloud evaluation access for the liquid-cooled Dragonfly AI200 rack-scale inference platform (768 GB LPDDR per card), targeting energy-efficient enterprise AI workloads.",
+                            "November 5–18, 2026: Analysts trimmed expectations following Q4 guidance, with Freedom Broker downgrading QCOM to Hold ($185 target on Nov 9), Susquehanna cutting to $165 (Nov 5), and Baird lowering to $300 (Nov 18).",
+                            "November 4, 2026: Qualcomm beat Q4 FY26 consensus with $10.44B non-GAAP revenue (-7.3% YoY) and $2.17 EPS (-28.3% YoY), guiding Q1 FY27 revenue to $10.4B–$11.2B with at least $650M from Data Center chips.",
+                            "November 4, 2026: SpaceX selected Qualcomm\u0027s Dragonwing 5G RAN platforms for Starlink Mobile\u0027s nationwide U.S. terrestrial network starting in 2027, marking Qualcomm\u0027s largest 5G infrastructure agreement."
+                        ],
+               "opportunity":  "For long-term AI-infrastructure holders, Qualcomm offers a rare combination of a locked-in high-margin patent base and fast-scaling new pillars. QTL renewals with Apple, Huawei, and Transsion protect cash flows through 2030+, funding a pivot where non-handset QCT sales are projected to grow over 60% YoY in FY27 and exceed half of chip revenue. If Qualcomm executes on its $5B FY27 data-center target (exiting at a $7B run-rate) alongside $8B-pace automotive growth, sentiment could re-rate sharply.",
+               "opportunityCheck":  "Most sub-scores fit Qualcomm\u0027s current profile, but AI revenue exposure now looks too conservative and should move higher. On November 4, 2026, Qualcomm carved out Data Center as a formal QCT line, guiding at least $650M in Q1 FY27 and reiterating a $5B FY27 target backed by AWS custom silicon and Dragonfly AI200 inference. Conversely, bottleneck and pricing power should remain low: rising wafer, packaging, and memory costs are still squeezing chip margins through H1 FY27, showing limited near-term pricing leverage against hyperscalers and smartphone OEMs.",
+               "pros":  [
+                            "Management reiterated a $5B FY27 data-center AI revenue target, starting with at least $650M guided for Q1 FY27.",
+                            "Automotive chip sales hit a record $1.99B (+89% YoY) in Q4 FY26, reaching an ~$8B annualized pace.",
+                            "Long-term QTL patent renewals with Apple, Huawei, and Transsion secure ~$5.6B in high-margin licensing through 2030+.",
+                            "SpaceX selected Qualcomm Dragonwing 5G platforms on November 4 for Starlink Mobile\u0027s nationwide U.S. ground network."
+                        ],
                "risks":  [
-                             "Apple fully exits as a modem customer and global smartphone shipments stay weak because of high memory prices",
-                             "The chip unit\u0027s margin keeps falling if wafer, packaging and memory costs do not ease by the March 2027 quarter",
-                             "Data-center AI200/AI250 sales or the Amazon deal ramp more slowly than promised",
-                             "A sector-wide chip selloff that drags QCOM down whatever its own news",
-                             "Licensing (QTL) revenue erodes as the handset market shrinks"
+                             "Continued handset contraction (-26% YoY in Q4 FY26) as Apple phases out Qualcomm modems and memory supply stays tight.",
+                             "Prolonged QCT margin squeeze (20%–22% EBT margin guidance) if wafer, packaging, and memory inflation outpaces H2 FY27 pricing offsets.",
+                             "Execution and customer-concentration risk in scaling the $5B FY27 Data Center target against entrenched AI-chip leaders like Nvidia and Broadcom.",
+                             "Geopolitical and regulatory exposure in China, including stricter tech export controls and antitrust scrutiny across semiconductors."
                          ],
-               "summary":  "QCOM is in a technical downtrend. It closed at $149.94, below all three EMAs and the lower Bollinger Band, with MACD negative and volume 1.5x normal. Two things drove the drop: weak FY27 profit guidance on 2026-11-04 as Apple leaves and handsets fall 26%, and a broad chip selloff on 2026-11-20. The licensing and patent moat is intact but slowly shrinking with the handset market. The thesis is moving toward cars, PCs and data-center AI, which grew strongly but has not yet replaced the core business. Thesis status: watch."
+               "summary":  "Qualcomm jumped 10.3% to $165.38 on November 23, 2026, riding a semiconductor-wide relief rally triggered by Nvidia reinstating CEO Jensen Huang rather than company-specific news. Earlier, Q4 FY26 earnings on November 4 beat estimates at $10.44B revenue and $2.17 non-GAAP EPS, yet shares slid as handset chip sales fell 26% YoY amid memory shortages and Apple\u0027s modem exit. Still, record $1.99B automotive sales (+89% YoY), a SpaceX 5G infrastructure deal, and a $5B FY27 data-center AI target show its pivot gaining traction while licensing stays locked in.",
+               "technical":  "Despite jumping 10.3% to $165.38 on November 23, 2026, Qualcomm\u0027s technical structure remains bearish. The stock sits below all three exponential moving averages (EMAs, which track trend direction): EMA 50 ($172.42), EMA 200 ($172.69), and EMA 100 ($174.24). With EMA 50 marginally below EMA 200, the $172–$174 cluster forms firm overhead resistance. Momentum is stabilizing but not yet positive. The MACD (12/26/9, a trend-momentum gauge) sits at -3.99, below its -2.98 signal line, leaving a negative -1.02 histogram. Meanwhile, RSI 14 (a 0–100 momentum oscillator where under 30 is oversold) recovered to 47.25, just under the neutral 50 mark. On volatility, price bounced off the lower Bollinger Band (20/2, a volatility envelope) at $151.03—near initial support—toward the $169.14 midline, with upper-band resistance at $187.24. At 36% below its $259.92 52-week high (low $121.99), QCOM sits in its lower third. Strong volume of 20.24M shares (32% above the 15.32M 20-day average) confirmed buying interest, though reclaiming $169–$174 is needed to shift the trend."
            },
     "th":  {
-               "headline":  "QCOM หลุดแนวรับ $151 เมื่อยอดมือถือที่ทรุดตัวมาเจอแรงเทขายหุ้นชิป",
-               "technical":  "แนวโน้มเป็นขาลง QCOM ปิดวันที่ 2026-11-20 ที่ $149.94 ต่ำกว่า EMA ทั้งสามเส้นราว 13% (EMA คือเส้นค่าเฉลี่ยราคาแบบถ่วงน้ำหนัก) ได้แก่ EMA50 $172.71, EMA100 $174.42 และ EMA200 $172.77 เส้นทั้งสามอยู่ชิดกัน และ EMA50 เพิ่งหลุดลงใต้ EMA200 เล็กน้อย บ่งชี้ว่าแนวโน้มที่เคยทรงตัวกำลังหันลง โมเมนตัมเป็นลบ MACD (ส่วนต่างระหว่าง EMA 12 วันกับ 26 วัน) อยู่ที่ -4.31 ต่ำกว่าเส้นสัญญาณที่ -2.72 และฮิสโตแกรมอยู่ที่ -1.59 RSI 14 (มาตรวัดแรงซื้อขาย 0–100 ต่ำกว่า 30 ถือว่าขายมากเกินไป) อยู่ที่ 35.1 คืออ่อนแรงแต่ยังไม่ถึงโซน oversold ราคาปิดต่ำกว่าขอบล่าง Bollinger Band ที่ $151.28 (กรอบราคาปกติรอบค่าเฉลี่ย 20 วัน) แสดงว่าแรงขายรุนแรง แต่หลังสัญญาณแบบนี้ราคามักเด้งกลับได้บางส่วน วันนั้นราคาเปิดที่ $161.32 แล้วปิดใกล้จุดต่ำสุดของวันที่ $149.13 ลดลง 7.45% วอลุ่มอยู่ที่ 22.2 ล้านหุ้น ราว 1.5 เท่าของค่าเฉลี่ย 20 วัน ยืนยันว่าแรงขายเป็นของจริง ราคาอยู่ราว 20% จากก้นกรอบ 52 สัปดาห์ ($121.99–$259.92) และต่ำกว่าจุดสูงสุด 42% แนวต้านอยู่ที่ $161–162 ถัดไปคือโซน EMA $170–175 ส่วนแนวรับที่ชัดเจนถัดไปคือจุดต่ำสุด 52 สัปดาห์ที่ $122",
-               "fundamental":  "Qualcomm ประกาศงบไตรมาส 4 ปีงบ 2026 เมื่อ 2026-11-04 รายได้ non-GAAP อยู่ที่ $10.44B ลดลง 7% จากปีก่อน และ EPS อยู่ที่ $2.17 ดีกว่าที่ตลาดคาดเล็กน้อย รายได้ชิปมือถือลดลง 26% เหลือ $5.14B เพราะ Apple หันไปใช้โมเด็มของตัวเอง และราคาหน่วยความจำที่แพงขึ้นกดยอดขายมือถือ ส่วนรายได้ยานยนต์โต 89% ทำสถิติใหม่ที่ $1.99B รายได้ค่าสิทธิบัตร (QTL) อยู่ที่ $1.30B ลดลง 7% มาร์จินก่อนภาษีของธุรกิจชิปลดลงจาก 29% เหลือ 24% แนวทางไตรมาส 1 ปีงบ 27 คือรายได้ $10.4–11.2B และ EPS non-GAAP $2.15–2.35 โดยคาดรายได้ data center เกิน $650M ทั้งนี้ประมาณการปีงบ 27 ทั้งปีตั้งสมมติฐานว่าจะไม่มีรายได้ชิปจาก Apple เลย ในห่วงโซ่ AI บริษัทกำลังย้ายฐานจากมือถือไปที่รถยนต์ PC และชิป AI inference สำหรับ data center โดยเมื่อเดือนกันยายนได้ทำดีลให้ Amazon ซื้อชิป AI สำหรับ data center ได้สูงสุด $60B คูน้ำด้านสิทธิบัตรยังอยู่ แต่ค่อยๆ หดตัวลง",
-               "news":  [
-                            "2026-11-04: งบไตรมาส 4 ปีงบ 26 ออกมาดีกว่าคาดเล็กน้อย แต่แนวโน้มกำไรอ่อนและมาร์จินธุรกิจชิปถูกบีบ หุ้นจึงร่วงราว 9.5% ในวันที่ 2026-11-05 ซีอีโอ Cristiano Amon บอกว่ารายได้นอกธุรกิจมือถือจะ \u0027ชดเชยรายได้จาก Apple ได้ทั้งหมด\u0027",
-                            "ในการประชุมนักวิเคราะห์วันที่ 2026-11-04 ผู้บริหารตั้งเป้ารายได้ data center ไตรมาสธันวาคมไว้เกิน $650M สูงกว่าที่ตลาดคาดไว้ราว $539M และยืนยันเป้ารายได้ data center ทั้งปีราว $5B",
-                            "2026-11-09: Freedom Capital Markets ลดอันดับ QCOM จาก Buy เป็น Hold และลดราคาเป้าหมายจาก $200 เหลือ $185 ส่วน Morgan Stanley ลดราคาเป้าหมายจาก $220 เหลือ $197 และคงอันดับ Equal Weight",
-                            "2026-11-18: Qualcomm จับมือกับ Cirrascale เปิดบริการคลาวด์บนแพลตฟอร์ม Dragonfly AI200 ให้ลูกค้าทดลองรันงาน AI inference ของตัวเองก่อนตัดสินใจซื้อ",
-                            "2026-11-20: หุ้นชิปถูกเทขายทั้งกลุ่ม นำโดย AMD และ Micron จากความกังวลเรื่องกฎระเบียบ มูลค่าหุ้นที่สูง และดอกเบี้ย ทำให้ Nasdaq ร่วงแรง QCOM ลดลง 7.45% ในวันนั้น และเราไม่พบข่าวเฉพาะของ Qualcomm"
+               "caution":  "ควรระมัดระวังกับการดีดตัวแรงในวันที่ 23 พ.ย. เพราะเป็นแรงซื้อตามกลุ่มชิปเป็นหลัก ขณะที่ราคายังต่ำกว่าเส้นกลาง Bollinger Bands ($169.14) และแนวต้านกลุ่ม EMA ที่ $172–$174 ด้านพื้นฐาน ชิปมือถือหดตัว 26% YoY จากการทยอยเลิกใช้โมเด็มของ Apple และต้นทุนเวเฟอร์กับหน่วยความจำที่สูงขึ้น กดดัน QCT EBT margin ลงเหลือ 20%–22% บวกค่าใช้จ่ายลงทุนดาต้าเซ็นเตอร์อีก 3% หากยอดขายคลาวด์ช้ากว่าเป้าหรือต้นทุนยืดเยื้อเกิน H1 FY27 กำไรอาจยังถูกกดดันต่อ",
+               "cons":  [
+                            "รายได้ชิปมือถือ Q4 FY26 หดตัว 26% YoY เหลือ $5.14B จากปัญหาหน่วยความจำตึงตัวและการทยอยเลิกใช้โมเด็มของ Apple",
+                            "Non-GAAP EPS ลดลง 28.3% YoY เหลือ $2.17 และคาดการณ์ QCT EBT margin งวด Q1 FY27 ลดลงมาที่ 20%–22%",
+                            "ต้นทุนเวเฟอร์ แพ็กเกจจิง และหน่วยความจำที่สูงขึ้นจะกดดันมาร์จิ้นจนกว่าการปรับราคาจะเห็นผลเต็มที่ใน H2 FY27",
+                            "Freedom Broker หั่นคำแนะนำเป็น Hold ($185) วันที่ 9 พ.ย. ขณะที่ Baird ($300) และ Susquehanna ($165) ปรับลดเป้าหมายลง"
                         ],
-               "caution":  "ภาพทางเทคนิคเป็นลบชัดเจน ราคาอยู่ใต้ EMA ทุกเส้น MACD ชี้ลง และวอลุ่มยืนยันแรงขาย พื้นฐานก็มีจุดอ่อนจริง รายได้ชิปมือถือซึ่งเป็นธุรกิจหลักลดลง 26% รายได้ชิปจาก Apple คาดว่าจะเหลือศูนย์ มาร์จินธุรกิจชิปลดลง 5 จุด และงบลงทุนเพิ่มขึ้นกว่าเท่าตัวเป็น $2.49B ทำให้กระแสเงินสดอิสระลดลง ส่วนเรื่อง data center ยังไม่สร้างรายได้ที่มีนัยสำคัญ หากแรงขายหุ้นชิปทั้งกลุ่มลากยาว แนวรับที่ชัดเจนถัดไปคือ $122",
-               "opportunity":  "หุ้นมีมูลค่าถูกและบางธุรกิจกำลังโตเร็ว P/E ย้อนหลังราว 11.8 เท่า ปันผลราว 2.45% ในปีงบ 26 บริษัทซื้อหุ้นคืนรวมกับจ่ายปันผลถึง $11.7B รายได้ยานยนต์โต 89% และเป้า data center สูงกว่าที่ตลาดคาด แรงขายวันที่ 20 พ.ย. ส่วนใหญ่มาจากทั้งกลุ่มชิป ไม่ใช่ข่าวของ Qualcomm เอง RSI ที่ 35 และราคาที่ปิดใต้ขอบล่าง Bollinger Band บ่งชี้ว่าหุ้นถูกขายหนัก ซึ่งมักตามมาด้วยการเด้งระยะสั้น บททดสอบจริงคืองบต้นเดือนกุมภาพันธ์ 2027",
+               "fundamental":  "Qualcomm กำลังอยู่ในช่วงเปลี่ยนผ่านโครงสร้างรายได้ชัดเจน งบ Q4 FY26 (ประกาศ 4 พ.ย. 2026) มีรายได้ Non-GAAP $10.44B (-7.3% YoY) และ EPS $2.17 (-28.3% YoY) เพราะชิปมือถือหดตัว 26% YoY ($5.14B) จากข้อจำกัดด้านหน่วยความจำและการทยอยถอนตัวของ Apple แต่ธุรกิจใหม่เร่งตัวแรงมาก โดยยานยนต์โต 89% YoY แตะ $1.99B และ IoT โต 4% ที่ $1.89B พร้อมคาดการณ์รายได้ Q1 FY27 ที่ $10.4B–$11.2B ซึ่งมีรายได้ดาต้าเซ็นเตอร์อย่างน้อย $650M นอกจากนี้วันที่ 17 พ.ย. ยังเปิดให้ทดสอบระบบ Dragonfly AI200 บนคลาวด์ของ Cirrascale ขณะที่ฝั่งค่าสิทธิบัตร QTL (EBT margin 72%–76%) ล็อกสัญญายาวกับ Apple, Huawei และ Transsion ถึงหลังปี 2030 แล้ว ทำให้ป้อมปราการสิทธิบัตรยังแกร่ง แต่ฝั่งชิปยังต้องจับตาการฟื้นตัวของมาร์จิ้น",
+               "headline":  "QCOM ดีดแรง 10.3% ตามกลุ่มชิป ชูเป้า AI ดาต้าเซ็นเตอร์ $5B ชดเชยตลาดมือถือซบ",
+               "news":  [
+                            "23 พ.ย. 2026: หุ้น QCOM พุ่ง 10.3% ปิด $165.38 ด้วยวอลุ่มหนาแน่น 20.24 ล้านหุ้น ตามแรงรีบาวด์ทั้งกลุ่มเซมิคอนดักเตอร์หลัง Nvidia ดึง Jensen Huang กลับมานั่งซีอีโอ ไม่ใช่ข่าวเฉพาะตัวของ Qualcomm",
+                            "17 พ.ย. 2026: Qualcomm จับมือ Cirrascale ในงาน SC26 เปิดให้ลูกค้าองค์กรทดสอบระบบ AI Inference แบบแร็ค Dragonfly AI200 ระบายความร้อนด้วยของเหลว (LPDDR 768 GB ต่อการ์ด) เน้นความประหยัดพลังงาน",
+                            "5–18 พ.ย. 2026: นักวิเคราะห์หลายแห่งปรับลดมุมมองหลังฟังคาดการณ์ Q1 FY27 โดย Freedom Broker ปรับลดเป็น Hold เป้าหมาย $185 (9 พ.ย.) ส่วน Susquehanna ลดเป้าเหลือ $165 (5 พ.ย.) และ Baird ลดเหลือ $300 (18 พ.ย.)",
+                            "4 พ.ย. 2026: Qualcomm รายงานงบ Q4 FY26 ดีกว่าคาดเล็กน้อยด้วยรายได้ Non-GAAP $10.44B (-7.3% YoY) และ EPS $2.17 (-28.3% YoY) พร้อมให้กรอบรายได้ Q1 FY27 ที่ $10.4B–$11.2B โดยมีรายได้ Data Center อย่างน้อย $650M",
+                            "4 พ.ย. 2026: SpaceX เลือกใช้แพลตฟอร์ม Dragonwing 5G ของ Qualcomm สร้างโครงข่ายสถานีฐานภาคพื้นดินให้ Starlink Mobile ทั่วสหรัฐฯ เริ่มปี 2027 นับเป็นดีลโครงสร้างพื้นฐาน 5G ที่ใหญ่ที่สุดของบริษัท"
+                        ],
+               "opportunity":  "สำหรับนักลงทุนระยะยาวในโครงสร้างพื้นฐาน AI จุดเด่นของ Qualcomm คือฐานค่าสิทธิบัตร QTL มาร์จิ้นสูงที่ล็อกสัญญาถึงหลังปี 2030 กับ Apple, Huawei และ Transsion ช่วยหล่อเลี้ยงเงินสดระหว่างขยายธุรกิจใหม่ โดยคาดว่ารายได้ชิปนอกกลุ่มมือถือในปี FY27 จะโตเกิน 60% YoY และคิดเป็นสัดส่วนเกินครึ่งของ QCT หากบริษัททำได้ตามเป้าดาต้าเซ็นเตอร์ $5B (เร่งแตะอัตราปีละ $7B ช่วงปลายปี) ควบคู่ยานยนต์ระดับ $8B ต่อปี ตลาดมีโอกาสประเมินมูลค่าใหม่สูงขึ้น",
+               "opportunityCheck":  "คะแนนโอกาส AI โดยรวมค่อนข้างสมเหตุสมผล แต่หัวข้อสัดส่วนรายได้จาก AI (AI revenue exposure) ดูประเมินต่ำเกินไปและควรขยับขึ้น เพราะตั้งแต่วันที่ 4 พ.ย. 2026 Qualcomm แยกกลุ่ม Data Center ออกมาเป็นรายได้หลักใน QCT ชัดเจน โดยคาดว่าจะทำได้ไม่ต่ำกว่า $650M ใน Q1 FY27 และย้ำเป้า $5B ในปี FY27 จากชิปคัสตอมให้ AWS และระบบ Dragonfly AI200 ส่วนหัวข้อคอขวดและอำนาจต่อรองราคาควรคงไว้ระดับต่ำต่อไป เพราะต้นทุนเวเฟอร์ แพ็กเกจจิง และหน่วยความจำที่แพงขึ้นยังบีบมาร์จิ้นตลอดครึ่งแรกของ FY27",
+               "pros":  [
+                            "ผู้บริหารย้ำเป้ารายได้ AI ดาต้าเซ็นเตอร์ปี FY27 ที่ $5B โดยเริ่มคาดการณ์ไตรมาส Q1 FY27 อย่างน้อย $650M",
+                            "รายได้ชิปยานยนต์ Q4 FY26 ทำสถิติสูงสุด $1.99B (+89% YoY) คิดเป็นอัตราสร้างรายได้ราว $8B ต่อปี",
+                            "การต่อสัญญาสิทธิบัตร QTL ระยะยาวกับ Apple, Huawei และ Transsion ช่วยล็อกรายได้มาร์จิ้นสูงราว $5.6B ต่อปีถึงหลังปี 2030",
+                            "SpaceX เลือกใช้แพลตฟอร์ม Dragonwing 5G ของ Qualcomm วันที่ 4 พ.ย. เพื่อวางโครงข่าย Starlink Mobile ทั่วสหรัฐฯ"
+                        ],
                "risks":  [
-                             "Apple เลิกใช้โมเด็มของ Qualcomm ทั้งหมด และยอดส่งสมาร์ทโฟนทั่วโลกยังซบเซาจากราคาหน่วยความจำที่แพง",
-                             "มาร์จินธุรกิจชิปลดลงต่อ หากต้นทุนเวเฟอร์ แพ็กเกจจิ้ง และหน่วยความจำไม่ผ่อนคลายภายในไตรมาสมีนาคม 2027",
-                             "ยอดขาย AI200/AI250 สำหรับ data center หรือดีลกับ Amazon เพิ่มขึ้นช้ากว่าที่บริษัทสัญญาไว้",
-                             "แรงเทขายหุ้นชิปทั้งกลุ่มที่ลาก QCOM ลงไม่ว่าข่าวของบริษัทจะเป็นอย่างไร",
-                             "รายได้ค่าสิทธิบัตร (QTL) ถูกกัดกร่อนตามตลาดมือถือที่หดตัว"
+                             "ยอดขายชิปมือถือหดตัวต่อเนื่อง (-26% YoY ใน Q4 FY26) จากการทยอยเลิกใช้โมเด็มของ Apple และอุปทานหน่วยความจำที่ตึงตัว",
+                             "มาร์จิ้นกลุ่มชิป QCT (คาดการณ์ EBT margin 20%–22%) อาจถูกกดดันนานกว่าคาด หากต้นทุนเวเฟอร์และหน่วยความจำพุ่งเกินการปรับราคาใน H2 FY27",
+                             "ความเสี่ยงด้านการส่งมอบและการพึ่งพาลูกค้ารายใหญ่ในการผลักดันเป้ารายได้ Data Center $5B ท่ามกลางคู่แข่งแกร่งอย่าง Nvidia และ Broadcom",
+                             "ความเสี่ยงภูมิรัฐศาสตร์และกฎระเบียบในจีน ทั้งมาตรการควบคุมการส่งออกเทคโนโลยีและการตรวจสอบการผูกขาดในอุตสาหกรรมชิป"
                          ],
-               "summary":  "QCOM อยู่ในขาลงทางเทคนิค ราคาปิดที่ $149.94 ต่ำกว่า EMA ทั้งสามเส้นและขอบล่าง Bollinger Band MACD เป็นลบ และวอลุ่มสูงกว่าปกติ 1.5 เท่า แรงกดดันมีสองส่วน ส่วนแรกคือแนวโน้มกำไรปีงบ 27 ที่อ่อนตั้งแต่ 2026-11-04 เพราะ Apple ถอนตัวและรายได้มือถือลดลง 26% ส่วนที่สองคือแรงขายหุ้นชิปทั้งกลุ่มเมื่อ 2026-11-20 คูน้ำด้านสิทธิบัตรยังอยู่แต่หดลงตามตลาดมือถือ ธีสิสกำลังย้ายไปพึ่งรถยนต์ PC และ AI ใน data center ซึ่งโตดีแต่ยังทดแทนธุรกิจหลักไม่ได้ สถานะธีสิส: ต้องจับตา (watch)"
+               "summary":  "หุ้น Qualcomm พุ่ง 10.3% มาปิดที่ $165.38 เมื่อวันที่ 23 พ.ย. 2026 ตามแรงดีดกลับของกลุ่มเซมิคอนดักเตอร์หลังข่าว Nvidia ดึงซีอีโอ Jensen Huang กลับมา มากกว่าจะเป็นข่าวเฉพาะตัวของบริษัท ก่อนหน้านี้ งบ Q4 FY26 วันที่ 4 พ.ย. ออกมาดีกว่าคาดที่รายได้ $10.44B และ Non-GAAP EPS $2.17 แต่หุ้นถูกเทขายเพราะรายได้ชิปมือถือร่วง 26% YoY จากปัญหาหน่วยความจำขาดแคลนและการทยอยเลิกใช้โมเด็มของ Apple อย่างไรก็ดี รายได้ยานยนต์ทำสถิติ $1.99B (+89% YoY) ดีล 5G กับ SpaceX และเป้าดาต้าเซ็นเตอร์ $5B ในปี FY27 สะท้อนการเปลี่ยนผ่านที่เริ่มเห็นผล ขณะที่ธุรกิจสิทธิบัตรยังมั่นคง",
+               "technical":  "แม้ราคาจะพุ่ง 10.3% มาปิด $165.38 ในวันที่ 23 พ.ย. 2026 แต่ภาพรวมทางเทคนิคของ QCOM ยังเป็นขาลง (bearish) ราคาปิดยังอยู่ใต้เส้นค่าเฉลี่ยเคลื่อนที่ EMA (ตัววัดทิศทางแนวโน้ม) ทั้งสามเส้น ได้แก่ EMA 50 ($172.42), EMA 200 ($172.69) และ EMA 100 ($174.24) โดย EMA 50 ตัดลงต่ำกว่า EMA 200 เล็กน้อย ทำให้โซน $172–$174 เป็นแนวต้านหนาแน่น ด้านโมเมนตัมเริ่มทรงตัวแต่ยังไม่พลิกเป็นบวก โดย MACD 12/26/9 (ตัววัดแรงส่งของแนวโน้ม) อยู่ที่ -3.99 ต่ำกว่าเส้นสัญญาณ -2.98 และมีค่าฮิสโทแกรมติดลบ -1.02 ขณะที่ RSI 14 (มาตรวัดแรงซื้อขายช่วง 0–100 หากต่ำกว่า 30 คือขายมากเกินไป) ฟื้นขึ้นมาที่ 47.25 ใกล้ระดับกลางที่ 50 ส่วนกรอบความผันผวน Bollinger Bands 20/2 ราคาดีดจากใกล้ขอบล่าง $151.03 (แนวรับแรก) ขึ้นหาเส้นกลาง $169.14 โดยมีขอบบนที่ $187.24 และราคายังต่ำกว่าจุดสูงสุดรอบ 52 สัปดาห์ ($259.92) อยู่ 36% (ต่ำสุด $121.99) ทั้งนี้ วอลุ่มซื้อขาย 20.24 ล้านหุ้น (สูงกว่าค่าเฉลี่ย 20 วันที่ 15.32 ล้านหุ้นราว 32%) ยืนยันแรงซื้อระยะสั้น แต่ต้องทะลุโซน $169–$174 ให้ได้ก่อนจึงจะเริ่มเปลี่ยนแนวโน้ม"
            },
     "sources":  [
                     {
-                        "title":  "QUALCOMM INC/DE - Form 8-K Exhibit 99.1 (Q4 FY2026 results)",
-                        "publisher":  "SEC EDGAR",
-                        "url":  "https://www.sec.gov/Archives/edgar/data/0000804328/000080432826000127/qcom092726erex991.htm",
-                        "date":  "2026-11-04"
+                        "date":  "2026-11-04",
+                        "publisher":  "Qualcomm",
+                        "title":  "Qualcomm Announces Fourth Quarter and Fiscal 2026 Results",
+                        "url":  "https://investor.qualcomm.com/news-events/press-releases/press-release-details/2026/Qualcomm-Announces-Fourth-Quarter-and-Fiscal-2026-Results/default.aspx"
                     },
                     {
-                        "title":  "Qualcomm\u0027s (NASDAQ: QCOM) Chip Margins Crater As Auto Revenue Sets Record And Amazon Deal Anchors Data Center Push",
-                        "publisher":  "Foreign Policy Journal",
-                        "url":  "https://www.foreignpolicyjournal.com/2026/11/15/qualcomms-nasdaq-qcom-chip-margins-crater-as-auto-revenue-sets-record-and-amazon-deal-anchors-data-center-push/",
-                        "date":  "2026-11-15"
+                        "date":  "2026-11-04",
+                        "publisher":  "Fortune",
+                        "title":  "Qualcomm Q4 2026 Earnings Call Transcript",
+                        "url":  "https://fortune.com/2026/11/04/qualcomm-q4-2026-earnings-call-transcript/"
                     },
                     {
-                        "title":  "QUALCOMM (QCOM) Q4 2026 Earnings Call Transcript",
-                        "publisher":  "StockAnalysis",
-                        "url":  "https://stockanalysis.com/stocks/qcom/transcripts/718644-q4-2026/",
-                        "date":  "2026-11-04"
+                        "date":  "2026-11-04",
+                        "publisher":  "Qualcomm",
+                        "title":  "SpaceX Selects Qualcomm to Accelerate Starlink Mobile\u0027s Nationwide 5G Network",
+                        "url":  "https://www.qualcomm.com/news/releases/2026/11/spaceX-selects-qualcomm-to-accelerate-starlink-mobiles-nationwide-5g-network"
                     },
                     {
-                        "title":  "QUALCOMM (QCOM) Stock Price \u0026 Overview",
-                        "publisher":  "StockAnalysis",
-                        "url":  "https://stockanalysis.com/stocks/qcom/",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-17",
+                        "publisher":  "Qualcomm",
+                        "title":  "Qualcomm and Cirrascale Collaborate to Advance Next-Generation, Energy-Efficient AI Inference",
+                        "url":  "https://www.qualcomm.com/news/releases/2026/11/qualcomm-and-cirrascale-collaborate-to-advance-next-generation-energy-efficient-ai-inference"
                     },
                     {
-                        "title":  "Is Freedom Capital Markets Wrong to Give Up on Qualcomm? Wall Street Still Sees $185",
-                        "publisher":  "TIKR",
-                        "url":  "https://www.tikr.com/blog/is-freedom-capital-markets-wrong-to-give-up-on-qualcomm-wall-street-still-sees-185"
+                        "date":  "2026-11-09",
+                        "publisher":  "TradingView / Benzinga",
+                        "title":  "Freedom Broker Downgrades Qualcomm to Hold From Buy, Lowers Price Target to $185 From $200",
+                        "url":  "https://www.tradingview.com/news/benzinga:429532883:0-freedom-broker-downgrades-qualcomm-to-hold-from-buy-lowers-price-target-to-185-from-200/"
                     },
                     {
-                        "title":  "Can Qualcomm\u0027s Deal With Cirrascale Boost its AI Growth Prospects?",
-                        "publisher":  "Yahoo Finance",
-                        "url":  "https://finance.yahoo.com/technology/ai/articles/qualcomms-deal-cirrascale-boost-ai-143000776.html"
+                        "date":  "2026-10-15",
+                        "publisher":  "Qualcomm",
+                        "title":  "Qualcomm Announces Long-Term Patent Cross-License Agreement with Transsion",
+                        "url":  "https://www.qualcomm.com/news/releases/2026/10/qualcomm-announces-long-term-patent-cross-license-agreement-with-transsion"
                     },
                     {
-                        "title":  "Stock Market Midday, Nov. 20: Nasdaq Plunges Nearly 3% as AMD and Micron Lead a Brutal Semiconductor Sell-Off",
-                        "publisher":  "The Motley Fool",
-                        "url":  "https://www.fool.com/coverage/stock-market-today/2026/11/20/stock-market-midday-nov-20-nasdaq-plunges-nearly-3-as-amd-and-micron-lead-a-brutal-semiconductor-sell-off/",
-                        "date":  "2026-11-20"
+                        "date":  "2026-11-18",
+                        "publisher":  "MarketBeat",
+                        "title":  "QUALCOMM (QCOM) Stock Price, News \u0026 Analysis",
+                        "url":  "https://www.marketbeat.com/stocks/NASDAQ/QCOM/"
                     }
                 ]
 }

@@ -5,33 +5,33 @@
     "model":  "claude-opus-5-5",
     "effort":  "max",
     "account":  "Claude",
-    "generatedAt":  "2026-11-23T04:51:49Z",
-    "costUsd":  1.3371868,
+    "generatedAt":  "2026-11-24T05:16:06Z",
+    "costUsd":  0.9212685,
     "stocks":  {
                    "ANT":  {
                                "m":  [
                                          16,
-                                         10,
+                                         9,
                                          12,
                                          13,
-                                         4
+                                         5
                                      ],
                                "o":  [
                                          20,
-                                         18,
+                                         19,
                                          17,
                                          12,
-                                         14
+                                         16
                                      ],
-                               "why_en":  "Pure-play frontier-model leader with top enterprise and coding share and hypergrowth revenue, but model leads are thin, switching costs modest, and there is no record of sustained profit.",
-                               "why_th":  "เป็นผู้นำโมเดล AI แนวหน้าที่ทำธุรกิจ AI ล้วน ครองส่วนแบ่งลูกค้าองค์กรและงานเขียนโค้ดสูงสุด รายได้โตก้าวกระโดด แต่ความเหนือกว่าด้านโมเดลยังห่างคู่แข่งไม่มาก ลูกค้าย้ายค่ายได้ไม่ยาก และยังไม่มีประวัติกำไรต่อเนื่อง"
+                               "why_en":  "Pure-play frontier lab leading enterprise API spend and AI coding (TTM revenue $35.3B) earns top-tier opportunity; low switching costs and a short, loss-making record keep moat moderate.",
+                               "why_th":  "เป็นบริษัทโมเดล AI แนวหน้าโดยตรงที่นำตลาด API ระดับองค์กรและ AI เขียนโค้ด (รายได้ TTM 3.53 หมื่นล้านดอลลาร์) จึงมีโอกาสจาก AI สูงมาก แต่ต้นทุนการย้ายผู้ให้บริการต่ำและประวัติสั้นที่ยังขาดทุนทำให้คูเมืองอยู่ระดับปานกลาง"
                            },
                    "SPCX":  {
                                 "m":  [
                                           18,
                                           11,
-                                          12,
-                                          19,
+                                          11,
+                                          18,
                                           10
                                       ],
                                 "o":  [
@@ -39,10 +39,10 @@
                                           17,
                                           12,
                                           11,
-                                          15
+                                          14
                                       ],
-                                "why_en":  "Reusable launch and Starlink give world-class scale and technology moats; AI is half of latest-quarter revenue via compute rental and Cursor, but Grok\u0027s usage is small and returns thin.",
-                                "why_th":  "จรวดใช้ซ้ำและ Starlink ให้ความได้เปรียบด้านขนาดและเทคโนโลยีระดับโลก รายได้ AI คิดเป็นครึ่งหนึ่งของไตรมาสล่าสุดจากการให้เช่าคอมพิวต์และ Cursor แต่ฐานผู้ใช้ Grok ยังเล็กและผลตอบแทนต่อทุนยังต่ำ"
+                                "why_en":  "Unmatched reusable-launch and Starlink scale give a strong moat despite thin consolidated returns; AI is half of quarterly revenue, but mostly cancellable compute leasing and sub-frontier Grok.",
+                                "why_th":  "ความได้เปรียบด้านจรวดใช้ซ้ำและขนาดเครือข่าย Starlink ที่คู่แข่งตามไม่ทัน สร้างคูเมืองที่แข็งแกร่งแม้ผลตอบแทนทั้งกลุ่มยังต่ำ ส่วน AI คิดเป็นครึ่งหนึ่งของรายได้รายไตรมาส แต่ส่วนใหญ่เป็นการให้เช่าพลังประมวลผลที่ยกเลิกได้ และ Grok ยังตามหลังโมเดลแนวหน้า"
                             }
                }
 }
